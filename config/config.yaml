@@ -1,0 +1,18 @@
+# CourtListener pipeline: clusters (case law) or recap. Token: COURTLISTENER_API_TOKEN or token_file.
+courtlistener:
+  source: clusters
+  include_opinion_text: true
+  # api_token: "your_token"
+  # token_file: ".courtlistener_token"
+  nature_of_suit: "442"
+  query: employment
+  filed_before: null
+  filed_after: null
+  district_only: true
+  description_contains: null
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  outputs_dir: data/outputs
+  courtlistener_output_file: data/processed/courtlistener_recap.jsonl
