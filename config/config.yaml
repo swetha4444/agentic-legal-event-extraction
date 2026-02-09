@@ -1,7 +1,5 @@
-# CourtListener pipeline: clusters (case law) or recap. Token: COURTLISTENER_API_TOKEN or token_file.
+# CourtListener pipeline: hybrid only (RECAP + cluster opinion). Token: COURTLISTENER_API_TOKEN or token_file.
 courtlistener:
-  source: clusters
-  include_opinion_text: true
   # api_token: "your_token"
   # token_file: ".courtlistener_token"
   nature_of_suit: "442"

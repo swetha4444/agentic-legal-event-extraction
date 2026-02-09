@@ -10,26 +10,12 @@ salloc -p gpu-preempt -G 1 -c 14 --mem=30GB -t 04:00:00
 
 
 
-# ---- Data pipeline (CourtListener) ----
+# ---- Data pipeline (CourtListener, cluster-first) ----
 # Token: export COURTLISTENER_API_TOKEN=your_token or put in .courtlistener_token (script loads it).
 export COURTLISTENER_API_TOKEN=your_token
 # Or: echo "your_token" > .courtlistener_token
 
-python -m src.run_courtlistener_pipeline --config config/config.yaml
-./scripts/run_courtlistener_pipeline.sh --config config/config.yaml
-
-# Limit records:
-./scripts/run_courtlistener_pipeline.sh --max-cases 100 --out data/processed/courtlistener_recap.jsonl
-
-# Without opinion text (metadata only, faster): --no-opinion-text
-
-# RECAP search instead of clusters (may require subscription): --source recap
-./scripts/run_courtlistener_pipeline.sh --source recap --max-cases 100 --nature-of-suit 442 --query employment
-
-# Output: data/processed/courtlistener_recap.jsonl (or paths.courtlistener_output_file / --out)
-
-
+# Optional: --nature-of-suit 442
+# Only cases with court opinion; parties/docket metadata fetched by docket_id. Fields: case_id, cluster_id, docket_id, parties, document_text (opinion), etc.
 
 # ---- Data sources (see docs/DATA_SOURCES.md) ----
-# CourtListener: clusters API (case law + opinion text) or RECAP search (dockets/complaints).
-# Example RECAP search: https://www.courtlistener.com/?q=employment&type=r&nature_of_suit=442&filed_before=2022-09-05
