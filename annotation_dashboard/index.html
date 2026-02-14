@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fact/Non-Fact Annotation Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg">
+      <div class="grid"></div>
+      <div class="orb orb-1"></div>
+      <div class="orb orb-2"></div>
+      <div class="orb orb-3"></div>
+    </div>
+
+    <div class="app">
+      <header class="topbar">
+        <div class="brand">
+          <div class="logo">A</div>
+          <div>
+            <div class="title">Annotation Deck</div>
+            <div class="subtitle">Fact vs Non-Fact Lab</div>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <div class="user-chip" id="userChip">Not signed in</div>
+          <button class="ghost" id="loginBtn" title="Sign in with GitHub">
+            Sign in with GitHub
+          </button>
+          <button class="ghost" id="logoutBtn" title="Sign out" hidden>
+            Sign out
+          </button>
+          <span class="pill" id="statusPill">Idle</span>
+          <button class="ghost" id="resetApp" title="Clear current session">
+            Reset
+          </button>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="page active" id="page-upload">
+          <div class="card hero">
+            <div class="hero-copy">
+              <h1>Upload a dataset and build a clean annotation trail.</h1>
+              <p>
+                Bring a CSV (or JSONL) containing sentences. We will infer columns, then
+                guide you through fact vs non-fact labeling with autosave and export.
+              </p>
+              <div class="meta-row">
+                <div class="meta-chip">No backend required</div>
+                <div class="meta-chip">Local autosave</div>
+                <div class="meta-chip">Export CSV/JSON</div>
+              </div>
+            </div>
+            <div class="hero-panel">
+              <label class="upload" id="uploadZone" aria-label="Upload dataset">
+                <input
+                  type="file"
+                  id="fileInput"
+                  accept=".csv,.jsonl,.json,text/csv,application/json"
+                />
+                <div class="upload-inner">
+                  <div class="upload-title">Drop CSV/JSONL here</div>
+                  <div class="upload-sub">or click to browse files</div>
+                </div>
+              </label>
+              <div class="upload-info" id="uploadInfo">No file selected</div>
+
+              <div class="form-row">
+                <div class="form-field">
+                  <label for="delimiter">Delimiter</label>
+                  <select id="delimiter">
+                    <option value="auto" selected>Auto detect</option>
+                    <option value=",">Comma (,)</option>
+                    <option value="\t">Tab (\t)</option>
+                    <option value=";">Semicolon (;)</option>
+                    <option value="|">Pipe (|)</option>
+                  </select>
+                </div>
+                <div class="form-field">
+                  <label for="headerToggle">Header row</label>
+                  <select id="headerToggle">
+                    <option value="yes" selected>First row is header</option>
+                    <option value="no">First row is data</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="form-row">
+                <div class="form-field">
+                  <label for="textColumn">Text column</label>
+                  <select id="textColumn" disabled>
+                    <option>Upload a file first</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-field inline-field">
+                  <label for="splitSentences">Sentence mode</label>
+                  <div class="inline-controls">
+                    <label class="switch">
+                      <input type="checkbox" id="splitSentences" checked />
+                      <span class="slider"></span>
+                    </label>
+                    <span>Split into sentences (recommended)</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="actions">
+                <button id="startBtn" class="primary" disabled>Continue to annotation</button>
+                <button id="resumeBtn" class="ghost" disabled>Resume saved progress</button>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="page" id="page-annotate">
+          <div class="grid-layout">
+            <aside class="panel">
+              <div class="panel-section">
+                <div class="panel-title">Progress</div>
+                <div class="progress-ring">
+                  <svg viewBox="0 0 120 120">
+                    <circle class="ring-track" cx="60" cy="60" r="52" />
+                    <circle class="ring-progress" cx="60" cy="60" r="52" />
+                  </svg>
+                  <div class="ring-label" id="progressPercent">0%</div>
+                </div>
+                <div class="stat-row">
+                  <div>
+                    <div class="stat-value" id="progressCount">0 / 0</div>
+                    <div class="stat-label">Annotated</div>
+                  </div>
+                  <div>
+                    <div class="stat-value" id="remainingCount">0</div>
+                    <div class="stat-label">Remaining</div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="panel-section">
+                <div class="panel-title">Session</div>
+                <div class="session-meta" id="sessionMeta">No dataset loaded</div>
+                <div class="toggle-row">
+                  <label class="switch">
+                    <input type="checkbox" id="autoAdvance" checked />
+                    <span class="slider"></span>
+                  </label>
+                  <span>Auto-advance</span>
+                </div>
+                <div class="toggle-row">
+                  <label class="switch">
+                    <input type="checkbox" id="includeUnlabeled" />
+                    <span class="slider"></span>
+                  </label>
+                  <span>Include unlabeled on export</span>
+                </div>
+              </div>
+
+              <div class="panel-section">
+                <div class="panel-title">Actions</div>
+                <div class="actions vertical">
+                  <button class="primary" id="saveBtn">Save progress</button>
+                  <button class="ghost" id="exportJson">Export JSON</button>
+                  <button class="ghost" id="exportCsv">Export CSV</button>
+                  <button class="ghost" id="backBtn">Back to upload</button>
+                </div>
+                <div class="hint" id="saveHint">Autosave enabled</div>
+              </div>
+            </aside>
+
+            <section class="workbench">
+              <div class="card sentence-card">
+                <div class="sentence-meta">
+                  <span id="sentenceIndex">1 / 1</span>
+                  <span class="chip" id="currentLabel">Unlabeled</span>
+                </div>
+                <div class="sentence-text" id="sentenceText">
+                  Upload a dataset to begin.
+                </div>
+                <div class="sentence-controls">
+                  <button class="ghost" id="prevBtn">Previous</button>
+                  <button class="primary" id="factBtn">Fact (F)</button>
+                  <button class="primary alt" id="nonFactBtn">Non-Fact (N)</button>
+                  <button class="ghost" id="nextBtn">Next</button>
+                </div>
+                <div class="shortcut-row">
+                  Shortcuts: <span>F</span> Fact, <span>N</span> Non-Fact, <span>&larr;</span>
+                  Prev, <span>&rarr;</span> Next
+                </div>
+              </div>
+
+              <div class="card list-card">
+                <div class="list-header">
+                  <div>Queue</div>
+                  <div id="queueMeta">0 items</div>
+                </div>
+                <div class="queue" id="queueList"></div>
+              </div>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
