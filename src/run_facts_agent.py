@@ -67,14 +67,10 @@ def main():
             except BudgetExceededError as e:
                 print(f"Budget exceeded: {e}")
                 break
-            out = {
-                "case_id": rec.get("case_id"),
-                "docket_id": rec.get("docket_id"),
-                "case_name": rec.get("case_name"),
-                "docket_number": rec.get("docket_number"),
-                "extracted_facts": facts,
-            }
-            f_out.write(json.dumps(out) + "\n")
+            # Same record shape as input (courtlistener_recap.jsonl), but document_text → extracted_facts
+            out = {k: v for k, v in rec.items() if k != "document_text"}
+            out["extracted_facts"] = facts
+            f_out.write(json.dumps(out, default=str) + "\n")
             count += 1
             if count % 10 == 0:
                 print(f"Processed {count} cases...")
