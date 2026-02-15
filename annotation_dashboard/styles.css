@@ -103,10 +103,12 @@ body.annotate-mode {
 }
 
 .app.annotate-mode {
-  height: 100vh;
+  height: 100dvh;
+  max-height: 100dvh;
   padding: 20px 24px 16px;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 .topbar {
@@ -357,6 +359,13 @@ body.annotate-mode {
   gap: 12px;
 }
 
+.saved-item-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
 .saved-item-main {
   min-width: 0;
   text-align: center;
@@ -540,10 +549,12 @@ button:disabled {
 }
 
 .panel {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: auto auto minmax(0, 1fr);
   gap: 10px;
   height: 100%;
+  min-height: 0;
+  overflow: hidden;
 }
 
 .panel-section {
@@ -681,10 +692,12 @@ button:disabled {
 }
 
 .workbench {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto auto;
   gap: 14px;
   height: 100%;
+  min-height: 0;
+  overflow: hidden;
 }
 
 .sentence-card {
@@ -706,7 +719,9 @@ button:disabled {
 .sentence-text {
   font-size: 22px;
   line-height: 1.6;
-  min-height: 140px;
+  min-height: 0;
+  flex: 1 1 auto;
+  overflow: auto;
 }
 
 .chip {
@@ -740,6 +755,11 @@ button:disabled {
 
 .list-card {
   padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+  max-height: 230px;
 }
 
 .list-header {
@@ -751,12 +771,13 @@ button:disabled {
 }
 
 .queue {
-  max-height: 140px;
+  max-height: none;
   overflow-y: auto;
   padding: 10px 16px 16px;
   display: flex;
   flex-direction: column;
   gap: 10px;
+  min-height: 0;
 }
 
 .action-row-card {
@@ -765,6 +786,7 @@ button:disabled {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 .action-row {
@@ -840,6 +862,12 @@ button:disabled {
   .grid-layout {
     grid-template-columns: 1fr;
     height: auto;
+  }
+
+  .panel,
+  .workbench {
+    display: flex;
+    flex-direction: column;
   }
 
   .queue {

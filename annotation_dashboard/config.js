@@ -4,4 +4,7 @@ window.APP_CONFIG = {
   SUPABASE_ANON_KEY:
     "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVpdGhpYXdoaHdwdnhtYnNnbWJuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzEwOTM1MTcsImV4cCI6MjA4NjY2OTUxN30.FFHFssr-UsRxJdrPFt3TGhrNS3dPo1Watj9pseSrVRk",
   OAUTH_PROVIDER: "github",
+  // Delete button is shown only for these admins.
+  ADMIN_EMAILS: [],
+  ADMIN_USER_IDS: [],
 };

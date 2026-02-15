@@ -68,6 +68,7 @@ const state = {
   savedDatasets: [],
   profileMap: {},
   activity: [],
+  isAdmin: false,
 };
 
 const cloud = {
@@ -82,6 +83,12 @@ const config = window.APP_CONFIG || {};
 const oauthProvider = (config.OAUTH_PROVIDER || "github").toLowerCase();
 const oauthProviderLabel =
   oauthProvider.charAt(0).toUpperCase() + oauthProvider.slice(1);
+const adminEmails = Array.isArray(config.ADMIN_EMAILS)
+  ? config.ADMIN_EMAILS.map((email) => String(email).toLowerCase())
+  : [];
+const adminUserIds = Array.isArray(config.ADMIN_USER_IDS)
+  ? config.ADMIN_USER_IDS.map((id) => String(id))
+  : [];
 const hasSupabase =
   window.supabase && config.SUPABASE_URL && config.SUPABASE_ANON_KEY;
 const supabaseClient = hasSupabase
@@ -131,6 +138,13 @@ function getInitialsFromIdentity(email, fullName) {
   }
 
   return "NA";
+}
+
+function isAdminUser(user) {
+  if (!user) return false;
+  const email = String(user.email || "").toLowerCase();
+  const userId = String(user.id || "");
+  return adminEmails.includes(email) || adminUserIds.includes(userId);
 }
 
 function formatDateTime(isoString) {
@@ -267,7 +281,14 @@ function renderSavedDatasets() {
             <div class="saved-item-progress">${dataset.annotatedSentences}/${dataset.totalSentences} annotated (${progress}%)</div>
             <div class="saved-item-progress">Contributors: <span class="initials-row">${contributorChips}</span></div>
           </div>
-          <button class="ghost open-saved-btn" data-dataset-id="${dataset.id}">Open</button>
+          <div class="saved-item-actions">
+            <button class="ghost open-saved-btn" data-dataset-id="${dataset.id}">Open</button>
+            ${
+              state.isAdmin
+                ? `<button class="ghost delete-saved-btn" data-dataset-id="${dataset.id}">Delete</button>`
+                : ""
+            }
+          </div>
         </div>
       `;
     })
@@ -292,6 +313,7 @@ function setUser(user) {
     loginBtn.hidden = true;
     logoutBtn.hidden = false;
     cloud.enabled = true;
+    state.isAdmin = isAdminUser(user);
     if (pageAuth.classList.contains("active")) {
       showPage(pageUpload);
     }
@@ -304,12 +326,54 @@ function setUser(user) {
     loginBtn.hidden = false;
     logoutBtn.hidden = true;
     cloud.enabled = false;
+    state.isAdmin = false;
     state.savedDatasets = [];
     state.activity = [];
     renderSavedDatasets();
     renderActivityTimeline();
     showPage(pageAuth);
   }
+}
+
+async function deleteDatasetFromCloud(datasetId) {
+  if (!supabaseClient || !cloud.user || !state.isAdmin) return;
+
+  const shouldDelete = window.confirm(
+    "Delete this dataset and all related annotations? This cannot be undone."
+  );
+  if (!shouldDelete) return;
+
+  setStatus("Deleting dataset", "active");
+  const { error } = await supabaseClient
+    .from("datasets")
+    .delete()
+    .eq("id", datasetId);
+
+  if (error) {
+    console.error(error);
+    setStatus("Delete failed", "warn");
+    return;
+  }
+
+  if (cloud.datasetId === datasetId) {
+    clearProgress();
+    state.items = [];
+    state.rawRows = [];
+    state.headers = [];
+    state.rawText = "";
+    state.fileName = null;
+    state.fileHash = null;
+    state.storageKey = null;
+    cloud.datasetId = null;
+    cloud.datasetReady = false;
+    cloud.sentencesSynced = false;
+    sessionMeta.textContent = "No dataset loaded";
+    showPage(pageUpload);
+    render();
+  }
+
+  await loadSavedDatasets();
+  setStatus("Dataset deleted", "ready");
 }
 
 async function syncCloudAfterLogin() {
@@ -1380,11 +1444,20 @@ refreshSavedBtn.addEventListener("click", () => {
   loadSavedDatasets();
 });
 savedDatasetList.addEventListener("click", (event) => {
-  const button = event.target.closest(".open-saved-btn");
-  if (!button) return;
-  const datasetId = button.dataset.datasetId;
-  if (!datasetId) return;
-  openDatasetFromCloud(datasetId);
+  const openButton = event.target.closest(".open-saved-btn");
+  if (openButton) {
+    const datasetId = openButton.dataset.datasetId;
+    if (!datasetId) return;
+    openDatasetFromCloud(datasetId);
+    return;
+  }
+
+  const deleteButton = event.target.closest(".delete-saved-btn");
+  if (deleteButton) {
+    const datasetId = deleteButton.dataset.datasetId;
+    if (!datasetId) return;
+    deleteDatasetFromCloud(datasetId);
+  }
 });
 
 resetApp.addEventListener("click", () => {
