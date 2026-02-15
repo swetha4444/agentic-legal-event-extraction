@@ -33,7 +33,6 @@ const queueMeta = document.getElementById("queueMeta");
 const ringProgress = document.querySelector(".ring-progress");
 
 const autoAdvanceToggle = document.getElementById("autoAdvance");
-const includeUnlabeledToggle = document.getElementById("includeUnlabeled");
 
 const prevBtn = document.getElementById("prevBtn");
 const nextBtn = document.getElementById("nextBtn");
@@ -41,7 +40,6 @@ const factBtn = document.getElementById("factBtn");
 const nonFactBtn = document.getElementById("nonFactBtn");
 const saveBtn = document.getElementById("saveBtn");
 const exportJson = document.getElementById("exportJson");
-const exportCsv = document.getElementById("exportCsv");
 const backBtn = document.getElementById("backBtn");
 const saveHint = document.getElementById("saveHint");
 const activityList = document.getElementById("activityList");
@@ -705,47 +703,59 @@ function prevSentence() {
   render();
 }
 
-function exportData(type) {
-  const includeUnlabeled = includeUnlabeledToggle.checked;
-  const rows = state.items
-    .filter((item) => includeUnlabeled || getEffectiveLabel(item.id))
-    .map((item) => ({
-      ...item.data,
-      label: getEffectiveLabel(item.id) || "",
-    }));
+function buildStructuredExport() {
+  const documentsBySource = new Map();
 
-  if (type === "json") {
-    const blob = new Blob([JSON.stringify(rows, null, 2)], {
-      type: "application/json",
+  state.items.forEach((item) => {
+    const sourceRow = Number(item.data?.source_row ?? item.id);
+    if (!documentsBySource.has(sourceRow)) {
+      documentsBySource.set(sourceRow, {
+        source_row: sourceRow,
+        fact_sentences: [],
+        non_fact_sentences: [],
+      });
+    }
+
+    const label = getEffectiveLabel(item.id);
+    const text = String(item.text || "").trim();
+    if (!text) return;
+
+    if (label === "fact") {
+      documentsBySource.get(sourceRow).fact_sentences.push(text);
+    } else if (label === "non-fact") {
+      documentsBySource.get(sourceRow).non_fact_sentences.push(text);
+    }
+  });
+
+  const documents = [...documentsBySource.keys()]
+    .sort((a, b) => a - b)
+    .map((sourceRow) => {
+      const grouped = documentsBySource.get(sourceRow);
+      return {
+        source_row: grouped.source_row,
+        fact: grouped.fact_sentences.join(" ").trim(),
+        non_fact: grouped.non_fact_sentences.join(" ").trim(),
+      };
     });
-    downloadBlob(blob, `annotations_${state.fileHash}.json`);
-    return;
-  }
 
-  const headers = [...state.headers, "label"];
-  const csv = toCSV(headers, rows, ",");
-  const blob = new Blob([csv], { type: "text/csv" });
-  downloadBlob(blob, `annotations_${state.fileHash}.csv`);
+  return {
+    dataset: {
+      file_name: state.fileName,
+      file_hash: state.fileHash,
+      text_column: state.textColumn,
+      sentence_mode: state.sentenceMode,
+      exported_at: new Date().toISOString(),
+    },
+    documents,
+  };
 }
 
-function toCSV(headers, rows, delimiter) {
-  const escape = (value) => {
-    const stringValue = value === undefined || value === null ? "" : String(value);
-    const needsQuote =
-      stringValue.includes('"') ||
-      stringValue.includes("\n") ||
-      stringValue.includes(delimiter);
-    if (!needsQuote) return stringValue;
-    return `"${stringValue.replace(/"/g, '""')}"`;
-  };
-
-  const lines = [];
-  lines.push(headers.map(escape).join(delimiter));
-  rows.forEach((row) => {
-    const line = headers.map((header) => escape(row[header] ?? "")).join(delimiter);
-    lines.push(line);
+function exportData() {
+  const payload = buildStructuredExport();
+  const blob = new Blob([JSON.stringify(payload, null, 2)], {
+    type: "application/json",
   });
-  return lines.join("\n");
+  downloadBlob(blob, `annotations_${state.fileHash}.json`);
 }
 
 function downloadBlob(blob, filename) {
@@ -1337,8 +1347,7 @@ saveBtn.addEventListener("click", () => {
   persistProgress();
 });
 
-exportJson.addEventListener("click", () => exportData("json"));
-exportCsv.addEventListener("click", () => exportData("csv"));
+exportJson.addEventListener("click", () => exportData());
 backBtn.addEventListener("click", () => {
   showPage(cloud.user ? pageUpload : pageAuth);
   setStatus("Ready", "ready");

@@ -3,7 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Fact/Non-Fact Annotation Dashboard</title>
+    <title>Legal Annotation Dashboard</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -23,10 +24,10 @@
     <div class="app">
       <header class="topbar">
         <div class="brand">
-          <div class="logo">A</div>
+          <div class="logo">L</div>
           <div>
-            <div class="title">Annotation Deck</div>
-            <div class="subtitle">Fact vs Non-Fact Lab</div>
+            <div class="title">Legal Annotation Dashboard</div>
+            <div class="subtitle">Case Sentence Labeling</div>
           </div>
         </div>
         <div class="topbar-actions">
@@ -79,9 +80,9 @@
                 guide you through fact vs non-fact labeling with autosave and export.
               </p>
               <div class="meta-row">
-                <div class="meta-chip">No backend required</div>
+                <div class="meta-chip">Cloud synced</div>
                 <div class="meta-chip">Local autosave</div>
-                <div class="meta-chip">Export CSV/JSON</div>
+                <div class="meta-chip">Structured JSON export</div>
               </div>
             </div>
             <div class="hero-panel">
@@ -181,24 +182,6 @@
                   </label>
                   <span>Auto-advance</span>
                 </div>
-                <div class="toggle-row">
-                  <label class="switch">
-                    <input type="checkbox" id="includeUnlabeled" />
-                    <span class="slider"></span>
-                  </label>
-                  <span>Include unlabeled on export</span>
-                </div>
-              </div>
-
-              <div class="panel-section">
-                <div class="panel-title">Actions</div>
-                <div class="actions vertical">
-                  <button class="primary" id="saveBtn">Save progress</button>
-                  <button class="ghost" id="exportJson">Export JSON</button>
-                  <button class="ghost" id="exportCsv">Export CSV</button>
-                  <button class="ghost" id="backBtn">Back to upload</button>
-                </div>
-                <div class="hint" id="saveHint">Autosave enabled</div>
               </div>
 
               <div class="panel-section">
@@ -235,6 +218,15 @@
                   <div id="queueMeta">0 items</div>
                 </div>
                 <div class="queue" id="queueList"></div>
+              </div>
+
+              <div class="card action-row-card">
+                <div class="actions action-row">
+                  <button class="primary" id="saveBtn">Save progress</button>
+                  <button class="ghost" id="exportJson">Export JSON</button>
+                  <button class="ghost" id="backBtn">Back to upload</button>
+                </div>
+                <div class="hint" id="saveHint">Autosave enabled</div>
               </div>
             </section>
           </div>

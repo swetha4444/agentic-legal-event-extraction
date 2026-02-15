@@ -21,12 +21,16 @@ Then visit `http://localhost:8000`.
 3. Select the text column and (optionally) enable **Split into sentences**.
 4. Label each sentence as Fact or Non-Fact.
 5. Resume later from the **Saved Datasets** list.
-6. Export labeled data as CSV or JSON.
+6. Export labeled data as structured JSON.
 
 Notes:
 - Saved datasets remain in cloud and can be reopened after future logins.
 - Local autosave still works and is merged when resuming.
-- Export includes all columns plus a `label` column.
+- Export is JSON-only and grouped by source document in fixed format:
+  - `documents[i].source_row`
+  - `documents[i].fact`
+  - `documents[i].non_fact`
+- Even unannotated documents are included with empty `fact`/`non_fact` strings.
 - When sentence mode is enabled, extra fields are added: `sentence`, `sentence_index`, `sentence_count`, `source_row`.
 
 ## Free hosting (no backend required)
