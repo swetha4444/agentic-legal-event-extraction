@@ -32,3 +32,4 @@ build/
 .DS_Store
 Thumbs.db
 docs/MODEL_COMPARISON_FACTS.md
+docs/NON_LLM_BASELINES_AND_EVAL.md
