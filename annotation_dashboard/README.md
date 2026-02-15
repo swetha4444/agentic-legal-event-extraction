@@ -25,7 +25,7 @@ Then visit `http://localhost:8000`.
 
 Notes:
 - Saved datasets remain in cloud and can be reopened after future logins.
-- Local autosave still works and is merged when resuming.
+- Local autosave still works within the active browser session.
 - Export is JSON-only and outputs one object per source document in original order.
 - Each exported object keeps original fields and updates text fields to:
   - `document_text` is removed
@@ -53,17 +53,19 @@ Provider choice: **Supabase (Postgres + Auth)**. It is free-tier friendly and su
 
 1. Create a Supabase project.
 2. Open the SQL editor and run `annotation_dashboard/schema.sql`.
-3. (Existing deployments) run `annotation_dashboard/admin_rls.sql` to enable admin-only delete policy.
-4. Enable GitHub login:
+3. (Existing deployments) run `annotation_dashboard/source_records_migration.sql` so exports keep all original input fields.
+4. (Existing deployments) run `annotation_dashboard/admin_rls.sql` to enable admin-only delete policy.
+5. Enable GitHub login:
    - Supabase Dashboard -> Authentication -> Providers -> GitHub.
    - Add your GitHub OAuth app client ID/secret.
-5. Add redirect URLs:
+6. Add redirect URLs:
    - Add your site URL (e.g. `http://localhost:8000`, your Cloudflare Pages URL).
-6. Fill `annotation_dashboard/config.js` with your project URL and anon key.
+7. Fill `annotation_dashboard/config.js` with your project URL and anon key.
 
 Admin setup for delete:
 - Insert admins in `public.admin_users` (by `auth.users.id`).
 - Only those admins will be allowed to delete datasets by RLS.
+- Datasets created before `source_records_migration.sql` may need to be re-uploaded once to capture full original fields for export.
 
 Note: OAuth requires the app to be served over HTTP (not `file://`). Use `python -m http.server` during local development.
 

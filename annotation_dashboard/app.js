@@ -76,6 +76,7 @@ const cloud = {
   datasetId: null,
   datasetReady: false,
   sentencesSynced: false,
+  sourceRecordsSynced: false,
 };
 
 const config = window.APP_CONFIG || {};
@@ -395,6 +396,7 @@ async function deleteDatasetFromCloud(datasetId) {
     cloud.datasetId = null;
     cloud.datasetReady = false;
     cloud.sentencesSynced = false;
+    cloud.sourceRecordsSynced = false;
     sessionMeta.textContent = "No dataset loaded";
     showPage(pageUpload);
     render();
@@ -408,6 +410,7 @@ async function syncCloudAfterLogin() {
   if (!state.items.length) return;
   setStatus("Syncing cloud", "active");
   await ensureDataset(state.textColumn);
+  await syncSourceRecordsToCloud();
   await syncSentencesToCloud();
   await syncLocalLabelsToCloud();
   await loadCloudLabels();
@@ -862,7 +865,6 @@ function buildStructuredExport() {
     const sourceRow = Number(item.data?.source_row ?? item.id);
     if (!documentsBySource.has(sourceRow)) {
       documentsBySource.set(sourceRow, {
-        source_row: sourceRow,
         fact_sentences: [],
         non_fact_sentences: [],
       });
@@ -884,7 +886,6 @@ function buildStructuredExport() {
     for (let i = 1; i <= state.rawRows.length; i += 1) {
       if (!documentsBySource.has(i)) {
         documentsBySource.set(i, {
-          source_row: i,
           fact_sentences: [],
           non_fact_sentences: [],
         });
@@ -905,9 +906,6 @@ function buildStructuredExport() {
       delete outputRecord.document_text;
       outputRecord["Extracted Facts"] = `(${facts})`;
       outputRecord["Extracted Non Facts"] = `(${nonFacts})`;
-      if (!Object.prototype.hasOwnProperty.call(outputRecord, "source_row")) {
-        outputRecord.source_row = sourceRow;
-      }
 
       return {
         ...outputRecord,
@@ -944,6 +942,15 @@ function buildSentenceRows(datasetId) {
     sentence_index: item.data?.sentence_index ?? 1,
     sentence_count: item.data?.sentence_count ?? 1,
     text: item.text,
+  }));
+}
+
+function buildSourceRecordRows(datasetId) {
+  if (!Array.isArray(state.rawRows) || !state.rawRows.length) return [];
+  return state.rawRows.map((row, idx) => ({
+    dataset_id: datasetId,
+    source_row: idx + 1,
+    record: row ?? {},
   }));
 }
 
@@ -1066,7 +1073,6 @@ async function openDatasetFromCloud(datasetId) {
   state.sentenceMode = Boolean(dataset.sentence_mode);
   state.format = "cloud";
   state.headers = ["sentence", "sentence_index", "sentence_count", "source_row"];
-  state.rawRows = loadRawRowsSnapshot(state.fileHash);
   state.rawText = "";
   state.items = sentences.map((row) => ({
     id: row.item_index,
@@ -1087,6 +1093,18 @@ async function openDatasetFromCloud(datasetId) {
   cloud.datasetId = datasetId;
   cloud.datasetReady = true;
   cloud.sentencesSynced = true;
+  cloud.sourceRecordsSynced = false;
+
+  const sourceRecords = await loadSourceRecordsFromCloud(datasetId);
+  state.rawRows = sourceRecords.length
+    ? sourceRecords
+    : loadRawRowsSnapshot(state.fileHash);
+  if (sourceRecords.length) {
+    cloud.sourceRecordsSynced = true;
+    persistRawRowsSnapshot();
+  } else if (state.rawRows.length) {
+    await syncSourceRecordsToCloud();
+  }
 
   const saved = loadSavedProgress();
   if (saved) {
@@ -1101,6 +1119,28 @@ async function openDatasetFromCloud(datasetId) {
   showPage(pageAnnotate);
   render();
   setStatus("Dataset loaded", "ready");
+}
+
+async function loadSourceRecordsFromCloud(datasetId) {
+  if (!supabaseClient || !datasetId) return [];
+
+  const { data, error } = await supabaseClient
+    .from("source_records")
+    .select("source_row,record")
+    .eq("dataset_id", datasetId)
+    .order("source_row", { ascending: true });
+
+  if (error) {
+    console.error(error);
+    return [];
+  }
+
+  return (data || []).map((row) => {
+    if (row && typeof row.record === "object" && !Array.isArray(row.record)) {
+      return row.record;
+    }
+    return {};
+  });
 }
 
 async function ensureDataset(textColumn) {
@@ -1147,6 +1187,30 @@ async function syncSentencesToCloud() {
   }
 
   cloud.sentencesSynced = true;
+}
+
+async function syncSourceRecordsToCloud() {
+  if (!supabaseClient || !cloud.datasetReady || cloud.sourceRecordsSynced) return;
+
+  const rows = buildSourceRecordRows(cloud.datasetId);
+  if (!rows.length) {
+    cloud.sourceRecordsSynced = true;
+    return;
+  }
+
+  for (let i = 0; i < rows.length; i += CLOUD_BATCH_SIZE) {
+    const slice = rows.slice(i, i + CLOUD_BATCH_SIZE);
+    const { error } = await supabaseClient
+      .from("source_records")
+      .upsert(slice, { onConflict: "dataset_id,source_row" });
+    if (error) {
+      setStatus("Cloud sync error", "warn");
+      console.error(error);
+      return;
+    }
+  }
+
+  cloud.sourceRecordsSynced = true;
 }
 
 async function loadCloudLabels() {
@@ -1286,6 +1350,7 @@ function handleFile(file) {
       cloud.datasetId = null;
       cloud.datasetReady = false;
       cloud.sentencesSynced = false;
+      cloud.sourceRecordsSynced = false;
 
       const extension = file.name.toLowerCase();
       const isJSONL = extension.endsWith(".jsonl") || extension.endsWith(".json");
@@ -1396,6 +1461,7 @@ async function startSession() {
   if (cloud.enabled) {
     setStatus("Syncing cloud", "active");
     await ensureDataset(textColumn);
+    await syncSourceRecordsToCloud();
     await syncSentencesToCloud();
     await syncLocalLabelsToCloud();
     await loadCloudLabels();
@@ -1496,6 +1562,7 @@ resetApp.addEventListener("click", () => {
   cloud.datasetId = null;
   cloud.datasetReady = false;
   cloud.sentencesSynced = false;
+  cloud.sourceRecordsSynced = false;
   showPage(cloud.user ? pageUpload : pageAuth);
   setStatus("Idle", "idle");
 });

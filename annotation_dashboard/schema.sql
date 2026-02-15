@@ -58,6 +58,15 @@ create table if not exists public.annotations (
   unique (dataset_id, item_index, user_id)
 );
 
+create table if not exists public.source_records (
+  id uuid primary key default gen_random_uuid(),
+  dataset_id uuid references public.datasets(id) on delete cascade,
+  source_row integer not null,
+  record jsonb not null,
+  created_at timestamptz default now(),
+  unique (dataset_id, source_row)
+);
+
 create table if not exists public.admin_users (
   user_id uuid primary key references auth.users(id) on delete cascade,
   created_at timestamptz default now()
@@ -81,6 +90,7 @@ alter table public.profiles enable row level security;
 alter table public.datasets enable row level security;
 alter table public.sentences enable row level security;
 alter table public.annotations enable row level security;
+alter table public.source_records enable row level security;
 alter table public.admin_users enable row level security;
 
 create policy "Profiles are readable by authenticated users"
@@ -133,6 +143,19 @@ create policy "Annotations update own"
 create policy "Annotations delete own"
   on public.annotations for delete
   using (auth.uid() = user_id);
+
+create policy "Source records readable"
+  on public.source_records for select
+  using (auth.role() = 'authenticated');
+
+create policy "Source records insert"
+  on public.source_records for insert
+  with check (auth.role() = 'authenticated');
+
+create policy "Source records update"
+  on public.source_records for update
+  using (auth.role() = 'authenticated')
+  with check (auth.role() = 'authenticated');
 
 create policy "Admin users read own row"
   on public.admin_users for select
