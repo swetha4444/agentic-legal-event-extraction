@@ -62,6 +62,7 @@ Once configured, the app will:
 - Store datasets, sentences, and per-user annotations.
 - Show the latest label with annotator initials.
 - Show saved-dataset progress and contributors.
+- Show a per-dataset activity timeline (who labeled what and when).
 
 ### Hosting (recommended)
 

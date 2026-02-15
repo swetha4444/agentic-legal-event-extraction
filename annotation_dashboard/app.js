@@ -44,6 +44,8 @@ const exportJson = document.getElementById("exportJson");
 const exportCsv = document.getElementById("exportCsv");
 const backBtn = document.getElementById("backBtn");
 const saveHint = document.getElementById("saveHint");
+const activityList = document.getElementById("activityList");
+const activityHint = document.getElementById("activityHint");
 
 const STORAGE_PREFIX = "annotation_deck";
 const CLOUD_BATCH_SIZE = 500;
@@ -66,6 +68,7 @@ const state = {
   textColumn: "",
   savedDatasets: [],
   profileMap: {},
+  activity: [],
 };
 
 const cloud = {
@@ -136,6 +139,45 @@ function formatDateTime(isoString) {
   const date = new Date(isoString);
   if (Number.isNaN(date.getTime())) return "Unknown time";
   return date.toLocaleString();
+}
+
+function labelToPretty(label) {
+  if (!label) return "Unlabeled";
+  if (label === "fact") return "Fact";
+  if (label === "non-fact") return "Non-Fact";
+  return label;
+}
+
+function renderActivityTimeline() {
+  if (!activityList || !activityHint) return;
+
+  const items = state.activity || [];
+  if (!items.length) {
+    activityList.innerHTML = "";
+    activityHint.textContent = cloud.datasetReady
+      ? "No annotations in this dataset yet"
+      : "Open a dataset to view activity";
+    return;
+  }
+
+  activityHint.textContent = `${items.length} recent event(s)`;
+  activityList.innerHTML = items
+    .map((entry) => {
+      const initials = escapeHtml(entry.user_initials || "NA");
+      const label = escapeHtml(labelToPretty(entry.label));
+      const itemIndex = Number(entry.item_index) || 0;
+      const when = escapeHtml(formatDateTime(entry.updated_at || entry.created_at));
+      return `
+        <div class="activity-item">
+          <div class="activity-top">
+            <span class="initials">${initials}</span>
+            <span>${label} on #${itemIndex}</span>
+          </div>
+          <div class="activity-time">${when}</div>
+        </div>
+      `;
+    })
+    .join("");
 }
 
 function renderSavedDatasets() {
@@ -211,7 +253,9 @@ function setUser(user) {
     logoutBtn.hidden = true;
     cloud.enabled = false;
     state.savedDatasets = [];
+    state.activity = [];
     renderSavedDatasets();
+    renderActivityTimeline();
     showPage(pageAuth);
   }
 }
@@ -534,12 +578,12 @@ function clearProgress() {
   state.labels = {};
   state.cloudLabels = {};
   state.userLabels = {};
+  state.activity = [];
   state.cursor = 0;
 }
 
 function labelToDisplay(label) {
-  if (!label) return "Unlabeled";
-  return label === "fact" ? "Fact" : label === "non-fact" ? "Non-Fact" : label;
+  return labelToPretty(label);
 }
 
 function getLabelEntry(itemId) {
@@ -633,6 +677,7 @@ function render() {
   updateProgressUI();
   updateSentenceUI();
   updateQueueUI();
+  renderActivityTimeline();
 }
 
 function setLabel(label) {
@@ -859,6 +904,7 @@ async function openDatasetFromCloud(datasetId) {
   state.labels = {};
   state.cloudLabels = {};
   state.userLabels = {};
+  state.activity = [];
   state.cursor = 0;
 
   cloud.datasetId = datasetId;
@@ -967,6 +1013,22 @@ async function loadCloudLabels() {
 
   state.cloudLabels = latest;
   state.userLabels = mine;
+  state.activity = [...data]
+    .map((row) => {
+      const profile = profileMap[row.user_id];
+      const userEmail = profile?.email;
+      const userInitials = getInitialsFromIdentity(userEmail, profile?.full_name);
+      return {
+        item_index: row.item_index,
+        label: row.label,
+        updated_at: row.updated_at,
+        created_at: row.updated_at,
+        user_id: row.user_id,
+        user_initials: userInitials,
+      };
+    })
+    .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
+    .slice(0, 60);
 }
 
 async function syncLocalLabelsToCloud() {
@@ -1021,6 +1083,16 @@ async function saveLabelToCloud(item, label) {
     user_initials: getInitialsFromIdentity(cloud.user.email, cloud.user.user_metadata?.full_name),
     updated_at: new Date().toISOString(),
   };
+  state.activity.unshift({
+    item_index: item.id,
+    label,
+    updated_at: new Date().toISOString(),
+    created_at: new Date().toISOString(),
+    user_id: cloud.user.id,
+    user_initials: getInitialsFromIdentity(cloud.user.email, cloud.user.user_metadata?.full_name),
+  });
+  state.activity = state.activity.slice(0, 60);
+  renderActivityTimeline();
 }
 
 function handleFile(file) {
@@ -1134,6 +1206,7 @@ async function startSession(resume) {
   }
 
   state.labels = {};
+  state.activity = [];
   state.cursor = 0;
   if (resume) {
     const saved = loadSavedProgress();

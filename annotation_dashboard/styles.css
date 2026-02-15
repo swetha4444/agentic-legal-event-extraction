@@ -1,17 +1,17 @@
 :root {
-  --bg: #0b0e1a;
-  --bg-2: #10162d;
-  --surface: rgba(19, 24, 45, 0.72);
-  --surface-strong: rgba(28, 34, 63, 0.9);
-  --glass: rgba(255, 255, 255, 0.08);
-  --border: rgba(255, 255, 255, 0.12);
-  --text: #e6e9f4;
-  --muted: #a0abc0;
-  --primary: #6cf6ff;
-  --primary-2: #5b8bff;
-  --accent: #ffb86c;
+  --bg: #02050a;
+  --bg-2: #050a14;
+  --surface: rgba(5, 10, 20, 0.85);
+  --surface-strong: rgba(8, 14, 28, 0.94);
+  --glass: rgba(103, 227, 255, 0.08);
+  --border: rgba(103, 227, 255, 0.2);
+  --text: #d9f9ff;
+  --muted: #82a8b8;
+  --primary: #67e3ff;
+  --primary-2: #00a8ff;
+  --accent: #31f0ff;
   --danger: #ff6b6b;
-  --shadow: 0 30px 60px rgba(4, 8, 21, 0.55);
+  --shadow: 0 30px 60px rgba(0, 0, 0, 0.72);
   --radius-lg: 22px;
   --radius-md: 16px;
   --radius-sm: 12px;
@@ -37,10 +37,10 @@ body {
   position: fixed;
   inset: 0;
   z-index: -1;
-  background: radial-gradient(circle at top left, rgba(91, 139, 255, 0.2), transparent 50%),
-    radial-gradient(circle at 20% 80%, rgba(108, 246, 255, 0.18), transparent 50%),
-    radial-gradient(circle at 80% 20%, rgba(255, 184, 108, 0.14), transparent 50%),
-    linear-gradient(135deg, #0b0e1a 0%, #10162d 60%, #0e1326 100%);
+  background: radial-gradient(circle at top left, rgba(0, 168, 255, 0.24), transparent 44%),
+    radial-gradient(circle at 24% 82%, rgba(103, 227, 255, 0.2), transparent 52%),
+    radial-gradient(circle at 82% 18%, rgba(49, 240, 255, 0.12), transparent 52%),
+    linear-gradient(145deg, #010306 0%, #040914 55%, #02050a 100%);
 }
 
 .bg .grid {
@@ -200,12 +200,26 @@ body {
   padding: 24px;
   box-shadow: var(--shadow);
   backdrop-filter: blur(16px);
+  position: relative;
+  overflow: hidden;
+}
+
+.card::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  border: 1px solid rgba(103, 227, 255, 0.14);
+  pointer-events: none;
 }
 
 .auth-card {
   max-width: 720px;
-  margin: 80px auto 0;
+  width: min(720px, 100%);
+  margin: 0 auto;
   text-align: center;
+  box-shadow: 0 0 0 1px rgba(103, 227, 255, 0.18), 0 28px 60px rgba(0, 0, 0, 0.8),
+    0 0 80px rgba(0, 168, 255, 0.18);
 }
 
 .auth-card h1 {
@@ -219,6 +233,13 @@ body {
   line-height: 1.6;
 }
 
+#page-auth.active {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: calc(100vh - 190px);
+}
+
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
@@ -228,18 +249,21 @@ body {
 .hero-copy h1 {
   font-size: 36px;
   margin: 0 0 12px;
+  text-align: center;
 }
 
 .hero-copy p {
   margin: 0 0 20px;
   color: var(--muted);
   line-height: 1.6;
+  text-align: center;
 }
 
 .meta-row {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .meta-chip {
@@ -255,6 +279,17 @@ body {
   display: flex;
   flex-direction: column;
   gap: 14px;
+  align-items: center;
+}
+
+.hero-panel .form-row,
+.hero-panel .upload-info,
+.hero-panel .actions {
+  width: 100%;
+}
+
+.hero-panel .actions {
+  justify-content: center;
 }
 
 .saved-card {
@@ -266,6 +301,7 @@ body {
   padding: 0 20px 10px;
   color: var(--muted);
   font-size: 13px;
+  text-align: center;
 }
 
 .saved-list {
@@ -279,7 +315,7 @@ body {
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 12px;
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(103, 227, 255, 0.04);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -288,6 +324,7 @@ body {
 
 .saved-item-main {
   min-width: 0;
+  text-align: center;
 }
 
 .saved-item-title {
@@ -330,18 +367,20 @@ body {
 }
 
 .upload {
-  border: 1px dashed rgba(108, 246, 255, 0.4);
+  border: 1px dashed rgba(103, 227, 255, 0.5);
   border-radius: var(--radius-md);
   padding: 28px;
   text-align: center;
-  background: rgba(12, 16, 33, 0.7);
+  background: rgba(2, 10, 18, 0.8);
   cursor: pointer;
   transition: transform var(--transition), border-color var(--transition);
+  width: 100%;
 }
 
 .upload:hover {
   transform: translateY(-2px);
-  border-color: rgba(108, 246, 255, 0.7);
+  border-color: rgba(103, 227, 255, 0.95);
+  box-shadow: 0 0 25px rgba(0, 168, 255, 0.2);
 }
 
 .upload.drag {
@@ -403,7 +442,7 @@ label {
 select,
 input[type="text"] {
   padding: 10px 12px;
-  background: rgba(12, 16, 33, 0.9);
+  background: rgba(1, 9, 18, 0.94);
   border: 1px solid var(--border);
   border-radius: 10px;
   color: var(--text);
@@ -438,18 +477,18 @@ button:disabled {
 
 .primary {
   background: linear-gradient(135deg, var(--primary), var(--primary-2));
-  color: #0b0e1a;
+  color: #021017;
   font-weight: 600;
-  box-shadow: 0 12px 24px rgba(91, 139, 255, 0.3);
+  box-shadow: 0 0 0 1px rgba(103, 227, 255, 0.28), 0 12px 24px rgba(0, 168, 255, 0.35);
 }
 
 .primary.alt {
-  background: linear-gradient(135deg, var(--accent), #ff7b7b);
-  box-shadow: 0 12px 24px rgba(255, 184, 108, 0.25);
+  background: linear-gradient(135deg, #31f0ff, #17b4ff);
+  box-shadow: 0 0 0 1px rgba(103, 227, 255, 0.28), 0 12px 24px rgba(0, 168, 255, 0.35);
 }
 
 .ghost {
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(103, 227, 255, 0.08);
   color: var(--text);
   border: 1px solid var(--border);
 }
@@ -674,7 +713,7 @@ button:disabled {
   padding: 10px 12px;
   border-radius: 12px;
   border: 1px solid var(--border);
-  background: rgba(255, 255, 255, 0.04);
+  background: rgba(103, 227, 255, 0.04);
   font-size: 13px;
   line-height: 1.4;
   cursor: pointer;
@@ -686,8 +725,37 @@ button:disabled {
 }
 
 .queue-item.active {
-  border-color: rgba(108, 246, 255, 0.5);
-  box-shadow: inset 0 0 0 1px rgba(108, 246, 255, 0.2);
+  border-color: rgba(103, 227, 255, 0.85);
+  box-shadow: inset 0 0 0 1px rgba(103, 227, 255, 0.32), 0 0 20px rgba(0, 168, 255, 0.18);
+}
+
+.activity-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.activity-item {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: rgba(103, 227, 255, 0.05);
+  padding: 8px 10px;
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.activity-top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.activity-time {
+  color: var(--muted);
+  font-size: 11px;
 }
 
 @media (max-width: 1024px) {
