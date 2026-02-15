@@ -28,7 +28,7 @@ Notes:
 - Local autosave still works and is merged when resuming.
 - Export is JSON-only and outputs one object per source document in original order.
 - Each exported object keeps original fields and updates text fields to:
-  - `document_text` -> `Extracted Facts: (...)` + `Extracted Non Facts: (...)`
+  - `document_text` is removed
   - `Extracted Facts`
   - `Extracted Non Facts`
 - Even unannotated documents are included with empty parentheses.

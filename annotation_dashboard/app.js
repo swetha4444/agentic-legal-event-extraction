@@ -16,6 +16,7 @@ const authSignInBtn = document.getElementById("authSignInBtn");
 const refreshSavedBtn = document.getElementById("refreshSavedBtn");
 const savedDatasetList = document.getElementById("savedDatasetList");
 const savedMeta = document.getElementById("savedMeta");
+const appRoot = document.querySelector(".app");
 
 const pageAuth = document.getElementById("page-auth");
 const pageUpload = document.getElementById("page-upload");
@@ -47,38 +48,6 @@ const activityHint = document.getElementById("activityHint");
 
 const STORAGE_PREFIX = "annotation_deck";
 const CLOUD_BATCH_SIZE = 500;
-const COURTLISTENER_FIELDS = [
-  "case_id",
-  "cluster_id",
-  "docket_id",
-  "docket_number",
-  "court_id",
-  "court",
-  "court_citation_string",
-  "case_name",
-  "case_name_full",
-  "date_filed",
-  "date_terminated",
-  "date_argued",
-  "nature_of_suit",
-  "cause",
-  "document_text",
-  "absolute_url",
-  "parties",
-  "party_id",
-  "attorneys",
-  "attorney_id",
-  "firms",
-  "firm_id",
-  "assigned_to",
-  "assigned_to_id",
-  "referred_to",
-  "referred_to_id",
-  "jurisdiction_type",
-  "jury_demand",
-  "pacer_case_id",
-  "documents",
-];
 
 const state = {
   fileName: null,
@@ -210,22 +179,33 @@ function renderActivityTimeline() {
     .join("");
 }
 
-function getEmptyCourtlistenerRecord(sourceRow) {
-  const record = {};
-  COURTLISTENER_FIELDS.forEach((field) => {
-    record[field] = field === "documents" ? [] : null;
-  });
-  record.source_row = sourceRow;
-  return record;
-}
-
 function getOriginalRecordBySourceRow(sourceRow) {
-  if (!Array.isArray(state.rawRows) || !state.rawRows.length) return null;
-  const idx = sourceRow - 1;
-  if (idx < 0 || idx >= state.rawRows.length) return null;
-  const row = state.rawRows[idx];
-  if (!row || typeof row !== "object" || Array.isArray(row)) return null;
-  return row;
+  if (Array.isArray(state.rawRows) && state.rawRows.length) {
+    const idx = sourceRow - 1;
+    if (idx >= 0 && idx < state.rawRows.length) {
+      const row = state.rawRows[idx];
+      if (row && typeof row === "object" && !Array.isArray(row)) {
+        return row;
+      }
+    }
+  }
+
+  // Fallback: recover from sentence item payload (available during direct upload flow).
+  const item = state.items.find(
+    (entry) => Number(entry.data?.source_row ?? entry.id) === Number(sourceRow)
+  );
+  if (item && item.data && typeof item.data === "object") {
+    const row = { ...item.data };
+    delete row.sentence;
+    delete row.sentence_index;
+    delete row.sentence_count;
+    delete row.source_row;
+    if (Object.keys(row).length) {
+      return row;
+    }
+  }
+
+  return null;
 }
 
 function persistRawRowsSnapshot() {
@@ -380,6 +360,12 @@ async function signOut() {
 function showPage(page) {
   [pageAuth, pageUpload, pageAnnotate].forEach((el) => el.classList.remove("active"));
   page.classList.add("active");
+
+  const annotateMode = page === pageAnnotate;
+  document.body.classList.toggle("annotate-mode", annotateMode);
+  if (appRoot) {
+    appRoot.classList.toggle("annotate-mode", annotateMode);
+  }
 }
 
 function hashString(input) {
@@ -821,12 +807,10 @@ function buildStructuredExport() {
       const facts = grouped.fact_sentences.join(" ").trim();
       const nonFacts = grouped.non_fact_sentences.join(" ").trim();
       const original = getOriginalRecordBySourceRow(sourceRow);
-      const outputRecord = original
-        ? { ...original }
-        : getEmptyCourtlistenerRecord(sourceRow);
+      const outputRecord = original ? { ...original } : {};
 
-      outputRecord.document_text =
-        `Extracted Facts: (${facts})\n\nExtracted Non Facts: (${nonFacts})`;
+      // Keep original metadata, but remove raw document text from export payload.
+      delete outputRecord.document_text;
       outputRecord["Extracted Facts"] = `(${facts})`;
       outputRecord["Extracted Non Facts"] = `(${nonFacts})`;
       if (!Object.prototype.hasOwnProperty.call(outputRecord, "source_row")) {

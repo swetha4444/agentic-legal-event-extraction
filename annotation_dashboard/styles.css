@@ -33,6 +33,10 @@ body {
   overflow-x: hidden;
 }
 
+body.annotate-mode {
+  overflow: hidden;
+}
+
 .bg {
   position: fixed;
   inset: 0;
@@ -98,12 +102,23 @@ body {
   padding: 32px 24px 60px;
 }
 
+.app.annotate-mode {
+  height: 100vh;
+  padding: 20px 24px 16px;
+  display: flex;
+  flex-direction: column;
+}
+
 .topbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
   margin-bottom: 32px;
+}
+
+.app.annotate-mode .topbar {
+  margin-bottom: 14px;
 }
 
 .brand {
@@ -173,6 +188,12 @@ body {
   gap: 24px;
 }
 
+.app.annotate-mode .content {
+  flex: 1 1 auto;
+  min-height: 0;
+  gap: 0;
+}
+
 .page {
   display: none;
 }
@@ -186,7 +207,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: calc(100vh - 170px);
+  min-height: 0;
+  height: 100%;
+  overflow: hidden;
 }
 
 @keyframes fadeIn {
@@ -511,8 +534,9 @@ button:disabled {
   gap: 24px;
   align-items: stretch;
   width: min(1160px, 100%);
-  height: calc(100vh - 210px);
+  height: 100%;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .panel {
@@ -736,8 +760,8 @@ button:disabled {
 }
 
 .action-row-card {
-  padding: 8px 12px 22px;
-  min-height: 72px;
+  padding: 6px 10px 20px;
+  min-height: 62px;
   display: flex;
   align-items: center;
   justify-content: center;
