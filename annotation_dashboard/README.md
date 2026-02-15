@@ -1,6 +1,6 @@
 # Annotation Dashboard
 
-Static, no-backend annotation app for labeling sentences as fact or non-fact.
+Cloud-backed annotation app for labeling sentences as fact or non-fact.
 
 ## Run locally
 
@@ -16,14 +16,16 @@ Then visit `http://localhost:8000`.
 
 ## Usage
 
-1. Upload a CSV (or JSONL) containing sentence text.
-2. Select the text column and (optionally) enable **Split into sentences** to label at sentence level.
-3. Label each sentence as Fact or Non-Fact.
-4. Progress autosaves to your browser (localStorage) keyed by file hash.
-5. Export labeled data as CSV or JSON.
+1. Sign in first (GitHub OAuth via Supabase).
+2. Choose a saved dataset, or upload a new CSV/JSONL file.
+3. Select the text column and (optionally) enable **Split into sentences**.
+4. Label each sentence as Fact or Non-Fact.
+5. Resume later from the **Saved Datasets** list.
+6. Export labeled data as CSV or JSON.
 
 Notes:
-- To resume, re-upload the same file and click **Resume saved progress**.
+- Saved datasets remain in cloud and can be reopened after future logins.
+- Local autosave still works and is merged when resuming.
 - Export includes all columns plus a `label` column.
 - When sentence mode is enabled, extra fields are added: `sentence`, `sentence_index`, `sentence_count`, `source_row`.
 
@@ -58,7 +60,8 @@ Note: OAuth requires the app to be served over HTTP (not `file://`). Use `python
 Once configured, the app will:
 - Require sign-in for cloud sync.
 - Store datasets, sentences, and per-user annotations.
-- Show the latest label and who applied it.
+- Show the latest label with annotator initials.
+- Show saved-dataset progress and contributors.
 
 ### Hosting (recommended)
 

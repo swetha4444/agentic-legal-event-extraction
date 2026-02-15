@@ -12,7 +12,12 @@ const splitSentencesToggle = document.getElementById("splitSentences");
 const loginBtn = document.getElementById("loginBtn");
 const logoutBtn = document.getElementById("logoutBtn");
 const userChip = document.getElementById("userChip");
+const authSignInBtn = document.getElementById("authSignInBtn");
+const refreshSavedBtn = document.getElementById("refreshSavedBtn");
+const savedDatasetList = document.getElementById("savedDatasetList");
+const savedMeta = document.getElementById("savedMeta");
 
+const pageAuth = document.getElementById("page-auth");
 const pageUpload = document.getElementById("page-upload");
 const pageAnnotate = document.getElementById("page-annotate");
 
@@ -59,6 +64,8 @@ const state = {
   cloudLabels: {},
   userLabels: {},
   textColumn: "",
+  savedDatasets: [],
+  profileMap: {},
 };
 
 const cloud = {
@@ -90,12 +97,98 @@ function setStatus(text, tone = "idle") {
   statusPill.style.background = colors[tone] || colors.idle;
 }
 
+function escapeHtml(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+function getInitialsFromIdentity(email, fullName) {
+  if (fullName) {
+    const parts = fullName
+      .split(/\s+/)
+      .map((part) => part.trim())
+      .filter(Boolean);
+    if (parts.length >= 2) {
+      return `${parts[0][0]}${parts[1][0]}`.toUpperCase();
+    }
+    if (parts.length === 1) {
+      return parts[0].slice(0, 2).toUpperCase();
+    }
+  }
+
+  if (email) {
+    const local = email.split("@")[0] || "";
+    const alpha = local.replace(/[^a-zA-Z]/g, "");
+    if (alpha.length >= 2) return alpha.slice(0, 2).toUpperCase();
+    if (local.length >= 2) return local.slice(0, 2).toUpperCase();
+    if (local.length === 1) return `${local[0]}X`.toUpperCase();
+  }
+
+  return "NA";
+}
+
+function formatDateTime(isoString) {
+  if (!isoString) return "Unknown time";
+  const date = new Date(isoString);
+  if (Number.isNaN(date.getTime())) return "Unknown time";
+  return date.toLocaleString();
+}
+
+function renderSavedDatasets() {
+  if (!cloud.user) {
+    savedMeta.textContent = "Sign in to load saved datasets.";
+    savedDatasetList.innerHTML = "";
+    return;
+  }
+
+  const datasets = state.savedDatasets;
+  if (!datasets.length) {
+    savedMeta.textContent = "No datasets yet. Upload a file to create one.";
+    savedDatasetList.innerHTML = "";
+    return;
+  }
+
+  savedMeta.textContent = `${datasets.length} saved dataset(s)`;
+  savedDatasetList.innerHTML = datasets
+    .map((dataset) => {
+      const progress = dataset.totalSentences
+        ? Math.round((dataset.annotatedSentences / dataset.totalSentences) * 100)
+        : 0;
+      const contributorChips =
+        dataset.contributorInitials && dataset.contributorInitials.length
+          ? dataset.contributorInitials
+              .map((initials) => `<span class="initials">${escapeHtml(initials)}</span>`)
+              .join("")
+          : '<span class="initials">--</span>';
+
+      return `
+        <div class="saved-item">
+          <div class="saved-item-main">
+            <div class="saved-item-title">${escapeHtml(dataset.fileName)}</div>
+            <div class="saved-item-sub">Saved ${escapeHtml(formatDateTime(dataset.createdAt))}</div>
+            <div class="saved-item-progress">${dataset.annotatedSentences}/${dataset.totalSentences} annotated (${progress}%)</div>
+            <div class="saved-item-progress">Contributors: <span class="initials-row">${contributorChips}</span></div>
+          </div>
+          <button class="ghost open-saved-btn" data-dataset-id="${dataset.id}">Open</button>
+        </div>
+      `;
+    })
+    .join("");
+}
+
 function setUser(user) {
   cloud.user = user;
   if (!hasSupabase) {
-    userChip.textContent = "Cloud disabled";
+    userChip.textContent = "Cloud not configured";
     loginBtn.disabled = true;
+    authSignInBtn.disabled = true;
     logoutBtn.hidden = true;
+    savedMeta.textContent = "Supabase not configured.";
+    showPage(pageAuth);
     return;
   }
 
@@ -105,6 +198,10 @@ function setUser(user) {
     loginBtn.hidden = true;
     logoutBtn.hidden = false;
     cloud.enabled = true;
+    if (pageAuth.classList.contains("active")) {
+      showPage(pageUpload);
+    }
+    loadSavedDatasets();
     if (state.items.length && !cloud.datasetReady) {
       syncCloudAfterLogin();
     }
@@ -113,6 +210,9 @@ function setUser(user) {
     loginBtn.hidden = false;
     logoutBtn.hidden = true;
     cloud.enabled = false;
+    state.savedDatasets = [];
+    renderSavedDatasets();
+    showPage(pageAuth);
   }
 }
 
@@ -123,6 +223,7 @@ async function syncCloudAfterLogin() {
   await syncSentencesToCloud();
   await syncLocalLabelsToCloud();
   await loadCloudLabels();
+  await loadSavedDatasets();
   render();
   setStatus("Cloud synced", "ready");
 }
@@ -135,6 +236,7 @@ async function initCloud() {
 
   loginBtn.textContent = `Sign in with ${oauthProviderLabel}`;
   loginBtn.title = `Sign in with ${oauthProviderLabel}`;
+  authSignInBtn.textContent = `Sign in with ${oauthProviderLabel}`;
 
   const { data } = await supabaseClient.auth.getSession();
   setUser(data.session?.user || null);
@@ -160,7 +262,7 @@ async function signOut() {
 }
 
 function showPage(page) {
-  [pageUpload, pageAnnotate].forEach((el) => el.classList.remove("active"));
+  [pageAuth, pageUpload, pageAnnotate].forEach((el) => el.classList.remove("active"));
   page.classList.add("active");
 }
 
@@ -488,8 +590,8 @@ function updateSentenceUI() {
   const entry = getLabelEntry(item.id);
   const pretty = labelToDisplay(entry?.label);
   const suffix =
-    entry?.source === "cloud" && entry?.user_email
-      ? ` • ${entry.user_email}`
+    entry?.source === "cloud" && entry?.user_initials
+      ? ` • ${entry.user_initials}`
       : entry?.source === "local"
       ? " • local"
       : "";
@@ -514,7 +616,7 @@ function updateQueueUI() {
     div.className = "queue-item" + (item.id - 1 === state.cursor ? " active" : "");
     const entry = getLabelEntry(item.id);
     const labelText = entry
-      ? `[${labelToDisplay(entry.label)}${entry.user_email ? ` by ${entry.user_email}` : ""}] `
+      ? `[${labelToDisplay(entry.label)}${entry.user_initials ? ` ${entry.user_initials}` : ""}] `
       : "";
     div.textContent = `${labelText}${item.text.slice(0, 120)}`;
     div.addEventListener("click", () => {
@@ -623,6 +725,161 @@ function buildSentenceRows(datasetId) {
   }));
 }
 
+async function loadProfiles(profileIds) {
+  if (!supabaseClient || !profileIds.length) return {};
+  const { data, error } = await supabaseClient
+    .from("profiles")
+    .select("id,email,full_name")
+    .in("id", profileIds);
+  if (error) {
+    console.error(error);
+    return {};
+  }
+  const map = {};
+  data.forEach((profile) => {
+    map[profile.id] = profile;
+  });
+  return map;
+}
+
+async function loadSavedDatasets() {
+  if (!supabaseClient || !cloud.user) return;
+
+  savedMeta.textContent = "Loading saved datasets...";
+  savedDatasetList.innerHTML = "";
+
+  const { data: datasets, error } = await supabaseClient
+    .from("datasets")
+    .select("id,hash,file_name,text_column,sentence_mode,created_at")
+    .order("created_at", { ascending: false })
+    .limit(20);
+
+  if (error) {
+    console.error(error);
+    savedMeta.textContent = "Failed to load saved datasets.";
+    return;
+  }
+
+  const datasetRows = datasets || [];
+  const stats = await Promise.all(
+    datasetRows.map(async (dataset) => {
+      const [sentenceCountRes, annotationRowsRes] = await Promise.all([
+        supabaseClient
+          .from("sentences")
+          .select("*", { count: "exact", head: true })
+          .eq("dataset_id", dataset.id),
+        supabaseClient
+          .from("annotations")
+          .select("item_index,user_id")
+          .eq("dataset_id", dataset.id),
+      ]);
+
+      const sentenceCount = sentenceCountRes.count || 0;
+      const annotationRows = annotationRowsRes.data || [];
+      const annotatedSet = new Set(annotationRows.map((row) => row.item_index));
+      const contributorIds = [...new Set(annotationRows.map((row) => row.user_id).filter(Boolean))];
+
+      return {
+        id: dataset.id,
+        hash: dataset.hash,
+        fileName: dataset.file_name || `Dataset ${dataset.id.slice(0, 8)}`,
+        textColumn: dataset.text_column || "sentence",
+        sentenceMode: dataset.sentence_mode,
+        createdAt: dataset.created_at,
+        totalSentences: sentenceCount,
+        annotatedSentences: annotatedSet.size,
+        contributorIds,
+      };
+    })
+  );
+
+  const allContributorIds = [...new Set(stats.flatMap((dataset) => dataset.contributorIds))];
+  state.profileMap = await loadProfiles(allContributorIds);
+  state.savedDatasets = stats.map((dataset) => ({
+    ...dataset,
+    contributorInitials: dataset.contributorIds
+      .map((id) => {
+        const profile = state.profileMap[id];
+        return getInitialsFromIdentity(profile?.email, profile?.full_name);
+      })
+      .filter((value, index, arr) => arr.indexOf(value) === index)
+      .slice(0, 5),
+  }));
+
+  renderSavedDatasets();
+}
+
+async function openDatasetFromCloud(datasetId) {
+  if (!supabaseClient || !cloud.user) return;
+
+  setStatus("Loading dataset", "active");
+  const { data: dataset, error: datasetError } = await supabaseClient
+    .from("datasets")
+    .select("id,hash,file_name,text_column,sentence_mode,created_at")
+    .eq("id", datasetId)
+    .single();
+
+  if (datasetError || !dataset) {
+    console.error(datasetError);
+    setStatus("Load failed", "warn");
+    return;
+  }
+
+  const { data: sentences, error: sentenceError } = await supabaseClient
+    .from("sentences")
+    .select("item_index,source_row,sentence_index,sentence_count,text")
+    .eq("dataset_id", datasetId)
+    .order("item_index", { ascending: true });
+
+  if (sentenceError || !sentences || !sentences.length) {
+    console.error(sentenceError);
+    setStatus("No sentence data", "warn");
+    return;
+  }
+
+  state.fileName = dataset.file_name || `Dataset ${datasetId.slice(0, 8)}`;
+  state.fileHash = dataset.hash || datasetId;
+  state.storageKey = `${STORAGE_PREFIX}:${state.fileHash}`;
+  state.textColumn = dataset.text_column || "sentence";
+  state.sentenceMode = Boolean(dataset.sentence_mode);
+  state.format = "cloud";
+  state.headers = ["sentence", "sentence_index", "sentence_count", "source_row"];
+  state.rawRows = [];
+  state.rawText = "";
+  state.items = sentences.map((row) => ({
+    id: row.item_index,
+    text: row.text,
+    data: {
+      sentence: row.text,
+      sentence_index: row.sentence_index ?? 1,
+      sentence_count: row.sentence_count ?? 1,
+      source_row: row.source_row ?? row.item_index,
+    },
+  }));
+  state.labels = {};
+  state.cloudLabels = {};
+  state.userLabels = {};
+  state.cursor = 0;
+
+  cloud.datasetId = datasetId;
+  cloud.datasetReady = true;
+  cloud.sentencesSynced = true;
+
+  const saved = loadSavedProgress();
+  if (saved) {
+    state.labels = saved.labels || {};
+    state.cursor = Math.min(saved.cursor || 0, state.items.length - 1);
+  }
+
+  await loadCloudLabels();
+
+  const uniqueSourceRows = new Set(state.items.map((item) => item.data.source_row));
+  sessionMeta.innerHTML = `${state.fileName}<br>${uniqueSourceRows.size} docs -> ${state.items.length} sentences`;
+  showPage(pageAnnotate);
+  render();
+  setStatus("Dataset loaded", "ready");
+}
+
 async function ensureDataset(textColumn) {
   if (!supabaseClient || !cloud.user) return;
 
@@ -674,7 +931,7 @@ async function loadCloudLabels() {
 
   const { data, error } = await supabaseClient
     .from("annotations")
-    .select("item_index,label,updated_at,user_id,profiles(email)")
+    .select("item_index,label,updated_at,user_id")
     .eq("dataset_id", cloud.datasetId);
 
   if (error) {
@@ -683,9 +940,16 @@ async function loadCloudLabels() {
     return;
   }
 
+  const profileIds = [...new Set(data.map((row) => row.user_id).filter(Boolean))];
+  const profileMap = await loadProfiles(profileIds);
+  state.profileMap = { ...state.profileMap, ...profileMap };
+
   const latest = {};
   const mine = {};
   data.forEach((row) => {
+    const profile = profileMap[row.user_id];
+    const userEmail = profile?.email;
+    const userInitials = getInitialsFromIdentity(userEmail, profile?.full_name);
     if (row.user_id === cloud.user?.id) {
       mine[row.item_index] = row.label;
     }
@@ -694,7 +958,8 @@ async function loadCloudLabels() {
       latest[row.item_index] = {
         label: row.label,
         user_id: row.user_id,
-        user_email: row.profiles?.email,
+        user_email: userEmail,
+        user_initials: userInitials,
         updated_at: row.updated_at,
       };
     }
@@ -753,6 +1018,7 @@ async function saveLabelToCloud(item, label) {
     label,
     user_id: cloud.user.id,
     user_email: cloud.user.email,
+    user_initials: getInitialsFromIdentity(cloud.user.email, cloud.user.user_metadata?.full_name),
     updated_at: new Date().toISOString(),
   };
 }
@@ -838,6 +1104,12 @@ function refreshColumns() {
 }
 
 async function startSession(resume) {
+  if (!cloud.user) {
+    setStatus("Sign in required", "warn");
+    showPage(pageAuth);
+    return;
+  }
+
   const textColumn = textColumnSelect.value;
   if (!textColumn) return;
 
@@ -889,11 +1161,17 @@ async function startSession(resume) {
     await syncLocalLabelsToCloud();
     await loadCloudLabels();
     render();
+    await loadSavedDatasets();
     setStatus("Cloud synced", "ready");
   }
 }
 
 fileInput.addEventListener("change", (event) => {
+  if (!cloud.user) {
+    setStatus("Sign in required", "warn");
+    showPage(pageAuth);
+    return;
+  }
   const file = event.target.files[0];
   if (file) {
     handleFile(file);
@@ -912,6 +1190,11 @@ uploadZone.addEventListener("dragleave", () => {
 uploadZone.addEventListener("drop", (event) => {
   event.preventDefault();
   uploadZone.classList.remove("drag");
+  if (!cloud.user) {
+    setStatus("Sign in required", "warn");
+    showPage(pageAuth);
+    return;
+  }
   const file = event.dataTransfer.files[0];
   if (file) {
     fileInput.files = event.dataTransfer.files;
@@ -928,8 +1211,21 @@ headerToggle.addEventListener("change", refreshColumns);
 loginBtn.addEventListener("click", () => {
   signIn();
 });
+authSignInBtn.addEventListener("click", () => {
+  signIn();
+});
 logoutBtn.addEventListener("click", () => {
   signOut();
+});
+refreshSavedBtn.addEventListener("click", () => {
+  loadSavedDatasets();
+});
+savedDatasetList.addEventListener("click", (event) => {
+  const button = event.target.closest(".open-saved-btn");
+  if (!button) return;
+  const datasetId = button.dataset.datasetId;
+  if (!datasetId) return;
+  openDatasetFromCloud(datasetId);
 });
 
 resetApp.addEventListener("click", () => {
@@ -954,7 +1250,7 @@ resetApp.addEventListener("click", () => {
   cloud.datasetId = null;
   cloud.datasetReady = false;
   cloud.sentencesSynced = false;
-  showPage(pageUpload);
+  showPage(cloud.user ? pageUpload : pageAuth);
   setStatus("Idle", "idle");
 });
 
@@ -971,7 +1267,7 @@ saveBtn.addEventListener("click", () => {
 exportJson.addEventListener("click", () => exportData("json"));
 exportCsv.addEventListener("click", () => exportData("csv"));
 backBtn.addEventListener("click", () => {
-  showPage(pageUpload);
+  showPage(cloud.user ? pageUpload : pageAuth);
   setStatus("Ready", "ready");
 });
 

@@ -45,7 +45,32 @@
       </header>
 
       <main class="content">
-        <section class="page active" id="page-upload">
+        <section class="page active" id="page-auth">
+          <div class="card auth-card">
+            <h1>Sign in to access shared datasets</h1>
+            <p>
+              Login is required before upload/annotation. Your progress is saved to cloud
+              and can be resumed next time.
+            </p>
+            <div class="actions">
+              <button id="authSignInBtn" class="primary">Sign in with GitHub</button>
+            </div>
+            <div class="hint">After sign-in, you will see upload + saved datasets.</div>
+          </div>
+        </section>
+
+        <section class="page" id="page-upload">
+          <div class="card saved-card">
+            <div class="list-header">
+              <div>Saved Datasets</div>
+              <div class="actions">
+                <button class="ghost" id="refreshSavedBtn">Refresh</button>
+              </div>
+            </div>
+            <div class="saved-meta" id="savedMeta">Sign in to load saved datasets.</div>
+            <div class="saved-list" id="savedDatasetList"></div>
+          </div>
+
           <div class="card hero">
             <div class="hero-copy">
               <h1>Upload a dataset and build a clean annotation trail.</h1>
