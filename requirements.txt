@@ -1,3 +1,9 @@
 # CourtListener pipeline
 pyyaml>=6.0
 requests>=2.28.0
+
+# LLM agents (facts extraction; OpenAI-compatible API e.g. Keymaker)
+openai>=1.0.0
+python-dotenv>=1.0.0
+# litellm still used by src/processing/fact_extractor.py (anonymization)
+litellm>=1.0.0

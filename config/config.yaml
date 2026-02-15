@@ -1,13 +1,24 @@
+# Config: non-secret settings (model, limits, api_base). For API key use .env (AGENT_API_KEY).
 # CourtListener pipeline: hybrid only (RECAP + cluster opinion). Token: COURTLISTENER_API_TOKEN or token_file.
 courtlistener:
-  # api_token: "your_token"
-  # token_file: ".courtlistener_token"
   nature_of_suit: "442"
   query: employment
   filed_before: null
   filed_after: null
   district_only: true
   description_contains: null
+
+# LLM / agent settings for facts extraction (and future event extraction)
+# Override with: ./scripts/run_facts_agent.sh --model gpt-5-mini --output data/outputs/facts_gpt5mini.jsonl
+llm:
+  api_base: "https://thekeymaker.umass.edu/"
+  model: "gpt4o"
+  # Lower-cost options (Keymaker): gpt-5-mini, Phi-4-mini-reasoning, gemma-3-4b-it, gemma-3-12b-it, claude-haiku-4-5
+  temperature: 0.0
+  # Budget: cap API calls per run (null = no limit)
+  max_calls: 1
+  # Optional: max documents to process (null = no limit)
+  max_docs: 1
 
 paths:
   raw_dir: data/raw

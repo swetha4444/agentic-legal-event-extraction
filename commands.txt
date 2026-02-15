@@ -19,3 +19,12 @@ export COURTLISTENER_API_TOKEN=your_token
 # Only cases with court opinion; parties/docket metadata fetched by docket_id. Fields: case_id, cluster_id, docket_id, parties, document_text (opinion), etc.
 
 # ---- Data sources (see docs/DATA_SOURCES.md) ----
+
+# ---- Facts Extraction LLM Agent ----
+# Output auto-named by model: data/outputs/facts_{model}.jsonl (use --output to override)
+./scripts/run_facts_agent.sh --limit 1
+./scripts/run_facts_agent.sh --model gpt4o --limit 1
+./scripts/run_facts_agent.sh --model gpt-5-mini --limit 1
+./scripts/run_facts_agent.sh --model Phi-4-mini-reasoning --limit 1
+./scripts/run_facts_agent.sh --model gemma-3-4b-it --limit 1
+./scripts/run_facts_agent.sh --model claude-haiku-4-5 --limit 1

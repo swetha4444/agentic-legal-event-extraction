@@ -27,9 +27,30 @@ source .venv/bin/activate
 
 **Options:** `--source clusters|recap`, `--max-cases N`, `--no-opinion-text` (skip fetching opinion text), `--nature-of-suit`, `--query`, `--filed-before`, `--out`. See **commands.txt**.
 
+## Run LLM facts extraction
+
+Uses **config/config.yaml** (model, max_calls, max_docs) and **.env** (`AGENT_API_KEY`). Install deps (including litellm) then run:
+
+```bash
+./scripts/setup.sh
+source .venv/bin/activate
+# Ensure .env has AGENT_API_KEY=your_key
+./scripts/run_facts_agent.sh --input data/processed/courtlistener_recap.jsonl --output data/outputs/facts_extracted.jsonl --limit 5
+```
+
+Or without the wrapper:
+
+```bash
+source .venv/bin/activate
+pip install -r requirements.txt
+python src/run_facts_agent.py --input data/processed/courtlistener_recap.jsonl --output data/outputs/facts_extracted.jsonl --limit 5
+```
+
+**Options:** `--input`, `--output`, `--limit` (overrides config `max_docs`). Budget is enforced from `config.yaml` (`llm.max_calls`).
+
 ## Config
 
-**config/config.yaml:** `courtlistener.source` (clusters | recap), `courtlistener.include_opinion_text`, `courtlistener.nature_of_suit`, `courtlistener.query`, `paths.courtlistener_output_file`.
+**config/config.yaml:** `courtlistener.*`, `llm` (api_base, model, temperature, max_calls, max_docs), `paths.*`. API key: set in **.env** as `AGENT_API_KEY` (see [docs/CONFIG_AND_ENV.md](docs/CONFIG_AND_ENV.md)).
 
 ## Output
 
