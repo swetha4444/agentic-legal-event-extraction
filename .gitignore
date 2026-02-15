@@ -31,3 +31,4 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+docs/MODEL_COMPARISON_FACTS.md
