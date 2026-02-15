@@ -47,6 +47,38 @@ const activityHint = document.getElementById("activityHint");
 
 const STORAGE_PREFIX = "annotation_deck";
 const CLOUD_BATCH_SIZE = 500;
+const COURTLISTENER_FIELDS = [
+  "case_id",
+  "cluster_id",
+  "docket_id",
+  "docket_number",
+  "court_id",
+  "court",
+  "court_citation_string",
+  "case_name",
+  "case_name_full",
+  "date_filed",
+  "date_terminated",
+  "date_argued",
+  "nature_of_suit",
+  "cause",
+  "document_text",
+  "absolute_url",
+  "parties",
+  "party_id",
+  "attorneys",
+  "attorney_id",
+  "firms",
+  "firm_id",
+  "assigned_to",
+  "assigned_to_id",
+  "referred_to",
+  "referred_to_id",
+  "jurisdiction_type",
+  "jury_demand",
+  "pacer_case_id",
+  "documents",
+];
 
 const state = {
   fileName: null,
@@ -176,6 +208,48 @@ function renderActivityTimeline() {
       `;
     })
     .join("");
+}
+
+function getEmptyCourtlistenerRecord(sourceRow) {
+  const record = {};
+  COURTLISTENER_FIELDS.forEach((field) => {
+    record[field] = field === "documents" ? [] : null;
+  });
+  record.source_row = sourceRow;
+  return record;
+}
+
+function getOriginalRecordBySourceRow(sourceRow) {
+  if (!Array.isArray(state.rawRows) || !state.rawRows.length) return null;
+  const idx = sourceRow - 1;
+  if (idx < 0 || idx >= state.rawRows.length) return null;
+  const row = state.rawRows[idx];
+  if (!row || typeof row !== "object" || Array.isArray(row)) return null;
+  return row;
+}
+
+function persistRawRowsSnapshot() {
+  if (!state.fileHash || !Array.isArray(state.rawRows) || !state.rawRows.length) return;
+  try {
+    localStorage.setItem(
+      `${STORAGE_PREFIX}:${state.fileHash}:raw_rows`,
+      JSON.stringify(state.rawRows)
+    );
+  } catch (error) {
+    // Ignore quota errors; export will still work with available runtime data.
+  }
+}
+
+function loadRawRowsSnapshot(fileHash) {
+  if (!fileHash) return [];
+  const raw = localStorage.getItem(`${STORAGE_PREFIX}:${fileHash}:raw_rows`);
+  if (!raw) return [];
+  try {
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (error) {
+    return [];
+  }
 }
 
 function renderSavedDatasets() {
@@ -727,27 +801,44 @@ function buildStructuredExport() {
     }
   });
 
+  // Ensure every source document appears, even if still unlabeled.
+  if (Array.isArray(state.rawRows) && state.rawRows.length) {
+    for (let i = 1; i <= state.rawRows.length; i += 1) {
+      if (!documentsBySource.has(i)) {
+        documentsBySource.set(i, {
+          source_row: i,
+          fact_sentences: [],
+          non_fact_sentences: [],
+        });
+      }
+    }
+  }
+
   const documents = [...documentsBySource.keys()]
     .sort((a, b) => a - b)
     .map((sourceRow) => {
       const grouped = documentsBySource.get(sourceRow);
+      const facts = grouped.fact_sentences.join(" ").trim();
+      const nonFacts = grouped.non_fact_sentences.join(" ").trim();
+      const original = getOriginalRecordBySourceRow(sourceRow);
+      const outputRecord = original
+        ? { ...original }
+        : getEmptyCourtlistenerRecord(sourceRow);
+
+      outputRecord.document_text =
+        `Extracted Facts: (${facts})\n\nExtracted Non Facts: (${nonFacts})`;
+      outputRecord["Extracted Facts"] = `(${facts})`;
+      outputRecord["Extracted Non Facts"] = `(${nonFacts})`;
+      if (!Object.prototype.hasOwnProperty.call(outputRecord, "source_row")) {
+        outputRecord.source_row = sourceRow;
+      }
+
       return {
-        source_row: grouped.source_row,
-        fact: grouped.fact_sentences.join(" ").trim(),
-        non_fact: grouped.non_fact_sentences.join(" ").trim(),
+        ...outputRecord,
       };
     });
 
-  return {
-    dataset: {
-      file_name: state.fileName,
-      file_hash: state.fileHash,
-      text_column: state.textColumn,
-      sentence_mode: state.sentenceMode,
-      exported_at: new Date().toISOString(),
-    },
-    documents,
-  };
+  return documents;
 }
 
 function exportData() {
@@ -899,7 +990,7 @@ async function openDatasetFromCloud(datasetId) {
   state.sentenceMode = Boolean(dataset.sentence_mode);
   state.format = "cloud";
   state.headers = ["sentence", "sentence_index", "sentence_count", "source_row"];
-  state.rawRows = [];
+  state.rawRows = loadRawRowsSnapshot(state.fileHash);
   state.rawText = "";
   state.items = sentences.map((row) => ({
     id: row.item_index,
@@ -1215,6 +1306,7 @@ async function startSession(resume) {
     return;
   }
 
+  persistRawRowsSnapshot();
   state.labels = {};
   state.activity = [];
   state.cursor = 0;

@@ -26,11 +26,12 @@ Then visit `http://localhost:8000`.
 Notes:
 - Saved datasets remain in cloud and can be reopened after future logins.
 - Local autosave still works and is merged when resuming.
-- Export is JSON-only and grouped by source document in fixed format:
-  - `documents[i].source_row`
-  - `documents[i].fact`
-  - `documents[i].non_fact`
-- Even unannotated documents are included with empty `fact`/`non_fact` strings.
+- Export is JSON-only and outputs one object per source document in original order.
+- Each exported object keeps original fields and updates text fields to:
+  - `document_text` -> `Extracted Facts: (...)` + `Extracted Non Facts: (...)`
+  - `Extracted Facts`
+  - `Extracted Non Facts`
+- Even unannotated documents are included with empty parentheses.
 - When sentence mode is enabled, extra fields are added: `sentence`, `sentence_index`, `sentence_count`, `source_row`.
 
 ## Free hosting (no backend required)
