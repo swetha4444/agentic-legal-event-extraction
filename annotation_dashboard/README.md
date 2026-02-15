@@ -20,7 +20,7 @@ Then visit `http://localhost:8000`.
 2. Choose a saved dataset, or upload a new CSV/JSONL file.
 3. Select the text column and (optionally) enable **Split into sentences**.
 4. Label each sentence as Fact or Non-Fact.
-5. Resume later from the **Saved Datasets** list.
+5. Reopen datasets later from the **Saved Datasets** list.
 6. Export labeled data as structured JSON.
 
 Notes:
@@ -53,12 +53,17 @@ Provider choice: **Supabase (Postgres + Auth)**. It is free-tier friendly and su
 
 1. Create a Supabase project.
 2. Open the SQL editor and run `annotation_dashboard/schema.sql`.
-3. Enable GitHub login:
+3. (Existing deployments) run `annotation_dashboard/admin_rls.sql` to enable admin-only delete policy.
+4. Enable GitHub login:
    - Supabase Dashboard -> Authentication -> Providers -> GitHub.
    - Add your GitHub OAuth app client ID/secret.
-4. Add redirect URLs:
+5. Add redirect URLs:
    - Add your site URL (e.g. `http://localhost:8000`, your Cloudflare Pages URL).
-5. Fill `annotation_dashboard/config.js` with your project URL and anon key.
+6. Fill `annotation_dashboard/config.js` with your project URL and anon key.
+
+Admin setup for delete:
+- Insert admins in `public.admin_users` (by `auth.users.id`).
+- Only those admins will be allowed to delete datasets by RLS.
 
 Note: OAuth requires the app to be served over HTTP (not `file://`). Use `python -m http.server` during local development.
 

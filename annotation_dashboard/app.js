@@ -5,7 +5,6 @@ const delimiterSelect = document.getElementById("delimiter");
 const headerToggle = document.getElementById("headerToggle");
 const textColumnSelect = document.getElementById("textColumn");
 const startBtn = document.getElementById("startBtn");
-const resumeBtn = document.getElementById("resumeBtn");
 const statusPill = document.getElementById("statusPill");
 const resetApp = document.getElementById("resetApp");
 const splitSentencesToggle = document.getElementById("splitSentences");
@@ -145,6 +144,34 @@ function isAdminUser(user) {
   const email = String(user.email || "").toLowerCase();
   const userId = String(user.id || "");
   return adminEmails.includes(email) || adminUserIds.includes(userId);
+}
+
+async function refreshAdminStatus(user) {
+  if (!supabaseClient || !user) {
+    state.isAdmin = false;
+    return;
+  }
+
+  const configAdmin = isAdminUser(user);
+  let dbAdmin = false;
+
+  const { data, error } = await supabaseClient
+    .from("admin_users")
+    .select("user_id")
+    .eq("user_id", user.id)
+    .maybeSingle();
+
+  if (error && error.code !== "PGRST116") {
+    // If admin_users table is not provisioned yet, keep config-based fallback.
+    console.warn("Admin lookup failed, using config fallback.", error);
+  } else {
+    dbAdmin = Boolean(data?.user_id);
+  }
+
+  if (!cloud.user || cloud.user.id !== user.id) return;
+
+  state.isAdmin = configAdmin || dbAdmin;
+  renderSavedDatasets();
 }
 
 function formatDateTime(isoString) {
@@ -318,6 +345,7 @@ function setUser(user) {
       showPage(pageUpload);
     }
     loadSavedDatasets();
+    refreshAdminStatus(user);
     if (state.items.length && !cloud.datasetReady) {
       syncCloudAfterLogin();
     }
@@ -1294,14 +1322,10 @@ function handleFile(file) {
 
       uploadInfo.textContent = `${file.name} loaded`;
       startBtn.disabled = false;
-
-      const saved = loadSavedProgress();
-      resumeBtn.disabled = !saved;
-      setStatus(saved ? "Saved session found" : "Ready", saved ? "warn" : "ready");
+      setStatus("Ready", "ready");
     } catch (err) {
       uploadInfo.textContent = `Error: ${err.message}`;
       startBtn.disabled = true;
-      resumeBtn.disabled = true;
       setStatus("Error", "warn");
     }
   };
@@ -1324,7 +1348,7 @@ function refreshColumns() {
   updateColumnOptions(headers);
 }
 
-async function startSession(resume) {
+async function startSession() {
   if (!cloud.user) {
     setStatus("Sign in required", "warn");
     showPage(pageAuth);
@@ -1358,15 +1382,7 @@ async function startSession(resume) {
   state.labels = {};
   state.activity = [];
   state.cursor = 0;
-  if (resume) {
-    const saved = loadSavedProgress();
-    if (saved) {
-      state.labels = saved.labels || {};
-      state.cursor = saved.cursor || 0;
-    }
-  } else {
-    clearProgress();
-  }
+  clearProgress();
 
   const baseRows = state.rawRows.length;
   const metaSuffix = state.sentenceMode
@@ -1425,8 +1441,7 @@ uploadZone.addEventListener("drop", (event) => {
   }
 });
 
-startBtn.addEventListener("click", () => startSession(false));
-resumeBtn.addEventListener("click", () => startSession(true));
+startBtn.addEventListener("click", () => startSession());
 
 delimiterSelect.addEventListener("change", refreshColumns);
 headerToggle.addEventListener("change", refreshColumns);
@@ -1475,7 +1490,6 @@ resetApp.addEventListener("click", () => {
   textColumnSelect.innerHTML = "<option>Upload a file first</option>";
   textColumnSelect.disabled = true;
   startBtn.disabled = true;
-  resumeBtn.disabled = true;
   splitSentencesToggle.checked = true;
   delimiterSelect.disabled = false;
   headerToggle.disabled = false;

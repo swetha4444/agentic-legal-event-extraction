@@ -698,6 +698,15 @@ button:disabled {
   height: 100%;
   min-height: 0;
   overflow: hidden;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  position: relative;
+}
+
+.workbench::before,
+.workbench::after {
+  content: none;
 }
 
 .sentence-card {

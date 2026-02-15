@@ -58,6 +58,11 @@ create table if not exists public.annotations (
   unique (dataset_id, item_index, user_id)
 );
 
+create table if not exists public.admin_users (
+  user_id uuid primary key references auth.users(id) on delete cascade,
+  created_at timestamptz default now()
+);
+
 create or replace function public.set_updated_at()
 returns trigger
 language plpgsql
@@ -76,6 +81,7 @@ alter table public.profiles enable row level security;
 alter table public.datasets enable row level security;
 alter table public.sentences enable row level security;
 alter table public.annotations enable row level security;
+alter table public.admin_users enable row level security;
 
 create policy "Profiles are readable by authenticated users"
   on public.profiles for select
@@ -92,6 +98,16 @@ create policy "Datasets readable"
 create policy "Datasets insert"
   on public.datasets for insert
   with check (auth.role() = 'authenticated');
+
+create policy "Datasets delete admin only"
+  on public.datasets for delete
+  using (
+    exists (
+      select 1
+      from public.admin_users admins
+      where admins.user_id = auth.uid()
+    )
+  );
 
 create policy "Sentences readable"
   on public.sentences for select
@@ -116,4 +132,8 @@ create policy "Annotations update own"
 
 create policy "Annotations delete own"
   on public.annotations for delete
+  using (auth.uid() = user_id);
+
+create policy "Admin users read own row"
+  on public.admin_users for select
   using (auth.uid() = user_id);
