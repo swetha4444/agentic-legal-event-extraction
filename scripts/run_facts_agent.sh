@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# Run LLM facts extraction. Uses .venv, config/config.yaml, .env (AGENT_API_KEY).
+# Run facts extraction. Swap agent with --agent llm (default) or --agent bert.
+# LLM: uses config/config.yaml and .env (AGENT_API_KEY). Optional: --model gpt4o
+# BERT: requires --checkpoint <path>. Optional: --first-contiguous-only
 set -e
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$PROJECT_ROOT"
