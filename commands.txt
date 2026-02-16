@@ -8,24 +8,39 @@ module load conda/latest && source .venv/bin/activate && module load cuda/12.6
 ./scripts/setup.sh
 source .venv/bin/activate
 
+# ---- Data pipeline (CourtListener → US court opinions JSONL) ----
+# Token: export COURTLISTENER_API_TOKEN=... or .courtlistener_token in project root
+./scripts/run_courtlistener_pipeline.sh --config config/config.yaml
+# Optional: ./scripts/run_courtlistener_pipeline.sh --max-cases 100 --out data/processed/courtlistener_recap.jsonl
+# Output: data/processed/courtlistener_recap.jsonl (case_id, docket_id, document_text=opinion, parties, etc.)
+
 # ---- Facts extraction (LLM or BERT) ----
+# Input can be CourtListener JSONL: add --input data/processed/courtlistener_recap.jsonl
 ./scripts/run_facts_agent.sh --limit 1
 ./scripts/run_facts_agent.sh --model claude-haiku-4-5 --limit 1
 ./scripts/run_facts_legal_bert.sh --checkpoint data/models/legal_bert_facts_marro --limit 1
 
-# ---- Training (GPU; full MARRO) ----
+# Training (GPU; full MARRO)
 ./scripts/train/run_legal_bert_train.sh
 ./scripts/train/run_lexlm_train.sh
 
-# ---- Training hold-out (optional; for clean eval on uksc-2011-0183) ----
-# 1) Create data/labeled/marro_fact_nonfact_holdout.jsonl (exclude uksc-2011-0183.txt)
-# 2) ./scripts/train/run_legal_bert_train_holdout.sh   or   ./scripts/train/run_lexlm_train_holdout.sh
-
-# ---- Eval (single doc or whole dir; LegalBERT or LexLM) ----
+# Eval (single doc or whole dir; LegalBERT or LexLM)
+# Run one doc
 PYTHONPATH=src .venv/bin/python scripts/eval/eval_legal_bert_on_marro_dir.py --checkpoint data/models/legal_bert_facts_marro --docs data/MARRO/UK-dataset/uksc-2011-0183.txt
+# Run all docs
 PYTHONPATH=src .venv/bin/python scripts/eval/eval_legal_bert_on_marro_dir.py --checkpoint data/models/lexlm_facts_marro --docs data/MARRO/UK-dataset
 PYTHONPATH=src .venv/bin/python scripts/eval/eval_legal_bert_on_marro_dir.py --checkpoint data/models/lexlm_facts_marro --docs data/MARRO/UK-dataset --quiet
+# Country shortcut + balanced random sentence limit
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_legal_bert_on_marro_dir.py --checkpoint data/models/legal_bert_facts_marro --country uk --limit 100 --seed 42
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_legal_bert_on_marro_dir.py --checkpoint data/models/legal_bert_facts_marro --country india --limit 100 --seed 42
+# Interactive prompt mode (asks country + limit)
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_legal_bert_on_marro_dir.py --checkpoint data/models/legal_bert_facts_marro
 
-# ---- Compare BERT vs LLM (same doc(s)) ----
+# Compare BERT vs LLM (same doc(s))
 PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --doc data/MARRO/UK-dataset/uksc-2011-0183.txt --llm gpt4o
 PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --docs data/MARRO/UK-dataset
+# Country shortcut + balanced random sentence limit
+PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --country uk --limit 100 --seed 42 --llm gpt4o
+PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --country india --limit 100 --seed 42 --llm gpt4o
+# Interactive prompt mode (asks country + limit)
+PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --llm gpt4o
