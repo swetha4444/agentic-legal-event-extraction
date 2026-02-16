@@ -9,12 +9,7 @@ venv/
 *.swo
 
 # Data (keep structure, ignore large files)
-data/raw/*
-data/processed/*
-data/outputs/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!data/outputs/.gitkeep
+data/*
 
 # Python
 __pycache__/

@@ -7,3 +7,9 @@ openai>=1.0.0
 python-dotenv>=1.0.0
 # litellm still used by src/processing/fact_extractor.py (anonymization)
 litellm>=1.0.0
+
+# LegalBERT / LexLM facts extraction (optional; install if using train/eval)
+torch>=2.0.0
+transformers>=4.30.0
+sacremoses>=0.0.53
+protobuf>=3.20.0
