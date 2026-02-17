@@ -68,6 +68,21 @@ class LLMFactsExtractor:
 
     def extract(self, text: str, case_name: str = "", docket_number: str = "") -> str:
         """Extract court-established facts. Raises BudgetExceededError if max_calls reached."""
+        return self.extract_with_prompt(
+            text=text,
+            case_name=case_name,
+            docket_number=docket_number,
+        )
+
+    def extract_with_prompt(
+        self,
+        text: str,
+        case_name: str = "",
+        docket_number: str = "",
+        system_prompt: Optional[str] = None,
+        user_prompt_template: Optional[str] = None,
+    ) -> str:
+        """Extract facts using optional custom prompts (for eval pipelines)."""
         if not (text or "").strip():
             return ""
 
@@ -76,6 +91,8 @@ class LLMFactsExtractor:
             text=text,
             case_name=case_name,
             docket_number=docket_number,
+            system_prompt=system_prompt,
+            user_prompt_template=user_prompt_template,
         )
         try:
             response = self._client.chat.completions.create(
