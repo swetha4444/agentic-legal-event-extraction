@@ -3,18 +3,30 @@ CourtListener API client: clusters (case law) and RECAP search.
 Clusters API: GET /api/rest/v4/clusters/ — works with standard token (Authorization: Token <token>).
 RECAP Search: GET /api/rest/v4/search/?type=r — may require subscription.
 """
+import logging
 import os
 import re
+import time
 from pathlib import Path
 from typing import Any, Iterator, Optional
 
 import requests
 import yaml
 
+logger = logging.getLogger(__name__)
+
+# Timeouts (seconds). Cluster/list can be slow; use longer timeout + retries.
+REQUEST_TIMEOUT_CLUSTERS = 120
+REQUEST_TIMEOUT_DEFAULT = 45
+REQUEST_RETRIES = 3
+REQUEST_RETRY_BACKOFF = 10
+
 CLUSTERS_URL = "https://www.courtlistener.com/api/rest/v4/clusters/"
 DOCKETS_URL = "https://www.courtlistener.com/api/rest/v4/dockets/"
+DOCKET_ENTRIES_URL = "https://www.courtlistener.com/api/rest/v4/docket-entries/"
 PARTIES_URL = "https://www.courtlistener.com/api/rest/v4/parties/"
 SEARCH_URL = "https://www.courtlistener.com/api/rest/v4/search/"
+RECAP_DOCUMENTS_URL = "https://www.courtlistener.com/api/rest/v4/recap-documents/"
 
 # Court IDs for U.S. Circuit Courts (appellate) — exclude when district_only=True
 APPELLATE_COURT_PREFIXES = ("ca", "uscfc", "usca", "arb", "neb", "nysb")
@@ -36,6 +48,29 @@ def _is_district_court(court_id: Optional[str]) -> bool:
     if not c:
         return False
     return not any(c.startswith(p) for p in APPELLATE_COURT_PREFIXES)
+
+
+def _get_with_retries(
+    url: str,
+    headers: dict,
+    timeout: int = REQUEST_TIMEOUT_DEFAULT,
+    params: Optional[dict] = None,
+    retries: int = REQUEST_RETRIES,
+    backoff: int = REQUEST_RETRY_BACKOFF,
+) -> requests.Response:
+    """GET with retries on ReadTimeout and ConnectionError."""
+    last_exc = None
+    for attempt in range(retries):
+        try:
+            resp = requests.get(url, headers=headers, timeout=timeout, params=params)
+            return resp
+        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectTimeout, requests.exceptions.ConnectionError) as e:
+            last_exc = e
+            if attempt < retries - 1:
+                wait = backoff * (attempt + 1)
+                logger.warning("Request timeout/error (attempt %s/%s), retrying in %ss: %s", attempt + 1, retries, wait, e)
+                time.sleep(wait)
+    raise last_exc
 
 
 def _get_token(api_token: Optional[str] = None) -> str:
@@ -183,6 +218,171 @@ def _fetch_parties_for_docket(docket_id: Any, headers: dict) -> list:
         return []
 
 
+def _fetch_recap_document_plain_text(doc_id: Any, headers: dict) -> str:
+    """GET full plain_text for a RECAP document by ID. Returns '' if 403/no access."""
+    if doc_id is None:
+        return ""
+    try:
+        url = f"{RECAP_DOCUMENTS_URL.rstrip('/')}/{int(doc_id)}/"
+        resp = requests.get(url, params={"fields": "plain_text"}, headers=headers, timeout=20)
+        if resp.status_code != 200:
+            return ""
+        data = resp.json()
+        return (data.get("plain_text") or "").strip()
+    except Exception:
+        return ""
+
+
+def _fetch_complaint_text_via_docket_entries(docket_id: Any, headers: dict, max_docs: int = 10) -> tuple[list, str]:
+    """
+    Fetch complaint text via Docket Entries API: GET docket-entries/?docket=X.
+    Each entry can include nested recap_documents with full plain_text (per CourtListener PACER docs).
+    Returns (list of complaint doc dicts, concatenated plain_text). Returns ([], "") if API unavailable or no complaints.
+    """
+    if docket_id is None:
+        return [], ""
+    out: list = []
+    parts: list = []
+    url: Optional[str] = f"{DOCKET_ENTRIES_URL}?docket={docket_id}"
+    try:
+        while url and len(out) < max_docs:
+            try:
+                resp = _get_with_retries(url, headers, timeout=REQUEST_TIMEOUT_DEFAULT, params=None)
+            except Exception:
+                break
+            if resp.status_code != 200:
+                break
+            data = resp.json()
+            for entry in data.get("results", []):
+                desc = (entry.get("description") or "").lower()
+                short = (entry.get("short_description") or "").lower()
+                if "complaint" not in desc and "complaint" not in short:
+                    continue
+                docs = entry.get("recap_documents") or entry.get("recapDocuments") or []
+                if not docs and entry.get("recap_document"):
+                    docs = [entry["recap_document"]]
+                for doc in docs:
+                    if len(out) >= max_docs:
+                        break
+                    if not isinstance(doc, dict):
+                        continue
+                    plain = (doc.get("plain_text") or "").strip()
+                    if plain:
+                        parts.append(plain)
+                    out.append({
+                        "id": doc.get("id"),
+                        "description": entry.get("description") or doc.get("description") or "",
+                        "short_description": entry.get("short_description") or doc.get("short_description") or "",
+                        "snippet": (plain or doc.get("snippet") or "")[:10000],
+                        "entry_number": entry.get("entry_number") or doc.get("entry_number"),
+                        "entry_date_filed": entry.get("entry_date_filed") or doc.get("entry_date_filed"),
+                        "document_number": doc.get("document_number") or entry.get("document_number"),
+                        "absolute_url": doc.get("absolute_url") or "",
+                        "is_available": doc.get("is_available"),
+                    })
+            url = data.get("next")
+    except Exception:
+        pass
+    complaint_text = "\n\n---\n\n".join(parts) if parts else ""
+    return out, complaint_text.strip()
+
+
+def _fetch_complaints_for_docket(docket_id: Any, headers: dict, max_docs: int = 10) -> tuple[list, str]:
+    """
+    Fetch complaint-like RECAP documents for a docket.
+    Tries Docket Entries API first (nested recap_documents with plain_text); falls back to Search API (type=rd).
+    Returns (list of complaint doc dicts, best available full complaint text).
+    """
+    if docket_id is None:
+        return [], ""
+    # Prefer Docket Entries API when available (includes full plain_text in nested recap_documents)
+    out, complaint_text = _fetch_complaint_text_via_docket_entries(docket_id, headers, max_docs=max_docs)
+    if complaint_text and out:
+        return out, complaint_text
+    out = []
+    try:
+        q = (
+            f'docket_id:{docket_id} AND document_type:"PACER Document" '
+            f'AND (description:complaint OR short_description:complaint)'
+        )
+        params: dict[str, Any] = {"type": "rd", "q": q}
+        # Request snippet (and plain_text if returned) so we have fallback when recap-documents 403
+        params["fields"] = "snippet,plain_text,id,description,short_description,entry_number,entry_date_filed,document_number,absolute_url,is_available"
+        url = SEARCH_URL
+        while url and len(out) < max_docs:
+            try:
+                resp = _get_with_retries(url, headers, timeout=REQUEST_TIMEOUT_DEFAULT, params=params if url == SEARCH_URL else None)
+            except Exception:
+                break
+            if resp.status_code != 200:
+                break
+            data = resp.json()
+            for d in data.get("results", []):
+                # Search may return snippet or plain_text; keep both for building complaint_text
+                raw_snippet = d.get("snippet") or ""
+                raw_plain = (d.get("plain_text") or "")[:500000]
+                snippet = (raw_snippet or raw_plain or "")[:10000]
+                out.append({
+                    "id": d.get("id"),
+                    "description": d.get("description") or "",
+                    "short_description": d.get("short_description") or "",
+                    "snippet": snippet,
+                    "plain_text_from_search": raw_plain[:10000] if raw_plain else "",
+                    "entry_number": d.get("entry_number"),
+                    "entry_date_filed": d.get("entry_date_filed"),
+                    "document_number": d.get("document_number"),
+                    "absolute_url": d.get("absolute_url") or "",
+                    "is_available": d.get("is_available"),
+                })
+                if len(out) >= max_docs:
+                    break
+            url = data.get("next")
+            params = {}
+        out.sort(key=lambda x: (0 if x.get("entry_number") == 1 else 1, x.get("entry_number") or 999, x.get("entry_date_filed") or "9999"))
+    except Exception:
+        pass
+
+    complaint_text = ""
+    if out:
+        # Try full plain_text from recap-documents API (up to 5 docs to limit requests); else use search snippet
+        max_plain_fetches = 5
+        parts = []
+        for i, doc in enumerate(out):
+            doc_id = doc.get("id")
+            full = ""
+            if doc_id and i < max_plain_fetches:
+                full = _fetch_recap_document_plain_text(doc_id, headers)
+            if full:
+                parts.append(full)
+            else:
+                snippet = (doc.get("plain_text_from_search") or doc.get("snippet") or "").strip()
+                if snippet:
+                    parts.append(snippet)
+        if parts:
+            complaint_text = "\n\n---\n\n".join(parts)
+        if not complaint_text and out:
+            logger.debug("Complaints found for docket %s but no text (recap-documents may require subscription)", docket_id)
+    # Return out without internal key for API consumers
+    for doc in out:
+        doc.pop("plain_text_from_search", None)
+    return out, complaint_text.strip()
+
+
+def fetch_complaints_for_docket(
+    docket_id: Any,
+    api_token: Optional[str] = None,
+    max_docs: int = 10,
+) -> tuple[list, str]:
+    """
+    Fetch complaint RECAP documents for a docket by ID (Search API type=rd).
+    Returns (list of complaint doc dicts, full complaint text).
+    Use this to enrich existing records that have docket_id (e.g. from courtlistener_recap.jsonl).
+    """
+    token = _get_token(api_token)
+    headers = {"Authorization": f"Token {token}"}
+    return _fetch_complaints_for_docket(docket_id, headers, max_docs=max_docs)
+
+
 def _docket_id_from_cluster(item: dict) -> Optional[int]:
     """Get numeric docket_id from cluster item (may be in docket_id or in docket URL)."""
     did = item.get("docket_id")
@@ -221,7 +421,12 @@ def fetch_clusters(
     url: Optional[str] = base_url
 
     while url:
-        resp = requests.get(url, params=params if url == base_url else None, headers=headers, timeout=60)
+        resp = _get_with_retries(
+            url,
+            headers,
+            timeout=REQUEST_TIMEOUT_CLUSTERS,
+            params=params if url == base_url else None,
+        )
         if resp.status_code == 401:
             msg = (
                 "CourtListener API returned 401 Unauthorized. "
@@ -238,6 +443,8 @@ def fetch_clusters(
         resp.raise_for_status()
         data = resp.json()
         results = data.get("results") or []
+        if results and not params:
+            logger.info("Fetching cluster page (batch of %s)", len(results))
         for item in results:
             rec = _normalize_cluster_result(item)
             if nature_of_suit_filter and rec.get("nature_of_suit"):
@@ -263,10 +470,19 @@ def fetch_clusters(
                     api_parties = _fetch_parties_for_docket(did, headers)
                     if api_parties:
                         rec["parties"] = api_parties
+                    complaints_list, complaint_text = _fetch_complaints_for_docket(did, headers)
+                    rec["complaints"] = complaints_list
+                    rec["complaint_text"] = complaint_text
+                    if complaints_list:
+                        logger.info("  docket %s: %s complaint(s), opinion %s chars", did, len(complaints_list), len(rec.get("opinion_text") or ""))
                 if "assigned_to" not in rec:
                     rec["assigned_to"] = ""
                 if "referred_to" not in rec:
                     rec["referred_to"] = ""
+                if "complaints" not in rec:
+                    rec["complaints"] = []
+                if "complaint_text" not in rec:
+                    rec["complaint_text"] = ""
             yield rec
             count += 1
             if max_results is not None and count >= max_results:
@@ -361,7 +577,12 @@ def search_recap(
     url: Optional[str] = base_url
 
     while url:
-        resp = requests.get(url, params=params if url == base_url else None, headers=headers, timeout=60)
+        resp = _get_with_retries(
+            url,
+            headers,
+            timeout=REQUEST_TIMEOUT_CLUSTERS,
+            params=params if url == base_url else None,
+        )
         if resp.status_code == 401:
             try:
                 body = resp.json()
