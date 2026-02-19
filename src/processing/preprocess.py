@@ -18,16 +18,23 @@ class TextCleaner:
     SECTION_HEADERS = [
         r"(?i)(?:I+\.?\s+)?BACKGROUND",
         r"(?i)(?:I+\.?\s+)?FACTS",
-        r"(?i)(?:I+\.?\s+)?FACTUAL\s+BACKGROUND",
+        r"(?i)(?:I+\.?\s+)?FACTUAL\s+ALLEGATIONS", # Common in Complaints
         r"(?i)(?:I+\.?\s+)?RELEVANT\s+FACTS",
         r"(?i)(?:I+\.?\s+)?PROCEDURAL\s+HISTORY",
+        r"(?i)(?:I+\.?\s+)?JURISDICTION", # Common in Complaints
+        r"(?i)(?:I+\.?\s+)?VENUE", # Common in Complaints
+        r"(?i)(?:I+\.?\s+)?PARTIES", # Common in Complaints
+        r"(?i)(?:I+\.?\s+)?COUNT\s+[IVX0-9]+", # Common in Complaints (Count I, Count 1, etc)
         r"(?i)(?:I+\.?\s+)?DISCUSSION",
         r"(?i)(?:I+\.?\s+)?ANALYSIS",
         r"(?i)(?:I+\.?\s+)?CONCLUSION",
         r"(?i)(?:I+\.?\s+)?LEGAL\s+STANDARD",
+        r"(?i)(?:I+\.?\s+)?PRAYER\s+FOR\s+RELIEF", # Common in Complaints
+        r"(?i)(?:I+\.?\s+)?REQUEST\s+FOR\s+RELIEF", # Common in Complaints
         r"(?i)MEMORANDUM",
         r"(?i)OPINION",
         r"(?i)DECISION",
+        r"(?i)COMPLAINT", # Sometimes a header itself
     ]
 
     def clean(self, text: str) -> str:
@@ -150,6 +157,8 @@ class TextCleaner:
             r"(?i)\n\s*memorandum\s*\n",
             r"(?i)\n\s*opinion\s*\n",
             r"(?i)\n\s*decision\s*\n",
+            r"(?i)\n\s*complaint\s*\n",
+            r"(?i)\n\s*civil\s+action\s+complaint\s*\n",
         ]:
             match = re.search(pattern, text)
             if match:

@@ -13,3 +13,6 @@ torch>=2.0.0
 transformers>=4.30.0
 sacremoses>=0.0.53
 protobuf>=3.20.0
+
+# PDF Text Extraction (for RECAP Complaints)
+pypdf>=3.0.0
