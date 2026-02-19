@@ -15,7 +15,14 @@ from typing import Optional
 
 import yaml
 
-from src.data.courtlistener_client import fetch_clusters, fetch_complaints_for_docket
+from src.data.courtlistener_client import (
+    fetch_clusters,
+    fetch_complaints_for_docket,
+    fetch_docket,
+    fetch_opinion_for_docket,
+    fetch_parties_for_docket,
+    search_recap_complaint_docket_ids,
+)
 
 logging.basicConfig(
     level=logging.INFO,
@@ -45,6 +52,54 @@ def _pick_document_text(rec: dict, prefer_complaint: bool = True) -> str:
     if docs:
         return (docs[0].get("snippet") or "").strip()
     return ""
+
+
+def _recap_first_record_to_output(
+    docket: dict,
+    opinion_text: str,
+    cluster_id: Optional[int],
+    complaint_text: str,
+    complaints: list,
+    parties: list,
+    count: int,
+) -> dict:
+    """Build output dict from RECAP-first path (docket + opinion + complaints). Same shape as cluster output."""
+    case_name = docket.get("case_name") or docket.get("case_name_short") or ""
+    return {
+        "case_id": cluster_id or docket.get("id") or count,
+        "cluster_id": cluster_id,
+        "docket_id": docket.get("id"),
+        "docket_number": docket.get("docket_number") or "",
+        "court_id": docket.get("court_id"),
+        "court": docket.get("court"),
+        "court_citation_string": None,
+        "case_name": case_name,
+        "case_name_full": docket.get("case_name_full") or "",
+        "date_filed": docket.get("date_filed"),
+        "date_terminated": docket.get("date_terminated"),
+        "date_argued": docket.get("date_argued"),
+        "nature_of_suit": docket.get("nature_of_suit") or "",
+        "cause": docket.get("cause") or "",
+        "document_text": opinion_text,
+        "opinion_text": opinion_text,
+        "complaint_text": complaint_text,
+        "complaints": complaints,
+        "absolute_url": docket.get("absolute_url"),
+        "parties": parties,
+        "party_id": [],
+        "attorneys": [],
+        "attorney_id": [],
+        "firms": [],
+        "firm_id": [],
+        "assigned_to": docket.get("assigned_to_str"),
+        "assigned_to_id": None,
+        "referred_to": docket.get("referred_to_str"),
+        "referred_to_id": None,
+        "jurisdiction_type": docket.get("jurisdiction_type"),
+        "jury_demand": docket.get("jury_demand"),
+        "pacer_case_id": docket.get("pacer_case_id"),
+        "documents": [],
+    }
 
 
 def _cluster_record_to_output(rec: dict, doc_text: str, complaint_text: str, complaints: list, count: int) -> dict:
@@ -132,6 +187,61 @@ def run(
             count += 1
 
     logger.info("Wrote %s cases to %s (skipped %s without both opinion and complaint)", count, out_path, skipped)
+    return count
+
+
+def run_recap_first(
+    max_cases: Optional[int] = None,
+    out_path: Optional[str] = None,
+    config_path: Optional[Path] = None,
+):
+    """
+    RECAP-first pipeline: search for dockets that have complaint documents, then fetch opinion per docket.
+    Higher hit rate than cluster-first when many clusters lack RECAP complaints.
+    """
+    default_config = Path(__file__).resolve().parents[1] / "config" / "config.yaml"
+    path_to_load = config_path or default_config
+    cfg = _load_config_file(path_to_load)
+    paths_cfg = cfg.get("paths", {})
+    out_path = out_path or paths_cfg.get("courtlistener_output_file") or "data/processed/courtlistener_recap.jsonl"
+    out_path = Path(out_path)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+
+    max_docket_ids = (max_cases or 400) * 4
+    logger.info("RECAP-first: searching for docket_ids with complaints (max %s), then fetching opinion per docket; out=%s", max_docket_ids, out_path)
+    count = 0
+    skipped = 0
+    written_docket_ids = set()
+    with open(out_path, "w") as f:
+        for docket_id in search_recap_complaint_docket_ids(max_docket_ids=max_docket_ids):
+            if max_cases is not None and count >= max_cases:
+                break
+            if docket_id in written_docket_ids:
+                continue
+            docket = fetch_docket(docket_id)
+            if not docket:
+                skipped += 1
+                continue
+            opinion_text, cluster_id = fetch_opinion_for_docket(docket_id)
+            opinion_text = (opinion_text or "").strip()
+            complaints_list, complaint_text = fetch_complaints_for_docket(docket_id)
+            complaint_text = (complaint_text or "").strip()
+            has_opinion = bool(opinion_text)
+            has_complaint = bool(complaint_text) or len(complaints_list) > 0
+            if not (has_opinion and has_complaint):
+                logger.info("Skip (no opinion or no complaint): %s (docket %s)", docket.get("case_name") or docket_id, docket_id)
+                skipped += 1
+                continue
+            written_docket_ids.add(docket_id)
+            parties = fetch_parties_for_docket(docket_id)
+            out = _recap_first_record_to_output(
+                docket, opinion_text, cluster_id, complaint_text, complaints_list, parties, count,
+            )
+            f.write(json.dumps(out, default=str) + "\n")
+            count += 1
+            logger.info("Case %s: %s (docket %s) -> %s complaint(s)", count, docket.get("case_name") or docket_id, docket_id, len(complaints_list))
+
+    logger.info("Wrote %s cases to %s (skipped %s)", count, out_path, skipped)
     return count
 
 
@@ -265,7 +375,7 @@ def main():
             max_records=args.max_records,
             max_cases=args.max_cases,
         )
-    else:
+    elif not args.recap_first:
         run(
             max_cases=args.max_cases,
             nature_of_suit=args.nature_of_suit,

@@ -2,6 +2,11 @@
 CourtListener API client: clusters (case law) and RECAP search.
 Clusters API: GET /api/rest/v4/clusters/ — works with standard token (Authorization: Token <token>).
 RECAP Search: GET /api/rest/v4/search/?type=r — may require subscription.
+
+In RECAP-first the order is:
+Complaints first – Search RECAP for complaint documents and get the set of docket_ids that have at least one complaint.
+Then opinion – For each of those docket_ids, fetch the court opinion (via clusters/docket). If we get both opinion and complaint, we write the record; if there’s no opinion for that docket, we skip it.
+So we prioritize complaints (only look at dockets that already have complaints), then check for opinion and keep only cases that have both. That’s the opposite of cluster-first, where we start from opinions and then often find no complaint.
 """
 import logging
 import os
@@ -193,6 +198,20 @@ def _fetch_docket(docket_id: Any, headers: dict) -> Optional[dict]:
         return None
 
 
+def fetch_docket(docket_id: Any, api_token: Optional[str] = None) -> Optional[dict]:
+    """GET one docket by ID; return parsed JSON or None. Public wrapper for _fetch_docket."""
+    token = _get_token(api_token)
+    headers = {"Authorization": f"Token {token}"}
+    return _fetch_docket(docket_id, headers)
+
+
+def fetch_parties_for_docket(docket_id: Any, api_token: Optional[str] = None) -> list:
+    """GET parties for a docket; return list of party names. Empty if 403/no access. Public wrapper."""
+    token = _get_token(api_token)
+    headers = {"Authorization": f"Token {token}"}
+    return _fetch_parties_for_docket(docket_id, headers)
+
+
 def _fetch_parties_for_docket(docket_id: Any, headers: dict) -> list:
     """GET parties for a docket; return list of party names (and optionally roles). Empty if 403/no access."""
     if docket_id is None:
@@ -381,6 +400,55 @@ def fetch_complaints_for_docket(
     token = _get_token(api_token)
     headers = {"Authorization": f"Token {token}"}
     return _fetch_complaints_for_docket(docket_id, headers, max_docs=max_docs)
+
+
+def search_recap_complaint_docket_ids(
+    api_token: Optional[str] = None,
+    max_docket_ids: int = 500,
+) -> Iterator[int]:
+    """
+    Search RECAP (type=rd) for complaint documents; yield unique docket_ids.
+    Use this for RECAP-first pipeline: start from dockets that have complaints, then fetch opinion per docket.
+    """
+    token = _get_token(api_token)
+    headers = {"Authorization": f"Token {token}"}
+    q = (
+        'document_type:"PACER Document" '
+        'AND (description:complaint OR short_description:complaint)'
+    )
+    params: dict[str, Any] = {"type": "rd", "q": q}
+    seen: set[int] = set()
+    url: Optional[str] = SEARCH_URL
+    try:
+        while url and len(seen) < max_docket_ids:
+            try:
+                resp = _get_with_retries(
+                    url,
+                    headers,
+                    timeout=REQUEST_TIMEOUT_DEFAULT,
+                    params=params if url == SEARCH_URL else None,
+                )
+            except Exception:
+                break
+            if resp.status_code != 200:
+                break
+            data = resp.json()
+            for d in data.get("results", []):
+                did = d.get("docket_id")
+                if did is not None:
+                    try:
+                        did_int = int(did)
+                        if did_int not in seen:
+                            seen.add(did_int)
+                            yield did_int
+                            if len(seen) >= max_docket_ids:
+                                return
+                    except (TypeError, ValueError):
+                        pass
+            url = data.get("next")
+            params = {}
+    except Exception:
+        pass
 
 
 def _docket_id_from_cluster(item: dict) -> Optional[int]:

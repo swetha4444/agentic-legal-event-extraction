@@ -8,11 +8,18 @@ module load conda/latest && source .venv/bin/activate && module load cuda/12.6
 ./scripts/setup.sh
 source .venv/bin/activate
 
-# ---- Data pipeline (CourtListener → US court opinions JSONL) ----
+# ---- Data pipeline (CourtListener → US court opinions + complaints JSONL) ----
 # Token: export COURTLISTENER_API_TOKEN=... or .courtlistener_token in project root
 ./scripts/run_courtlistener_pipeline.sh --config config/config.yaml
-# Optional: ./scripts/run_courtlistener_pipeline.sh --max-cases 100 --out data/processed/courtlistener_recap.jsonl
-# Output: data/processed/courtlistener_recap.jsonl (case_id, docket_id, document_text=opinion, parties, etc.)
+# Cluster-first (default): fetch opinion clusters, then complaints per docket. Optional:
+./scripts/run_courtlistener_pipeline.sh --max-cases 100 --out data/processed/courtlistener_recap.jsonl
+# RECAP-first (complaints first, then opinion per docket; better hit rate):
+./scripts/run_courtlistener_pipeline.sh --recap-first --max-cases 400 --out data/processed/courtlistener_recap.jsonl
+# From-file: enrich existing JSONL by docket_id (add complaint_text + complaints); only records with both opinion and complaint unless --no-filter
+./scripts/run_courtlistener_pipeline.sh --from-file data/processed/courtlistener_recap.jsonl --out data/processed/courtlistener_recap_opinionandcomplaints.jsonl --max-cases 400
+# From-file options: --no-filter (write all enriched records), --max-records N (cap input lines). If file exhausted before max-cases, cluster API fills the rest.
+./scripts/run_courtlistener_pipeline.sh --from-file data/processed/recap_with_opinion.jsonl --out data/processed/courtlistener_recap2.jsonl --max-cases 400 --no-filter
+# Output: JSONL with case_id, docket_id, document_text/opinion_text, complaint_text, complaints[], parties, etc.
 
 # ---- Facts extraction (LLM or BERT) ----
 # Input can be CourtListener JSONL: add --input data/processed/courtlistener_recap.jsonl
