@@ -51,3 +51,16 @@ PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert
 PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --country india --limit 100 --seed 42 --llm gpt4o
 # Interactive prompt mode (asks country + limit)
 PYTHONPATH=src .venv/bin/python scripts/eval/compare_bert_llm_on_marro.py --bert data/models/legal_bert_facts_marro --llm gpt4o
+
+# ---- 3-mode eval on compiled MARRO JSON (classifier | llm | hybrid) ----
+# Classifier-only (default local best legal checkpoint: data/models/lexlm_facts_marro)
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode classifier --input-json data/processed_json/marro_uk_compiled.json
+# LLM-only
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode llm --llm-model gpt4o --input-json data/processed_json/marro_uk_compiled.json
+# Hybrid: classifier first, LLM refines low-confidence sentences
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode hybrid --llm-model gpt4o --tolerance 0.80 --input-json data/processed_json/marro_uk_compiled.json
+
+# Quick sanity (small limit for fast checks) - works for all modes
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode classifier --input-json data/processed_json/marro_uk_compiled.json --max-docs 1 --max-sentences-per-doc 20 --run-name sanity_classifier_1doc_20
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode llm --llm-model gpt4o --input-json data/processed_json/marro_uk_compiled.json --max-docs 1 --max-sentences-per-doc 20 --run-name sanity_llm_1doc_20
+PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode hybrid --llm-model gpt4o --tolerance 0.80 --input-json data/processed_json/marro_uk_compiled.json --max-docs 1 --max-sentences-per-doc 20 --run-name sanity_hybrid_1doc_20
