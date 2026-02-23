@@ -220,19 +220,47 @@ class TextCleaner:
         Remove multi-line footnote blocks that contain citations, URLs, and 'Id.' references.
         These appear as numbered footnotes and inline citation noise.
         """
-        # Remove lines that are just "Id." or "Id. at X." or "Id. at X-Y."
-        text = re.sub(r'(?m)^\s*Id\.(?:\s+at\s+[\d\-]+\.?)?\s*$', '', text)
+        # 1. Identify and strip blocks starting with horizontal dividers (e.g., __________)
+        # These are strong signals of the transition from body text to footer.
+        lines = text.split('\n')
+        cleaned_lines = []
+        in_footer_zone = False
+        
+        for line in lines:
+            stripped = line.strip()
+            
+            # Detect divider: 3 or more underscores, dashes, or asterisks
+            if re.match(r'^[ \t]*[_\-\*]{3,}[ \t]*$', line):
+                in_footer_zone = True
+                continue # Drop the divider line
+                
+            if in_footer_zone:
+                # If we are in the footer zone, we drop lines that look like footnotes
+                # until we hit a line that looks like a new paragraph (e.g. starts with "1- " or a heading)
+                # But here, we just drop until the end of the text/section or until we see 
+                # something that DEFINITELY isn't a footnote.
+                if re.match(r'^\s*(\d{1,2}|Id\.|See|Cf\.|Office|THE|RAND|http|www\.)', stripped):
+                    continue # Drop footnote content
+                # If it's a very short line or empty, keep dropping
+                if not stripped:
+                    continue
+                # If we see a line starting with a capital letter and it's long, 
+                # maybe we left the footer? (Unlikely in most complaints before a page break)
+                # For now, let's just drop lines that look like citations.
+            
+            cleaned_lines.append(line)
+        
+        text = '\n'.join(cleaned_lines)
 
-        # Remove inline "Id." references that are just citation noise
-        # (standalone "Id." not part of a sentence)
-        text = re.sub(r'\s+Id\.\s*(?=Id\.|$)', ' ', text)
+        # 2. Pattern-based removal for cases where dividers are missing
+        # Remove lines that are just "Id." or "Id. at X." or "Id. at X-Y."
+        text = re.sub(r'(?m)^\s*(?:\d{1,2}\s+)?Id\.(?:\s+at\s+[\d\-]+\.?)?\s*$', '', text)
 
         # Remove numbered footnote blocks (e.g., "3 THE DAILY BEAST, VisionQuest...")
-        # These start with a number at the beginning of a line followed by a source name
         text = re.sub(
             r'(?m)^\s*\d{1,2}\s+(?:THE\s|See|Cf\.|In\s+the\s+Matter|Office\s+of|'
-            r'Letter\s+From|NEW\s|SAN\s|WNEP|VENANGO|PENNSYLVANIA\s+RECORD|'
-            r'RAND\s|U\.S\.\s+Department).*$',
+            r'Letter\s+From|NEW\s|SAN\s|WNEP|VENANGO|PENNSYLVANIA\\s+RECORD|'
+            r'RAND\s|U\\.S\\.\\s+Department|http|www\.).*$',
             '', text
         )
 
@@ -383,8 +411,16 @@ class TextCleaner:
         """
         Remove inline footnote numbers that appear mid-text.
         E.g., 'proceeding.3 Although' -> 'proceeding. Although'
+        Or 'kids15' -> 'kids' (if it looks like a footnote link)
         """
+        # Remove markers after punctuation followed by space and Capital
         text = re.sub(r"(?<=[.!?])\s*\d{1,2}(?=\s+[A-Z])", "", text)
+        
+        # Remove markers attached to words (like "kids15")
+        # We look for a lowercase letter followed by 1-2 digits, 
+        # but NOT if it's followed by more digits (like part of a year or zip code)
+        text = re.sub(r"([a-z])\d{1,2}(?!\d)", r"\1", text)
+        
         return text
 
     @staticmethod
@@ -407,6 +443,36 @@ class TextCleaner:
         text = re.sub(r"Pa\.\s*C\.\s*S\.", "Pa.C.S.", text)
         text = re.sub(r"Pa\.\s*Super\.", "Pa.Super.", text)
         return text
+
+    @staticmethod
+    def reformat_paragraph_numbers(text: str) -> str:
+        """
+        Change paragraph numbers from "1. " to "1- " at the start of lines.
+        This prevents the dashboard from splitting the number and the sentence.
+        """
+        return re.sub(r'(?m)^([ \t]*\d+)\.', r'\1-', text)
+
+    @staticmethod
+    def remove_mid_document_subtitles(text: str) -> str:
+        """
+        Remove standalone all-caps lines that serve as section headers 
+        (e.g., "FACTS", "PARTIES", "JURISDICTION AND VENUE").
+        These usually appear between numbered paragraphs.
+        """
+        # Match lines that are all caps (allowing for spaces and ampersands) 
+        # and are not immediately preceded by a number in the same line.
+        # We also check that it's a standalone line.
+        lines = text.split('\n')
+        cleaned_lines = []
+        for line in lines:
+            stripped = line.strip()
+            # If line is all caps, contains only letters/spaces/&/and, and is reasonably short
+            if stripped and stripped.isupper() and re.match(r'^[A-Z\s&]+$', stripped) and len(stripped) < 100:
+                # If it doesn't look like part of a numbered list (e.g. "1. FACTS")
+                if not re.match(r'^\d+[-.]', stripped):
+                    continue # Skip this subtitle line
+            cleaned_lines.append(line)
+        return '\n'.join(cleaned_lines)
 
     # =========================================================================
     # Section detection (structuring)
@@ -500,15 +566,19 @@ def preprocess_case(case_data: dict) -> dict:
     # 2. Strip caption using the regex for numbered paragraphs
     body_text = cleaner.strip_caption(clean_text)
 
-    # 3. Detect sections on the text BEFORE we flatten the newlines
+    # 3. Apply final refinements: remove mid-doc subtitles and reformat numbers
+    body_text = cleaner.remove_mid_document_subtitles(body_text)
+    body_text = cleaner.reformat_paragraph_numbers(body_text)
+
+    # 4. Detect sections on the text BEFORE we flatten the newlines
     sections = cleaner.detect_sections(body_text)
 
-    # 4. NOW normalize whitespace (flatten) for the main body and all sections
+    # 5. NOW normalize whitespace (flatten) for the main body and all sections
     body_text = cleaner.normalize_whitespace(body_text)
     for section in sections:
          section["text"] = cleaner.normalize_whitespace(section["text"])
 
-    # 5. Build metadata
+    # 6. Build metadata
     orig_len = len(raw_text)
     clean_len = len(body_text)
     reduction = round((1 - clean_len / orig_len) * 100) if orig_len else 0
