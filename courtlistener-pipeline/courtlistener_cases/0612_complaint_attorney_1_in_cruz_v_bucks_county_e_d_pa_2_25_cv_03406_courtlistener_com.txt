@@ -1,0 +1,1088 @@
+Source URL: https://www.courtlistener.com/docket/70694341/1/cruz-v-bucks-county/
+Title: Complaint (Attorney) – #1 in Cruz v. BUCKS COUNTY (E.D. Pa., 2:25-cv-03406) – CourtListener.com
+
+JS 44 (Rev. 10/20)                 Case 2:25-cv-03406CIVIL
+                                                        Document
+                                                           COVER 1 SHEET
+                                                                    Filed 07/02/25                                                           Page 1 of 21
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                          DEFENDANTS
+       NOELIA CRUZ                                                                                         BUCKS COUNTY, CHRISTOPHER PIROLLI, DAVID KRATZ,
+                                                                                                           CARL METELLUS, JEFFREY CONTINO, and DIANE OTTO
+   (b) County of Residence of First Listed Plaintiff                 Bucks                                County of Residence of First Listed Defendant
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                 (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                          NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                     THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                                Attorneys (If Known)
+           Mansour Law, LLC                                                                                 Bucks County Law Department
+           961 Marcon Blvd., Ste. 425                                                                       55 E. Court Street #5
+           Allentown, PA 18109; Tel: 610-321-3538                                                           Doylestown, PA 18901
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                      III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                       (For Diversity Cases Only)                                    and One Box for Defendant)
+   1    U.S. Government                3    Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                      of Business In This State
+
+  2     U.S. Government                4    Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                 Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                   Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                    Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY              PERSONAL INJURY                   625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                365 Personal Injury -                  of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product             Product Liability             690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument              Liability               367 Health Care/                                                                                          400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &            Pharmaceutical                                                      PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment          Slander                     Personal Injury                                                      820 Copyrights                   430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’          Product Liability                                                    830 Patent                       450 Commerce
+  152 Recovery of Defaulted              Liability               368 Asbestos Personal                                                    835 Patent - Abbreviated         460 Deportation
+       Student Loans                 340 Marine                       Injury Product                                                          New Drug Application         470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product               Liability                                                           840 Trademark                        Corrupt Organizations
+  153 Recovery of Overpayment            Liability              PERSONAL PROPERTY                            LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle           370 Other Fraud                    710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle           371 Truth in Lending                   Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability       380 Other Personal                 720 Labor/Management                  SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal               Property Damage                    Relations                        861 HIA (1395ff)                 490 Cable/Sat TV
+  196 Franchise                          Injury                   385 Property Damage               740 Railway Labor Act                 862 Black Lung (923)             850 Securities/Commodities/
+                                     362 Personal Injury -            Product Liability             751 Family and Medical                863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                             Leave Act                        864 SSID Title XVI               890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS             PRISONER PETITIONS                  790 Other Labor Litigation            865 RSI (405(g))                 891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights      Habeas Corpus:                     791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                  463 Alien Detainee                     Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment       X 442 Employment              510 Motions to Vacate                                                   870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                    Sentence                                                                or Defendant)                 896 Arbitration
+  245 Tort Product Liability             Accommodations          530 General                                                             871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -  535 Death Penalty                      IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment              Other:                             462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -  540 Mandamus & Other               465 Other Immigration                                                  950 Constitutionality of
+                                         Other                   550 Civil Rights                       Actions                                                                State Statutes
+                                     448 Education               555 Prison Condition
+                                                                 560 Civil Detainee -
+                                                                      Conditions of
+                                                                      Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original              2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from    6 Multidistrict                       8 Multidistrict
+    Proceeding              State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                             (specify)                 Transfer                          Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity) :
+                                        42 U.S.C. Sec. 2000e
+VI. CAUSE OF ACTION Brief description of cause:
+                                           Sex discrimination
+VII. REQUESTED IN                            CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                              UNDER RULE 23, F.R.Cv.P.                                                                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                            (See instructions):
+      IF ANY                                                        JUDGE                                                                 DOCKET NUMBER
+DATE                                                                  SIGNATURE OF ATTORNEY OF RECORD
+          07/02/2025
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                     APPLYING IFP                                    JUDGE                           MAG. JUDGE
+10/2024                           Case 2:25-cv-03406                   Document 1                 Filed 07/02/25            Page 2 of 21
+                                                           UNITED STATES DISTRICT COURT
+                                                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+                                                    1730 S Easton Rd, Doylestown, PA 18901
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+              1.   Does this case involve property included in an earlier numbered suit?                                                                Yes
+
+              2.   Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                Yes
+
+              3.   Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                   Yes
+
+              4.   Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                 Yes
+                   individual?
+
+              5.   Is this case related to an earlier numbered suit even though none of the above categories apply?                                     Yes
+                   If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is / X is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+              A.   Federal Question Cases:                                                              B. Diversity Jurisdiction Cases:
+
+                   1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                   2.  FELA                                                                   2. Airplane Personal Injury
+                   3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                   4.  Antitrust                                                              4. Marine Personal Injury
+                   5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                   6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                   7.  Copyright/Trademark                                                    7. Products Liability
+                   8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                   9.  Labor-Management Relations                                                _____________________
+              X    10. Civil Rights
+                   11. Habeas Corpus
+                   12. Securities Cases
+                   13. Social Security Review Cases
+                   14. Qui Tam Cases
+                   15. Cases Seeking Systemic Relief *see certification below*
+                   16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does / X does not have implications
+      beyond the parties before the court and       does /  X  does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                    ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+          X
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                   None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+       Case 2:25-cv-03406    Document 1      Filed 07/02/25     Page 3 of 21
+
+
+
+
+NOELIA CRUZ
+
+
+
+BUCKS COUNTY, et al.
+
+
+
+
+                                                                               x
+
+
+   07/02/2025               William P. Mansour                Plaintiff
+
+ (610) 321-3538             (610) 798-1345                wpm@themansourfirm.com
+             Case 2:25-cv-03406      Document 1       Filed 07/02/25      Page 4 of 21
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                 )
+ NOELIA CRUZ,                                    )
+                                                 )
+                 Plaintiff,                      )            No. ___________________
+                                                 )
+        v.                                       )
+                                                 )
+ BUCKS COUNTY; CHRISTOPHER                       )             CIVIL ACTION – LAW
+ PIROLLI, in his individual capacity;            )
+ DAVID KRATZ, in his individual capacity;        )
+ CARL METELLUS, in his individual                )
+ capacity; JEFFREY CONTINO, in his               )
+ individual capacity; and DIANE OTTO, in         )
+ her individual capacity,                        )
+                                                 )
+                 Defendants.                     )
+                                                 )
+
+                                          COMPLAINT
+       NOW COMES, NOELIA CRUZ (“Plaintiff”), by and through her undersigned counsel,
+
+who hereby complains against Defendants BUCKS COUNTY, CHRISTOPHER PIROLLI, in his
+
+individual capacity, DAVID KRATZ, in his individual capacity, CARL METELLUS, in his
+
+individual capacity, JEFFREY CONTINO, in his individual capacity, and DIANE OTTO, in her
+
+individual capacity as follows:
+
+                                       INTRODUCTION
+
+       1.       This action arises under Title VII of the Civil Rights Act of 1964, 42 U.S.C. §
+
+2000e, et seq. (“Title VII”) and the Civil Rights Act of 1871, 42 U.S.C. § 1983 (“§ 1983”).
+
+Specifically, as set forth in more detail herein, Plaintiff was subjected by colleagues to pervasive
+
+harassment and discrimination based on her sex and sexual orientation, thus depriving her of her
+
+right to equal protection under the Fourteenth Amendment. Despite Plaintiff’s numerous
+            Case 2:25-cv-03406       Document 1        Filed 07/02/25     Page 5 of 21
+
+
+
+
+complaints to her supervisor and Human Resources about this harassment and discrimination,
+
+Defendants Pirolli, Kratz, Metellus, Contino, and Otto failed to take prompt action to prevent and
+
+correct the discrimination or to enforce its workplace policies prohibiting such discrimination. As
+
+a result, the discrimination continued unabated until Plaintiff was forced to resign her position as
+
+a Sergeant and transfer to another lower-paying job within the County in June 2024.
+
+                                            PARTIES
+
+       2.       Plaintiff is an adult female individual currently residing in Yardley, Bucks County,
+
+Pennsylvania.
+
+       3.       Defendant Bucks County is a county in the Commonwealth of Pennsylvania. Its
+
+principal place of business is located at 55 E Court Street, Doylestown, PA 18901.
+
+       4.       Defendant Christopher Pirolli was formerly employed by Defendant County as the
+
+Director of its Department of Corrections (DOC) until approximately August 2021. As part of that
+
+role, Defendant Pirolli had the primary authority and responsibility to supervise and train
+
+DOC/BCCF employees and to enforce DOC policies.
+
+       5.       Defendant David Kratz is currently employed by Defendant County as the Director
+
+the Bucks County DOC and has been in that position since August 2021. As part of that role,
+
+Defendant Kratz has the primary authority and responsibility to supervise and train DOC/BCCF
+
+employees and to enforce DOC policies.
+
+       6.       Defendant Carl Metellus is the Superintendent of the BCCF. As part of that role,
+
+Defendant Metellus has the authority and responsibility to supervise and train DOC/BCCF
+
+employees and to enforce DOC policies.
+
+
+
+
+                                                 2
+             Case 2:25-cv-03406        Document 1        Filed 07/02/25       Page 6 of 21
+
+
+
+
+        7.      Defendant Jeffrey Contino is the Deputy Superintendent of the BCCF. As part of
+
+that role, Defendant Metellus has the authority and responsibility to supervise and train
+
+DOC/BCCF employees and to enforce DOC policies.
+
+        8.      Defendant Diane Otto is a Human Resources Representative for Defendant County.
+
+As part of that role, Defendant Otto has the authority and responsibility to enforce County Human
+
+Resources policies, including investigating complaints of discrimination and harassment made
+
+under those policies and any applicable law.
+
+        9.      At all times relevant and material hereto, Defendant County employed at least 15
+
+employees for each working day during each of 20 or more working weeks in 2024 and 2025.
+
+                                  JURISDICTION AND VENUE
+
+        10.     This Court has jurisdiction over the subject matter of Plaintiff’s claims under 28
+
+U.S.C. § 1331 because such claims arise under the laws of the United States.
+
+        11.     Venue in this district is proper under 28 U.S.C. § 1391(b)(1)-(2) because Defendant
+
+regularly conducts business within this district and because the events giving rise to Plaintiff’s
+
+causes of action arose in this district.
+
+        12.     On November 25, 2024, Plaintiff filed a Charge of Discrimination against
+
+Defendant with the U.S. Equal Employment Opportunity Commission (EEOC), alleging
+
+discrimination based on her sex and sexual orientation.
+
+        13.     On April 29, 2025, the EEOC issued Plaintiff a Dismissal and Notice of Rights
+
+relative to her Charge, a true and correct copy of which is attached hereto as EXHIBIT A.
+
+        14.     Plaintiff has satisfied all other conditions precedent to the filing of this action.
+
+
+
+
+                                                   3
+           Case 2:25-cv-03406        Document 1        Filed 07/02/25      Page 7 of 21
+
+
+
+
+                                  FACTUAL ALLEGATIONS
+
+       15.     On February 18, 2018, Defendant County hired Plaintiff as a Corrections Officer at
+
+the Bucks County Correctional Facility (BCCF). Defendant later promoted Plaintiff to the position
+
+of Sergeant at BCCF in November 2020.
+
+       16.     Within a month or so of beginning employment, Plaintiff began being bullied and
+
+harassed by co-workers and supervisors based on her sex and her sexual orientation, including
+
+having officers and sergeants questioning her sexual orientation (which she never disclosed to
+
+anyone), referring to her as a lesbian, and spreading rumors that she was romantically involved
+
+with a female co-worker.
+
+       17.     In or around the end of March 2019, Plaintiff reported this bullying and harassment
+
+to HR Manager Maryellen Lott. On June 25, 2019, Ms. Lott emailed Plaintiff and told her that her
+
+complaint was taken “very seriously,” that it was investigated, and that it was being closed.
+
+       18.     Because the bullying and harassment only intensified after Plaintiff first reported it
+
+to Ms. Lott in March 2019, Plaintiff sent an email on July 5, 2019 to then-Director of Corrections
+
+Chris Pirolli looking for help.
+
+       19.     In that email, Plaintiff complained to Mr. Pirolli that she is “consistently being
+
+questioned [by Officer Priovolos and other officers] about my sexual preference and if I’m having
+
+a relationship with” female co-workers. She ended her email by stating that her “sexual preference,
+
+physical appearance, or my work ethic should not be measured by inaccurate profiles and
+
+accusations made about me.” Mr. Pirolli never responded to Plaintiff’s email.
+
+       20.     After complaining to Mr. Pirolli and Ms. Lott, the sex-based discrimination and
+
+harassment towards Plaintiff by her co-workers worsened. In addition to the jokes, insults, and
+
+rumors about her appearance and sexual orientation, Plaintiff was also moved to the overnight shift
+
+
+
+                                                 4
+           Case 2:25-cv-03406           Document 1     Filed 07/02/25      Page 8 of 21
+
+
+
+
+in June 2019, even though she was one of the more senior sergeants. To make matters worse, her
+
+supervisors reduced the number of sergeants assigned to the overnight shift from two (2) to one
+
+(1), thus leaving Plaintiff as the only overnight sergeant.
+
+       21.     On or about August 1, 2022, Plaintiff made a formal written complaint to HR
+
+Representative Emily DiDomenico about being bullied and harassed by her co-workers.
+
+Specifically, Plaintiff complained about “overt . . . sexual discrimination” and “harassment and
+
+bullying of new staff, female staff (in particular).” She further complained about being told by
+
+officers that she is “a target” and to “watch your back,” that a Lieutenant told her “They don’t like
+
+you because of the way you look. They don’t understand you and don’t know what you are,” and
+
+that staff make comments about her appearance, such as “she thinks she’s a dude” or jokes about
+
+her hair style and off-duty clothing.
+
+       22.     Defendant County never investigated Plaintiff’s August 1, 2022 complaint and
+
+failed to take any remedial action.
+
+       23.     Around the same time, in August 2022, Plaintiff began being harassed by Sergeant
+
+Anthony Cruz (white male). Mr. Cruz would constantly disparage and insult her in front of staff
+
+and other sergeants by claiming, among other things, that Plaintiff “doesn’t know what she’s
+
+doing,” that she was “stupid” or “incompetent,” and that she was a “lesbian” and a “dyke.” In fact,
+
+Plaintiff heard from several officers that Sgt. Cruz would refer to her as “the dyke” when speaking
+
+to other staff members.
+
+       24.     Shortly thereafter, in or around October 2022, Plaintiff reported Sgt. Cruz’s conduct
+
+to Lieutenant Ara Kimbrough, who in turn reported it to Defendants Contino and Metellus, but
+
+nothing was done by either of them or any BCCF administrator to stop Sgt. Cruz’s harassment and
+
+prevent similar future conduct. As such, Sgt. Cruz continued harassing Plaintiff.
+
+
+
+                                                  5
+          Case 2:25-cv-03406           Document 1       Filed 07/02/25      Page 9 of 21
+
+
+
+
+       25.       Several months later, in mid-2023, Plaintiff again reported the harassment to Lt.
+
+Kimbrough, who again reported it up the chain-of-command to Contino and Metellus, and again,
+
+nothing was done to correct and prevent the harassment, which continued unabated until Ms. Cruz
+
+resigned in June 2024.
+
+       26.       In addition to Sgt. Cruz’s conduct, other officers and supervisors were also involved
+
+in creating a sexually hostile work environment for Plaintiff. For example, beginning at some time
+
+in 2022 and continuing through her resignation in June 2024, Office Ulmer (white female) began
+
+spreading rumors that Plaintiff and Officer McGinley (another female officer) were in a romantic
+
+relationship and “fucking each other.” Officer Heilman (white male) started telling staff that
+
+Plaintiff was a “wife stealer.” Lt. Zachary Sherman, who was in a romantic relationship with
+
+Officer Ulmer, began ignoring Plaintiff’s professional questions about various work-related issues.
+
+       27.       In early June 2024, after five years of bullying and harassment based on her sex
+
+and sexual orientation, Plaintiff attempted to have a meeting with Defendant Otto to complain
+
+again about the ongoing discrimination. Defendant Otto was dismissive, even claiming that she
+
+“doesn’t see a need” to meet with Plaintiff.
+
+       28.       Defendant Otto refused to receive Plaintiff’s report of sex-based harassment and
+
+discrimination and failed to conduct any investigation into same.
+
+       29.       Based on persistent and pervasive sexually hostile work environment Plaintiff was
+
+forced to endure, and Defendant County’s serial refusal to correct it, Plaintiff tendered her
+
+resignation effective June 8, 2024 and transferred to a different, lower paying position with
+
+Defendant County as a Security Guard in the county Treasury Department, which she began on
+
+June 10, 2024.
+
+
+
+
+                                                   6
+         Case 2:25-cv-03406         Document 1       Filed 07/02/25      Page 10 of 21
+
+
+
+
+       30.     During Plaintiff’s entire period of employment at the BCCF, Defendant County
+
+maintained several workplace policies (e.g. Bucks County Human Resources Policy 2.0 and 30.0)
+
+prohibiting discrimination and harassment based on sex and sexual orientation and providing
+
+procedures for employees to report such discrimination.
+
+       31.     Importantly, Human Resources Policies 2.0 and 30.0 that Defendant County will
+
+“promptly” investigate all “good faith” reports of discrimination, which will be done “impartially
+
+and in as confidential a manner as possible.”
+
+       32.     In making her numerous complaints about sex-based discrimination and
+
+harassment, Plaintiff complied with Defendant County’s policies and procedures.
+
+       33.     During Plaintiff’s entire period of employment, neither she nor any other BCCF
+
+employee received regular training regarding Defendant County’s anti-discrimination and anti-
+
+harassment policies and/or federal and state anti-discrimination laws.
+
+       34.     As a direct result of Defendant County’s failure to regularly train BCCF employees
+
+regarding its policies against sex-based workplace discrimination, such discrimination is rampant
+
+among employees of the BCCF.
+
+       35.     Defendants Kratz, Metellus, Contino, and Otto were all personally aware of
+
+widespread sex-based discrimination and harassment in the BCCF, including knowledge of sexual
+
+relationships among supervisory BCCF employees and their subordinates.
+
+       36.     Specifically, on numerous occasions, former Administrative Lieutenant Ara
+
+Kimbrough complained to Defendants Kratz, Metellus, and Contino about inappropriate sexual
+
+relationships between sergeants and their subordinates, including Sergeant Kevin Jurgelewicz,
+
+Sergeant Shivkumar Patel, and Sergeant Jeffrey Buehler.
+
+
+
+
+                                                7
+          Case 2:25-cv-03406         Document 1       Filed 07/02/25       Page 11 of 21
+
+
+
+
+       37.     In March 2024, Lt. Kimbrough sent an email to Defendants Contino and Metellus,
+
+among others, informing them that two (2) female officers (Officers Mack and King) had the words
+
+“ho” and “bitch” graffitied on their lockers.
+
+       38.     Defendants Contino and Metellus did not report this incident to Human Resources
+
+nor did either of them initiate an investigation into the incident or take any other steps to prevent
+
+similar harassment from occurring again.
+
+       39.     For her part, Defendant Otto was aware of Plaintiff’s previous complaints of sex-
+
+based discrimination and harassment in 2019 and 2022 as well as similar complaints by other
+
+current and former employees, including former Officer Rachel Stock’s complaint that she was
+
+sexually harassed by Sergeant Jurgelewicz.
+
+       40.     Despite knowing about the widespread sex-based harassment and discrimination in
+
+the BCCF and the workplace policies against it, Defendants Pirolli, Kratz, Contino, Metellus, and
+
+Otto failed to take prompt corrective action and allowed the discrimination against Plaintiff to
+
+continue unabated.
+
+       41.     As a result of the sex-based hostile work environment permitted by Defendants,
+
+Plaintiff’s work conditions became intolerable, forcing her to resign and transfer to a lower-paying
+
+job in a different County department.
+
+                                             COUNT I
+
+ HOSTILE WORK ENVIRONMENT BASED ON SEX AND SEXUAL ORIENTATION
+IN VIOLATION OF 42 U.S.C. § 2000e-2(a)(1), TITLE VII OF THE CIVIL RIGHTS ACT
+                                     OF 1964
+                     (Plaintiff v. Defendant Bucks County)
+
+       42.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+
+
+
+                                                 8
+          Case 2:25-cv-03406        Document 1         Filed 07/02/25    Page 12 of 21
+
+
+
+
+       43.     Plaintiff is a homosexual female.
+
+       44.     During the course of her employment between May 2018 and June 2024, Plaintiff
+
+suffered discrimination and harassment at the hands of her co-workers and supervisors based on
+
+her sex and sexual orientation. She was routinely referred to as a “dyke” and a “lesbian” despite
+
+never sharing her sexual orientation with anyone. Moreover, her colleagues regularly mocked her
+
+hair style, off-duty clothing, and overall demeanor. They would make jokes about Plaintiff’s sexual
+
+orientation, direct other officers to ignore her, assign her to undesirable shifts, and spread false
+
+rumors about her romantic involvement with another female employee.
+
+       45.     The sex-based and sexual orientation-based discrimination and harassment towards
+
+Plaintiff was severe and pervasive and occurred regularly.
+
+       46.     Plaintiff was subjectively harmed and offended by the sex-based and sexual-
+
+orientation-based discrimination and harassment she suffered at the hands of her co-workers and
+
+supervisors.
+
+       47.     Due to the discrimination and harassment Plaintiff suffered, and the lack of
+
+corrective measures on behalf of Defendant, her work environment became hostile and abusive.
+
+       48.     Any reasonable person in Plaintiff’s position would have been harmed and offended
+
+by the sex-based and sexual orientation-based discrimination and harassment Plaintiff suffered at
+
+the hands of her co-workers and supervisors.
+
+       49.     Defendant, through several officials in the HR department, knew of the
+
+discriminatory and harassing conduct towards Plaintiff by co-workers and supervisors.
+
+       50.     Despite actual knowledge of the discriminatory and harassing conduct towards
+
+Plaintiff, Defendant failed to take reasonable steps to promptly prevent or remedy the
+
+discrimination and harassment.
+
+
+
+                                                   9
+          Case 2:25-cv-03406        Document 1        Filed 07/02/25       Page 13 of 21
+
+
+
+
+       51.     As a direct and proximate result of the above-described discrimination and
+
+harassment, Plaintiff suffered emotional distress, mental anguish, embarrassment and stress.
+
+       52.     By failing to promptly prevent or remedy the above discrimination and harassment
+
+despite knowledge of same, Defendant willfully, maliciously, or recklessly disregarded Plaintiff’s
+
+rights under federal law.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendant and award the following relief:
+
+               a.      Compensatory damages in an amount to be determined at trial;
+
+               b.      Punitive damages in an amount to be determined at trial;
+
+               c.      All costs and reasonable attorney’s fees; and
+
+               d.      Any other relief deemed proper and just.
+
+                                            COUNT II
+
+ CONSTRUCTIVE DISCHARGE IN VIOLATION OF 42 U.S.C. § 2000e-2(a)(1), TITLE
+                VII OF THE CIVIL RIGHTS ACT OF 1964
+                  (Plaintiff vs. Defendant Bucks County)
+
+       53.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       54.     As a result of the above-described sex-based discrimination and harassment
+
+towards her, Plaintiff’s work environment became so hostile and intolerable that she was
+
+compelled to resign on June 8, 2024.
+
+       55.     Any reasonable person in Plaintiff’s position would have also felt compelled to
+
+resign under the same circumstances.
+
+       56.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+past and future lost wages and loss of earning capacity.
+
+
+
+                                                 10
+          Case 2:25-cv-03406        Document 1        Filed 07/02/25       Page 14 of 21
+
+
+
+
+       57.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+severe emotional distress, mental anguish, embarrassment, stress, and inconvenience.
+
+       58.     By allowing Plaintiff’s work environment to become hostile and intolerable,
+
+Defendant willfully, maliciously, or recklessly disregarded Plaintiff’s rights under federal law.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendant and award the following relief:
+
+               a.      Back pay from June 9, 2024 through the date of judgment, plus pre- and
+
+                       post-judgment interest;
+
+               b.      Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the Court;
+
+               c.      Compensatory damages in an amount to be determined by a jury;
+
+               d.      Punitive damages in an amount to be determined by a jury;
+
+               e.      All costs and reasonable attorney’s fees; and
+
+               f.      Any other relief deemed proper and just.
+
+                                            COUNT III
+
+       DENIAL OF EQUAL PROTECTION BASED ON SEX IN VIOLATION OF
+                   42 U.S.C. § 1983 (HOSTILE WORK ENVIRONMENT)
+        (Plaintiff vs. Defendants Pirolli, Kratz, Coyne, Metellus, Contino, and Otto)
+
+       59.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       60.     The Individual Defendants, at one time or another, all had knowledge of Plaintiff’s
+
+complaints about sex-based discrimination and harassment in March-July 2019, August-October
+
+2022, May-July 2023, and/or June 2024.
+
+
+
+
+                                                 11
+          Case 2:25-cv-03406          Document 1       Filed 07/02/25      Page 15 of 21
+
+
+
+
+        61.     Despite knowing about Plaintiff’s complaints of discrimination and harassment, the
+
+Individual Defendants acquiesced in such conduct and failed to take any measures to promptly
+
+correct or prevent it.
+
+        62.     As a direct and proximate result of the Individual Defendants’ acquiescence, the
+
+discrimination and harassment towards Plaintiff continued unabated until she was constructively
+
+discharged in June 2024.
+
+        63.     As a direct and proximate result the sexually hostile work environment created and
+
+tolerated by the Individual Defendants, Plaintiff suffered severe emotional distress, mental
+
+anguish, embarrassment, stress, and inconvenience.
+
+        64.     By knowingly acquiescing in the pervasive, sex-based harassment against Plaintiff,
+
+the Individual Defendants willfully, maliciously, or recklessly disregarded Plaintiff’s right to equal
+
+protection under the Fourteenth Amendment.
+
+        WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Pirolli, Kratz, Coyne, Metellus, Contino, and Otto and award
+
+the following relief:
+
+                a.       Compensatory damages in an amount to be determined by a jury;
+
+                b.       Punitive damages in an amount to be determined by a jury;
+
+                c.       All costs and reasonable attorney’s fees; and
+
+                d.       Any other relief deemed proper and just.
+
+
+
+
+                                                  12
+          Case 2:25-cv-03406         Document 1        Filed 07/02/25      Page 16 of 21
+
+
+
+
+                                            COUNT IV
+
+       DENIAL OF EQUAL PROTECTION BASED ON SEX IN VIOLATION OF
+                     42 U.S.C. § 1983 (CONSTRUCTIVE DISCHARGE)
+        (Plaintiff vs. Defendants Pirolli, Kratz, Coyne, Metellus, Contino, and Otto)
+
+       65.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       66.     As a result of the above-described sex-based discrimination and harassment
+
+towards her, Plaintiff’s work environment became so hostile and intolerable that she was
+
+compelled to resign on June 8, 2024.
+
+       67.     Any reasonable person in Plaintiff’s position would have also felt compelled to
+
+resign under the same circumstances.
+
+       68.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+past and future lost wages and loss of earning capacity.
+
+       69.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+severe emotional distress, mental anguish, embarrassment, stress, and inconvenience.
+
+       70.     By allowing Plaintiff’s work environment to become hostile and intolerable,
+
+Defendant willfully, maliciously, or recklessly disregarded Plaintiff’s rights under federal law.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Pirolli, Kratz, Coyne, Metellus, Contino, and Otto and award
+
+the following relief:
+
+               a.       Back pay from June 9, 2024 through the date of judgment, plus pre- and
+
+                        post-judgment interest;
+
+               b.       Front pay from the date of judgment through a date deemed equitable and
+
+                        just by the Court
+
+
+
+                                                  13
+          Case 2:25-cv-03406        Document 1        Filed 07/02/25       Page 17 of 21
+
+
+
+
+               c.      Compensatory damages in an amount to be determined by a jury;
+
+               d.      Punitive damages in an amount to be determined by a jury;
+
+               e.      All costs and reasonable attorney’s fees; and
+
+               f.      Any other relief deemed proper and just.
+
+                                            COUNT V
+
+       DENIAL OF EQUAL PROTECTION BASED ON SEX IN VIOLATION OF
+                    42 U.S.C. § 1983 (FAILURE TO TRAIN)
+                     (Plaintiff vs. Defendant Bucks County)
+
+       71.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       72.     At all times relevant and material hereto, Defendant County maintained workplace
+
+policies prohibiting sex-based discrimination and harassment, which, among other things, required
+
+Human Resources to promptly investigate any good faith complaints of such discrimination.
+
+       73.     Despite receiving numerous complaints and lawsuits by current and former BCCF
+
+employees, including Plaintiff, relating to pervasive sex-based discrimination and harassment in
+
+the workplace, Defendant County has deliberately failed and refused to institute regular anti-
+
+discrimination and anti-harassment training for BCCF employees. Indeed, during Plaintiff’s entire
+
+six-year tenure at the BCCF, she never underwent any training regarding Defendant County’s anti-
+
+discrimination and anti-harassment policies beyond her onboarding in 2018.
+
+       74.     Moreover, and especially following the U.S. Supreme Court’s decision in Bostock
+
+v. Clayton Cnty., Ga., 590 U.S. 644 (2020), Defendant County has deliberately failed and refused
+
+to institute training for BCCF employees specific to the issue of sexual orientation discrimination
+
+and harassment in the workplace. As such, many BCCF employees may not be aware that sexual
+
+
+
+
+                                                 14
+          Case 2:25-cv-03406        Document 1        Filed 07/02/25      Page 18 of 21
+
+
+
+
+orientation discrimination is sex discrimination and none of them have been trained in how to
+
+identify, avoid, and, if necessary, rectify such discrimination in the workplace.
+
+       75.      As a result of Defendant County’s deliberate failure to train BCCF employees in
+
+identifying, avoiding, and rectifying sex discrimination in the workplace, such discrimination is
+
+pervasive inside the BCCF.
+
+       76.     As a direct and proximate result of Defendant County’s deliberate failure to train
+
+BCCF employees in identifying, avoiding, and rectifying sex discrimination in the workplace,
+
+Plaintiff was subjected to nearly six years of discrimination and harassment based on her sex. This
+
+discrimination and harassment towards Plaintiff continued unabated until she was constructively
+
+discharged in June 2024.
+
+       77.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+past and future lost wages and loss of earning capacity.
+
+       78.     As a direct and proximate result of her constructive discharge and the sexually
+
+hostile work environment created by Defendant County, Plaintiff suffered severe emotional
+
+distress, mental anguish, embarrassment, stress, and inconvenience.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendant Bucks County and award the following relief:
+
+               a.      Back pay from June 9, 2024 through the date of judgment, plus pre- and
+
+                       post-judgment interest;
+
+               b.      Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the Court;
+
+               c.      Compensatory damages in an amount to be determined by a jury;
+
+               d.      All costs and reasonable attorney’s fees; and
+
+
+
+                                                 15
+          Case 2:25-cv-03406        Document 1        Filed 07/02/25       Page 19 of 21
+
+
+
+
+               e.      Any other relief deemed proper and just.
+
+                                            COUNT VI
+
+       DENIAL OF EQUAL PROTECTION BASED ON SEX IN VIOLATION OF
+                  42 U.S.C. § 1983 (PRACTICE OR CUSTOM)
+                     (Plaintiff vs. Defendant Bucks County)
+
+       79.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       80.     At all times relevant and material hereto, Defendant County maintained a practice
+
+and custom of deliberately ignoring complaints from BCCF employees about sex-based workplace
+
+discrimination.
+
+       81.     Consistent with that practice and custom, in August 2022, Defendant County failed
+
+to conduct an investigation into Plaintiff’s written complaint of sex-based discrimination and
+
+harassment to Ms. DiDomenico. Similarly, in early June 2024, Defendant Otto told Plaintiff that
+
+she “doesn’t see a need” to meet with her regarding her complaints of continued discrimination.
+
+       82.     At all times relevant and material hereto, Defendant County maintained a practice
+
+and custom of deliberately ignoring violations by BCCF employees of its anti-discrimination and
+
+anti-harassment policies.
+
+       83.     At all times relevant and material hereto, Defendant County maintained a practice
+
+and custom of deliberately failing and refusing to provide regular training to BCCF employees
+
+regarding identifying, avoiding, and rectifying sex discrimination in the workplace, despite
+
+receiving numerous internal complaints and lawsuits alleging such discrimination.
+
+       84.     As a direct and proximate result of Defendant County’s practices and customs,
+
+Plaintiff was subjected to pervasive discrimination and harassment based on her sex.
+
+
+
+
+                                                 16
+          Case 2:25-cv-03406        Document 1       Filed 07/02/25    Page 20 of 21
+
+
+
+
+       85.     As a direct and proximate result of Defendant County’s practices and customs,
+
+Plaintiff’s work environment became so hostile and intolerable that she was constructively
+
+discharged in June 2024.
+
+       86.     Any reasonable person in Plaintiff’s position would have also felt compelled to
+
+resign under the same circumstances.
+
+       87.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+past and future lost wages and loss of earning capacity.
+
+       88.     As a direct and proximate result of her constructive discharge, Plaintiff suffered
+
+severe emotional distress, mental anguish, embarrassment, stress, and inconvenience.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendant Bucks County and award the following relief:
+
+               a.     Back pay from June 9, 2024 through the date of judgment, plus pre- and
+
+                      post-judgment interest;
+
+               b.     Front pay from the date of judgment through a date deemed equitable and
+
+                      just by the Court;
+
+               c.     Compensatory damages in an amount to be determined by a jury;
+
+               d.     All costs and reasonable attorney’s fees; and
+
+               e.     Any other relief deemed proper and just.
+
+
+
+
+                                                17
+          Case 2:25-cv-03406            Document 1   Filed 07/02/25     Page 21 of 21
+
+
+
+
+                                  DEMAND FOR JURY TRIAL
+
+        PLEASE TAKE NOTICE that Plaintiff NOELIA CRUZ hereby demands a trial by jury
+
+for all claims and issues so triable.
+
+                                                     Respectfully Submitted,
+
+                                                     MANSOUR LAW, LLC
+
+
+Dated: July 2, 2025                              BY: /s/ William P. Mansour
+                                                     William P. Mansour, Esquire
+                                                     Pa. Attorney ID No. 318833
+                                                     961 Marcon Blvd., Suite 425
+                                                     Allentown, PA 18109
+                                                     Tel: (610) 321-3538
+                                                     Fax: (610) 798-1345
+                                                     Email: wpm@themansourfirm.com
+
+                                                     Attorney for Plaintiff Noelia Cruz
+
+
+
+
+                                                18
+

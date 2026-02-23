@@ -1,0 +1,1143 @@
+Source URL: https://www.courtlistener.com/docket/72015250/1/quinlan-v-semrush-inc/
+Title: Complaint (Attorney) – #1 in QUINLAN v. SEMRUSH, INC. (E.D. Pa., 2:25-cv-06924) – CourtListener.com
+
+JS 44 (Rev. 10/20)            Case 2:25-cv-06924-JDW
+                                                  CIVILDocument
+                                                        COVER1SHEET
+                                                                Filed 12/10/25                                                                                       Page 1 of 35
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                                         DEFENDANTS
+                                                                                                                        SEMRUSH, INC.
+                LINDA QUINLAN
+    (b) County of Residence of First Listed Plaintiff                   Montgomery                                        County of Residence of First Listed Defendant                Suffolk
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                                          NOTE:       IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                                      THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       Lane J. Schiff , Esquire
+       Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+       Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                                     (For Diversity Cases Only)                                       and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                             PTF            DEF                                        PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                               Citizen of This State            1              1     Incorporated or Principal Place         4     4
+                                                                                                                                                                       of Business In This State
+
+    2   U.S. Government                      4   Diversity                                                     Citizen of Another State                2         2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                                       of Business In Another State
+
+                                                                                                               Citizen or Subject of a                 3         3   Foreign Nation                             6         6
+                                                                                                                 Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                     Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                     TORTS                                     FORFEITURE/PENALTY                          BANKRUPTCY                      OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                      PERSONAL INJURY                     625 Drug Related Seizure                 422 Appeal 28 USC 158            375 False Claims Act
+    120 Marine                           310 Airplane                        365 Personal Injury -                    of Property 21 USC 881               423 Withdrawal                   376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                    Product Liability                690 Other                                    28 USC 157                       3729(a))
+    140 Negotiable Instrument                 Liability                      367 Health Care/                                                                                               400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                    Pharmaceutical                                                            PROPERTY RIGHTS                  410 Antitrust
+        & Enforcement of Judgment             Slander                            Personal Injury                                                            820 Copyrights                  430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                  Product Liability                                                          830 Patent                      450 Commerce
+    152 Recovery of Defaulted                 Liability                      368 Asbestos Personal                                                          835 Patent - Abbreviated        460 Deportation
+         Student Loans                   340 Marine                              Injury Product                                                                 New Drug Application        470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                      Liability                                                                  840 Trademark                       Corrupt Organizations
+    153 Recovery of Overpayment               Liability                     PERSONAL PROPERTY                              LABOR                            880 Defend Trade Secrets        480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                   370 Other Fraud                      710 Fair Labor Standards                      Act of 2016                     (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                   371 Truth in Lending                     Act                                                                   485 Telephone Consumer
+    190 Other Contract                       Product Liability               380 Other Personal                   720 Labor/Management                     SOCIAL SECURITY                      Protection Act
+    195 Contract Product Liability       360 Other Personal                      Property Damage                      Relations                            861 HIA (1395ff)                 490 Cable/Sat TV
+    196 Franchise                            Injury                          385 Property Damage                  740 Railway Labor Act                    862 Black Lung (923)             850 Securities/Commodities/
+                                         362 Personal Injury -                   Product Liability                751 Family and Medical                   863 DIWC/DIWW (405(g))               Exchange
+                                             Medical Malpractice                                                      Leave Act                            864 SSID Title XVI               890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                     PRISONER PETITIONS                    790 Other Labor Litigation               865 RSI (405(g))                 891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights              Habeas Corpus:                       791 Employee Retirement                                                   893 Environmental Matters
+    220 Foreclosure                      441 Voting                          463 Alien Detainee                       Income Security Act                  FEDERAL TAX SUITS                895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                      510 Motions to Vacate                                                         870 Taxes (U.S. Plaintiff            Act
+    240 Torts to Land                    443 Housing/                            Sentence                                                                       or Defendant)               896 Arbitration
+    245 Tort Product Liability               Accommodations                  530 General                                                                   871 IRS—Third Party              899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -          535 Death Penalty                        IMMIGRATION                               26 USC 7609                     Act/Review or Appeal of
+                                             Employment                      Other:                               462 Naturalization Application                                                Agency Decision
+                                         446 Amer. w/Disabilities -          540 Mandamus & Other                 465 Other Immigration                                                     950 Constitutionality of
+                                             Other                           550 Civil Rights                         Actions                                                                   State Statutes
+                                         448 Education                       555 Prison Condition
+                                                                             560 Civil Detainee -
+                                                                                 Conditions of
+                                                                                 Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                           3    Remanded from                     4 Reinstated or               5 Transferred from
+                                                                                                                                                        6 Multidistrict                                 8 Multidistrict
+      Proceeding             State Court                                 Appellate Court                     Reopened                      Another District Litigation -                                  Litigation -
+                                                                                                                                           (specify)        Transfer                                      Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq. (“Title VII”); 29 U.S.C. §621, et seq. (“ADEA”), 43 P.S. § 951, et seq. (“PHRA”).
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff brings this action against her former employer for discrimination,retaliation and harrasment.
+
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                                 DEMAND $                                       CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                                        excess of $75,000                              JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                               JUDGE                                                                           DOCKET NUMBER
+DATE                                                                          SIGNATURE OF ATTORNEY OF RECORD
+December 10, 2025
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                           APPLYING IFP                                          JUDGE                               MAG. JUDGE
+10/2024                       Case 2:25-cv-06924-JDW                       Document 1                Filed 12/10/25              Page 2 of 35
+                                                           UNITED STATES DISTRICT COURT
+                                                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                         DESIGNATION FORM
+
+              Place of Accident, Incident, or Transaction:__Trevose, PA 19053________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+              1.   Does this case involve property included in an earlier numbered suit?                                                                Yes
+
+              2.   Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                Yes
+
+              3.   Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                   Yes
+
+              4.   Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                 Yes
+                   individual?
+
+              5.   Is this case related to an earlier numbered suit even though none of the above categories apply?                                     Yes
+                   If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is / x is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+              A.   Federal Question Cases:                                                              B. Diversity Jurisdiction Cases:
+
+                   1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                   2.  FELA                                                                   2. Airplane Personal Injury
+                   3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                   4.  Antitrust                                                              4. Marine Personal Injury
+                   5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                   6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                   7.  Copyright/Trademark                                                    7. Products Liability
+                   8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                   9.  Labor-Management Relations                                                _____________________
+              x    10. Civil Rights
+                   11. Habeas Corpus
+                   12. Securities Cases
+                   13. Social Security Review Cases
+                   14. Qui Tam Cases
+                   15. Cases Seeking Systemic Relief *see certification below*
+                   16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does / x does not have implications
+      beyond the parties before the court and       does /  x  does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                    ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+          x
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                   None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+        Case 2:25-cv-06924-JDW             Document 1       Filed 12/10/25       Page 3 of 35
+
+
+                            IN THE UNITED STATES DISTRICT COURT
+                         FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                         CASE MANAGEMENT TRACK DESIGNATION FORM
+           LINDA QUINLAN                                                      CIVIL ACTION
+                              PLAINTIFF,
+
+         SEMRUSH, INC.
+                                                                              NO.
+                             DEFENDANTS.
+ In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+ plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+ filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+ side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+ designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+ the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+ to which that defendant believes the case should be assigned.
+ SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+ (a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                                    ( )
+ (b) Social Security- Cases requesting review of a decision of the Secretary of Health
+     and Human Services denying plaintiff Social Security Benefits.                                       ( )
+ (c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53.2.            ( )
+ (d) Asbestos- Cases involving claims for personal injury or property damage from
+     exposure to asbestos.                                                                                ( )
+ (e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+     commonly referred to as complex and that need special or intense management by
+     the court. (See reverse side of this form for a detailed explanation of special
+     management cases.)                                                                                   ( )
+ (f) Standard Management- Cases that do not fall into any one of the other tracks.                        ( X)
+
+December 10, 2025
+                                                                         Plaintiff, Linda Maria Quinlan
+ Date                               Attori�                               Attorney for
+    (215) 545-7676                 (215) 565-2859                      schiff@consolelaw.com
+
+
+ Telephone                           FAX Number                           E-Mail Address
+
+
+ (Civ. 660) 10/02
+       Case 2:25-cv-06924-JDW           Document 1       Filed 12/10/25      Page 4 of 35
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+ LINDA QUINLAN
+ Horsham, PA 19044                               CIVIL ACTION NO.:
+
+                        Plaintiff,
+        v.
+                                                 JURY TRIAL DEMANDED
+ SEMRUSH INC.
+ 800 Boylston Street
+ Suite 2475
+ Boston, MA 02199
+
+                        Defendant.
+
+
+                                         COMPLAINT
+
+  I.   INTRODUCTION
+
+       Plaintiff, Linda Quinlan ("Plaintiff"), brings claims against her former employer, Semrush,
+
+Inc. ("Defendant"). For unlawful sex and age discrimination, retaliation, and harassment, in
+
+violation of Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000e, et seq.
+
+(“Title VII”), the Age Discrimination in Employment Act, as amended, 29 U.S.C. §621, et seq.
+
+(“ADEA”), and the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seq.
+
+(“PHRA”).     Plaintiff seeks all damages allowable at law, including back-pay, front-pay,
+
+compensatory, punitive, liquidated, costs and attorneys’ fees, and all other relief that this Court
+
+deems appropriate.
+
+ II.   PARTIES
+
+         1.     Plaintiff, Linda Quinlan, is an individual and a citizen of the Commonwealth of
+
+Pennsylvania. Plaintiff resides in Horsham, Pennsylvania.
+
+         2.     Plaintiff was born in August 1967.
+
+                                                1
+        Case 2:25-cv-06924-JDW           Document 1        Filed 12/10/25      Page 5 of 35
+
+
+
+
+         3.     Plaintiff is female.
+
+         4.     Defendant Semrush, Inc. is a corporation maintaining a place of business located
+
+at 800 Boylston Street, Suite 2475, Boston, Massachusetts 02199.
+
+         5.     During the course of Plaintiff’s employment, she worked out of Defendant’s then
+
+existing office located at 3800 Horizon Boulevard, Suite 401, Trevose, Pennsylvania 19053.
+
+         6.     At all relevant times, Defendant employed well in excess of twenty (20)
+
+employees.
+
+         7.     At all relevant times, Defendant acted by and through its authorized employees
+
+and agents, acting within the course and scope of their employment with Defendant and in
+
+furtherance of Defendant's business.
+
+         8.     At all relevant times, Defendant acted as an employer within the meaning of the
+
+statutes which form the basis of this matter.
+
+         9.     At all relevant times, Plaintiff was an employee of Defendant within the meaning
+
+of the statutes which form the basis of this matter.
+
+ III.   JURISDICTION AND VENUE
+
+         10.    The causes of action which form the basis of this matter arise under Title VII, the
+
+ADEA, and the PHRA.
+
+         11.    This Court has jurisdiction over Count I (Title VII) and Count II (ADEA) pursuant
+
+28 U.S.C. §1331.
+
+         12.    This Court has jurisdiction over Count III (PHRA) pursuant to 28 U.S.C. §1367.
+
+         13.    Venue is proper in this District Court pursuant to 28 U.S.C. §1391(b) because a
+
+substantial part of the events or omissions giving rise to these claims occurred within this District.
+
+
+
+
+                                                  2
+       Case 2:25-cv-06924-JDW            Document 1      Filed 12/10/25      Page 6 of 35
+
+
+
+
+         14.    On or about March 28, 2024, Plaintiff filed a complaint of discrimination with the
+
+Pennsylvania Human Relations Commission (“PHRC”), complaining of acts of discrimination and
+
+retaliation alleged herein. That complaint was cross-filed with the Equal Employment Opportunity
+
+Commission ("EEOC"). Attached hereto and incorporated herein as Exhibit "1" is a true and
+
+correct copy of Plaintiff's first agency complaint.
+
+         15.    On or about September 4, 2024, Plaintiff filed a second complaint of
+
+discrimination with the PHRC, cross-filed with the EEOC, complaining of additional acts of
+
+discrimination and retaliation alleged herein. Attached hereto and incorporated herein as Exhibit
+
+"2" is a true and correct copy of Plaintiff's second agency complaint.
+
+         16.    On or about September 15, 2025, the EEOC issued Plaintiff a Notice of Right to
+
+Sue pertaining to Plaintiff's first agency complaint. Attached hereto as Exhibit "3" is a true and
+
+correct copy of that Notice.
+
+         20.    On or about September 15, 2025, the EEOC issued Plaintiff a Notice of Right to
+
+Sue pertaining to Plaintiff's second agency complaint. Attached hereto as Exhibit "4" is a true and
+
+correct copy of that Notice.
+
+         21.    This Complaint is filed within ninety (90) days of Plaintiff's receipt of the Right-
+
+to-Sue notices issued by the EEOC on September 15, 2025.
+
+         22.    Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+         23.    Plaintiff was hired by Defendant on or about February 8, 2021.
+
+         24.    Plaintiff held the position of Sales Manager.
+
+
+
+
+                                                  3
+          Case 2:25-cv-06924-JDW         Document 1        Filed 12/10/25    Page 7 of 35
+
+
+
+
+           25.   She consistently performed her job duties in a highly competent manner and
+
+received positive feedback.
+
+           26.   For example, at the time of her termination, Plaintiff was the top performing Sales
+
+Manager.
+
+           27.   Plaintiff reported to Jared Krimmel (male), Vice President of Sales. Krimmel
+
+reported to Channing Ferrer (male), Chief of Sales.
+
+           28.   Plaintiff was the oldest employee directly reporting to Krimmel and the only
+
+female employee reporting to Krimmel.
+
+           29.   Plaintiff was treated differently, worse, and in a more hostile and dismissive
+
+manner.
+
+           30.   Plaintiff was circumvented and ignored.
+
+           31.   Plaintiff was excluded from meetings and communications related to her job
+
+duties.
+
+           32.   Plaintiff was yelled at in front of other employees.
+
+           33.   In a meeting, Dylan Groce (male), Sales Manager, commented that Defendant did
+
+not want to hire women or "girls" because they could get "knocked up" and go out of work. Male
+
+employees in the meeting laughed and commented that Defendant should not hire women.
+
+           34.   Krimmel commented on numerous occasions that Plaintiff was a "boomer."
+
+           35.   Krimmel commented that Plaintiff was not "tech savvy."
+
+           36.   Krimmel delayed approving Plaintiff's paid time off requests and stated that,
+
+before approving her requests, he wanted to see if anyone else wanted to be out of the office at the
+
+same time. Plaintiff was not aware of Krimmel doing the same to male and/or younger employees.
+
+
+
+
+                                                  4
+        Case 2:25-cv-06924-JDW           Document 1       Filed 12/10/25        Page 8 of 35
+
+
+
+
+            37.   Krimmel forced Plaintiff to hire Account Executives that Plaintiff did not want to
+
+hire.
+
+            38.   Krimmel assigned younger and/or male employees extra accounts and
+
+assignments as compared to Plaintiff. This had a negative impact on her compensation.
+
+            39.   During interviews with potential candidates, Nick Shallers (male) commented on
+
+multiple occasions that Defendant liked to hire young people.
+
+            40.   Shallers commented that most of Defendant's Sales Representative employees
+
+were "young" and fun.
+
+            41.   Following the above, Plaintiff complained to Krimmel of Shallers' age-biased
+
+comments. Krimmel was dismissive and instructed Plaintiff to deal with it on her own.
+
+            42.   Shortly thereafter, Shallers, threw Plaintiff's notebook onto the ground during a
+
+training.
+
+            43.   On or about February 7, 2023, at a welcome dinner for Ferrer who had just been
+
+hired, Plaintiff was the only female employee out of fourteen (14) employees at the table.
+
+            44.   At the dinner, Ferrer asked Plaintiff if she was uncomfortable being the only
+
+woman. Plaintiff stated that it did not make her feel good to be the only woman at the table.
+
+            45.   In or about November 2023, in a sales team meeting in which Plaintiff was the
+
+only female employee, Dorian Foster (male), Sales Manager, commented, in the context of
+
+Thanksgiving turkeys, that what he made to put between those legs was really good, and that it
+
+was very tasty what was in between those legs.
+
+            46.   Plaintiff understood this comment to be of a sexual nature.
+
+            47.   Following the above, Plaintiff complained to Krimmel of Foster's sex-biased
+
+comments.
+
+
+
+                                                  5
+       Case 2:25-cv-06924-JDW              Document 1    Filed 12/10/25     Page 9 of 35
+
+
+
+
+         48.    Krimmel stated that he had to have a conversation with Foster about not talking
+
+like that during meetings.
+
+         49.    Defendant failed to remedy or prevent the discrimination against Plaintiff or take
+
+appropriate corrective action.
+
+         50.    On January 8, 2024, in a meeting with Krimmel and Jessica Rand, Human
+
+Resources Business Partner, Defendant terminated Plaintiff's employment, effective immediately.
+
+         51.    Plaintiff stated that she did not understand, as her sales numbers were better than
+
+any of the other employees reporting to Krimmel.
+
+         52.    Krimmel stated that Plaintiff's termination was not about performance, but about
+
+the future of Defendant.
+
+         53.    At the time of Plaintiff’s termination, Defendant offered no explanation as to why
+
+Defendant terminated Plaintiff’s employment.
+
+         54.    At the time of Plaintiff's termination, the following employees, in addition to
+
+Plaintiff, directly reported to Krimmel:
+
+           a. Richard Barrett (male, YOB: 1993), Sales Manager;
+
+           b. Max Tideman (male, YOB: 1991), Sales Manager;
+
+           c. Dylan Groce (male, YOB: 1993), Sales Manager;
+
+           d. Kyle Ferretti (male, YOB: 1986), Sales Manager;
+
+           e. Nick Shallers (male, YOB:1972), Sales Manager;
+
+           f. Dorian Foster (male, YOB:1974), Sales Manager;
+
+           g. Jorge Laynes (male, YOB: 1972), Sales Manager.
+
+         55.    Only one other Sales Manager, Tideman, was terminated at the time of Plaintiff.
+
+
+
+
+                                                 6
+       Case 2:25-cv-06924-JDW            Document 1        Filed 12/10/25      Page 10 of 35
+
+
+
+
+            56.   Each of the retained employees who were directly reporting to Krimmel was
+
+substantially younger and/or male and/or noncomplaining.
+
+            57.   Defendant retained male and/or younger and/or noncomplaining employees in
+
+positions for which Plaintiff was more qualified.
+
+            58.   Defendant retained less qualified male and/or younger and/or noncomplaining
+
+employees who were hired after Plaintiff.
+
+            59.   Defendant assigned Plaintiff's job duties to substantially younger and/or male
+
+and/or noncomplaining employees, including Shallers.
+
+            60.   At the time of Plaintiff’s termination, Defendant also terminated two female
+
+Account Executives who reported to Plaintiff: Victoria Jackson and Aysylu Ismagilova.
+
+            61.   Defendant has an underrepresentation of female employees, especially in high
+
+level Sales positions.
+
+            62.   Defendant's comments and conduct evidence a bias against older and/or female
+
+and/or complaining employees.
+
+            63.   On or about June 24, 2024, Plaintiff applied for a posted Senior Sales Manager
+
+position with Defendant.
+
+            64.   Plaintiff was qualified for the Senior Sales Manager position, as she had held it
+
+prior to her termination.
+
+            65.   On or about July 24, 2024, Plaintiff received an email from Amber Hara, Sales
+
+Recruiter, stating that the next step was scheduling a call regarding the Senior Sales Manager
+
+position.
+
+            66.   Hara instructed Plaintiff to schedule a call with her using "the following link" but
+
+did not provide any link that Plaintiff could click to schedule a call with her.
+
+
+
+                                                   7
+      Case 2:25-cv-06924-JDW            Document 1       Filed 12/10/25      Page 11 of 35
+
+
+
+
+         67.    On or about July 24, 2024, in a response email to Hara, Plaintiff stated that there
+
+was no link with which to schedule the call.
+
+         68.    Plaintiff received no response to her email to Hara.
+
+         69.    Defendant failed to interview Plaintiff or select Plaintiff for the Senior Sales
+
+Manager position for which she was qualified and had applied.
+
+         70.    Plaintiff’s sex was a motivating and determinative factor in Defendant’s decision
+
+to terminate her employment.
+
+         71.    Plaintiff’s age was a motivating and determinative factor in Defendant’s decision
+
+to terminate Plaintiff’s employment.
+
+         72.    Plaintiff’s combinations of age/sex was a motivating and determinative factor in
+
+Defendant’s decision to terminate her employment.
+
+         73.    Plaintiff’s engaging in protected activity was a motivating and determinative
+
+factor in Defendant’s decision to terminate her employment.
+
+         74.    Plaintiff’s sex was a motivating and determinative factor in Defendant’s decision
+
+not to interview her for or hire her into the position of Senior Sales Manager.
+
+         75.    Plaintiff’s age was a motivating and determinative factor in Defendant’s decision
+
+not to interview her for or hire her into the position of Senior Sales Manager.
+
+         76.    Plaintiff’s combinations of age/sex was a motivating and determinative factor in
+
+Defendant’s decision not to interview her for or hire her into the position of Senior Sales Manager.
+
+         77.    Plaintiff’s engaging in protected activity was a motivating and determinative
+
+factor in Defendant’s decision not to interview her for or hire her into the position of Senior Sales
+
+Manager.
+
+
+
+
+                                                 8
+      Case 2:25-cv-06924-JDW            Document 1       Filed 12/10/25      Page 12 of 35
+
+
+
+
+           78.   Plaintiff’s age, sex, combination of age/sex and/or engaging in protected activity
+
+were motivating and determinative factors in Defendant’s decision not to retain/hire Plaintiff into
+
+any open position for which she was qualified.
+
+           79.   Plaintiff’s age, sex, combination of age/sex and/or engaging in protected activity
+
+were motivating and determinative factors in the discriminatory and retaliatory treatment alleged
+
+herein.
+
+           80.   Plaintiff was subjected to severe and/or pervasive conduct that interfered with her
+
+ability to perform her job duties and was not welcomed by Plaintiff, thereby creating a hostile work
+
+environment.
+
+           81.   Plaintiff’s sex and/or age and/or a combination of sex/age and/or engaging in
+
+protected activity were motivating and determinative factors in the hostile work environment to
+
+which Plaintiff was subjected.
+
+           82.   The conduct to which Plaintiff was subjected was so severe and/or pervasive that
+
+a reasonable person in Plaintiff’s position would find the work environment to be hostile and/or
+
+abusive.
+
+           83.   Defendant’s conduct following Plaintiff’s engaging in protected activity would
+
+dissuade a reasonable person from making complaints.
+
+           84.   Defendant failed to prevent or address the discriminatory and retaliatory conduct
+
+referred to herein and further failed to take corrective and/or remedial measures to make the
+
+workplace free from discriminatory and retaliatory conduct.
+
+           85.   As a direct and proximate result of the discriminatory, harassing, and retaliatory
+
+conduct of Defendant, Plaintiff has in the past incurred, and may in the future incur, a loss of
+
+
+
+
+                                                 9
+       Case 2:25-cv-06924-JDW            Document 1        Filed 12/10/25      Page 13 of 35
+
+
+
+
+earnings and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation,
+
+loss of self-esteem, mental anguish, and loss of life’s pleasures.
+
+          86.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of the unlawful behavior complained of herein unless and until this
+
+Court grants the relief requested herein.
+
+          87.    Plaintiff has incurred and is entitled to all costs and attorneys’ fees incurred as a
+
+result of the unlawful behavior complained of herein.
+
+                                       COUNT I – Title VII
+
+          88.    Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+          89.    By committing the foregoing acts of discrimination, retaliation, and harassment
+
+against Plaintiff, Defendant violated Title VII.
+
+          90.    Defendant acted with malice and/or a reckless indifference to Plaintiff’s rights,
+
+thereby warranting the imposition of punitive damages.
+
+          91.    As a direct and proximate result of Defendant’s violation of Title VII, Plaintiff has
+
+suffered the damages and losses set forth herein.
+
+          92.    Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein.
+
+          93.    No previous application has been made for the relief requested herein.
+
+                                        COUNT II – ADEA
+
+          94.    Plaintiff incorporates the paragraphs above as if set forth herein in their entirety.
+
+          95.    By committing the foregoing acts of discrimination, retaliation, and harassment
+
+against Plaintiff, Defendant violated the ADEA.
+
+
+                                                   10
+       Case 2:25-cv-06924-JDW              Document 1        Filed 12/10/25      Page 14 of 35
+
+
+
+
+             96.    Defendant’s violations of the ADEA were intentional and willful under the
+
+circumstances, warranting the imposition of liquidated damages.
+
+             97.    As a direct and proximate result of Defendant’s violation of the ADEA, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+             98.    Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein.
+
+             99.    No previous application has been made for the relief requested herein.
+
+                                          COUNT III - PHRA
+
+             100. Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+             101. By committing the foregoing acts of discrimination, retaliation, and harassment
+
+against Plaintiff, Defendant violated the PHRA.
+
+             102. As a direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+             103. Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein.
+
+             104. No previous application has been made for the relief requested herein.
+
+                                                 RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s improper conduct, and specifically prays that the Court grant the following relief to
+
+Plaintiff by:
+
+        a.         declaring the acts and practices complained of herein to be a violation of Title VII;
+
+        b.         declaring the acts and practices complained of herein to be a violation of the ADEA;
+
+
+
+                                                    11
+      Case 2:25-cv-06924-JDW          Document 1        Filed 12/10/25         Page 15 of 35
+
+
+
+
+       c.     declaring the acts and practices complained of herein to be a violation of the PHRA;
+
+       d.     enjoining and restraining permanently the violations alleged herein;
+
+       e.     awarding Plaintiff back-pay;
+
+       f.     awarding Plaintiff front-pay;
+
+       g.     awarding compensatory damages to Plaintiff for past and future pain and suffering,
+
+emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff has
+
+suffered or may suffer as a result of Defendant’s improper conduct;
+
+       h.     awarding liquidated damages;
+
+       i.     awarding punitive damages;
+
+       j.     awarding Plaintiff attorneys fees and costs;
+
+       k.     awarding Plaintiff such other damages as are appropriate under Title VII, the
+
+ADEA, and PHRA;
+
+       l.     entering judgment against Defendant in favor of Plaintiff in an amount to be
+
+determined;
+
+       l.     granting such other and further relief as this Court deems just, proper, or equitable.
+
+
+
+                                                    CONSOLE MATTIACCI LAW, LLC
+
+                                     By:
+                                                     /s/ Lane J. Schiff
+                                                     LANE J. SCHIFF, ESQ.
+                                                     1525 Locust St., 9th Floor
+                                                     Philadelphia, PA 19102
+                                                     Phone: (215) 545-7676
+                                                     schiff@consolelaw.com
+
+                                                     Attorneys for Plaintiff
+
+Dated: December 10, 2025
+
+                                               12
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 16 of 35
+
+
+
+
+    EXHIBIT 1
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 17 of 35
+
+
+
+
+               REDACTED
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 18 of 35
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 19 of 35
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 20 of 35
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 21 of 35
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 22 of 35
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 23 of 35
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 24 of 35
+Case 2:25-cv-06924-JDW   Document 1    Filed 12/10/25   Page 25 of 35
+
+
+
+
+                            REDACTED
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 26 of 35
+
+
+
+
+    EXHIBIT 2
+      Case 2:25-cv-06924-JDW           Document 1       Filed 12/10/25      Page 27 of 35
+
+
+
+
+                       COMMONWEALTH OF PENNSYLVANIA
+                             GOVERNOR’S OFFICE
+                  PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+                            SECOND COMPLAINT
+__________________________________________
+                                           :
+COMPLAINANT:                               :
+                                           :
+LINDA QUINLAN                              :                        Docket No.
+                                           :
+v.                                         :
+                                           :
+RESPONDENT:                                :
+                                           :
+SEMRUSH INC.                               :
+__________________________________________:
+
+   1. The Complainant herein is:
+
+       Name:                  Linda Quinlan
+
+       Address:               REDACTED
+                              Horsham, PA 19044
+
+   2. The Respondent herein is:
+
+       Name:                  Semrush Inc.
+
+       Address:               3800 Horizon Blvd, Suite 401
+                              Trevose, PA 19053
+
+   3. I, Linda Quinlan, the Complainant herein, allege that I was subjected to unlawful
+
+discrimination because of my age (57), my sex (female), and/or the combination of my age and
+
+sex (“age/sex”) and retaliation because of my engaging in protected activity, as set forth below.
+
+       Discrimination and Retaliation
+
+           A. I specifically allege:
+
+           [1]        On March 28, 2024, I filed my first Complaint with the PHRC.
+       Case 2:25-cv-06924-JDW            Document 1     Filed 12/10/25      Page 28 of 35
+
+
+
+
+             [2]       Following the above, a copy of my filed PHRC Complaint was sent to
+
+Respondent.
+
+             [3]       On June 24, 2024, I applied for the posted Senior Sales Manager position.
+
+I was qualified for the position, as I had held the position before Respondent terminated my
+
+employment.
+
+             [4]       On July 24, 2024, an email from Amber Hara, Sales Recruiter, she stated
+
+that the next step was scheduling a call regarding the Senior Sales Manager position. She
+
+instructed me to schedule a call with her using “the following link” but did not provide any link
+
+that I could click to schedule a call with her.
+
+             [5]       On July 24, 2024, in a response email to Hara, I stated that there was no
+
+link with which to schedule the call.
+
+             [6]       I received no response to my above email.
+
+             [7]       Respondent failed to interview me or select me for the Senior Sales
+
+Manager position for which I was qualified and had applied.
+
+             [8]       Respondent failed to interview me or select me for the Senior Sales
+
+Manager position for which I was qualified and had applied because of my sex and/or my age
+
+and/or age/sex and/or my engaging in protected activity and/or my having filed a PHRC
+
+Complaint.
+
+             [9]       Respondent failed to interview me or select me for any open position for
+
+which I was qualified because of my sex and/or my age and/or age/sex and/or my engaging in
+
+protected activity and/or my having filed a PHRC Complaint.
+
+             [10]      Respondent’s age, sex, and age/sex discrimination and retaliation against
+
+me has caused me emotional distress.
+       Case 2:25-cv-06924-JDW              Document 1       Filed 12/10/25     Page 29 of 35
+
+
+
+
+             B. Respondent has discriminated against me because of my sex (female), age (57),
+
+and a combination of my sex and age (“sex/age”), and retaliated against me because of my
+
+engaging in protected activity in violation of Title VII of the Civil Rights Act of 1964, as
+
+amended, 42 U.S.C. § 2000e, et seq. (“Title VII”), the Age Discrimination in Employment Act,
+
+as amended, 29 U.S.C. § 623 et seq. (“ADEA”), and the Pennsylvania Human Relations Act, as
+
+amended, 43 P.S. § 951, et seq. (“PHRA”).
+
+        4.         The allegations in Paragraph 3 hereof constitute unlawful discriminatory practices
+
+in violation of:
+
+              X           Pennsylvania Human Relations Act (Act of October 27, 1955, P.L.
+
+             744, as amended) Section 5 Subsection(s): (a); (d)__
+
+             ____         Section 5.1 Subsection(s) _____________________________
+
+             ____         Section 5.2 Subsection(s) _____________________________
+
+             ____         Pennsylvania Fair Educational Opportunities Act (Act of July 17, 1961,
+
+             P.L. 766, as amended) Section 4 Subsection(s) _____________________________
+
+        5.         Other action based upon the aforesaid allegations has been instituted by the
+
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+
+              X           This charge will be referred to the EEOC for the purpose of dual
+
+             filing.
+
+        6.         The Complainant seeks that Respondent be required to:
+
+             (a) Make the Complainant whole.
+
+             (b) Eliminate all unlawful discriminatory practice(s) and procedure(s).
+
+             (c) Remedy the discriminatory effect of past practice(s) and procedure(s).
+Case 2:25-cv-06924-JDW        Document 1       Filed 12/10/25     Page 30 of 35
+
+
+
+
+   (d) Take further affirmative action necessary and appropriate to remedy the violation
+
+      complained of herein.
+
+   (e) Provide such further relief as the Commission deems necessary and appropriate.
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 31 of 35
+
+
+
+
+                            REDACTED
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 32 of 35
+
+
+
+
+    EXHIBIT 3
+              Case 2:25-cv-06924-JDW           Document 1            Filed 12/10/25    Page 33 of 35
+
+               U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+                                                                                          Philadelphia District Office
+                                                                                            801 Market St, Suite 1000
+                                                                                               Philadelphia, PA 19107
+                                                                                                       (267) 589-9700
+                                                                                              Website: www.eeoc.gov
+
+                        DETERMINATION AND NOTICE OF RIGHTS
+                                      (This Notice replaces EEOC FORMS 161 & 161-A)
+
+
+
+
+      To:     Linda Quinlan
+              REDACTED
+              Horsham, PA 19044
+
+
+        Re:    Linda Quinlan v. Semrush Inc.
+               EEOC Charge Number: 17F-2024-60588
+      EEOC Representative and email:        State Local and Tribal Program Manager
+                                            PHLSTATEANDLOCAL@EEOC.GOV
+
+                                     DETERMINATION OF CHARGE
+      The EEOC has granted your request for a Notice of Right to Sue, and more than 180 days have
+      passed since the filing of this charge. The EEOC is terminating its processing of this charge.
+                                   NOTICE OF YOUR RIGHT TO SUE
+
+      This is official notice from the EEOC of the dismissal of your charge and of your right to sue. If
+      you choose to file a lawsuit against the respondent(s) on this charge under federal law, your
+      lawsuit must be filed WITHIN 90 DAYS of your receipt of this notice. Receipt generally
+      occurs on the date that you (or your representative) received this document. You should keep a
+      record of the date you received this notice. Your right to sue based on this charge will be lost if
+      you do not file a lawsuit in court within 90 days. (The time limit for filing a lawsuit based on a
+      claim under state law may be different.)
+
+      Please retain this notice for your records.
+
+                                                        On Behalf of the Commission:
+
+                                                        Digitally Signed By: Karen McDonough 9/15/2025
+                                                        Karen McDonough
+                                                        Deputy District Director
+
+
+cc:   For Respondent                                              For Charging Party
+      Jennifer Capozzola                                          Emily R Derstine Friesen
+      Littler Mendelson, P. C.                                    Console Mattiacci Law
+      1601 Cherry St. Suite 1400                                  1525 Locust Street, 9th Floor
+      Philadelphia, PA 19102                                      Philadelphia, PA 19102
+Case 2:25-cv-06924-JDW   Document 1   Filed 12/10/25   Page 34 of 35
+
+
+
+
+    EXHIBIT 4
+              Case 2:25-cv-06924-JDW            Document 1            Filed 12/10/25    Page 35 of 35
+
+               U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+                                                                                          Philadelphia District Office
+                                                                                            801 Market St, Suite 1000
+                                                                                               Philadelphia, PA 19107
+                                                                                                       (267) 589-9700
+                                                                                              Website: www.eeoc.gov
+
+                         DETERMINATION AND NOTICE OF RIGHTS
+                                       (This Notice replaces EEOC FORMS 161 & 161-A)
+
+
+
+
+      To:     Linda Quinlan
+              REDACTED
+              Horsham, PA 19044
+
+
+        Re:    Linda Quinlan v. Semrush Inc.
+               EEOC Charge Number: 17F-2024-60897
+      EEOC Representative and email:         State Local and Tribal Program Manager
+                                             PHLSTATEANDLOCAL@EEOC.GOV
+
+                                      DETERMINATION OF CHARGE
+       The EEOC has granted your request for a Notice of Right to Sue, and more than 180 days have
+       passed since the filing of this charge. The EEOC is terminating its processing of this charge.
+                                    NOTICE OF YOUR RIGHT TO SUE
+
+       This is official notice from the EEOC of the dismissal of your charge and of your right to sue. If
+       you choose to file a lawsuit against the respondent(s) on this charge under federal law, your
+       lawsuit must be filed WITHIN 90 DAYS of your receipt of this notice. Receipt generally
+       occurs on the date that you (or your representative) received this document. You should keep a
+       record of the date you received this notice. Your right to sue based on this charge will be lost if
+       you do not file a lawsuit in court within 90 days. (The time limit for filing a lawsuit based on a
+       claim under state law may be different.)
+
+       Please retain this notice for your records.
+
+                                                         On Behalf of the Commission:
+
+                                                         Digitally Signed By: Karen McDonough 9/15/2025
+                                                         Karen McDonough
+                                                         Deputy District Director
+
+
+cc:   For Respondent                                               For Charging Party
+      Jennifer Capozzola                                           Emily R Derstine Friesen
+      Littler Mendelson, P. C.                                     Console Mattiacci Law, LLC
+      1601 Cherry St., Suite 1400                                  1525 Locust Street, 9th Floor
+      Philadelphia, PA 19102                                       Philadelphia, PA 19102
+

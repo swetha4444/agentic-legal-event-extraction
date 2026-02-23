@@ -1,0 +1,757 @@
+Source URL: https://www.courtlistener.com/docket/60013767/1/tulsky-v-one-sixty-over-ninety-llc/
+Title: Complaint (Attorney) – #1 in TULSKY v. ONE SIXTY OVER NINETY, LLC (E.D. Pa., 2:21-cv-02826) – CourtListener.com
+
+            Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 1 of 14
+
+
+
+
+                        IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+____________________________________
+JACOB TULSKY                            :
+2341 Carpenter Street                   :
+Philadelphia, PA 19146                  :    CIVIL ACTION
+                                        :
+               Plaintiff,               :    No.: _________________
+       v.                               :
+                                        :
+ONE SIXTY OVER NINETY, LLC, d/b/a :
+160OVER90                               :
+                      th
+510 Walnut Street, 19 Floor             :    JURY TRIAL DEMANDED
+Philadelphia, PA 19106                  :
+       and                              :
+ENDEAVOR GROUP HOLDINGS, INC., :
+d/b/a ENDEAVOR                          :
+9601 Wilshire Boulevard                 :
+Beverly Hills, CA 90210                 :
+       and                              :
+DOUGLAS TIBBETTS                        :
+                      th
+510 Walnut Street, 19 Floor             :
+Philadelphia, PA 19106                  :
+       and                              :
+KIMBERLY HALLMAN                        :
+                      th
+510 Walnut Street, 19 Floor             :
+Philadelphia, PA 19106                  :
+                                        :
+               Defendants.              :
+____________________________________:
+
+                                CIVIL ACTION COMPLAINT
+
+       Plaintiff, Jacob Tulsky, by and through his undersigned counsel, hereby avers as follows:
+
+                                    I.     INTRODUCTION
+
+       1.       Plaintiff has initiated this action to redress violations by One Sixty Over Ninety,
+
+LLC, d/b/a 160over90, Endeavor Group Holdings, Inc., d/b/a Endeavor, Douglas Tibbetts, and
+
+Kimberly Hallman (collectively “Defendants”) for violations of the Family and Medical Leave
+             Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 2 of 14
+
+
+
+
+Act (“FMLA” – 29 U.S.C. §§ 2601, et. seq.). In particular, Plaintiff alleges that he was
+
+wrongfully terminated by Defendants (among other claims).1
+
+                                 II.      JURISDICTION AND VENUE
+
+        2.       This Court, in accordance with 28 U.S.C. § 1331, has jurisdiction over Plaintiff’s
+
+claims because this civil action arises under laws of the United States.
+
+        3.       This Court may properly maintain personal jurisdiction over Defendants because
+
+Defendants’ contacts with this state and this judicial district are sufficient for the exercise of
+
+jurisdiction over Defendants to comply with traditional notions of fair play and substantial
+
+justice, satisfying the standard set forth by the United States Supreme Court in International Shoe
+
+Co. v. Washington, 326 U.S. 310 (1945) and its progeny.
+
+        4.       Pursuant to 28 U.S.C. § 1391(b)(1) and (b)(2), venue is properly laid in this
+
+district because all of the acts and/or omissions giving rise to the claims set forth herein occurred
+
+in this judicial district, and in addition, Defendants are deemed to reside where they are subject
+
+to personal jurisdiction, rendering Defendants residents of the Eastern District of Pennsylvania.
+
+                                               III.    PARTIES
+
+        5.       The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        6.       Plaintiff is an adult individual, with an address as set forth in the caption.
+
+        7.       One Sixty over Ninety, LLC, d/b/a 160over90 (hereinafter “Defendant 160”) is an
+
+international marketing and ad agency, providing its services globally. Defendant 160 is
+
+
+1
+  Plaintiff will seek leave to amend the instant lawsuit to add claims under the Pennsylvania Human Relations Act
+(“PHRA”), the Philadelphia Fair Practices Ordinance (“PFPO”), and Title VII of the Civil Rights Act of 1964
+(“Title VII”) once properly administratively exhausted (as such claims are simultaneously pending with the EEOC
+and PCHR. Plaintiff was legally required to initiate such claims within state and federal agencies before including
+them herein.
+
+
+
+                                                        2
+            Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 3 of 14
+
+
+
+
+incorporated in the State of Delaware, but operates a principal place of business at the above-
+
+captioned address in Philadelphia, Pennsylvania (wherein Plaintiff was deemed to report and
+
+work from).
+
+       8.       Endeavor Group Holdings, Inc. (hereinafter “Defendant Endeavor”) is an
+
+international entertainment, sports and content company. It offers services through its integrated
+
+capabilities of talent representation, content development, content distribution and sales, event
+
+management, marketing and licensing, and direct-to-consumer offerings. It operates its business
+
+in three segments: Entertainment & Sports, Representation and Endeavor X. And this entity is
+
+headquartered at the above-captioned address in California.
+
+       9.       In 2018, Defendant Endeavor acquired Defendant 160 – and in all respects – has
+
+treated Defendant 160 as a division or branch of its overall business operation. Defendants
+
+operate as a single enterprise, as for example(s):
+
+                (a) Defendant Endeavor closely manages and sets directives for management of
+                    Defendant 160;
+
+                (b) Plaintiff’s benefits were processed through Defendant Endeavor, although he
+                    was a direct employee of Defendant 160;
+
+                (c) Plaintiff had to communicate with and get approved FMLA leave through
+                    Defendant Endeavor, operating as human resources and leave administrator
+                    for Defendant 160;
+
+                (d) Policies and other documentation Plaintiff received (including a handbook)
+                    were through Endeavor; and
+
+                (e) Even upon termination, Plaintiff’s proposed severance agreement (discussed
+                    more below) identified businesses he would waive claims against as
+                    Defendants Endeavor and 160 (both of which were construed as employers
+                    therein).
+
+       10.      Defendants 160 and Endeavor are properly considered a single, joint and/or
+
+integrated employer for the purposes of this lawsuit, as they shared resources, operated as a
+
+
+
+
+                                                 3
+            Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 4 of 14
+
+
+
+
+single enterprise, and Plaintiff was functionally an employee of both entities (and for many other
+
+reasons).
+
+        11.     Douglas Tibbetts (hereinafter “Defendant Tibbetts”) has been and remains an
+
+Executive Vice President of Defendant 160. He has worked for Defendant 160 for approximately
+
+4 years. At all times relevant herein, he was a high-level executive member of management who
+
+engaged in, orchestrated, and directed the FMLA violations as outlined in this lawsuit. He is
+
+additionally based in the “greater Philadelphia” region.
+
+        12.     Kimberly Hallman (hereinafter “Defendant Hallman”) has been and remains a
+
+Senior Vice President of Defendant 160. She has worked for Defendant 160 for approximately 7
+
+years. At all times relevant herein, she was a high-level executive member of management who
+
+engaged in, orchestrated, and directed the FMLA violations as outlined in this lawsuit. She is
+
+additionally based in the “greater Philadelphia” region.
+
+        13.     At all times relevant herein, Defendants acted by and through their agents,
+
+servants and employees, each of whom acted at all times relevant herein in the course and scope
+
+of their employment with and for Defendants.
+
+                              IV.     FACTUAL BACKGROUND
+
+        14.     The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        15.     Plaintiff was hired by Defendant 160 effective on or about March 9, 2020; and in
+
+total, Plaintiff was employed for slightly in excess of 1 year (or about 15 months in total).
+
+        16.     Plaintiff was hired as a New Business Sales Manager. This was a relatively new
+
+role within Defendant 160 created and/or redesigned upon Plaintiff’s hire. As a result, there was
+
+
+
+
+                                                  4
+           Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 5 of 14
+
+
+
+
+no established line of business, no prior leads, and Plaintiff was to create a pipeline of new
+
+business which was expected to take 1-2 years to establish.
+
+         17.      During Plaintiff’s entire tenure, he reported to Defendants Hallman and Tibbetts
+
+(Senior Vice President and Executive Vice President, respectively).
+
+         18.      By early 2021, Plaintiff had not yet established a revenue stream within
+
+Defendant 160. This was for multiple reasons: (1) his approximate 8 months of employment in
+
+2020 (and into early 2021) was during the peak of the COVID-19 pandemic where it was
+
+understood internally and industry-wide that companies were not entering new sales agreements
+
+due to global business closures; and (2) as stated supra, it was a 1–2 year process in a non-
+
+pandemic world to create a pipeline that would begin realizing substantial revenues from
+
+commercial contracts.2
+
+         19.      By January of 2021, Plaintiff was given an annual performance review by
+
+Defendant 160 management. It was overall positive and outlined goals for the upcoming year
+
+with the pandemic hopefully subsiding. There was no indication of a potential performance
+
+improvement plan or discipline.
+
+         20.      In addition to being given a largely positive review in January of 2021, Plaintiff
+
+also had numerous discussions with Defendants Tibbetts and Hallman from January through
+
+February of 2021. During the course of those discussions, there were numerous goals discussed
+
+and anticipated work to be performed through the remainder of calendar year 2021.
+
+         21.      In short, until in or about March of 2021 – notwithstanding a realized lack of
+
+revenue due to the foregoing recognized circumstances (and anticipated timeline) – Plaintiff had
+
+
+
+2
+ In addition to engaging sales pitches, Plaintiff was also creating a structure internally for his role to grow (through
+media platforms and other mechanisms).
+
+
+
+                                                           5
+         Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 6 of 14
+
+
+
+
+a good working relationship with Defendants and was expected to demonstrate good results by
+
+the end of 2021.
+
+       22.     Everything changed in mid-March of 2021. During a video conference, on or
+
+about March 18, 2021, Plaintiff informed Defendants Tibbetts and Hallman that his wife was
+
+pregnant and he was going to utilize an approximate 12-week FMLA leave commencing on July
+
+19, 2021 (subject to possible slight adjustment of start date), as that was his wife’s pregnancy
+
+due date. By March 2021, Plaintiff had become eligible and otherwise qualified for all statutory
+
+protections under the FMLA (being full time and having worked a full 12 months).
+
+       23.     Defendants Tibbetts and Hallman had an immediate reaction as if Plaintiff were
+
+not a team player, was somehow compromising his commitment to Defendants, and gave
+
+Plaintiff the impression they were disgusted that he was taking time off at all or for his full
+
+statutorily-permitted timeframe. They had become abrupt, expressed some work-related
+
+questions about time off and goals, and did not even smile or say congratulations. Plaintiff
+
+instead was in conclusion told this is “more of an HR issue.” Plaintiff left this conversation
+
+worried about their mutual reactions to him letting them know of his anticipated FMLA usage.
+
+       24.     Within roughly 2 weeks of Plaintiff’s FMLA disclosures, on or about April 2,
+
+2021, Plaintiff was told by Defendant Tibbetts “if things don’t get going, I’m going to put you on
+
+a performance improvement plan.”
+
+       25.     Plaintiff had also memorialized his conversation(s) and pregnancy / FMLA
+
+disclosures to Defendants via e-mail. In particular, Plaintiff e-mailed Defendant Endeavor’s US
+
+Benefits group on April 6, 2021 as follows:
+
+               Hello,
+
+               My name is Jacob Tulsky at I work in the Philadelphia office of
+               160over90 as a New Business Sales Manager.
+
+
+
+                                                6
+         Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 7 of 14
+
+
+
+
+               On March 18, 2021, I notified my manager, Doug Tibbetts, and co-
+               manager, Kimberly Hallman that my wife is pregnant and that I am
+               planning on taking paid parental leave once the baby is born. The plan
+               would be to start leave on July 19, 2021, my wife’s due date.
+
+               This email is to inform you as well.
+
+               Please let me know about any additional next steps.
+
+               Thanks,
+
+               Jake
+
+       26.     On April 6, 2021, Plaintiff was instructed on the FMLA approval process by
+
+Defendant Endeavor’s staff, as his own management had not given such information or helped
+
+Plaintiff initiate the approval / FMLA process.
+
+       27.     Through mid-April 2021, Plaintiff was being commended on his work ethic,
+
+creation of great opportunities and pipeline, but had simultaneously started receiving verbal and
+
+written commentary that revenue generation needs to start sooner and he needs to produce results
+
+(sooner than previously anticipated). In a rush to document concerns to Plaintiff via e-mail,
+
+Defendants’ management even listed several facts and dates incorrectly.
+
+       28.     Plaintiff was informed by Defendants’ management as of in or about April 2021,
+
+he was now to participate in weekly meetings. But that again was more of an intent to give the
+
+outward impression Plaintiff had performance problems, as many of the meetings which were
+
+with little or no notice canceled by Defendants’ management. And no meetings were sought or
+
+requested regarding feigned performance concerns pre-FMLA leave request(s).
+
+       29.     Plaintiff was: (a) greeted with contempt for requesting FMLA leave for 12 weeks;
+
+(b) in very close temporal proximity to federally-protected requests for medical leave threatened
+
+with a performance improvement plan; (c) subjected to prompt concerns with his performance
+
+
+
+
+                                                  7
+          Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 8 of 14
+
+
+
+
+following FMLA request(s) and disclosure(s); and (d) his relationship had deteriorated with
+
+Defendants management from April – May of 2021 with them being distant, abrupt, less
+
+responsive, and canceling meetings with him.
+
+        30.     During the second half of May 2021, Plaintiff had been questioned separately,
+
+once by Defendant Tibbett and once by Defendant Hallman. In these separate discussions, they
+
+sought to confirm the approximate date of my FMLA leave and the length. Again, in neither of
+
+these discussions were such management congratulatory or pleasant – and instead – appeared in
+
+all respects to be frustrated and very matter of fact. Plaintiff construed the context of the
+
+questioning to be whether Plaintiff either reconsidered leave entirely or the length of time he
+
+was going to utilize (not any real questioning for factual data which was already known and had
+
+been referred to HR for handling as if not supposedly an issue for management).
+
+        31.     On or about June 15, 2021, Plaintiff was notified that he was terminated by
+
+Defendants.
+
+        32.     Plaintiff was not even extended the courtesy of being given any rationale for his
+
+abrupt termination from employment (shortly before his FMLA leave would commence). Nor
+
+was Plaintiff provided with a termination letter offering any reason(s) for his termination from
+
+employment.
+
+        33.     And Plaintiff was presented with a severance agreement offering him money in
+
+exchange for waiving all possible legal claims, inclusive of any claims he may have under the
+
+“Family and Medical Leave Act.” This legal waiver and severance agreement was not legally
+
+required to be offered to Plaintiff and further corroborates (through well-established admissible
+
+evidence) the pretext for his termination while asking him to waive such legal claims. 3
+
+
+3
+ See e.g. Staffieri v. Northwestern Human Servs., 2013 U.S. Dist. LEXIS 72115 at **14-15 (E.D. Pa. 2013)(an
+employer who offered severance when policies did not require upon condition of waiving FMLA claim supported
+
+
+                                                    8
+           Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 9 of 14
+
+
+
+
+         34.      There is simply no question Plaintiff was terminated for discriminatory,
+
+retaliatory and other reasons (through unlawful interference with his FMLA entitlements).
+
+                                         First Cause of Action
+                     Violations of the Family and Medical Leave Act ("FMLA")
+                             (Interference, Discrimination & Retaliation)
+
+         35.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+         36.      Plaintiff was at all times during his employment as of March 2021 an eligible
+
+employee for FMLA protection.
+
+         37.      Defendants committed interference, discrimination and retaliation violations of
+
+the FMLA by: (a) attempting to discourage Plaintiff from utilizing FMLA through threats of
+
+discipline; (b) creating a hostile work environment for him from April – June 2021;4 (c)
+
+terminating Plaintiff to prevent Plaintiff from using FMLA leave; and (d) terminating Plaintiff in
+
+retaliation for requesting and/or exercising his FMLA rights.
+
+         38.      Defendants Hallman and Tibbetts are personally liable as individuals incapable of
+
+being shielded by corporate status under the FMLA. They both personally undertook all unlawful
+
+finding of pretext in FMLA claim among other facts); See also Bartlett v. NIBCO Inc., 2011 U.S. Dist. LEXIS
+28072 (N.D. Ind. 2011)("Severance pay packages contingent upon a release of claims which are offered
+contemporaneously with the notice of termination are not covered by [Rule 408]", and the motive in offering same
+is admissible evidence in a discrimination or retaliation claim and is admissible at trial in this case); Karl v. City of
+Mountlake Terrace, 2011 U.S. Dist. LEXIS 59085 (W.D. Wash. 2011)(severance agreements are admissible in
+retaliation claims when made contemporaneous to termination, as they are not governed by FRE 408); EEOC v.
+Republic Servs., Inc., 640 F. Supp. 2d 1267 (D. Nev. 2009)(denying summary judgment and considering as evidence
+in wrongful termination case that a company would offer severance when an employee is supposedly terminated in a
+manner that doesn't warrant severance per an explicit company policy); Cassino v. Reichhold Chemicals, Inc., 817
+F.2d 1338, 1342-43 (9th Cir. 1987)(finding no abuse of discretion when district court admitted severance agreement
+into evidence, stating “[w]here, as here, the employer tries to condition severance pay upon the release of potential
+claims, the policy behind Rule 408 does not come into play.”)(Emphasis added).
+
+
+
+4
+ Plaintiff is not pursuing an independent “hostile work environment claim.” Rather he is asserting unlawful conduct
+of a series of demeaning actions taken against him utilized to dissuade use of FMLA (which is separately unlawful).
+
+
+
+                                                           9
+           Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 10 of 14
+
+
+
+
+actions as outlined in this Complaint. They made all management decisions together, and they
+
+jointly discriminated / retaliated against Plaintiff. The FMLA permits an individual to be sued as
+
+to his or her own assets when they are a manager, corporate officer, or owner involved in the
+
+statutory violation(s). See Haybarger v. Lawrence Cty. Adult Prob. & Parole, 667 F.3d 408, 414
+
+(3d Cir. 2012).
+
+       39.        These actions as aforesaid constitute interference, discrimination, and retaliation
+
+violations of the FMLA.
+
+       WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+      A.          Defendants are to promulgate and adhere to a policy prohibiting discrimination /
+
+retaliation in the future against any employee(s);
+
+      B.          Defendants are to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff
+
+whole for any and all pay and benefits Plaintiff would have received had it not been for
+
+Defendants’ illegal actions, including but not limited to back pay, front pay, salary, pay
+
+increases, bonuses, insurance, pension, and benefits.
+
+      C.          Plaintiff is to be awarded actual damages, as well as damages for the pain,
+
+suffering, and humiliation caused by Defendant’s actions (where legally permitted);
+
+      D.          Plaintiff is to be awarded liquidated or punitive damages as permitted by
+
+applicable laws herein;
+
+      E.          Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper, and appropriate; and
+
+      F.          Plaintiff is to be awarded the costs and expenses of this action and a reasonable
+
+attorney’s fees as provided by applicable federal and state law.
+
+
+
+
+                                                   10
+        Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 11 of 14
+
+
+
+
+                                           Respectfully submitted,
+
+                                           KARPF, KARPF & CERUTTI, P.C.
+
+
+                                    By:    __________________________
+                                           Ari R. Karpf, Esq.
+                                           3331 Street Rd.
+                                           Bldg. 2, Ste. 128
+                                           Bensalem, PA 19020
+
+Date: June 24, 2021
+
+
+
+
+                                      11
+   Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 12 of 14
+
+
+
+
+             g~ÅçÄ=qìäëâó
+
+
+
+låÉ=páñíó=lîÉê=káåÉíóI=ii`I=ÇLÄL~=NSMlsboVMI=Éí=~äK
+
+
+
+
+ SLORLOMON
+                            Case 2:21-cv-02826-CMR
+                                                UNITEDDocument  1 Filed
+                                                      STATES DISTRICT    06/25/21 Page 13 of 14
+                                                                      COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       OPQN=`~êéÉåíÉê=píêÉÉíI=mÜáä~ÇÉäéÜá~I=m^=NVNQS
+Address of Plaintiff: ______________________________________________________________________________________________
+
+                      RNM=t~äåìí=píêÉÉíI=NVíÜ=cäççêI=mÜáä~ÇÉäéÜá~I=m^=NVNMSX=VSMN=táäëÜáêÉ=_äîÇI=_ÉîÉêäó=eáääëI=`^=VMONM
+Address of Defendant: ____________________________________________________________________________________________
+                                            aÉÑÉåÇ~åíë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+       SLORLOMON
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+         SLORLOMON
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                   Case 2:21-cv-02826-CMR Document 1 Filed 06/25/21 Page 14 of 14
+JS 44 (Rev. 06/17)                                                           CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                            DEFENDANTS
+                                                                                                             lkb=pfuqv=lsbo=kfkbqvI=ii`I=aL_L^=NSMlsboVMI=bq=^iK
+qriphvI=g^`l_
+    (b) County of Residence of First Listed Plaintiff                   mÜáä~ÇÉäéÜá~                           County of Residence of First Listed Defendant                 mÜáä~ÇÉäéÜá~
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                       (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                             THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                     Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                    f
+                                                                                                          (For Diversity Cases Only)                                             and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3      Federal Question                                                                     PTF           DEF                                            PTF      DEF
+          Plaintiff                               (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1     Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                              of Business In This State
+
+❒ 2    U.S. Government                    ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2    Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                              (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                     Citizen or Subject of a           ’ 3         ’ 3    Foreign Nation                        ’ 6      ’ 6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                   Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                TORTS                               FORFEITURE/PENALTY                            BANKRUPTCY                      OTHER STATUTES
+❒   110 Insurance                          PERSONAL INJURY                 PERSONAL INJURY           ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158          ❒ 375 False Claims Act
+❒   120 Marine                       ’     310 Airplane                  ❒ 365 Personal Injury -           of Property 21 USC 881            ’   423 Withdrawal                 ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’     315 Airplane Product                Product Liability     ❒ 690 Other                                     28 USC 157                        3729(a))
+❒   140 Negotiable Instrument                   Liability                ❒ 367 Health Care/                                                                                    ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’     320 Assault, Libel &                Pharmaceutical                                                    PROPERTY RIGHTS               ❒ 410 Antitrust
+        & Enforcement of Judgment               Slander                        Personal Injury                                               ❒ 820 Copyrights                  ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’     330 Federal Employers’              Product Liability                                             ❒ 830 Patent                      ❒ 450 Commerce
+❒   152 Recovery of Defaulted                   Liability                ❒ 368 Asbestos Personal                                             ❒ 835 Patent - Abbreviated        ❒ 460 Deportation
+        Student Loans                ’     340 Marine                          Injury Product                                                       New Drug Application       ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’     345 Marine Product                  Liability                                                     ❒ 840 Trademark                          Corrupt Organizations
+❒   153 Recovery of Overpayment                 Liability                 PERSONAL PROPERTY                       LABOR                         SOCIAL SECURITY                ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’     350 Motor Vehicle             ❒ 370 Other Fraud           ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)                ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’     355 Motor Vehicle             ❒ 371 Truth in Lending              Act                             ❒ 862 Black Lung (923)            ❒ 850 Securities/Commodities/
+❒   190 Other Contract                         Product Liability         ❒ 380 Other Personal        ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                  Exchange
+❒   195 Contract Product Liability   ’     360 Other Personal                  Property Damage               Relations                       ❒ 864 SSID Title XVI              ❒ 890 Other Statutory Actions
+❒   196 Franchise                              Injury                    ❒ 385 Property Damage       ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))                ❒ 891 Agricultural Acts
+                                     ’     362 Personal Injury -               Product Liability      ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                               Medical Malpractice                                           Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                        CIVIL RIGHTS                 PRISONER PETITIONS         ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                       Act
+❒   210 Land Condemnation             ❒    440 Other Civil Rights          Habeas Corpus:            ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff       ❒ 896 Arbitration
+❒   220 Foreclosure                   ❒    441 Voting                    ❒ 463 Alien Detainee               Income Security Act                     or Defendant)              ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       ñ❒    442 Employment                ❒ 510 Motions to Vacate                                             ❒ 871 IRS—Third Party                    Act/Review or Appeal of
+❒   240 Torts to Land                 ❒    443 Housing/                        Sentence                                                             26 USC 7609                       Agency Decision
+❒   245 Tort Product Liability                 Accommodations            ❒ 530 General                                                                                         ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒     445 Amer. w/Disabilities -    ❒ 535 Death Penalty               IMMIGRATION                                                                State Statutes
+                                               Employment                  Other:                    ❒ 462 Naturalization Application
+                                     ❒     446 Amer. w/Disabilities -    ❒ 540 Mandamus & Other      ❒ 465 Other Immigration
+                                               Other                     ❒ 550 Civil Rights                Actions
+                                     ❒     448 Education                 ❒ 555 Prison Condition
+                                                                         ❒ 560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                             ❒    3     Remanded from            ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict                   ❒ 8 Multidistrict
+        Proceeding                State Court                           Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                             (specify)                      Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                       cji^=EOVrp`OSMNF
+VI. CAUSE OF ACTION Brief description of cause:
+                       sáççä~íáçåë=çÑ=íÜÉ=cji^K
+VII. REQUESTED IN     ❒ CHECK IF THIS IS A CLASS ACTION                                                 DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:           UNDER RULE 23, F.R.Cv.P.                                                                                                       JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                        (See instructions):
+      IF ANY                                JUDGE                                                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+           SLORLOMON
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                       APPLYING IFP                                    JUDGE                               MAG. JUDGE
+
+                  Print                                  Save As...                                                                                                                   Reset
+

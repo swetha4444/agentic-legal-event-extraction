@@ -1,0 +1,1068 @@
+Source URL: https://www.courtlistener.com/docket/65397985/1/machin-v-childrens-surgery-center-llc/
+Title: Complaint (Attorney) – #1 in MACHIN v. CHILDREN'S SURGERY CENTER, LLC (E.D. Pa., 5:22-cv-03937) – CourtListener.com
+
+JS 44 (Rev. 10/20)                 Case 5:22-cv-03937-JFL
+                                                     CIVILDocument
+                                                           COVER1SHEET
+                                                                   Filed 10/04/22 Page 1 of 19
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                        DEFENDANTS
+         Irenia Machin                                                                                   Children's Surgery Center, LLC; Children's Dental Health
+                                                                                                         Associates, LLC; Michael O'Donnell; Robyn Ivker
+   (b) County of Residence of First Listed Plaintiff               Lancaster                             County of Residence of First Listed Defendant
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                         NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                    THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+         Mansour Law, LLC                                                                                  Dilworth Paxson LLP
+         1101 W. Hamilton St. Ste. 205, Allentown, PA 18101                                                1500 Market St. Ste. 3500E, Philadelphia, PA 19102
+      Tel: (610) 321-3538                                                                                  Tel: (215) 575-7077
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                      (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                     of Business In This State
+
+  2    U.S. Government                 4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                  Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                   Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                    365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product                 Product Liability        690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability                  367 Health Care/                                                                                     400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                        Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’              Product Liability                                               830 Patent                       450 Commerce
+  152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+       Student Loans                 340 Marine                           Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product                   Liability                                                      840 Trademark                        Corrupt Organizations
+  153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending              Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability           380 Other Personal            720 Labor/Management                  SOCIAL SECURITY                      Protection Act
+  195 Contract Product Liability     360 Other Personal                  Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                      385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -               Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                      463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment                  510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                        Sentence                                                            or Defendant)                896 Arbitration
+  245 Tort Product Liability             Accommodations              530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment                  Other:                        462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -      540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                         Other                       550 Civil Rights                  Actions                                                                State Statutes
+                                     448 Education                   555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+    Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                            (specify)                 Transfer                          Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                       42 U.S.C. Sec. 1981; 42 U.S.C. Sec. 2000e
+VI. CAUSE OF ACTION Brief description of cause:
+                                       race & national origin discrimination; retaliation
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                                                                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+09/01/2022
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                              Case 5:22-cv-03937-JFL
+                                                UNITEDDocument  1 Filed
+                                                      STATES DISTRICT    10/04/22 Page 2 of 19
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+Address of Plaintiff: ______________________________________________________________________________________________
+
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                   Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                       Yes                    No
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                      Yes                    No
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                         Yes                    No
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                      Yes                    No
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /      is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+DATE: __________________________________                     __________________________________________                      ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                      B.   Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                      1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                              2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                         3.    Assault, Defamation
+       4.     Antitrust                                                                         4.    Marine Personal Injury
+       5.     Patent                                                                            5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                        6.    Other Personal Injury (Please specify): _____________________
+       7.     Civil Rights                                                                      7.    Products Liability
+       8.     Habeas Corpus                                                                     8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                           9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                            (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                          ARBITRATION CERTIFICATION
+                                                  (
+
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+DATE: __________________________________                     __________________________________________                     ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                             Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+    Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 3 of 19
+
+
+
+
+     Irenia Machin
+
+
+   Children's Dental Health
+   Associates, LLC
+
+
+
+
+                                                                       x
+
+
+10/04/2022                William P. Mansour        Irenia Machin
+
+
+(610) 321-3538                (610) 798-1345       wpm@themansourfirm.com
+            Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 4 of 19
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                               )
+ IRENIA MACHIN,                                )
+                                               )
+                Plaintiff,                     )            No. ___________________
+                                               )
+        v.                                     )
+                                               )
+ CHILDREN’S SURGERY CENTER, LLC                )             CIVIL ACTION – LAW
+ d/b/a CHILDREN’S DENTAL SURGERY;              )
+ CHILDREN’S DENTAL HEALTH                      )
+ ASSOCIATES, LLC d/b/a CHILDREN’S              )
+ DENTAL HEALTH; MICHAEL                        )
+ O’DONNELL; and ROBYN IVKER,                   )
+                                               )
+                Defendants.                    )
+                                               )
+
+                                        COMPLAINT
+       NOW COMES, Plaintiff IRENIA MACHIN (“Plaintiff”), by and through her undersigned
+
+counsel, who hereby complains against CHILDREN’S SURGERY CENTER, LLC d/b/a
+
+CHILDREN’S DENTAL SURGERY (“CSC”), CHILDREN’S DENTAL HEALTH ASSOCIATES,
+
+LLC d/b/a CHILDREN’S DENTAL HEALTH (“CDHA”), MICHAEL O’DONNELL (“O’Donnell”),
+
+and ROBYN IVKER (“Ivker”) (collectively, “Defendants”) as follows:
+
+                                       INTRODUCTION
+
+       1.      This action arises under the Civil Rights Act of 1866, 42 U.S.C. § 1981 (“§ 1981”),
+
+Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e, et seq. (“Title VII”), and the
+
+Pennsylvania Human Relations Act, 42 P.S. § 951, et seq. (“PHRA”). Specifically, as set forth in
+
+more detail herein, Defendants discharged Plaintiff from her employment based on her Hispanic
+
+race and Cuban national origin and in retaliation for her complaints about such discrimination.
+               Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 5 of 19
+
+
+
+                                              PARTIES
+
+          2.      Plaintiff is an adult individual currently residing in Lititz, Lancaster County,
+
+Pennsylvania. Plaintiff is a non-white member of the Hispanic race and is of Cuban national
+
+origin.
+
+          3.      Defendant CSC is a Pennsylvania limited liability company that operates a
+
+children’s dental surgery facility in Lancaster, Pennsylvania. Its principal place of business is
+
+located at 2160 Noll Drive, Lancaster, PA 17603. Defendant CSC is a subsidiary or affiliate
+
+company of Defendant CDHA and, upon information and belief, Defendant CDHA controls the
+
+operations and business activities of Defendant CSC.
+
+          4.      Defendant CDHA is a Pennsylvania limited liability company that owns and
+
+operates various dental health and surgery facilities throughout southeastern Pennsylvania. Its
+
+principal place of business is located at 200 Willowbrook Lane, Suite 220, West Chester, PA
+
+19382.
+
+          5.      Defendant O’Donnell is an adult individual whose current address is unknown to
+
+Plaintiff. At all times relevant and material hereto, Defendant O’Donnell was Defendant CDHA’s
+
+Chief Executive Officer (CEO) and had the authority to discharge employees.
+
+          6.      Defendant Ivker is an adult individual currently residing at 821 S. Penn Oak Road,
+
+Ambler, PA 19002. At all times relevant and material hereto, Defendant Ivker was employed by
+
+Defendant CDHA as a dentist.
+
+          7.      Upon information and belief, Defendant Ivker is a white member of the Jewish
+
+race and is of American national origin.
+
+          8.      At all times relevant and material hereto, Defendant CSC employed at least 15
+
+employees for each working day during each of 20 or more working weeks in 2020 and 2021.
+
+          9.      At all times relevant and material hereto, Defendant CDHA employed at least 15
+
+employees for each working day during each of 20 or more working weeks in 2020 and 2021.
+
+
+
+
+                                                  2
+                Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 6 of 19
+
+
+
+                                    JURISDICTION AND VENUE
+
+          10.      This Court has jurisdiction over Plaintiff’s federal law claims under 28 U.S.C. §
+
+1331 because such claims arise under the laws of the United States.
+
+          11.      This Court has jurisdiction over Plaintiff’s state law claims under 28 U.S.C. §
+
+1367(a) because such claims form part of the same case or controversy as Plaintiff’s federal law
+
+claims.
+
+          12.      This Court has personal jurisdiction over all Defendants because Plaintiff’s claims
+
+arise out of Defendants’ purposeful contacts with Pennsylvania.
+
+          13.      Venue in this district is proper under 28 U.S.C. § 1391(b)(1)-(2) because
+
+Defendants CSC and CDHA regularly conduct business within this district and because the events
+
+giving rise to Plaintiff’s causes of action arose in this district.
+
+          14.      On November 16, 2020, Plaintiff filed a Complaint against Defendant with the
+
+Pennsylvania Human Relations Commission (PHRC), alleging retaliation and discrimination
+
+based on her race and national origin. Plaintiff’s Complaint was simultaneously dual-filed with
+
+the U.S. Equal Employment Opportunity Commission (EEOC).
+
+          15.      At least one (1) year has passed since Plaintiff filed her Complaint with the PHRC.
+
+To date, the PHRC has taken no action with respect to Plaintiff’s Complaint.
+
+          16.      On September 15, 2022, the EEOC issued Plaintiff a Notice of Right to Sue relative
+
+to her Charge of Discrimination, a true and correct copy of which is attached hereto as EXHIBIT
+
+A. This action is being commenced within ninety (90) days of Plaintiff's receipt of that Notice.
+
+          17.      Plaintiff has satisfied all other conditions precedent to the filing of this action.
+
+                                      FACTUAL ALLEGATIONS
+
+          18.      On or about April 22, 2019, Defendant CDHA hired Plaintiff to work as a Surgical
+
+Dental Assistant for Defendant CSC at the latter’s Lancaster facility.
+
+          19.      Plaintiff’s job duties included mainly assisting dentists and other professionals
+
+perform dental surgeries.
+
+                                                      3
+            Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 7 of 19
+
+
+
+          20.   Because Plaintiff was born and raised in Cuba, she learned English as a second
+
+language. Although highly proficient in English, Plaintiff speaks the language with a thick Cuban
+
+accent.
+
+          21.   When Defendant CDHA hired her, Plaintiff was informed by one of its Human
+
+Resources representatives, Alyssa Glackin, that she would be in “orientation” (i.e. a probationary
+
+period) for approximately 2-3 weeks—or until mid-May 2019—until Defendant Ivker “signed-off”
+
+on Plaintiff. During this time, Plaintiff would not be allowed to work by herself without
+
+supervision.
+
+          22.   At one point during Plaintiff’s first day of work, she was in the break room with
+
+Defendant Ivker and some other colleagues. Defendant Ivker overheard Plaintiff talking with her
+
+colleagues and asked, “Are you from Cuba?” Plaintiff responded in the affirmative.
+
+          23.   From that point forward, Defendant Ivker changed her attitude towards Plaintiff
+
+and began ignoring her pleasantries and other efforts to interact. In addition, on numerous
+
+occasions between April 2019 and September 2019, Defendant Ivker mocked and criticized
+
+Plaintiff’s Cuban accent, stating numerous times in front of Plaintiff’s colleagues and patients that
+
+she can’t understand a word Plaintiff says. This caused Plaintiff great embarrassment and
+
+humiliation. To top it all off, despite Plaintiff’s satisfactory job performance, Defendant Ivker did
+
+not release Plaintiff from her “orientation” until August 2019.
+
+          24.   Since the start of her employment, Plaintiff was working full-time Monday through
+
+Friday (plus every other Saturday) at Defendant CSC’s Lancaster facility. During that same time
+
+period, Defendant Ivker worked at the Lancaster facility on Mondays and Tuesdays.
+
+          25.   On one specific occasion on or about July 24, 2019, one of Plaintiff’s colleagues,
+
+Megan Carter, had carelessly ripped a tooth out of the mouth of a 20-month-old Arab patient
+
+causing an incision that started to bleed heavily. Defendant Ivker responded to Ms. Carter’s calls
+
+for help, and when Ms. Carter explained what had happened, Defendant Ivker started laughing.
+
+When Ms. Carter pleaded with Defendant Ivker to stitch the incision, Defendant Ivker stated she
+
+                                                 4
+            Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 8 of 19
+
+
+
+
+would not. Ms. Carter then asked Defendant Ivker what she should tell the patient’s parents, to
+
+which Defendant Ivker responded with laughter, stating: “Say nothing. They don’t even speak
+
+English.”
+
+       26.     Immediately following this incident (which Plaintiff personally witnessed),
+
+Plaintiff went outside and began crying due to Defendant Ivker’s callous disregard for the patient
+
+and her parents based on their Arab ethnicity. Mr. Price saw Plaintiff crying and went outside
+
+to speak with her. Plaintiff explained to Mr. Price what had just happened and how Defendant
+
+Ivker refused to stitch the patient because she was Arab and her parents didn’t speak English.
+
+Mr. Price told Plaintiff that was just the way Defendant Ivker “has always been.”
+
+       27.     As a result of Defendant Ivker’s continuous criticism of Plaintiff’s Cuban accent
+
+and the incident with the young Arab patient, Plaintiff spoke with Ms. Glackin in early August
+
+2019 and requested that she be changed to a part-time schedule of Wednesday through Friday to
+
+avoid working with Defendant Ivker on Mondays and Tuesdays. Defendant CDHA and/or
+
+Defendant CSC approved this request, and Plaintiff began working Wednesday through Friday
+
+and every other Saturday shortly thereafter.
+
+       28.     Plaintiff continued working successfully and without issue until about July 2020
+
+when she was scheduled to work on a Saturday with Dr. Anthony Monteiro, a close friend of
+
+Defendant Ivker. Like Defendant Ivker, Dr. Monteiro began openly criticizing Plaintiff’s Cuban
+
+accent by laughing at her pronunciation of words and repeatedly stating in front of colleagues that
+
+he could not understand her, which caused Plaintiff great embarrassment and humiliation.
+
+       29.     Soon thereafter, Plaintiff complained to Mr. Price and Ms. Glackin about Dr.
+
+Monteiro’s conduct. They responded that they “can’t do much about it,” but provided her with
+
+the phone number for Defendant CDHA’s Compliance Hotline and suggested she call.
+
+       30.     On July 31, 2020, Plaintiff called the Compliance Hotline. However, she was
+
+unable to speak to someone and left a voice message instead, wherein she specifically complained
+
+about mistreatment by Dr. Monteiro and expressly suggested her Cuban accent may be the reason.
+
+                                                5
+          Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 9 of 19
+
+
+
+       31.     On August 14, 2020, Plaintiff spoke on the telephone with Ms. Jackson for over
+
+twenty (20) minutes. During this call, Plaintiff complained about Dr. Monteiro and Defendant
+
+Ivker criticizing and mocking her accent, especially in front of her colleagues. Plaintiff emphasized
+
+that she liked her job and wanted to resolve any issues the doctors might have with her. But she
+
+also expressed fear of retaliation. Ms. Jackson assured Plaintiff there would be no retaliation and
+
+that she would “look into” the matter and contact Plaintiff in two (2) weeks with a resolution.
+
+       32.     However, neither Ms. Jackson nor any other employee or agent of Defendants
+
+CDHA or CSC ever contacted Plaintiff with a “resolution” to her complaint.
+
+       33.     About three (3) weeks after she complained to Ms. Jackson, Plaintiff saw that she
+
+was scheduled to work with Defendant Ivker and Dr. Monteiro on Saturday, October 3, 2020 and
+
+Saturday, October 17, 2020.
+
+       34.     When she saw this schedule, Plaintiff approached Ms. Glackin and asked if her
+
+complaint to Ms. Jackson three (3) weeks earlier was the reason she was scheduled to work with
+
+Defendant Ivker and Dr. Monteiro on October 3rd and 17th. Ms. Glackin was visibly annoyed by
+
+this question and curtly responded “I don’t know.”
+
+       35.     On October 17, 2020, Plaintiff reported for work with the expectation that she was
+
+going to be working alone with Defendant Ivker. However, when Plaintiff arrived at work, she
+
+learned that another female Surgical Dental Assistant who had just started her employment a few
+
+weeks earlier was also scheduled to work.
+
+       36.     Plaintiff assisted Defendant Ivker with the first surgery of the day, which
+
+proceeded without issue. However, as soon as Defendant Ivker learned that there was another
+
+Surgical Dental Assistant available, she went directly to Nathan Shumaker (Defendant CDHA’s
+
+Director of Nursing) and told him that she did not want Plaintiff in the room assisting her and
+
+that she, instead, wanted the other Surgical Dental Assistant.
+
+       37.     Mr. Shumaker then directed Plaintiff to leave the surgery room and replaced her
+
+with the other Surgical Dental Assistant.
+
+                                                 6
+         Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 10 of 19
+
+
+
+       38.     The other Surgical Dental Assistant was of a different race and national origin than
+
+Plaintiff and spoke English without an accent.
+
+       39.      Later that day, Defendant Ivker learned that the other Surgical Dental
+
+Assistant was only scheduled until 1:00 p.m. At this point, Defendant Ivker told Mr. Shumaker
+
+that, out of necessity, Plaintiff could continue assisting her once the other assistant leaves.
+
+       40.     Before continuing to work with Defendant Ivker, Plaintiff had a conversation with
+
+Defendant Ivker and Mr. Shumaker in an effort to resolve their issues. Plaintiff was confused as
+
+to why Defendant Ivker did not want to work with her earlier in the day, but now did. Plaintiff
+
+directly asked Defendant Ivker what the issue is, to which Defendant Ivker responded: “You
+
+already spoke to Alyssa [Glackin] about it.”
+
+       41.     Again, Plaintiff asked Defendant Ivker why she changed her mind about working
+
+together when earlier she had her removed from the surgery room. Without responding,
+
+Defendant Ivker left the room visibly angry.
+
+       42.     Immediately, Defendant Ivker called Defendant O’Donnell on the telephone and
+
+falsely claimed that Plaintiff was refusing to assist her. Shortly thereafter, Defendant O’Donnell
+
+called Mr. Shumaker and told him to send Plaintiff home, which Mr. Shumaker promptly did.
+
+       43.     Immediately upon leaving, Plaintiff sent a text message to Ms. Glackin
+
+complaining that she had just been sent home “because all the racist Drs that are in today.” A
+
+true and correct copy of this text message it attached hereto as EXHIBIT B.
+
+       44.     Shortly after her text message to Ms. Glackin, Plaintiff sent an email to Mr. Price
+
+with the subject line: “A total discrimination.” In this email, Plaintiff complained to Mr. Price
+
+about what happened to her earlier that day during her shift, describing Defendant Ivker and Dr.
+
+Monteiro as “very racist and unprofessional.” Plaintiff further recounted the conversation she
+
+had with Defendant Ivker and Mr. Shumaker and lamented that “if they don’t like my accent,
+
+that’s they (sic) way it is and is (sic) not going to change.” A true and correct copy of this email is
+
+attached hereto as EXHIBIT C.
+
+                                                  7
+         Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 11 of 19
+
+
+
+       45.     Plaintiff received no substantive response from either Ms. Glackin or Mr. Price.
+
+       46.     On October 20, 2020, Defendant CDHA and/or Defendant CSC, by and through
+
+Ms. Glackin and Ms. Jackson, discharged Plaintiff from her employment, effective immediately.
+
+According to Ms. Glackin and Ms. Jackson, the reason for Plaintiff’s discharge was that she “was
+
+not a good fit for the company.”
+
+       47.     Defendant O’Donnell, with the support and encouragement of Defendant Ivker,
+
+made the decision to discharge Plaintiff.
+
+       48.     After discharging Plaintiff, Defendant CDHA and/or Defendant CSC promptly
+
+replaced her with a white person of American national origin who speaks fluent English without
+
+an accent.
+
+                                 COUNT I
+        DISCRIMINATORY DISCHARGE IN VIOLATION OF 42 U.S.C. § 1981
+                        Plaintiff v. All Defendants
+
+       49.     Plaintiff incorporates by reference all preceding allegations as if same were set
+
+forth more fully at length herein.
+
+       50.     At all times relevant and material hereto, Plaintiff and Defendants CDHA and/or
+
+CSC were parties to an employment contract.
+
+       51.     Plaintiff is of Cuban national origin and a member of Hispanic race.
+
+       52.     At the time of her discharge, Plaintiff was qualified for the position of Surgical
+
+Dental Assistant and was performing her job duties satisfactorily.
+
+       53.     On October 20, 2020, Defendants CDHA and/or CSC, by and through Ms. Glackin
+
+and Ms. Jackson, discharged Plaintiff from her employment.
+
+       54.     Defendant O’Donnell made the decision to discharge Plaintiff and directed Ms.
+
+Glackin and Jackson to communicate that decision to Plaintiff.
+
+       55.     Defendant O’Donnell made the decision to discharge Plaintiff at Defendant Ivker’s
+
+behest and with the aid, support, and encouragement of Defendant Ivker.
+
+
+
+
+                                                8
+          Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 12 of 19
+
+
+
+       56.       Defendant Ivker encouraged Defendant O’Donnell to discharge Plaintiff
+
+because of her Hispanic race and Cuban national origin.
+
+        57.     Defendant O’Donnell’s decision to discharge Plaintiff was based solely and
+
+       exclusively on the false information and encouragement he received from Defendant Ivker.
+
+       58.     Shortly after discharging Plaintiff, Defendants CDHA and/or CSC, by and through
+
+Defendants O’Donnell and Ivker, promptly replaced her with a white person of American national
+
+origin who speaks fluent English without an accent.
+
+       59.     As a direct and proximate result of Defendants’ conduct, Plaintiff suffered past and
+
+future lost wages and loss of earning capacity.
+
+       60.     As a direct and proximate result of Defendants’ conduct, Plaintiff suffered
+
+significant emotional distress, mental anguish, embarrassment, humiliation, inconvenience, and
+
+financial insecurity.
+
+       61.     Defendants’ conduct as alleged herein was willful and/or with reckless indifference
+
+to Plaintiff’s rights under federal law.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter
+
+judgment in her favor and against all Defendants and award the following relief:
+
+               a.       All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                        and post-judgment interest;
+
+               b.       Front pay from the date of judgment through a date deemed equitable and
+
+                        just by the court;
+
+               c.       Compensatory damages in an amount to be determined by a jury;
+
+               d.       Punitive damages in an amount to be determined by a jury;
+
+               e.       All costs and reasonable attorney’s fees; and
+
+               f.       Any other relief deemed proper and just.
+
+
+
+
+                                                  9
+         Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 13 of 19
+
+
+
+                                     COUNT II
+             RETALIATORY DISCHARGE IN VIOLATION OF 42 U.S.C. § 1981
+                            Plaintiff v. All Defendants
+
+       62.     Plaintiff incorporates by reference all preceding allegations as if same were set
+
+forth more fully at length herein.
+
+       63.     On July 31, 2020 (to the Compliance Hotline), August 14, 2020 (to Ms. Jackson),
+
+and October 17, 2020 (to Ms. Glackin and Mr. Price), Plaintiff made reasonable, good-faith
+
+complaints of race discrimination against Defendant Ivker and Dr. Monteiro. Specifically,
+
+Plaintiff complained that these individuals were “racist,” had a problem with her accent, and
+
+engaged in “total discrimination” on October 17, 2020. See Ex. B & C.
+
+       64.     On October 20, 2020, within three (3) months of her first complaint and only three
+
+(3) days after her final complaint, Defendants CDHA and/or CSC, by and through Ms. Glackin
+
+and Ms. Jackson, discharged Plaintiff from her employment.
+
+       65.     Defendant O’Donnell made the decision to discharge Plaintiff and directed Ms.
+
+Glackin and Jackson to communicate that decision to Plaintiff.
+
+       66.     Defendant O’Donnell made the decision to discharge Plaintiff at Defendant Ivker’s
+
+behest and with the aid, support, and encouragement of Defendant Ivker.
+
+       67.     Defendant Ivker encouraged Defendant O’Donnell to discharge Plaintiff because
+
+she complained to Ms. Glackin, Mr. Price, and Ms. Jackson about Defendant Ivker and Dr.
+
+Monteiro criticizing and mocking her Cuban accent and embarrassing her in front of her
+
+colleagues.
+
+       68.     Defendant O’Donnell’s decision to discharge Plaintiff was based solely and
+
+exclusively on the false information and encouragement he received from Defendant Ivker.
+
+       69.     As a direct and proximate result of Defendants’ conduct, Plaintiff suffered past and
+
+future lost wages and loss of earning capacity.
+
+
+
+
+                                                  10
+          Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 14 of 19
+
+
+
+
+       70.     As a direct and proximate result of Defendants’ conduct, Plaintiff suffered
+
+significant emotional distress, mental anguish, embarrassment, humiliation, inconvenience, and
+
+financial insecurity.
+
+       71.     Defendants’ conduct as alleged herein was willful and/or with reckless indifference
+
+to Plaintiff’s rights under federal law.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against all Defendants and award the following relief:
+
+               a.         All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                          and post-judgment interest;
+
+               b.         Front pay from the date of judgment through a date deemed equitable and
+
+                          just by the court;
+
+               c.         Compensatory damages in an amount to be determined by a jury;
+
+               d.         Punitive damages in an amount to be determined by a jury;
+
+               e.         All costs and reasonable attorney’s fees; and
+
+               f.         Any other relief deemed proper and just.
+
+                                       COUNT III
+                   DISCRIMINATORY DISCHARGE IN VIOLATION OF
+                            TITLE VII (42 U.S.C. § 2000e-2)
+     Plaintiff v. Defendants Children’s Surgical Center, LLC and Children’s Dental
+                                 Health Associates, LLC
+
+       72.     Plaintiff incorporates by reference paragraphs 1-61 as if same were set forth more
+
+fully at length herein.
+
+       73.     By discharging Plaintiff based on her race and national origin, Defendants CSC and
+
+CDHA violated Title VII.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Children’s Surgical Center, LLC and Children’s Dental Health
+
+Associates, LLC and award the following relief:
+
+
+
+
+                                                   11
+         Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 15 of 19
+
+
+
+               a.      All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                       and post-judgment interest;
+
+               b.      Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+               c.      Compensatory damages in an amount to be determined by a jury;
+
+               d.      Punitive damages in an amount to be determined by a jury;
+
+               e.      All costs and reasonable attorney’s fees; and
+
+               f.      Any other relief deemed proper and just.
+
+                                       COUNT IV
+                     RETALIATORY DISCHARGE IN VIOLATION OF
+                            TITLE VII (42 U.S.C. § 2000e-3)
+     Plaintiff v. Defendants Children’s Surgical Center, LLC and Children’s Dental
+                                 Health Associates, LLC
+
+       74.     Plaintiff incorporates by reference paragraphs 1-48 and 62-71 as if same were set
+
+forth more fully at length herein.
+
+       75.     By discharging Plaintiff for making reasonable, good-faith complaints of race and
+
+national origin discrimination against Defendant Ivker and Dr. Monteiro, Defendants CSC and
+
+CDHA violated Title VII.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Children’s Surgical Center, LLC and Children’s Dental Health
+
+Associates, LLC and award the following relief:
+
+               a.      All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                       and post-judgment interest;
+
+               b.      Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+               c.      Compensatory damages in an amount to be determined by a jury;
+
+               d.      Punitive damages in an amount to be determined by a jury;
+
+               e.      All costs and reasonable attorney’s fees; and
+
+                                                  12
+          Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 16 of 19
+
+
+
+               f.         Any other relief deemed proper and just.
+
+                                     COUNT V
+DISCRIMINATORY DISCHARGE IN VIOLATION OF THE PHRA (43 P.S. § 955(a))
+  Plaintiff v. Defendants Children’s Surgical Center, LLC and Children’s Dental
+                              Health Associates, LLC
+
+        76.    Plaintiff incorporates by reference paragraphs 1-61 as if same were set forth more
+
+fully at length herein.
+
+        77.    By discharging Plaintiff based on her race and national origin, Defendants CSC and
+
+CDHA violated the PHRA.
+
+        WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Children’s Surgical Center, LLC and Children’s Dental Health
+
+Associates, LLC and award the following relief:
+
+               a.         All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                          and post-judgment interest;
+
+               b.         Front pay from the date of judgment through a date deemed equitable and
+
+                          just by the court;
+
+               c.         Compensatory damages in an amount to be determined at trial;
+
+               d.         All costs and reasonable attorney’s fees; and
+
+               e.         Any other relief deemed proper and just.
+
+                                        COUNT VI
+               AIDING AND ABETTING DISCRIMINATORY DISCHARGE
+                    IN VIOLATION OF THE PHRA (43 P.S. § 955(e))
+               Plaintiff v. Defendants Michael O’Donnell and Robyn Ivker
+
+        78.    Plaintiff incorporates by reference paragraphs 1-61 as if same were set forth more
+
+fully at length herein.
+
+        79.    By prompting and encouraging Defendant O’Donnell to discharge Plaintiff because
+
+of her race and national origin, Defendant Ivker aided, abetted, and incited Defendant
+
+O’Donnell’s, Defendants CSC’s, and/or Defendant CDHA’s discriminatory conduct under the
+
+PHRA.
+
+                                                   13
+           Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 17 of 19
+
+
+
+          80.    By making the decision to discharge Plaintiff based on Defendant’s Ivker’s
+
+discriminatory motive, Defendant O’Donnell aided, abetted, and incited Defendant CSC’s and/or
+
+Defendant CDHA’s discriminatory conduct under the PHRA.
+
+          WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Michael O’Donnell and Robyn Ivker and award the following
+
+relief:
+
+                a.     All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                       and post-judgment interest;
+
+                b.     Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+                c.     Compensatory damages in an amount to be determined at trial;
+
+                d.     All costs and reasonable attorney’s fees; and
+
+                e.     Any other relief deemed proper and just.
+
+                                    COUNT VII
+   RETALIATORY DISCHARGE IN VIOLATION OF THE PHRA (43 P.S. § 955(d))
+   Plaintiff v. Defendants Children’s Surgical Center, LLC and Children’s Dental
+                               Health Associates, LLC
+
+          81.   Plaintiff incorporates by reference paragraphs 1-48 and 62-71 as if same were set
+
+forth more fully at length herein.
+
+          82.   By discharging Plaintiff for making reasonable, good-faith complaints of race and
+
+national origin discrimination against Defendant Ivker and Dr. Monteiro, Defendants CSC and
+
+CDHA violated the PHRA.
+
+          WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Children’s Surgical Center, LLC and Children’s Dental Health
+
+Associates, LLC and award the following relief:
+
+                a.     All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                       and post-judgment interest;
+
+
+
+                                                  14
+           Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 18 of 19
+
+
+
+                b.     Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+                c.     Compensatory damages in an amount to be determined at trial;
+
+                d.     All costs and reasonable attorney’s fees; and
+
+                e.     Any other relief deemed proper and just.
+
+                                        COUNT VIII
+                  AIDING AND ABETTING RETALIATORY DISCHARGE
+                     IN VIOLATION OF THE PHRA (43 P.S. § 955(e))
+                Plaintiff v. Defendants Michael O’Donnell and Robyn Ivker
+
+          83.   Plaintiff incorporates by reference paragraphs 1-48 and 62-71 as if same were set
+
+forth more fully at length herein.
+
+          84.   By prompting and encouraging Defendant O’Donnell to discharge Plaintiff because
+
+she made complaints of race and national origin discrimination against her, Defendant Ivker
+
+aided, abetted, and incited Defendant O’Donnell’s, Defendants CSC’s, and/or Defendant CDHA’s
+
+retaliatory conduct under the PHRA.
+
+          85.    By making the decision to discharge Plaintiff based on Defendant’s Ivker’s
+
+retaliatory motive, Defendant O’Donnell aided, abetted, and incited Defendant CSC’s and/or
+
+Defendant CDHA’s retaliatory conduct under the PHRA.
+
+          WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in her favor and against Defendants Michael O’Donnell and Robyn Ivker and award the following
+
+relief:
+
+                a.     All back pay from October 21, 2020 through the date of judgment, plus pre-
+
+                       and post-judgment interest;
+
+                b.     Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+                c.     Compensatory damages in an amount to be determined at trial;
+
+                d.     All costs and reasonable attorney’s fees; and
+
+
+
+                                                15
+          Case 5:22-cv-03937-JFL Document 1 Filed 10/04/22 Page 19 of 19
+
+
+
+                e.      Any other relief deemed proper and just.
+
+
+
+                                  DEMAND FOR JURY TRIAL
+
+        PLEASE TAKE NOTICE that Plaintiff IRENIA MACHIN hereby demands a trial by jury
+
+for all claims and issues so triable.
+
+                                                     Respectfully Submitted,
+
+                                                     MANSOUR LAW, LLC
+
+
+Dated: October 4, 2022                       BY:     __________________________
+                                                     William P. Mansour, Esquire
+                                                     Pa. Attorney ID No. 318833
+                                                     1101 W. Hamilton St., Ste. 205
+                                                     Allentown, PA 18101
+                                                     Tel: (610) 321-3538
+                                                     Fax: (610) 798-1345
+                                                     Email: wpm@themansourfirm.com
+
+                                                     Attorney for Plaintiff Irenia Machin
+
+
+
+
+                                                16
+

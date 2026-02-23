@@ -1,0 +1,766 @@
+Source URL: https://www.courtlistener.com/docket/71959053/1/reed-v-old-village-master-painters-ltd/
+Title: Complaint (Attorney) – #1 in REED v. OLD VILLAGE MASTER PAINTERS LTD. (E.D. Pa., 2:25-cv-06667) – CourtListener.com
+
+JS 44 (Rev. 04/21)                 Case 2:25-cv-06667CIVIL
+                                                        Document
+                                                           COVER 1 SHEET
+                                                                    Filed 11/25/25                                                          Page 1 of 16
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                        DEFENDANTS
+                                                                                                         OLD VILLAGE MASTER PAINTERS LTD. AND
+         THERESA REED
+                                                                                                         EDWIN HUTTER STULB IV
+   (b) County of Residence of First Listed Plaintiff             BUCKS                                   County of Residence of First Listed Defendant MONTGOMERY
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                         NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                    THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+
+         Sidney L. Gold, Esquire - The Gold Law Firm, P.C.
+         1835 Market St., Ste. 515, Phila, PA 19103 215-569-1999
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                      (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                     of Business In This State
+
+  2    U.S. Government                 4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                  Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                   Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY              PERSONAL INJURY                  625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                365 Personal Injury -                 of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product             Product Liability            690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability              367 Health Care/                                                         INTELLECTUAL                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &            Pharmaceutical                                                     PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                    Personal Injury                                                    820 Copyrights                    430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’          Product Liability                                                  830 Patent                        450 Commerce
+  152 Recovery of Defaulted               Liability              368 Asbestos Personal                                                  835 Patent - Abbreviated          460 Deportation
+       Student Loans                 340 Marine                      Injury Product                                                         New Drug Application          470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product              Liability                                                          840 Trademark                         Corrupt Organizations
+  153 Recovery of Overpayment             Liability             PERSONAL PROPERTY                           LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle           370 Other Fraud                   710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle           371 Truth in Lending                  Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability       380 Other Personal                720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal              Property Damage                   Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                  385 Property Damage               740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -           Product Liability             751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS             PRISONER PETITIONS                 790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights      Habeas Corpus:                    791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                  463 Alien Detainee                    Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment              510 Motions to Vacate                                                  870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                    Sentence                                                               or Defendant)                 896 Arbitration
+  245 Tort Product Liability             Accommodations          530 General                                                            871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -  535 Death Penalty                     IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment              Other:                            462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -  540 Mandamus & Other              465 Other Immigration                                                  950 Constitutionality of
+                                         Other                   550 Civil Rights                      Actions                                                                State Statutes
+                                     448 Education               555 Prison Condition
+                                                                 560 Civil Detainee -
+                                                                     Conditions of
+                                                                     Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+    Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                            (specify)                 Transfer                          Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                       TITLE VII, ADA, PHRA
+VI. CAUSE OF ACTION Brief description of cause:
+
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                               150,000 IN EXCESS                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+11/25/2025                                                           /S/ SIDNEY L. GOLD, ESQUIRE
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+JS 44 Reverse (Rev. 04/21)   Case 2:25-cv-06667                  Document 1             Filed 11/25/25            Page 2 of 16
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statute.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+10/2024                         Case 2:25-cv-06667                     Document 1                 Filed 11/25/25             Page 3 of 16
+                                                          UNITED STATES DISTRICT COURT
+                                                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+                                                1048 Gypsy Hill Road, Gwynedd Valley, Pennsylvania 19437
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+           1.    Does this case involve property included in an earlier numbered suit?                                                                   Yes
+
+           2.    Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                   Yes
+
+           3.    Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                      Yes
+
+           4.    Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                    Yes
+                 individual?
+
+           5.    Is this case related to an earlier numbered suit even though none of the above categories apply?                                        Yes
+                 If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is /    is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+           A.    Federal Question Cases:                                                                 B. Diversity Jurisdiction Cases:
+
+                 1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                 2.  FELA                                                                   2. Airplane Personal Injury
+                 3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                 4.  Antitrust                                                              4. Marine Personal Injury
+                 5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                 6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                 7.  Copyright/Trademark                                                    7. Products Liability
+                 8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                 9.  Labor-Management Relations                                                _____________________
+                 10. Civil Rights
+                 11. Habeas Corpus
+                 12. Securities Cases
+                 13. Social Security Review Cases
+                 14. Qui Tam Cases
+                 15. Cases Seeking Systemic Relief *see certification below*
+                 16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does /     does not have implications
+      beyond the parties before the court and       does /     does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                   ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+Case 2:25-cv-06667   Document 1   Filed 11/25/25   Page 4 of 16
+Case 2:25-cv-06667   Document 1   Filed 11/25/25   Page 5 of 16
+            Case 2:25-cv-06667        Document 1       Filed 11/25/25     Page 6 of 16
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+THERESA REED,                                  :
+                        Plaintiff,             :
+                                               :
+               v.                              :       CIVIL ACTION NO.__________
+                                               :
+OLD VILLAGE MASTER                             :
+PAINTERS LTD. and EDWIN                        :
+HUTTER STULB IV,                               :
+                 Defendants.                   :
+                                               :
+
+
+                              COMPLAINT AND JURY DEMAND
+
+I.     PRELIMINARY STATEMENT:
+
+       1.           This is an action for an award of damages, attorneys’ fees, and other relief on
+
+behalf of the Plaintiff, Theresa Reed (“Plaintiff”), a former employee of Defendant, Old Village
+
+Master Painters Ltd. (“Defendant Old Village), owned and operated by Defendant, Edwin Hutter
+
+Stulb IV (“Stulb”), who has been harmed by the Defendants’ discriminatory and retaliatory
+
+employment practices.
+
+       2.       This action is brought under Title VII of the Civil Rights Act of 1964, 42 U.S.C.
+
+§2000(e), et seq., as amended by the Civil Rights Act of 1991 (“Title VII”), the Americans with
+
+Disabilities Act, 42 U.S.C. §12101, et seq. (“ADA”), and the Pennsylvania Human Relations
+
+Act, 43 P.S. §951 et seq. (“PHRA”).
+
+II.    JURISDICTION AND VENUE:
+
+       3.      The jurisdiction of this Court is invoked, and venue is proper in this district,
+
+pursuant to 28 U.S.C. §§1331 and 1391, as Plaintiff’s claims are substantively based on Title VII
+
+and the ADA.
+
+
+
+
+                                                   1
+             Case 2:25-cv-06667       Document 1       Filed 11/25/25     Page 7 of 16
+
+
+
+
+       4.        The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C.
+
+§1367 to consider Plaintiff’s claims arising under the PHRA.
+
+        5.       All conditions precedent to the institution of this suit have been fulfilled and
+
+Plaintiff has satisfied all other jurisdictional prerequisites to the maintenance of this action. On
+
+August 28, 2025, a Notice of Right to Sue was issued by the Equal Employment Opportunity
+
+Commission and this action has been filed within ninety (90) days of receipt of said notice.
+
+III.   PARTIES:
+
+       6.        Plaintiff, Theresa Reed (“Plaintiff”), is an adult individual and citizen of the
+
+Commonwealth of Pennsylvania, residing therein at 1245 Fieldstone Court, Quakertown,
+
+Pennsylvania 18951.
+
+       7.        Defendant, Old Village Master Painters Ltd. (“Defendant Old Village”), is a
+
+business organized and existing under the laws of the Commonwealth of Pennsylvania,
+
+maintaining an office therein at 1048 Gypsy Hill Road, Gwynedd Valley, Pennsylvania 19437.
+
+       8.        Defendant, Edwin Hutter Stulb IV (“Stulb”), is an adult individual and citizen of
+
+the Commonwealth of Pennsylvania, residing therein at 1048 Gypsy Hill Road, Gwynedd
+
+Valley, Pennsylvania 19437.
+
+       9.        At all times relevant hereto, Defendant Old Village was acting through its agents,
+
+servants, and employees, including Stulb, who were acting within the scope of their authority,
+
+course of employment, and under the direct control of the Defendant.
+
+       10.       At all times material herein, the Defendant has been a “person” and “employer” as
+
+defined by Title VII, the ADA, and the PHRA, and has been, and is, subject to the provisions of
+
+each said Act.
+
+
+
+
+                                                  2
+           Case 2:25-cv-06667        Document 1        Filed 11/25/25      Page 8 of 16
+
+
+
+
+IV.    STATEMENT OF FACTS:
+
+       11.     Plaintiff was employed by Defendant Old Village from on or about August 25,
+
+2020 until September 16, 2022, the date of her termination.
+
+       12.     Upon commencing employment with Defendant Old Village, Plaintiff held the
+
+position of Painter. Thereafter, Defendants promoted Plaintiff to the role of Administrative
+
+Assistant. At all times relevant hereto, Plaintiff maintained a satisfactory job performance.
+
+       13.     At no time during Plaintiff’s employment did Defendants provide her with
+
+training on any alleged harassment or discrimination policies. Nor did Defendants provide
+
+Plaintiff with an understanding of what steps to take if she felt harassed at work.
+
+       14.     In her role as Administrative Assistant, Plaintiff reported directly to Defendant
+
+Edwin Hutter Stulb IV (“Stulb”), Owner.
+
+       15.     Throughout Plaintiff’s employment, Defendant Old Village, through its agents,
+
+servants, and employees, including, but not limited to, Stulb, subjected her to a hostile work
+
+environment through various instances of severe and pervasive sexual harassment.
+
+       16.     By way of example, on August 27, 2021, Stulb sent Plaintiff several text
+
+messages stating that he might retire or die, and repeatedly asked Plaintiff if the aforementioned
+
+messages upset her.
+
+       17.     Thereafter, on September 8, 2021, Stulb inquired as to whether Plaintiff informed
+
+her husband about his text messages by texting her “[a]re our conversations strictly between you
+
+and me?”
+
+       18.     Additionally, on September 23, 2021, Stulb sent Plaintiff a text message
+
+complimenting a photo that he saw of Plaintiff.
+
+
+
+
+                                                  3
+            Case 2:25-cv-06667       Document 1        Filed 11/25/25      Page 9 of 16
+
+
+
+
+       19.     Acknowledging the sexual nature of his text messages to Plaintiff, on October 10,
+
+2021, Stulb texted Plaintiff that if she and her husband are “still close”, he felt embarrassed about
+
+“the things [he] had said” to her.
+
+       20.     On October 22, 2021, Stulb texted Plaintiff that it was her voice that got the
+
+Defendants an appointment with a client.
+
+       21.     As further sexual harassment, on November 22, 2021, Stulb texted Plaintiff that if
+
+he were younger and Plaintiff were single, he would ask Plaintiff to marry him. In response,
+
+Plaintiff deflected his sexual advances by continuing to ask Stulb about the unpaid wages he
+
+owed her.
+
+       22.     On December 21, 2021, Stulb texted Plaintiff that she is the “one bright spot that
+
+keeps [him] moving forward,” to which Plaintiff did not respond.
+
+       23.     On April 26, 2022, Stulb texted Plaintiff that he “need[ed] and want[ed]”
+
+Plaintiff. Again, Plaintiff refused to respond to Stulb’s sexually harassing messages.
+
+       24.     As further harassment, on June 17, 2022, Stulb asked Plaintiff whether she and
+
+her daughter would move in with him, to which Plaintiff refused to respond. Over the next two
+
+days, Stulb proceeded to send Plaintiff numerous text messages demanding that Plaintiff speak
+
+with him regarding his request and for Plaintiff to respond to his messages. Plaintiff continued to
+
+evade Stulb’s sexual advances by ignoring his text messages.
+
+       25.     In connection thereto, on June 20, 2022, Stulb asked Plaintiff whether his text
+
+messages had upset Plaintiff’s husband.
+
+       26.     On July 2, 2022, Stulb invited Plaintiff to have lunch with him that following
+
+Tuesday. In rejection of his advances, Plaintiff replied that she was unavailable that day.
+
+
+
+
+                                                 4
+          Case 2:25-cv-06667         Document 1         Filed 11/25/25    Page 10 of 16
+
+
+
+
+       27.     Again acknowledging the sexual nature of his text messages, on July 4, 2022,
+
+Stulb asked Plaintiff whether his messages had upset her husband.
+
+       28.     On July 6, 2022, Stulb asked Plaintiff to have lunch with him on Friday because
+
+he wanted to speak to her in person. In rejection of Stulb’s ongoing advances, Plaintiff ignored
+
+his invitation to have lunch with him.
+
+       29.     On July 26, 2022, Plaintiff was hospitalized after suffering an Ischemic Stroke
+
+caused by a blood clot. Said medical condition constitutes a disability within the meanings of the
+
+Americans with Disabilities Act (“ADA”) and the Pennsylvania Human Relations Act (“PHRA”)
+
+in that it substantially impairs one or more of Plaintiff’s major life activities, including, but not
+
+limited to, speaking, walking, standing, and writing.
+
+       30.     The next day, Plaintiff’s husband, Jeff Reed (“Reed”), requested a reasonable
+
+accommodation on Plaintiff’s behalf. Reed informed Stulb about Plaintiff’s condition and asked
+
+whether she could take a medical leave of absence due to the fact that she was unable to return to
+
+work at that time. In response thereto, Stulb approved Plaintiff’s request for a medical leave of
+
+absence while Plaintiff recovered from her stroke.
+
+       31.     Shortly thereafter, on or about August 3, 2022, Stulb replaced Plaintiff with
+
+another Administrative Assistant who did not suffer from a disability, Nancy (last name
+
+unknown) (“Nancy”).
+
+       32.     On August 6, 2022, Plaintiff was discharged from the hospital. Shortly thereafter,
+
+Plaintiff began physical therapy, speech therapy, and occupational rehabilitation.
+
+       33.     On or about August 16, 2022, Plaintiff’s Occupational Therapist, Michelle Foley
+
+(“Foley”), informed her that she could return to work so long as she was not required to drive.
+
+Since Plaintiff performed her work as an Administrative Assistant from home, her position did
+
+
+
+                                                 5
+          Case 2:25-cv-06667         Document 1       Filed 11/25/25      Page 11 of 16
+
+
+
+
+not require her to drive. Accordingly, Plaintiff was able to return to her position at Defendant
+
+Old Village and perform the essential functions of her job.
+
+       34.     In connection thereto, on or about August 24, 2022, Plaintiff reached out to Stulb
+
+to inform him that she could return to work. However, Stulb avoided Plaintiff’s numerous calls
+
+and text messages.
+
+       35.     As further disability discrimination and in retaliation for requesting a reasonable
+
+accommodation, on or about September 1, 2022, Stulb rejected Plaintiff’s requests to return to
+
+her position at Defendant Old Village.
+
+       36.     On September 16, 2022, Stulb again rejected Plaintiff’s request to return to her
+
+position at Defendant Old Village.
+
+       37.     Accordingly, effective September 16, 2022, Defendants terminated Plaintiff’s
+
+employment due to her disability and/or in retaliation for requesting a reasonable
+
+accommodation for her disability.
+
+       38.     On February 1, 2023, Plaintiff filed a charge of discrimination against the
+
+Defendants with the Pennsylvania Human Relations Commission (“PHRC”) that was dual filed
+
+with the Equal Employment Opportunity Commission (“EEOC”).
+
+       39.     On or about February 8, 2023, Stulb informed the law firm of Plaintiff’s counsel,
+
+The Gold Law Firm, P.C., that he was in receipt of Plaintiff’s charge of discrimination. In clear
+
+retaliation against Plaintiff for filing a charge of discrimination, Stulb proceeded to threaten that
+
+if The Gold Law Firm, P.C. failed to notify Stulb that Plaintiff’s claims of discrimination “have
+
+been cancelled” that he would pursue false criminal claims against Plaintiff and her husband with
+
+the local police station. Curiously, although Stulb’s false criminal allegations concerned conduct
+
+
+
+
+                                                  6
+           Case 2:25-cv-06667          Document 1      Filed 11/25/25      Page 12 of 16
+
+
+
+
+that Plaintiff allegedly committed over a year ago, Stulb admitted that he waited to pursue said
+
+allegations “in anticipation of the issues with [Plaintiff] being addressed.”
+
+       40.     On or about February 9, 2023, Stulb reached out to The Gold Law Firm, P.C.
+
+demanding to receive documentation proving that Plaintiff’s claims of discrimination were
+
+dismissed by February 16, 2023, or he would pursue “all the avenues” against Plaintiff and her
+
+husband.
+
+       41.     On or about February 15, 2023, Stulb again reached out to The Gold Law Firm,
+
+P.C. asking whether the firm still represented Plaintiff. Stulb then threatened that if the firm
+
+failed to respond to him, he would pursue his false criminal claims against Plaintiff and her
+
+husband later that day
+
+       42.     Stulb aided, abetted, incited, compelled and/or coerced the unlawful acts of sexual
+
+harassment, disability discrimination and retaliation alleged herein including the termination of
+
+Plaintiff’s employment.
+
+                                            COUNT I
+                      (Title VII – Sex Discrimination, Sexual Harassment,
+                             Hostile Work Environment, Retaliation)
+                                      Plaintiff v. Defendants
+
+       43.     Plaintiff incorporates by reference paragraphs 1 through 42 of this Complaint as
+
+though fully set forth at length herein.
+
+       44.     The actions of Defendant Old Village, through its agents, servants, and
+
+employees, including, but not limited to, Defendant Stulb, in subjecting Plaintiff to
+
+discrimination based on her sex, a hostile work environment through various instances of sexual
+
+harassment, and retaliation for opposing and rejecting sexual harassment in the workplace,
+
+constituted violations of Title VII.
+
+
+
+
+                                                  7
+          Case 2:25-cv-06667         Document 1      Filed 11/25/25     Page 13 of 16
+
+
+
+
+       45.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendants in violation of Title VII, Plaintiff has
+
+sustained permanent and irreparable harm, resulting in the termination of her employment, which
+
+caused her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future
+
+earning power, plus back pay, front pay, and interest due thereon.
+
+       46.     As further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendants in violation of Title VII, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                          COUNT II
+                         (ADA – Disability Discrimination, Retaliation)
+                                   Plaintiff v. Defendants
+
+       47.     Plaintiff incorporates by reference paragraphs 1 through 46 of this Complaint as
+
+though fully set forth at length herein.
+
+       48.     The actions of Defendant Old Village, through its agents, servants, and
+
+employees, including, but not limited to, Defendant Stulb, in subjecting Plaintiff to
+
+discrimination based on her disability, and in retaliating against Plaintiff for requesting a
+
+reasonable accommodation for her disability, constituted violations of the ADA.
+
+       49.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendants in violation of the ADA, Plaintiff sustained
+
+permanent and irreparable harm, resulting in the termination of her employment, which caused
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, and front pay and interest due thereon.
+
+
+
+
+                                                8
+          Case 2:25-cv-06667         Document 1      Filed 11/25/25     Page 14 of 16
+
+
+
+
+       50.     As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendants in violation of the ADA, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                       COUNT III
+               (PHRA – Sex Discrimination, Sexual Harassment, Hostile Work
+                   Environment, Disability Discrimination, Retaliation)
+                                 Plaintiff v. Defendants
+
+       51.     Plaintiff incorporates by reference paragraphs 1 through 50 of this Complaint as
+
+though fully set forth at length herein.
+
+       52.     The actions of Defendant Old Village, through its agents, servants, and
+
+employees, including, but not limited to, Defendant Stulb, in subjecting Plaintiff to
+
+discrimination based on her sex and disability, a hostile work environment through various
+
+instances of sexual harassment, and retaliation for requesting a reasonable accommodation for
+
+her disability and opposing and rejecting sexual harassment in the workplace, constituted
+
+violations of the PHRA.
+
+       53.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendants in violation of the PHRA, Plaintiff has
+
+sustained permanent and irreparable harm, resulting in the termination of her employment, which
+
+caused her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future
+
+earning power, plus back pay, front pay, and interest due thereon.
+
+       54.     As further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendants in violation of the PHRA, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+
+
+
+                                                9
+            Case 2:25-cv-06667       Document 1       Filed 11/25/25    Page 15 of 16
+
+
+
+
+                                     PRAYER FOR RELIEF
+
+       55.      Plaintiff incorporates by reference paragraphs 1 through 54 of this Complaint as
+
+though fully set forth at length herein.
+
+       WHEREFORE, Plaintiff requests that this Court enter judgment in her favor and against
+
+the Defendants, and order that:
+
+       a.       Defendants compensate Plaintiff with a rate of pay and other benefits and
+
+emoluments of employment to which she would have been entitled had she not been subjected to
+
+unlawful discrimination and retaliation;
+
+       b.       Defendants compensate Plaintiff with an award of front pay, if appropriate;
+
+       c.       Defendants pay to Plaintiff punitive damages, compensatory damages for future
+
+pecuniary losses, pain, suffering, inconvenience, mental anguish, loss of enjoyment of life and
+
+other nonpecuniary losses as allowable;
+
+       d.       Defendants pay to Plaintiff pre- and post-judgment interest, costs of suit and
+
+attorney and expert witness fees as allowed by law;
+
+       e.       The Court award such other relief as is deemed just and proper.
+
+                                           JURY DEMAND
+
+       Plaintiff demands trial by jury.
+
+
+                                                      THE GOLD LAW FIRM, P.C.
+
+                                              By:     /s/ Sidney L. Gold, Esquire
+                                                      SIDNEY L. GOLD, ESQUIRE
+                                                      I.D. No.: 21374
+                                                      1835 Market Street, Suite 515
+                                                      Philadelphia, PA 19103
+                                                      (215) 569-1999
+                                                      Attorney for Plaintiff
+
+DATED: November 25, 2025
+
+
+                                                10
+          Case 2:25-cv-06667        Document 1        Filed 11/25/25     Page 16 of 16
+
+
+
+
+                                        VERIFICATION
+
+        I hereby verify that the statements contained in this Complaint are true and correct to the
+
+best of my knowledge, information and belief. I understand that false statements herein are
+
+made subject to the penalties of Title 18 Pa. C.S.A. §4904, relating to unsworn falsification to
+
+authorities.
+
+
+
+
+DATE:                                                _________________________________
+                                                     THERESA REED, PLAINTIFF
+

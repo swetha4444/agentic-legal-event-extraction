@@ -1,0 +1,741 @@
+Source URL: https://www.courtlistener.com/docket/17358977/1/stewart-v-glu-hospitality-llc/
+Title: Complaint (Attorney) – #1 in STEWART v. GLU HOSPITALITY, LLC (E.D. Pa., 2:20-cv-03514) – CourtListener.com
+
+                        IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+____________________________________
+RAINA STEWART                           :
+811 East Sharpnack Street               :
+Philadelphia, PA 19119                  :    CIVIL ACTION
+                                        :
+               Plaintiff,               :    No. ______________
+       v.                               :
+                                        :
+GLU HOSPITALITY, LLC, d/b/a VESPER :
+DAYCLUB.                                :    JURY TRIAL DEMANDED
+223 Sydenham Street,                    :
+Philadelphia, PA 19102                  :
+       and                              :
+VESPER HOLDINGS, LLC                    :
+223 Sydenham Street,                    :
+Philadelphia, PA 19102                  :
+       and                              :
+DEREK GIBBONS                           :
+223 Sydenham Street,                    :
+Philadelphia, PA 19102                  :
+       and                              :
+TIM LU                                  :
+223 Sydenham Street,                    :
+Philadelphia, PA 19102                  :
+                                        :
+               Defendant.               :
+____________________________________:
+
+                               CIVIL ACTION COMPLAINT
+
+       Plaintiff, by and through her undersigned counsel, hereby avers as follows:
+
+                                      INTRODUCTION
+
+       1.     This action has been initiated by Raina Stewart (hereinafter referred to as
+
+“Plaintiff,” unless indicated otherwise) against GLU Hospitality, LLC, Vesper Holdings, LLC,
+
+Derek Gibbons, and Tim Lu (hereinafter referred to collectively as “Defendant”) for violations of
+
+42 U.S.C. § 1981, 42 U.S.C. § 2000(a)(1), and the Pennsylvania Human Relations Act (“PHRA”
+- 43 P.S. §§ 955, et. seq.).1 Defendants operate a club, sports bar, and outdoor swimming area
+
+(among other enterprises / facilities). As explained infra, Plaintiff and other African-Americans
+
+have been denied membership and participation solely on account of their race.
+
+                                      JURISDICTION AND VENUE
+
+         2.       This Court has original subject matter jurisdiction over the instant action pursuant
+
+to 28 U.S.C. §§ 1331 and 1343(a) (4) because it arises under the laws of the United States and
+
+seeks redress for violations of federal laws. There lies supplemental jurisdiction over Plaintiff's
+
+state-law claims because they arise out of the same common nucleus of operative facts as Plaintiff's
+
+federal claims asserted herein.
+
+         3.       This Court may properly maintain personal jurisdiction over Defendants because
+
+their contacts with this state and this judicial district are sufficient for the exercise of jurisdiction
+
+over Defendants to comply with traditional notions of fair play and substantial justice, satisfying
+
+the standard set forth by the United States Supreme Court in International Shoe Co. v. Washington,
+
+326 U.S. 310 (1945) and its progeny.
+
+         4.       Pursuant to 28 U.S.C. §§ 1391(b)(1) and (b)(2), venue is properly laid in this district
+
+because all of the acts and/or omissions giving rise to the claims set forth herein occurred in this
+
+judicial district, and Defendants are deemed to reside where they are subject to personal
+
+jurisdiction, rendering Defendants residents of the Eastern District of Pennsylvania.
+
+
+
+
+1
+  The claim herein under the PHRA in this “Introduction” is for notice purposes only. Plaintiff pursues her 2 separate
+federal claims immediately herein. However, Plaintiff is required to exhaust the PHRA claim by waiting one (1) full
+year from filing with the Pennsylvania Human Relations Commission (“PHRC”) before initiating a claim under the
+PHRA. Plaintiff anticipates her PHRA to be full administratively exhausted between August – September of 2020, at
+which time thereafter she will move to amend said state-law claim within this lawsuit. Plaintiff’s PHRA claim(s) will
+wholly mirror the same federal claims already asserted.
+
+
+
+                                                          2
+                                             PARTIES
+
+        5.     The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        6.     Plaintiff is an adult individual, with an address as set forth in the caption.
+
+        7.     Glu Hospitality, LLC (hereinafter “Defendant GHL”) is a domestic Pennsylvania
+
+entity operating a sporting club, restaurant, pool area, and bar (among other business enterprises).
+
+This entity is headquartered at the above-captioned address and operates a 21-pool sports club.
+
+        8.     Vesper Holdings, LLC (hereinafter “Defendant VH”) is a domestic Pennsylvania
+
+entity operating the same entities as Defendant GHL, utilizing the same headquarters as Defendant
+
+GHL, and is owned and/or operated by the same management / ownership.
+
+        9.     Defendants GHL and VH both operate and function jointly as “Vesper Dayclub,” a
+
+single and/or integrated enterprise. These entities are jointly owned by Derek Gibbons (hereinafter
+
+“Defendant Gibbons”) and Tim Lu (“Defendant Lu”). Defendants Gibbons and Lu have and
+
+remain owners of Defendants GHL and VH. Defendants Gibbons and Lu are decisions makers,
+
+control all policies, and make all decisions over the management and practices of Defendants.
+
+        10.    At all times relevant herein, Defendants acted by and through their agents, servants
+
+and employees, each of whom acted at all times relevant herein in the course and scope of their
+
+employment with and for Defendants.
+
+                                  FACTUAL BACKGROUND
+
+        11.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        12.    Defendants all own and manage operations doing business as the Vesper Dayclub
+
+and the Vesper Sporting Club. This enterprise consists of a 21-pool, expansive physical premises
+
+
+
+
+                                                  3
+and neighboring bar and restaurant. This business is hereinafter referred to collectively as the
+
+“Vesper Dayclub.”
+
+        13.     The Vesper Dayclub has held itself out as a private, exclusive, and members-only
+
+club. This enterprise is located in the Northern Liberties area of Philadelphia, considered a more
+
+hip and upscale area within the City.
+
+        14.     Prior to Defendants Gibbons and Lu acquiring and operating the Vesper Dayclub,
+
+the enterprise used to charge high membership fees. The business model has since changed though,
+
+and at all relevant times underlying this lawsuit (and during the last several years):
+
+                (A) People desiring to become members were required to pay a $35.00 application
+                    fee that was (and is) only processed and accepted for payment if the applicant
+                    is accepted for membership;
+
+                (B) Attendance within the Vesper Dayclub was only permitted if approved as a
+                    member (unless potentially invited by a particular member as a guest);
+
+                (C) If approved for membership, accepted as a member with application-fee
+                    processing, and permitted to attend the Vesper Dayclub (as a member), there
+                    was no membership dues or annual processing fees (as membership permitted
+                    free access of facilities); and
+
+                (D) The profit generation model of Defendants focused instead of membership fees
+                    on: (1) selective membership to create and perpetuate a particular culture
+                    (explained more infra); and (2) exorbitant costs of products and services
+                    offered within the Vesper Dayclub.
+
+        15.     A member of the Vesper Dayclub could feasibly use the facilities and spend
+
+minimal money on lighter food and beverages during a visit, several thousand dollars during a
+
+visit, or well in excess of $10,000.00 in a visit. In particular:
+
+                (A) Use of the pools was simply part of the membership access and lighter food
+                    and cocktails were offered;
+
+                (B) Bungalows, beds, and areas were also offered for in excess of $1,000.00 rental
+                    fees;
+
+
+
+
+                                                   4
+                 (C) Bottle service, champagne packages, and other privileges / services were
+                     offered for hundreds to thousands of dollars depending upon order; and
+
+                 (D) High-end (and expensive) gatherings, parties, and events were the norm
+                     therein.
+
+         16.     Defendants attempted to create a daily atmosphere in a Northern Liberties club
+
+setting that would mirror that of a Hollywood or Las Vegas beach party with an enticement of a
+
+minimal application fee, exclusivity, and a culture that its clientele would desire on a continual
+
+basis.
+
+         17.     Defendants intentionally discriminated against black (and African-American)
+
+prospective membership (in general) barring their membership almost entirely, with the exception
+
+of permitting very limited black membership due to some with relationships, being well connected,
+
+and/or being higher profile individuals.
+
+               DEFENDANTS BASED MEMBERSHIP DECISION EXCLUSIVELY
+                    ON APPEARANCE OF A PROSPECTIVE MEMBER
+
+         18.     Defendants engaged in a pattern and practice of membership selection that was not:
+
+(a) neutral; (b) premised upon any objective criteria; (c) premised upon financial wherewithal; or
+
+(d) evaluative of job, profession, or resume. Instead, Defendants openly admitted they made
+
+decisions based upon observing images of prospective members.
+
+         19.     The application for membership within the Vesper Dayclub is an online application,
+
+which can be located at https://www.vesperdayclub.com/apply. The only information requested in
+
+the application process is a shared link to an applicant’s “social media,” such as “Facebook” or
+
+“Instagram” profile. The online application identifies “please share links to your social media
+
+profiles,” so Defendants “process your application quicker.” No other information is necessary.
+
+
+
+
+                                                 5
+       20.      No applicant to the Vesper Dayclub was ever required to present for a credit check,
+
+to provide any financial data, requested to undergo a criminal background review, or any other
+
+search (other than providing visible social media images).
+
+       21.      Illustrating the clear reliance solely upon a prospective member’s “image,” in
+
+addition to only social media links being sought by Defendants at time of application, Plaintiff
+
+filed a Charge of Discrimination with the Pennsylvania Human Relations Commission (“PHRC”).
+
+Plaintiff’s allegations will be discussed in more in depth below. However, within the body of
+
+Plaintiff’s PHRC Charge, she identified by way of example that another black applicant (Mariam
+
+Dembele) she knew was denied membership. In response to Plaintiff’s Charge filed with the
+
+PHRC, Defendant Lu represented Dembele was denied due to a lack of a “profile picture” on her
+
+social media.
+
+       22.      Lu’s Response to a stage agency (the PHRC) thus admitted criteria relied upon in
+
+membership admission is in fact “a picture” of the applicant. Lu’s written response was though
+
+nonetheless verifiably false, as represented to a state agency during an investigation. This is
+
+because Dembele’s social media showed many pictures of herself (an African-American woman),
+
+regardless of whether she had a selected “profile picture.”
+
+              THE EVIDENCE OF RACIAL DISCRIMINATION
+    TOWARDS BLACK APPLICANTS FOR MEMBERSHIP IS OVERWHELMING
+
+                [A] Plaintiff was denied membership on account of her race unlike her
+                    Caucasian peers.
+
+       23.      Plaintiff is a dark-skinned, African-American female.
+
+
+
+
+                                                 6
+        24.      Plaintiff is a very reputable, honest and educated individual. She is a college
+
+graduate, professional, and works at Jefferson University. Nothing in her character would warrant
+
+any type of denial of membership.2
+
+        25.      Plaintiff submitted an on-line application for membership on June 28, 2019.
+
+Plaintiff’s on-line profile showed several pictures of her, which clearly evidenced her being a dark-
+
+skinned African-American female.
+
+        26.      Plaintiff’s on-line application was submitted, she confirmed it was received, and
+
+she never heard back from Defendants. She was never granted or accepted for membership; and
+
+instead, she was ignored and never received the courtesy of even a follow-up call, e-mail, or
+
+explanation for non-consideration (or in other words, rejection).
+
+        27.      Within the same general timeframe that Plaintiff submitted her on-line application
+
+for membership, Mariam Dembele submitted her on-line application. Dembele had numerous
+
+public photos on her social media evidencing she (like Plaintiff) is a black female. Just like
+
+Plaintiff, Dembele had her application ignored, she received no response, and was not granted
+
+admission or membership.
+
+        28.      There was no character-based justification for Dembele’s rejection (through non-
+
+response). Dembele holds a bachelor’s degree in Journalism, and she works as a professional in a
+
+reputable organization.
+
+        29.      What Plaintiff and Dembele experienced in non-consideration of membership (and
+
+rejection) was consistent with black and/or African-Americans experiences pervasively. To the
+
+
+
+
+2
+ Plaintiff’s background is identified herein in only a cursory manner, as Defendants concede they based membership
+on the subjective criteria of one’s visual appearance.
+
+
+
+                                                        7
+contrary, non-black applicants received immediate (favorable) responses to membership
+
+applications.
+
+       30.       Within the same general timeframe (of Plaintiff’s application), two (2) people
+
+whom Plaintiff also knew, both of whom were Caucasian, both applied for membership to the
+
+Vesper Dayclub. They were Shannon Morton and Elizabeth Carpenter. They were both approved
+
+as new members within 24-48 hours (and of course received a response).
+
+       31.       The experience(s) Plaintiff had were demonstrative of systematic, intentional, and
+
+knowing racial discrimination against black and/or African prospective membership. The culture
+
+in which Defendants aimed to create involved minimal if any black representation within the
+
+Vesper Dayclub.
+
+                 [B] Defendants advertised a non-black community through their published
+                    images of the facilities.
+
+       32.       Images within Defendants’ social media and on its website contained photographs
+
+of entirely non-black membership and/or participation within the facilities at Vesper Dayclub.
+
+These photographs were aimed at advertising for a specific type of culture, with non-black
+
+participation.
+
+       33.       Only following the initiation of Plaintiff’s filing with the PHRC (and upon
+
+information and belief in 2020) did Defendants intentionally insert some black representation
+
+(albeit minimal) into photographs and/or advertisements for membership.
+
+       34.       Defendants’ marketing and advertising illustrated its discriminatory pattern and
+
+practice (as well as intent) of discriminating against black and/or African-American membership
+
+within Vesper Dayclub.
+
+
+
+
+                                                 8
+               [C] Third parties have confirmed clear and unequivocal racial discrimination
+                   within Defendants, visible from a basic internet search.
+
+       35.     Defendants’ discriminatory practices are well-recognized in on-line, public forums.
+
+By way of example only, an African-American female (Patrice Pugh) posted:
+
+               FLAT OUT RACIST. In order to get a membership, you have to fill out
+               an application with your pictures / social media, then you have to wait to
+               be approved or denied. They purposely are only accepting white people
+               and if you look on their social media you can see this. I did my own
+               personal research and asked a number of black people if they were
+               accepted and they all said no.
+
+                                                 ***
+
+               To prove a point, I created a poll on Instagram@pattielepugh to show
+               how many black people feel this way. This is not something that is being
+               made up it’s reflected on your social media and in your actual
+               membership stats . . . I know a staff member that works for you and that
+               personally has said they vet who gets in based off of color and weight.
+
+       Information provided by Pugh was posted within 2 months of Plaintiff’s application for
+
+membership in 2019.
+
+       36.     A former employee (Emani Moore) posted management is dishonest and “only
+
+want a certain kind” in their locations. This post by a former employee was made in mid-2019
+
+(around the time in which Plaintiff was denied membership).
+
+       37.     A non-member (ostensibly invited by an actual member) posted on-line that the
+
+pools were packed, the area was all “white,” and stated: “It’s clear that they are actively denying
+
+dark-skinned people membership. I’ll never come back.” Another person complained on line she
+
+was a black female whose membership application was ignored while her white friend was
+
+immediately accepted, causing her to have to appear as a guest. When she appeared as a guest, she
+
+was the only black female in the facilities. Others repeatedly post discriminatory incidents based
+
+
+
+
+                                                9
+upon race, denial of applications for their pictures of being black while their white peers or friends
+
+were promptly granted membership.
+
+        38.    These on-line postings are pervasive, and amply evidence an intentional plan,
+
+pattern and practice of limiting black (or African-American) membership. These on-line postings,
+
+complaints and reviews mirror experiences Plaintiff and people she knew encountered.
+
+               [D] Defendants’ discriminatory membership participation is further evidenced
+                   through statistics.
+
+        39.    Defendants are located in Philadelphia County. Within a 15-mile radius in any
+
+direction of Northern Liberties, demographics of the black population ranges from 10% to 60%
+
+(or more).
+
+        40.    Despite the high percentage of black and/or African-American population in the
+
+immediate vicinity of the Vesper Dayclub, there is a tremendous statistical disparity in their
+
+(permitted) membership participation (further evidencing unlawful discriminatory intent).
+
+                                            COUNT I
+                                  Violations of 42 U.S.C. § 1981
+                                     (Racial Discrimination)
+
+        41.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        42.    Plaintiff was denied admission as a member to the Vesper Dayclub. As a result, she
+
+was unable:
+
+               (A) To contract with Defendants;
+
+               (B) To participate or enjoy the facilities, accommodations, or services of
+                   Defendants;
+
+               (C) To participate, associate with or be a member of a particular community;
+
+               (D) To be free of racial discrimination; and
+
+               (E) To make purchases of goods and/or services of Defendants.
+
+
+                                                 10
+        43.    These adverse actions towards Plaintiff were the direct result of Defendants
+
+engaging in a knowing and intentional practice and policy of preventing black membership.
+
+        44.    These actions as aforesaid constitute violations of 42 U.S.C. § 1981.
+
+                                           COUNT II
+                               Violations of 42 U.S.C. § 2000(a)(1)
+                                     (Racial Discrimination)
+
+        45.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        46.    The allegations as set forth in Count I are re-alleged and re-stated herein, as they
+
+also constitute violations of 42 U.S.C. § 2000(a)(1).
+
+        WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+        A.     Defendants are to be temporarily and/or permanently enjoined from engaging in
+
+further racial discrimination by order, judgment and/or decree;
+
+        B.     Defendants are to compensate Plaintiff for any all damages she has suffered,
+
+including but not related to her:
+
+               (a) Loss of enjoyment;
+
+               (b) Emotional distress;
+
+               (c) Inability to make purchases and enjoy services; and
+
+               (d) All other harms.
+
+        C.     Defendants are to be ordered to pay punitive damages (and other applicable
+
+penalty-related damages) individually and/or severally for their willful, knowing, and malicious
+
+discriminatory actions as outlined in this Complaint (as will be further determined during case
+
+pendency); and
+
+
+
+
+                                                11
+       D.      Defendants are to be ordered to permit participation of Plaintiff and all other black
+
+and/or African-Americans on a fair, equitable, and objective basis through a non-discriminatory
+
+application process.
+
+       E.      Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper, and appropriate (including but not limited to damages for emotional distress / pain and
+
+suffering);
+
+       F.      Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+attorney’s fees as provided by applicable federal and state law; and
+
+       G.      Plaintiff is to be given a jury trial as demanded in the caption of this Complaint.
+
+
+
+                                                     Respectfully submitted,
+
+                                                     KARPF, KARPF & CERUTTI, P.C.
+
+                                              By:    _______________________
+                                                     Ari R. Karpf, Esq.
+                                                     3331 Street Road
+                                                     Two Greenwood Square, Suite 128
+                                                     Bensalem, PA 19020
+                                                     (215) 639-0801
+Dated: July 17, 2020
+
+
+
+
+                                                12
+                          =============o~áå~=píÉï~êí
+
+=======================däì=eçëéáí~äáíóI=ii`=ÇLÄL~=sÉëéÉê=a~óÅäìÄI=Éí=~äK
+
+
+
+
+                    TLNTLOMOM
+                                                             UNITED STATES DISTRICT COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       UNN=b~ëí=pÜ~êéå~Åâ=píêÉÉíI=mÜáä~ÇÉäéÜá~I=m^=NVNNV
+Address of Plaintiff: ______________________________________________________________________________________________
+
+                       OOP=póÇÉåÜ~ã=píêÉÉíI=mÜáä~ÇÉäéÜá~I=m^=NVNMO
+Address of Defendant: ____________________________________________________________________________________________
+
+                                             aÉÑÉåÇ~åíë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+           TLNTLOMOM
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+           TLNTLOMOM
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+JS 44 (Rev. 06/17)                                                            CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                            DEFENDANTS
+    pqbt^oqI=o^fk^                                                                                           dir=elpmfq^ifqvI=ii`I=aL_L^=sbpmbo=a^v`ir_I=bq=^iK
+
+    (b) County of Residence of First Listed Plaintiff                   mÜáä~ÇÉäéÜá~                           County of Residence of First Listed Defendant                 mÜáä~ÇÉäéÜá~
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                       (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                             THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                     Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                    f
+                                                                                                          (For Diversity Cases Only)                                             and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3      Federal Question                                                                     PTF           DEF                                            PTF      DEF
+          Plaintiff                               (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1     Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                              of Business In This State
+
+❒ 2    U.S. Government                    ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2    Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                              (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                     Citizen or Subject of a           ’ 3         ’ 3    Foreign Nation                        ’ 6      ’ 6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                   Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                   TORTS                            FORFEITURE/PENALTY                            BANKRUPTCY                      OTHER STATUTES
+❒   110 Insurance                          PERSONAL INJURY                 PERSONAL INJURY           ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158          ❒ 375 False Claims Act
+❒   120 Marine                       ’     310 Airplane                  ❒ 365 Personal Injury -           of Property 21 USC 881            ’   423 Withdrawal                 ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’     315 Airplane Product                Product Liability     ❒ 690 Other                                     28 USC 157                        3729(a))
+❒   140 Negotiable Instrument                   Liability                ❒ 367 Health Care/                                                                                    ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’     320 Assault, Libel &                Pharmaceutical                                                    PROPERTY RIGHTS               ❒ 410 Antitrust
+        & Enforcement of Judgment               Slander                        Personal Injury                                               ❒ 820 Copyrights                  ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’     330 Federal Employers’              Product Liability                                             ❒ 830 Patent                      ❒ 450 Commerce
+❒   152 Recovery of Defaulted                   Liability                ❒ 368 Asbestos Personal                                             ❒ 835 Patent - Abbreviated        ❒ 460 Deportation
+        Student Loans                ’     340 Marine                          Injury Product                                                       New Drug Application       ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’     345 Marine Product                  Liability                                                     ❒ 840 Trademark                          Corrupt Organizations
+❒   153 Recovery of Overpayment                 Liability                 PERSONAL PROPERTY                       LABOR                         SOCIAL SECURITY                ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’     350 Motor Vehicle             ❒ 370 Other Fraud           ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)                ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’     355 Motor Vehicle             ❒ 371 Truth in Lending              Act                             ❒ 862 Black Lung (923)            ❒ 850 Securities/Commodities/
+❒   190 Other Contract                         Product Liability         ❒ 380 Other Personal        ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                  Exchange
+❒   195 Contract Product Liability   ’     360 Other Personal                  Property Damage               Relations                       ❒ 864 SSID Title XVI              ❒ 890 Other Statutory Actions
+❒   196 Franchise                              Injury                    ❒ 385 Property Damage       ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))                ❒ 891 Agricultural Acts
+                                     ’     362 Personal Injury -               Product Liability      ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                               Medical Malpractice                                           Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                        CIVIL RIGHTS                 PRISONER PETITIONS         ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                       Act
+❒   210 Land Condemnation             ❒    440 Other Civil Rights          Habeas Corpus:            ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff       ❒ 896 Arbitration
+❒   220 Foreclosure                   ❒    441 Voting                    ❒ 463 Alien Detainee               Income Security Act                     or Defendant)              ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       u❒    442 Employment                ❒ 510 Motions to Vacate                                             ❒ 871 IRS—Third Party                    Act/Review or Appeal of
+❒   240 Torts to Land                 ❒    443 Housing/                        Sentence                                                             26 USC 7609                       Agency Decision
+❒   245 Tort Product Liability                 Accommodations            ❒ 530 General                                                                                         ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒     445 Amer. w/Disabilities -    ❒ 535 Death Penalty               IMMIGRATION                                                                State Statutes
+                                               Employment                  Other:                    ❒ 462 Naturalization Application
+                                     ❒     446 Amer. w/Disabilities -    ❒ 540 Mandamus & Other      ❒ 465 Other Immigration
+                                               Other                     ❒ 550 Civil Rights                Actions
+                                     ❒     448 Education                 ❒ 555 Prison Condition
+                                                                         ❒ 560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                             ❒    3     Remanded from            ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict                   ❒ 8 Multidistrict
+        Proceeding                State Court                           Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                             (specify)                      Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             QOrp`NVUNX=QOrp`OMMM
+VI. CAUSE OF ACTION Brief description of cause:
+                                             sáçä~íáçåë=çÑ=QOrp`NVUNI=QOrp`OMMM=~åÇ=íÜÉ=mÉååëóäî~åá~=eìã~å=oÉä~íáçåë=^ÅíKK
+VII. REQUESTED IN     ❒                           CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                                                                               JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                                                (See instructions):
+      IF ANY                                                             JUDGE                                                                   DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+            TLNTLOMOM
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                       APPLYING IFP                                    JUDGE                               MAG. JUDGE
+
+                  Print                                  Save As...                                                                                                                   Reset
+

@@ -1,0 +1,2907 @@
+Source URL: https://www.courtlistener.com/docket/70244987/1/fisher-v-resources-for-human-development-rhd/
+Title: Complaint (Attorney) – #1 in Fisher v. RESOURCES FOR HUMAN DEVELOPMENT (E.D. Pa., 2:25-cv-02401) – CourtListener.com
+
+        Case 2:25-cv-02401-JP         Document 1       Filed 05/12/25     Page 1 of 55
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+_____________________________________
+Stacy Fisher and                      :
+Braheem Boardley-Murray               :
+        Plaintiffs                    :                     CIVIL ACTION NO.
+                v.                    :
+Resources for Human Development       :                    JURY TRIAL DEMANDED
+        and                           :
+Letiki Branham                        :
+        and                           :
+Jasmine McGriff                       :
+        Defendants                    :
+______________________________________
+
+                                         COMPLAINT
+
+                                      INTRODUCTION
+
+
+       1.     Plaintiffs Stacy Fisher (hereinafter “Ms. Fisher”) and Braheem Boardley-
+
+Murray (hereinafter “Mr. Boardley-Murray”) are suing their former employer Defendant
+
+Resources for Human Development (hereinafter “Defendant RHD”) and RHD
+
+management employees Letiki Branham (hereinafter “Defendant Branham”) and Jasmine
+
+McGriff (hereinafter “Defendant McGriff”) for subjecting them to unlawful workplace
+
+discrimination and retaliation that ultimately resulted in both Plaintiffs being terminated
+
+from their employment.
+
+       2.     Plaintiff Stacey Fisher alleges Defendants unlawfully discriminated and
+
+retaliated against her in violation of Title VII of the Civil Rights Act of 1964, as codified, 42
+
+U.S.C. §§ 2000e to 2000e-17 (“Title VII”), the Family and Medical Leave Act of 1993, 29
+
+U.S.C. § 2601, et seq. (“FMLA”), the Fair Labor Standards Act (FLSA), 29 U.S.C. §§ 201-
+
+219, the Pennsylvania Human Relations Act, 43 P.S. § 951 et seq. (PRHA), the
+
+Pennsylvania Whistleblower Law, 43 P.S. 1421, et seq. (PWL), the Pennsylvania Wage
+
+                                               1
+        Case 2:25-cv-02401-JP         Document 1       Filed 05/12/25      Page 2 of 55
+
+
+
+
+Payment and Collection Law (PWPCL), the City of Philadelphia Fair Practices Ordinance
+
+§ 9-1103(1) (PFPO), and defamation.
+
+       3.      Plaintiff Mr. Boardley-Murray alleges Defendants unlawfully discriminated
+
+and retaliated against him in violation of Title VII of the Civil Rights Act of 1964, as codified,
+
+42 U.S.C. §§ 2000e to 2000e-17 (“Title VII”), the Pennsylvania Human Relations Act, 43
+
+P.S. § 951 et seq. (PRHA), the Pennsylvania Whistleblower Law, 43 P.S. 1421, et seq.
+
+(PWL), the City of Philadelphia Fair Practices Ordinance § 9-1103(1) (PFPO), and
+
+defamation.
+
+       4.      Plaintiffs seek all damages available under these statutes and claims,
+
+including, but not limited to back pay, reinstatement or front pay, loss of earnings capacity,
+
+compensatory damages, punitive damages, liquidated damages, damages for emotional
+
+distress, pain and suffering, interest, compensation for negative tax consequence
+
+damages, injunctive relief, and attorney’s fees and costs.
+
+
+
+                                    Venue and Jurisdiction
+
+       5.      This Court has jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1343 for
+
+claims under Title VII, the FMLA, and the FLSA. Furthermore, Defendants’ conduct
+
+violated the PHRA, PWL, PWPCL, and PFPO, and the pendant jurisdiction of this Court
+
+is invoked to remedy those violations.
+
+       6.      Defendant RHD has its principal place of business in Philadelphia.
+
+       7.      Venue is appropriate in the Eastern District of Pennsylvania because the
+
+events or omissions giving rise to Plaintiffs claims occurred in this District and because
+
+all Defendants are subject to this District’s personal jurisdiction with respect to this action.
+
+
+
+                                                2
+        Case 2:25-cv-02401-JP        Document 1        Filed 05/12/25   Page 3 of 55
+
+
+
+
+       8.       Ms. Fisher exhausted her administrative requirements pursuant to Title VII
+
+and PHRA by timely filing a complaint with the Equal Employment Opportunity
+
+Commission and dually filing with the Pennsylvania Human Relations Commission. Ms.
+
+Fisher received a Notice of Right to Sue from the EEOC on March 20, 2025, and this
+
+Complaint is filed within 90 days of that date. Exhibit A.
+
+       9.       Mr. Boardley-Murray exhausted his administrative requirements pursuant to
+
+Title VII and PHRA by timely filing a complaint with the Equal Employment Opportunity
+
+Commission and dually filing with the Pennsylvania Human Relations Commission. Mr.
+
+Boardley-Murray received a Notice of Right to Sue from the EEOC on March 31, 2025,
+
+and this Complaint is filed within 90 days of that date. Exhibit B.
+
+
+
+                                         The Parties
+
+       10.      Plaintiff Stacy Fisher is an adult individual residing at 524 Ruth Street,
+
+Buena, NJ 08310.
+
+       11.      Ms. Fisher is a citizen and resident of the United States.
+
+       12.      At all times relevant hereto, Ms. Fisher worked for Defendant RHD in
+
+Philadelphia.
+
+       13.      Plaintiff Braheem Boardley-Murray is an adult individual residing at 202 E.
+
+Sharpnack Street, Philadelphia, PA 19119.
+
+       14.      Mr. Boardley-Murray is a citizen and resident of the United States.
+
+       15.      At all times relevant hereto, Mr. Boardley-Murray worked for Defendant
+
+RHD in Philadelphia.
+
+
+
+
+                                               3
+          Case 2:25-cv-02401-JP             Document 1          Filed 05/12/25        Page 4 of 55
+
+
+
+
+        16.      Defendant Resources for Human Development, Inc. is a domestic non-
+
+profit corporation with its principal place of business at 4700 Wissahickon Avenue, Suite
+
+#126, Philadelphia.
+
+        17.      Upon information and belief, Defendant RHD employs more than one
+
+thousand employees.
+
+        18.      Defendant RHD is an employer as defined in Title VII, the FMLA, the
+
+FLSA, the PHRC, the PWPLC, and the Philadelphia FPO.
+
+        19.      Defendant RHD receives a significant amount of its funding by or through
+
+the Commonwealth and/or a political subdivision authority.
+
+        20.      Defendant RHD receives funding from the Pennsylvania Department of
+
+Health, the Pennsylvania Department of Community and Economic Development and
+
+Medicaid.
+
+        21.      Defendant RHD is an Employer as defined by the PA Whistleblower law.
+
+        22.      At all material times hereto, Defendant RHD acted through its employees,
+
+agents, representatives and/or servants who were acting within the course and scope of
+
+their employment and authority.
+
+
+
+                Background of the Plaintiffs’ Employment with Defendant RHD
+
+        23.      Ms. Fisher was hired by Defendant RHD in or about February of 2021.
+
+        24.      Ms. Fisher was a Direct Support Professional working with consumers1 in a
+
+residential living program in Philadelphia for people with mental disabilities located on
+
+Coles Boulevard (hereinafter “the Coles site”).
+
+
+1
+ “Consumer” is the term used by RHD for the individuals with mental disabilities who live in the group homes run
+by RHD.
+
+                                                        4
+        Case 2:25-cv-02401-JP      Document 1      Filed 05/12/25   Page 5 of 55
+
+
+
+
+      25.    Mr. Boardley-Murray was hired by Defendant RHD in or about November
+
+of 2021.
+
+      26.    Mr. Boardley-Murray was a Direct Support Professional working with
+
+consumers with mental disabilities at the Coles site.
+
+      27.    Mr. Boardley-Murray and Ms. Fisher are cousins by marriage.
+
+
+
+                         Facts Relating to the Plaintiffs’ Claims
+
+      28.    On October 26, 2024, Ms. Fisher called and spoke with Kelly McManus, a
+
+Program Specialist at Defendant RHD and told Ms. McManus that she felt threatened by
+
+a male employee (Steven Collins) who had harassed her calling her “Ms. supervisor
+
+manager lady.” Ms. McManus told Ms. Fisher to put her complaint about this sex-based
+
+workplace harassment in writing to her site manager, Mr. Jamero Briley. Her texts with
+
+Ms. McManus and email to Mr. Briley are attached as Exhibit C.
+
+      29.    Ms. Fisher had worked at the Cole’s site for more than three years and the
+
+man who had threatened her had worked there for less than three months.
+
+      30.    After reporting this sex-based harassment, Ms. Fisher was treated less
+
+favorably than the similarly situated male co-worker who harassed her. On October 28,
+
+2024, she was required to transfer to a different site by Defendant RHD management
+
+employee Defendant Branham. The male harasser was allowed to stay at the Cole’s site.
+
+The transfer letter, which references “the concerns you raised” is attached as Exhibit D.
+
+      31.    Defendant Branham told Ms. Fisher the transfer was for her safety.
+
+
+
+
+                                            5
+          Case 2:25-cv-02401-JP    Document 1      Filed 05/12/25    Page 6 of 55
+
+
+
+
+       32.     October 28, 2024, Ms. Fisher emailed Defendant Branham a complaint of
+
+discrimination and bias with the subject heading “Unwilling transfer” which is attached as
+
+Exhibit E.
+
+       33.     On or about October 31, 2024, Mr. Boardley-Murray contacted his director
+
+Defendant McGriff to report some of the consumers were suicidal and were not being
+
+allowed to speak with the staff they needed, which he believed may be a form of neglect.
+
+       34.     At the same time, Mr. Boardley-Murray also reported sexual harassment
+
+because his co-worker Alexis was telling people that he was sleeping with his cousin, Ms.
+
+Fisher, which was not true.
+
+       35.     In early November Mr. Boardley-Murray met with RHD investigator Mr.
+
+Hillary Mafura, who was conducting an investigation of the Coles site, and discussed his
+
+concerns about Defendant RHD consumers being neglected by Defendant RHD staff as
+
+part of an investigation by the Pennsylvania Department of Health.
+
+       36.     During the same conversation, Mr. Boardley-Murray also told Mr. Mafura
+
+about his sexual harassment concerns.
+
+       37.     On or about November 5, 2024, Ms. Fisher met with Mr. Mafura and
+
+discussed her concerns about Defendant RHD consumers being neglected by Defendant
+
+RHD staff at the Coles site as part of an investigation by the Pennsylvania Department of
+
+Health.
+
+       38.     Ms. Fisher also told Mr. Mafura about Mr. Collins harassing her using
+
+misogynistic language and how Defendant Branham transferred Ms. Fisher against her
+
+will after Ms. Fisher complained to Defendant Branham about that sex-based harassment.
+
+
+
+
+                                            6
+          Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25    Page 7 of 55
+
+
+
+
+         39.      After this meeting Defendant Branham contacted Mr. Briley, the Coles site
+
+manager, and asked him to find out why Ms. Fisher met with Mr. Mafura for so long.
+
+Defendant Branham also refused to pay Ms. Fisher for some of the hours that she was
+
+working, cut her working hours in favor of a new temporary worker, and created a hostile
+
+work environment by telling new employees that Ms. Fisher had treated her co-workers
+
+badly.
+
+         40.      The Pennsylvania Department of Health had investigators come to the
+
+Coles site on or about November 5, 2024, and November 13, 2024, and again later in
+
+November 2024.
+
+         41.      During those visits, Mr. Boardley-Murray provided the Commonwealth
+
+investigators with information on the following issues involving potential waste, fraud and
+
+neglect:
+
+               a. One of the consumers was not being given eye drops that he needed
+
+                  by RHD staff members Alexis and Steven Collins, and they were
+
+                  falsely recording in a book that they had been giving the medication.
+
+                  They had falsely claimed to have given the eye drops even on days
+
+                  when the medication was not available to be given.
+
+               b. Consumers were claiming they were not able to meet with their
+
+                  support coordinators, but the coordinators were claiming they were
+
+                  meeting in person with the consumers and submitting bills for work
+
+                  Mr. Boardley-Murray did not believe they were doing.
+
+
+
+
+                                                7
+        Case 2:25-cv-02401-JP        Document 1     Filed 05/12/25   Page 8 of 55
+
+
+
+
+             c. Consumers had complaints that were being ignored because
+
+                Defendant McGriff and Kelly McManus, another RHD manager, were
+
+                preventing the consumers from making their complaints known.
+
+             d. RHD employee Steven Collins was taking consumers out to shop but
+
+                then taking the consumer’s money and using it for himself.
+
+             e. A consumer reported that an outside contractor from One Well had
+
+                taken the consumer to a friend’s house and made him take a shower
+
+                at the friend’s house which made the consumer very upset and feel
+
+                violated. The contractors were taking the consumers to places the
+
+                contractors wanted to go, when they were supposed to going to
+
+                places the consumers wanted to go. This was a potential issue of
+
+                waste and fraud because the outside contractor was not providing
+
+                the services they were supposed to provide.
+
+       42.      On November 8, 2024, Ms. Fisher wrote to Mr. Mafura complaining about
+
+workplace discrimination and retaliation and shared her concerns that Defendant
+
+Branham told other Defendant RHD staff members that she believed Ms. Fisher had
+
+called in a complaint to the Commonwealth which resulted in its investigation of the Coles
+
+site, a copy of which is attached as Exhibit F.
+
+       43.      On November 11, 2024, Ms. Fisher wrote to Defendant Branham
+
+complaining about not being paid for the time she had worked. She sent additional e-
+
+mails regarding concerns about not being properly paid on November 29, December 2,
+
+and December 5, 2024. Exhibit G.
+
+
+
+
+                                             8
+        Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25   Page 9 of 55
+
+
+
+
+      44.       On November 12, 2024, Mr. Boardley-Murray sent a follow-up text to Mr.
+
+Mafura telling him that he was concerned his harassment situation was being downplayed
+
+by his director, Defendant McGriff. Mr. Mafura did not respond. The texts are attached
+
+as Exhibit H.
+
+      45.       On November 19, 2024, Ms. Fisher requested the forms to apply for FMLA
+
+and submitted the completed forms on November 22.
+
+      46.       After Ms. Fisher and Mr. Boardley-Murray met with the Department of
+
+Health Officials, their site manager Jamero Briley told them that Defendant Branham and
+
+Defendant McGriff were targeting them because they had reported concerns to the state
+
+about the safety and treatment of Defendant RHD consumers.
+
+      47.       Mr. Briley told Ms. Fisher and Mr. Boardley-Murray that Defendant Branham
+
+and Defendant McGriff were saying not to trust them because they were the reason for
+
+the state’s investigation of Defendant RHD.
+
+      48.       Mr. Briley told Mr. Boardley-Murray that Defendant McGriff asked about his
+
+looks and marital status in relation to his sexual harassment complaint.
+
+      49.       After Mr. Boardley-Murray told the investigators that consumers were not
+
+meeting in person with their support personnel despite records claiming they had, Kelly
+
+McManus asked him to sign a sign-in sheet for a meeting that had happened about a
+
+month earlier. The meeting was supposed to be a face to face meeting with the support
+
+coordinators and the consumers. Mr. Boardley-Murray and the consumers had showed
+
+up for the meeting expecting to be able to meet with the support coordinators, but Ms.
+
+McManus changed the meeting into a zoom meeting and told Mr. Boardley-Murray that
+
+he and the consumers would not be involved in the meeting.
+
+
+
+                                              9
+        Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25   Page 10 of 55
+
+
+
+
+       50.      On or about November 20, 2024, a woman who lived next door to the group
+
+home, reported to Mr. Boardley-Murray that an RHD employee Kyle Murray (no relation)
+
+was sexually harassing her. Mr. Boardley-Murray reported that to Mr. Briley. Mr. Briley
+
+reported the sexual harassment to Defendant Branham and Defendant McGriff. Kyle
+
+Murray was not disciplined, only moved to another location.
+
+       51.      Ms. Fisher contacted Bernard Glavin, Defendant RHD’s Executive Vice
+
+President about her discrimination and harassment concerns and he advised her to
+
+contact Ms. Manay Gunter, Defendant RHD’s Director of Intellectual & Developmental
+
+Disabilities Service Line.
+
+       52.      On November 20, 2024, Ms. Fisher wrote to Ms. Gunter that she was being
+
+retaliated against for speaking to an investigator (Mr. Mafura) regarding allegations
+
+against Defendant RHD. She followed up with a more detailed explanation which included
+
+her concern about staff sexually harassing a woman who lived next door to the Defendant
+
+RHD site and informing Ms. Gunter that Mr. Boardley-Murray was a witness to the
+
+harassment and was also being harassed by management. These emails are attached
+
+as Exhibit I.
+
+       53.      Ms. Fisher also complained multiple times in writing that she was not being
+
+paid for all of the hours that she had worked, including overtime hours.
+
+       54.      On November 24, 2024, Mr. Boardley-Murray and Mr. Briley exchanged
+
+text messages about the false allegations being made against him by his co-workers. The
+
+texts are attached as Exhibit J.
+
+
+
+
+                                             10
+       Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25    Page 11 of 55
+
+
+
+
+       55.     On November 27, 2024, Ms. Fisher wrote to Ms. Gunter again asking how
+
+to file a formal complaint and noted on October 30, 2024 she asked how to file a formal
+
+complaint but received no response. This email is attached as Exhibit K.
+
+       56.     On December 4, 2024, Ms. Fisher wrote to Defendant McGriff asking why
+
+she told Sharon, one of the managers, that Ms. Fisher was not allowed to pick up open
+
+shifts at the Coles site. This email is attached as Exhibit L.
+
+       57.     Ms. Fisher’s position was not filled until January of 2025.
+
+       58.     In early December Erin Payton, the Defendant RHD Director of Compliance,
+
+and a close friend of Defendant McGriff, called Mr. Boardley-Murray about his sexual
+
+harassment complaint. Ms. Payton told him some inappropriate things had been said
+
+about his looks, but it wasn’t sexual harassment. Ms. Payton then asked Mr. Boardley-
+
+Murray why he reported his concerns about Defendant RHD to the state. Mr. Boardley-
+
+Murray told her that management had left him without support and that the consumers
+
+needed help.
+
+       59.     Shortly after that, Ms. Payton called Mr. Briley and asked him why Mr. Briley
+
+had told Mr. Boardley-Murray that Defendant McGriff was asking about his looks and
+
+marital status.    Ms. Payton also asked Mr. Briley why Mr. Boardley-Murray had
+
+complained to the state.
+
+       60.     Mr. Boardley-Murray then requested to be reassigned so he would not be
+
+under Defendant Branham and Defendant McGriff’s supervision. He never received a
+
+reply to that request.
+
+       61.     After that, when new temp workers were sent to the Coles site, they would
+
+initially be hostile towards Mr. Boardley-Murray, but then they were friendly after they got
+
+
+
+                                             11
+       Case 2:25-cv-02401-JP      Document 1      Filed 05/12/25       Page 12 of 55
+
+
+
+
+to know him. They told Mr. Boardley-Murray that Defendant Branham had told them that
+
+they shouldn’t talk to him because he didn’t like women, he bullied people, and he would
+
+get the consumers to harass staff members and get them fired.
+
+       62.    On December 6, 2024, Mr. Boardley-Murray texted Josh another RHD
+
+supervisor that Defendant Branham had told Mr. Briley that his complaints were
+
+“ridiculous nonsense.” Josh wrote back that Mr. Boardley-Murray’s complaint had “been
+
+escalated on our end.” A photo of the text is attached as Exhibit M.
+
+       63.    Mr. Boardley-Murray continued to report his concerns of Defendant RHD
+
+staff members treating consumers improperly. On December 11, 2024, he communicated
+
+with Michelle Holmes, an RHD supervisor about an incident where Alexis had started a
+
+night shift at the Coles site and forced a consumer who had been watching TV in the living
+
+room to go in his room, shut his door and told him not to come out so she could sleep
+
+during her shift. Exhibit N.
+
+
+
+                   Defendants Suspend and Terminate Both Plaintiffs
+
+       64.    On December 14, 2024, Ms. Fisher was suspended by Defendant Branham
+
+pending the outcome of an investigation. Ms. Fisher wrote to ask why she was being
+
+investigated and Defendant Branham responded she was not at liberty to discuss it and
+
+an investigator would reach out to her. This email chain is attached as Exhibit O.
+
+       65.    No investigator ever contacted Ms. Fisher about any allegations against her.
+
+       66.    Ms. Fisher had no prior discipline or complaints in the three years she had
+
+been working for Defendant RHD.
+
+       67.    Mr. Boardley-Murray went on vacation on December 16, 2024.
+
+
+
+                                            12
+       Case 2:25-cv-02401-JP          Document 1   Filed 05/12/25   Page 13 of 55
+
+
+
+
+       68.    On December 18, 2024, Defendant RHD posted Mr. Boardley-Murray’s
+
+position as a job opening. A photo of the Job Posting is attached as Exhibit P.
+
+       69.    On December 19, 2024, Ms. Fisher’s attorney sent a detailed email to Mr.
+
+Glavin as well as Shenise Hariston (Defendant RHD’s Director of HR), and Brian Rhodes,
+
+(Defendant RHD’s CEO). A copy is attached as Exhibit Q.
+
+       70.    The email stated, “Defendant Branham’s suspension of Ms. Fisher appears
+
+to be part of the pattern of retaliation that Ms. Fisher has suffered over the prior seven
+
+weeks.” It raised potential legal claims including the Pennsylvania Whistleblower Law, the
+
+Pennsylvania Wage Payment and Collection Law and the Federal Fair Labor Standards
+
+Act, the Family and Medical Leave Act, Title VII of the Civil Rights Act, and the
+
+Pennsylvania Human Relations Act.
+
+       71.    On December 23, 2024, Mr. Boardley-Murray wrote to Mr. Mafura again
+
+telling him that he might be out of work because he saw his shift posted, a copy of the
+
+text is attached as Exhibit G.
+
+       72.    Later that day, Mr. Boardley-Murray received a call from Defendant RHD
+
+representative Barry Harris, telling him that he had been put on administrative leave.
+
+       73.    Mr. Boardley-Murray had no prior discipline in the three years he had
+
+worked for Defendant RHD.
+
+       74.    On January 13, 2025, Ms. Fisher was fired on a Zoom call with Defendant
+
+McGriff, Amira Thomas (Regional Director) and Monica Ewells (HR). Defendant McGriff
+
+told Ms. Fisher that she had committed theft and misuse of a consumer’s funds. Ms.
+
+Fisher asked what they were talking about, and they would not explain. They said she
+
+would receive a letter in the mail.
+
+
+
+                                             13
+       Case 2:25-cv-02401-JP       Document 1       Filed 05/12/25   Page 14 of 55
+
+
+
+
+       75.    A few days later Ms. Fisher received a termination letter dated January 10,
+
+2025. A copy of the letter is attached as Exhibit R.
+
+       76.    Upon information and belief, Defendants RHD, Branham, and McGriff
+
+knowingly and falsely accused Ms. Fisher of theft or misappropriation of RHD or client
+
+property, cash, credit, or funds. Exhibit R.
+
+       77.    On or about January 13, Ms. Holmes called Mr. Boardley-Murray and
+
+interviewed him about the incident where Alexis had forced a consumer to stay in his
+
+room with the door shut. Mr. Boardley-Murray also told her that Defendant Branham was
+
+harassing him. He recalls getting a call shortly after that from Defendant McGriff telling
+
+him that his employment with Defendant RHD was terminated.
+
+       78.    Mr. Boardley-Murray received a letter dated January 10, 2025. A copy of the
+
+letter is attached as Exhibit S.
+
+       79.    Upon information and belief, Defendants RHD, Branham, and McGriff
+
+knowingly and falsely accused Mr. Boardley-Murray of violations of safety or health
+
+policies and/or negligent/unsafe behaviors that may endanger another person,
+
+destruction of property and/or equipment. Exhibit S.
+
+       80.    Mr. Boardley-Murray does not know what the letter was referring to and no
+
+one ever explained to him what he allegedly did or asked for his side of the story.
+
+       81.    Ms. Fisher wrote to Mr. Briley asking if he knew what she was accused of
+
+doing. He wrote back, “nobody ever said anything about money to me at all I do believe
+
+it’s a lie they just needed something.” A copy of the text messages are attached as Exhibit
+
+T.
+
+
+
+
+                                               14
+         Case 2:25-cv-02401-JP      Document 1      Filed 05/12/25    Page 15 of 55
+
+
+
+
+         82.   Ms. Fisher requested unemployment compensation and was awarded
+
+benefits because Defendant RHD did not provide any information about why her
+
+employment was terminated.
+
+         83.   As a direct and proximate result of Defendants’ unlawful actions as
+
+described herein, Mr. Fisher has suffered past, present and future loss of earnings and
+
+benefits, emotional distress, mental anguish, humiliation, loss of life’s pleasures, pain and
+
+suffering, damage to reputation, and has incurred attorneys’ fees and costs.
+
+         84.   As a direct and proximate result of Defendants’ unlawful actions as
+
+described herein, Mr. Boardley-Murray has suffered past, present and future loss of
+
+earnings and benefits, emotional distress, mental anguish, humiliation, loss of life’s
+
+pleasures, pain and suffering, damage to reputation, and has incurred attorneys’ fees and
+
+costs.
+
+                                          COUNT I
+                            Title VII, 42 U.S. C. $ 2000e-3(a)
+                         Discrimination and Retaliation Due to Sex
+                        Plaintiff Stacy Fisher vs. Defendant RHD
+
+
+         85.   Plaintiffs   re-allege and   incorporate by reference the          preceding
+
+paragraphs as though fully set forth herein.
+
+         86.   Defendant RHD discriminated against Ms. Fisher due to her sex by
+
+transferring her to a less favorable work location against her will and allowing the male
+
+employee who harassed her to stay at her former work location.
+
+         87.   Ms. Fisher engaged in protected activity under Title VII as set forth in this
+
+complaint, including, but not limited to:
+
+
+
+
+                                             15
+       Case 2:25-cv-02401-JP         Document 1      Filed 05/12/25   Page 16 of 55
+
+
+
+
+             a. Reporting    sex   related    workplace   harassment,    when    she
+
+                complained to RHD management about Mr. Collins, a male
+
+                employee who had harassed her calling her “Ms. supervisor
+
+                manager lady” on October 26, 2024. See Exhibit C.
+
+             b. Emailing Defendant Branham on October 28, 2024, a complaint of
+
+                discrimination and bias with the subject heading “Unwilling transfer”
+
+                which is attached as Exhibit E.
+
+             c. Telling Mr. Mafura on November 5, 2024, about Mr. Collins harassing
+
+                her using misogynistic language and how Defendant Branham
+
+                transferred Ms. Fisher against her will after Ms. Fisher complained
+
+                to Defendant Branham about that sex-based harassment.
+
+             d. Writing to Ms. Gunter on November 20, 2024, about staff sexually
+
+                harassing eldly [sic] woman next door.”
+
+       88.      Defendant RHD engaged in materially adverse retaliation against Ms.
+
+Fisher for her protected activity as set forth in this complaint, including, but not limited
+
+to:
+
+             a. Transferring her to a less favorable work location against her will;
+
+             b. Refusing to allow her to work requested hours;
+
+             c. Failing to pay her properly for time worked;
+
+             d. Harassing her in her workplace and spreading false rumors about
+
+                her to other staff members;
+
+             e. Failing to properly investigate or respond to her claims of
+
+                discrimination and retaliation;
+
+
+
+                                               16
+       Case 2:25-cv-02401-JP            Document 1      Filed 05/12/25    Page 17 of 55
+
+
+
+
+            f. Suspending her from employment on or about December 14, 2024;
+
+            g. Terminating her employment on or about January 10, 2025.
+
+      89.         There was a causal connection between Ms. Fisher’s protected activity
+
+under the Title VII and Defendant RHD’s materially adverse retaliatory actions taken
+
+against her.
+
+      90.         The retaliation endured by Ms. Fisher would dissuade a reasonable
+
+employee from making complaints of discrimination, harassment, and retaliation.
+
+      91.          Defendant RHD retaliated against Ms. Fisher for engaging in protected
+
+activity in violation of Section 704(a) of Title VII, 42 U.S.C. § 2000e-3(a).
+
+WHEREFORE, Ms. Fisher respectfully requests this Court:
+
+      A.          Issue a Declaratory Judgment declaring that Defendant RHD’s
+
+                  actions as set forth in this Complaint are unlawful and violate Title
+
+                  VII.
+
+      B.          Issue equitable/injunctive relief including:
+
+            (1)      Issue preliminary and permanent injunctions enjoining and
+
+                     restraining Defendant RHD, its officers, agents, employees, and
+
+                     those acting in participation with Defendant RHD, from engaging
+
+                     in any act or practice of harassment, discrimination, and/or
+
+                     retaliation against employees in violation of Title VII.
+
+            (2)      Order Defendant RHD to provide training to all employees on
+
+                     harassment, discrimination, and retaliation prevention and
+
+                     related compliance under Title VII—with the training specifics to
+
+
+
+
+                                                 17
+Case 2:25-cv-02401-JP             Document 1     Filed 05/12/25   Page 18 of 55
+
+
+
+
+              be tailored to the problems, deficiencies, and gaps that the
+
+              evidence shows.
+
+     (3)      Order Defendant RHD to deliver to its employees a copy of the
+
+              jury verdict and trial court judgment.
+
+     (4)      Order Defendant RHD to report on the manner of compliance with
+
+              the terms of any final order for non-monetary equitable relief
+
+              issued under Title VII—with the reporting specifics to be tailored
+
+              based on the evidence.
+
+     (5)      Order Defendant RHD to reinstate Ms. Fisher upon such terms
+
+              and conditions as will put Ms. Fisher in the position Ms. Fisher
+
+              would have occupied had Defendant RHD not unlawfully
+
+              discriminated against Ms. Fisher.
+
+C.         Enter judgment in favor of Ms. Fisher and against Defendant RHD
+
+           for back pay, including wages and fringe benefits.
+
+D.         Enter judgment in favor of Ms. Fisher for front pay in lieu of
+
+           reinstatement.
+
+E.         Enter judgment in favor of Ms. Fisher and against Defendant RHD
+
+           for compensatory damages for emotional distress, career damage,
+
+           loss   of   earnings     capacity,   mental   anguish,   humiliation,
+
+           embarrassment, and loss of dignity.
+
+F.         Enter judgment in favor of Ms. Fisher and against Defendant RHD
+
+           for punitive damages, as allowable by law.
+
+
+
+
+                                          18
+       Case 2:25-cv-02401-JP            Document 1    Filed 05/12/25     Page 19 of 55
+
+
+
+
+       G.       Award Ms. Fisher reasonable attorney’s fees together with the costs
+
+                of this action.
+
+       H.       Award Ms. Fisher pre-judgment and post-judgment interest.
+
+       I.       Enter judgment in favor of Ms. Fisher for any other monetary losses
+
+                as a direct result of Defendant RHD’s violation of Title VII, including
+
+                but not limited to negative tax consequence damages.
+
+       J.       Award such other and further legal and equitable relief as may be
+
+                necessary and appropriate to redress fully the deprivation of Ms.
+
+                Fisher’s rights, to prevent their recurrence in the future and to protect
+
+                other employees from such unlawful behavior.
+
+
+
+                                              COUNT II
+                                          FMLA Retaliation
+                             Plaintiff Stacy Fisher vs. All Defendants
+
+
+       92.      Plaintiffs     re-allege and   incorporate by reference the          preceding
+
+paragraphs as though fully set forth herein.
+
+       93.      Ms. Fisher was an eligible employee under the definitional terms of the
+
+FMLA, 29 U.S.C. § 2611(a)(i)(ii).
+
+       94.      Ms. Fisher took time off from working with Defendant RHD, with whom she
+
+had been employed for at least twelve months pursuant to the requirements of 29 U.S.C.
+
+§ 2611(2)(i).
+
+       95.      Ms. Fisher had at least 1,250 hours of service with Defendant RHD during
+
+her last full year of employment (pre-FMLA request).
+
+
+
+
+                                                19
+       Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25    Page 20 of 55
+
+
+
+
+       96.    Defendant is engaged in an industry affecting commerce and employs fifty
+
+(50) or more employees for each working day during each of the twenty (20) or more
+
+calendar work weeks in the current or proceeding calendar year, pursuant to 29 U.S.C.A
+
+§ 2611(4)(A)(i).
+
+       97.    Ms. Fisher was entitled to receive leave pursuant to 29 U.S.C.A § 2612
+
+(a)(1) for a total of twelve (12) work weeks of leave on a block or intermittent basis.
+
+       98.    As averred above, on November 21, 2024, Ms. Fisher requested FMLA
+
+leave which Defendant RHD granted shortly thereafter.
+
+       99.    After requesting FMLA leave, Ms. Fisher was retaliated against and
+
+subjected to harassment by Defendants RHD, Branham and McGriff which ultimately led
+
+to her suspension and termination.
+
+       100.   Defendants Branham and McGriff were involved in the decision to suspend
+
+and terminate Ms. Fisher’s employment.
+
+       101.   Defendants RHD, Branham and McGriff retaliated against Ms. Fisher by
+
+suspending and firing her after she exercised her FMLA rights.
+
+       102.   There was a causal connection between Ms. Fisher’s exercise of her rights
+
+under the FMLA and the Defendants’ materially adverse retaliatory actions taken against
+
+her.
+
+       WHEREFORE, Ms. Fisher respectfully requests this Court:
+
+       A.     Issue a Declaratory Judgment declaring that Defendants’ actions as
+
+              set forth in this Complaint are unlawful and violate the FMLA.
+
+       B.     Issue equitable/injunctive relief including:
+
+
+
+
+                                             20
+Case 2:25-cv-02401-JP           Document 1      Filed 05/12/25   Page 21 of 55
+
+
+
+
+     (1)      Issue preliminary and permanent injunctions enjoining and
+
+              restraining Defendant RHD, its officers, agents, employees, and
+
+              those acting in participation with Defendants, from engaging in
+
+              any act or practice of interference, discrimination, and/or
+
+              retaliation against employees in violation of the FMLA.
+
+     (2)      Order Defendant RHD to provide training to all employees on
+
+              interference, discrimination, and retaliation prevention and
+
+              related compliance under the FMLA—with the training specifics
+
+              to be tailored to the problems, deficiencies, and gaps that the
+
+              evidence shows.
+
+     (3)      Order Defendant RHD to deliver to its employees a copy of the
+
+              jury verdict and trial court judgment.
+
+     (4)      Order Defendant RHD to report on the manner of compliance with
+
+              the terms of any final order for non-monetary equitable relief
+
+              issued under the FMLA—with the reporting specifics to be
+
+              tailored based on the evidence.
+
+     (5)      Order Defendant RHD to reinstate Ms. Fisher upon such terms
+
+              and conditions as will put Ms. Fisher in the position Ms. Fisher
+
+              would have occupied had Defendants not unlawfully retaliated
+
+              against Ms. Fisher.
+
+C.         Enter judgment in favor of Ms. Fisher and against Defendants RHD,
+
+           Branham and McGriff for back pay, including wages and fringe
+
+           benefits.
+
+
+
+                                         21
+       Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25     Page 22 of 55
+
+
+
+
+      D.     Enter judgment in favor of Ms. Fisher for front pay in lieu of
+
+             reinstatement.
+
+      E.     Enter judgment in favor of Ms. Fisher and against Defendants RHD,
+
+             Branham and McGriff for liquidated damages, as allowable by law.
+
+      F.     Award Ms. Fisher reasonable attorney’s fees together with the costs
+
+             of this action.
+
+      G.     Award Ms. Fisher pre-judgment and post-judgment interest.
+
+      H.     Enter judgment in favor of Ms. Fisher for any other monetary losses
+
+             as a direct result of Defendants’ violation of the FMLA, including but
+
+             not limited to negative tax consequence damages.
+
+      I.     Award such other and further legal and equitable relief as may be
+
+             necessary and appropriate to redress fully the deprivation of Ms.
+
+             Fisher’s rights, to prevent their recurrence in the future and to protect
+
+             other employees from such unlawful behavior.
+
+
+
+                                          COUNT III
+                               FLSA Violations and Retaliation
+                          Plaintiff Stacy Fisher vs. All Defendants
+
+
+      103.   Plaintiffs   re-allege and    incorporate by reference the           preceding
+
+paragraphs as though fully set forth herein.
+
+      104.   At all times material herein, Ms. Fisher was entitled to the rights, protections
+
+and benefits provided under the FLSA, 29 U.S.C. § 201, et seq.
+
+      105.   When Ms. Fisher worked hours in excess of 40 hours per week, she was
+
+entitled to overtime compensation at a rate of one and one-half times her regular rate of
+
+                                            22
+       Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25    Page 23 of 55
+
+
+
+
+pay for each additional hour or fraction thereof worked. 29 U.S.C. § 207; 29 C.F.R. §
+
+553.230.
+
+       106.   Defendant RHD failed and refused to pay Ms. Fisher for some of the hours
+
+she worked.
+
+       107.   Defendant RHD failed and refused to provide Ms. Fisher in a timely manner
+
+for hours she worked.
+
+       108.   Defendant RHD failed and refused to provide Ms. Fisher with overtime
+
+compensation at a rate of one and one-half times her regular rate of pay.
+
+       109.   Defendant RHD’s FLSA violations wrongly deprived Ms. Fisher of
+
+compensation she was owed, including the FLSA overtime compensation that is due to
+
+her at times material herein.
+
+       110.   At all relevant times, Defendant RHD has been aware of the provisions of
+
+the FLSA. Defendant RHD’s actions and omissions as alleged herein were knowing,
+
+willful, bad faith, and reckless violations of 29 U.S.C. section 207 within the meaning of
+
+29 U.S.C. section 255(a).
+
+       111.   As a result of the aforesaid willful violations of the FLSA, compensation has
+
+been unlawfully withheld by Defendant RHD from Ms. Fisher for which Defendant RHD is
+
+liable pursuant to the FLSA, together with an additional equal amount as liquidated
+
+damages, interest, reasonable attorneys’ fees and the costs of this action.
+
+       112.   The employment and work records for Ms. Fisher are in the exclusive
+
+possession, custody and control of Defendant RHD, so she is unable to state at this time
+
+the exact amounts owing to her. Defendant RHD is under a duty imposed by the FLSA,
+
+
+
+
+                                            23
+          Case 2:25-cv-02401-JP      Document 1     Filed 05/12/25   Page 24 of 55
+
+
+
+
+29 U.S.C. § 211(c), and the regulations of the United States Department of Labor to
+
+maintain and preserve payroll and other employment records.
+
+          113.   Ms. Fisher complained in writing and orally to Defendant RHD about its
+
+failure to pay her for the time she worked, including overtime hours. Please see Exhibit
+
+G.
+
+          114.   Section 15(a)(3) of the FLSA states that it is a violation for any
+
+person to “discharge or in any other manner discriminate against any employee because
+
+such employee has filed any complaint or instituted or caused to be instituted any
+
+proceeding under or related to this Act, or has testified or is about to testify in any such
+
+proceeding, or has served or is about to serve on an industry committee.”
+
+          115.   Ms. Fisher’s complaints to Defendant RHD about its failure to pay her for
+
+the time she worked, including overtime hours, is protected activity under Section 15(a)(3)
+
+of the FLSA.
+
+          116.   Defendants RHD, Branham and McGriff retaliated against Ms. Fisher by
+
+suspending and firing her after she complained about a potential violation of her FLSA
+
+rights.
+
+          117.   There was a causal connection between Ms. Fisher’s complaint about a
+
+potential violation of her FLSA rights and the Defendants’ materially adverse retaliatory
+
+actions taken against her.
+
+          WHEREFORE, Ms. Fisher requests from the Court the following relief:
+
+          A.     A declaratory judgment declaring that Defendant RHD has willfully,
+
+                 unreasonably, wrongfully, and without good faith, violated its
+
+
+
+
+                                             24
+       Case 2:25-cv-02401-JP      Document 1      Filed 05/12/25    Page 25 of 55
+
+
+
+
+             statutory and legal obligations, and deprived Ms. Fisher of her rights,
+
+             protections and entitlements under federal law, as alleged herein;
+
+      B.     An order for a complete and accurate accounting of all the
+
+             compensation to which Plaintiffs are entitled;
+
+      C.     Judgment against Defendant RHD awarding Ms. Fisher monetary
+
+             damages in the form of back pay compensation, liquidated damages
+
+             equal to her unpaid compensation, plus pre-judgment and post-
+
+             judgment interest;
+
+      D.     An award of punitive damages against Defendants RHD, Branham
+
+             and McGriff due to their retaliation against Ms. Fisher in violation of
+
+             the FLSA;
+
+      E.     An award of damages for emotional distress, pain and suffering,
+
+             against Defendants RHD, Branham and McGriff due to their
+
+             retaliation against Ms. Fisher in violation of the FLSA;
+
+      F.     An award of reasonable attorneys’ fees, as well as costs and
+
+             disbursement of this action; and
+
+      G. An award granting such other further relief as the Court deems proper.
+
+
+
+                                     COUNT IV
+              VIOLATION OF PENNSYLVANA HUMAN RELATIONS ACT
+                     Discrimination and Retaliation due to Sex
+                      Plaintiff Stacy Fisher v. All Defendants
+
+
+      118.   Plaintiffs   re-allege and   incorporate by reference the          preceding
+
+paragraphs as though fully set forth herein.
+
+
+
+                                           25
+       Case 2:25-cv-02401-JP        Document 1    Filed 05/12/25    Page 26 of 55
+
+
+
+
+       119.   Defendant RHD discriminated against Ms. Fisher due to her sex by
+
+transferring her to a less favorable work location against her will and allowing the male
+
+employee who harassed her to stay at her former work location.
+
+       120.   Ms. Fisher engaged in protected activity under the PHRA as set forth in
+
+this complaint, including, but not limited to:
+
+          a. Reporting     sex    related   workplace   harassment,    when    she
+
+              complained to RHD management about Mr. Collins, a male
+
+              employee who had harassed her calling her “Ms. supervisor
+
+              manager lady” on October 26, 2024. See Exhibit C.
+
+          b. Emailing Defendant Branham on October 28, 2024, a complaint of
+
+              discrimination and bias with the subject heading “Unwilling transfer”
+
+              which is attached as Exhibit E.
+
+          c. Telling Mr. Mafura on November 5, 2024, about Mr. Collins harassing
+
+              her using misogynistic language and how Defendant Branham
+
+              transferred Ms. Fisher against her will after Ms. Fisher complained
+
+              to Defendant Branham about that sex-based harassment.
+
+          d. Writing to Ms. Gunter on November 20, 2024, about staff sexually
+
+              harassing eldly [sic] woman next door.”
+
+       121.   Section 955(e) of the PHRA prohibits “any person, employer, employment
+
+agency, labor organization, or employee to aid, abet, incite, compel, or coerce the doing
+
+of any act declared by this section to be an unlawful discriminatory practice.”
+
+
+
+
+                                             26
+       Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25   Page 27 of 55
+
+
+
+
+       122.    Defendants RHD, Branham and McGriff engaged in materially adverse
+
+retaliation against Ms. Fisher for her protected activity as set forth in this complaint,
+
+including, but not limited to:
+
+            a. Transferring her to a less favorable work location against her will;
+
+            b. Refusing to allow her to work requested hours;
+
+            c. Failing to pay her properly for time worked;
+
+            d. Harassing her in her workplace and spreading false rumors about
+
+               her to other staff members;
+
+            e. Failing to properly investigate or respond to her claims of
+
+               discrimination and retaliation;
+
+            f. Suspending her from employment on or about December 14, 2024;
+
+            g. Terminating her employment on or about January 10, 2025.
+
+       123.    There was a causal connection between Ms. Fisher’s protected activity
+
+under the PHRA and the retaliated materially adverse retaliatory actions taken against
+
+her by Defendants RHD, Branham and McGriff.
+
+       124.    The retaliation endured by Ms. Fisher would dissuade a reasonable
+
+employee from making complaints of discrimination and harassment.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.      Issue a Declaratory Judgment declaring that Defendants’ actions set
+
+               forth herein are unlawful and in violation of the Pennsylvania Human
+
+               Relations Act, 43 Pa. C.S.A. § 951 et seq.;
+
+       B.      Issue preliminary and permanent injunctions enjoining and
+
+               restraining Defendants, their successors, officers, agents, and
+
+
+
+                                             27
+Case 2:25-cv-02401-JP     Document 1       Filed 05/12/25    Page 28 of 55
+
+
+
+
+     employees and those acting in participation with Defendants from
+
+     engaging in any act or practice of discrimination against Plaintiff in
+
+     violation of the Pennsylvania Human Relations Act and ordering
+
+     Defendants to reinstate Plaintiff upon such terms and conditions as
+
+     will return Plaintiff to the position she would have occupied had
+
+     Defendants not unlawfully discriminated against her;
+
+C.   Enter judgment in favor of Plaintiff, and against Defendants, for back
+
+     pay in the amount of wages and fringe benefits in an amount of the
+
+     financial loss determined to have been sustained by her;
+
+D.   Enter judgment in favor of Plaintiff for front pay in lieu of
+
+     reinstatement;
+
+E.   Enter judgment in favor of Plaintiff awarding her liquidated or punitive
+
+     damages to the extent allowable by law for the willful violation of the
+
+     PHRA;
+
+F.   Issue such orders and further relief as may be necessary and
+
+     appropriate in order to redress the deprivation of rights and privileges
+
+     sustained by the Plaintiff; and,
+
+G.   Award Plaintiff reasonable attorney’s fees together with the costs of
+
+     this action.
+
+
+
+                             Count V
+        RETALIATION IN VIOLATION OF PENNSYLVANIA
+     WHISTLEBLOWER LAW 43 P.S. 1421, et seq., as amended
+            Plaintiff Stacy Fisher vs. All Defendants
+
+
+
+
+                                    28
+       Case 2:25-cv-02401-JP      Document 1     Filed 05/12/25   Page 29 of 55
+
+
+
+
+       125.   Plaintiffs incorporate herein by reference the preceding paragraphs as is
+
+set forth at length herein.
+
+       126.   Ms. Fisher was required by Defendant’s RHD’s ethics policies to report
+
+suspected waste, billing fraud, and neglect of consumers.
+
+       127.   Ms. Fisher engaged in protected activity under the PAWBL by reporting
+
+her concerns about the safety and wellbeing of the mentally disabled consumers who she
+
+was assigned to work with during her employment with Defendant RHD to both RHD
+
+management and the Commonwealth investigators who investigated Defendant RHD’s
+
+facilities in November of 2024.
+
+       128.   Ms. Fisher’s protected activity involved reporting fraud involving
+
+government funds to RHD’s Hillary Mufasa in early November of 2024, telling him that
+
+consumers were claiming they were not able to communicate with their support
+
+coordinators, but the coordinators were claiming they were meeting in person with the
+
+consumers and submitting bills for work Ms. Fisher did not believe they were doing.
+
+       129.   Ms. Fisher also reported to RHD’s Kelly McManus and later Hillary Mufasa
+
+that a female outside contractor from One Well had taken a male consumer to a friend’s
+
+house and made him take a shower at the friend’s house which made the consumer very
+
+upset and feel violated. The contractors were taking the consumers to places the
+
+contractors wanted to go, when they were supposed to be going to places the consumers
+
+wanted to go. This was a potential issue of waste and fraud because the outside
+
+contractor was not providing the services they were supposed to provide. She also
+
+reported this to the investigators from the Commonwealth who visited the Coles site in
+
+November or 2024.
+
+
+
+                                          29
+       Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25    Page 30 of 55
+
+
+
+
+       130.   Ms. Fisher’s protected activity also included telling Hillary Mufasa
+
+Defendant Branham was ignoring complaints from a consumer about how another RHD
+
+staff member made him uncomfortable and failed to investigate his complaint. Defendant
+
+RHD’s rules state that if a consumer does not feel comfortable working with an employee
+
+they have the right to request a change.
+
+       131.   Defendants were aware that Ms. Fisher engaged in protected activity
+
+under the PAWBL.
+
+       132.   Defendants retaliated against Ms. Fisher because she engaged in
+
+protected activity under the PAWBL, including, but not limited to:
+
+          a. Refusing to allow her to work requested hours;
+
+          b. Failing to pay her properly for time worked;
+
+          c. Harassing her in her workplace and spreading false rumors about
+
+              her to other staff members;
+
+          d. Failing to properly investigate or respond to her claims of
+
+              discrimination and retaliation;
+
+          e. Suspending her from employment on or about December 14, 2024;
+
+              and
+
+          f. Terminating her employment on or about January 10, 2025.
+
+       133.   The actions of Defendants by and through their agents, servants, and
+
+employees, constitute a violation of the PAWBL.
+
+       134.   As a direct and proximate result of Defendants’ violation of the PAWBL Ms.
+
+Fisher has suffered lost wages, suffered emotional distress, mental anguish, humiliation,
+
+loss of life’s pleasures, pain and suffering, and has incurred attorneys’ fees and costs.
+
+
+
+                                            30
+       Case 2:25-cv-02401-JP        Document 1    Filed 05/12/25     Page 31 of 55
+
+
+
+
+       135.   Ms. Fisher is now suffering, and will continue to suffer, irreparable injury
+
+and monetary damages, as a result of Defendants’ unlawful acts, unless this Court grants
+
+the relief requested herein.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.     Issue a Declaratory Judgment declaring that the retaliatory practices
+
+              set forth herein are unlawful and in violation of the Pennsylvania
+
+              Whistleblower Law, 43 P.S. 1421, et seq.
+
+       B.     Enjoying and permanently restraining the violations alleged herein;
+
+       C.     Compensatory damages to make Ms. Fisher whole for past and
+
+              future lost earnings, benefits and earning capacity;
+
+       D.     Compensatory damages to Ms. Fisher for past and future emotional
+
+              distress, mental anguish, humiliation, loss of life’s pleasures, and
+
+              pain and suffering;
+
+       E.     Punitive damages;
+
+       F.     Reasonable attorneys’ fees and costs; and
+
+       G.     Such other and further relief as this Court deems appropriate.
+
+
+
+                                    COUNT VI
+     Pennsylvania Wage Payment and Collection Law Violations and Retaliation
+                      43 Pa. Stat. Ann. §§ 260.3, et seq.
+                   Plaintiff Stacy Fisher vs. Defendant RHD
+
+
+       136.   Plaintiffs   re-allege and   incorporate by reference the        preceding
+
+paragraphs as though fully set forth herein.
+
+
+
+
+                                            31
+       Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25     Page 32 of 55
+
+
+
+
+       137.   At all times material herein, Ms. Fisher was entitled to the rights, protections
+
+and benefits provided under Pennsylvania Wage Payment and Collection Law
+
+("PWPCL"), 43 Pa. Stat. Ann. §§ 260.3, et seq
+
+       138.   Defendant RHD failed and refused to pay Ms. Fisher her agreed upon
+
+wages, including not paying her for some of the hours she worked, not paying overtime
+
+when required to do so and failing to pay her in a timely manner for hours she worked, all
+
+of which violated the PWPCL.
+
+       139.   At all relevant times, Defendant RHD has been aware of the provisions of
+
+the PWPCL. Defendant RHD’s actions and omissions as alleged herein were knowing,
+
+willful, bad faith, and reckless violations of the PWPCL.
+
+       140.   As a result of the aforesaid willful violations of the PWPCL, compensation
+
+has been unlawfully withheld by Defendant RHD from Ms. Fisher for which Defendant
+
+RHD is liable pursuant to the PWPCL, together with an additional equal amount as
+
+liquidated damages, interest, reasonable attorneys’ fees and the costs of this action.
+
+       141.   The employment and work records for Ms. Fisher are in the exclusive
+
+possession, custody and control of Defendant RHD, so she is unable to state at this time
+
+the exact amounts owing to her.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.     Issue a Declaratory Judgment declaring that the practices set forth
+
+              herein are unlawful and in violation of the Pennsylvania Wage
+
+              Payment and Collection Law
+
+       B.     Enjoying and permanently restraining the violations alleged herein;
+
+
+
+
+                                             32
+       Case 2:25-cv-02401-JP        Document 1     Filed 05/12/25     Page 33 of 55
+
+
+
+
+       C.      Compensatory damages to make Ms. Fisher whole for past and
+
+               future lost earnings, benefits and earning capacity;
+
+       D.      Liquidated damages;
+
+       E.      Reasonable attorneys’ fees and costs; and
+
+       F.      Such other and further relief as this Court deems appropriate.
+
+
+
+                                         COUNT VII
+                           Philadelphia Fair Practices Ordinance
+                              Phila. Code § 9-1101, et seq.
+                         Discrimination and Retaliation due to Sex
+                        Plaintiff Stacy Fisher vs. Defendant RHD
+
+
+       142.    Plaintiffs   re-allege and    incorporate by reference the       preceding
+
+paragraphs as though fully set forth herein.
+
+       143.    Defendant RHD discriminated against Ms. Fisher due to her sex by
+
+transferring her to a less favorable work location against her will and allowing the male
+
+employee who harassed her to stay at her former work location.
+
+       144.    Ms. Fisher engaged in protected activity under the PFPO as set forth in
+
+this complaint, including, but not limited to:
+
+            a. Reporting     sex   related   workplace   harassment,    when    she
+
+               complained to RHD management about Mr. Collins, a male
+
+               employee who had harassed her calling her “Ms. supervisor
+
+               manager lady” on October 26, 2024. See Exhibit C.
+
+            b. Emailing Defendant Branham on October 28, 2024, a complaint of
+
+               discrimination and bias with the subject heading “Unwilling transfer”
+
+               which is attached as Exhibit E.
+
+                                              33
+       Case 2:25-cv-02401-JP        Document 1     Filed 05/12/25    Page 34 of 55
+
+
+
+
+          c. Telling Mr. Mafura on November 5, 2024, about Mr. Collins harassing
+
+               her using misogynistic language and how Defendant Branham
+
+               transferred Ms. Fisher against her will after Ms. Fisher complained
+
+               to Defendant Branham about that sex-based harassment.
+
+          d. Writing to Ms. Gunter on November 20, 2024, about staff sexually
+
+               harassing eldly [sic] woman next door.”
+
+       145.    Defendant RHD engaged in materially adverse retaliation against Ms.
+
+Fisher for her protected activity as set forth in this complaint, including, but not limited
+
+to:
+
+          a. Transferring her to a less favorable work location against her will;
+
+          b. Refusing to allow her to work requested hours;
+
+          c. Failing to pay her properly for time worked;
+
+          d. Harassing her in her workplace and spreading false rumors about
+
+               her to other staff members;
+
+          e. Failing to properly investigate or respond to her claims of
+
+               discrimination and retaliation;
+
+          f. Suspending her from employment on or about December 14, 2024;
+
+          g. Terminating her employment on or about January 10, 2025.
+
+       146.    There was a causal connection between Ms. Fisher’s protected activity
+
+under the PFPO and Defendant RHD’s materially adverse retaliatory actions taken
+
+against her.
+
+       147.    The retaliation endured by Ms. Fisher would dissuade a reasonable
+
+employee from making complaints of discrimination and harassment.
+
+
+
+                                             34
+       Case 2:25-cv-02401-JP         Document 1      Filed 05/12/25   Page 35 of 55
+
+
+
+
+       148.    Defendant RHD retaliated against Ms. Fisher for engaging in protected
+
+activity in violation of the PFPO.
+
+       149.   Defendant’s conduct was outrageous because of the defendant's evil
+
+motive or its reckless indifference to the rights of others.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.     Issue a Declaratory Judgment declaring that Defendants’ actions set
+
+              forth herein are unlawful and in violation of the City of Philadelphia
+
+              Fair Practices Ordinance § 9-1103(1) (PFPO)
+
+       B.     Issue preliminary and permanent injunctions enjoining and
+
+              restraining Defendants, their successors, officers, agents, and
+
+              employees and those acting in participation with Defendants from
+
+              engaging in any act or practice of discrimination against Plaintiff in
+
+              violation of the City of Philadelphia Fair Practices Ordinance and
+
+              ordering Defendants to reinstate Plaintiff upon such terms and
+
+              conditions as will return Plaintiff to the position she would have
+
+              occupied had Defendants not unlawfully discriminated against her;
+
+       C.     Enter judgment in favor of Plaintiff, and against Defendants, for back
+
+              pay in the amount of wages and fringe benefits in an amount of the
+
+              financial loss determined to have been sustained by her;
+
+       D.     Enter judgment in favor of Plaintiff for front pay in lieu of
+
+              reinstatement;
+
+
+
+
+                                              35
+       Case 2:25-cv-02401-JP         Document 1    Filed 05/12/25     Page 36 of 55
+
+
+
+
+      E.     Enter judgment in favor of Plaintiff awarding her liquidated and/or
+
+             punitive damages to the extent allowable by law for the willful
+
+             violation of the PFPO;
+
+      F.     Issue such orders and further relief as may be necessary and
+
+             appropriate in order to redress the deprivation of rights and privileges
+
+             sustained by the Plaintiff; and,
+
+      G.     Award Plaintiff reasonable attorney’s fees together with the costs of
+
+             this action.
+
+
+
+                                          COUNT VIII
+                                          Defamation
+                          Plaintiff Stacy Fisher vs. All Defendants
+
+
+      150.   Plaintiffs     re-allege and   incorporate by reference the         preceding
+
+paragraphs as though fully set forth herein.
+
+      151.   Ms. Fisher is a private individual as defined by applicable Pennsylvania
+
+defamation law.
+
+      152.   While acting in her capacity as management employee of Defendant RHD,
+
+Defendant McGriff knowingly and falsely and/or with reckless disregard for the truth,
+
+stated that Ms. Fisher had committed theft or misappropriation of RHD or client property,
+
+cash, credit, or funds. during a Zoom call on or about January 13, 2025, which included
+
+at least one other party, Amira Thomas.
+
+      153.   Upon information and belief, Defendant McGriff told additional individuals
+
+that Ms. Fisher had committed theft or misappropriation of RHD or client property, cash,
+
+
+
+
+                                             36
+       Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25     Page 37 of 55
+
+
+
+
+credit, or funds, while acting in her capacity as management employee of Defendant
+
+RHD.
+
+       154.   While acting in her capacity as management employee of Defendant RHD,
+
+Defendant McGriff caused a letter to be written dated January 10, 2025, that knowingly
+
+and falsely and/or with reckless disregard for the truth, stated that Ms. Fisher had
+
+committed theft or misappropriation of RHD or client property, cash, credit, or funds.
+
+Exhibit R.
+
+       155.   Upon information and belief, Defendant McGriff published this letter by
+
+allowing one or more other people to read it.
+
+       156.   Pleading in the alternative, Ms. Fisher alleges that Defendant McGriff’s
+
+defamatory statements may have been made negligently without exercising reasonable
+
+care in establishing their accuracy.
+
+       157.   Upon information and belief, while acting in her capacity as management
+
+employee of Defendant RHD, Defendant Branham knowingly and falsely and/or with
+
+reckless disregard for the truth told others that Ms. Fisher had committed theft or
+
+misappropriation of RHD or client property, cash, credit, or funds.
+
+       158.   Pleading in the alternative, Ms. Fisher alleges that Defendant Branham’s
+
+defamatory statements may have been made negligently without exercising reasonable
+
+care in establishing their accuracy.
+
+       159.   Ms. Fisher had not committed theft or misappropriation of RHD or client
+
+property, cash, credit, or funds.
+
+       160.   The    false   accusation   that    Ms.   Fisher   had   committed   theft   or
+
+misappropriation of RHD or client property, cash, credit, or funds is defamation per se.
+
+
+
+                                             37
+       Case 2:25-cv-02401-JP        Document 1       Filed 05/12/25     Page 38 of 55
+
+
+
+
+       161.   The   false   accusation    that     Ms.   Fisher   had   committed   theft   or
+
+misappropriation of RHD or client property, cash, credit, or funds resulted in harm to Ms.
+
+Fisher including the termination of her employment and harm to her personal and
+
+professional reputation, resulting in past, present and future loss of earnings and benefits,
+
+emotional distress, mental anguish and suffering, personal humiliation, loss of life’s
+
+pleasures, pain and suffering, and has incurring attorneys’ fees and costs.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.     Issue a Declaratory Judgment declaring that Defendants’ actions set
+
+              forth herein were defamatory.
+
+       B.     Issue preliminary and permanent injunctions enjoining and
+
+              restraining Defendants, their successors, officers, agents, and
+
+              employees and those acting in participation with Defendants from
+
+              engaging in any act or practice of defamation against Plaintiff;
+
+       C.     Enter judgment in favor of Plaintiff, and against Defendants, for past
+
+              and future economic losses, including amount of wages and fringe
+
+              benefits in an amount of the financial loss determined to have been
+
+              sustained by her;
+
+       D.     Enter judgment in favor of Plaintiff, and against Defendants, for past
+
+              and future harm to Plaintiff’s personal and professional reputation,
+
+              emotional distress, mental anguish and suffering, personal
+
+              humiliation, loss of life’s pleasures, pain and suffering.
+
+
+
+
+                                              38
+       Case 2:25-cv-02401-JP         Document 1      Filed 05/12/25    Page 39 of 55
+
+
+
+
+       E.      Enter judgment in favor of Plaintiff, and against Defendants, for
+
+               punitive damages if the defamatory statements were made
+
+               knowingly and falsely or with reckless disregard for the truth.
+
+       F.      Issue such orders and further relief as may be necessary and
+
+               appropriate in order to redress the deprivation of rights and privileges
+
+               sustained by the Plaintiff.
+
+
+
+                                         COUNT IX
+                            Title VII, 42 U.S. C. $ 2000e-3(a)
+                     Retaliation for Reporting Sexual Harassment
+                Plaintiff Braheem Boardley-Murray vs. Defendant RHD
+
+
+       162.    Plaintiffs re-allege and      incorporate by reference the          preceding
+
+paragraphs as though fully set forth herein.
+
+       163.    Mr. Boardley-Murray engaged in protected activity under Title VII as set
+
+forth in this complaint, including, but not limited to:
+
+            a. On or about October 31, 2024, Mr. Boardley-Murray contacted his
+
+               director Defendant McGriff and reported sexual harassment because
+
+               his co-worker Alexis was telling people that he was sleeping with his
+
+               cousin, Ms. Fisher, which was not true.
+
+            b. In early November of 2024 Mr. Boardley-Murray met with Mr. Hillary
+
+               Mafura, who was conducting an investigation of the Coles site and
+
+               discussed his sexual harassment concerns about the rumor Alexis
+
+               was spreading about him.
+
+
+
+
+                                              39
+        Case 2:25-cv-02401-JP          Document 1    Filed 05/12/25   Page 40 of 55
+
+
+
+
+               c. On or about November 20, 2024, reporting to Mr. Briley that a woman
+
+                  who lived next door to the group home, alleged that an RHD
+
+                  employee Kyle Murray (no relation) was sexually harassing her. Mr.
+
+                  Briley reported the sexual harassment to Defendant Branham and
+
+                  Defendant McGriff.
+
+        164.      Defendant RHD engaged in materially adverse retaliation against Mr.
+
+Boardley-Murray for his protected activity as set forth in this complaint, including, but
+
+not limited to:
+
+               a. Harassing him in her workplace and spreading false rumors about
+
+                  him to other staff members;
+
+               b. Failing to properly investigate or respond to his claims of
+
+                  discrimination and retaliation;
+
+               c. Putting him on administrative leave on or about December 23, 2024;
+
+                  and
+
+               d. Terminating his employment on or about January 10, 2025.
+
+        165.      There was a causal connection between Mr. Boardley-Murray’s protected
+
+activity under the Title VII and Defendant RHD’s materially adverse retaliatory actions
+
+taken against him.
+
+        166.      The retaliation endured by Mr. Boardley-Murray would dissuade a
+
+reasonable employee from making complaints of discrimination, harassment, and
+
+retaliation.
+
+        167.       Defendant RHD retaliated against Mr. Boardley-Murray for engaging in
+
+protected activity in violation of Section 704(a) of Title VII, 42 U.S.C. § 2000e-3(a).
+
+
+
+                                                40
+      Case 2:25-cv-02401-JP            Document 1      Filed 05/12/25    Page 41 of 55
+
+
+
+
+WHEREFORE, Plaintiff Braheem Boardley-Murray respectfully requests this Court:
+
+      A.         Issue a Declaratory Judgment declaring that Defendant RHD’s
+
+                 actions as set forth in this Complaint are unlawful and violate Title
+
+                 VII.
+
+      B.         Issue equitable/injunctive relief including:
+
+           (1)      Issue preliminary and permanent injunctions enjoining and
+
+                    restraining Defendant RHD, its officers, agents, employees, and
+
+                    those acting in participation with Defendant RHD, from engaging
+
+                    in any act or practice of harassment, discrimination, and/or
+
+                    retaliation against employees in violation of Title VII.
+
+           (2)      Order Defendant RHD to provide training to all employees on
+
+                    harassment, discrimination, and retaliation prevention and
+
+                    related compliance under Title VII—with the training specifics to
+
+                    be tailored to the problems, deficiencies, and gaps that the
+
+                    evidence shows.
+
+           (3)      Order Defendant RHD to deliver to its employees a copy of the
+
+                    jury verdict and trial court judgment.
+
+           (4)      Order Defendant RHD to report on the manner of compliance with
+
+                    the terms of any final order for non-monetary equitable relief
+
+                    issued under Title VII—with the reporting specifics to be tailored
+
+                    based on the evidence.
+
+           (5)      Order Defendant RHD to reinstate Mr. Boardley-Murray upon
+
+                    such terms and conditions as will put him in the position he would
+
+
+
+                                                41
+Case 2:25-cv-02401-JP      Document 1    Filed 05/12/25    Page 42 of 55
+
+
+
+
+        have occupied had Defendant RHD not unlawfully discriminated
+
+        against him.
+
+C.   Enter judgment in favor of Mr. Boardley-Murray and against
+
+     Defendant RHD for back pay, including wages and fringe benefits.
+
+D.   Enter judgment in favor of Mr. Boardley-Murray for front pay in lieu
+
+     of reinstatement.
+
+E.   Enter judgment in favor of Mr. Boardley-Murray and against
+
+     Defendant RHD for compensatory damages for emotional distress,
+
+     career damage, loss of earnings capacity, mental anguish,
+
+     humiliation, embarrassment, and loss of dignity.
+
+F.   Enter judgment in favor of Mr. Boardley-Murray and against
+
+     Defendant RHD for punitive damages, as allowable by law.
+
+G.   Award Mr. Boardley-Murray reasonable attorney’s fees together with
+
+     the costs of this action.
+
+H.   Award Mr. Boardley-Murray pre-judgment and post-judgment
+
+     interest.
+
+I.   Enter judgment in favor of Mr. Boardley-Murray for any other
+
+     monetary losses as a direct result of Defendant RHD’s violation of
+
+     Title VII, including but not limited to negative tax consequence
+
+     damages.
+
+J.   Award such other and further legal and equitable relief as may be
+
+     necessary and appropriate to redress fully the deprivation of Mr.
+
+
+
+
+                                  42
+       Case 2:25-cv-02401-JP       Document 1     Filed 05/12/25    Page 43 of 55
+
+
+
+
+             Boardley-Murray’s rights, to prevent their recurrence in the future
+
+             and to protect other employees from such unlawful behavior.
+
+
+                                       COUNT X
+              VIOLATION OF PENNSYLVANA HUMAN RELATIONS ACT
+                     Retaliation for Reporting Sexual Harassment
+                 Plaintiff Braheem Boardley-Murray v. All Defendants
+
+
+      168.   Plaintiffs   re-allege and    incorporate by reference the         preceding
+
+paragraphs as though fully set forth herein.
+
+      169.   Mr. Boardley-Murray engaged in protected activity under the PHRA by
+
+reporting sexual harassment as set forth in this complaint, including, but not limited to:
+
+          a. On or about October 31, 2024, Mr. Boardley-Murray contacted his
+
+             director Defendant McGriff and reported sexual harassment because
+
+             his co-worker Alexis was telling people that he was sleeping with his
+
+             cousin, Ms. Fisher, which was not true.
+
+          b. In early November of 2024 Mr. Boardley-Murray met with Mr. Hillary
+
+             Mafura, who was conducting an investigation of the Coles site and
+
+             discussed his sexual harassment concerns about the rumor Alexis
+
+             was spreading about him.
+
+          c. On or about November 20, 2024, reporting to Mr. Briley that a woman
+
+             who lived next door to the group home, alleged that an RHD
+
+             employee Kyle Murray (no relation) was sexually harassing her. Mr.
+
+             Briley reported the sexual harassment to Defendant Branham and
+
+             Defendant McGriff.
+
+
+
+
+                                            43
+         Case 2:25-cv-02401-JP        Document 1     Filed 05/12/25   Page 44 of 55
+
+
+
+
+         170.    Section 955(e) of the PHRA prohibits “any person, employer, employment
+
+agency, labor organization, or employee to aid, abet, incite, compel, or coerce the doing
+
+of any act declared by this section to be an unlawful discriminatory practice.”
+
+         171.    Defendants RHD, Branham and McGriff engaged in materially adverse
+
+retaliation against Mr. Boardley-Murray for his protected activity as set forth in this
+
+complaint, including, but not limited to:
+
+              a. Harassing him in his workplace and spreading false rumors about
+
+                 him to other staff members;
+
+              b. Failing to properly investigate or respond to his claims of
+
+                 discrimination and retaliation;
+
+              c. Putting him on administrative leave on or about December 23, 2024;
+
+                 and
+
+              d. Terminating his employment on or about January 10, 2025.
+
+         172.    There was a causal connection between Mr. Boardley-Murray’s protected
+
+activity under the PHRA and the retaliated materially adverse retaliatory actions taken
+
+against him by Defendants RHD, Branham and McGriff.
+
+         173.    The retaliation endured by Mr. Boardley-Murray would dissuade a
+
+reasonable e mp lo yee from making complaints of discrimination and harassment.
+
+         WHEREFORE, Plaintiff Braheem Boardley-Murray respectfully requests this
+
+Court:
+
+         A.      Issue a Declaratory Judgment declaring that Defendants’ actions set
+
+                 forth herein are unlawful and in violation of the Pennsylvania Human
+
+                 Relations Act, 43 Pa. C.S.A. § 951 et seq.;
+
+
+
+                                               44
+Case 2:25-cv-02401-JP     Document 1       Filed 05/12/25    Page 45 of 55
+
+
+
+
+B.   Issue preliminary and permanent injunctions enjoining and
+
+     restraining Defendants, their successors, officers, agents, and
+
+     employees and those acting in participation with Defendants from
+
+     engaging in any act or practice of discrimination against Mr.
+
+     Boardley-Murray in violation of the Pennsylvania Human Relations
+
+     Act and ordering Defendants to reinstate Plaintiff upon such terms
+
+     and conditions as will return Plaintiff to the position he would have
+
+     occupied had Defendants not unlawfully discriminated against him;
+
+C.   Enter judgment in favor of Mr. Boardley-Murray, and against
+
+     Defendants, for back pay in the amount of wages and fringe benefits
+
+     in an amount of the financial loss determined to have been sustained
+
+     by him;
+
+D.   Enter judgment in favor of Mr. Boardley-Murray for front pay in lieu
+
+     of reinstatement;
+
+E.   Enter judgment in favor of Mr. Boardley-Murray awarding him
+
+     liquidated or punitive damages to the extent allowable by law for the
+
+     willful violation of the PHRA;
+
+F.   Issue such orders and further relief as may be necessary and
+
+     appropriate in order to redress the deprivation of rights and privileges
+
+     sustained by the Plaintiff; and,
+
+G.   Award Plaintiff reasonable attorney’s fees together with the costs of
+
+     this action.
+
+
+
+
+                                      45
+       Case 2:25-cv-02401-JP      Document 1      Filed 05/12/25     Page 46 of 55
+
+
+
+
+                                      Count XI
+                 RETALIATION IN VIOLATION OF PENNSYLVANIA
+              WHISTLEBLOWER LAW 43 P.S. 1421, et seq., as amended
+                Plaintiff Braheem Boardley-Murray vs. All Defendants
+
+
+       174.   Plaintiffs incorporate herein by reference the preceding paragraphs as is
+
+set forth at length herein.
+
+       175.   Mr. Boardley-Murray was required by Defendant’s RHD’s ethics policies to
+
+report suspected waste, billing fraud, and neglect of consumers.
+
+       176.   Mr. Boardley-Murray engaged in protected activity under the PAWBL,
+
+which included, but is not limited to providing the Commonwealth investigators with
+
+information on the following issues involving potential waste, fraud and neglect:
+
+          a. One of the consumers was not being given eye drops that he needed
+
+              by RHD staff members Alexis and Steven Collins, and they were
+
+              falsely recording in a book that they had been giving the medication.
+
+              They had falsely claimed to have given the eye drops even on days
+
+              when the medication was not available to be given.
+
+          b. Consumers were claiming they were not able to meet with their
+
+              support coordinators, but the coordinators were claiming they were
+
+              meeting in person with the consumers and submitting bills for work
+
+              Mr. Boardley-Murray did not believe they were doing.
+
+          c. Consumers had complaints that were being ignored because
+
+              Defendant McGriff and Kelly McManus, another RHD manager, were
+
+              preventing the consumers from making their complaints known.
+
+
+
+
+                                            46
+       Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25       Page 47 of 55
+
+
+
+
+          d. RHD employee Steven Collins was taking consumers out to shop but
+
+              then taking the consumer’s money and using it for himself.
+
+          e. A consumer reported that an outside contractor from One Well had
+
+              taken the consumer to a friend’s house and made him take a shower
+
+              at the friend’s house which made the consumer very upset and feel
+
+              violated. The contractors were taking the consumers to places the
+
+              contractors wanted to go, when they were supposed to be going to
+
+              places the consumers wanted to go. This was a potential issue of
+
+              waste and fraud because the outside contractor was not providing
+
+              the services they were supposed to provide.
+
+       177.   Mr. Boardley-Murray told RHD investigator Hillary Mufasa in November
+
+2024 about these same concerns.
+
+       178.   On December 11, Mr. Boardley-Murray communicated with Michelle
+
+Holmes, an RHD supervisor about a potential neglect incident where RHD employee
+
+Alexis had started a night shift at the Cole site and forced a consumer who had been
+
+watching TV in the living room to go into his room, shut his door and told the consumer
+
+not to come out so she could sleep during her shift.
+
+       179.   Defendants were aware that Mr. Boardley-Murray engaged in protected
+
+activity under the PAWBL.
+
+       180.   Defendants retaliated against Mr. Boardley-Murray because he engaged
+
+in protected activity under the PAWBL, including, but not limited to:
+
+          a. Harassing him in his workplace and spreading false rumors about
+
+              him to other staff members;
+
+
+
+                                            47
+       Case 2:25-cv-02401-JP        Document 1     Filed 05/12/25    Page 48 of 55
+
+
+
+
+            b. Failing to properly investigate or respond to his claims of
+
+               discrimination and retaliation;
+
+            c. Putting him on administrative leave on or about December 23, 2024;
+
+               and
+
+            d. Terminating his employment on or about January 10, 2025.
+
+       181.    The actions of Defendants by and through their agents, servants, and
+
+employees, constitute a violation of the PAWBL.
+
+       182.    As a direct and proximate result of Defendants’ violation of the PAWBL Mr.
+
+Boardley-Murray has suffered lost wages, suffered emotional distress, mental anguish,
+
+humiliation, loss of life’s pleasures, pain and suffering, and has incurred attorneys’ fees
+
+and costs.
+
+       183.    Mr. Boardley-Murray is now suffering, and will continue to suffer,
+
+irreparable injury and monetary damages, as a result of Defendants’ unlawful acts, unless
+
+this Court grants the relief requested herein.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.      Issue a Declaratory Judgment declaring that the retaliatory practices
+
+               set forth herein are unlawful and in violation of the Pennsylvania
+
+               Whistleblower Law, 43 P.S. 1421, et seq.;
+
+       B.      Enjoying and permanently restraining the violations alleged herein;
+
+       C.      Compensatory damages to make Mr. Boardley-Murray whole for
+
+               past and future lost earnings, benefits and earning capacity;
+
+
+
+
+                                             48
+       Case 2:25-cv-02401-JP       Document 1      Filed 05/12/25   Page 49 of 55
+
+
+
+
+      D.      Compensatory damages to Mr. Boardley-Murray for past and future
+
+              emotional distress, mental anguish, humiliation, loss of life’s
+
+              pleasures, and pain and suffering;
+
+      E.      Punitive damages;
+
+      F.      Reasonable attorneys’ fees and costs; and
+
+      G.      Such other and further relief as this Court deems appropriate.
+
+
+
+                                        COUNT XII
+                           Philadelphia Fair Practices Ordinance
+                              Phila. Code § 9-1101, et seq.
+                     Retaliation due to reporting Sexual Harassment
+                Plaintiff Braheem Boardley-Murray vs. Defendant RHD
+
+
+      184.    Plaintiffs   re-allege and   incorporate by reference the         preceding
+
+paragraphs as though fully set forth herein.
+
+      185.    Mr. Boardley-Murray engaged in protected activity under the PFPO by
+
+reporting sexual harassment as set forth in this complaint, including, but not limited to:
+
+           a. On or about October 31, 2024, Mr. Boardley-Murray contacted his
+
+              director Defendant McGriff and reported sexual harassment because
+
+              his co-worker Alexis was telling people that he was sleeping with his
+
+              cousin, Ms. Fisher, which was not true.
+
+           b. In early November Mr. Boardley-Murray met with Mr. Hillary Mafura,
+
+              who was conducting an investigation of the Coles site and discussed
+
+              his sexual harassment concerns about the rumor Alexis was
+
+              spreading about him.
+
+
+
+
+                                            49
+       Case 2:25-cv-02401-JP        Document 1       Filed 05/12/25   Page 50 of 55
+
+
+
+
+           c. On or about November 20, 2024, reporting to Mr. Briley that a woman
+
+              who lived next door to the group home, alleged that an RHD
+
+              employee Kyle Murray (no relation) was sexually harassing her. Mr.
+
+              Briley reported the sexual harassment to Defendant Branham and
+
+              Defendant McGriff.
+
+       186.   Defendant RHD engaged in materially adverse retaliation against Mr.
+
+Boardley-Murray for his protected activity as set forth in this complaint, including, but
+
+not limited to:
+
+           a. Harassing him in his workplace and spreading false rumors about
+
+              him to other staff members;
+
+           b. Failing to properly investigate or respond to his claims of
+
+              discrimination and retaliation;
+
+           c. Putting him on administrative leave on or about December 23, 2024;
+
+           d. Terminating his employment on or about January 10, 2025.
+
+       187.   There was a causal connection between Mr. Boardley-Murray’s protected
+
+activity under the PFPO and Defendant RHD’s materially adverse retaliatory actions
+
+taken against him.
+
+       188.   The retaliation endured by Mr. Boardley-Murray would dissuade a
+
+reasonable employee from making complaints of discrimination and harassment.
+
+       189.       Defendant RHD retaliated against Mr. Boardley-Murray for engaging in
+
+protected activity in violation of the PFPO.
+
+       190.   Defendant’s conduct was outrageous because of the defendant's evil
+
+motive or its reckless indifference to the rights of others.
+
+
+
+                                              50
+Case 2:25-cv-02401-JP      Document 1       Filed 05/12/25    Page 51 of 55
+
+
+
+
+WHEREFORE, Plaintiff respectfully requests this Court to:
+
+A.    Issue a Declaratory Judgment declaring that Defendants’ actions set
+
+      forth herein are unlawful and in violation of the City of Philadelphia
+
+      Fair Practices Ordinance § 9-1103(1) (PFPO)
+
+B.    Issue preliminary and permanent injunctions enjoining and
+
+      restraining Defendants, their successors, officers, agents, and
+
+      employees and those acting in participation with Defendants from
+
+      engaging in any act or practice of discrimination against Plaintiff in
+
+      violation of the City of Philadelphia Fair Practices Ordinance and
+
+      ordering Defendants to reinstate Plaintiff upon such terms and
+
+      conditions as will return Plaintiff to the position he would have
+
+      occupied had Defendants not unlawfully discriminated against him;
+
+C.    Enter judgment in favor of Plaintiff, and against Defendants, for back
+
+      pay in the amount of wages and fringe benefits in an amount of the
+
+      financial loss determined to have been sustained by him;
+
+D.    Enter judgment in favor of Plaintiff for front pay in lieu of
+
+      reinstatement;
+
+E.    Enter judgment in favor of Plaintiff awarding him liquidated and/or
+
+      punitive damages to the extent allowable by law for the willful
+
+      violation of the PFPO;
+
+F.    Issue such orders and further relief as may be necessary and
+
+      appropriate in order to redress the deprivation of rights and privileges
+
+      sustained by the Plaintiff; and,
+
+
+
+                                     51
+       Case 2:25-cv-02401-JP        Document 1    Filed 05/12/25   Page 52 of 55
+
+
+
+
+      G.     Award Plaintiff reasonable attorney’s fees together with the costs of
+
+             this action.
+
+
+
+                                     COUNT XIII
+                                      Defamation
+               Plaintiff Braheem Boardley-Murray vs.vs. All Defendants
+
+      191.   Plaintiffs     re-allege and   incorporate by reference the      preceding
+
+paragraphs as though fully set forth herein.
+
+      192.   Mr. Boardley-Murray is a private individual as defined by applicable
+
+Pennsylvania defamation law.
+
+      193.   While acting in her capacity as management employee of Defendant RHD,
+
+Defendant McGriff knowingly and falsely and/or with reckless disregard for the truth
+
+caused a letter to be written dated January 10, 2025, claiming Mr. Boardley-Murray
+
+violated safety or health policies and/or negligent/unsafe behaviors that may endanger
+
+another person, destruction of property and/or equipment. Exhibit S.
+
+      194.   Upon information and belief, Defendant McGriff published this letter by
+
+allowing one or more other people to read it.
+
+      195.   Upon information and belief, while acting in her capacity as management
+
+employee of Defendant RHD, Defendant McGriff knowingly and falsely and/or with
+
+reckless disregard for the truth told others that Mr. Boardley-Murray violated safety or
+
+health policies and/or negligent/unsafe behaviors that may endanger another person,
+
+destruction of property and/or equipment.
+
+
+
+
+                                            52
+       Case 2:25-cv-02401-JP      Document 1      Filed 05/12/25    Page 53 of 55
+
+
+
+
+      196.   Pleading in the alternative, Mr. Boardley-Murray alleges that Defendant
+
+McGriff’s defamatory statements may have been made negligently without exercising
+
+reasonable care in establishing their accuracy.
+
+      197.   Upon information and belief, while acting in her capacity as management
+
+employee of Defendant RHD, Defendant Branham knowingly and falsely and/or with
+
+reckless disregard for the truth told others that Mr. Boardley-Murray violated safety or
+
+health policies and/or negligent/unsafe behaviors that may endanger another person,
+
+destruction of property and/or equipment.
+
+      198.   Pleading in the alternative, Mr. Boardley-Murray alleges that Defendant
+
+Branham’s defamatory statements may have been made negligently without exercising
+
+reasonable care in establishing their accuracy.
+
+      199.   Mr. Boardley-Murray had not violated safety or health policies and/or
+
+negligent/unsafe behaviors that may endanger another person, destruction of property
+
+and/or equipment.
+
+      200.   The false accusation that Mr. Boardley-Murray violated safety or health
+
+policies and/or negligent/unsafe behaviors that may endanger another person,
+
+destruction of property and/or equipment is defamation per se.
+
+      201.   The false accusation that Mr. Boardley-Murray violated safety or health
+
+policies and/or negligent/unsafe behaviors that may endanger another person,
+
+destruction of property and/or equipment resulted in harm to Mr. Boardley-Murray
+
+including the termination of his employment and harm to his personal and professional
+
+reputation, resulting in past, present and future loss of earnings and benefits, emotional
+
+
+
+
+                                            53
+       Case 2:25-cv-02401-JP        Document 1      Filed 05/12/25     Page 54 of 55
+
+
+
+
+distress, mental anguish and suffering, personal humiliation, loss of life’s pleasures, pain
+
+and suffering, and incurring attorneys’ fees and costs.
+
+       WHEREFORE, Plaintiff respectfully requests this Court to:
+
+       A.     Issue a Declaratory Judgment declaring that Defendants’ actions set
+
+              forth herein were defamatory.
+
+       B.     Issue preliminary and permanent injunctions enjoining and
+
+              restraining Defendants, their successors, officers, agents, and
+
+              employees and those acting in participation with Defendants from
+
+              engaging in any act or practice of defamation against Plaintiff;
+
+       C.     Enter judgment in favor of Plaintiff, and against Defendants, for past
+
+              and future economic losses, including amount of wages and fringe
+
+              benefits in an amount of the financial loss determined to have been
+
+              sustained by her;
+
+       D.     Enter judgment in favor of Plaintiff, and against Defendants, for past
+
+              and future harm to Plaintiff’s personal and professional reputation,
+
+              emotional distress, mental anguish and suffering, personal
+
+              humiliation, loss of life’s pleasures, pain and suffering.
+
+       E.     Enter judgment in favor of Plaintiff, and against Defendants, for
+
+              punitive damages if the defamatory statements were made
+
+              knowingly and falsely or with reckless disregard for the truth.
+
+       F.     Issue such orders and further relief as may be necessary and
+
+              appropriate in order to redress the deprivation of rights and privileges
+
+              sustained by the Plaintiff.
+
+
+
+                                              54
+      Case 2:25-cv-02401-JP       Document 1       Filed 05/12/25    Page 55 of 55
+
+
+
+
+                                    JURY DEMAND
+
+     Plaintiffs hereby demand a jury to try all claims triable by jury.
+
+
+
+                                                 Respectfully submitted,
+
+
+
+
+                                                    Joseph F. Schwartz, Esq.
+                                                 By:______________________
+Date: May 12, 2025                               SILVER & SILVER
+                                                 Joseph F. Schwartz, Esquire
+                                                 Attorney for Plaintiff Brittany Greenleaf
+                                                 Identification No.: 87550
+                                                 42 W. Lancaster Ave., Third Floor
+                                                 Ardmore, PA 19003
+                                                 (610) 658 – 1900
+
+
+
+
+                                            55
+

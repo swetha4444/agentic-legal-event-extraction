@@ -1,0 +1,868 @@
+Source URL: https://www.courtlistener.com/docket/26976268/1/susko-v-weidenhammer-systems-corporation/
+Title: Complaint (Attorney) – #1 in SUSKO v. WEIDENHAMMER SYSTEMS CORPORATION (E.D. Pa., 5:20-cv-06543) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 5:20-cv-06543-JFL
+                                                       CIVILDocument
+                                                             COVER1SHEET
+                                                                     Filed 12/30/20 Page 1 of 16
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+          AKANTHA SUSKO                                                                                        WEIDENHAMMER SYSTEMS CORPORATION
+    (b)   County of Residence of First Listed Plaintiff                CARBON                                  County of Residence of First Listed Defendant                                 BERKS
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+
+          Sidney L. Gold, Esquire - Sidney L. Gold & Assoc., P.C.
+          1835 Market St., Ste. 515, Phila, PA 19103 215-569-1999
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                           and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF          DEF                                              PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State          ✖ 1            1           Incorporated or Principal Place         4     4
+                                                                                                                                                                  of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2              2      Incorporated and Principal Place                5        5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                                  of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3              3      Foreign Nation                                  6        6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                          BANKRUPTCY                                   OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158                            375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                                   376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                                       3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                                  410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                 820 Copyrights                                  430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                               830 Patent                                      450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                               835 Patent - Abbreviated                        460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                      New Drug Application                        470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                       840 Trademark                                       Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets                        480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                  Act of 2016                                     (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                               485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                                      Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                                 490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)                             850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                               Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                               890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                                 891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                               893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                                895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff                            Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                               896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party                              899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                                     Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                                            Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                                 950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                               State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                                8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                                 Litigation -
+                                                                                                                                  (specify)                 Transfer                                     Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             TITLE VII, PHRA
+VI. CAUSE OF ACTION                          Brief description of cause:
+
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                               150,000 IN EXCESS                                JURY DEMAND:                           ✖   Yes       No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+                                                                                                                                               Digitally signed by Sidney L. Gold, Esquire
+12/30/2020                                                                  Sidney L. Gold, Esquire                                            Date: 2020.12.30 13:53:17 -05'00'
+
+
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                                         MAG. JUDGE
+JS 44 Reverse (Rev. 10/20)   Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 2 of 16
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statue.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+                              Case 5:20-cv-06543-JFL
+                                                UNITEDDocument  1 Filed
+                                                      STATES DISTRICT    12/30/20 Page 3 of 16
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                       1250 W. 10th Street, Jim Thorpe, Pennsylvania 18229
+Address of Plaintiff: ______________________________________________________________________________________________
+                                   935 Berkshire Boulevard, Wyomissing, Pennsylvania 19610
+Address of Defendant: ____________________________________________________________________________________________
+                                                 935 Berkshire Boulevard, Wyomissing, Pennsylvania 19610
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      12/30/2020
+DATE: __________________________________
+                                                                          /s/ Sidney L. Gold, Esq.
+                                                             __________________________________________                                     21374
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+     SIDNEY L. GOLD, ESQUIRE counsel of record or pro se plaintiff, do hereby certify:
+I, ____________________________________________,
+
+      ✔       Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     ✔        Relief other than monetary damages is sought.
+
+
+      12/30/2020
+DATE: __________________________________
+                                                                                /s/ Sidney L. Gold, Esq.
+                                                             __________________________________________                                     21374
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+              Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 4 of 16
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+    AKANTHA SUSKO                                 :                          CIVIL ACTION
+                                                  :
+                        v.                        :
+    WEIDENHAMMER SYSTEMS                          :
+                                                  :                          NO.
+    CORPORATION
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( )
+                                                                                                      ✔
+
+
+
+
+12/30/2020                         /s/ Sidney L. Gold, Esq.        PLAINTIFF
+Date                                Attorney-at-law                    Attorney for
+(215) 569-1999                  (215) 569-3870                        sgold@discrimlaw.net
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+           Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 5 of 16
+
+                              Civil Justice Expense and Delay Reduction Plan
+                             Section 1:03 - Assignment to a Management Track
+
+    (a)          The clerk of court will assign cases to tracks (a) through (d) based on the initial pleading.
+
+    (b)           In all cases not appropriate for assignment by the clerk of court to tracks (a) through (d), the
+plaintiff shall submit to the clerk of court and serve with the complaint on all defendants a case management
+track designation form specifying that the plaintiff believes the case requires Standard Management or
+Special Management. In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on the
+plaintiff and all other parties, a case management track designation form specifying the track to which that
+defendant believes the case should be assigned.
+    (c)         The court may, on its own initiative or upon the request of any party, change the track
+assignment of any case at any time.
+
+     (d)         Nothing in this Plan is intended to abrogate or limit a judicial officer's authority in any case
+pending before that judicial officer, to direct pretrial and trial proceedings that are more stringent than those
+of the Plan and that are designed to accomplish cost and delay reduction.
+     (e)        Nothing in this Plan is intended to supersede Local Civil Rules 40.1 and 72.1, or the
+procedure for random assignment of Habeas Corpus and Social Security cases referred to magistrate judges
+of the court.
+
+                            SPECIAL MANAGEMENT CASE ASSIGNMENTS
+                             (See §1.02 (e) Management Track Definitions of the
+                              Civil Justice Expense and Delay Reduction Plan)
+
+     Special Management cases will usually include that class of cases commonly referred to as "complex
+litigation" as that term has been used in the Manuals for Complex Litigation. The first manual was prepared
+in 1969 and the Manual for Complex Litigation Second, MCL 2d was prepared in 1985. This term is
+intended to include cases that present unusual problems and require extraordinary treatment. See §0.1 of the
+first manual. Cases may require special or intense management by the court due to one or more of the
+following factors: (1) large number of parties; (2) large number of claims or defenses; (3) complex factual
+issues; (4) large volume of evidence; (5) problems locating or preserving evidence; (6) extensive discovery;
+(7) exceptionally long time needed to prepare for disposition; (8) decision needed within an exceptionally
+short time; and (9) need to decide preliminary issues before final disposition. It may include two or more
+related cases. Complex litigation typically includes such cases as antitrust cases; cases involving a large
+number of parties or an unincorporated association of large membership; cases involving requests for
+injunctive relief affecting the operation of large business entities; patent cases; copyright and trademark
+cases; common disaster cases such as those arising from aircraft crashes or marine disasters; actions brought
+by individual stockholders; stockholder's derivative and stockholder's representative actions; class actions or
+potential class actions; and other civil (and criminal) cases involving unusual multiplicity or complexity of
+factual issues. See §0.22 of the first Manual for Complex Litigation and Manual for Complex Litigation
+Second, Chapter 33.
+             Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 6 of 16
+
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT
+                 FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+AKANTHA SUSKO,                               :
+             Plaintiff,                      :       CIVIL ACTION NO.:
+                                             :
+                vs.                          :
+                                             :
+WEIDENHAMMER SYSTEMS                         :
+CORPORATION,                                 :
+             Defendant.                      :
+
+                            COMPLAINT AND JURY DEMAND
+
+I.     PRELIMINARY STATEMENT:
+
+       1.       This is an action for an award of damages, attorneys’ fees, and other relief on
+
+behalf of the Plaintiff, Akantha Susko (“Plaintiff Susko”), a former employee of the Defendant,
+
+Weidenhammer Systems Corporation (“Defendant”), who has been harmed by the Defendant’s
+
+discriminatory and retaliatory employment practices.
+
+       2.       This action is brought under Title VII of the Civil Rights Act of 1964 and 1991,
+
+as amended, 42 U.S.C. §2000(e), et seq. (“Title VII”), and the Pennsylvania Human Relations
+
+Act, 43 P.S. §951, et seq. (“PHRA”).
+
+II.    JURISDICTION AND VENUE:
+
+       3.       The jurisdiction of this Court is invoked, and venue is proper in this district,
+
+pursuant to 28 U.S.C. §1331 and §1391 as Plaintiff Susko’s claims are substantively based on
+
+Title VII.
+
+       4.       The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C.
+
+§1367 to consider Plaintiff Susko’s claims arising under the PHRA.
+
+       5.       All conditions precedent to the institution of this suit have been fulfilled and
+
+Plaintiff Susko has satisfied all other jurisdictional prerequisites to the maintenance of this
+
+                                                 1
+            Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 7 of 16
+
+
+
+
+action. On October 16, 2020, a Notice of Right to Sue was issued by the United States Equal
+
+Employment Opportunity Commission (“EEOC”) and this action has been filed within ninety
+
+(90) days of receipt of said notice.
+
+III.   PARTIES:
+
+       6.      Plaintiff, Akantha Susko (“Plaintiff Susko”), is an adult individual and citizen of
+
+the Commonwealth of Pennsylvania, residing therein at 1250 W. 10th Street, Jim Thorpe,
+
+Pennsylvania 18229.
+
+       7.      Defendant, Weidenhammer Systems Corporation (“Defendant”), is a corporation
+
+duly organized and existing under the laws of the Commonwealth of Pennsylvania, maintaining a
+
+place of business therein located at 935 Berkshire Boulevard, Wyomissing, Pennsylvania 19610.
+
+       8.      At all times relevant hereto, Defendant was acting through its agents, servants,
+
+and employees, who were acting within the scope of their authority, course of employment, and
+
+under the direct control of the Defendant.
+
+       9.      At all times material herein, the Defendant is and has been a “person” and an
+
+“employer” as defined under Title VII and the PHRA, and is accordingly subject to the
+
+provisions of each said Act.
+
+IV.    STATEMENT OF FACTS:
+
+       10.     Plaintiff Susko, a female, was employed by the Defendant from on or about
+
+February 13, 2018 until on or about September 19, 2018, the date of her unlawful termination.
+
+       11.     Throughout the duration of her employment with Defendant, Plaintiff Susko held
+
+the title of Account Executive and reported to Gene Farro (“Farro”), Sales Manager. At all times,
+
+Plaintiff Susko performed her responsibilities in a diligent and competent manner.
+
+
+
+
+                                                2
+          Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 8 of 16
+
+
+
+
+       12.     By way of background, throughout the entirety of Plaintiff Susko’s employment,
+
+Defendant employed few women in positions of leadership or management.
+
+       13.     Upon the commencement of Plaintiff Susko’s employment, the Defendant
+
+assigned Plaintiff Susko to the Lehigh Valley sales territory. Thereafter, the Defendant began
+
+subjecting Plaintiff Susko to discrimination based on her sex.
+
+       14.     By way of example, shortly after her hire, Plaintiff Susko began scheduling
+
+meetings with various departments within Defendant to learn more about the company and the
+
+specific role of each department. Said meetings were often dominated by the male heads of the
+
+departments who demonstrated very little interest in Plaintiff Susko or her success with
+
+Defendant.
+
+       15.     Moreover, several employees, including Curtis Johnson (“Johnson”) and Jeremy
+
+Jones (“Jones”) insinuated Plaintiff Susko would have difficulty working under Farro and
+
+instructed her to “be careful” with him. When Plaintiff Susko reached out to Jody Pillar
+
+(“Pillar”), Sales Manager, for tips and suggestions on how best to work with Farro in such a male
+
+dominated culture, Pillar shrugged off Plaintiff Susko’s concerns.
+
+       16.     In or about late February 2018, Plaintiff Susko was sharing suggestions and ideas
+
+during an office meeting when Mark Warner (“Warner”), Customer Experience Officer,
+
+interrupted Plaintiff Susko and stated sarcastically, “honey, good luck,” thereby patronizing
+
+Plaintiff Susko.
+
+       17.     Thereafter, in or about March of 2018, the Defendant held a “Commercial
+
+Kickoff” event during which Defendant’s leadership team presented sales initiatives and goals
+
+for the upcoming year. During said event, Johnson presented a PowerPoint presentation
+
+depicting male athletes and containing sports analogies. Johnson’s presentation was so obviously
+
+
+
+                                                3
+          Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 9 of 16
+
+
+
+
+geared toward male employees that Pam McDonnald (“McDonnald”) shouted “where are the
+
+women?”
+
+       18.     During the same event, Gunars Foldats (“Foldats”), Development Lead, and
+
+Brenda Bittinger (“Bittinger”), Designer, conducted a joint presentation. At the start of said
+
+presentation, Foldats designated Bittinger the sole duty of manning the “clicker” and changing
+
+the slides while Foldat spoke.
+
+       19.     Shortly after said event, Plaintiff Susko learned that Defendant had delegated two
+
+major accounts in her sales territory to Brian Williams (“Williams”), a newly hired Account
+
+Executive. When Plaintiff Susko requested an explanation for said decision, Farro merely
+
+instructed Plaintiff Susko not to worry about it.
+
+       20.     In or about May of 2018, during her first quarterly sales meeting, Farro provided
+
+Plaintiff Susko with positive feedback regarding her performance and instructed her to “keep
+
+doing what you’re doing.” Farro additionally informed Plaintiff Susko that Chuck Zwicker
+
+(“Zwicker”), Senior Vice President, was impressed with her email campaigns.
+
+       21.     Later the same month, Plaintiff Susko reached out to McDonnald to discuss her
+
+experiences and employment with Defendant. When Plaintiff Susko asked McDonnald how she
+
+was, McDonnald responded, “I’m a woman that works at Weidenhammer, how do you think I
+
+am?” thereby expressing her dissatisfaction with Defendant’s discriminatory treatment of
+
+woman.
+
+       22.     During the course of the aforesaid conversation between Plaintiff Susko and
+
+McDonnald, and during continuing conversations, McDonnald informed Plaintiff Susko that
+
+Defendant regularly passed over well qualified women for promotions to leadership and
+
+management positions in favor of less qualified males. McDonnald also told Plaintiff Susko that
+
+
+
+                                                    4
+          Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 10 of 16
+
+
+
+
+she had once raised her concerns with Zwicker, who responded that he did not “want to hear that
+
+shit.”
+
+         23.    Moreover, Plaintiff Susko learned from Jones that prior to Plaintiff Susko’s hire,
+
+Farro micromanaged and harassed Jen Gober (“Gober”) in an effort to effectuate her resignation
+
+because she required a space to pump breast milk during the workday. Ultimately, Farro
+
+succeeded by placing Gober on an unjustified performance improvement plan, which caused
+
+Gober to resign.
+
+         24.    In or about July of 2018, Plaintiff Susko learned that two renewing accounts
+
+within her sales territory worth approximately $63,000 had been resigned to Williams, and that
+
+another renewing account in her territory worth approximately $100,000 was also being
+
+reassigned without explanation.
+
+         25.    On or about July 12, 2018, Plaintiff Susko participated in a second quarterly sales
+
+meeting with Farro, Zwicker, and Pillar. During said meeting, Plaintiff Susko presented her
+
+account development and achievements, sales figures, and pipeline figures. Despite Plaintiff
+
+Susko’s success, Zwicker and Farro expressed dissatisfaction with Plaintiff Susko’s sales
+
+performance. When Plaintiff Susko again questioned why accounts within her territory had been
+
+delegated to Williams, Zwicker responded in a bullying manner and threatened to replace
+
+Plaintiff Susko in her territory.
+
+         26.    Shortly thereafter, on or about July 16, 2018, Plaintiff Susko met with Farro to
+
+discuss her discomfort and dissatisfaction with the aforesaid meeting on July 12, 2018. In
+
+response, Farro laughed at Plaintiff Susko and chided her for raising concerns relating to the
+
+reassignment of accounts within her territory. Farro further accused Plaintiff Susko of “looking
+
+for a hand out” and deflected Plaintiff Susko’s questions regarding territory assignment.
+
+
+
+                                                 5
+         Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 11 of 16
+
+
+
+
+       27.     Following her conversation with Farro, Plaintiff Susko compared her closed sales
+
+and pipeline reports with those of Williams and learned that her figures were almost identical to
+
+those of Williams. Said information caused Plaintiff Susko to further question why Defendant
+
+awarded accounts to Williams rather than her.
+
+       28.     Several days thereafter, Jones notified Plaintiff Susko that Farro had arbitrarily
+
+prohibited her from completing a response to a request for proposal and making a sales pitch to
+
+an account. Jones specifically stated that Farro was “digging his heels in” without providing any
+
+explanation.
+
+       29.     Moreover, John Schleh (“Schleh”) noted to Plaintiff Susko that he felt it was
+
+strange that Farro only highlighted the accomplishments of male Account Executives during
+
+sales meetings despite Plaintiff Susko’s overwhelmingly positive feedback from Defendant’s
+
+marketing department and consulting group.
+
+       30.     Significantly, on or about August 8, 2018, Plaintiff Susko learned from Skylin
+
+Renno, a former Account Executive, that Defendant had recently offered Jacob Henne, a male, a
+
+salary of $65,000 per year to fill an Account Executive position, although Plaintiff Susko earned
+
+only $50,000 per year.
+
+       31.     On or about August 10, 2018, Plaintiff Susko participated in a call with Farro to
+
+discuss strategies to uncover potential accounts and increase sales revenue. During said call,
+
+Plaintiff Susko again questioned Defendant’s policies regarding account assignment. Not only
+
+did Farro decline to provide Plaintiff Susko with any suggestions for continued success, but he
+
+also demanded that she “let go” any concerns she had regarding account assignment.
+
+       32.     Thereafter, on or about August 17, 2018, Plaintiff Susko and Farro held a follow
+
+up meeting to discuss their call the previous week. During said meeting, Plaintiff Susko informed
+
+
+
+                                                6
+         Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 12 of 16
+
+
+
+
+Farro that she needed to be able to trust that she would be treated fairly based upon the work she
+
+was doing and her expertise, and expressed her concern that she was not being treated fairly in
+
+terms of compensation provided to Williams, her male counterpart.
+
+       33.      As no corrective action occurred, on or about September 7, 2018, Plaintiff Susko
+
+registered another complaint of sex discrimination with Stacey Spinka (“Spinka”), Human
+
+Resources Director. In response, Spinka acknowledged that “things certainly could have been
+
+handled better” and noted that Farro had “chinks in his armor.” Spinka assured Plaintiff Susko
+
+that she would conduct an investigation into her allegations.
+
+       34.      Approximately one week thereafter, on or about September 14, 2018, Plaintiff
+
+Susko inquired as to the status of Spinka’s investigation, however Spinka advised Plaintiff Susko
+
+that she had not had time to begin the same.
+
+       35.      In a further act of discrimination, on or about September 17, 2018, Farro
+
+delegated yet another account in Plaintiff Susko’s sales territory to Williams. When Plaintiff
+
+Susko attempted to discuss the same, Farro became agitated and began interrogating Plaintiff
+
+Susko’s regarding her arrival time.
+
+       36.      Immediately thereafter, Plaintiff Susko telephoned Spinka and relayed Farro’s
+
+hostile and intimidating conduct. In response, Spinka stated dismissively “[Farro] can manage
+
+however he wants,” and noted that it appeared Plaintiff Susko’s relationship with Farro would
+
+not improve.
+
+       37.      On or about September 19, 2018, in a blatant act of retaliation, Defendant
+
+terminated Plaintiff Susko’s employment, allegedly as a result of a “misalignment of
+
+expectations.
+
+
+
+
+                                                7
+         Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 13 of 16
+
+
+
+
+       38.     Plaintiff Susko believes and avers that Defendant’s articulated reason for the
+
+termination of her employment was pretextual that she was actually terminated based on her sex
+
+(female) and/or in retaliation for opposing unlawful sex discrimination in the workplace.
+
+                                            COUNT I
+                          (Title VII - Sex Discrimination, Retaliation)
+                                  Plaintiff Susko v. Defendant
+
+       39.     Plaintiff Susko incorporates by reference paragraphs 1 through 38 of her
+
+Complaint as though fully set forth at length herein.
+
+       40.     The actions of Defendant, through its agents, servants and employees, in
+
+subjecting Plaintiff Susko to discrimination based on her sex, and retaliation for opposing
+
+discrimination in the workplace, ultimately resulting in the termination of her employment,
+
+constituted violations of Title VII.
+
+       41.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by Defendant in violation of Title VII, Plaintiff Susko
+
+sustained permanent and irreparable harm, resulting in the loss of her employment, which caused
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, and front pay and interest due thereon.
+
+       42.     As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+practices engaged in by Defendant in violation of Title VII, Plaintiff Susko suffered severe
+
+emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                           COUNT II
+                            (PHRA - Sex Discrimination, Retaliation)
+                                 Plaintiff Susko v. Defendant
+
+       43.     Plaintiff Susko incorporates by reference paragraphs 1 through 42 of her
+
+Complaint as though fully set forth at length herein.
+
+
+
+                                                 8
+            Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 14 of 16
+
+
+
+
+       44.      The actions of the Defendant, through its agents, servants and employees, in
+
+subjecting Plaintiff Susko to discrimination based on her sex, and retaliation for opposing
+
+discrimination in the workplace, ultimately resulting in the termination of her employment,
+
+constituted violations of the PHRA.
+
+       45.      As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff Susko
+
+sustained permanent and irreparable harm, resulting in the loss of her employment, which caused
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, and front pay and interest due thereon.
+
+       46.      As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by Defendant in violation of the PHRA, Plaintiff Susko
+
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                    PRAYER FOR RELIEF
+
+       47.      Plaintiff Susko incorporates by reference paragraphs 1 through 46 of her
+
+Complaint as though fully set forth at length herein.
+
+       WHEREFORE, Plaintiff Susko requests that this Court enter judgment in her favor and
+
+against the Defendant, and order that:
+
+       a.       Defendant compensate Plaintiff Susko with a rate of pay and other benefits and
+
+emoluments of employment to which she would have been entitled had she not been subjected to
+
+unlawful discrimination and retaliation;
+
+       b.       Defendant compensate Plaintiff Susko with an award of front pay, if appropriate;
+
+
+
+
+                                                 9
+            Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 15 of 16
+
+
+
+
+       c.       Defendant pay Plaintiff Susko punitive damages, compensatory damages for
+
+future pecuniary losses, pain, suffering, inconvenience, mental anguish, loss of enjoyment of life
+
+and other nonpecuniary losses as allowable;
+
+       d.       Defendant pay to Plaintiff Susko pre- and post- judgment interest, costs of suit
+
+and attorney and expert witness fees as allowed by law;
+
+       e.       the Court award such other relief as is deemed just and proper.
+
+
+                                        JURY DEMAND
+
+       Plaintiff Susko demands trial by jury.
+
+
+                                                SIDNEY L. GOLD & ASSOC., P.C.
+
+                                      By:        /s/ Sidney L. Gold, Esquire
+                                                SIDNEY L. GOLD, ESQUIRE
+                                                I.D. NO.: 21374
+                                                1835 Market Street, Ste. 515
+                                                Philadelphia, PA 19103
+                                                215.569.1999
+                                                Attorneys for Plaintiff
+
+DATED:       December 30, 2020
+
+
+
+
+                                                  10
+        Case 5:20-cv-06543-JFL Document 1 Filed 12/30/20 Page 16 of 16
+
+
+
+
+                                        VERIFICATION
+
+        I hereby verify that the statements contained in this Complaint are true and correct to the
+
+best of my knowledge, information and belief I understand that false statements herein are
+
+made subject to the penalties of Title 18 Pa. C.S.A. §4904, relating to unswom falsification to
+
+authorities.
+
+
+
+
+      ID       Iµ
+              \ 1..0
+       12/30/2020
+DATE: ------
+

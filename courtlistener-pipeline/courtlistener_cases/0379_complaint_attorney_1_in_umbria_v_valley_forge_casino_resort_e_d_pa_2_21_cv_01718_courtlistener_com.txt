@@ -1,0 +1,736 @@
+Source URL: https://www.courtlistener.com/docket/59817504/1/umbria-v-valley-forge-casino-resort/
+Title: Complaint (Attorney) – #1 in UMBRIA v. VALLEY FORGE CASINO RESORT (E.D. Pa., 2:21-cv-01718) – CourtListener.com
+
+             Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 1 of 23
+
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+____________________________________________________________
+STEVEN UMBRIA
+
+                Plaintiff,
+       v.                                                       JURY TRIAL DEMANDED
+
+VALLEY FORGE CASINO RESORT                                      No.
+
+       and
+
+BOYD GAMING CORPORATION
+
+            Defendants.
+____________________________________________________________
+
+                                          CIVIL COMPLAINT
+
+       Plaintiff Steven Umbria files this Complaint against Defendants Valley Forge Casino
+
+Resort and Boyd Gaming Corporation, and in support thereof avers as follows:
+
+                                      Jurisdiction and Venue
+
+       1.       The jurisdiction of this Court is based upon 28 U. S. C. §1331, in that this Court
+
+has original jurisdiction over Counts I, II, III and IV, which are based upon laws of the United
+
+States of America, the Age Discrimination in Employment Act, 29 U.S.C. §621 ("ADEA”); and
+
+the Americans with Disabilities Act, 42 U.S.C. §12101, as amended by the ADA Amendments
+
+Act of 2008 ("ADA”).
+
+       2.       Plaintiff requests a trial by jury of the claims raised herein.
+
+       3.       Venue is appropriate in this Court pursuant to 28 U. S. C. §1392(b) in that
+
+Defendants have ongoing business operations in this District and many of the events giving rise
+
+to the claim occurred in this District.
+
+       4.       The amount in controversy exceeds $150,000.00, exclusive of interest
+
+and costs.
+
+                                                   1
+              Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 2 of 23
+
+
+
+
+         5.      Plaintiff has complied with the applicable administrative remedies by timely filing
+
+Charges with the Equal Employment Opportunity Commission (“EEOC”), Charge no. 530-2021-
+
+00021 on October 2, 2020; and Charge no. 530-2021-02485 on March 17, 2021. Each of the
+
+Charges was dual filed with the Pennsylvania Human Relations Commission (“PHRC”).
+
+         6.      On April 5, 2021, the EEOC issued Notices of Right to Sue, permitting Plaintiff
+
+to file his causes of action under the ADEA and ADA.
+
+         7.      Upon receipt of applicable authority from the Pennsylvania Human Relations
+
+Commission, Plaintiff intends to amend this Complaint and assert causes of action for age and
+
+disability discrimination and retaliation under the Pennsylvania Human Relations Act, 43 P. S.
+
+§955(a). (“PHRA”).
+
+                                               Parties
+
+         8.      Plaintiff Steven Umbria (“Umbria ”) resides at 2 Barton Road, Liberty, NY
+
+12754; Umbria formerly resided at 1912 Meadow Drive, Blue Bell Villas, Blue Bell, PA 19422.
+
+         9.      Defendant Valley Forge Casino Resort (“VFCR”) operates a principal place of
+
+business in the Commonwealth of Pennsylvania at 1160 1st Avenue, King of Prussia,
+
+(Montgomery County) PA 19406.
+
+         10.     Defendant Boyd Gaming Corporation (“Boyd Gaming”) is a Nevada corporation,
+
+which maintains its corporate headquarters at 6465 S. Rainbow Boulevard, Las Vegas, NV
+
+89118.
+
+         11.     At all times relevant hereto, Defendants VFCR and Boyd Gaming were acting
+
+through their agents, servants and employees, who were acting within the scope of their
+
+authority, in the course of their employment, and under the direct control of VFCR and Boyd
+
+Gaming.
+
+
+                                                  2
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 3 of 23
+
+
+
+                                   FACTUAL BACKGROUND
+
+       12.     Umbria is a 64-year-old male.
+
+       13.     VFCR operates a gaming resort that features a 40,000-square-foot gaming floor,
+
+plus 100,000 square feet of conference, and banquet facilities, two luxury hotel towers, eight
+
+dining options, and live entertainment.
+
+       14.     VFCR is part of Boyd Gaming, one of the largest casino entertainment companies
+
+in the United States, which owns and operates 29 gaming properties in ten states.
+
+              Umbria’s Hiring as VCFR’s Director of Information Technology
+
+       15.     Umbria has over 40 years of experience in the casino gaming technology industry.
+
+       16.     On September 4, 2019, Umbria commenced employment with VFCR as Director
+
+of Information Technology (“IT”); Umbria was initially paid an annual salary of $115,000.00,
+
+plus employment benefits.
+
+       17.     Prior to accepting the job at VFCR, Umbria resided over three hours away in the
+
+Catskill Mountains of New York.
+
+       18.     Umbria received moving and relocation expenses as part of the Boyd Domestic
+
+Relocation Reimbursement Program, in order to relocate to Montgomery County, Pennsylvania.
+
+       19.     After initially living at VFCR, Umbria signed a one-year lease for an apartment
+
+commencing, September 18, 2019.
+
+       20.     As Director of IT, Umbria’s duties included overseeing, directing, planning,
+
+coordinating, and organizing all operational activities of the IT Department, including managing
+
+and developing IT Staff.
+
+       21.     During his employment, Umbria had substantial responsibilities with regard to
+
+converting VFCR’s former information technology systems to Boyd Gaming computer systems.
+
+
+
+                                                3
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 4 of 23
+
+
+
+
+       22.     David Zerfing, VFCR Vice President, and General Manager and Gregg Lowe,
+
+Boyd Gaming’s Vice President of IT Operations, acknowledged that Umbria’s efforts resulted in
+
+a significant improvement of the IT Department.
+
+       23.     Umbria had several direct reports including, Grant Brotze, a Manager, age 21; and
+
+two Technicians, who were hired and trained by Umbria.
+
+       24.     Tom Schopf (“Schopf”) also applied for and was interviewed for the Director of
+
+IT position for which VFCR hired Umbria.
+
+       25.     As of September 2019, Schopf was employed in an IT position for Boyd Gaming
+
+in Las Vegas, Nevada.
+
+       26.     As of September 2019, Schopf had approximately two years of experience
+
+working in the casino industry.
+
+       27.     Shortly after Umbria began working at VFCR he noticed that Schopf was at the
+
+VFCR property even though Schopf had no role at VFCR.
+
+       28.     When Umbria inquired about Schopf’s presence at VFCR, Vice President and
+
+General Manager Zerfing advised Umbria that Schopf was using VFCR as an office because he
+
+had family in Pennsylvania.
+
+       29.     Vice President and General Manager Zerfing advised Umbria that Schopf had
+
+applied for the Director IT position at VFCR, but that Umbria was hired, and Schopf was not
+
+hired, because Schopf was not qualified for the job.
+
+                              Umbria’s Remote Work From Home
+
+       30.     Umbria has certain chronic medical issues, including, insulin dependent diabetes,
+
+heart disease, high blood pressure, an abdominal hernia from a stab wound, and liver cirrhosis,
+
+and shortly before being hired by VFCR, Umbria had recently recovered from Hepatitis C.
+
+
+                                                4
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 5 of 23
+
+
+
+
+        31.    Umbria is a U.S. Airforce veteran who receives medical care from Department of
+
+Veteran Affairs physicians.
+
+        32.    Following the onset of COVID-19, Umbria consulted with his treating physicians
+
+and Umbria was advised that due to his medical conditions, he was “high-risk” if exposed to
+
+COVID-19; and as a consequence, he should work remotely from his home.
+
+        33.    On March 24, 2020, Umbria presented a doctor’s note to VFCR substantiating his
+
+need to work remotely, and Umbria began working remotely on March 26, 2020.
+
+        34.    While Umbria was working remotely, Grant Brotze continued to work on site.
+
+        35.    Shortly thereafter, Umbria, who had received a raise in his annual salary to
+
+$116,160.00, and a $4,127.00 bonus, had his pay reduced by ten percent.
+
+        36.    Umbria effectively worked remotely during the next six weeks.
+
+                          The Termination of Umbria’s Employment
+
+        37.    On May 7, 2020, VFCR advised Umbria that he was being “furloughed without
+
+pay.”
+
+        38.    When Umbria was advised that he was being furloughed, Vice President and
+
+General Manager Zerfing and Vice President of IT Operations Lowe provided Umbria with
+
+assurances that when VFCR re-opened, Umbria would definitely be called back to work.
+
+        39.    At the time of the furlough, Zerfing and Lowe advised Umbria that the
+
+Pennsylvania Racehorse Development and Gaming Act, requires that licensed casinos must have
+
+an on-site IT Director.
+
+        40.    Two months later, on July 9, 2020, Chris Smith, Vice President Corporate Human
+
+Resources of Boyd Gaming, advised Umbria that his position was being eliminated, effective
+
+immediately.
+
+
+                                                5
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 6 of 23
+
+
+
+
+       41.     In a July 15, 2020 Boyd Gaming public statement regarding layoffs at VFCR,
+
+David Stow, Vice President of Communications, stated the following with regard to VFCR
+
+employees:
+
+       “Given these ongoing challenges and continued uncertainty, we are moving forward with
+       permanent layoffs of Team Members who are still on furlough, and who had not been
+       recalled working. These layoffs are at the lower end of the range outlined in the Warn
+       Act Letters, in May. We are hereby notifying the affected Team Members as
+       expeditiously as we can.
+
+       This was an extremely difficult decision for the Company, and one we had hoped would
+       not be necessary. To assist the Team Members during this difficult time, we will be
+       providing financial assistance to those who are affected.”
+
+       (emphasis added)
+
+       42.     Contrary to Boyd Gaming’s public statement, VFCR did not provide Umbria
+
+who was permanently laid off, “financial assistance” of any kind.
+
+       43.     Publicly available reports indicate that VFCR’s revenue in July 2020 increased by
+
+57.7%, as compared to July 2019.
+
+       44.     Grant Brotze, Manager of the IT Department, who is over 40 years younger than
+
+Umbria, was never furloughed, remains employed by VFCR, and is performing most of the
+
+duties previously performed by Umbria.
+
+       45.      While Brotze has not been formally designated Director of IT and is not legally
+
+qualified for his IT Manager position due to his lack of a High School diploma, initially it
+
+appears that a Boyd Gaming Regional IT Director based outside of Pennsylvania, who is
+
+substantially younger than Umbria, assumed the actual title of Director of IT at VFCR, and
+
+performed any of Umbria’s duties that were not assumed by Brotze.
+
+       46.     On or about October 2020, VFCR appointed Schopf to assume the duties
+
+previously performed by Umbria that Brotze was not performing.
+
+
+                                                 6
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 7 of 23
+
+
+
+
+       47.     VFCR treated Umbria differently than substantially younger employees, and
+
+employees who do not have long-term disabilities that during the onset of the COVID-19
+
+required a reasonable accommodation in the form of being able to work remotely.
+
+                                Umbria’s First EEOC Charge
+
+       48.     On October 2, 2020, Umbria filed EEOC Charge no. 530-2021-00021 (“the First
+
+EEOC Charge”) against VFCR with the Philadelphia District Office of the EEOC.
+
+       49.     In the First EEOC Charge, Umbria alleges that he was discriminated against
+
+based upon his age, in violation of the ADEA and the PHRA, and that he was treated differently
+
+due to his disability status and request for a reasonable accommodation in violation of the ADA
+
+and PHRA.
+
+       50.     VFCR and Boyd Gaming received the First EEOC Charge directly from the
+
+EEOC by no later than January 7, 2021.
+
+                    The Director of IT position at the Kansas Star Casino
+
+       51.     Following the termination of Umbria’s employment with VFCR, Umbria began a
+
+job search for Director of Information Technology positions at other casino properties.
+
+       52.     Boyd Gaming maintains a website at www.boydgaming.com.
+
+       53.     At www.boydgaming.com, there is a link titled, Careers.
+
+       54.     When a website visitor clicks Careers at www.boydgaming.com, the visitor is re-
+
+directed to www.boydcareers.com.
+
+       55.     On January 26, 2021, Umbria was looking at www.boydcareers.com and saw that
+
+there was an open Director of IT position at the Kansas Star Casino in Mulvane, Kansas, a Boyd
+
+Gaming property.
+
+       56.     The job description for the Director of IT position at the Kansas Star Casino was
+
+identical to the job that Umbria successfully performed at VFCR and provided:
+                                                7
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 8 of 23
+
+
+
+
+                The Director of IT at the Kansas Star has responsibility for oversight for the IT
+                Systems and day-to-day IT activities. The essential job functions and duties of the
+                position involve collaborating with the Regional IT Service Director, Corporate
+                IT Services and Business Development departments, leading all IT Property
+                Operations, being accountable for all Property IT Operations Systems and
+                environments, leading the local development of implementation of strategic plans
+                for operational activities, improvements and practices, developing and
+                maintaining as appropriate IT property operations structure that supports the
+                needs of the property, leading migration to new technologies, evaluating process
+                performance, and overall resource utilization for effective capacity, and fostering
+                strong customer service mindset throughout the IT team of user satisfaction, while
+                championing thought leadership and innovation as business partners.
+
+       57.      On January 26, 2021, Umbria applied for the Director of IT position at the Kansas
+
+Star Casino at www.boydcareers.com.
+
+       58.      In applying for the Director of IT position at the Kansas Star Casino, as part of the
+
+application, Umbria was required to fill out his first name, last name, and other personal
+
+information.
+
+       59.      After Umbria completed the personal information part of the application form by
+
+filling in his social security number, Boyd Gaming’s computer system automatically changed his
+
+first name to “EEOC,” and his last name to “Form.” (See Exhibit “A”).
+
+       60.      Thereafter, Umbria was unable to modify his changed name as it was “greyed
+
+out”; however, he was able to enter his full name in an “other names used” field.
+
+       61.      Shortly after completing the application for the Director of IT position at the
+
+Kansas Star Casino, the same day, January 26, 2021, Umbria received an email from Alecia Pray
+
+of Boyd Gaming, confirming his application, which referred to Umbria as, “Dear EEOC.” (See
+
+Exhibit “B”).
+
+       62.      Internal Application Status Forms generated by www.boydcareers.com referred to
+
+Umbria as, “EEOC.” (See Exhibit “C”).
+
+
+
+
+                                                  8
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 9 of 23
+
+
+
+
+       63.     On February 10, 2021, Umbria received an email from Boyd Gaming advising
+
+him that, “Upon careful review for the KS – Director of IT – KSPDRIT00 Position, we have
+
+decided to pursue other candidates.”
+
+       64.     Boyd Gaming automatically flags applicants who have filed a Charge of
+
+Discrimination with the EEOC, so that it does not hire applicants for an open position for which
+
+they are qualified, or consider applicants for open positions.
+
+       65.     Umbria’s online application through www.boydcareers.com was automatically
+
+flagged because he had filed a Charge of Discrimination with the EEOC.
+
+       66.     Boyd Gaming did not consider or hire Umbria for the Director of IT position at
+
+the Kansas Star Casino because he filed a Charge of Discrimination with the EEOC against a
+
+Boyd Gaming property.
+
+       67.     Umbria was fully qualified for the Director of IT position at the Kansas Star
+
+Casino.
+
+       68.     Boyd Gaming did not hire Umbria for the Director of IT position at the Kansas
+
+Star Casino despite Zerfing and Lowe’s assertion that Umbria would be re-hired when a position
+
+became available.
+
+       69.     VFCR and Boyd Gaming have retaliated against Umbria in violation of the
+
+ADEA, ADA and PHRA by denying Umbria the opportunity to be hired for the Director of IT
+
+position at the Kansas Star Casino because Umbria filed a good faith claim of age discrimination
+
+and disability discrimination under the ADEA, ADA and PHRA.
+
+       70.     Umbria has incurred substantial damages as a consequence of Defendants’
+
+conduct including lost wages and emotional distress.
+
+
+
+
+                                                 9
+         Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 10 of 23
+
+
+
+
+       71.     VFCR 's actions were willful and outrageous in that its motives and conduct as set
+
+forth above were malicious, wanton, reckless and oppressive.
+
+                                            COUNT I
+
+             VIOLATION OF AGE DISCRIMINATION IN EMPLOYMENT ACT
+
+                                     29 U. S. C. §621 et. seq.
+
+                                       Age Discrimination
+
+       72      Paragraphs 1 to 71 are incorporated herein by reference, as if set forth in full.
+
+       73.     Umbria is over 40 years of age.
+
+       74.     VFCR is subject to the ADEA.
+
+       75.     Umbria was/is qualified for the Director of IT position.
+
+       76.     Grant Brotze is substantially younger than Umbria.
+
+       77.     Umbria suffered an adverse employment decision in the form of the termination
+
+of his employment.
+
+       78.     VFCR’s actions towards Umbria and the decision to terminate Umbria ’s
+
+employment was arbitrary and capricious, and based upon a discriminatory animus towards older
+
+employees in the workplace.
+
+       79.     Defendant VFCR’s conduct is per se unlawful and constitutes unlawful age
+
+discrimination in violation of the ADEA.
+
+       80.     As a direct result of the aforesaid conduct, Umbria has sustained permanent and
+
+irreparable harm.
+
+       WHEREFORE, Plaintiff Steven Umbria requests that this Court enter judgment in his
+
+favor and against Defendant Valley Forge Casino Resort, and that this Court award Plaintiff all
+
+damages available under the Age Discrimination in Employment Act, including monetary
+
+
+                                                 10
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 11 of 23
+
+
+
+
+damages exceeding $150,000.00, in the form of all compensation and monetary losses, which
+
+Plaintiff has been denied, including back pay, front pay and prejudgment interest; reinstatement;
+
+ADEA liquidated damages; reasonable attorneys' fees; expert witness fees; costs; and any other
+
+relief which the court deems appropriate.
+
+                                            COUNT II
+
+ VIOLATION OF AMERICANS WITH DISABILITIES ACT, AS AMENDED BY THE
+                  ADA AMENDMENTS ACT OF 2008
+
+                                    42 U. S. C. §12101, et. seq.
+
+                                    Disability Discrimination
+
+       81.     Paragraphs 1 to 80 are incorporated herein as if set forth in full.
+
+       82.     Umbria is disabled within the meaning of the ADA.
+
+       83.     VFCR believed that Umbria had a physical impairment that substantially limited
+
+major life activities only as a result of the attitudes of others toward such impairment.
+
+       84.     When VFCR terminated Umbria’s employment, VFCR regarded or treated
+
+Umbria as disabled.
+
+       85.     In terminating Umbria’s employment, VFCR treated Umbria differently than
+
+other similarly situated individuals who are or were not disabled, whom VFCR, did not regard or
+
+perceive as disabled.
+
+       WHEREFORE, Plaintiff Steven Umbria requests that this Court enter judgment in his
+
+favor and against Defendant Valley Forge Casino Resort, and that this Court award Plaintiff all
+
+damages available under the Americans with Disabilities Act, as amended, including monetary
+
+damages exceeding $150,000.00, compensatory damages, punitive damages, reasonable
+
+attorneys' fees, reasonable expert witness fees, interest, costs, and any other relief which the
+
+Court deems appropriate.
+
+                                                 11
+             Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 12 of 23
+
+
+
+
+                                               COUNT III
+
+                 VIOLATION OF AGE DISCRIMINATION IN EMPLOYMENT ACT
+
+                                        29 U. S. C. §621 et. seq.
+
+                                               Retaliation
+
+           86.     Paragraphs 1 through 85 are incorporated herein by reference as though set forth
+
+in full.
+
+           87.     Umbria engaged in protected activity when he filed the First EEOC Charge,
+
+alleging that he was discriminated against based upon his age.
+
+           88.     The decision to not consider and/or hire Umbria for the Director of IT position at
+
+the Kansas Star Casino constitutes retaliation against Umbria for filing an EEOC Charge for
+
+conduct which he reasonably believed to be age discrimination.
+
+           89.     As a direct result of the aforesaid unlawful retaliation, Umbria has sustained
+
+permanent and irreparable harm.
+
+           90.     Defendants’ actions towards Umbria were arbitrary and capricious, and based on
+
+a discriminatory animus towards individuals who complain about age discrimination.
+
+           91.     Defendants’ conduct is per se unlawful retaliation.
+
+           WHEREFORE, Plaintiff Steven Umbria requests that this Court enter judgment in his
+
+favor and against Defendant Valley Forge Casino Resort and Boyd Gaming Corporation, and
+
+that this Court enter a declaratory judgment that Defendants’ actions complained of herein,
+
+violate and continue to violate the enactments of the federal legislature, award Plaintiff damages
+
+exceeding $150,000.00, in the form of all compensation and monetary losses, which he has been
+
+
+
+
+                                                    12
+             Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 13 of 23
+
+
+
+
+denied, including back pay, front pay; pre-judgment interest; reinstatement, compensatory and
+
+liquidated damages; reasonable attorneys' fees, expert witness fees, costs, and any other relief
+
+which the court deems appropriate.
+
+                                              COUNT IV
+
+  VIOLATION OF AMERICANS WITH DISABILITIES ACT, AS AMENDED BY THE
+                   ADA AMENDMENTS ACT OF 2008
+
+                                      42 U. S. C. §12101, et. seq.
+
+                                              Retaliation
+
+           92.    Paragraphs 1 through 91 are incorporated herein by reference as though set forth
+
+in full.
+
+           93.    Umbria engaged in protected activity when he filed the First EEOC Charge,
+
+alleging that he was being discriminated against due to his disability.
+
+           94.    The decision to not consider and/or hire Umbria for the Director of IT position at
+
+the Kansas Star Casino position constitutes retaliation against Umbria for filing an EEOC Charge
+
+for conduct which he reasonably believed to be disability discrimination.
+
+           95.    As a direct result of the aforesaid unlawful retaliation, Umbria has sustained
+
+permanent and irreparable harm.
+
+           96.    Defendants’ actions towards Umbria were arbitrary and capricious, and based on
+
+a discriminatory animus towards individuals who complain about disability discrimination.
+
+           97.    Defendants’ conduct is per se unlawful retaliation.
+
+           WHEREFORE, Plaintiff Steven Umbria requests that this Court enter judgment in his
+
+favor and against Defendant Valley Forge Casino Resort and Boyd Gaming Corporation, and
+
+
+
+
+                                                   13
+          Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 14 of 23
+
+
+
+
+that this Court enter and that this Court enter a declaratory judgment that Defendants’ actions
+
+complained of herein, violate and continue to violate the enactments of the federal legislature,
+
+award Plaintiff damages exceeding $150,000.00, in the form of all compensation and monetary
+
+losses, which he has been denied, including back pay, front pay; pre-judgment interest;
+
+reinstatement, compensatory and liquidated damages; reasonable attorneys' fees, expert witness
+
+fees, costs, and any other relief which the court deems appropriate.
+
+
+
+                                                     /S/ Andrew S. Abramson, Ese.
+                                                     _________________________
+                                                     Andrew S. Abramson, Esq.
+                                                     Abramson Employment Law, LLC
+                                                     790 Penllyn Blue Bell Pike
+                                                     Suite 205
+                                                     Blue Bell, PA 19422
+                                                     telephone: 267-470-4742
+                                                     email: asa@aemploylaw.com
+
+                                                     Attorney for Plaintiff Steven Umbria
+Dated: April 13, 2021
+
+
+
+
+                                                14
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 15 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 16 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 17 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 18 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 19 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 20 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 21 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 22 of 23
+Case 2:21-cv-01718-ER Document 1 Filed 04/13/21 Page 23 of 23
+

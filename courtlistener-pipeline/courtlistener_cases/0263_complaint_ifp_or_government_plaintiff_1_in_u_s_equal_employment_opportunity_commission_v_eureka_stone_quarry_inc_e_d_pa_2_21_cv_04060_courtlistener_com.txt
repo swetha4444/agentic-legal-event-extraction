@@ -1,0 +1,817 @@
+Source URL: https://www.courtlistener.com/docket/60379548/1/us-equal-employment-opportunity-commission-v-eureka-stone-quarry-inc/
+Title: Complaint (IFP or Government Plaintiff) – #1 in U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION v. EUREKA STONE QUARRY, INC. (E.D. Pa., 2:21-cv-04060) – CourtListener.com
+
+            Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 1 of 16
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+U.S. EQUAL EMPLOYMENT                    )
+OPPORTUNITY COMMISSION,                  )
+                                         )
+                  Plaintiff,             )            Civil Action No.
+                                         )
+            v.                           )            COMPLAINT
+                                         )            AND JURY TRIAL DEMAND
+EUREKA STONE QUARRY, INC.                )
+and JAMES D. MORRISSEY INC.,             )
+                                         )
+                  Defendants.            )
+________________________________________ )
+
+
+                                  NATURE OF THE ACTION
+
+       This is an action under Title VII of the Civil Rights Act of 1964, as amended (“Title VII”),
+
+and Title I of the Civil Rights Act of 1991, to correct unlawful employment practices because of
+
+race and retaliation and to provide appropriate relief to Charging Party Harold Powell. As alleged
+
+with greater particularity in Paragraphs 15 through 53 below, Defendants Eureka Stone Quarry,
+
+Inc. and James D. Morrissey, Inc. (“Defendants”) subjected Mr. Powell to unlawful harassment
+
+and constructive discharge because of his race (Black) and in retaliation for his opposition to
+
+unlawful employment practices in violation of Title VII.
+
+                                 JURISDICTION AND VENUE
+
+       1.      Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337, 1343
+
+and 1345. This action is authorized and instituted pursuant to Section 706(f)(1) and (3) of Title
+
+VII of the Civil Rights Act of 1964 (“Title VII”), 42 U.S.C.§ 2000e-5(f)(1) and (3), and pursuant
+
+to Section 102 of the Civil Rights Act of 1991, 42 U.S.C. § 1981a.
+
+       2.      The employment practices alleged to be unlawful were committed within the
+             Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 2 of 16
+
+
+
+
+jurisdiction of the United States District Court for the Eastern District of Pennsylvania.
+
+                                             PARTIES
+
+        3.      Plaintiff,   the   U.S.   Equal   Employment     Opportunity     Commission    (the
+
+“Commission”), is the agency of the United States of America charged with the administration,
+
+interpretation and enforcement of Title VII and is expressly authorized to bring this action by
+
+Sections 706(f)(1) and (3) of Title VII, 42 U.S.C. § 2000e-5(f)(1) and (3).
+
+        4.      At all relevant times, Defendants, which are Pennsylvania corporations, have
+
+continuously been doing business in the State of Pennsylvania, the City of Philadelphia and
+
+Borough of Chalfont and have continuously had at least 15 employees.
+
+        5.      Defendant Eureka Stone Quarry, Inc. employed more than 100 employees for at
+
+least 20 calendar weeks during each of the following calendar years: 2016, 2017, 2018, 2019 and
+
+2020.
+
+        6.       Defendant James D. Morrissey Inc. employed more than 400 employees for at least
+
+20 calendar weeks during each of the following calendar years: 2016, 2017, 2018, 2019 and 2020,
+
+        7.      At all relevant times, Defendants have continuously been employers engaged in an
+
+industry affecting commerce within the meaning of Section 701(b), (g) and (h) of Title VII, 42
+
+U.S.C. § 2000e(b), (g) & (h).
+
+        8.      Defendant Eureka Stone Quarry, Inc. and Defendant James D. Morrissey, Inc.
+
+constitute a single “employer” within the meaning of Sections 701(b), (g), and (h) of Title VII, 42
+
+U.S.C. §§ 2000e(b), (g), and (h):
+
+                a.      Defendants share common ownership.
+
+                b.      Defendants share common officers.
+
+
+
+
+                                                  2
+   Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 3 of 16
+
+
+
+
+       c.      Certain managers, including but not limited to Safety Director James Furey,
+
+are considered by Defendants to be, and are, employees of both Defendants.
+
+       d.      Defendants share a single website attributed to James D. Morrissey, Inc. On
+
+the website they hold themselves out to third-parties as a single enterprise, including listing
+
+all Eureka Stone Quarry, Inc. facilities as James D. Morrissey Inc. facilities.
+
+       e.      Defendant James D. Morrissey, Inc. holds itself out to third-parties as
+
+“vertically integrated” with Defendant Eureka Stone Quarry, Inc. Upon information and
+
+belief, Defendant Eureka Stone Quarry, Inc. supplies James D. Morrissey, Inc. with
+
+materials for the latter’s construction operations, either directly or through another
+
+integrated entity.
+
+       f.      Defendants share employee recruitment and hiring functions, with the
+
+James D. Morrissey, Inc. website used to advertise and solicit applications for positions at
+
+both Eureka Stone Quarry, Inc. and James D. Morrissey, Inc.
+
+       g.      Defendants share financial functions, with the James D. Morrissey, Inc.
+
+website used to receive payment from customers on invoices from both Eureka Stone
+
+Quarry, Inc. and James D. Morrissey, Inc.; to solicit and receive customer applications for
+
+credit from both Eureka Stone Quarry, Inc. and James D. Morrissey, Inc.; and to solicit and
+
+receive customer requests for quotes from both Eureka Stone Quarry, Inc. and James D.
+
+Morrissey, Inc.
+
+       h.      Defendant Eureka Stone Quarry, Inc.’s managers, including but not limited
+
+to Safety Director James Furey, who performs human resources functions for Eureka Stone
+
+Quarry, Inc., hold themselves out to employees and third-parties as employees and
+
+
+
+
+                                          3
+            Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 4 of 16
+
+
+
+
+       management officials of both Eureka Stone Quarry, Inc. and Defendant James D.
+
+       Morrissey Inc.
+
+               i.       Defendant Eureka Stone Quarry, Inc.’s managers, including but not limited
+
+       to Safety Director James Furey, are paid wages from accounts held by Defendant James D.
+
+       Morrissey Inc.
+
+               j.       Defendant Eureka Stone Quarry, Inc.’s managers, including but not limited
+
+       to Safety Director James Furey, are provided important employment benefits, including
+
+       but not limited to health and 401K benefits, by Defendant James D. Morrissey Inc.
+
+               k.       The Vice President and General Counsel of Defendant James D. Morrissey
+
+       Inc. represented Defendant Eureka Stone Quarry, Inc. during the EEOC administrative
+
+       investigation of this matter.
+
+                              ADMINISTRATIVE PROCEDURES
+
+       9.      More than thirty days prior to the institution of this lawsuit, Harold Powell filed a
+
+charge with the Commission alleging violations of Title VII by Defendant Eureka Stone Quarry,
+
+Inc.
+
+       10.     On February 9, 2021, the Commission issued to Defendants an administrative
+
+Determination finding reasonable cause to believe that Defendants violated Title VII and inviting
+
+Defendants to join with the Commission in informal methods of conciliation to endeavor to
+
+eliminate the unlawful employment practices and provide appropriate relief.
+
+       11.     The Commission engaged in communications with Defendants to provide
+
+Defendants the opportunity to remedy the discriminatory practices described in the administrative
+
+Determination.
+
+       12.     The Commission was unable to secure from Defendants a conciliation agreement
+
+
+
+
+                                                 4
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 5 of 16
+
+
+
+
+acceptable to the Commission.
+
+       13.      On March 18, 2021, the Commission issued to Defendants a Notice of Failure of
+
+Conciliation.
+
+       14.      All conditions precedent to the initiation of this lawsuit have been fulfilled.
+
+                                    STATEMENT OF CLAIMS
+
+   Count I: Hostile Work Environment Because of Race (Black) and Retaliation (Opposition)
+
+       15.      On or about June 2016 and continuing until on or about July 29, 2020, Defendants
+
+and their employees subjected Harold Powell to a hostile work environment because of his race,
+
+Black, and in retaliation for his opposition to unlawful employment practices in violation of
+
+Sections 703(a)(1) and 704(a) of Title VII, 42 U.S.C. §§ 2000e-2(a)(1) & 2000e-3(a).
+
+       16.      Mr. Powell, a Black person, began his employment at Defendants’ Pocono Quarry
+
+located near Chalfont, Pennsylvania on or about March 29, 2016. Powell was hired for the position
+
+of Operator (Loader).
+
+       17.      Beginning in 2016 and continuing through the end of 2019, Powell’s co-workers at
+
+the Pocono Quarry subjected him to a continuing course of racial harassment, including but not
+
+limited to the following:
+
+                a.      Co-worker Francis J. (“Frank”) Bednarek, a White person, frequently used
+
+       the word “nigger” in reference to Black persons. Powell was present when these statements
+
+       were made and heard them.
+
+                b.      Powell overheard Bednarek use the phrase “Fuck that nigger” on at least
+
+       one occasion in apparent reference to Powell. Powell was the only Black employee at the
+
+       Pocono quarry.
+
+
+
+
+                                                  5
+  Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 6 of 16
+
+
+
+
+       c.       Bednarek frequently broadcast a podcast or YouTube show over the Pocono
+
+quarry’s CB radio channel while he and Powell were operating loaders. The hosts of the
+
+podcast/show frequently used the epithet “nigger” and made racially stereotyped
+
+statements about Black persons and other ethnic minority individuals, including but not
+
+limited to references to Black persons eating “chicken and watermelon” and Hispanic
+
+persons eating “rice and beans.” Eventually, Powell was forced to turn his CB radio off to
+
+avoid hearing the broadcasts.
+
+       d.       Bednarek commented to Powell that it would be amusing if Powell went to
+
+a Halloween party dressed in a Ku Klux Klan Grand Wizard costume and then revealed to
+
+everyone that he is Black. Bednarek stated that the partygoers would then hang Powell.
+
+       e.       Bednarek referred to Hispanic truck drivers who came to Pocono Quarry as
+
+“stupid wetbacks.”    Powell’s daughter is Hispanic, a fact that he communicated to
+
+Bednarek in response to the comments.
+
+       f.       On or about September 2019, Bednarek observed Powell eating a banana
+
+while Powell was in his vehicle and made comments over the CB radio that compared
+
+Powell to, or implied that Powell was, a monkey. Powell heard Bednarek’s comments over
+
+the CB radio.
+
+       g.       During that same time period, Bednarek commented over the CB radio that
+
+if a Black job applicant were hired, that applicant and Powell would be able to
+
+communicate with one another using “clicking sounds.”          Powell heard Bednarek’s
+
+comments, and on various occasions thereafter Bednarek and other White co-workers
+
+reminded Powell of those comments and laughed about them.
+
+
+
+
+                                        6
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 7 of 16
+
+
+
+
+               h.      Bednarek displayed a handgun in the workplace in Powell’s presence. On
+
+       at least one occasion Bednarek took the handgun out of his waistband while in the quarry
+
+       breakroom and banged it down on a table. He then replaced the handgun in his waistband
+
+       before leaving the break room, turned around and smiled at employees who were present,
+
+       including Powell.
+
+               i.      Bednarek made physically threatening statements in conjunction with his
+
+       display of firearms, such as telling co-workers he preferred a revolver “so that no shell
+
+       casings would be left behind.” Powell heard these statements.
+
+               j.      Other White co-workers also subjected Powell to racial harassment,
+
+       including but not limited to addressing him as “you fucking nigger” on one occasion;
+
+       frequently using the epithet “nigger” in his presence in reference to Black persons
+
+       generally; and making a joke about Powell and the slavery of African-Americans,
+
+       suggesting that a White co-worker was Powell’s “master.”
+
+       18.     Beginning sometime in 2018 continuing through October 2019, Powell complained
+
+to his supervisor, Pocono Quarry Site Superintendent Jeff DeLong, on at least four occasions about
+
+being forced to listen to Bednarek’s CB radio broadcasts of racist content, and Powell specifically
+
+described the content to DeLong.
+
+       19.     DeLong responded to Powell’s complaints about Bednarek’s racial harassment by
+
+claiming to have never heard any such broadcasts and demanding that Powell “prove” that
+
+Bednarek was doing it before DeLong would take action.
+
+       20.     In response to Powell’s complaints about Bednarek’s CB broadcasts, DeLong
+
+failed to ask Powell about any other racial harassment he may have experienced, failed to conduct
+
+any investigation of the complaints, and failed to take any corrective action.
+
+
+
+
+                                                 7
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 8 of 16
+
+
+
+
+       21.     Prior to October 2019, Powell also complained to DeLong about the racially
+
+harassing comments by his other White co-workers, including their use of the word “nigger.”
+
+       22.     In response to Powell’s complaints about White co-workers using the epithet
+
+“nigger,” DeLong failed to ask Powell about any other racial harassment he may have experienced,
+
+failed to conduct any investigation of the complaints, and failed to take disciplinary action of any
+
+kind against the co-workers.
+
+       23.      On or about mid-September 2019, Powell reported to DeLong that Bednarek made
+
+the aforementioned comments comparing Powell to, or implying that Powell was, a monkey and
+
+that Powell and a Black job applicant would be able to communicate with “clicking sounds.”
+
+       24.     DeLong smirked as Powell made his complaint, and he subsequently failed to ask
+
+Powell about any other racial harassment he may have experienced, failed to conduct any
+
+investigation of the complaint, and failed to take corrective action of any kind against Bednarek.
+
+       25.     On or about late September 2019, Powell complained of Bednarek’s racial
+
+harassment to Defendants’ Area Manager Arnold Connelly. Connelly instructed Powell to file a
+
+grievance through the union.
+
+       26.     In response to Powell’s complaint to Connelly, a meeting was held in early October
+
+2019 between Powell and company managers DeLong, Connelly, and Safety Director James
+
+Furey, who performs certain human resources functions for Defendants:
+
+               a.      Furey conducted the questioning of Powell.
+
+               b.      During the meeting, Powell again complained of racial harassment.
+
+               c.      Powell specifically mentioned the “monkey” and “clicking sounds”
+
+       incidents.
+
+               d.      Powell also reported that he had been racially harassed by Bednarek on
+
+
+
+
+                                                 8
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 9 of 16
+
+
+
+
+       other occasions, telling Furey that Bednarek “is constantly making racial remarks” and that
+
+       “[n]ine times out of 10, I ignore what Frank says, but he had finally hit a button and I had
+
+       had enough.”
+
+               e.     Furey responded to his complaint by stating, “Yeah, that sounds about like
+
+       Frank.”
+
+               f.     Prior to the meeting with Powell, Furey had personally observed Bednarek
+
+       making similar offensive statements.
+
+               g.     Neither Furey nor any other Defendant official present at the meeting ever
+
+       asked any follow up questions of Powell to determine the nature of the other racially
+
+       harassing incidents that Powell mentioned.
+
+               h.     No one asked Powell to identify any witnesses to the harassment.
+
+               i.     DeLong failed to tell anyone who was present at the meeting about Powell’s
+
+       past racial harassment complaints.
+
+       27.     In response to Powell’s racial harassment complaint and the October 2019 meeting,
+
+Bednarek admitted to Furey that he had engaged in the most recent two incidents of racial
+
+harassment, i.e., the “monkey” and “clicking sounds” incidents. Defendants did not question
+
+Bednarik about any other racially harassing incidents.
+
+       28.     In response to Powell’s racial harassment complaint and the October 2019 meeting,
+
+Defendants failed to conduct a reasonably diligent investigation of racial harassment at the Pocono
+
+Quarry, including but not limited to failing to inquire into any harassment other than the “monkey”
+
+and “clicking sounds” incidents, failing to conduct reasonable inquiries of Powell, and failing to
+
+interview numerous witnesses to racial harassment at the quarry.
+
+       29.     In response to Powell’s racial harassment complaint and the October 2019 meeting,
+
+
+
+
+                                                9
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 10 of 16
+
+
+
+
+Defendants failed to take any disciplinary action against Bednarik or any other employee.
+
+       30.     On or about June and July 2020, Powell’s co-worker Frank Bednarek and other co-
+
+workers subjected Powell to additional racial and retaliatory harassment, including but not limited
+
+to the following:
+
+               a.     A presently unidentified, newly-hired White employee was discussing a
+
+       news story about a homeless man whose mattress was burned and commented, “Only a
+
+       dumb nigger would burn his own mattress.” Powell heard the statement.
+
+               b.     Bednarek made highly threatening comments about the Black Lives Matter
+
+       movement while at work, such as discussing firearms he and his wife owned and making
+
+       statements to the effect that there would be a “race war,” that he was “ready” for the race
+
+       war, that George Floyd was a “nigger” who “deserved it,” and that if Black Lives Matter
+
+       protestors wanted to “riot” he [Bednarek] was “ready for it.” Bednarek made the
+
+       aforementioned statements in Powell’s presence, and Powell heard those statements.
+
+               c.     Bednarek used his company loader to block the road in front of Powell’s
+
+       loader, which prevented Powell from performing his duties.
+
+               d.      Bednarek used his company loader to drop a large boulder near Powell’s
+
+       loader, an act that could have caused injury or death and that greatly startled Powell.
+
+               e.     In late July 2020, as Powell drove his company loader past Bednarek, who
+
+       was on foot, Bednarek took a rifle out of his privately-owned vehicle. Both men were on
+
+       company property at the time. Shortly after Powell parked and exited his loader, Bednarek
+
+       discharged his rifle, firing four to five rounds in rapid succession from a location only
+
+       several hundred feet from Powell. Powell found that act to be highly threatening, and he
+
+       left the Pocono Quarry.
+
+
+
+
+                                                10
+         Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 11 of 16
+
+
+
+
+       31.     Powell then contacted Defendants’ management to complain about Bednarek’s
+
+discharge of a firearm near Powell while on company property:
+
+               a.     Powell spoke with Furey, asking whether employees could possess firearms
+
+       at work.
+
+               b.     In response, Furey laughed and queried, “Why do you ask?”
+
+               c.     Powell then described the incident involving Bednarek’s rifle shots on
+
+       company property during work hours, to which Furey reacted, “Really?”
+
+               d.     Furey then stated that employees were allowed to keep firearms in their cars
+
+       but that he would look into the shooting incident.
+
+       32.     At no time did Furey ever follow up with Powell about his complaint concerning
+
+the Bednarek shooting incident described above.
+
+       33.     Defendants failed to take reasonable corrective action in response to the Bednarek
+
+shooting incident:
+
+               a.     Defendants failed to investigate Bednarek’s motive for discharging his
+
+       firearm in Powell’s proximity.
+
+               b.     Bednarek was not discharged in response to the shooting incident and his
+
+       employment at the Pocono Quarry continued after that incident.
+
+               c.     Defendants also failed to suspend Bednarek or impose any other, substantial
+
+       disciplinary action for the shooting incident.
+
+       34.     Defendants eventually discharged Bednarek from his employment at the Pocono
+
+Quarry on or about November 2020. However, the reason for Bednarek’s discharge was not racial
+
+harassment and any conduct concerning Powell. Rather, Bednarek was fired for making sexual
+
+comments about a co-worker’s spouse, an individual who was not employed by either of the
+
+
+
+
+                                                11
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 12 of 16
+
+
+
+
+Defendants.
+
+       35.     At all relevant times, including but not limited to the period June 2016 to July 2020,
+
+Defendants failed to adopt, implement or disseminate to employees an employment policy defining
+
+and prohibiting racial harassment in the workplace.
+
+       36.     At all relevant times, including but not limited to the period June 2016 to July 2020,
+
+Defendants failed to adopt, implement, or disseminate to employees a reasonably diligent
+
+complaint procedure concerning complaints of racial harassment in the workplace and
+
+investigations thereof.
+
+       37.     At all relevant times, including but not limited to the period June 2016 to July 2020,
+
+Defendants failed to train management personnel concerning racial harassment or investigations,
+
+correction or prevention of workplace harassment.
+
+       38.     The harassment described in Paragraphs 15 through 37, above, was sufficiently
+
+severe or pervasive that a reasonable person in such circumstances would have considered
+
+Defendants’ work environment to be hostile or abusive because of race, Black, and/or retaliation
+
+for opposition to unlawful employment practices.
+
+       39.      The harassment described in Paragraphs 15 through 37, above, caused Powell to
+
+consider Defendants’ work environment to be hostile or abusive because of race, Black, and/or
+
+retaliation for opposition to unlawful employment practices.
+
+       40.      Defendants knew and reasonably should have known of the harassment described
+
+in Paragraphs 15 through 37, above.
+
+       41.     Defendants failed to take actions reasonably calculated to end the harassment
+
+described in Paragraphs 15 through 37, above, and to prevent its reoccurrence.
+
+       42.     Defendants failed to create reasonable avenues for complaints about racial and
+
+
+
+
+                                                12
+          Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 13 of 16
+
+
+
+
+retaliatory harassment and otherwise failed to exercise reasonable care to prevent racial and
+
+retaliatory harassment.
+
+        43.     The effect of the practices complained of in Paragraphs 15 through 42 above has
+
+been to deprive Harold Powell of equal employment opportunities and otherwise adversely affect
+
+his status as an employee because of race and retaliation for conduct protected by Section 704(a)
+
+of Title VII.
+
+        44.     The unlawful employment practices complained of in Paragraphs 15 through 42
+
+above were intentional.
+
+        45.     The unlawful employment practices complained of in Paragraphs 15 through 42
+
+above were done with malice or with reckless indifference to the federally protected rights of
+
+Harold Powell.
+
+    Count II: Constructive Discharge Because of Race (Black) and Retaliation (Opposition)
+
+        46.     The Commission incorporates by reference the factual allegations set forth in
+
+Paragraphs 15 through 45, above.
+
+        47.     On or about July 29, 2020, Defendants subjected Powell to constructive discharge
+
+because of his race, Black, and in retaliation for his opposition to unlawful employment practices
+
+in violation of Sections 703(a)(1) and 704(a) of Title VII, 42 U.S.C. §§ 2000e-2(a)(1) & 2000e-
+
+3(a).
+
+        48.     As a result of the racial harassment and Defendants’ failure to correct and prevent
+
+such harassment set forth at Paragraphs 15 through 45, above, Defendants created working
+
+conditions sufficiently intolerable that a reasonable person would feel compelled to end their
+
+employment.
+
+        49.     On or about July 29, 2020, Powell resigned his employment at the Pocono Quarry.
+
+
+
+
+                                                13
+             Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 14 of 16
+
+
+
+
+        50.      Powell felt compelled to resign his employment because of the working conditions
+
+described above, and he resigned for that reason.
+
+        51.      The effect of the practices complained of in Paragraphs 46 through 50 above has
+
+been to deprive Harold Powell of equal employment opportunities and otherwise adversely affect
+
+his status as an employee because of race and retaliation for conduct protected by Section 704(a)
+
+of Title VII.
+
+        52.      The unlawful employment practices complained of in Paragraphs 46 through 50
+
+above were intentional.
+
+        53.      The unlawful employment practices complained of in Paragraphs 46 through 50
+
+above were done with malice or with reckless indifference to the federally protected rights of
+
+Harold Powell.
+
+                                      PRAYER FOR RELIEF
+
+        Wherefore, the Commission respectfully requests that this Court:
+
+        A.       Grant a permanent injunction enjoining Defendants, their officers, agents, servants,
+
+employees, attorneys, and all persons in active concert or participation with them, from engaging
+
+in unlawful employment practices by creating, tolerating or failing to take action required by law
+
+to prevent or correct harassment of employees because of race or because such persons engaged
+
+in conduct protected by Section 704(a) of Title VII, including but not limited to opposing
+
+employment practices reasonably believed to be unlawful under Title VII.
+
+        B.       Order Defendants to institute and carry out policies, practices, and programs that
+
+provide equal employment opportunities for Black persons and persons who have engaged in
+
+conduct protected by Section 704(a) of Title VII, and which eradicate the effects of its past and
+
+present unlawful employment practices, including but not limited to an injunction mandating
+
+
+
+
+                                                  14
+              Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 15 of 16
+
+
+
+
+procedures and employee training regarding Title VII requirements, with particular emphasis on
+
+the prohibition of harassment because of race, an employer’s legal duty to take actions reasonably
+
+calculated to prevent and correct such harassment, and the rights of employees who engage in
+
+conduct protected by Section 704(a) of Title VII.
+
+         C.       Order Defendants to make whole Harold Powell by providing appropriate backpay
+
+with prejudgment interest, in amounts to be determined by the Court, and other affirmative relief
+
+necessary to eradicate the effects of their unlawful employment practices, including but not limited
+
+to front pay in lieu of reinstatement.
+
+         D.       Order Defendants to make whole Harold Powell by providing compensation for
+
+past and future pecuniary losses resulting from the unlawful employment practices described in
+
+Paragraphs 15 through 53 above, in amounts to be determined at trial.
+
+         E.       Order Defendants to make whole Harold Powell by providing compensation for
+
+past and future nonpecuniary losses resulting from the unlawful practices complained of in
+
+Paragraphs 15 through 53 above, including but not limited to emotional pain, suffering,
+
+inconvenience, loss of enjoyment of life, and humiliation, in amounts to be determined at trial.
+
+         F.       Order Defendants to pay punitive damages to Harold Powell for malicious and
+
+reckless conduct, as described in Paragraphs 15 through 53 above, in amounts to be determined at
+
+trial.
+
+         G.       Grant such further relief as the Court deems necessary and proper in the public
+
+interest.
+
+         H.       Award the Commission its costs of this action.
+
+                                      JURY TRIAL DEMAND
+
+         The Commission requests a jury trial on all questions of fact raised by its Complaint.
+
+
+
+
+                                                  15
+Case 2:21-cv-04060-PD Document 1 Filed 09/13/21 Page 16 of 16
+

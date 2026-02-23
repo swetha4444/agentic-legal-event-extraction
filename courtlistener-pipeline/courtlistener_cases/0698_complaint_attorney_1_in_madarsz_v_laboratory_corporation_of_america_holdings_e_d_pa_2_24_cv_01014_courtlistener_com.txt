@@ -1,0 +1,933 @@
+Source URL: https://www.courtlistener.com/docket/68323265/1/madarsz-v-laboratory-corporation-of-america-holdings/
+Title: Complaint (Attorney) – #1 in MADARSZ v. LABORATORY CORPORATION OF AMERICA HOLDINGS (E.D. Pa., 2:24-cv-01014) – CourtListener.com
+
+JS 44 (Rev. 10/20)                Case 2:24-cv-01014-GEKP
+                                                     CIVIL Document 1 Filed 03/08/24 Page 1 of 22
+                                                           COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+                                                                                                              Laboratory Corporation of America Holdings;
+           Arpad Madarsz                                                                                      LabCorp Early Development Laboratories, Inc.; and
+                                                                                                              Laboratory Drug Development Inc.
+    (b) County of Residence of First Listed Plaintiff                  Bucks County                            County of Residence of First Listed Defendant Burlington, NC
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Caren N. Gurmankin, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102, 215-545-7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                    625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                   of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability               690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                           400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                       PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                       820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                     830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                     835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                            New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                             840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                             LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                     710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                    Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                  720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                     Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                 740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability               751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                   790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                      791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                      Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                    870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                 or Defendant)                 896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                              871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                       IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment              Other:                              462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                465 Other Immigration                                                  950 Constitutionality of
+                                             Other                   550 Civil Rights                        Actions                                                                State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             29 U.S.C. §621, et seq.; 42 U.S.C. §2000e
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff was discriminated against because of his age and sex.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                            in excess of $75,000                           JURY DEMAND:                X Yes             No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+3/8/2024
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                           Case 2:24-cv-01014-GEKP   Document
+                                              UNITED STATES     1 Filed
+                                                            DISTRICT     03/08/24 Page 2 of 22
+                                                                     COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                         Warminster, PA 18974
+Address of Plaintiff: ______________________________________________________________________________________________
+                                           358 South Main Street, Burlington, NC 27215
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      03/08/2024
+DATE: __________________________________                     __________________________________________                                    205900
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+           Caren N. Gurmankin
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+     X        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     X        Relief other than monetary damages is sought.
+
+
+      03/08/2024
+DATE: __________________________________                     __________________________________________                                    205900
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+                Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 3 of 22
+                           IN THE UNITED STATES DISTRICT COURT
+                        FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                        CASE MANAGEMENT TRACK DESIGNATION FORM
+  Arpad Madarsz                                    :                             CIVIL ACTION
+                                                   :
+                          v.                       :
+Laboratory Corporation of America Holdings, et al. :
+                                                   :                             NO.
+
+    In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+    plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+    filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+    side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+    designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+    the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+    to which that defendant believes the case should be assigned.
+
+    SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+    (a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+    (b) Social Security – Cases requesting review of a decision of the Secretary of Health
+        and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+    (c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+    (d) Asbestos – Cases involving claims for personal injury or property damage from
+        exposure to asbestos.                                                                            ( )
+
+    (e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+        commonly referred to as complex and that need special or intense management by
+        the court. (See reverse side of this form for a detailed explanation of special
+        management cases.)                                                                               ( )
+
+    (f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+    3/8/2024                                                              Plaintiff, Arpad Madarsz
+    Date                               Attorney-at-law                       Attorney for
+     215-545-7676                   215-405-2900                          gurmankin@consolelaw.com
+
+    Telephone                           FAX Number                           E-Mail Address
+
+
+    (Civ. 660) 10/02
+     Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 4 of 22
+
+
+
+
+                IN THE UNITED STATES DISTRICT COURT FOR
+                 THE EASTERN DISTRICT OF PENNSYLVANIA
+
+________________________________
+                                    :
+ARPAD MADARSZ                       :
+Warminster, PA 18974                :                CIVIL ACTION NO.
+                                    :
+                        Plaintiff,  :
+                                    :
+             v.                     :
+                                    :
+LABORATORY CORPORATION              :
+OF AMERICA HOLDINGS                 :
+358 South Main Street               :
+Burlington, NC 27215                :                JURY TRIAL DEMANDED
+                                    :
+and                                 :
+                                    :
+LABCORP EARLY DEVELOPMENT :
+LABORATORIES, INC.                  :
+358 South Main Street               :
+Burlington, NC 27215                :
+                                    :
+and                                 :
+                                    :
+LABORATORY DRUG                     :
+DEVELOPMENT INC.                    :
+358 South Main Street               :
+Burlington, NC 27215                :
+                                    :
+                        Defendants. :
+________________________________    :
+
+                                     COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Arpad Madarasz, brings this action against his former employers,
+
+Laboratory Corporation of America Holdings; LabCorp Early Development Laboratories,
+
+Inc.; and, Laboratory Drug Development Inc. (together “Defendants”). Defendants
+
+terminated sixty-two (62) year old Plaintiff after removing his territory from him and
+      Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 5 of 22
+
+
+
+
+assigning it to younger, female employees, promoting a younger, female employee over
+
+him into a position for which he was qualified and which was not posted, placing him on
+
+an unjustified Performance Improvement Plan, and replacing him with a younger, female
+
+employee. Defendants’ discriminatory conduct towards Plaintiff violated the Age
+
+Discrimination in Employment Act, 29 U.S.C. §621, et seq. (“ADEA”) and Title VII of
+
+the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq. (“Title VII”). 1
+
+II.      PARTIES
+
+         1.      Plaintiff, Arpad Madarsz, is an individual and a citizen of the
+
+Commonwealth of Pennsylvania. He resides in Warminster, PA 18974.
+
+         2.      Plaintiff was born in April 1961. He was sixty-two (62) years old at the
+
+time that Defendants terminated his employment in June 2023.
+
+         3.      Plaintiff is male.
+
+         4.      Defendant, Laboratory Corporation of America Holdings, is a Delaware
+
+corporation with a principal place of business at 358 South Main Street, Burlington, NC
+
+27215.
+
+         5.      Defendant, LabCorp Early Development Laboratories, Inc., is a Delaware
+
+corporation with a principal place of business at 358 South Main Street, Burlington, NC
+
+27215.
+
+         6.      According to Defendants’ Position Statement that they submitted to the
+
+Equal Employment Opportunity Commission (“EEOC”) in response to Plaintiff’s Charge
+
+of Discrimination that he filed, Defendant Labcorp Early Development Laboratories Inc.
+
+was a wholly-owned subsidiary of Defendant Laboratory Drug Development Inc.
+
+1
+  Plaintiff plans to amend his Complaint one (1) year after the filing of his Charge with the Equal
+Employment Opportunity Commission (cross-filed with the Pennsylvania Human Relations Commission)
+to add claims under the Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”).
+
+
+                                                  2
+       Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 6 of 22
+
+
+
+
+        7.     Plaintiff was paid by Defendant LabCorp Early Development
+
+Laboratories, Inc.
+
+        8.     Defendants are engaged in an industry affecting interstate commerce and
+
+regularly do business in the Commonwealth of Pennsylvania.
+
+        9.     At all times material hereto, Defendants employed more than twenty (20)
+
+employees.
+
+        10.    At all times material hereto, Defendants acted by and through their
+
+authorized agents, servants, workmen, and/or employees acting within the course and
+
+scope of their employment with Defendants and in furtherance of Defendants’ business.
+
+        11.    At all times material hereto, Defendants acted as employers within the
+
+meaning of the statutes which form the basis of this matter.
+
+        12.    At all times material hereto, Plaintiff was an employee of Defendants
+
+within the meaning of the statutes which form the basis of this matter.
+
+        13.    Plaintiff worked out of his home in Warminster, PA 18974.
+
+III.    JURISDICTION AND VENUE
+
+        14.    The causes of action which form the basis of this matter arise under Title
+
+VII and the ADEA.
+
+        15.    The District Court has jurisdiction over Count I (Title VII) pursuant to 42
+
+U.S.C. § 2000e-5 and 28 U.S.C. § 1331.
+
+        16.    The District Court has jurisdiction over Count II (ADEA) pursuant to 29
+
+U.S.C. §626(c) and 28 U.S.C. §1331.
+
+        17.    The District Court has jurisdiction over all counts pursuant to 28 U.S.C.
+
+§1332 since the amount in controversy in the present action exceeds the sum or value of
+
+
+
+
+                                            3
+      Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 7 of 22
+
+
+
+
+seventy five thousand dollars ($75,000), exclusive of interests and costs, and there exists
+
+complete diversity of citizenship, as Plaintiff is a citizen of the Commonwealth of
+
+Pennsylvania and Defendants are not citizens of the Commonwealth of Pennsylvania.
+
+       18.     Venue is proper in the District Court under 28 U.S.C. §1391(b).
+
+       19.     On or about June 23, 2023, Plaintiff filed a Charge of Discrimination with
+
+the Equal Employment Opportunity Commission (“EEOC”), complaining of acts of
+
+discrimination alleged hereto. This Charge was cross-filed with the Pennsylvania Human
+
+Relations Commission (“PHRC”). Attached hereto, incorporated herein and marked as
+
+Exhibit “1” is a true and correct copy of the EEOC Charge (with personal identifying
+
+information redacted).
+
+       20.     On or about December 11, 2023, the EEOC issued to Plaintiff a Dismissal
+
+and Notice of Rights for his June 2023 EEOC Charge. Attached hereto, incorporated
+
+herein and marked as Exhibit “2” is a true and correct copy of that notice (with personal
+
+identifying information redacted).
+
+       21.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+       22.     Plaintiff started working at Defendants on or about August 21, 2018.
+
+       23.     At the time of his termination, Plaintiff held the position of Senior
+
+Business Development Director, Early Development.
+
+       24.     Plaintiff’s job was to sell Defendants’ Early Development services to
+
+small to mid-size biotechnology companies in the Boston, MA area who were developing
+
+innovative new drugs and needed assistance doing so and bringing the drugs to market,
+
+
+
+
+                                             4
+     Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 8 of 22
+
+
+
+
+specifically in connection with testing the drugs for safety using, primarily, laboratory
+
+animals.
+
+       25.     As of the time of his termination from Defendants, Plaintiff had worked in
+
+contract research companies servicing biotechnology and pharmaceutical companies for
+
+over thirty years.
+
+       26.     At all times material hereto, Plaintiff performed his job duties in a highly
+
+competent manner. By way of example only, in 2019, Plaintiff was named a member of
+
+Defendants’ Gem Club, which is awarded to the top salesperson and is considered a
+
+significant and prestigious achievement at Defendants.
+
+       27.     Plaintiff started reporting directly to Victoria Murray-Tait (female),
+
+Executive Director, in or around January 2022. Murray-Tait reported directly to Kristine
+
+Dehler (female), Head of North American Sales, Early Development.
+
+       28.     As of the time that Plaintiff started reporting directly to Murray-Tait and
+
+for the almost four years since he started at Defendants, he managed and developed a
+
+territory that was one that had significant potential for lucrative sales based on the
+
+number of biotechnology companies within the territory, and was one of the most
+
+lucrative based on sales that he had generated.
+
+       29.     Murray-Tait treated Plaintiff worse than female and/or younger direct
+
+reports, including that which is set forth herein.
+
+       30.     Murray-Tait harshly and unjustly criticized Plaintiff’s performance.
+
+       31.     During most of Plaintiff’s employment, he worked very closely with an
+
+experienced Proposal Manager at Defendants. That individual had been in the position at
+
+Defendants for over five (5) years.
+
+
+
+
+                                              5
+     Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 9 of 22
+
+
+
+
+       32.     The Proposal Managers at Defendants were key to managing, developing,
+
+and overseeing business proposals to potential clients.
+
+       33.     When the Proposal Manager with whom Plaintiff had worked since he
+
+started his employment at Defendants left his employment in around June 2022, Plaintiff
+
+was assigned to work with a new Proposal Manager.
+
+       34.     The new Proposal Manager with whom Plaintiff was assigned to work had
+
+been in the position only since late 2021 and was still being trained at the time that
+
+Plaintiff was assigned to work with her.
+
+       35.     Plaintiff repeatedly complained to Murray-Tait about the new Proposal
+
+Manager and that her lack of experience and performance deficiencies were making his
+
+job more difficult as he was not getting the support that someone in his position needed
+
+and he had to spend time doing tasks for which the Proposal Manager was responsible
+
+rather than work on developing sales within his territory.
+
+       36.     Murray-Tait acknowledged that she agreed with Plaintiff’s assessment that
+
+the performance, skills, and experience of the new Proposal Manager was deficient.
+
+       37.     Murray-Tait did not offer Plaintiff an alternative regarding the new
+
+Proposal Manager to whom he was assigned and she did not offer assistance to him in
+
+connection with that issue.
+
+       38.     On or about October 18, 2022, Murray-Tait informed Plaintiff that the
+
+bulk of the territory that he had managed and developed for the past three years was
+
+being removed from him and reassigned to two younger, female employees, a Senior
+
+Business Development Director and a Business Development Director.
+
+       39.     Plaintiff was also told that he was being assigned the less lucrative
+
+
+
+
+                                              6
+      Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 10 of 22
+
+
+
+
+territory that one of the younger female employees had handled prior to taking over his
+
+territory.
+
+           40.   Defendants’ only explanation to Plaintiff for the reassignment was that
+
+Defendants were realigning territories based on which client, and potential client,
+
+companies were supported by venture capital funding. Defendants did not explain why
+
+his accounts were removed from him and reassigned to his younger, female colleagues.
+
+           41.   As a result of Defendants’ reassignment of his territory, Plaintiff had to
+
+start from scratch and introduce himself and build relationships with new potential
+
+clients.
+
+           42.   Plaintiff believed that Defendants’ reassignment of Plaintiff’s territory,
+
+combined with a significant increase in his target goals shortly after he started to report to
+
+Murray-Tait, by seventy-two (72%) percent, set him up to fail.
+
+           43.   In or about January 2023, Defendants promoted Christina Fox (female)
+
+into the position of Team Lead.
+
+           44.   To Plaintiff’s information and belief, Fox is substantially younger than he
+
+is.
+
+           45.   Defendants did not post the position of Team Lead into which Fox was
+
+promoted.
+
+           46.   Plaintiff was qualified for the position of Team Lead into which Fox was
+
+promoted.
+
+           47.   Plaintiff would have applied for the position of Team Lead into which Fox
+
+was promoted if Defendants had posted the position.
+
+           48.   Defendants did not provide Plaintiff with an explanation as to why he was
+
+
+
+
+                                               7
+    Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 11 of 22
+
+
+
+
+not promoted into the position of Team Lead.
+
+       49.     On or about February 14, 2023, Murray-Tait met with Plaintiff to give him
+
+his performance review.
+
+       50.     In that meeting, Murray-Tait informed Plaintiff that he was given a
+
+“Needs Improvement” rating on his performance review. She also told Plaintiff that he
+
+was being placed on a sixty-day Performance Improvement Plan (“PIP”).
+
+       51.     Murray-Tait told Plaintiff that he received a “Needs Improvement” rating
+
+on his performance review and that he was placed on a PIP because of on-going concerns
+
+regarding his performance and/or behavior.
+
+       52.     The PIP included subjective targets and goals.
+
+       53.     The PIP also included references to alleged complaints from clients and
+
+potential customers. Murray-Tait refused to give Plaintiff any details about the alleged
+
+complaints, including which clients had allegedly complained.
+
+       54.     Plaintiff and Murray-Tait met regularly to review the PIP following his
+
+placement on the PIP.
+
+       55.     Murray-Tait included in notes of the follow-up meetings that Plaintiff had
+
+met targets and goals included in the PIP.
+
+       56.     Murray-Tait included in the notes of the follow-up meetings that Plaintiff
+
+had previously complained about the new Proposal Manager, to whom he was reassigned
+
+in about June 2022, had made his job more difficult.
+
+       57.     Murray-Tait did not take steps to help Plaintiff in connection with the
+
+issue of his Proposal Manager, despite his repeated complaints that her lack of skills and
+
+experience, and her performance deficiencies, were making his job more difficult.
+
+
+
+
+                                             8
+    Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 12 of 22
+
+
+
+
+        58.    On or about June 1, 2023, Defendants informed Plaintiff that his
+
+employment was terminated, effective immediately.
+
+        59.    Defendants told Plaintiff that he was terminated because he did not meet
+
+the objectives of the PIP.
+
+        60.    Plaintiff had not been told that Defendants extended the PIP beyond sixty
+
+days.
+
+        61.    Defendants did not provide Plaintiff with any documentation regarding his
+
+termination.
+
+        62.    At the time of Plaintiff’s termination, he was the only one terminated from
+
+Murray-Tait’s group.
+
+        63.    At the time of Plaintiff’s termination, he was one of the two oldest male
+
+employees reporting directly to Murray-Tait.
+
+        64.    To Plaintiff’s information and belief, he was replaced by a younger,
+
+female employee who was promoted into his Senior Business Development Director
+
+position.
+
+        65.    On Defendants’ website, they tout that fifty-nine (59%) percent of their
+
+“global management are women”.
+
+        66.    Plaintiff’s sex was a motivating and determinative factor in connection
+
+with Defendants’ discriminatory treatment of Plaintiff, including, but not limited to,
+
+failing to promote him into the position of Team Lead and terminating his employment.
+
+        67.    Plaintiff’s age was a motivating and determinative factor in connection
+
+with Defendants’ discriminatory treatment of Plaintiff, including, but not limited to,
+
+failing to promote him into the position of Team Lead and terminating Plaintiff’s
+
+
+
+
+                                             9
+    Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 13 of 22
+
+
+
+
+employment.
+
+        69.       As a direct and proximate result of the discriminatory conduct of
+
+Defendants, Plaintiff has in the past incurred, and may in the future incur, a loss of
+
+earnings and/or earning capacity, loss of benefits, pain and suffering, embarrassment,
+
+humiliation, loss of self-esteem, mental anguish, and loss of life’s pleasures, the full
+
+extent of which is not known at this time.
+
+                                      COUNT I - Title VII
+
+        70.       Plaintiff incorporates herein by reference paragraphs 1 through 69 above,
+
+as if set forth herein in their entirety.
+
+        71.       By committing the foregoing acts of discrimination against Plaintiff,
+
+Defendants have violated Title VII.
+
+        72.       Said violations were done with malice and/or reckless indifference.
+
+        73.       As a direct and proximate result of Defendants’ violation of Title VII,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+        74.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this
+
+Court grants the relief requested herein.
+
+        75.       No previous application has been made for the relief requested herein.
+
+                                      COUNT II - ADEA
+
+        76.       Plaintiff incorporates herein by reference paragraphs 1 through 75 above,
+
+as if set forth herein in their entirety.
+
+
+
+
+                                               10
+    Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 14 of 22
+
+
+
+
+          77.     By committing the foregoing acts of discrimination against Plaintiff,
+
+Defendants have violated the ADEA.
+
+          78.     Said violations were willful and warrant the imposition of liquidated
+
+damages.
+
+          79.     As a direct and proximate result of Defendants’ violation of the ADEA,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorney’s
+
+fees and costs.
+
+          80.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this
+
+Court grants the relief requested herein.
+
+          81.     No previous application has been made for the relief requested herein.
+
+                                            RELIEF
+
+          WHEREFORE, Plaintiff seeks damages and legal and equitable relief in
+
+connection with Defendants’ improper conduct, and specifically prays that the Court
+
+grant the following relief to the Plaintiff by:
+
+                  (a)     declaring the acts and practices complained of herein to be in
+
+violation of Title VII;
+
+                  (b)     declaring the acts and practices complained of herein to be in
+
+violation of the ADEA;
+
+                  (c)     enjoining and permanently restraining the violations alleged
+
+herein;
+
+                  (d)     entering judgment against the Defendants and in favor of the
+
+Plaintiff in an amount to be determined;
+
+
+
+
+                                               11
+    Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 15 of 22
+
+
+
+
+               (e)      awarding liquidated damages to Plaintiff under the ADEA;
+
+               (f)      awarding compensatory damages to make the Plaintiff whole for
+
+all lost earnings, earning capacity and benefits, past and future, which Plaintiff has
+
+suffered or may suffer as a result of Defendants’ improper conduct;
+
+               (g)      awarding compensatory damages to Plaintiff for past and future
+
+pain and suffering, emotional upset, mental anguish, humiliation, and loss of life’s
+
+pleasures, which Plaintiff has suffered or may suffer as a result of Defendants’ improper
+
+conduct;
+
+               (h)      awarding Plaintiff such other damages as are appropriate under the
+
+Title VII and the ADEA;
+
+               (i)      awarding Plaintiff the costs of suit, expert fees and other
+
+disbursements, and reasonable attorney’s fees; and,
+
+               (j)      granting such other and further relief as this Court may deem just,
+
+proper, or equitable including other equitable and injunctive relief providing restitution
+
+for past violations and preventing future violations.
+
+
+
+                                               CONSOLE MATTIACCI LAW
+
+
+
+Dated:     03/08/2024                  BY:     ______________________
+                                               Caren N. Gurmankin, Esq.
+                                               1525 Locust St., 9th Floor
+                                               Philadelphia, PA 19102
+                                               (215) 545-7676
+
+                                               Attorney for Plaintiff,
+                                               Arpad Madarasz
+
+
+
+
+                                              12
+Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 16 of 22
+
+
+
+
+                    Exhibit 1
+Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 17 of 22
+Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 18 of 22
+Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 19 of 22
+Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 20 of 22
+Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 21 of 22
+
+
+
+
+                    Exhibit 2
+        Case 2:24-cv-01014-GEKP Document 1 Filed 03/08/24 Page 22 of 22
+
+
+        U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+                                                                                      Philadelphia District Office
+                                                                                        801 Market St, Suite 1000
+                                                                                           Philadelphia, PA 19107
+                                                                                                   (267) 589-9700
+                                                                                          Website: www.eeoc.gov
+
+
+                  DETERMINATION AND NOTICE OF RIGHTS
+                   (This Notice replaces EEOC FORMS 161, 161-A & 161-B)
+
+                                       Issued On: 12/11/2023
+To: Arpad Madarasz
+
+
+Charge No: 530-2023-06235
+EEOC      Representative       and
+telephone number:
+                                     Legal Unit
+                                     (267) 589-9707
+
+
+                               DETERMINATION OF CHARGE
+
+The EEOC issues the following determination: The EEOC will not proceed further with its
+investigation and makes no determination about whether further investigation would establish
+violations of the statute. This does not mean the claims have no merit. This determination does not
+certify that the respondent is in compliance with the statutes. The EEOC makes no finding as to
+the merits of any other issues that might be construed as having been raised by this charge.
+
+                              NOTICE OF YOUR RIGHT TO SUE
+
+This is official notice from the EEOC of the dismissal of your charge and of your right to sue. If
+you choose to file a lawsuit against the respondent(s) on this charge under federal law in federal
+or state court, your lawsuit must be filed WITHIN 90 DAYS of your receipt of this notice.
+Receipt generally occurs on the date that you (or your representative) view this document. You
+should keep a record of the date you received this notice. Your right to sue based on this charge
+will be lost if you do not file a lawsuit in court within 90 days. (The time limit for filing a lawsuit
+based on a claim under state law may be different.)
+If you file suit, based on this charge, please send a copy of your court complaint to this office.
+
+                                               On behalf of the Commission,
+
+                                               Digitally Signed By: Karen McDonough
+                                               12/11/2023
+                                               Karen McDonough
+                                               Deputy District Director
+

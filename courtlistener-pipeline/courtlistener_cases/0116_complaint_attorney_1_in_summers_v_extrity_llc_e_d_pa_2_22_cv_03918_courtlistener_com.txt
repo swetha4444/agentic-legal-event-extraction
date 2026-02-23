@@ -1,0 +1,1595 @@
+Source URL: https://www.courtlistener.com/docket/65394545/1/summers-v-extrity-llc/
+Title: Complaint (Attorney) – #1 in SUMMERS v. EXTRITY, LLC (E.D. Pa., 2:22-cv-03918) – CourtListener.com
+
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 1 of 35
+
+
+
+
+               IN THE UNITED STATES DISTRICT COURT
+            FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+DIJON SUMMERS,                                JURY TRIAL DEMANDED
+
+                      Plaintiff,              Civ. No. _____________
+
+v.
+
+EXTRITY, LLC, DAVID H.
+COLEMAN d/b/a EXTRITY
+SERVICES, and JOHN DOE
+DEFENDANTS 1-10,
+
+                      Defendants.
+
+
+                                    COMPLAINT
+
+      Plaintiff, Dijon Summers (“Plaintiff”), by and through his counsel, Mobilio
+
+Wood, files the instant Complaint against Defendants, Extrity, LLC (“Extrity”),
+
+David H. Coleman d/b/a Extrity Services (“Coleman”) (collectively, the
+
+“Employer Defendants”), and John Doe Defendants 1-10, averring in support
+
+thereof as follows:
+
+                                    Introduction
+
+      1.      This cause of action arises out of Plaintiff’s former joint employment
+
+with the Employer Defendants.
+
+      2.      Plaintiff is a transgender male. Plaintiff asserts claims and seeks
+
+monetary damages for hostile work environment, discrimination, and retaliation, in
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 2 of 35
+
+
+
+
+violation of Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. §
+
+2000e et seq. Plaintiff also asserts state law claims for negligent hiring, retention,
+
+and supervision, intentional infliction of emotional distress, and civil conspiracy.
+
+      3.      As further described herein, the Employer Defendants intentionally
+
+and systematically deprived Plaintiff of his federally protected rights by, among
+
+other things, repeatedly “outing” Plaintiff’s gender identity to a number of his
+
+coworkers without his consent.
+
+      4.      As a result, one such coworker who learned of Plaintiff’s gender
+
+identity, Lamere Nathaniel (“Nathaniel”), began openly voicing threats to “fuck
+
+up” and “kill” Plaintiff due to the fact that he was transgender.
+
+      5.      Nathaniel is a violent, convicted criminal who had engaged in a
+
+pattern of misconduct demonstrating his disregard for human life and safety prior
+
+to his employment with the Employer Defendants, including committing sexual
+
+assault, robbery, and carrying a firearm without a license.
+
+      6.      What is worse, the Employer Defendants’ Director of Operations was
+
+explicitly alerted to Nathaniel’s transphobic threats against Plaintiff’s life, but
+
+outright ignored the warning.
+
+      7.      Due to the Employer Defendants’ failure to take corrective action,
+
+Nathaniel brutally assaulted Plaintiff in the workplace, causing severe injuries to
+
+Plaintiff and necessitating him to seek immediate medical treatment.
+
+
+                                           2
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 3 of 35
+
+
+
+
+      8.      Following Nathaniel’s assault on Plaintiff, Plaintiff returned to work,
+
+where, quite incredibly, the Employer Defendants continued to “out” him to
+
+additional coworkers who were not aware of his gender identity.
+
+      9.      Plaintiff thereafter faced additional transphobic slurs from his
+
+colleagues, and was nearly assaulted for a second time during his shift.
+
+      10.     Plaintiff eventually voiced concern to the Employer Defendants about
+
+their discriminatory conduct, and was terminated the very next day.
+
+      11.     Following Plaintiff’s termination, employees and/or agents of the
+
+Employer Defendants sent a series of threatening text message communications to
+
+Plaintiff – including unequivocal threats to kill Plaintiff – which were meant, at
+
+least in part, to dissuade Plaintiff from pursuing the instant action.
+
+      12.     As a result of Defendants’ unlawful conduct, Plaintiff has been
+
+harmed.
+
+                                        Parties
+
+      13.     Plaintiff is an adult individual and citizen of the Commonwealth of
+
+Pennsylvania, and is a former joint employee of Defendants Extrity and Coleman.
+
+      14.     Defendant Extrity is a Delaware limited liability company that
+
+operates a security services company located at 1601 Market St., 19th Floor,
+
+Philadelphia, Pennsylvania 19103.
+
+
+
+
+                                           3
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 4 of 35
+
+
+
+
+      15.    Defendant Coleman is an adult individual doing business under a
+
+Pennsylvania fictitious name, “Extrity Services”, who operates a security services
+
+company located at 1601 Market St., 19th Floor, Philadelphia, Pennsylvania
+
+19103.
+
+      16.    John Doe Defendants 1-10 is a person or persons whose identities are
+
+presently unknown. Plaintiff believes that discovery in this action will unveil the
+
+true identities of John Doe Defendants 1-10.
+
+      17.    At all times relevant and material herein, the Employer Defendants
+
+acted by and through their ostensible and/or actual agents, servants, workmen
+
+and/or employees.
+
+                              Jurisdiction and Venue
+
+      18.    This Court has jurisdiction over Plaintiff’s federal claims in
+
+accordance with 28 U.S.C. § 1331 because this civil action arises under a law of
+
+the United States and seeks redress for violations of a federal law. This Court has
+
+jurisdiction over Plaintiff’s state law claims because they are supplemental to
+
+Plaintiff’s underlying federal claims and derive from a common nucleus of
+
+operative facts pursuant to 28 U.S.C. § 1367.
+
+      19.    This Court may properly maintain personal jurisdiction over
+
+Defendants because Defendants’ contacts with this Commonwealth and this
+
+
+
+
+                                          4
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 5 of 35
+
+
+
+
+judicial district are sufficient for the exercise of jurisdiction over Defendants to
+
+comply with traditional notions of fair play and substantial justice.
+
+       20.     Venue is properly laid in this judicial district pursuant to
+
+28 U.S.C. § 1391, as a substantial part of the acts or omissions giving rise to the
+
+claims alleged herein occurred within this judicial district, and Defendants are
+
+subject to personal jurisdiction in this district.
+
+                       Exhaustion of Administrative Remedies
+
+       21.     On or around July 8, 2022, Plaintiff dual-filed a Charge of
+
+Discrimination with the Equal Employment Opportunity Commission (“EEOC”)
+
+and Pennsylvania Human Relations Commission (“PHRC”) against the Employer
+
+Defendants, alleging that the Employer Defendants unlawfully discriminated
+
+against him on the basis of his gender identity, and retaliated against him for
+
+engaging in protected activity, in violation of Title VII of the Civil Rights Act of
+
+1964, as amended, 42 U.S.C. § 2000e et seq. (“Title VII”), and the Pennsylvania
+
+Human Relations Act, as amended, 43 P.S. § 951 et seq. (“PHRA”).
+
+       22.     On August 17, 2022, the EEOC issued a Notice of Right to Sue to
+
+Plaintiff. 1
+
+
+1
+ Plaintiff intends to file a motion for leave to amend the instant Complaint to
+assert claims for violation of the PHRA against the Employer Defendants
+following the expiration of 12 months from the date on which he dual-filed his
+Charge of Discrimination with the PHRC.
+
+
+                                            5
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 6 of 35
+
+
+
+
+                                 Factual Allegations
+
+A.    Plaintiff’s Supervisor “Outs” Him to His Coworkers, Resulting in
+      Plaintiff Being Harassed and Threatened Due to His Gender Identity
+
+      23.     Plaintiff is a transgender male.
+
+      24.     Plaintiff was hired by the Employer Defendants in February 2022 as a
+
+security guard.
+
+      25.     When Plaintiff was hired, he was not provided with any anti-
+
+harassment, anti-discrimination, or complaint-reporting training and/or policies of
+
+any nature.
+
+      26.     Around the time of Plaintiff’s hire, the Southeastern Pennsylvania
+
+Transportation Authority (“SEPTA”) contracted with the Employer Defendants for
+
+the provision of security services.
+
+      27.     Plaintiff was thereafter staffed as a security guard at various rail lines
+
+operated by SEPTA throughout the City of Philadelphia.
+
+      28.     Soon after Plaintiff was hired, his supervisor, William Bates
+
+(“Bates”), learned that Plaintiff was transgender, and “outed” Plaintiff to several
+
+of his coworkers.2
+
+
+
+
+2
+  Outing is the act of disclosing an LGBT person’s sexual orientation or gender
+identity without that person’s consent.
+
+
+                                            6
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 7 of 35
+
+
+
+
+      29.    Bates verbally advised numerous employees that Plaintiff was
+
+transgender, and also displayed social media content suggesting that Plaintiff was
+
+transgender to several employees.
+
+      30.    One of the Employer Defendants’ employees who learned of
+
+Plaintiff’s gender identity was his coworker, Lamere Nathaniel (“Nathaniel”).
+
+      31.    After learning that Plaintiff was transgender, Nathaniel began openly
+
+voicing transphobic comments about Plaintiff, including referring to Plaintiff as a
+
+“tranny.”
+
+      32.    Even more troubling, Nathaniel began broadcasting threats to commit
+
+acts of violence against Plaintiff due to his gender identity.
+
+      33.    More specifically, Nathaniel continually boasted that he planned to
+
+“fuck [Plaintiff] up,” and that he was “going to end up killing [Plaintiff].”
+
+B.    Nathaniel’s Violent Criminal History Demonstrating His Disregard for
+      Human Life and Safety
+
+      34.    Prior to Nathaniel’s employment with the Employer Defendants, he
+
+had been criminally charged and pleaded guilty to several crimes of violence and
+
+reckless, willful, and wanton conduct, demonstrating his disregard for the safety
+
+and well-being of others, including sexual assault, robbery, and carrying a firearm
+
+without a license.
+
+      35.    In particular, according to publicly available records, in September
+
+2014, Nathaniel was charged with felony aggravated indecent assault, felony
+
+                                           7
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 8 of 35
+
+
+
+
+robbery, indecent assault, attempted theft by unlawful taking, simple assault,
+
+harassment, and criminal mischief.
+
+      36.    Pursuant to the publicly docketed criminal complaint underlying the
+
+September 2014 charges, Nathaniel violently ripped a purse off of a woman’s
+
+body, causing the purse strap to break, and then sexually assaulted her.
+
+      37.    In August 2015, Nathaniel pleaded guilty to assault and attempted
+
+theft by unlawful taking related to the September 2014 encounter, and was
+
+sentenced to 11 ½ months to 23 months in prison.
+
+      38.    Previously, in March 2012, publicly available records indicate that
+
+Nathaniel pleaded guilty to carrying a firearm without a license.
+
+      39.    The foregoing information concerning Nathaniel’s reckless
+
+propensities was publicly available and accessible to the Employer Defendants at
+
+the time that they hired Nathaniel.
+
+C.    Plaintiff’s Coworker Lodges a Complaint With the Employer
+      Defendants’ Director of Operations Regarding Nathaniel’s Threats
+      Towards Plaintiff, but the Employer Defendants Ignore the Complaint
+
+      40.    Several of Plaintiff’s coworkers heard Nathaniel’s transphobic slurs
+
+and threats, including Plaintiff’s coworker, Jay Hernandez (“Hernandez”).
+
+      41.    In or around late-April 2022, Hernandez called the Employer
+
+Defendants’ Director of Operations, Steven Lindsay (“Lindsay”), and advised
+
+Lindsay that he had an important matter to discuss.
+
+
+                                         8
+            Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 9 of 35
+
+
+
+
+      42.      Lindsay initially replied that he was in a meeting at the time, but after
+
+Hernandez stressed that the matter was urgent, Lindsay agreed to step out of his
+
+meeting to talk to Hernandez.
+
+      43.      Hernandez then explained that he was concerned because he had
+
+heard Nathaniel threatening to “fuck up” and “kill” Plaintiff due to his gender
+
+identity.
+
+      44.      Hernandez further requested that he no longer be staffed with
+
+Nathaniel in the future.
+
+      45.      Lindsay responded that he would “look into” Hernandez’s concerns,
+
+but stated that he first needed to “get some understanding of this whole trans
+
+thing,” because he had never previously encountered a similar situation.
+
+      46.      Following Hernandez’s complaint to Lindsay, the Employer
+
+Defendants did not take any action whatsoever against Nathaniel.
+
+      47.      In fact, the Employer Defendants continued to schedule Nathaniel to
+
+work on the same shift as Plaintiff and Hernandez.
+
+D.    Nathaniel Brutally Assaults Plaintiff in the Workplace
+
+      48.      On or around May 10, 2022, Plaintiff and Nathaniel were both
+
+scheduled to work at SEPTA’s City Hall Station in Philadelphia, Pennsylvania.
+
+
+
+
+                                            9
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 10 of 35
+
+
+
+
+      49.     Near the end of Plaintiff’s shift, Nathaniel approached Plaintiff
+
+without provocation and asked, “What’s up with all that shit you’ve been
+
+talking?”, implying that Plaintiff had spoken poorly about Nathaniel.
+
+      50.     Nathaniel than repeatedly screamed at Plaintiff to “come outside” and
+
+“fight.”
+
+      51.     Plaintiff attempted to deescalate the situation and stated that he did
+
+not want to fight Nathaniel.
+
+      52.     Nathaniel then stated, “Watch this,” and abruptly walked away.
+
+      53.     Several minutes later, one of Plaintiff’s supervisors, who had learned
+
+of Nathaniel’s confrontation, sent a text message to Plaintiff advising Plaintiff to
+
+“[l]eave City Hall,” followed by a text message instructing Plaintiff to “[j]ust
+
+separate from Lamere [Nathaniel].”
+
+      54.     Plaintiff called his supervisor on the phone for clarification, and was
+
+instructed to meet his supervisor at SEPTA’s Spring Garden Station.
+
+      55.     Plaintiff therefore boarded the next available train to SEPTA’s Spring
+
+Garden Station.
+
+      56.     Before the train door closed, however, Nathaniel and two accomplices
+
+rushed into the train car and began brutally assaulting Plaintiff.
+
+
+
+
+                                          10
+          Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 11 of 35
+
+
+
+
+        57.   Nathaniel and his accomplices repeatedly punched Plaintiff in his
+
+head and face, and attempted to pull Plaintiff’s sweatshirt over his head in order to
+
+prevent him from defending himself.
+
+        58.   As the trio assaulted Plaintiff, Nathaniel repeatedly yelled that
+
+Plaintiff was a “girl” and a “bitch.”
+
+        59.   The assault lasted for several minutes, until the train reached its next
+
+stop.
+
+        60.   As a result of the assault, Plaintiff suffered bruising and swelling to
+
+the left frontal region of his head, several jammed fingers, and bruising and
+
+swelling to his right forearm, and was required to seek immediate medical care.
+
+E.      The Employer Defendants Attempt to Justify Their Complete Failure to
+        Take Corrective Action Prior to Nathaniel’s Attack on Plaintiff
+
+        61.   Following Nathaniel’s assault on Plaintiff, Plaintiff’s colleague
+
+Hernandez sent a text message to the Employer Defendants’ Director of
+
+Operations, Lindsay, chastising the Employer Defendants for refusing to heed his
+
+prior warnings about Nathaniel’s threats.
+
+        62.   In his text message, Hernandez stated:
+
+              Good morning Steve [Lindsay]. It was brought to my
+              attention that [Plaintiff] was jumped last night by Lamere
+              [Nathaniel], this breaks my heart because I tried to
+              prevent all of this from happening when I first gave you a
+              call a few weeks ago to warn you about the issues
+              Lamere [Nathaniel] had with trans people like
+              [Plaintiff] . . . . Anything could have happened to us by
+
+                                           11
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 12 of 35
+
+
+
+
+              this guy and he remained on the job. It was very clear
+              from the beginning that Lamere [Nathaniel] hates trans
+              people as I told you on our first phone conversation. I
+              always feared the worst when it came to him because no
+              one really knew what he would do.
+
+      63.     Lindsay replied and made clear that the Employer Defendants
+
+believed that they did not have any responsibility to act on Hernandez’s complaint,
+
+and even shifted the blame to Hernandez for allegedly alerting Plaintiff to
+
+Nathaniel’s threats against his life:
+
+              Hello J,
+
+              At that time you were the only person he [Nathaniel]
+              talked to. If he was fired after you could have not been
+              safe. Septa is a public place who is to say who [sic]
+              wouldn’t have came up there and confronted [Plaintiff]
+              anyway.
+
+              Did you call [Plaintiff] and tell him because Lamere
+              [Nathaniel] claims [Plaintiff] called him threatening
+              saying that another co-worker told him that Lamere
+              [Nathaniel] had a problem. This is what escalated the
+              situation.
+
+(emphasis added).
+
+F.    Plaintiff Returns to Work Following Nathaniel’s Assault, and His
+      Supervisor Continues to “Out” Him and Instigate Additional Acts of
+      Harassment Against Him
+
+      64.     Notwithstanding the Employer Defendants’ indifference towards
+
+transphobia in their workplace, Plaintiff returned to work following Nathaniel’s
+
+assault.
+
+
+                                         12
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 13 of 35
+
+
+
+
+      65.    Incredibly, soon after Plaintiff’s return to work, his supervisor, Bates,
+
+continued to “out” Plaintiff to more of the Employer Defendants’ employees who
+
+were not aware of his gender identity, including employee Dymere Campbell
+
+(“Campbell”).
+
+      66.    Just like Nathaniel had done, Campbell too began openly voicing
+
+disdain for Plaintiff due to his gender identity.
+
+      67.    On or around June 23, 2022, during Plaintiff’s shift, he was speaking
+
+with his supervisor, Bates, when Campbell called Bates on his cell phone.
+
+      68.    After Bates spoke with Campbell for one to two minutes, Bates loudly
+
+asked, “Are you sure you want me to do that?”, and then stated, “Hold on real
+
+quick,” and placed the call on speaker phone.
+
+      69.    After Bates placed the call on speaker phone, he remarked, “What did
+
+you say bro?”, in an attempt to cause Campbell to repeat whatever had been said
+
+before the call had been placed on speaker.
+
+      70.    In response, Campbell began screaming, “Where’s that tranny boy
+
+at!”, “Where’s that trans man at!”, and “Where the fuck is he!”, while
+
+threatening to harm Plaintiff.
+
+      71.    Campbell then hung up the phone.
+
+
+
+
+                                          13
+          Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 14 of 35
+
+
+
+
+        72.    One of Plaintiff’s coworkers who was present during Campbell’s
+
+transphobic outburst emphatically asked Bates why he placed the call on speaker
+
+phone.
+
+        73.    Bates defended both his and Campbell’s conduct, and replied, “He’s
+
+just joking around.”
+
+        74.    Several minutes after the phone call had ended, Plaintiff was directed
+
+to report to SEPTA’s City Hall Station, where Campbell had been working at the
+
+time.
+
+        75.    As soon as Plaintiff arrived at SEPTA’s City Hall Station, Campbell
+
+approached him and shouted, “What’s up tranny boy!”, and challenged Plaintiff to
+
+“fight” him.
+
+        76.    Campbell repeatedly addressed Plaintiff as a “tranny” and a “girl,”
+
+and yelled that he was going to “fuck [Plaintiff] up” and “treat you like the bitch
+
+that you are!”
+
+        77.    Campbell continued to hurl transphobic slurs towards Plaintiff, but
+
+was ultimately subdued, and was fortunately unable to complete his attempted
+
+assault upon Plaintiff.
+
+        78.    Following Campbell’s outburst, Plaintiff confronted his supervisor,
+
+Bates, about Bates continually disclosing Plaintiff’s gender identity and instigating
+
+others to harass him.
+
+
+                                          14
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 15 of 35
+
+
+
+
+      79.    Plaintiff attempted to explain that Bates’ conduct was putting
+
+Plaintiff’s safety in jeopardy.
+
+G.    The Employer Defendants Terminate Plaintiff for Opposing the
+      Ongoing Harassment, but Do Not Terminate His Harassers
+
+      80.    One day later, on June 24, 2022, Bates issued Plaintiff an “Employee
+
+Action Form” terminating his employment with the Company.
+
+      81.    Plaintiff’s “Employee Action Form” attributed his termination to
+
+alleged “misconduct”; more specifically, “On Thursday June 23rd, 2022 while on
+
+shift [Plaintiff] became involved in an altercation with a fellow co-worker. During
+
+the altercation [Plaintiff] [made] several inappropriate comments and threats
+
+towards fellow employees.”
+
+      82.    The assertions set forth in the “Employee Action Form” were false.
+
+      83.    Plaintiff’s “Employee Action Form” provides that it was “approved”
+
+by the Employer Defendants’ Director of Operations, Lindsay.
+
+      84.    The Employer Defendants did not terminate Bates or Campbell for
+
+their discriminatory conduct.
+
+H.    The Employer Defendants’ Agents Lodge Death Threats Against
+      Plaintiff Following His Termination
+
+      85.    Following Plaintiff’s termination, Plaintiff received a series of
+
+anonymous and highly threatening text messages which, upon information and
+
+belief, were sent by the Employer Defendants’ agents, representatives, and/or
+
+
+
+                                         15
+        Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 16 of 35
+
+
+
+
+employees, either at the direction of the Employer Defendants or with the
+
+Employer Defendants’ knowledge and consent.
+
+      86.    For instance, soon after Plaintiff’s termination, he received an
+
+unsolicited text message stating:
+
+             We on our way to ya house bitch I told u last time was
+             ya last time playing with me, bitch nobody was playing
+             on ya phone but watch this[.]
+
+             Gonna do you just like lamere [Nathaniel] did[.]
+
+      87.    Plaintiff also received a text message displaying images of coffins,
+
+advising Plaintiff to “pick 1”, and stating that he would soon “be in one” because
+
+he was going to “die”, and further referring to him as a “faggot”:
+
+
+
+
+                                         16
+          Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 17 of 35
+
+
+
+
+      88.     In addition, Plaintiff received a text message from an individual
+
+holding himself out as Plaintiff’s former coworker and harasser, Dymere
+
+Campbell, which provided as follows:
+
+              Yo this Dymere [Cambell] when you so call sue the
+              company keep my name out that shit you rat ass nigga
+              . . . . I won’t bother you after dis just keep my name out
+              ya mouth . . . .
+
+(emphasis added).
+
+      89.     Upon information and belief, Defendants’ threatening
+
+communications were meant, at least in part, to dissuade Plaintiff from filing a
+
+Charge of Discrimination with the EEOC and/or from commencing the instant
+
+action.
+
+I.    Joint Employer/Single Employer Allegations
+
+      90.     Although Plaintiff’s paychecks appear to have been issued by
+
+Defendant Extrity, Defendant Coleman – operating through his Pennsylvania
+
+fictitious name, “Extrity Services” – exercised substantial control over the terms
+
+and conditions of Plaintiff’s employment.
+
+      91.     Indeed, Extrity Services’ website (www.extrityservices.com) indicates
+
+that Extrity Services exercises near-total control over the Employer Defendants’
+
+operations:
+
+              Extrity Services prides itself on changing the face of
+              security. Our security professionals are trained with a
+              white glove approach to security. Ensuring not only the
+
+                                          17
+        Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 18 of 35
+
+
+
+
+             guests, staff, and management are safe but that they
+             receive outstanding customer service as well. We let you
+             pick the right professional for your venue. Let us take
+             one more thing off your plate by offering you licensed
+             and insured security professionals who consistently
+             participate in best practice training and keep security
+             with high quality service their focus.
+
+(emphasis added).
+
+      92.    Extrity Services’ website makes numerous additional references to
+
+Defendant Coleman d/b/a Extrity Services’ control: “[W]e’re just a team of
+
+hospitality professionals that share a passion for safety and security”; “We protect
+
+the continuity of your business by letting you operate free of outside influence”;
+
+and, “Our staff is comprised of former military personnel, hospitality specialists
+
+and off duty police officers.” (emphasis added).
+
+      93.    Extrity Services’ website also touts Defendant Coleman d/b/a Extrity
+
+Services’ security services contract with SEPTA: “Extrity Services was very proud
+
+to be one of the selected partners for SEPTA’s (Southeastern Pennsylvania
+
+Transportation Authority’s) Outreach Specialists role.” (emphasis added).
+
+      94.    In addition, The Employer Defendants’ Director of Operations,
+
+Lindsay, lists his occupation on his public LinkedIn page as “Director of
+
+Operations at Extrity Services.” Given that Plaintiff and his fellow security guards
+
+were overseen by Lindsay, who in turn holds himself out as an employee of
+
+Defendant Coleman d/b/a Extrity Services, Defendant Coleman d/b/a Extrity
+
+
+                                         18
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 19 of 35
+
+
+
+
+Services appears to have maintained the ability to promulgate rules, assignments,
+
+and conditions of employment for Plaintiff.
+
+       95.   Similarly, Devon Lindsay, who publicly identifies herself as the
+
+Human Resources Director for “Extrity Services”, distributed an unrelated
+
+unlawful meal break policy to Plaintiff and his coworkers in or around May 2022,
+
+again indicating that Defendant Coleman d/b/a Extrity Services maintained the
+
+ability to promulgate rules, assignments, and conditions of employment for
+
+Plaintiff.
+
+       96.   Further, although Plaintiff received few written policies throughout
+
+his employment, at least one written policy issued to Plaintiff purports to be
+
+authored by “Extrity Services,” and refers to Plaintiff as an “Extrity Services Team
+
+Member.”
+
+       97.   Accordingly, Defendant Coleman d/b/a Extrity Services is liable to
+
+Plaintiff pursuant to a “joint employer,” “single employer,” “apparent employer,”
+
+and/or agency theory of liability.
+
+                                      COUNT I
+
+    VIOLATION OF TITLE VII OF THE CIVIL RIGHTS ACT OF 1964:
+                HOSTILE WORK ENVIRONMENT
+                 (Plaintiff v. Employer Defendants)
+
+       98.   Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+
+
+                                           19
+        Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 20 of 35
+
+
+
+
+      99.    At all times relevant and material herein, Plaintiff was an “employee”
+
+as defined by 42 U.S.C. § 2000e(f).
+
+      100. At all times relevant and material herein, Defendant Extrity was
+
+Plaintiff’s “employer” within the meaning of 42 U.S.C. § 2000e(b), and employed
+
+15 or more persons.
+
+      101. At all times relevant and material herein, Defendant Coleman retained
+
+sufficient control over the terms and conditions of Plaintiff’s employment with
+
+Defendant Extrity such that he is liable to Plaintiff pursuant to a joint employer
+
+and/or agency theory of liability.
+
+      102. In addition, or in the alternative, Defendant Coleman served as
+
+Plaintiff’s apparent or ostensible employer.
+
+      103. In the alternative, at all times relevant and material herein, Defendant
+
+Coleman was Plaintiff’s “employer” within the meaning of 42 U.S.C. § 2000e(b),
+
+and employed 15 or more persons.
+
+      104. In the alternative, at all times relevant and material herein, Defendant
+
+Extrity retained sufficient control over the terms and conditions of Plaintiff’s
+
+employment with Defendant Coleman such that it is liable to Plaintiff pursuant to a
+
+joint employer and/or agency theory of liability.
+
+      105. In the alternative, Defendant Extrity served as Plaintiff’s apparent or
+
+ostensible employer.
+
+
+                                          20
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 21 of 35
+
+
+
+
+      106. In the alternative, at all times relevant and material herein, the
+
+operations of Defendants Extrity and Coleman were so entangled that nominal
+
+employees of one company were treated interchangeably with those of another,
+
+such that Defendants Extrity and Coleman are liable to Plaintiff pursuant to a
+
+“single employer” theory of liability.
+
+      107. Title VII provides that it is “an unlawful employment practice for an
+
+employer . . . to discriminate against any individual with respect to his
+
+compensation, terms, conditions, or privileges of employment, because of such
+
+individual’s . . . sex . . . .” 42 U.S.C. § 2000e-2(a)(1).
+
+      108. Throughout the course of Plaintiff’s employment, he was subjected to
+
+unwelcomed harassment by his supervisor, Bates, as well as his coworkers,
+
+Nathaniel and Campbell, due to his gender identity.
+
+      109. The harassment endured by Plaintiff was severe and pervasive.
+
+      110. The harassment endured by Plaintiff detrimentally affected him, and
+
+would have detrimentally affected a similarly situated reasonable person.
+
+      111. Plaintiff was not provided with any anti-harassment or complaint-
+
+reporting policies of any nature during his employment with the Employer
+
+Defendants.
+
+      112. Plaintiff’s harassment occurred openly and in the presence of his
+
+coworkers and supervisors, and was exacerbated by Plaintiff’s supervisor, Bates.
+
+
+                                           21
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 22 of 35
+
+
+
+
+      113. Plaintiff’s coworker, Hernandez, complained to the Employer
+
+Defendants’ Director of Operations, Lindsay, that Nathaniel had threatened to
+
+“fuck up” and “kill” Plaintiff due to his gender identity, but Lindsay ignored the
+
+complaint.
+
+      114.      The Employer Defendants either were aware, or should have been
+
+aware, of the harassment inflicted on Plaintiff, but failed to take appropriate
+
+corrective action to remedy the harassment, rendering them liable for Plaintiff’s
+
+harassment.
+
+      115. Moreover, the Employer Defendants failed to provide a reasonable
+
+avenue for Plaintiff to complain of his harassment, again rendering them liable for
+
+Plaintiff’s harassment.
+
+      116. In addition, Bates’ harassment of Plaintiff culminated in Plaintiff’s
+
+termination.
+
+      117. Because Bates’ harassment of Plaintiff culminated in a tangible
+
+adverse employment action, the Employer Defendants are strictly liable for Bates’
+
+conduct.
+
+      118. Through their conduct, the Employer Defendants violated Title VII.
+
+      119. The Employer Defendants acted with reckless indifference to
+
+Plaintiff’s rights under federal law, warranting an award of punitive damages.
+
+
+
+
+                                          22
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 23 of 35
+
+
+
+
+      120. As a result of the Employer Defendants’ conduct, Plaintiff has
+
+suffered, and continues to suffer, emotional distress, humiliation, embarrassment,
+
+anguish, personal hardship, career and social disruption, psychological and
+
+emotional harm, and lost wages.
+
+                                      COUNT II
+
+    VIOLATION OF TITLE VII OF THE CIVIL RIGHTS ACT OF 1964:
+                        DISCRIMINATION
+                 (Plaintiff v. Employer Defendants)
+
+      121. Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+      122. Title VII provides that it is “an unlawful employment practice for an
+
+employer . . . to discriminate against any individual with respect to his
+
+compensation, terms, conditions, or privileges of employment, because of such
+
+individual’s . . . sex . . .” 42 U.S.C. § 2000e-2(a)(1).
+
+      123. At all times relevant and material herein, Plaintiff was qualified for
+
+the position of security guard.
+
+      124. Prior to Plaintiff’s termination, his supervisor, Bates, repeatedly
+
+“outed” him to numerous coworkers without his consent, and encouraged
+
+Plaintiff’s coworkers to harass him due to his gender identity.
+
+      125. Prior to Plaintiff’s termination, Defendant’s Director of Operations,
+
+Lindsay, was advised that Plaintiff’s coworker, Nathaniel, had threatened to “fuck
+
+
+                                           23
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 24 of 35
+
+
+
+
+up” and “kill” Plaintiff due to his gender identity, but took no action whatsoever
+
+against Nathaniel.
+
+      126. Plaintiff was terminated based on an “Employee Action Form” issued
+
+by Bates and approved by Lindsay, which alleged that Plaintiff had made
+
+inappropriate comments and threats towards his coworker, Campbell.
+
+      127. The allegations set forth in the write-up were false.
+
+      128. Moreover, neither Bates nor Campbell were terminated for directing
+
+transphobic comments and threats of violence towards Plaintiff.
+
+      129. Through their conduct, the Employer Defendants violated Title VII.
+
+      130. The Employer Defendants acted with reckless indifference to
+
+Plaintiff’s rights under federal law, warranting an award of punitive damages.
+
+      131. As a result of the Employer Defendants’ conduct, Plaintiff has
+
+suffered, and continues to suffer, emotional distress, humiliation, embarrassment,
+
+anguish, personal hardship, career and social disruption, psychological and
+
+emotional harm, and lost wages.
+
+                                     COUNT III
+
+   VIOLATION OF TITLE VII OF THE CIVIL RIGHTS ACT OF 1964:
+                          RETALIATION
+                (Plaintiff v. Employer Defendants)
+
+      132. Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+
+
+                                           24
+        Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 25 of 35
+
+
+
+
+      133. Title VII provides that it is an “unlawful employment practice for an
+
+employer to discriminate against any of his employees . . . because he has opposed
+
+any practice made an unlawful employment practice by this subchapter . . . .” 42
+
+U.S.C. § 2000e-3(a).
+
+      134. During Plaintiff’s tenure with the Employer Defendants, Plaintiff’s
+
+supervisor, Bates, repeatedly “outed” Plaintiff’s gender identity to Plaintiff’s
+
+coworkers without his consent.
+
+      135. Bates’ conduct led to Plaintiff being brutally assaulted in the
+
+workplace in May 2022.
+
+      136. On or around June 23, 2022, after Bates had “outed” Plaintiff to
+
+another one of his coworkers, Campbell, Campbell assailed Plaintiff with
+
+additional transphobic slurs and threats of violence due to his gender identity.
+
+      137. On that same date, Plaintiff complained to Bates regarding Bates
+
+continually “outing” him, and expressed concern that Bates’ conduct was
+
+jeopardizing his safety.
+
+      138. One day later, the Employer Defendants issued Plaintiff an
+
+“Employee Action Form” terminating his employment, which alleged that Plaintiff
+
+had made inappropriate comments and threats during the encounter with Campbell.
+
+      139. The allegations set forth in the “Employee Action Form” were false,
+
+and in any event, do not preclude a retaliation claim, because the Employer
+
+
+                                          25
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 26 of 35
+
+
+
+
+Defendants forced Plaintiff into a confrontational situation by refusing to remedy –
+
+and by instead actually provoking – persistent unlawful discrimination against
+
+Plaintiff in the workplace.
+
+      140. Neither Bates nor Campbell were terminated for directing transphobic
+
+comments and threats of violence towards Plaintiff.
+
+      141. Following Plaintiff’s termination, the Employer Defendants directed
+
+and/or permitted their agents to send a series of severely threatening text message
+
+communications to Plaintiff, which were meant in part to dissuade Plaintiff from
+
+filing a Charge of Discrimination with the EEOC and/or from commencing the
+
+instant action.
+
+      142. Through their conduct, the Employer Defendants violated Title VII.
+
+      143. The Employer Defendants acted with reckless indifference to
+
+Plaintiff’s rights under federal law, warranting an award of punitive damages.
+
+      144. As a result of the Employer Defendants’ conduct, Plaintiff has
+
+suffered, and continues to suffer, emotional distress, humiliation, embarrassment,
+
+anguish, personal hardship, career and social disruption, psychological and
+
+emotional harm, and lost wages.
+
+
+
+
+                                         26
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 27 of 35
+
+
+
+
+                                     COUNT IV
+
+                     NEGLIGENT HIRING AND RETENTION
+                        (Plaintiff v. Employer Defendants)
+
+      145. Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+      146. The Employer Defendants had a duty to ensure that their employees
+
+did not possess a propensity for episodes of violent and/or reckless behavior.
+
+      147. The Employer Defendants had a duty to exercise reasonable care to
+
+protect their employees from acts of violence committed by coworkers who the
+
+Employer Defendants knew or should have known were likely to engage in violent
+
+and/or reckless acts.
+
+      148. The Employer Defendants breached the foregoing duties by, among
+
+other things:
+
+                a)   Failing to properly screen their employees;
+
+                b)   Failing to ensure that their employees did not possess a
+
+propensity for episodes of violent and/or reckless behavior;
+
+                c)   Enabling employees who they knew possessed a propensity for
+
+violent and/or or reckless behavior to harm other employees, including Plaintiff;
+
+and
+
+
+
+
+                                           27
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 28 of 35
+
+
+
+
+             d)     Failing to protect Plaintiff from the violent and reckless acts of
+
+their employees, which the Employer Defendants knew or should have known
+
+were likely to occur at their worksites.
+
+      149. The Employer Defendants knew or should have known that failing to
+
+properly screen their employees could result in injuries to Plaintiff.
+
+      150. At all times material hereto, the Employer Defendants knew, or in the
+
+exercise of reasonable care should have known, that Nathaniel had a propensity for
+
+violence and reckless behavior.
+
+      151. Indeed, prior to Nathaniel’s employment with the Employer
+
+Defendants, Nathaniel had been criminally charged and pleaded guilty to several
+
+crimes of violence and reckless, willful, and wanton conduct, demonstrating his
+
+disregard for the safety and well-being of others, including sexual assault, robbery,
+
+and carrying a firearm without a license.
+
+      152. Had the Employer Defendants performed a basic background check
+
+before hiring Nathaniel, they would have been aware of his interminable criminal
+
+behavior.
+
+      153. In the alternative, the Employer Defendants knew of Nathaniel’s
+
+propensity for violence and reckless behavior prior to his employment, but
+
+disregarded the risks of hiring such an individual.
+
+
+
+
+                                            28
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 29 of 35
+
+
+
+
+      154. In either case, during Plaintiff’s employment with the Employer
+
+Defendants, the Employer Defendants became unequivocally aware of Nathaniel’s
+
+propensity for violence, when Plaintiff’s coworker, Hernandez, alerted the
+
+Employer Defendants’ Director of Operations that Nathaniel was threatening to
+
+“fuck up” and “kill” Plaintiff.
+
+      155. Nevertheless, the Employer Defendants hired Nathaniel, and retained
+
+him even after they possessed actual knowledge of his propensity for violence.
+
+      156. By hiring and retaining Nathaniel, the Employer Defendants created a
+
+situation where Nathaniel’s violent and reckless tendencies could harm other
+
+employees, including Plaintiff.
+
+      157. By hiring and retaining Nathaniel, the Employer Defendants acted in
+
+conscious disregard of, or with reckless indifference to, the known and obvious
+
+risk that Nathaniel posed to his co-workers, including Plaintiff, and the public at
+
+large, warranting an award of punitive damages.
+
+      158. As a direct result of the negligence, carelessness, and recklessness of
+
+the Employer Defendants, Plaintiff has been harmed.
+
+      159. All of Plaintiff’s losses and damages were, are, and will be due solely
+
+to and by reason of the carelessness, negligence, and recklessness of the Employer
+
+Defendants, without any negligence or want of due care on Plaintiff’s part
+
+contributing thereto.
+
+
+                                         29
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 30 of 35
+
+
+
+
+                                      COUNT V
+
+                           NEGLIGENT SUPERVISION
+                         (Plaintiff v. Employer Defendants)
+
+      160. Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+      161. The Employer Defendants had a duty to exercise reasonable care to
+
+prevent their employees from assaulting other employees, including Plaintiff.
+
+      162. The Employer Defendants had a duty to ensure that their worksites
+
+were safe and adequately staffed and supervised.
+
+      163. The Employer Defendants breached the foregoing duties by, among
+
+other things:
+
+                a)   Failing to maintain proper supervision of their worksites and
+
+their employees;
+
+                b)   Enabling employees who they knew possessed a propensity for
+
+violent and/or reckless behavior to harm other employees, including Plaintiff; and
+
+                c)   Failing to protect Plaintiff from the violent and reckless acts of
+
+their employees, which the Employer Defendants knew or should have known
+
+were likely to occur at their worksites.
+
+      164. The Employer Defendants knew, or in the exercise of reasonable care
+
+should have known, that Nathaniel had a propensity for violence.
+
+
+
+
+                                           30
+        Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 31 of 35
+
+
+
+
+      165. Indeed, prior to Nathaniel’s employment with the Employer
+
+Defendants, Nathaniel had been criminally charged and pleaded guilty to several
+
+crimes of violence and reckless, willful, and wanton conduct, demonstrating his
+
+disregard for the safety and well-being of others, including sexual assault, robbery,
+
+and carrying a firearm without a license.
+
+      166. A simple background search would have revealed (or did reveal) all of
+
+the above.
+
+      167. Further, Nathaniel’s propensity for violence became explicitly known
+
+to the Employer Defendants during Plaintiff’s employment, when Plaintiff’s
+
+coworker, Hernandez, alerted the Employer Defendants’ Director of Operations
+
+that Nathaniel was threatening to “fuck up” and “kill” Plaintiff.
+
+      168. Defendant nonetheless failed to take any corrective action whatsoever
+
+against Nathaniel, continued to schedule Nathaniel to work on the same shifts as
+
+Plaintiff, and failed to adequately supervise Nathaniel.
+
+      169. By failing to adequately supervise Nathaniel, the Employer
+
+Defendants created a situation where Nathaniel’s propensities toward violence
+
+could harm other employees, including Plaintiff.
+
+      170. Given Nathaniel’s violent criminal history, coupled with Hernandez’s
+
+complaints to the Employer Defendants’ Director of Operations regarding
+
+
+
+
+                                            31
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 32 of 35
+
+
+
+
+Nathaniel’s threats towards Plaintiff, the harm to Plaintiff was reasonably
+
+foreseeable to the Employer Defendants.
+
+      171. By failing to adequately supervise Nathaniel – even after being
+
+specifically alerted that Nathaniel had threatened to “fuck up” and “kill” Plaintiff –
+
+the Employer Defendants acted in conscious disregard of, or with deliberate
+
+indifference to, the known and obvious risk that Nathaniel posed to his co-workers,
+
+including Plaintiff, and the public at large, warranting an award of punitive
+
+damages.
+
+      172. As a direct result of the negligence, carelessness, and recklessness of
+
+the Employer Defendants, Plaintiff has been harmed.
+
+      173. All of Plaintiff’s losses and damages were, are, and will be due solely
+
+to and by reason of the carelessness, negligence, and recklessness of the Employer
+
+Defendants, without any negligence or want of due care on Plaintiff’s part
+
+contributing thereto.
+
+                                     COUNT VI
+
+         INTENTIONAL INFLICTION OF EMOTIONAL DISTRESS
+       (Plaintiff v. Employer Defendants and John Doe Defendants 1-10)
+
+      174. Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+      175. After Plaintiff had been physically assaulted in the workplace and
+
+terminated from his employment, the Employer Defendants directed the John Doe
+
+                                           32
+         Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 33 of 35
+
+
+
+
+Defendants 1-10 to send a series of highly alarming text message communications
+
+to Plaintiff, in which they threatened to physically harm, and even kill, Plaintiff.
+
+      176. Defendants either intended to cause Plaintiff severe emotional
+
+distress, or were reckless in not knowing that their conduct would cause Plaintiff
+
+severe emotional distress.
+
+      177. Defendants acted in conscious disregard of, or with deliberate
+
+indifference to, the resulting risk of harm to Plaintiff, warranting an award of
+
+punitive damages.
+
+      178. As a result of Defendants’ conduct, Plaintiff suffered, and continues to
+
+suffer, severe emotional distress.
+
+                                     COUNT VII
+
+                             CIVIL CONSPIRACY
+       (Plaintiff v. Employer Defendants and John Doe Defendants 1-10)
+
+      179. Plaintiff hereby incorporates the preceding paragraphs by reference as
+
+though fully set forth at length herein.
+
+      180. The Employer Defendants and John Doe Defendants 1-10 conspired
+
+to intentionally inflict emotional distress upon Plaintiff.
+
+      181. In furtherance of said conspiracy, John Doe Defendants 1-10 sent a
+
+series of highly alarming text message communications to Plaintiff, in which they
+
+threatened to physically harm, and even kill, Plaintiff.
+
+      182. Defendants intended to injure Plaintiff through their conduct.
+
+                                           33
+           Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 34 of 35
+
+
+
+
+      183. Defendants acted in conscious disregard of, or with deliberate
+
+indifference to, the resulting risk of harm to Plaintiff, warranting an award of
+
+punitive damages.
+
+      184. As a result of Defendants’ conduct, Plaintiff suffered, and continues to
+
+suffer, severe emotional distress.
+
+                                  Prayer for Relief
+
+      WHEREFORE, Plaintiff prays that a judgment be entered in his favor and
+
+against Defendants in the following respects:
+
+      a)      An order awarding back pay, front pay, compensatory damages, and
+
+punitive damages on Counts I, II, and III;
+
+      b)      An order awarding compensatory damages and punitive damages and
+
+Counts IV, V, VI, and VII;
+
+      c)      An order awarding attorneys’ fees and expenses on Counts I, II, and
+
+III pursuant to 42 U.S.C. § 2000e-5(k);
+
+      d)      An order awarding pre-judgment and post-judgment interest; and
+
+      e)      All other relief as the Court deems just and equitable.
+
+                                     Jury Demand
+
+      Plaintiff demands a jury trial on all issues so triable.
+
+
+
+
+                                          34
+       Case 2:22-cv-03918-JS Document 1 Filed 10/03/22 Page 35 of 35
+
+
+
+
+                                  Respectfully submitted,
+
+Date: 10/3/2022             BY: /s/ Peter C. Wood, Jr.
+                                Peter C. Wood, Jr., Esq. (I.D. No. 310145)
+                                MOBILIO WOOD
+                                900 Rutter Ave., Box 24
+                                Forty Fort, PA 18704
+                                Phone: (570) 234-0442
+                                Fax: (570) 266-5402
+                                peter@mobiliowood.com
+
+                                  Counsel for Plaintiff Dijon Summers
+
+
+
+
+                                    35
+

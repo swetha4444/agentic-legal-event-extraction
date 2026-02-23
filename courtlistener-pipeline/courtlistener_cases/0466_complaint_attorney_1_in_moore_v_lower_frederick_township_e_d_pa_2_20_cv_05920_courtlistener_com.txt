@@ -1,0 +1,842 @@
+Source URL: https://www.courtlistener.com/docket/18688827/1/moore-v-lower-frederick-township/
+Title: Complaint (Attorney) – #1 in MOORE v. LOWER FREDERICK TOWNSHIP (E.D. Pa., 2:20-cv-05920) – CourtListener.com
+
+              Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 1 of 15
+
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+JOSEPH MOORE                                          :
+2793 N. Charlotte Street                              :
+Gilbertsville, PA 19525                               :
+                                                      :         CIVIL ACTION
+                  Plaintiff,                          :
+                                                      :         No.:
+         v.                                           :
+                                                      :
+LOWER FREDERICK TOWNSHIP                              :         JURY TRIAL DEMANDED
+53 Spring Mount Road                                  :
+Schwenksville, PA 19473                               :
+       and                                            :
+PAUL E. MAXEY, in his individual                      :
+Capacity                                              :
+53 Spring Mount Road                                  :
+Schwenksville, PA 19473                               :
+                                                      :
+                  Defendants.                         :
+                                                      :
+
+                                      CIVIL ACTION COMPLAINT
+
+         Plaintiff, Joseph Moore (hereinafter referred to as “Plaintiff”), by and through his
+
+undersigned counsel, hereby avers as follows:
+
+                                                I. Introduction
+
+         1.       Plaintiff initiates this action to redress violations by Defendants of Title VII of the
+
+Civil Rights Act of 1964 ("Title VII" - 42 U.S.C. §§ 2000e, et. seq.), 42 U.S.C. § 1981, the
+
+Pennsylvania Whistleblower Law (the “PWL” - 43 P.S. §§ 1421 et. seq.), First-Amendment
+
+protections, and the Pennsylvania Human Relations Act ("PHRA - 43 Pa. C.S. §§ 951 et. seq.).1
+
+
+
+
+1
+  Reference to Title VII and the PHRA is made herein in this Introduction Section for notice purposes only. Plaintiff’s
+administrative remedies are not fully exhausted for proceeding under such claims yet (proceeding before the EEOC
+and PHRC respectively). Thus, such claims are excluded in the count-section of this Complaint. Plaintiff will move
+to amend the instant lawsuit to include claims under Title VII and the PHRA following administrative exhaustion (or
+waiver of exhaustion by Defendants).
+             Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 2 of 15
+
+
+
+
+Plaintiff asserts herein that he was unlawfully terminated from his employment with Defendants
+
+in violation of these laws and seeks damages as set forth more fully herein.
+
+                                   II.     Jurisdiction and Venue
+
+        2.       This Court may properly maintain personal jurisdiction over Defendants because
+
+Defendants’ contacts with this state and this judicial district are sufficient for the exercise of
+
+jurisdiction over Defendants to comply with traditional notions of fair play and substantial justice,
+
+satisfying the standard set forth by the United States Supreme Court in International Shoe Co. v.
+
+State of Washington, 326 U.S. 310 (1945) and its progeny.
+
+        3.       This action is initiated pursuant to a federal law(s). The United States District Court
+
+for the Eastern District of Pennsylvania has original subject matter jurisdiction over this action
+
+pursuant to 28 U.S.C. § 1331 because the claims arise under laws of the United States. This Court
+
+has supplemental jurisdiction over Plaintiff's state-law claims because they arise out of the same
+
+common nucleus of operative facts as his federal claims herein.
+
+        4.       Venue is properly laid in this District pursuant to 28 U.S.C. §§ 1391(b)(1) and
+
+(b)(2), because Defendants reside in and/or conduct business in this judicial district and because a
+
+substantial part of the acts and/or omissions giving rise to the claims set forth herein occurred in
+
+this judicial district.
+
+                                            III.    Parties
+
+        5.       The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        6.       Plaintiff is an adult who resides at the above-captioned address.
+
+        7.       Lower Frederick Township (“Defendant Township”) is a township in Montgomery
+
+County, Pennsylvania. This municipality occupies approximately 8 square miles.
+
+
+
+
+                                                   2
+               Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 3 of 15
+
+
+
+
+          8.       Paul E. Maxey (hereinafter “Defendant Maxey) is the current Chief of Police for
+
+Defendant Township.
+
+          9.       At all times relevant herein, Defendants acted by and through their agents, servants,
+
+and employees, each of whom acted at all times relevant herein in the course and scope of their
+
+employment with and for the benefit of Defendants.
+
+                                      IV.     Factual Background
+
+          10.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+          11.      Plaintiff was hired by Defendant Township effective on or about June 3, 2019; and
+
+in total, Plaintiff was employed for approximately one (1) year until termination (as discussed
+
+infra).
+
+          12.      Defendant Township occupies approximately an 8-square-mile radius, has a
+
+population of around 5,000 residents, and - from a demographic’s standpoint – its municipality is
+
+approximately ninety-five percent (95%) Caucasian (with very little minority or diversity
+
+representation).
+
+          13.      Defendant Township’s Police Department has and remains relatively small, ranging
+
+from approximately 4-5 police officers (inclusive of Chief) at varying times of year(s).
+
+          14.      Plaintiff was hired into the role of Police Officer within Defendant Township’s
+
+Police Department. As of Plaintiff’s hire, Plaintiff was extremely dedicated to public service, as:
+
+(a) he was (and remains) a Marine (also having worked within the military police); (b) had been a
+
+police officer for the Portage, Michigan Department of Public Safety; and (c) had been a police
+
+officer in the City of Washington, Pennsylvania.
+
+
+
+
+                                                     3
+          Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 4 of 15
+
+
+
+
+       15.     As of hire in June of 2019, Plaintiff was an accomplished professional with
+
+significant experience in law enforcement.
+
+       16.     Paul E. Maxey (“Defendant Maxey”) has been the Chief of Police for a long time
+
+within Defendant Township. He is a Caucasian male, like Plaintiff and all other members of
+
+Defendant Township’s police department. And Maxey, due to the limited size of Defendant
+
+Township’s police department: (a) oversees scheduling; (b) micromanages police officers; and (c)
+
+is involved in all meaningful operational and police-personnel decision-making.
+
+       17.     Upon joining Defendant Township’s police department, Plaintiff anticipated a well-
+
+organized, professional, and ethical body of law enforcement. To the contrary, Plaintiff joined a
+
+police department whereby: (a) Defendant Maxey was overtly discriminatory; (b) abusive; and (c)
+
+conducted the department in a completely unprofessional manner at times using his powers for
+
+retaliatory purposes (all as outlined further below).
+
+       18.     Defendant Maxey is extremely reckless, unscrupulous, and engaged in the
+
+following types of (unlawful) discriminatory actions while Plaintiff was a police officer for
+
+approximately a year under Defendant Maxey’s command:
+
+               (1) Defendant Maxey often made racist or ethnically discriminatory comments. By
+                   way of example(s), he referred to Plaintiff’s own sister as a “traitor” to the US
+                   because she converted to Islam, among other offensive comments. He told
+                   Plaintiff not to take or investigate a complaint of a Chinese store owner because
+                   “they are dirty, and brought the virus here,” among other discriminatory
+                   comments (while directing Plaintiff to investigate non-Asian concerns). He
+                   referred to Italians as Dagos (an ethnic slur). He made negative comments about
+                   another police department hiring an African American police officer, as he
+                   didn’t believe that should have been done (based solely upon race). Racially
+                   offensive comments or gestures by Defendant Maxey were the norm, made by
+                   him usually at least once a week (or more), and they were very offensive. The
+                   contents of this paragraph are intended merely to provide just some examples
+                   of many.
+
+               (2) Defendant Maxey made many sexist comments. He regularly degraded a former
+                   female police officer (Meghan Burns) who, upon information and belief,
+
+
+
+                                                  4
+         Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 5 of 15
+
+
+
+
+                  pursued legal action (in the past) against Defendants. Defendant Maxey openly
+                  commented or stated: (a) he should not have hired a woman; (b) this department
+                  will never hire any more women; and (c) that women should not be police
+                  officers. He conveyed various iterations of these gender-discriminatory
+                  statements and comments at least 1-2 times per month.
+
+       19.     The aforesaid types of discriminatory actions, gestures, directives and comments
+
+were made about former police personnel, people affiliated with police departments, and about
+
+citizenry in the communities. Plaintiff formed the opinion that Defendant Maxey is racist and
+
+sexist, as would any objective person. And Defendant Maxey has and continues to maintain an all-
+
+white, male police department (clearly reflective of his discriminatory views).
+
+       20.     In addition to unlawful discrimination, Defendant Maxey also engaged in the
+
+following types of unlawful actions and directives:
+
+               (1) Defendant Maxey clearly and unequivocally required ticket / arrest quotas. He
+                   knew, as does any police officer, that such quotas are per se illegal in the
+                   Commonwealth of Pennsylvania. See 71 P.S. § 2001. To circumvent the law
+                   and clear jurisprudence prohibiting quotas (unlawfully and unconstitutionally),
+                   he still mandated quotas but referred to them as required “contacts” wherein
+                   he then threatened discipline if such contacts did not result in ticketing / arrest.
+                   Defendant Maxey’s conduct was knowing, intentional, and an abuse of
+                   authority (in addition to be being illegal and unconstitutional).
+
+               (2) Defendant Maxey intentionally engaged in a 42 U.S.C. § 1983 violation of an
+                   individual to be free (constitutionally) from excessive force used against him or
+                   her. LauraJean Hoover was arrested. She unquestionably has a criminal history
+                   and is legitimately a (non-violent) recidivist offender. She had been arrested for
+                   DUI. Plaintiff was present when one of Hoover’s handcuffs had come off. She
+                   did not attempt to flee, move, or engage in any obstructionist behavior.
+                   Defendant Maxey nonetheless approached her, grabbed her by the throat and
+                   violently slammed her face onto the bench upon which she was sitting. This
+                   was contemporaneous to Defendant Maxey calling her a “cunt,” “bitch,” “trailer
+                   trash,” and other offensive names in the presence of her 3-year-old child whom
+                   Plaintiff was trying to care for and shield during the incident(s).
+
+       21.     The above examples are just that, examples. These unlawful actions and directives
+
+are not intended to be an all-inclusive list. Other improper (and in Plaintiff’s opinion, illegal)
+
+directives were given too. Defendant Maxey by way of further example directed Plaintiff to target
+
+
+
+                                                  5
+         Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 6 of 15
+
+
+
+
+and take certain actions against individuals in the community without reasonable suspicion or
+
+probable cause of wrongdoing, but to find a rationale for arrest and/or for incarceration.
+
+       22.     In sum, Defendant Maxey lacks the appropriate temperament to be in the position
+
+of Chief, among other qualities. He screams, yells, acts abusively, attempts to intimidate, and has
+
+been the recipient of numerous police officer complaints internally (and through legal
+
+mechanisms). He further lacks regard for appropriate legal, regulatory or constitutional protections
+
+of those around him. He is a liability and danger to those around him.
+
+       23.     Defendant Township has been on notice of Defendant Maxey’s unlawful behavior
+
+for at least 10 years, dating back to a federal lawsuit initiated by Marc Messenger (see Messenger
+
+v. Maxey, et. al). Therein, a prior police officer outlined that Maxey: (1) directed him “to falsify
+
+information;” (2) created a “hostile work environment;” (3) made up a pretextual rationale to
+
+terminate his employment; and (4) that “Defendant Township had a policy and custom to allow
+
+the Defendant Chief and Defendant Township Manager to do anything it [sic] wanted, even if a
+
+constitutional violation, as employees of the Township.”
+
+       24.     Plaintiff informed Defendant Chief that many of his requests were inappropriate
+
+and illegal, objected and took offense to discriminatory comments and actions by Defendant Chief,
+
+and in total at least 8-10 times during his 1-year period of employment expressed opposition to
+
+unlawful, discriminatory or unconstitutional actions, gestures or comments by Defendant Chief.
+
+       25.     As a result of Plaintiff being perceived as lacking in loyalty and having the do-
+
+anything requested mentality, Defendant Chief made Plaintiff’s work environment miserable –
+
+creating a clear hostile work environment towards Plaintiff (primarily during his last approximate
+
+6 months of employment when Plaintiff was more vocal).
+
+
+
+
+                                                 6
+          Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 7 of 15
+
+
+
+
+        26.    Plaintiff was subjected to: (a) a barrage of continued yelling; (b) daily and weekly
+
+disparaging comments; (c) demeaning directives; and (d) he received relatively absurd discipline
+
+on a continual basis.
+
+        27.    The purported rationale for Plaintiff’s termination adequately conveys the type of
+
+inequitable, irrational discipline Plaintiff had been previously receiving. In particular, Defendant
+
+Chief fails to supply police personnel with enough or proper equipment, supplies and gear (just
+
+one of many shortcomings). Plaintiff had to utilize a magazine pouch (which attaches to the gun
+
+belt) that he was able to find. The only other pouch(es) available didn’t even fit his particular gear
+
+or weapon(s). Plaintiff was told by Defendant Chief the silver snaps were gaudy, he should not
+
+have worn that, and he terminated Plaintiff. Plaintiff was terminated effective on or about June 3,
+
+2020.
+
+        28.    Following Plaintiff’s termination from employment, he sought other police
+
+personnel work and jobs. Plaintiff was declined employment; and upon information and belief, it
+
+was because of false and negative statements made by Defendant Chief / Defendant Township.
+
+        29.    Defendant Township: (1) fails to engage in oversight of its police department; (2)
+
+fails to properly supervise or train its Chief and other police personnel; (3) has no dedicated
+
+Internal Affairs Department or Internal Affairs responsibilities to ensure ethics, legal compliance
+
+or checks and balances; (4) lacks any hierarchy to effectively escalate complaints or concerns; (5)
+
+knowingly permits Defendant Chief to operate in any fashion, resulting in Defendant Chief
+
+actually being the policy maker and establisher of customs and practices (likely to lead to
+
+constitutional deviations); (6) simply settles or attempts to conceal complaints by police officers
+
+made through legal means without disciplining or educating Defendant Chief; and (7) ratifies all
+
+misconduct engaged in by Defendant Chief.
+
+
+
+
+                                                  7
+           Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 8 of 15
+
+
+
+
+                                    First Cause of Action
+                                Violations of 42 U.S.C. § 1981
+         ([1] Hostile Work Environment; [2] Retaliation; [3] Retaliatory Reference(s))
+                                 - Against All Defendants -
+
+         30.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+         31.      Plaintiff was subjected to a hostile work environment on account of continual
+
+discriminatory comments in his presence, the inability to have a diverse workforce,2 and he was
+
+retaliated against by way of discipline, hostility, termination, and negative references for objecting
+
+to discriminatory comments and directives.
+
+         32.      These actions as aforesaid constitute violations of § 1981. Defendant Maxey is
+
+personally liable for such actions as he directly engaged in the retaliatory acts as set forth in this
+
+Complaint.3
+
+                                            Second Cause of Action
+                                         First Amendment Violations
+                                                 (Retaliation)
+                                          - Against All Defendants -
+
+         33.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+
+
+2
+ The protections under Section 1981 are very expansive. See e.g. Richardson v. Restaurant Marketing Associates
+Inc., 527 F.Supp. 690, 694 (N.D. Ca. 1981)(white plaintiff had standing to sue under § 1981 based on allegation that
+as a result of defendant's employment practices, including termination of and refusal to hire black workers
+and racial hostility toward and concerning black workers, “she was denied the benefits of a work environment
+conducive to interracial harmony and association”); Clayton v. White Hall Sch. Dist., 875 F.2d 676, 679-80 (8th
+Cir.1989) (finding standing where plaintiff alleges hostile work environment injury from loss of association with
+minorities); Waters v. Heublein, Inc., 547 F.2d 466, 469 (9th Cir.1976)(finding that white plaintiff had standing to sue
+for discrimination against blacks and persons with Hispanic-sounding surnames to sue for deprivation of “[t]he
+benefits of interracial harmony”).
+3
+ To the extent this Court addresses or determines that part or all of Plaintiff’s Claims in this Count of his Complaint
+must be pursued through 42 U.S.C. § 1983, Plaintiff brings such claims under § 1983. However, Plaintiff is pursuing
+claims against the individual herein in his individual capacity.
+
+
+                                                           8
+           Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 9 of 15
+
+
+
+
+        34.      Plaintiff expressed opposition and complained that Chief Maxey was engaging in
+
+unlawful, unconstitutional, and statutorily prohibited practices as outlined in this lawsuit. These
+
+complaints were made by Plaintiff as a citizen and about matters of public concern.
+
+        35.      Complaints about improper and/or unlawful workplace practices are legally
+
+protected First Amendment Speech, prohibiting retaliation. See e.g. Russo v. City of Hartford, 341
+
+F. Supp. 2d 85, 96 (D. Conn. 2004)(Denying summary judgment and explaining “[t]here can be
+
+no doubt that [the plaintiff’s] communication . . . as it concerned alleged unlawful practices of the
+
+Hartford Police Department, constitutes "speech on a matter of public concern.”); Swear v.
+
+Lawson, 288 F. Supp. 3d 669, 680 (E.D. La. 2018)(denying summary judgment and explaining
+
+that First Amendment claims by a police officer premised upon internal complaints by him of
+
+officer misconduct and an improper quota system are matters of public concern outside of his
+
+normal job duties); Griffin v. City of N.Y., 880 F. Supp. 2d 384, 388 (E.D.N.Y. 2012)(denying
+
+motion to dismiss and finding protected speech where police officer complained of pressures to
+
+improperly handle investigation); Dahlia v. Rodriguez, 735 F.3d 1060, 1075 (9th Cir.
+
+2013)(reversing district court and explaining a police officer engages in protected activity anytime
+
+he raised concerns of departmental misconduct.
+
+        36.      Moreover, Plaintiff’s concerns to Defendant Maxey about his discriminatory
+
+language constituted protected speech (in addition to being protected under Section 1981). See e.g.
+
+Konits v. Valley Stream Cent. High Sch. Dist., 394 F.3d 121, 125 (2d Cir. 2005)(reversing district
+
+court’s grant of summary judgment explaining any concerns of discrimination in a workplace are
+
+protected speech under the First Amendment and a matter of public concern).4
+
+
+4
+  In Larry v. Powerski, 148 F. Supp. 3d 584, 600 (E.D. Mich. 2015), the Court rejected assertions that an “employee”
+somehow sheds First Amendment Protections when making a concern of racial concerns known to his or her employer,
+citing the Supreme Court in Lane v. Franks, 189 L.Ed.2d 312 (2014), and explaining:
+
+
+
+                                                         9
+          Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 10 of 15
+
+
+
+
+         37.      Discipline, hostility, negative references, and Plaintiff’s termination on account of
+
+his protected First Amendment Speech constitute violations of his First Amendment rights to be
+
+free from retaliation.5
+
+                                   Third Cause of Action
+          The Pennsylvania Whistleblower Law (the “PWL” - 43 P.S. §§ 1421 et. seq.)
+                                       (Retaliation)
+                                 - Against All Defendants -
+
+         38.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+         39.      Plaintiff made several “good faith report[s]” of “wrongdoing” as defined under the
+
+Pennsylvania Whistleblower Act (hereinafter “the Act”) to his “employer” or a “public body.” See
+
+43 P.S. § 1442. Such actions included but were not limited to reports and complaints unlawful
+
+departmental conduct, unconstitutional conduct, and statutorily prohibited discriminatory conduct.
+
+         40.      Plaintiff was subjected to hostility, discipline, negative references (post-
+
+termination), and discharged from Defendant for making “good faith reports” to his employer of
+
+“wrongdoing” under the Act in violation of 43 P.S. § 1423.
+
+         41.      Plaintiff timely brings this “Civil Action” within “180 days” after the occurrence
+
+of his retaliatory termination from employment pursuant to 43 P.S. § 1424.
+
+
+
+
+         [T]he mere fact that a citizen's speech concerns information acquired by virtue of his public
+         employment does not transform that speech into employee—rather than citizen—speech.” Ibid. It
+         would be unusual (and contrary to the very core of the First Amendment) to conclude, as the
+         defendant urges, that a public employee surrenders her First Amendment protections any time she
+         complains of unlawful activity, no matter how invidious, merely because an employer has a
+         workplace policy that encourages or requires employees to report such conduct.
+
+5
+ To the extent this Court addresses or determines that part or all of Plaintiff’s Claims in this Count of his Complaint
+must be pursued through 42 U.S.C. § 1983, Plaintiff brings such claims under § 1983. However, Plaintiff is pursuing
+claims against the individual herein in his individual capacity.
+
+
+                                                         10
+         Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 11 of 15
+
+
+
+
+                                    Fourth Cause of Action
+                         Defamation (by and through 42 U.S.C. § 1983)
+                                  - Against All Defendants -
+
+        42.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        43.    Plaintiff sought employment for subsequent police officer roles with other
+
+departments following his termination from employment with Defendant Township.
+
+        44.    Plaintiff was denied other police opportunities and job offers as a direct, proximate
+
+and actual cause of false, malicious and improper statements and/or references by Defendants.
+
+        45.    In the instant case, Plaintiff suffered stigmatizing statements which caused actual
+
+employment opportunities to be lost, denying him liberty and/or property entitlements. Plaintiff
+
+has and continues to suffer reputation, economic, and career losses a result.
+
+        WHEREFORE, Plaintiff prays that this Court enter an order providing that:
+
+        A.     Defendants are to be prohibited from continuing to maintain their illegal policies,
+
+practices, or customs of retaliating against employees and are to be ordered to promulgate an
+
+effective policy against such discrimination/retaliation and to adhere thereto (awarding Plaintiff
+
+such injunctive and/or equitable relief);
+
+        B.     Defendants are to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff
+
+whole for any and all pay and benefits Plaintiff would have received had it not been for
+
+Defendants’ illegal actions, including but not limited to back pay, front pay, bonuses and medical
+
+and other benefits. Plaintiff should be accorded those benefits illegally withheld from the date he
+
+first suffered discrimination or retaliation at the hands of Defendants until the date of verdict (in
+
+addition to front pay or other equitable relief);
+
+
+
+
+                                                    11
+         Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 12 of 15
+
+
+
+
+        C.      Plaintiff is to be awarded reinstatement with Defendant Township, unless a court
+
+determines such a remedy is impractical or impossible; and alternatively, any other damages in
+
+lieu of such relief.
+
+        D.      Plaintiff is to be awarded punitive damages as permitted by applicable law in an
+
+amount believed by the Court or trier of fact to be appropriate to punish the individually-named
+
+Defendants in this action for their willful, deliberate, malicious and outrageous conduct, and to
+
+deter others from engaging in such misconduct in the future;
+
+        E.      Plaintiff is to be accorded any and all other equitable and legal relief as the Court
+
+deems just, proper, and appropriate (including but not limited to emotional distress/pain and
+
+suffering damages - where permitted under applicable law(s)).
+
+        F.      Plaintiff is to be awarded the costs and expenses of this action and reasonable legal
+
+fees as provided by applicable federal and state law;
+
+        G.      Any verdict in favor of Plaintiff is to be molded by the Court to maximize the
+
+financial recovery available to Plaintiff in light of the caps on certain damages set forth in
+
+applicable federal law;
+
+        H.      Plaintiff’s claims are to receive a trial by jury to the extent allowed by applicable
+
+law. Plaintiff has also endorsed this demand on the caption of this Complaint in accordance with
+
+Federal Rule of Civil Procedure 38(b).
+
+                                                        Respectfully submitted,
+
+                                                        KARPF, KARPF & CERUTTI, P.C.
+
+
+                                                        Ari R. Karpf, Esquire
+                                                        3331 Street Road
+                                                        Building 2, Suite 128
+                                                        Bensalem, PA 19020
+Dated: November 24, 2020                                (215) 639-0801
+
+
+
+                                                 12
+                       Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 13 of 15
+
+
+
+
+                             ==================gçëÉéÜ=jççêÉ
+
+==========================================içïÉê=cêÉÇÉêáÅâ=qçïåëÜáéI=Éí=~äK
+
+
+
+
+                      NNLOQLOMOM
+                             Case 2:20-cv-05920-RBS
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   11/24/20 Page 14 of 15
+                                                                       COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       OTVP=kK=`Ü~êäçííÉ=píêÉÉíI=dáäÄÉêíëîáääÉI=m^=NVROR
+Address of Plaintiff: ______________________________________________________________________________________________
+
+                       RP=péêáåÖ=jçìåí=oç~ÇI=pÅÜïÉåëîáääÉI=m^=NVQTP
+Address of Defendant: ____________________________________________________________________________________________
+
+                                             aÉÑÉåÇ~åíë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+           NNLOQLOMOM
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+           NNLOQLOMOM
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                   Case 2:20-cv-05920-RBS Document 1 Filed 11/24/20 Page 15 of 15
+JS 44 (Rev. 06/17)                                                           CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                            DEFENDANTS
+    jllobI=glpbme                                                                                           iltbo=cobabof`hqltkpefmI=bq=^iK
+
+    (b) County of Residence of First Listed Plaintiff                  jçåíÖçãÉêó                             County of Residence of First Listed Defendant                 jçåíÖçãÉêó
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                      (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                            THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                    Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                        III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                    f
+                                                                                                         (For Diversity Cases Only)                                             and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3     Federal Question                                                                     PTF           DEF                                            PTF      DEF
+          Plaintiff                              (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1     Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                             of Business In This State
+
+❒ 2    U.S. Government                   ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2    Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                             (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                    Citizen or Subject of a           ’ 3         ’ 3    Foreign Nation                        ’ 6      ’ 6
+                                                                                                      Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                  Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                  TORTS                            FORFEITURE/PENALTY                            BANKRUPTCY                      OTHER STATUTES
+❒   110 Insurance                         PERSONAL INJURY                PERSONAL INJURY            ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158          ❒ 375 False Claims Act
+❒   120 Marine                       ’    310 Airplane                 ❒ 365 Personal Injury -            of Property 21 USC 881            ’   423 Withdrawal                 ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’    315 Airplane Product               Product Liability      ❒ 690 Other                                     28 USC 157                        3729(a))
+❒   140 Negotiable Instrument                  Liability               ❒ 367 Health Care/                                                                                     ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’    320 Assault, Libel &               Pharmaceutical                                                     PROPERTY RIGHTS               ❒ 410 Antitrust
+        & Enforcement of Judgment              Slander                       Personal Injury                                                ❒ 820 Copyrights                  ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’    330 Federal Employers’             Product Liability                                              ❒ 830 Patent                      ❒ 450 Commerce
+❒   152 Recovery of Defaulted                  Liability               ❒ 368 Asbestos Personal                                              ❒ 835 Patent - Abbreviated        ❒ 460 Deportation
+        Student Loans                ’    340 Marine                         Injury Product                                                        New Drug Application       ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’    345 Marine Product                 Liability                                                      ❒ 840 Trademark                          Corrupt Organizations
+❒   153 Recovery of Overpayment                Liability                PERSONAL PROPERTY                        LABOR                         SOCIAL SECURITY                ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’    350 Motor Vehicle            ❒ 370 Other Fraud            ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)                ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’    355 Motor Vehicle            ❒ 371 Truth in Lending               Act                             ❒ 862 Black Lung (923)            ❒ 850 Securities/Commodities/
+❒   190 Other Contract                        Product Liability        ❒ 380 Other Personal         ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                  Exchange
+❒   195 Contract Product Liability   ’    360 Other Personal                 Property Damage                Relations                       ❒ 864 SSID Title XVI              ❒ 890 Other Statutory Actions
+❒   196 Franchise                             Injury                   ❒ 385 Property Damage        ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))                ❒ 891 Agricultural Acts
+                                     ’    362 Personal Injury -              Product Liability       ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                              Medical Malpractice                                           Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                       CIVIL RIGHTS                PRISONER PETITIONS          ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                       Act
+❒   210 Land Condemnation             ❒   440 Other Civil Rights         Habeas Corpus:             ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff       ❒ 896 Arbitration
+❒   220 Foreclosure                   ❒   441 Voting                   ❒ 463 Alien Detainee                Income Security Act                     or Defendant)              ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       u❒   442 Employment               ❒ 510 Motions to Vacate                                              ❒ 871 IRS—Third Party                    Act/Review or Appeal of
+❒   240 Torts to Land                 ❒   443 Housing/                       Sentence                                                              26 USC 7609                       Agency Decision
+❒   245 Tort Product Liability                Accommodations           ❒ 530 General                                                                                          ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒    445 Amer. w/Disabilities -   ❒ 535 Death Penalty                IMMIGRATION                                                                State Statutes
+                                              Employment                 Other:                     ❒ 462 Naturalization Application
+                                     ❒    446 Amer. w/Disabilities -   ❒ 540 Mandamus & Other       ❒ 465 Other Immigration
+                                              Other                    ❒ 550 Civil Rights                 Actions
+                                     ❒    448 Education                ❒ 555 Prison Condition
+                                                                       ❒ 560 Civil Detainee -
+                                                                             Conditions of
+                                                                             Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                            ❒    3     Remanded from            ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict                   ❒ 8 Multidistrict
+        Proceeding                State Court                          Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                            (specify)                      Transfer                         Direct File
+                                            Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                            qáíäÉ=sff=EQOrp`OMMMFX=pÉÅíáçå=NVUN=EQOrp`NVUNF
+VI. CAUSE OF ACTION Brief description of cause:
+                                            sáçä~íáçåë=çÑ=qáíäÉ=sffI=pÉÅíáçå=NVUNI=m^=tÜáëíäÉÄäçïÉê=i~ïI=cáêëí=^ãÉåÇÉåí=éêçíÉÅíáçåë=~åÇ=m^=eìã~å=oÉä~íáçåë=^ÅíK
+VII. REQUESTED IN     ❒                          CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:                                  UNDER RULE 23, F.R.Cv.P.                                                                               JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                                               (See instructions):
+      IF ANY                                                            JUDGE                                                                   DOCKET NUMBER
+DATE                                                                      SIGNATURE OF ATTORNEY OF RECORD
+            NNLOQLOMOM
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                      APPLYING IFP                                    JUDGE                               MAG. JUDGE
+
+                  Print                                 Save As...                                                                                                                   Reset
+

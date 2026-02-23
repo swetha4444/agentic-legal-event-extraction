@@ -1,0 +1,1236 @@
+Source URL: https://www.courtlistener.com/docket/63178509/1/cassidy-v-pond-lehocky-giordano-llp/
+Title: Complaint (Attorney) – #1 in CASSIDY v. POND LEHOCKY GIORDANO, LLP (E.D. Pa., 2:22-cv-01102) – CourtListener.com
+
+JS 44 (Rev. 10/20)                 Case 2:22-cv-01102-MSG
+                                                     CIVILDocument
+                                                          COVER 1SHEET
+                                                                   Filed 03/22/22 Page 1 of 41
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+                                                                                                               Pond Lehocky Giordano, LLP
+    Maureen Cassidy                                                                                            Pond Lehocky, LLP
+    (b)   County of Residence of First Listed Plaintiff                Philadelphia County                     County of Residence of First Listed Defendant              Philadelphia County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Daniel S. Orlow, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State          ✖ 1          1      Incorporated or Principal Place
+                                                                                                                                                           of Business In This State
+                                                                                                                                                                                                 4     4 x
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                    625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                   of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability               690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                           400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                       PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                       820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                     830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                     835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                            New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                             840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                             LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                     710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                    Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                  720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                     Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                 740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability               751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                   790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                      791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                      Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                    870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                 or Defendant)                 896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                              871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                       IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment              Other:                              462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                465 Other Immigration                                                  950 Constitutionality of
+                                             Other                   550 Civil Rights                        Actions                                                                State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. § 2000(e) et seq.; 29 U.S.C. § 206(d), et seq.
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff was discriminated against because of her sex.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                            in excess of $75,000                           JURY DEMAND:                X   Yes           No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE
+                                                                           SIGNAT
+                                                                           SIG NATUR
+                                                                               NAT
+                                                                                ATUR
+                                                                                   UR OF
+                                                                                   URE O ATTORNEY OF RECORD
+        3/22/2022
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+             Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 2 of 41
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+ Maureen Cassidy                                  :                          CIVIL ACTION
+                                                  :
+                       v.                         :
+                                                  :
+Pond Lehocky Giordano, LLP, et al.                :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+3/22/2022                                                           Plaintiff, Maureen Cassidy
+Date                               Attorney-at-law
+                                     to
+                                      orney
+                                          y-a
+                                           -att-la
+                                                l w                      Attorney for
+ 215-545-7676                   215-405-2900                          orlow@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+                            Case 2:22-cv-01102-MSG
+                                               UNITED Document   1 Filed
+                                                      STATES DISTRICT    03/22/22 Page 3 of 41
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                            Philadelphia, PA
+Address of Plaintiff: ______________________________________________________________________________________________
+                                            2005 Market Street, Philadelphia, PA 19103
+Address of Defendant: ____________________________________________________________________________________________
+                                                         2005 Market Street, Philadelphia, PA 19103
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related                  pending or within one year previously terminated action in
+                                                                                    ed to anyy case now pe
+                                                                                                        pen
+this court except as noted above.
+      03/22/2022
+DATE: __________________________________                     __________________________________________
+                                                                             ___
+                                                                              ____
+                                                                              __ ____
+                                                                                   ________
+                                                                                         ___________                                       311702
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law
+                                                                                     L /PPro SSe Plaintiff
+                                                                                                 Pl i iff                                     Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+              Daniel S. Orlow
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+      X       Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     X        Relief other than monetary damages is sought.
+
+
+      03/22/2022
+DATE: __________________________________                     __________________________________________
+                                                                         ______
+                                                                             ____
+                                                                              _____
+                                                                                ____
+                                                                                __ ____
+                                                                                     ____
+                                                                                     __ ___________                                        311702
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law
+                                                                              ney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 4 of 41
+
+
+
+
+                         UNITED STATES DISTRICT COURT
+                       EASTERN DISTRICT OF PENNSYLVANIA
+__________________________________________
+                                          :
+Plaintiff,                                :
+                                          :
+        MAUREEN CASSIDY                   :
+        Philadelphia, PA                  :    Case No.
+                                          :
+        v.                                :
+                                          :
+Defendants,                               :    JURY TRIAL DEMANDED
+                                          :
+        POND LEHOCKY GIORDANO, LLP        :
+                                          :
+        POND LEHOCKY, LLP                 :
+__________________________________________:
+
+                               CIVIL ACTION COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Maureen Cassidy, brings this action against her former employer, Pond
+
+Lehocky, for violations of Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000(e) et seq.
+
+(“Title VII”), the Equal Pay Act of 1963, 29 U.S.C. § 206(d) et seq. (“EPA”), the Pennsylvania
+
+Human Relations Act, 43 Pa. Stat. § 951, et seq. (“PHRA”), the Philadelphia Fair Practices
+
+Ordinance, Phila. Code § 9-1100, et seq. (“PFPO”), and the Pennsylvania Wage Payment and
+
+Collection Law, 43 Pa. Stat. §260.1 (“WPCL”).
+
+       Despite Plaintiff’s dedication and consistently excellent performance throughout her
+
+employment, Plaintiff was discriminated against on account of her sex (female), retaliated
+
+against for submitting complaints of sex discrimination to the Pennsylvania Human Relations
+
+Commission, and denied compensation due and owing to her pursuant to the terms of her
+
+contract of employment. Plaintiff seeks damages, including back-pay, front-pay, compensatory,
+
+liquidated, punitive, attorneys’ fees and costs, and all other relief that this Court deems
+            Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 5 of 41
+
+
+
+
+appropriate.
+
+II.    PARTIES
+
+       1.       Plaintiff Maureen Cassidy is an individual and citizen of the Commonwealth of
+
+Pennsylvania, residing therein in Philadelphia, PA.
+
+       2.       Defendant Pond Lehocky Giordano, LLP is organized under the laws of the
+
+Commonwealth of Pennsylvania with a principal place of business located at 2005 Market Street,
+
+Philadelphia, PA 19103.
+
+       3.       Defendant Pond Lehocky, LLP is organized under the laws of the Commonwealth
+
+of Pennsylvania with a principal place of business located at 2005 Market Street, Philadelphia,
+
+PA 19103.
+
+       4.       The operations of Defendants are substantively integrated and consolidated.
+
+Without limitation, and by way of example:
+
+                a.     Defendants share common leadership;
+
+                b.     Defendants collectively and individually do business under the trade name
+
+                       “Pond Lehocky”;
+
+                c.     Defendants have each issued Plaintiff appropriate year-end tax documents;
+
+                d.     Defendants share a common principal place of business located at 2005
+
+                       Market Street, Philadelphia, PA 19103;
+
+                e.     Defendants issue press releases and other marketing-related materials that
+
+                       refer to Pond Lehocky as a single enterprise of which Defendants are each
+
+                       a part;
+
+       5.       At all times material hereto, Plaintiff was an employee of Defendants within the
+
+meaning of the statutes which form the basis of this matter.
+
+
+
+                                                2
+            Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 6 of 41
+
+
+
+
+       6.       At all times material hereto, Defendants were an employer of Plaintiff within the
+
+meaning of the statutes which form the basis of this matter.
+
+       7.       At all times material hereto, Defendants employed more than fifteen (15) people.
+
+       8.       At all times material hereto, Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees within the course and scope of their employment
+
+with Defendants and in furtherance of Defendants’ business.
+
+III.   JURISDICTION AND VENUE
+
+       9.       The causes of action set forth in this Complaint arise under Title VII, the EPA, the
+
+PHRA, the PFPO, and the WPCL.
+
+       10.      The District Court has subject matter jurisdiction over Count I (Title VII) and
+
+Count II (EPA) pursuant to 28 U.S.C. § 1331
+
+       11.      The District Court has supplemental jurisdiction over Count III (PHRA), Count
+
+IV (PFPO), and Count V (WPCL) pursuant to 28 U.S.C. § 1367.
+
+       12.      Venue is proper under 28 U.S.C. § 1391(b).
+
+       13.      On or about June 18, 2020, Plaintiff filed a Complaint of Discrimination with the
+
+Pennsylvania Human Relations Commission (PHRC), complaining of the various acts of
+
+discrimination alleged herein. Plaintiff’s Complaint of Discrimination was dual-filed with the
+
+Equal Employment Opportunity Commission. Attached hereto, incorporated herein, and marked
+
+as Exhibit “A” is a true and correct copy of the June 18, 2020 Complaint of Discrimination (with
+
+minor redactions for purposes of electronic filing of confidential/identifying information).
+
+       14.      On or about November 5, 2020, Plaintiff filed a Second Complaint of
+
+Discrimination with the PHRC, complaining of the various acts of discrimination and retaliation
+
+alleged herein. Plaintiff’s Second Complaint of discrimination was dual-filed with the Equal
+
+
+                                                 3
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 7 of 41
+
+
+
+
+Employment Opportunity Commission. Attached hereto, incorporated herein, and marked as
+
+Exhibit “B” is a true and correct copy of the November 5, 2020 Complaint of Discrimination
+
+(with minor redactions for purposes of electronic filing of confidential/identifying information).
+
+       15.     Plaintiff’s PHRC Complaints of Discrimination were each assigned PHRC Case
+
+No. 201904783 and EEOC No. 17F202061308.
+
+       16.     On January 10, 2022, the EEOC issued Plaintiff a Notice of Dismissal and Right
+
+to Sue. Attached hereto as “Exhibit C” is a true and correct copy of that notice.
+
+       17.     On February 17, 2022, the Pennsylvania Human Relations Commission informed
+
+Plaintiff that more than one (1) year had passed since the filing of her Complaint of
+
+Discrimination, advising her that she had the right to bring an action in the appropriate Court of
+
+Common Pleas based on the alleged violations of the PHRA.
+
+       18.     Plaintiff is filing this complaint within ninety (90) days from her receipt of the
+
+EEOC’s Notice of Dismissal and Right to Sue.
+
+       19.     Plaintiff has fully complied with all administrative pre-requisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+       20.     Plaintiff was hired by Defendants in or about December 2015.
+
+       21.     Plaintiff held the position of Coverage Attorney in Defendants’ workers’
+
+compensation department.
+
+       22.     As a Coverage Attorney in Defendants’ workers’ compensation department,
+
+Plaintiff’s job duties and responsibilities included, but were not limited to, providing various
+
+forms of litigation support to cases assigned to Handling Attorneys and Partners.
+
+
+
+
+                                                 4
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 8 of 41
+
+
+
+
+        23.   At the time of her termination, Plaintiff reported to Sam Pond (male), Defendants’
+
+Managing Partner.
+
+        24.   Plaintiff consistently performed her job duties in a highly competent manner and
+
+received positive feedback on her performance.
+
+        25.   During Plaintiff’s employment with Defendants, six (6) out of the seven (7)
+
+Handling (first chair) Attorneys in the Defendants’ workers’ compensation department were
+
+male.
+
+        26.   During Plaintiff’s employment with Defendants, all of Defendants’ Partners were
+
+male and none were female.
+
+        27.   On April 9, 2019, Alexis Handrich (female) vacated her position as Handling
+
+Attorney in Defendants’ workers’ compensation department.
+
+        28.   On April 11, 2019, in a conversation with David Stern (male), then Partner,
+
+Plaintiff asked to be promoted to the Handling Attorney position that had been vacated by
+
+Handrich.
+
+        29.   On April 12, 2019, Defendants failed to promote Plaintiff to the vacant Handling
+
+Attorney position.
+
+        30.   Instead of promoting Plaintiff to Handling Attorney, Defendants promoted Conor
+
+Shields (male).
+
+        31.   Plaintiff was qualified for the Handling Attorney position, as she had been the
+
+Coverage (second chair) Attorney for Handrich and was familiar with her cases.
+
+        32.   Plaintiff was more qualified than Shields for the Handling Attorney position
+
+vacated by Handrich.
+
+        33.   The Handling Attorney position vacated by Handrich was not posted.
+
+
+
+                                                 5
+            Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 9 of 41
+
+
+
+
+       34.      Plaintiff had no opportunity to formally apply for the vacant Handling Attorney
+
+position.
+
+       35.      Following Shields’ promotion to Handling Attorney, Plaintiff repeatedly
+
+expressed her desire to Defendants to be promoted to Handling Attorney.
+
+       36.      Plaintiff was never promoted to Handling Attorney.
+
+       37.      Defendants treated male attorneys better, and in a more preferential manner, than
+
+it treated female attorneys, including Plaintiff.
+
+       38.      Defendants provided male attorneys, including Taylor Cohen (male), Coverage
+
+Attorney, and Nick Liermann (male), Coverage Attorney, with cases, mentoring, greater access
+
+to interactions with Partners, and career advancement and networking opportunities that Plaintiff
+
+was not offered or provided.
+
+       39.      Defendants compensated Plaintiff at a rate less than the rate at which it
+
+compensated male attorneys of similar background, qualifications, and experience.
+
+       40.      Defendants compensated Plaintiff at a rate less than the rate at which it
+
+compensated male Attorneys for work which required equal skill, effort, and responsibility
+
+performed under similar working conditions.
+
+       41.      For example, and without limitation, Defendants gave Cohen significant
+
+compensation incentives to work for Defendants, including the promise of a promotion to
+
+Handling Attorney and a lump sum payment of $50,000.
+
+       42.      On numerous occasions, Pond made comments about Plaintiff’s appearance and
+
+clothing.
+
+       43.      To Plaintiff’s knowledge, Pond never commented on the appearance or clothing
+
+of male attorneys.
+
+
+
+                                                    6
+        Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 10 of 41
+
+
+
+
+       44.    In or about January 2020, in separate meetings with Pond and Thomas Giordano
+
+(male), Partner, Plaintiff again asked to be promoted to Handling Attorney.
+
+       45.    In response to her January 2020 request to be promoted to Handling Attorney,
+
+Plaintiff received positive performance feedback, but no indication that she would be promoted.
+
+       46.    In or about February 2020, Plaintiff was instructed to train certain male attorneys
+
+to perform the job duties of a Coverage Attorney.
+
+       47.    Specifically, and by way of example, Plaintiff trained Anthony DiAngelo and
+
+Joseph Squadroini on medical deposition techniques and taking client testimony.
+
+       48.    On March 20, 2020, on a phone call with Giordano, Plaintiff was placed on
+
+“furlough.” The stated reason for Plaintiff being placed on “furlough” was the COVID-19
+
+pandemic.
+
+       49.    Giordano told Plaintiff that she was not being terminated and that she would be
+
+brought back to work “as soon as possible.”
+
+       50.    Defendants placed on “furlough” eight (8) of the ten (10) female Coverage
+
+Attorneys in the workers’ compensation department.
+
+       51.    Defendants retained six (6) of the nine (9) male Coverage Attorneys in the
+
+workers’ compensation department.
+
+       52.    On May 6, 2020, Defendants terminated Plaintiff’s employment, effective May
+
+31, 2020.
+
+       53.    Defendants terminated eight (8) of the ten (10) female Coverage Attorneys in the
+
+workers’ compensation department.
+
+       54.    Defendants retained six (6) of the nine (9) male Coverage Attorneys in the
+
+workers’ compensation department.
+
+
+
+                                                7
+          Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 11 of 41
+
+
+
+
+         55.   Defendants retained at least five (5) male Attorneys in positions for which
+
+Plaintiff was more qualified and who had less service time with Defendants than Plaintiff.
+
+         56.   Defendants did not terminate any Handling Attorneys, six (6) of the seven (7) of
+
+whom were male.
+
+         57.   Plaintiff had no performance or disciplinary issues during her employment with
+
+Defendants.
+
+         58.   Pursuant to the terms of her contract of employment with Defendants, Plaintiff
+
+was entitled to compensation in connection with three (3) different categories of cases: (1)
+
+“referral credit cases”; (2) “Stern cases”; and (3)“JYD cases.”
+
+         59.   “Referral credit cases” were cases where Plaintiff was responsible for generating
+
+the client for Defendants. Pursuant to the terms of her contract of employment with Defendants,
+
+Plaintiff was entitled to 20% of Defendants’ attorney fee on these cases.
+
+         60.   “Stern cases” were a sub-category of “referral credit case” that had left
+
+Defendants’ firm with former partner David Stern. Pursuant to the terms of her contract of
+
+employment with Defendants, Plaintiff was entitled to 20% of Defendants’ attorney fee on these
+
+cases.
+
+         61.   “JYD cases” were cases where the prospective client of Defendants had been
+
+rejected or was unable to be successfully contacted. Pursuant to the terms of her contract of
+
+employment with Defendants, if Plaintiff successfully converted these individuals into clients of
+
+Defendants, she was entitled to 10% of Defendants’ attorney fee on those cases.
+
+         62.   At the time of her termination, Plaintiff was owed compensation for “referral
+
+credit cases”, “JYD cases”, and also “Stern cases”.
+
+
+
+
+                                                 8
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 12 of 41
+
+
+
+
+       63.     On May 9, 2020, Pond stated the following to Plaintiff in an email regarding her
+
+“referral credit cases”: “Please note that any fees earned, and not yet paid, prior to through May
+
+31, 2020, pursuant to your employment agreement, will be paid by June 5, 2020. In addition,
+
+despite some contrary language in the employment agreement, we will honor your right to
+
+a twenty-percent (20%) fee in any case where you have been identified as the credit
+
+attorney in an ongoing basis.” Pond stated: “[A]ny cases that you brought in as your credit will
+
+be honored. Also, we will honor as your credit, anyone referred by one of your clients.”
+
+       64.     On May 16, 2020, in an email to Pond, Plaintiff asked the following: “Just to
+
+clarify - I will be entitled to ongoing fees for cases where I am the credit attorney after June 5,
+
+2020, correct? How will those be paid? I assume this includes the few remaining JYD cases I
+
+have left as well. Anything with the cases that went with Dave [Stern] where I am the credit
+
+attorney? There were two.”
+
+       65.     On May 16, 2020, in an email from Pond, he stated that Plaintiff “would get paid
+
+monthly” for her referral credit cases. He stated: “The referral fees have no time limit. Not sure
+
+what you are referring to in ref the JYD cases? Are they your credit? We will honor the cases
+
+stern took but I need the names – do you know them? otherwise I’ll get them.”
+
+       66.     On May 16, 2020, in emails to Pond, Plaintiff provided a list of cases for which
+
+she was owed compensation, and confirmed that she was also owed compensation for certain
+
+JYD cases.
+
+       67.     On May 19, 2020, Plaintiff was provided with a “list of [referral] credit cases
+
+where [Plaintiff] ha[s] been or will be paid fees.”
+
+       68.     The list provided to Plaintiff on May 19, 2020 showed that Plaintiff was owed
+
+fees in twelve (12) of the fourteen (14) cases that she had identified to Pond on May 16, 2020.
+
+
+
+                                                  9
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 13 of 41
+
+
+
+
+       69.     On May 19, 2020, Plaintiff provided Defendants with a list of additional cases for
+
+which she was owed fees.
+
+       70.     On May 21, 2020, Plaintiff requested an updated list of the cases for which she
+
+was owed fees.
+
+       71.     On May 21, 2020, in an email to Thomas Giordano, Jr. (male), Founding Partner,
+
+Plaintiff stated that she had not received a response to her May 19 and May 21 emails wherein
+
+she requested an updated list of the cases for which she was owed fees.
+
+       72.     On May 22, 2020, in an email from Giordano, he stated the following: “We
+
+actually spoke about this very topic yesterday. Bryan and his team are going to be reviewing the
+
+case names you provided and make sure whatever we owe you will be paid.”
+
+       73.     On May 31, 2020, in emails to Pond, Plaintiff provided a list of cases for which
+
+she was owed fees that were not previously identified by Defendants. In her May 31 emails to
+
+Pond, she stated, “After I sent the list of cases of credits I have, Jen Heinz sent a list back that
+
+was missing the JYD’s and one other case. I simply have been asking for an updated list of all
+
+the cases so I can get confirmation that I will receive credits for all of them and not just those on
+
+the list that Jen Heinz sent me.”
+
+       74.     On June 3, 2020, in an email from Giordano, he stated: “… any [Maureen] Morty
+
+Cassidy referred cases (known as your ‘credit’ cases) that are in Pond Lehocky’s inventory will
+
+be paid on an as-received bases at 20% of the net attorney fee.”
+
+       75.     In Giordano’s June 3 email he outlined cases, credit, and calculations, and stated:
+
+“Based on the above, we felt it was more than fair to pay you a lump sum of $10,125 as full and
+
+final payment for the Stern cases and JYD cases. We have decided to pay you this now instead
+
+of waiting to see if those cases are even awarded or settled. Its [sic] very possible that there
+
+
+
+                                                 10
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 14 of 41
+
+
+
+
+would be no fee in any of those cases and we did not even other factors such as low comp rates,
+
+Judge assignments, etc. I do however want to be clear that this is it for everything that may or
+
+may not be outstanding to you that is not a clear cut, Morty Cassidy referral to the Firm. Does
+
+that make sense?     Please let me know if you have any questions about this because in
+
+consideration of the $10,125.00 we would expect a fully executed release.”
+
+        76.    On June 4, 2020, in an email to Giordano, Plaintiff stated that, according to her
+
+calculations, she was owed approximately $17,630 for just her JYD and Stern credit cases for
+
+May 2020.
+
+        77.    On June 5, 2020, in an email from Giordano, he stated that Defendants were “not
+
+negotiating,” and that Defendants “feel” that $10,125 “is beyond fair and more than what
+
+[Defendants] ha[ve] to do.”
+
+        78.    On or about June 7, 2020, Plaintiff received a check for $1,862.98, representing a
+
+portion of the referral credit fees she was owed on cases between March and May 2020.
+
+        79.    On June 18, 2020, Plaintiff filed her first Complaint of Discrimination with the
+
+PHRC.
+
+        80.    Following the filing of her first Complaint of Discrimination, Plaintiff received no
+
+further payments on any cases in which she was identified as the credit attorney, despite
+
+Defendants’ previous statement that fees in such cases received by Defendants would be paid to
+
+her on an ongoing basis.
+
+        81.    On September 16, 2020, in an email to Giordano, Plaintiff followed up regarding
+
+additional fees that she was owed by Defendants.
+
+        82.    On September 16, 2020, in a response email from Giordano, he stated that he had
+
+forwarded Plaintiff’s email to Defendants’ attorney.
+
+
+
+                                                11
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 15 of 41
+
+
+
+
+        83.     On October 14, 2020, in an email to Giordano, Plaintiff again followed up on the
+
+fees that she was owed by Defendants.
+
+        84.     On October 15, 2020, in a response email from Giordano, he stated the following:
+
+“[W]e will forward your email to our counsel. As you have filed a lawsuit against us, I suggest
+
+that you direct all communications for our Firm through your attorney.”
+
+        85.     On October 28, 2020, in an email to Giordano Plaintiff stated the following: “This
+
+is money that is owed to me, which I was told would be paid to me, and to not pay it is a
+
+violation of the PA Wage Payment and Collection Law. Demand is made under that law, via this
+
+email, to pay the money to me immediately. To not pay me the money because I filed a sex
+
+discrimination claim with the Pennsylvania Human Relations Commission is unlawful
+
+retaliation.”
+
+        86.     At the present time, there remains due and owing to Plaintiff significant portions
+
+of the compensation due to her under the terms and conditions of her contract of employment
+
+with Defendants.
+
+        87.     Plaintiff’s sex (female) was a motivating and/or determinative factor in
+
+Defendants’ discriminatory treatment of her, including her lower rate of compensation, failing to
+
+promote her to the position of Handling Attorney, placing her on furlough status, terminating her
+
+employment, and failing to pay her fees to which she was entitled pursuant to the terms and
+
+conditions of her contract of employment with Defendants.
+
+        88.     The filing of Plaintiff’s Complaints of Discrimination with the PHRC and
+
+Plaintiff’s October 28, 2020 Complaint to Giordano regarding Defendants violations of the
+
+WPCL were each motivating and or determinative factors in Defendants’ retaliatory conduct of
+
+
+
+
+                                                12
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 16 of 41
+
+
+
+
+refusing to pay to Plaintiff fees to which she was entitled pursuant to the terms of her contract of
+
+employment with Defendants.
+
+        89.     As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendants, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of
+
+self-esteem, mental anguish, and loss of life’s pleasures, the full extent of which is not known at
+
+this time.
+
+        90.     Despite its contractual obligation to compensate Plaintiff for her “referral credit
+
+cases”, “JYD cases”, and “Stern cases”, Defendants have failed to compensate Plaintiff
+
+accordingly.
+
+                                             COUNT I
+                       Title VII of the Civil Rights Act of 1964 (Title VII)
+
+        91.     Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        92.     Defendants have violated Title VII by committing the foregoing acts of
+
+discrimination and retaliation.
+
+        93.     Defendants intentionally discriminated and retaliated against Plaintiff because of
+
+her sex and her complaints of sex discrimination and retaliation, including with respect to her
+
+rate of compensation, failing to promote her to Handling Attorney, placing her on furlough
+
+status, terminating her employment, and failing to pay her compensation due and owing to her
+
+pursuant to her contract of employment with Defendants.
+
+        94.     Defendants acted with malice and/or reckless indifference toward the federally
+
+protected rights of Plaintiff and its conduct warrants the imposition of punitive damages.
+
+
+
+                                                13
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 17 of 41
+
+
+
+
+        95.     As a direct and proximate result of Defendants’ violation of Title VI, Plaintiff has
+
+suffered the damages and losses set forth herein.
+
+        96.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        97.     No previous application has been made for the relief requested herein.
+
+                                          COUNT II
+                                  Equal Pay Act of 1963 (EPA)
+
+        98.     Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        99.     Defendants have violated the EPA by committing the foregoing acts of
+
+discrimination and pay inequity against Plaintiff.
+
+        100.    At all relevant times, Defendants compensated Plaintiff (female) at a rate less than
+
+the rate at which it compensated employees of the opposite sex (male) for equal work requiring
+
+equal skill, effort, and responsibility performed under similar working conditions.
+
+        101.    Defendants’ violations of the EPA were not carried out in good faith and
+
+Defendants did not have reasonable grounds for believing that its conduct did not amount to a
+
+violation of the law, thus warranting the imposition of liquidated damages.
+
+        102.    As a direct and proximate result of Defendants’ violation of the EPA, Plaintiff has
+
+suffered the damages and losses set forth herein.
+
+        103.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        104.    No previous application has been made for the relief requested herein.
+
+
+                                                 14
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 18 of 41
+
+
+
+
+                                            COUNT III
+                              Pennsylvania Human Relations Act (PHRA)
+
+        105.    Plaintiff incorporates by reference the foregoing paragraphs of this Complaint, as
+
+if fully set forth herein.
+
+        106.    Defendants have violated the PHRA by committing the foregoing acts of
+
+discrimination and retaliation.
+
+        107.    Defendants intentionally discriminated and retaliated against Plaintiff because of
+
+her sex and her complaints of sex discrimination and retaliation, including with respect to her
+
+rate of compensation, failing to promote her to Handling Attorney, placing her on furlough
+
+status, terminating her employment, and failing to pay her compensation due and owing to her
+
+pursuant to her contract of employment with Defendants.
+
+        108.    As a direct and proximate result of Defendants’ violation of the PHRA, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+        109.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        110.    No previous application has been made for the relief requested herein.
+
+                                              COUNT IV
+                             Philadelphia Fair Practices Ordinance (PFPO)
+
+        111.    Plaintiff incorporates by reference the foregoing paragraphs of this Complaint, as
+
+if fully set forth herein.
+
+        112.    Defendants have violated the PFPO by committing the foregoing acts of
+
+discrimination and retaliation.
+
+
+
+
+                                                  15
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 19 of 41
+
+
+
+
+       113.    Defendants intentionally discriminated and retaliated against Plaintiff because of
+
+her sex and her complaints of sex discrimination and retaliation, including with respect to her
+
+rate of compensation, failing to promote her to Handling Attorney, placing her on furlough
+
+status, terminating her employment, and failing to pay her compensation due and owing to her
+
+pursuant to her contract of employment with Defendants.
+
+       114.    Defendants’ violations were done with malice and/or reckless indifference and
+
+warrant the imposition of punitive damages.
+
+       115.    As a direct and proximate result of Defendants’ violation of the PFPO, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+       116.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+       117.    No previous application has been made for the relief requested herein.
+
+                                           COUNT V
+                      Pennsylvania Wage Payment and Collection Law (WPCL)
+
+       118.    Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+       119.    Pursuant to the terms of her contract of employment with Defendants, there
+
+remains due and owing to Plaintiff portions of the fees to which she was entitled in connection
+
+with her “referral credit cases”, “JYD cases”, and “Stern cases.”.
+
+       120.    By refusing to compensate Plaintiff pursuant to her contract of employment,
+
+Defendants have deprived Plaintiff of compensation which she earned and to which she is
+
+entitled.
+
+
+
+
+                                                 16
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 20 of 41
+
+
+
+
+        121.   Defendants failed to compensate Plaintiff within thirty (30) days of when the fees
+
+ and compensation described herein became due and owing to her under her contract of
+
+ employment with Defendants.
+
+        122.   Defendants’ conduct is in violation of the WPCL.
+
+        123.   Defendants had no good-faith basis to refuse to pay her the fees and compensation
+
+ described herein to which she was entitled pursuant to her contract of employment with
+
+ Defendants.
+
+        124.   As a result of Defendants’ conduct and violations of the WPCL, Plaintiff is
+
+ entitled to an award of liquidated damages in an amount equal to Twenty-Five percent (25%) of
+
+ the total amount owed to Plaintiff.
+
+        125.   Plaintiff is entitled to attorneys’ fees and costs as mandated by the WPCL
+
+        126.   No previous application has been made for the relief requested herein.
+
+                                            RELIEF
+
+        WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in favor of
+
+Plaintiff, Maureen Cassidy, and against Defendants:
+
+        a)     declaring the acts and practices complained of herein to be in violation of Title
+
+VII;
+
+        b)     declaring the acts and practices complained of herein to be in violation of the
+
+EPA;
+
+        c)     declaring the acts and practices complained of herein to be in violation of the
+
+PHRA;
+
+        d)     declaring the acts and practices complained of herein to be in violation of the
+
+PFPO;
+
+
+                                               17
+         Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 21 of 41
+
+
+
+
+        e)     declaring the acts and practices complained of herein to be in violation of the
+
+WPCL
+
+        f)     enjoining and restraining permanently the violations alleged herein;
+
+        g)     awarding damages to Plaintiff for the past and future economic losses that she has
+
+suffered;
+
+        h)     awarding compensatory damages to Plaintiff for past and future emotional upset,
+
+mental anguish, humiliation, loss of life’s pleasures, and pain and suffering;
+
+        i)     awarding punitive damages to Plaintiff;
+
+        j)     awarding liquidated damages to Plaintiff pursuant to the WPCL and the EPA.
+
+        k)     awarding Plaintiff the costs of this action, together with reasonable attorney’s
+
+fees;
+
+        l)     granting such other and further relief as this Court deems appropriate.
+
+
+
+                                              CONSOLE MATTIACCI LAW, LLC
+
+
+
+Dated: March 22, 2022                 BY:            ______________
+                                                                 __
+                                                                 ________
+                                              ____________________________
+                                              Daniel S  Ol
+                                                     S. Orlow,   E
+                                                                 Esq.
+                                              1525 Locust Street, 9th Floor
+                                              Philadelphia, PA 19102
+                                              (215) 545-7676
+                                              Attorneys for Plaintiff, Maureen Cassidy
+
+
+
+
+                                                18
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 22 of 41
+
+
+
+
+                   Exhibit A
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 23 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 24 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 25 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 26 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 27 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 28 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 29 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 30 of 41
+
+
+
+
+                   Exhibit B
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 31 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 32 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 33 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 34 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 35 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 36 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 37 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 38 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 39 of 41
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 40 of 41
+
+
+
+
+                   Exhibit C
+Case 2:22-cv-01102-MSG Document 1 Filed 03/22/22 Page 41 of 41
+

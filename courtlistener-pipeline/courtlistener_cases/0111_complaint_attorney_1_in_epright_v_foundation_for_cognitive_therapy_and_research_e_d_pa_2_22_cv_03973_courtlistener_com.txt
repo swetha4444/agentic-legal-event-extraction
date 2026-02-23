@@ -1,0 +1,927 @@
+Source URL: https://www.courtlistener.com/docket/65404590/1/epright-v-foundation-for-cognitive-therapy-and-research/
+Title: Complaint (Attorney) – #1 in EPRIGHT v. FOUNDATION FOR COGNITIVE THERAPY AND RESEARCH (E.D. Pa., 2:22-cv-03973) – CourtListener.com
+
+              Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 1 of 17
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                 FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+____________________________________
+DONNA EPRIGHT                          :
+1155 Putnam Blvd.                      :
+Wallingford, PA 19086                  :    CIVIL ACTION
+                                       :
+              Plaintiff,               :    DOCKET NO.:
+       v.                              :
+                                       :
+FOUNDATION FOR COGNITIVE               :
+THERAPY AND RESEARCH d/b/a             :
+BECK INSTITUTE                         :
+1Belmont Ave, Suite 700                :    JURY TRIAL DEMANDED
+Bala Cynwyd, PA 19004                  :
+                                       :
+              Defendant.               :
+____________________________________:
+
+                                        CIVIL ACTION COMPLAINT
+
+         Donna Epright (hereinafter referred to as “Plaintiff,” unless indicated otherwise), by and
+
+through her undersigned counsel, hereby avers as follows:
+
+                                                INTRODUCTION
+
+         1.       This action has been initiated by Plaintiff against Foundation for Cognitive Therapy
+
+and Research d/b/a Beck Institute (hereinafter “Defendant”) for violations of Title VII of the Civil
+
+Rights Act of 1964 (“Title VII” – 42 U.S.C. §§ 200d et seq.), Section 1981 of the Civil Rights Act
+
+of 1866 (“Section 1981” – 42 U.S.C. § 1981), the Americans with Disabilities Act, as amended
+
+(“ADA” - 42 USC §§ 12101 et. seq.), the Family and Medical Leave Act (“FMLA”- 29 USC §
+
+2601), the Age Discrimination in Employment Act (“ADEA” – 29 U.S.C. §§ 621 et seq.), and the
+
+Pennsylvania Human Relations Act (“PHRA”).1                        Plaintiff asserts, inter alia, that she was
+
+
+
+1
+  Plaintiff’s claims under the PHRA are referenced herein for notice purposes. Plaintiff’s claims were dual filed with
+the PHRC, but those under the PHRA will not administratively exhaust until they have been pending for 1-year.
+Plaintiff is required to file the instant lawsuit in advance, as she has been issued her right-to-sue letter from the EEOC.
+Plaintiff intends to amend her complaint to include PHRA claims once those claims are administratively exhausted.
+            Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 2 of 17
+
+
+
+
+discriminated against and unlawfully terminated by Defendant. As a direct consequence of
+
+Defendant’s unlawful actions, Plaintiff seeks damages as set forth herein.
+
+                                  JURISDICTION AND VENUE
+
+       2.       This Court has original subject matter jurisdiction over the instant action pursuant
+
+to 28 U.S.C. §§ 1331 and 1343(a)(4) because it arises under laws of the United States and seeks
+
+redress for violations of federal laws. There lies supplemental jurisdiction over Plaintiff’s state-
+
+law claims because they arise out of the same common nucleus of operative facts as Plaintiff's
+
+federal claims asserted herein.
+
+       3.       This Court may properly maintain personal jurisdiction over Defendant because
+
+Defendant’s contacts with this state and this judicial district are sufficient for the exercise of
+
+jurisdiction in order to comply with traditional notions of fair play and substantial justice,
+
+satisfying the standard set forth by the United States Supreme Court in Int’l Shoe Co. v.
+
+Washington, 326 U.S. 310 (1945), and its progeny.
+
+       4.       Pursuant to 28 U.S.C. § 1391(b)(1) and (b)(2), venue is properly laid in this district
+
+because Defendant is deemed to reside where it is subjected to personal jurisdiction, rendering
+
+Defendant a resident of the Eastern District of Pennsylvania.
+
+       5.       Plaintiff is proceeding herein (in part) under Title VII, the ADEA, and the ADA,
+
+and has properly exhausted her administrative remedies with respect to such claims by timely filing
+
+a Charge of Discrimination with the Equal Employment Opportunity Commission (“EEOC”) and
+
+by filing the instant lawsuit within ninety (90) days of receiving a notice of dismissal and/or right
+
+to sue letter from the EEOC.
+
+
+
+
+                                                  2
+             Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 3 of 17
+
+
+
+
+                                               PARTIES
+
+        6.       The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        7.       Plaintiff is an adult individual, with an address as set forth in the caption.
+
+        8.       Foundation for Cognitive Therapy and Research d/b/a Beck Institute is a non-profit
+
+organization dedicated to advancing Cognitive Behavior Therapy (“CBT”) and training mental
+
+health practitioners and organizations around the world, with an address as set forth in the above
+
+caption.
+
+        9.       At all times relevant herein, Defendant acted by and through its agents, servants
+
+and employees, each of whom acted at all times relevant herein in the course and scope of their
+
+employment with and for the Defendant.
+
+                                    FACTUAL BACKGROUND
+
+        10.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        11.      Plaintiff is a 61-year-old Caucasian woman.
+
+        12.      Plaintiff was hired by Defendant on or about September 9, 2016, as a part-time
+
+Accounting Associate.
+
+        13.      On or about December 22, 2018, Plaintiff became a full-time Accounting Associate
+
+but was labeled a non-exempt employee.
+
+        14.      On or about June 4, 2020, Plaintiff was promoted from hourly to salary and given
+
+the title of Accounting Specialist, but she was never given a new job description and her job duties
+
+did not change. Rather, Plaintiff believes that Defendant only wanted to change her to salary
+
+
+
+
+                                                    3
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 4 of 17
+
+
+
+
+because of the increased number of hours she was working during COVID (as the business grew
+
+rapidly during this time).
+
+       15.        Throughout her employment with Defendant, Plaintiff was a hard-working
+
+employee who performed her job well.
+
+       16.        Plaintiff was initially supervised by Quethelyn Blake (African-American/black,
+
+hereinafter “Blake”). However, in or about February of 2021, she began being supervised by a
+
+newly hired Controller, Julia Byrd (African-American/black, hereinafter “Byrd”).
+
+       17.        Prior to being supervised by Byrd, Plaintiff had no issues with her employment.
+
+However, after coming under the supervision of Byrd, she began to be harassed and discriminated
+
+against because of her advanced age, race, disabilities, and/or need for reasonable medical
+
+accommodations. By way of example, but not intending to be an exhaustive list, Byrd:
+
+             a. Treated Plaintiff in a demeaning manner;
+
+             b.   Constantly nit-picked, ridiculed and reprimanded Plaintiff for ridiculous reasons;
+
+             c. Belittled, and isolated Plaintiff from (and other team members’) interaction;
+
+             d. Would often ignore Plaintiff’s emails and her requests for training on new programs
+
+                  that she had to use as part of her job; and
+
+             e. Refused Plaintiff support when requested and would constantly reschedule
+
+                  meetings with her.
+
+       18.        During her tenure with Defendant, Plaintiff did not witness those outside of her
+
+aforesaid protected classes (race, disability, age) being treated in the same manner by Byrd.
+
+       19.        On or about August 21, 2019, Plaintiff suffered a stroke (and associated
+
+complications), and thereafter treated with several physicians.
+
+
+
+
+                                                    4
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 5 of 17
+
+
+
+
+       20.     Despite her aforementioned health conditions, Plaintiff was still able to perform the
+
+essential duties of her job well with Defendant; however, Plaintiff did require reasonable medical
+
+accommodations at times (discussed infra).
+
+       21.     For example, Plaintiff required/utilized ADA and FMLA qualifying leave
+
+following her stroke to care and treat for her serious health conditions.
+
+       22.     Plaintiff returned to work on a part-time basis on or about September 26, 2019, and
+
+then on a full-time basis on or about October 21, 2019. However, after returning to work full-time
+
+on or about October 21, 2019, Plaintiff continued to treat with physicians throughout 2020, 2021,
+
+and 2022.
+
+       23.     While Plaintiff would try to schedule her medical appointments during breaks or
+
+after hours, sometimes it was not possible, and she would occasionally need to take a longer break
+
+or miss intermittent time from work to care for and treat for her aforesaid medical conditions
+
+(however, this did not impact the fulfillment of her job duties in any significant way, as she always
+
+covered missed time by working additional hours).
+
+       24.     Concerns regarding Plaintiff’s health again arose in or about April of 2021, as (1)
+
+work was extremely stressful, (2) Plaintiff had been given no job description, and (3) Plaintiff was
+
+being given conflicting information on what her job duties actually were.
+
+       25.     Furthermore, Plaintiff was working very long hours to get her work completed in
+
+addition to training a very young Accounts Payable Specialist in Account Receivable
+
+responsibilities and training a new Customer Service Representative (both African-
+
+American/black), all while being faced with a new Customer Relationship Management platform
+
+that she was given no training for – despite her multiple requests.
+
+
+
+
+                                                 5
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 6 of 17
+
+
+
+
+       26.      Upon Plaintiff’s information and belief, her African-American, younger, and
+
+ostensibly non-disabled co-workers/new hires were provided with whatever training they required.
+
+       27.      Plaintiff was performing all of the aforesaid job duties (see Paragraph 25, supra),
+
+while continuing to be harassed and discriminated against by Byrd.
+
+       28.      Byrd’s harassing and discriminatory treatment of Plaintiff came to a head on or
+
+about April 30, 2021, when Plaintiff was berated by Byrd in an email indicating that Plaintiff was
+
+inappropriate, disrespectful, and unprofessional simply because she included a subordinate on an
+
+email reminder to her.
+
+       29.      As a result, Plaintiff expressed to Byrd that she could not continue physically or
+
+healthfully working the hours and at the pace and magnitude that she was being required to at that
+
+point. Rather than offering assistance, however, Byrd dismissively and condescendingly advised
+
+Plaintiff to take a [medical] leave of absence.
+
+       30.      In an email dated April 30, 2021, Plaintiff conveyed her concerns regarding Byrd’s
+
+dismissive suggestion that Plaintiff take a medical leave as follows:
+
+             Julia, yesterday I strongly and honestly conveyed that I do not understand how
+             a suggested leave of absence would help the situation we are faced with at this
+             time. Having this as your suggested resolution, after having repeated [sic]
+             conveyed my situation certainly put me on the offense. Given my more recent
+             health conditions, and the present circumstances, this is all very emotional,
+             concerning, scary, and extremely difficult for me as a “can-do-no-matter-what”
+             kind of person whose health is in jeopardy.
+
+       31.      Several weeks following the aforesaid April 30, 2021 email, Defendant provided
+
+Plaintiff a new job description, but then took it back and said it would be further updated when
+
+Plaintiff highlighted the fact that the job description still stated that Plaintiff was a non-exempt
+
+employee.
+
+
+
+
+                                                  6
+          Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 7 of 17
+
+
+
+
+        32.     Plaintiff never received the updated job description after this, so it was still unclear
+
+what Plaintiff’s job duties were.
+
+        33.     In addition to giving Plaintiff a job description only to take it back for updating and
+
+then never providing Plaintiff with a revised version, Defendant directly hired a temporary
+
+employee in or about November of 2021, who was African-American/black, ostensibly non-
+
+disabled, and far younger (30s) than Plaintiff, and Plaintiff was required to train her on several of
+
+Plaintiff’s biggest responsibilities.
+
+        34.     Plaintiff began to slowly feel as though she was being pushed out as her main
+
+responsibilities were being taken away and given to African-American/black, non-disabled,
+
+substantially younger employee(s).
+
+        35.     Plaintiff continued to perform her job duties well for the next several months but it
+
+was clear that management favored African-American/black, non-disabled, and/or far younger
+
+employees, as she was continually admonished for petty reasons and essentially stripped of her
+
+primarily job duties.
+
+        36.     Thereafter, in or about March of 2022, right before Plaintiff was about to go on
+
+vacation, she was brought into a meeting with Byrd and reprimanded for alleged acts of “poor
+
+performance” that had occurred months prior, for which Plaintiff was never issued any discipline
+
+        37.     When Plaintiff returned from vacation, Plaintiff was placed on a Performance
+
+Improvement Plan (“PIP”) that contradicted some of the goals that were just discussed with
+
+Plaintiff while setting her goals for 2022.
+
+        38.     The PIP again gave specific examples of alleged “poor performance” that happened
+
+months prior and for which Plaintiff was never issued discipline.
+
+
+
+
+                                                   7
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 8 of 17
+
+
+
+
+       39.     Additionally, it was explained in the PIP that Plaintiff would have until May 13th
+
+to improve her performance and, after 30 days, Byrd would review Plaintiff’s progress (which
+
+never happened).
+
+       40.     After being issued the PIP, Plaintiff asked to have weekly one-on-one meetings
+
+with Byrd so she could be successful in accomplishing her PIP objectives.
+
+       41.     While Byrd originally agreed to one-on-one meetings with Plaintiff during the PIP
+
+period, Byrd was consistently late or just did not show for them at all (without providing any notice
+
+to Plaintiff). This caused a hardship on Plaintiff, as she was doing everything, she could to improve
+
+in the areas that Defendant alleged she was deficient, in but Defendant’s management refused to
+
+assist her or provide her with clarification when needed.
+
+       42.     Plaintiff expressed her concerns regarding the same to Byrd and Defendant’s
+
+Human Resources (“HR”) department.
+
+       43.     Even prior to Plaintiff’s PIP, one-on-one meetings were always intended to happen
+
+weekly but rarely did, as they were mostly rescheduled (over & over), cancelled, or missed, and
+
+Plaintiff often had to remind Byrd of these meetings (frequently never receiving an
+
+acknowledgement to her reminders).
+
+       44.     On or about April 1, 2022, not long after expressing her concerns that Byrd was
+
+often late or did not show for one-on-one meetings with Plaintiff, Plaintiff was abruptly informed
+
+that she was being terminated from her employment with Defendant.
+
+       45.     The termination letter Plaintiff was provided indicated that the reason for her
+
+termination was “creating a work environment not conducive to growth and collaboration due to
+
+lack of accountability and defiance.”
+
+
+
+
+                                                 8
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 9 of 17
+
+
+
+
+        46.    The reason offered by Defendant for terminating Plaintiff’s employment is
+
+completely pretextual and false. If anything, Byrd created “a work environment that was not
+
+conducive to growth and collaboration,” while Plaintiff was trying to work to the best of her ability
+
+and improve upon the alleged deficiencies that Defendant pretextually claimed she had.
+
+        47.    Prior to abruptly terminating Plaintiff’s employment, Defendant failed to
+
+accommodate Plaintiff’s disabilities under the ADA by issuing her pretextual discipline (including
+
+but not limited to placement on a PIP) for utilizing/requesting reasonable medical accommodations
+
+(i.e., intermittent and/or block leave and breaks) and utilizing the same as a means to terminate
+
+her.
+
+        48.    Since Plaintiff’s termination, she believes her duties have been given to a
+
+substantially, non-disabled, African-American/black female, who Plaintiff was forced to train,
+
+with far less seniority and experience Plaintiff had obtained while employed with Defendant.
+
+        49.    Plaintiff believes and therefore avers that (1) her race, (2) her age, (3) her known
+
+and/or perceived disabilities; (4) her record of impairment; (5) her requested accommodations
+
+(which constitutes illegal retaliation); and (6) Defendant’s failure to properly accommodate
+
+Plaintiff’s health conditions (set forth supra) were motivating/determinative factors in the
+
+termination of her employment with Defendant.
+
+                                           COUNT I
+              Violation of Title VII of the Civil Rights Act of 1964 (“Title VII”)
+                 ([1] Race Discrimination and [2] Hostile Work Environment)
+
+        50.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+
+
+
+                                                 9
+           Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 10 of 17
+
+
+
+
+        51.    During Plaintiff’s employment with Defendant, she was subjected to discrimination
+
+and a hostile work environment through disparate and discriminatory treatment as outlined supra
+
+because of her race.
+
+        52.    On or about April 1, 2021, Plaintiff was terminated for completely pretextual
+
+reasons.
+
+        53.    Plaintiff believes and therefore avers she was subjected to a hostile work
+
+environment, issued pretextual discipline (including but not limited to placement on a PIP),
+
+disparate treatment, and terminated because of her race.
+
+        54.    These actions as aforesaid constitute violations of Title VII.
+
+                                          COUNT II
+                             Violations of 42 U.S.C. Section 1981
+                ([1] Race Discrimination and [2] Hostile Work Environment)
+
+        55.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        56.    During Plaintiff’s employment with Defendant, she was subjected to discrimination
+
+and a hostile work environment through disparate and discriminatory treatment as outlined supra
+
+because of her race.
+
+        57.    On or about April 1, 2021, Plaintiff was terminated for pretextual reasons.
+
+        58.    Plaintiff believes and therefore avers she was subjected to a hostile work
+
+environment, issued pretextual discipline (including but not limited to placement on a PIP),
+
+disparate treatment, and terminated because of her race.
+
+        59.    These actions as aforesaid constitute violations of Section 1981.
+
+
+
+
+                                                10
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 11 of 17
+
+
+
+
+                                         COUNT III
+                  Violation of the Americans with Disabilities Act (ADA)
+ ([1] Actual/Perceived/Record of Disability Discrimination; [2] Hostile Work Environment;
+                      [3] Retaliation; and [4] Failure to Accommodate)
+
+        60.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        61.    Plaintiff suffered from qualifying health conditions under the ADA which affected
+
+her ability (at times) to perform some daily life activities.
+
+        62.    Plaintiff kept Defendant’s management informed of her serious medical conditions
+
+and need for medical treatment and other accommodations.
+
+        63.    Despite Plaintiff’s aforementioned health conditions and limitations, she was still
+
+able to perform the duties of her job well with Defendant; however, Plaintiff did require reasonable
+
+accommodations at times.
+
+        64.    Plaintiff requested reasonable accommodations from Defendant, including but not
+
+limited to intermittent and block leave for doctors’ visits and to care for her aforesaid health
+
+conditions and minimal breaks as needed.
+
+        65.    Plaintiff was subjected to a hostile work environment as a result of her disabilities
+
+and requested accommodations through disparate and demeaning treatment and pretextual
+
+discipline (including but not limited to placement on a PIP).
+
+        66.    Plaintiff was abruptly terminated from her employment with Defendant in close
+
+proximity to her requests for/utilization of reasonable accommodations.
+
+        67.    Prior to abruptly terminating Plaintiff’s employment, Defendant failed to
+
+accommodate Plaintiff’s disabilities under the ADA by issuing her pretextual discipline (including
+
+placement on a PIP) for utilizing/requesting reasonable medical accommodations (i.e., intermittent
+
+and/or block leave) and utilizing the same as a means to terminate her.
+
+                                                  11
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 12 of 17
+
+
+
+
+        68.    Plaintiff believes and therefore avers that (1) her known and/or perceived
+
+disabilities; (2) her record of impairment; (3) her requested accommodations (which constitutes
+
+illegal retaliation; and (4) Defendant’s failure to properly accommodate Plaintiff’s health
+
+conditions (set forth supra) were motivating/determinative factors in the termination of her
+
+employment with Defendant.
+
+        69.    These actions aforesaid constitute violations of the ADA.
+
+                                          COUNT IV
+                 Violations of the Family and Medical Leave Act (“FMLA”)
+                                 (Interference & Retaliation)
+
+        70.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        71.    Plaintiff was an eligible employee under the definitional terms of the FMLA, 29
+
+U.S.C. § 2611(a)(i)(ii).
+
+        72.    Plaintiff requested leave from Defendant, her employer, with whom she had been
+
+employed for at least twelve months pursuant to the requirements of 29 U.S.C.A § 2611(2)(i).
+
+        73.    Plaintiff had at least 1,250 hours of service with Defendant during her last full year
+
+of employment.
+
+        74.    Defendant is engaged in an industry affecting commerce and employs fifty (50) or
+
+more employees for each working day during each of the twenty (20) or more calendar work weeks
+
+in the current or proceeding calendar year, pursuant to 29 U.S.C.A § 2611(4)(A)(i).
+
+        75.    Plaintiff was entitled to receive leave pursuant to 29 U.S.C.A § 2612 (a)(1) for a
+
+total of twelve (12) work weeks of leave on a block or intermittent basis.
+
+        76.    Defendant committed interference and retaliation violations of the FMLA by: (1)
+
+terminating Plaintiff for requesting and/or exercising her FMLA rights and/or for taking FMLA-
+
+
+
+                                                12
+         Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 13 of 17
+
+
+
+
+qualifying leave; (2) by considering Plaintiff’s FMLA leave needs in making the decision to
+
+terminate her; (3) terminating Plaintiff to intimidate her and/or prevent her from taking FMLA-
+
+qualifying leave in the future; and (4) by making negative comments and/or taking actions towards
+
+her that would dissuade a reasonable person from exercising her rights under the FMLA.
+
+                                           COUNT V
+              Violations of the Age Discrimination in Employment Act (“ADEA”)
+                  ([1] Age Discrimination and [2] Hostile Work Environment)
+
+        77.     The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        78.     While employed with Defendant, Plaintiff was subjected to discrimination based
+
+on her age by Defendant’s management.
+
+        79.     Plaintiff was treated disparately with respect to work, policies, and termination
+
+contrary to individuals substantially younger than her.
+
+        80.     Plaintiff was abruptly terminated on or about April 1, 2022, for completely
+
+pretextual reasons.
+
+        81.     Upon information and belief, after Plaintiff was terminated, her job duties have
+
+been performed by much younger, less experienced individual(s), who does not possess the level
+
+of experience and seniority Plaintiff had obtained working with Defendant.
+
+        82.     Plaintiff believes and avers that her advanced age was a motivating/determinative
+
+factor in the termination of her employment with Defendant.
+
+        83.     These actions as aforesaid constitute unlawful age discrimination under the ADEA.
+
+        WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+        A.      Defendant is to promulgate and adhere to a policy prohibiting discrimination and
+
+retaliation in the future against any employee(s);
+
+
+
+                                                 13
+           Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 14 of 17
+
+
+
+
+          B.   Defendant is to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff whole
+
+for any and all pay and benefits Plaintiff would have received had it not been for Defendant’s
+
+illegal actions, including but not limited to back pay, front pay, salary, pay increases, bonuses,
+
+insurance, benefits, training, promotions, reinstatement and seniority;
+
+          C.   Plaintiff is to be awarded liquidated and/or punitive damages, as permitted by
+
+applicable law, in an amount believed by the Court or trier of fact to be appropriate to punish
+
+Defendant for its willful, deliberate, malicious and outrageous conduct and to deter Defendant or
+
+other employers from engaging in such misconduct in the future;
+
+          D.   Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper and appropriate (including but not limited to damages for emotional distress, pain, suffering
+
+and humiliation); and
+
+          E.   Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+attorney’s fees as provided by applicable federal and state law.
+
+          F.   Plaintiff is to be awarded any and all statutory enhancements available as a matter
+
+of law.
+
+          G.   Plaintiff demands trial by jury on all issues so triable consistent with Fed. R. Civ.
+
+P. 38(a)(1).
+
+                                                     Respectfully submitted,
+
+                                                     KARPF, KARPF & CERUTTI, P.C.
+
+
+                                              By:    _______________________________
+                                                     Ari R. Karpf, Esq.
+                                                     3331 Street Rd.
+                                                     Two Greenwood Square, Suite 128
+                                                     Bensalem, PA 19020
+                                                     (215) 639-0801
+Dated: October 5, 2022
+
+                                                14
+  Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 15 of 17
+
+
+
+
+            açåå~=béêáÖÜí
+
+
+
+cçìåÇ~íáçå=Ñçê=`çÖåáíáîÉ=qÜÉê~éó=~åÇ=oÉëÉ~êÅÜ=ÇLÄL~=_ÉÅâ=fåëíáíìíÉ
+
+
+
+
+NMLSLOMOO
+                            Case 2:22-cv-03973-MSG
+                                               UNITEDDocument  1 Filed
+                                                     STATES DISTRICT    10/06/22 Page 16 of 17
+                                                                     COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       NNRR=mìíå~ã=_äîÇI=t~ääáåÖÑçêÇI=m^=NVMUS
+Address of Plaintiff: ______________________________________________________________________________________________
+                       N=_Éäãçåí=^îÉåìÉI=pìáíÉ=TMMI=_~ä~=`óåïóÇI=m^=NVMMQ
+Address of Defendant: ____________________________________________________________________________________________
+                                             aÉÑÉåÇ~åíDë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+           NMLSLOMOO
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+           NMLSLOMOO
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                   Case 2:22-cv-03973-MSG Document 1 Filed 10/06/22 Page 17 of 17
+JS 44 (Rev. 06/17)                                                          CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+                                                                                                           clrka^qflk=clo=`ldkfqfsb=qebo^mv=^ka=obpb^o`e=
+    bmofdeqI=alkk^
+                                                                                                           aL_L^=_b`h=fkpqfqrqb
+     (b) County of Residence of First Listed Plaintiff                 aÉä~ï~êÉ                             County of Residence of First Listed Defendant jçåíÖçãÉêó
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                      (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                            THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                    Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                        III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                   f
+                                                                                                         (For Diversity Cases Only)                                            and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3     Federal Question                                                                     PTF           DEF                                           PTF      DEF
+          Plaintiff                              (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1    Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                            of Business In This State
+
+❒ 2    U.S. Government                   ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2   Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                             (Indicate Citizenship of Parties in Item III)                                                               of Business In Another State
+
+                                                                                                    Citizen or Subject of a           ’ 3         ’ 3   Foreign Nation                        ’ 6      ’ 6
+                                                                                                      Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                  Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                               TORTS                               FORFEITURE/PENALTY                            BANKRUPTCY                     OTHER STATUTES
+❒   110 Insurance                         PERSONAL INJURY                PERSONAL INJURY            ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158         ❒ 375 False Claims Act
+❒   120 Marine                       ’    310 Airplane                 ❒ 365 Personal Injury -            of Property 21 USC 881            ’   423 Withdrawal                ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’    315 Airplane Product               Product Liability      ❒ 690 Other                                     28 USC 157                       3729(a))
+❒   140 Negotiable Instrument                  Liability               ❒ 367 Health Care/                                                                                    ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’    320 Assault, Libel &               Pharmaceutical                                                     PROPERTY RIGHTS              ❒ 410 Antitrust
+        & Enforcement of Judgment              Slander                       Personal Injury                                                ❒ 820 Copyrights                 ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’    330 Federal Employers’             Product Liability                                              ❒ 830 Patent                     ❒ 450 Commerce
+❒   152 Recovery of Defaulted                  Liability               ❒ 368 Asbestos Personal                                              ❒ 835 Patent - Abbreviated       ❒ 460 Deportation
+        Student Loans                ’    340 Marine                         Injury Product                                                        New Drug Application      ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’    345 Marine Product                 Liability                                                      ❒ 840 Trademark                         Corrupt Organizations
+❒   153 Recovery of Overpayment                Liability                PERSONAL PROPERTY                        LABOR                         SOCIAL SECURITY               ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’    350 Motor Vehicle            ❒ 370 Other Fraud            ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)               ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’    355 Motor Vehicle            ❒ 371 Truth in Lending               Act                             ❒ 862 Black Lung (923)           ❒ 850 Securities/Commodities/
+❒   190 Other Contract                        Product Liability        ❒ 380 Other Personal         ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                 Exchange
+❒   195 Contract Product Liability   ’    360 Other Personal                 Property Damage                Relations                       ❒ 864 SSID Title XVI             ❒ 890 Other Statutory Actions
+❒   196 Franchise                             Injury                   ❒ 385 Property Damage        ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))               ❒ 891 Agricultural Acts
+                                     ’    362 Personal Injury -              Product Liability       ’ 751 Family and Medical                                                ❒ 893 Environmental Matters
+                                              Medical Malpractice                                           Leave Act                                                        ❒ 895 Freedom of Information
+        REAL PROPERTY                       CIVIL RIGHTS                PRISONER PETITIONS          ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                      Act
+❒   210 Land Condemnation             ❒   440 Other Civil Rights         Habeas Corpus:             ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff      ❒ 896 Arbitration
+❒   220 Foreclosure                   ❒   441 Voting                   ❒ 463 Alien Detainee                Income Security Act                     or Defendant)             ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       u❒   442 Employment               ❒ 510 Motions to Vacate                                              ❒ 871 IRS—Third Party                   Act/Review or Appeal of
+❒   240 Torts to Land                 ❒   443 Housing/                       Sentence                                                              26 USC 7609                      Agency Decision
+❒   245 Tort Product Liability                Accommodations           ❒ 530 General                                                                                         ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒    445 Amer. w/Disabilities -   ❒ 535 Death Penalty                IMMIGRATION                                                               State Statutes
+                                              Employment                 Other:                     ❒ 462 Naturalization Application
+                                     ❒    446 Amer. w/Disabilities -   ❒ 540 Mandamus & Other       ❒ 465 Other Immigration
+                                              Other                    ❒ 550 Civil Rights                 Actions
+                                     ❒    448 Education                ❒ 555 Prison Condition
+                                                                       ❒ 560 Civil Detainee -
+                                                                             Conditions of
+                                                                             Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                            ❒    3     Remanded from            ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict   ❒ 8 Multidistrict
+        Proceeding                State Court                          Appellate Court              Reopened                    Another District           Litigation -     Litigation -
+                                                                                                                            (specify)                      Transfer         Direct File
+                                            Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                            qfqib=sff=EQOrp`OMMMFX=pb`qflk=NVUN=EQOrp`NVUNFX=^a^=EQOrp`NONMNFX=cji^=EOVrp`OSMNFX=^ab^=EOVrp`SONF=
+VI. CAUSE OF ACTION Brief description of cause:
+                       sáçä~íáçåë=çÑ=íÜÉ=qfqib=sffI=pb`qflk=NVUNI=^a^I=cji^I=^ab^=~åÇ=íÜÉ=meo^K
+VII. REQUESTED IN     ❒ CHECK IF THIS IS A CLASS ACTION      DEMAND $               CHECK YES only if demanded in complaint:
+     COMPLAINT:           UNDER RULE 23, F.R.Cv.P.                                  JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                        (See instructions):
+      IF ANY                                JUDGE                               DOCKET NUMBER
+DATE                                                                      SIGNATURE OF ATTORNEY OF RECORD
+             NMLSLOMOO
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                      APPLYING IFP                                    JUDGE                              MAG. JUDGE
+
+                  Print                                 Save As...                                                                                                                  Reset
+

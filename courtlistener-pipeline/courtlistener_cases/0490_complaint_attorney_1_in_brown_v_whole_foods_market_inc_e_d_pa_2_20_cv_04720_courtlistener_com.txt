@@ -1,0 +1,1170 @@
+Source URL: https://www.courtlistener.com/docket/18476469/1/brown-v-whole-foods-market-inc/
+Title: Complaint (Attorney) – #1 in BROWN v. WHOLE FOODS MARKET, INC. (E.D. Pa., 2:20-cv-04720) – CourtListener.com
+
+                                     Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 1 of 27
+JS 44 (Rev. 06/17)                                                         CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+MICHELLE BROWN                                                                                              WHOLE FOODS MARKET, INC.
+
+    (b) County of Residence of First Listed Plaintiff             Philadelphia                                County of Residence of First Listed Defendant               N/A
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c) Attorneys (Firm Name, Address, and Telephone Number)                                                   Attorneys (If Known)
+Jamie A. Funt , Esquire and Josh M. Baker, Esquire                                                          Emily J. Nelson, Esquire
+Greenblatt, Pierce, Funt and Flores, LLC                                                                    Whole Foods Market
+123 S. Broad St., Ste. 2500, Philadelphia, PA 19109; Tel.: 215-735-1600                                     828 W. 6th Street, Suite 200, Austin, TX 78703; Tel.: 512.542.0478
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                          (For Diversity Cases Only)                                        and One Box for Defendant)
+u 1    U.S. Government                u 3     Federal Question                                                                     PTF        DEF                                          PTF      DEF
+         Plaintiff                              (U.S. Government Not a Party)                        Citizen of This State         u 1        u 1      Incorporated or Principal Place       u 4     u 4
+                                                                                                                                                         of Business In This State
+
+u 2    U.S. Government                u 4     Diversity                                              Citizen of Another State          u 2    u    2   Incorporated and Principal Place    u 5     u 5
+         Defendant                              (Indicate Citizenship of Parties in Item III)                                                             of Business In Another State
+
+                                                                                                     Citizen or Subject of a           u 3    u    3   Foreign Nation                      u 6     u 6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                             Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                             TORTS                                  FORFEITURE/PENALTY                         BANKRUPTCY                    OTHER STATUTES
+u   110 Insurance                        PERSONAL INJURY                PERSONAL INJURY              u 625 Drug Related Seizure          u 422 Appeal 28 USC 158          u 375 False Claims Act
+u   120 Marine                       u   310 Airplane                 u 365 Personal Injury -              of Property 21 USC 881        u 423 Withdrawal                 u 376 Qui Tam (31 USC
+u   130 Miller Act                   u   315 Airplane Product               Product Liability        u 690 Other                               28 USC 157                       3729(a))
+u   140 Negotiable Instrument                 Liability               u 367 Health Care/                                                                                  u 400 State Reapportionment
+u   150 Recovery of Overpayment      u   320 Assault, Libel &               Pharmaceutical                                                 PROPERTY RIGHTS                u 410 Antitrust
+        & Enforcement of Judgment             Slander                       Personal Injury                                              u 820 Copyrights                 u 430 Banks and Banking
+u   151 Medicare Act                 u   330 Federal Employers’             Product Liability                                            u 830 Patent                     u 450 Commerce
+u   152 Recovery of Defaulted                 Liability               u 368 Asbestos Personal                                            u 835 Patent - Abbreviated       u 460 Deportation
+        Student Loans                u   340 Marine                         Injury Product                                                     New Drug Application       u 470 Racketeer Influenced and
+        (Excludes Veterans)          u   345 Marine Product                 Liability                                                    u 840 Trademark                        Corrupt Organizations
+u   153 Recovery of Overpayment               Liability                PERSONAL PROPERTY                         LABOR                     SOCIAL SECURITY                u 480 Consumer Credit
+        of Veteran’s Benefits        u   350 Motor Vehicle            u 370 Other Fraud              u 710 Fair Labor Standards          u 861 HIA (1395ff)               u 490 Cable/Sat TV
+u   160 Stockholders’ Suits          u   355 Motor Vehicle            u 371 Truth in Lending                Act                          u 862 Black Lung (923)           u 850 Securities/Commodities/
+u   190 Other Contract                       Product Liability        u 380 Other Personal           u 720 Labor/Management              u 863 DIWC/DIWW (405(g))               Exchange
+u   195 Contract Product Liability   u   360 Other Personal                 Property Damage                 Relations                    u 864 SSID Title XVI             u 890 Other Statutory Actions
+u   196 Franchise                            Injury                   u 385 Property Damage          u 740 Railway Labor Act             u 865 RSI (405(g))               u 891 Agricultural Acts
+                                     u   362 Personal Injury -              Product Liability        u 751 Family and Medical                                             u 893 Environmental Matters
+                                             Medical Malpractice                                            Leave Act                                                     u 895 Freedom of Information
+        REAL PROPERTY                      CIVIL RIGHTS                PRISONER PETITIONS            u 790 Other Labor Litigation          FEDERAL TAX SUITS                    Act
+u   210 Land Condemnation            u   440 Other Civil Rights         Habeas Corpus:               u 791 Employee Retirement           u 870 Taxes (U.S. Plaintiff      u 896 Arbitration
+u   220 Foreclosure                  u   441 Voting                   u 463 Alien Detainee                 Income Security Act                  or Defendant)             u 899 Administrative Procedure
+u   230 Rent Lease & Ejectment       u   442 Employment               u 510 Motions to Vacate                                            u 871 IRS—Third Party                  Act/Review or Appeal of
+u   240 Torts to Land                u   443 Housing/                       Sentence                                                            26 USC 7609                     Agency Decision
+u   245 Tort Product Liability               Accommodations           u 530 General                                                                                       u 950 Constitutionality of
+u   290 All Other Real Property      u   445 Amer. w/Disabilities -   u 535 Death Penalty                  IMMIGRATION                                                          State Statutes
+                                             Employment                 Other:                       u 462 Naturalization Application
+                                     u   446 Amer. w/Disabilities -   u 540 Mandamus & Other         u 465 Other Immigration
+                                             Other                    u 550 Civil Rights                   Actions
+                                     u   448 Education                u 555 Prison Condition
+                                                                      u 560 Civil Detainee -
+                                                                            Conditions of
+                                                                            Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+u 1 Original             u 2 Removed from                 u 3         Remanded from             u 4 Reinstated or       u 5 Transferred from     u 6 Multidistrict                  u 8 Multidistrict
+    Proceeding               State Court                              Appellate Court               Reopened                Another District             Litigation -                   Litigation -
+                                                                                                                        (specify)                        Transfer                      Direct File
+                                          Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                           Title VII, 42 U.S.C. § 1981; PHRA, 43 P.S. § 955(a)
+VI. CAUSE OF ACTION Brief description of cause:
+                                           Race/Color Discrimination and Retaliation
+VII. REQUESTED IN     u CHECK IF THIS IS A CLASS ACTION                                                 DEMAND $                                   CHECK YES only if demanded in complaint:
+     COMPLAINT:          UNDER RULE 23, F.R.Cv.P.                                                         150,000.00                               JURY DEMAND:         u Yes      u No
+VIII. RELATED CASE(S)
+                       (See instructions):
+      IF ANY                               JUDGE                                                                                             DOCKET NUMBER
+DATE                                                                     SIGNATURE OF ATTORNEY OF RECORD
+09/25/2020
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                     APPLYING IFP                                      JUDGE                          MAG. JUDGE
+                              Case 2:20-cv-04720-AB
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   09/25/20 Page 2 of 27
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                      Philadelphia, Pennsylvania
+Address of Plaintiff: ______________________________________________________________________________________________
+                                                Austin, Texas; Plymouth Meeting, PA
+Address of Defendant: ____________________________________________________________________________________________
+                                                                     Plymouth Meeting, PA
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      09/25/2020
+DATE: __________________________________                     ______________                            _____________                        73373
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+       7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+✔      11.    All other Federal Question Cases
+                                 Title VII, 42 U.S.C. § 1981; PHRA, 43 P.S. §
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+               Jamie A. Funt
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     ✔        Relief other than monetary damages is sought.
+
+
+      09/25/2020
+DATE: __________________________________                     _____________                                    _________                     73373
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 3 of 27
+          Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 4 of 27
+
+
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+               FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+__________________________________________
+                                           :
+MICHELLE BROWN                             :
+                                           :
+                        Plaintiff          : CIVIL ACTION NO.
+                                           :
+            v.                             :
+                                           :
+WHOLE FOODS MARKET, INC.                   : JURY TRIAL DEMAND
+                                           :
+                        Defendant          :
+__________________________________________:
+
+                                         COMPLAINT
+
+I.     INTRODUCTION
+
+       Michelle Brown hereby files this Complaint and alleges discrimination and retaliation in
+
+violation of Title VII, 42 U.S.C. § 1981, and the PHRA on the part of her former employer, Whole
+
+Foods Market, Inc. via management at its store in Plymouth Meeting, PA. Throughout her 18-
+
+month tenure with Whole Foods, Ms. Brown, a Black woman, was subjected to a racially hostile
+
+work environment by white customers, supervisors and coworkers that altered the terms and
+
+conditions of her employment. This was true for other workers of color, as well.
+
+       As bad as this racial abuse was, Whole Foods’ response to it was even worse. After Ms.
+
+Brown reported and/or otherwise opposed abusive and racist behavior by customers and other
+
+employees, Whole Foods management responded not by addressing the problem, but by issuing
+
+Ms. Brown a series of retaliatory discipline notices and, ultimately, terminating her employment.
+
+Ms. Brown files this Complaint to call attention to Whole Foods’ illegal and unconscionable
+
+conduct for the benefit of herself and other workers who are unjustifiably subjected to a racially
+
+hostile work environment.
+
+
+
+
+                                                1
+            Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 5 of 27
+
+
+
+
+II.    PARTIES, JURISDICTION, AND VENUE
+
+       1.      Plaintiff Michelle Brown (“Plaintiff” or “Ms. Brown”) is a Black, adult female and
+
+United States citizen who resides in Philadelphia, PA.
+
+       2.      Defendant Whole Foods Market, Inc. (“Defendant” or “Whole Foods”) is a for-
+
+profit, multinational supermarket chain with its headquarters in Austin, TX.
+
+       3.      Defendant operates approximately fifteen (15) stores in the Commonwealth of
+
+Pennsylvania. Defendant regularly and continuously transacts business in this jurisdiction.
+
+       4.      At all times material to this complaint, Defendant was Plaintiff’s “employer,” as
+
+defined in Title VII of the Civil Rights Act of 1964 (“Title VII”), as amended, 42 U.S.C. §
+
+2000e(b), and the Pennsylvania Human Relations Act (“PHRA”), 43 P.S. § 954(b).
+
+       5.      At all times material to this complaint, Plaintiff was Defendant’s “employee,” as
+
+defined in Title VII, 42 U.S.C. § 2000e(f), and the PHRA, 43 P.S. § 954(c).
+
+       6.      This Court has original jurisdiction over this action pursuant to 28 U.S.C. § 1331,
+
+42 U.S.C. § 2000e-5(f), and Section 102 of the Civil Rights Act of 1991, 42 U.S.C. § 1981a.
+
+       7.      This Court has supplemental jurisdiction over Plaintiff’s claims under Pennsylvania
+
+law pursuant to 28 U.S.C. § 1367.
+
+       8.      This case is not subject to compulsory arbitration because the amount in
+
+controversy exceeds the jurisdictional amount for arbitration of One Hundred Fifty Thousand
+
+Dollars ($150,000.00), exclusive of interest and costs. In addition, Plaintiff seeks relief other than
+
+monetary damages
+
+       9.      Venue is appropriate in this judicial district pursuant to 28 U.S.C. § 1391(b)
+
+because Plaintiff worked for Defendant exclusively in this judicial district and all material acts and
+
+omissions giving rise to this action occurred within this judicial district.
+
+
+
+                                                   2
+             Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 6 of 27
+
+
+
+
+III.      EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+          10.      Plaintiff has fully satisfied all applicable requirements relating to the exhaustion of
+
+administrative remedies with respect to each of the statutes under which she brings claims against
+
+Defendants.
+
+          11.     On May 20, 2020, Plaintiff jointly filed a Charge 1 alleging race/color
+
+discrimination and retaliation with the U.S. Equal Employment Opportunity Commission
+
+(“EEOC”) and the Pennsylvania Human Relations Commission (“PHRC”).
+
+          12.     On June 15, 2020, the EEOC acknowledged receipt of the Charge via letter.
+
+          13.     On August 7, 2020, Defendant filed its position statement with the EEOC.
+
+          14.     On August 31, 2020, the EEOC sent Counsel for Plaintiff a Dismissal and Notice
+
+of Rights containing a right to sue in connection with the subject matter of the Charge.
+
+
+
+IV.       FACTUAL ALLEGATIONS
+
+          15.     Plaintiff is a Black adult female and native of Connecticut. She has resided in the
+
+Philadelphia area since the 1980s.
+
+          16.     Plaintiff began working for Defendant as a cashier at its Plymouth Meeting, PA
+
+store (“the store”) on May 17, 2018.
+
+          17.     Defendant employs more than fifteen (15) employees.
+
+          A. Racial Harassment and Race-Based Discrimination
+
+          18.     Defendant is responsible for all human resource issues in its stores, including
+
+developing policies and procedures for employees and conducting racial sensitivity and diversity
+
+training.
+
+
+
+1
+    Charge No. 530-2020-03884.
+
+                                                     3
+               Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 7 of 27
+
+
+
+
+           19.      At the store where Plaintiff worked, the vast majority of the clientele were white,
+
+while many of the cashiers were Black.
+
+           20.      The back of house staff and management were all white, with the exception of the
+
+store’s general manager, Jaleel McFadden, who is Black.
+
+           21.      Mr. McFadden filed his own lawsuit 2 against Whole Foods in March of 2019. He
+
+alleges racial discrimination against himself and other Black employees by white managers in
+
+connection with promotions and other career advancement opportunities. That lawsuit is ongoing.
+
+           22.      Several members of the floor staff were Hispanic/Latin American.
+
+           23.      Most of the customers were respectful and polite.
+
+           24.      However, there was a small proportion of white customers who were abusive
+
+toward workers of color, including Plaintiff.
+
+           25.      In addition to being generally rude toward workers of color for no discernible
+
+reason, some of these customers used racial epithets, including “nigger,” toward Black workers.
+
+           26.      Some customers refused to allow Black workers to touch their money, credit
+
+card(s), and/or groceries. Others would baselessly accuse Black employees of providing poor
+
+customer service, not smiling enough, and/or being rude.
+
+           27.      On one occasion, a white customer threw an item at Ms. Brown because he felt that
+
+its price was too high. The customer then proceeded to complain that she had mistreated him.
+
+           28.      Ms. Brown and other workers of color made Whole Foods management aware of
+
+such heinous and bigoted conduct on the part of certain customers.
+
+           29.      Management, however, made virtually no efforts to protect Ms. Brown and the
+
+other workers from the repeated abuse.
+
+
+
+2
+    U.S. District Court for the Eastern District of Pennsylvania No. 2:19-cv-01103.
+
+                                                            4
+            Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 8 of 27
+
+
+
+
+        30.     On some occasions, management actually enabled it by disparaging the targeted
+
+employee while shielding the abusive customer.
+
+        31.     There was no union presence at Whole Foods during Ms. Brown’s tenure.
+
+        32.     In addition to the racial hostility they faced from certain customers, Ms. Brown and
+
+other workers of color were also subjected to racist conduct by certain white coworkers and
+
+managers.
+
+        33.     White managers routinely demeaned Hispanic/Latin American workers and made
+
+fun of their English abilities.
+
+        34.     White employees were often permitted to make small talk with one another during
+
+their shifts, while employees of color were chastised for doing so.
+
+        35.     Further, white employees were sometimes permitted to leave work early, but this
+
+was never permitted for workers of color.
+
+        36.     Ultimately, at least five (5) Black or Hispanic/Latin American employees resigned
+
+due to racial abuse by customers and/or management during Ms. Brown’s tenure.
+
+        37.     Eventually, after enduring racial abuse on a daily basis for months while Whole
+
+Foods management did nothing to address the situation, some workers of color took matters into
+
+their own hands.
+
+        38.     On May 13, 2019, a group of Black workers met to discuss the ongoing racial
+
+hostility in the store and decided to contact Whole Foods’ Corporate Human Resources Office.
+
+        39.     After calling a complaint hotline, they spoke to Ms. Liz Cummings, an HR
+
+representative, and informed her of the ongoing abuse they were facing from management and
+
+customers.
+
+
+
+
+                                                 5
+            Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 9 of 27
+
+
+
+
+        40.      This call prompted Corporate to launch what an “investigation,” at the end of which
+
+a racist manager, Amber (last name unknown), was removed from the store.
+
+        41.      It is not known whether Amber was terminated. In fact, it was rumored that she was
+
+simply transferred to another store.
+
+        42.      As part of the “investigation,” Corporate also held a meeting at which all employees
+
+of the Plymouth Meeting store, including white ones, were present, as were HR representatives.
+
+        43.      At this meeting, workers of color detailed racially derogatory treatment by
+
+customers and managers that they suffered daily.
+
+        44.      Thus, both Whole Foods Corporate managers and management based at the
+
+Plymouth Meeting store were put on actual notice of the horrific abuse of workers of color by
+
+certain white employees and customers.
+
+        45.      Unfortunately for Ms. Brown and the other workers of color, things at the store did
+
+not improve after Corporate’s “investigation.”
+
+        46.      The manager who replaced Amber was also racially insensitive.
+
+        47.      Further, nothing was done about the abusive customers.
+
+        48.      In short, management continued to view workers who opposed racial abuse as the
+
+problem, rather than the white customers and workers abusing them.
+
+        49.      One particularly horrendous instance of racial abuse occurred during the summer
+
+of 2019, when a white worker, Amy (last name unknow), constructed a racist caricature of a Black
+
+person from various fruits and vegetables, including an eggplant, 3 then placed it in a display case
+
+in the prepared foods section.
+
+        50.      A Black customer saw the caricature and, quite understandably, became very upset.
+
+
+3
+ A photograph of this caricature is attached hereto as Exhibit 1. The Italian term for eggplant, melanzane, has long
+been used as a slur against persons of color by Italians and Italian-Americans.
+
+                                                         6
+          Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 10 of 27
+
+
+
+
+       51.     The caricature was removed from the display case, but rather than being thrown
+
+away, was placed in the employee break room, where it remained for some time.
+
+       52.     Upon information and belief, Amy did not face any discipline for what she did and,
+
+in fact, was transferred to another store and promoted after this incident.
+
+       53.     Yet another horrific instance of bigoted conduct occurred around 6:00 p.m. on
+
+November 2, 2019.
+
+       54.     On that day, the Hunters, a Black family of two parents and four children, were in
+
+Ms. Brown’s check-out line.
+
+       55.     The Hunters were attempting to take advantage of certain discounts being offered
+
+to Amazon Prime members and were having some trouble pulling up their account information on
+
+the Amazon Prime smartphone app.
+
+       56.     Ms. Brown was assisting them in doing so when an elderly white male customer,
+
+approximately 5’6” tall and bald, in line behind the family began complaining about the wait.
+
+       57.     This customer then began acting abusive toward the Hunters and Ms. Brown,
+
+cursing and yelling at them for “taking too long” and “holding up the line.”
+
+       58.     The Hunters offered to simply leave the store without completing the purchase.
+
+       59.     Ms. Brown replied that there was no problem and that she was happy to help them.
+
+       60.     Two managers, Andrew (a white male) and Stephany (a white female), were in the
+
+area and did nothing to prevent the customer from abusing Ms. Brown and the Hunters.
+
+       61.     The customer even stated explicitly and loudly to Andrew: “This is why I can’t
+
+stand Black people.” He then referred to the Hunters using the word “nigger.”
+
+
+
+
+                                                  7
+          Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 11 of 27
+
+
+
+
+       62.     The Hunters spoke to Stephany about the other customer’s abusive conduct.
+
+Stephany replied that she “can’t control what others say or do” and that she could not make the
+
+customer leave the store.
+
+       63.     Mrs. Hunter then called the Police.
+
+       64.     Other customers who witnessed the incident gave their phone numbers to Kristen,
+
+the barista in the café, and offered to be witnesses. This information was then collected from
+
+Kristen by Stephany.
+
+       65.     The abusive customer then left the store.
+
+       66.     Shortly thereafter, the police arrived to speak with Stephany and the Hunters.
+
+       67.     Mrs. Hunter, while speaking to the responding Officer, looked at Ms. Brown and
+
+seemed to plead with her eyes for her to come over.
+
+       68.     Ms. Brown began walking toward Mrs. Hunter, but Stephany stepped in front of
+
+her and said, “I need you to be quiet.”
+
+       69.     Ms. Brown then stated to Mrs. Hunter, in sum and substance, “This behavior [i.e.,
+
+racial abuse] is accepted here,” before returning to her workstation.
+
+       70.     Ms. Brown was extremely distraught at what she had experienced.
+
+       71.     Stephany then called Ms. Brown into the back office to meet with her and a white
+
+man (name unknown). Ms. Brown asked that a Black coworker be present for the discussion, so
+
+Janine (last name unknown) was called in, as well.
+
+       72.     During the meeting, Stephany focused exclusively on what Ms. Brown had
+
+purportedly done wrong (viz., not notifying a manager of the situation immediately via a call
+
+button) and did not address the customer’s abusive, racist behavior at all.
+
+
+
+
+                                                 8
+           Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 12 of 27
+
+
+
+
+       73.       Not a word was said about Whole Foods’ duty to prevent race-based harassment of
+
+its employees.
+
+       74.       Next, Andrew entered the office said that the Hunters did not want to leave the store
+
+until they had made sure that Ms. Brown was okay.
+
+       75.       Ms. Brown then went to the front of the store and gave a statement to the responding
+
+Officer.
+
+       76.       The Hunters then asked Stephany for the witness contact information that she had
+
+collected from Kristen, but she refused to turn it over without giving a reason.
+
+       77.       Upon information and believe, the responding Officer advised Stephany not to
+
+provide the information to the Hunters, as doing so would have been “bad for business.”
+
+       78.       The Hunters were then made to leave the store by management and the police.
+
+       79.       The incidents discussed herein are merely examples of the atrocious treatment Ms.
+
+Brown and other Whole Foods workers of color were subjected to.
+
+       80.       The racial hostility Ms. Brown faced at Whole Foods was both severe and
+
+pervasive.
+
+       81.       At no point during Ms. Brown’s tenure did Whole Foods management make any
+
+genuine efforts to protect its employees from such abusive and bigoted conduct, despite having
+
+been put on notice of numerous, truly contemptible instances of mistreatment of workers of color.
+
+       B. Retaliatory Discipline and Termination
+
+       82.       Ms. Brown endured more than a year working in a racially abusive environment.
+
+       83.       Her reward was being was targeted by management in retaliation for opposing
+
+illegal and racist conduct by customers and fellow Whole Foods employees and managers.
+
+
+
+
+                                                   9
+          Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 13 of 27
+
+
+
+
+       84.     It was the practice of Whole Food management to document even the most trivial,
+
+petty complaints from customers.
+
+       85.     Management would then fail to inform the subject of the complaint about it until
+
+weeks or even months later, using the complaints a vehicle for administering retaliatory discipline
+
+against workers who reported and/or otherwise opposed customers’ and other employees’ abusive
+
+and racist behavior.
+
+       86.     Ms. Brown was subjected to such unfounded discipline on numerous occasions.
+
+       87.     On one occasion during Ms. Brown’s first couple months at Whole Foods, a white
+
+woman customer was at the store with her children and allowed them to eat cookies while they
+
+shopped. The cookies, however, were sold by weight (much like produce), rather than at a flat rate
+
+per package.
+
+       88.     By the time the customer and her children got to Ms. Brown’s checkout line, many
+
+of the cookies had been eaten, so she was unable to ring them up, as the weight measurement (and,
+
+thus, the price) would not have be accurate.
+
+       89.     Ms. Brown informed the customer of this.
+
+       90.     A short time later, the customer sent a prolix email to management complaining
+
+that Ms. Brown had caused her to feel embarrassed at the checkout line.
+
+       91.     Ms. Brown was not informed of this baseless complaint until over a month later.
+
+       92.     Ms. Brown received all manner of outrageous, silly complaints from customers
+
+during her tenure at Whole Foods.
+
+       93.     Some customers complained that Ms. Brown did not talk or smile enough while
+
+scanning/bagging their groceries. Others complained that she talked or smiled too much while
+
+doing so. Still others complained that she did not bag their groceries carefully enough.
+
+
+
+                                                10
+           Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 14 of 27
+
+
+
+
+        94.     All of these complaints were utterly baseless. Ms. Brown consistently worked to
+
+the best of her abilities.
+
+        95.     The clientele who saw fit to complain about her are part of the small proportion of
+
+bigoted white customers for whom nothing a worker of color does will ever be good enough.
+
+        96.     The most egregious instance of retaliatory discipline, however, occurred following
+
+the November 2, 2019 incident described above.
+
+        97.     When Ms. Brown came in for her shift on November 3, 2020, General Manager
+
+Jaleel McFadden immediately came up to her and stated that she needed to fill out a form.
+
+        98.     Ms. Brown, understandably, did not trust Mr. McFadden, and so declined to fill out
+
+any paperwork, instead asserting her right to address the incident on her own terms.
+
+        99.     Mr. McFadden then sent her home, saying she was being placed on administrative
+
+leave with pay until she completed the form.
+
+        100.    Following this, Ms. Brown contacted Whole Foods Regional Director David
+
+Gearhart about the incident and was able fill out a report with Rose Smith and Liz Cummings of
+
+HR. It is unknown whether any action was taken by Corporate pursuant to this report.
+
+        101.    On November 24, 2019, Ms. Brown was terminated for pretextual and retaliatory
+
+reasons.
+
+        102.    Ms. Brown came in to work and Mr. McFadden immediately called her into the
+
+back office. There, he terminated her, saying that she had engaged in “poor customer service.”
+
+        103.    He cited a complaint from two white customers from about two weeks prior that
+
+she had bagged their groceries poorly.
+
+        104.    Ms. Brown was shown the video of this alleged “poor customer service.”
+
+
+
+
+                                                11
+              Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 15 of 27
+
+
+
+
+           105.     She observed that one of the complaining customers was not even in the area to
+
+observe her bagging the purchases, while the other was looking at his phone the entire time.
+
+           106.     Further, the customers did not utter a word to Ms. Brown while she was supposedly
+
+bagging their items improperly.
+
+           107.     Ms. Brown does not admit to any violations of company policy and submits that
+
+any discipline she was issued was entirely unwarranted and manufactured by management as part
+
+of an effort to justify discipline and, ultimately, termination.
+
+           108.     Whole Foods’ mistreatment of Ms. Brown continued even after her termination.
+
+           109.     When Ms. Brown applied for unemployment compensation (“UC”) benefits,
+
+Whole Foods opposed the application, asserting that she had been terminated due to willful
+
+misconduct, thereby causing her application for UC benefits to be denied.
+
+           110.     Ms. Brown appealed this denial and, following a hearing, a UC Referee found as
+
+fact that she had “consistently worked to the best of her ability and … consistently adhere[d] to
+
+employer policy,” and was, therefore, eligible to receive benefits. 4
+
+           111.     Further, the Referee determined that “[t]here were multiple instances in which
+
+white coworkers and customers engaged in discriminatory conduct and statements toward [Ms.
+
+Brown] and other coworkers of color,” and, moreover, that Ms. Brown had “brought these
+
+instances to the attention of management on multiple occasions.” 5
+
+           112.     Ms. Brown’s termination was entirely unjustified.
+
+           113.     Whole Foods management created a paper trail with the purpose of manufacturing
+
+a justification for discipline and termination after she began opposing illegal discrimination.
+
+
+
+
+4
+    A true and correct copy of the Referee’s Decision/Order is attached hereto as Exhibit 2.
+5
+    Id.
+
+                                                            12
+           Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 16 of 27
+
+
+
+
+V.      CLAIMS FOR RELIEF
+
+                                       COUNT I
+           RACE/COLOR DISCRIMINATION IN VIOLATION OF TITLE VII,
+              42 U.S.C. § 2000e-2(a), THE CIVIL RIGHTS ACT OF 1866,
+                  42 U.S.C. § 1981, AND THE PHRA, 43 P.S. § 955(a)
+
+        114.    Plaintiff hereby incorporates by reference paragraphs 1 through 113 as though fully
+
+set forth herein.
+
+        115.    At all times relevant hereto, Plaintiff was an employee protected from
+
+discrimination in employment on the basis of race/color.
+
+        116.    The above-described actions of Defendants violated Title VII, Section 1981, and
+
+the PHRA insofar as they constitute race/color discrimination harassment in that Plaintiff was
+
+subjected a racially hostile work environment. Further, Plaintiff was discriminated against on the
+
+basis of her race in connection with the conditions and terms of her employment.
+
+        117.    On some occasions, supervisory personnel engaged in the racially harassing
+
+conduct.
+
+        118.    As a result of the unlawful discrimination inflicted by Defendant, Plaintiff has
+
+suffered the loss of her job, emotional pain, anguish and suffering, humiliation, inconvenience,
+
+loss of enjoyment of life, and other non-pecuniary losses.
+
+                                             COUNT II
+                         RETALIATION IN VIOLATION OF TITLE VII,
+                    42 U.S.C. § 2000e-2(a), THE CIVIL RIGHTS ACT OF 1866,
+                        42 U.S.C. § 1981, AND THE PHRA, 43 P.S. § 955(a)
+
+        119.    Plaintiff hereby incorporates by reference paragraphs 1 through 118 as though fully
+
+set forth herein.
+
+        120.    At all times relevant hereto, Plaintiff was an employee protected from retaliation.
+
+
+
+
+                                                 13
+            Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 17 of 27
+
+
+
+
+       121.     The above-described actions of Defendant were violative of Title VII, Section
+
+1981, and the PHRA insofar as they constituted retaliation against Plaintiff for having engaged in
+
+protected activity, viz., opposing illegal discrimination.
+
+       122.     Supervisory personnel engaged in the retaliation.
+
+       123.     As a result of the unlawful retaliation inflicted by Defendant, Plaintiff has suffered
+
+the loss of her job, emotional pain, anguish and suffering, humiliation, inconvenience, loss of
+
+enjoyment of life, and other non-pecuniary losses.
+
+
+
+VI.    REQUEST FOR RELIEF
+
+       WHEREFORE, Plaintiff respectfully requests judgment against Defendant and the
+
+following specific relief as follows.
+
+       a.       A declaratory judgment that Defendant’s actions, policies, practices, and
+
+       procedures complained of herein have violated Plaintiff’s right as secured to her by law;
+
+       b.       Compensatory damages;
+
+       c.       Punitive damages for Defendant’s willful and/or reckless disregard for Plaintiff’s
+
+       legal rights;
+
+       d.       An award to Plaintiff for all costs, disbursements, and reasonable Attorneys’ fees
+
+       relating to the enforcement of her legal rights; and
+
+       e.       Such other additional relief as this Court deems just and proper.
+
+
+
+
+                                                  14
+        Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 18 of 27
+
+
+
+
+                                   GREENBLATT, PIERCE,
+                                   FUNT AND FLORES, LLC
+
+DATE: September 25, 2020           S/ James A. Funt_
+                                   JAMES A. FUNT, ESQ. (PA ID 73373)
+                                   james@gpfflaw.com
+                                   JOSHUA M. BAKER, ESQ. (PA ID 326407)
+                                   j.baker@gpfflaw.com
+                                   123 South Broad Street, Suite 2500
+                                   Philadelphia, Pennsylvania 19109
+                                   Tel: 215-735-1600; Fax: 215-735-1660
+                                   Attorneys for Plaintiff Michelle Brown
+
+
+
+
+                                     15
+          Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 19 of 27
+
+
+
+
+                                        VERIFICATION
+
+
+       I, Michelle Brown, hereby state that I am the Plaintiff in this action, and that the statements
+
+made in the foregoing Civil Action Complaint are true and correct to the best of my knowledge,
+
+information, and belief. I understand that the statements therein are made subject to the penalties
+
+in 18 Pa. C.S. § 4904 relating to unsworn falsification to authorities.
+
+
+
+
+                                              MICHELLE BROWN
+
+
+
+Date: September 25, 2020
+Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 20 of 27
+
+
+
+
+        EXHIBIT 1
+Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 21 of 27
+Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 22 of 27
+
+
+
+
+        EXHIBIT 2
+                  Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 23 of 27
+
+
+
+
+                                                              APPEAL NUMBER 20-09-A-0100
+    UNEMPLOYMENT COMPENSATION                                    DATE MAILED 02/05/2020
+          BOARD OF REVIEW
+                                                                   FINAL DATE
+      Department of Labor & Industry
+                                                                   TO APPEAL 02/20/2020
+      Commonwealth of Pennsylvania
+                                                                          SSN REDACTED
+
+
+
+
+                                 REFEREE’S DECISION/ORDER
+
+
+CLAIMANT                                                    EMPLOYER
+
+
+MICHELLE D BROWN                                            WHOLE FOODS MARKET GROUP INC
+REDACTED                                                    500 WEST GERMANTOWN PIKE
+                                                            PLYMOUTH MEETING PA 19462
+                                                            US
+
+
+
+
+CLAIM:
+ FILED:   12/1/2019
+ DETERMINATION/S ISSUED:   12/18/2019   BY:  SCRANTON UC SERVICE CENTER
+            CLAIMANT DETERMINED UNDER UC LAW: Ineligible 402(e)
+            FOR WAITING WEEK ENDING: 12/7/2019
+            FOR COMPENSABLE WEEK/S ENDING:
+
+
+APPEAL:
+ FILED:12/28/2019 BY: Claimant
+ HEARING HELD: 2/4/2020   IN: KING OF PRUSSIA, PA
+        ATTENDED BY: Claimant, Claimant's Attorney
+
+
+ENCLOSURE: A translation document UC-1627 is enclosed with this notice.
+
+
+FINDINGS OF FACT:
+
+    1. The claimant was employed by Whole Foods Market Group Inc, Plymouth Meeting, as a cashier.
+       Her last day of work was November 24, 2019.
+
+    2. The claimant’s race is black.
+
+    3. There were multiple instances in which white coworkers and customers engaged in discriminatory
+       conduct and statements toward the claimant and other coworkers of color.
+
+UC-59 REV 5-09
+                Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 24 of 27
+
+
+
+
+ Claimant — MICHELLE D BROWN                                                            Appeal — 20-09-A-0100
+
+   4. The claimant brought these instances to the attention of management on multiple occasions.
+
+   5. The claimant was warned regarding alleged misconduct.
+
+   6. The final alleged incident occurred November 10, 2019 relating to the manner in which the claimant
+      bagged groceries.
+
+   7. The claimant’s employment was terminated.
+
+   8. The claimant consistently worked to the best of her ability and to consistently adhere to employer
+      policy.
+
+ISSUE: Whether the claimant’s actions constitute willful misconduct under Section 402(e) of the Law.
+
+REASONING: Section 402 of the Pennsylvania Unemployment Compensation Law provides in relevant part
+as follows:
+
+An employee shall be ineligible for compensation for any week –
+
+   (e) In which his unemployment is due to his discharge or temporary suspension from work for willful
+       misconduct connected with his work.
+
+The employer did not appear at the hearing nor notify the office that it would not participate. There is no
+competent evidence in the record which would support a finding for the employer in this matter and no
+evidence that the claimant failed to act in good faith. The employer’s burden of proof has not been met.
+Benefits are granted.
+
+ORDER: The determination of the UC Service Center is REVERSED. The claimant is ELIGIBLE for
+benefits under Section 402(e) of the Law beginning with waiting week ending December 7, 2019.
+
+
+
+                                                              O. M. Spiegler, Referee
+
+ GWI - 9142
+
+
+
+Pursuant to the provisions of the Law, this referee decision shall become final on the date it was mailed to
+the parties, unless any aggrieved party files a further appeal to the Pennsylvania Unemployment
+Compensation Board of Review within the fifteen (15) day appeal period.
+
+                THE LAST DATE TO FILE AN APPEAL TO THIS DECISION IS 02/20/2020.
+
+IF YOU WISH TO FILE A FURTHER APPEAL
+
+You have the right to file a further appeal to this decision within fifteen (15) days of the date of mailing. Your
+appeal must include the following information: ►your name; ►the claimant’s name and social security
+                Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 25 of 27
+
+
+
+
+ Claimant — MICHELLE D BROWN                                                          Appeal — 20-09-A-0100
+
+number; ►the date of the decision being appealed; ►the reason for appeal; ►the appeal number; ►your
+address. Under the provisions of Act 5 of 2005, you may file your own appeal, or your appeal may be filed
+by an attorney or by any other advocate of your choice.
+
+You may file your appeal by mail. If you file your appeal by mail, the appeal is filed as of the date of the U.S.
+Postal Service postmark or a U.S. Postal Service form 3817 (Certificate of Mailing) or a U.S. Postal Service
+certified mail receipt. If there is no U.S. Postal Service postmark, the date of filing will be the date of a
+postage meter mark on the envelope containing the appeal. If the appeal contains neither a postmark nor a
+postage meter mark, the date of filing will be the date recorded by the Department when the appeal is
+received. Your appeal should be mailed to the following address:
+
+                                              Department of Labor & Industry
+                                              UC Board of Review, Room 1119
+                                              651 Boas Street
+                                              Harrisburg, PA 17121
+
+You may file your appeal by common carrier. If you file your appeal by common carrier, the appeal is
+filed on the date it is delivered to the common carrier as established by the records of the common carrier.
+You should use the above address to send your appeal by common carrier.
+
+You may file your appeal by fax. If you file your appeal by fax, it must be received by the Department by
+11:59 p.m. on the last day to appeal. The filing date will be determined by the date of receipt imprinted by
+the receiving fax machine. If there is no receipt date imprinted by the receiving fax machine, the sender’s
+fax banner will control the date of filing. If neither date appears on the fax, the date of receipt recorded by
+the Department will serve as the date of filing. Your appeal should be faxed to the following number:
+
+                                              717-346-4484
+
+NOTE: A party filing an appeal by fax is responsible for delay, disruption or interruption of electronic signals
+and readability of the document and accepts the risk that the appeal may not be properly or timely filed.
+
+You may file your appeal via electronic mail (email). If you file your appeal by email, the appeal is filed
+on the date of receipt recorded by the Department’s electronic transmission system. If you wish to file your
+appeal by email, forward your appeal information to the Department at:
+
+                                              UCBoardAppeals@pa.gov
+
+WARNING: Information submitted by email is not secure.
+
+NOTE: A party filing an appeal via the internet or electronic mail is responsible for using the proper format
+and for delay, disruption or interruption of electronic signals and readability of the document and accepts the
+risk that the appeal may not be properly or timely filed.
+
+If you wish to file your appeal in person, you may do so at any CareerLink office during normal business
+hours on or before the last day to appeal shown above. The CareerLink office will forward your appeal to
+the UC Board of Review for processing.
+            Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 26 of 27
+
+
+
+
+Claimant — MICHELLE D BROWN                                                 Appeal — 20-09-A-0100
+
+     Auxiliary aids and services are available upon request to individuals with disabilities.
+                             Equal Opportunity Employer/Program
+              Case 2:20-cv-04720-AB Document 1 Filed 09/25/20 Page 27 of 27
+
+
+
+
+Claimant — MICHELLE D BROWN                                        Appeal — 20-09-A-0100
+
+
+              ADDITIONAL INTERESTED PARTIES OR APPEARANCES AT HEARING
+
+
+Claimant's Attorney
+
+JOSHUA M BAKER ESQ
+GREENBLATT PIERCE FUNT &
+FLORES LLC
+123 S BROAD ST STE 2500
+PHILADELPHIA PA 19109
+US
+

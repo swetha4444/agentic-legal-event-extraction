@@ -1,0 +1,349 @@
+Source URL: https://www.courtlistener.com/docket/17331525/1/1/kulp-v-advantage-care-rehabilitation/
+Title: Civil Cover Sheet – #1, Att. #1 in KULP v. ADVANTAGE CARE REHABILITATION (E.D. Pa., 5:20-cv-03339) – CourtListener.com
+
+                              Case 5:20-cv-03339-JMG Document 1-1 Filed 07/08/20 Page 1 of 3
+JS 44 (Rev. 06/17)                                                   CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                       DEFENDANTS
+Eileen Kulp                                                                                           Advantage Care Rehabilitation
+
+
+   (b) County of Residence of First Listed Plaintiff                                                    County of Residence of First Listed Defendant
+                             (EXCEPT IN U.S. PLAINTIFF CASES)                                                                  (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                        NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                   THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                              Attorneys (If Known)
+Brian M. Doyle , Esq/The Law Offices of Eric A. Shore P.C
+Two Penn Center , Suite 1240 Philadelphia , PA 19102
+Tel: 215-944-6113
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                   III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                    (For Diversity Cases Only)                                        and One Box for Defendant)
+✘1
+’      U.S. Government           ✘3
+                                 ’      Federal Question                                                                     PTF       DEF                                           PTF      DEF
+         Plaintiff                        (U.S. Government Not a Party)                        Citizen of This State         ’✘1       ’ 1       Incorporated or Principal Place       ’ 4     ✘4
+                                                                                                                                                                                               ’
+                                                                                                                                                   of Business In This State
+
+✘2
+’      U.S. Government           ✘4
+                                 ’      Diversity                                              Citizen of Another State          ’ 2    ’    2   Incorporated and Principal Place    ’ 5     ’ 5
+         Defendant                        (Indicate Citizenship of Parties in Item III)                                                             of Business In Another State
+
+                                                                                               Citizen or Subject of a           ’ 3    ’    3   Foreign Nation                      ’ 6     ’ 6
+                                                                                                 Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                       Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                        TORTS                                  FORFEITURE/PENALTY                         BANKRUPTCY                    OTHER STATUTES
+✘ 110 Insurance
+’                                  PERSONAL INJURY               PERSONAL INJURY               ✘ 625 Drug Related Seizure
+                                                                                               ’                                   ✘ 422 Appeal 28 USC 158
+                                                                                                                                   ’                                ✘ 375 False Claims Act
+                                                                                                                                                                    ’
+✘ 120 Marine
+’                                ✘ 310 Airplane
+                                 ’                            ✘ 365 Personal Injury -
+                                                              ’                                      of Property 21 USC 881        ✘ 423 Withdrawal
+                                                                                                                                   ’                                ✘ 376 Qui Tam (31 USC
+                                                                                                                                                                    ’
+✘ 130 Miller Act
+’                                ✘ 315 Airplane Product
+                                 ’                                  Product Liability          ✘ 690 Other
+                                                                                               ’                                         28 USC 157                       3729(a))
+✘ 140 Negotiable Instrument
+’                                       Liability             ✘ 367 Health Care/
+                                                              ’                                                                                                     ✘ 400 State Reapportionment
+                                                                                                                                                                    ’
+’
+✘ 150 Recovery of Overpayment ’  ✘ 320 Assault, Libel &             Pharmaceutical                                                   PROPERTY RIGHTS                ’
+                                                                                                                                                                    ✘ 410 Antitrust
+      & Enforcement of Judgment         Slander                     Personal Injury                                                ✘ 820 Copyrights
+                                                                                                                                   ’                                ’
+                                                                                                                                                                    ✘ 430 Banks and Banking
+✘ 151 Medicare Act
+’                                ✘
+                                 ’ 330 Federal Employers’           Product Liability                                              ✘
+                                                                                                                                   ’ 830 Patent                     ’
+                                                                                                                                                                    ✘ 450 Commerce
+✘ 152 Recovery of Defaulted
+’                                       Liability             ✘ 368 Asbestos Personal
+                                                              ’                                                                    ✘ 835 Patent - Abbreviated
+                                                                                                                                   ’                                ’
+                                                                                                                                                                    ✘ 460 Deportation
+      Student Loans              ✘ 340 Marine
+                                 ’                                  Injury Product                                                       New Drug Application       ’
+                                                                                                                                                                    ✘ 470 Racketeer Influenced and
+      (Excludes Veterans)        ✘ 345 Marine Product
+                                 ’                                  Liability                                                      ✘
+                                                                                                                                   ’ 840 Trademark                        Corrupt Organizations
+’
+✘ 153 Recovery of Overpayment           Liability              PERSONAL PROPERTY                           LABOR                     SOCIAL SECURITY                ’
+                                                                                                                                                                    ✘ 480 Consumer Credit
+      of Veteran’s Benefits      ✘ 350 Motor Vehicle
+                                 ’                            ✘ 370 Other Fraud
+                                                              ’                                ✘ 710 Fair Labor Standards
+                                                                                               ’                                   ✘ 861 HIA (1395ff)
+                                                                                                                                   ’                                ’
+                                                                                                                                                                    ✘ 490 Cable/Sat TV
+✘ 160 Stockholders’ Suits
+’                                ✘ 355 Motor Vehicle
+                                 ’                            ✘ 371 Truth in Lending
+                                                              ’                                       Act                          ✘ 862 Black Lung (923)
+                                                                                                                                   ’                                ’
+                                                                                                                                                                    ✘ 850 Securities/Commodities/
+✘ 190 Other Contract
+’                                      Product Liability      ✘ 380 Other Personal
+                                                              ’                                ✘ 720 Labor/Management
+                                                                                               ’                                   ✘ 863 DIWC/DIWW (405(g))
+                                                                                                                                   ’                                      Exchange
+                                 ✘ 360 Other Personal
+✘ 195 Contract Product Liability ’
+’                                                                   Property Damage                   Relations                    ✘ 864 SSID Title XVI
+                                                                                                                                   ’                                ’
+                                                                                                                                                                    ✘ 890 Other Statutory Actions
+✘ 196 Franchise
+’                                      Injury                 ’
+                                                              ✘ 385 Property Damage            ’
+                                                                                               ✘ 740 Railway Labor Act             ✘ 865 RSI (405(g))
+                                                                                                                                   ’                                ’
+                                                                                                                                                                    ✘ 891 Agricultural Acts
+                                 ✘ 362 Personal Injury -
+                                 ’                                  Product Liability          ✘ 751 Family and Medical
+                                                                                               ’                                                                    ’
+                                                                                                                                                                    ✘ 893 Environmental Matters
+                                       Medical Malpractice                                            Leave Act                                                     ’
+                                                                                                                                                                    ✘ 895 Freedom of Information
+      REAL PROPERTY                  CIVIL RIGHTS              PRISONER PETITIONS              ✘ 790 Other Labor Litigation
+                                                                                               ’                                     FEDERAL TAX SUITS                    Act
+✘ 210 Land Condemnation
+’                                ’
+                                 ✘ 440 Other Civil Rights       Habeas Corpus:                 ✘ 791 Employee Retirement
+                                                                                               ’                                   ’
+                                                                                                                                   ✘ 870 Taxes (U.S. Plaintiff      ’
+                                                                                                                                                                    ✘ 896 Arbitration
+✘ 220 Foreclosure
+’                                ’
+                                 ✘ 441 Voting                 ✘ 463 Alien Detainee
+                                                              ’                                      Income Security Act                  or Defendant)             ✘ 899 Administrative Procedure
+                                                                                                                                                                    ’
+’
+✘ 230 Rent Lease & Ejectment     ’
+                                 ✘ 442 Employment             ’
+                                                              ✘ 510 Motions to Vacate                                              ✘ 871 IRS—Third Party
+                                                                                                                                   ’                                      Act/Review or Appeal of
+✘ 240 Torts to Land
+’                                ✘ 443 Housing/
+                                 ’                                  Sentence                                                              26 USC 7609                     Agency Decision
+✘ 245 Tort Product Liability
+’                                      Accommodations         ✘ 530 General
+                                                              ’                                                                                                     ’
+                                                                                                                                                                    ✘ 950 Constitutionality of
+✘ 290 All Other Real Property
+’                                ✘ 445 Amer. w/Disabilities - ’
+                                 ’                            ✘ 535 Death Penalty                    IMMIGRATION                                                          State Statutes
+                                       Employment               Other:                         ’
+                                                                                               ✘ 462 Naturalization Application
+                                 ’                            ✘ 540 Mandamus & Other
+                                 ✘ 446 Amer. w/Disabilities - ’                                ’
+                                                                                               ✘ 465 Other Immigration
+                                       Other                  ✘ 550 Civil Rights
+                                                              ’                                      Actions
+                                 ✘ 448 Education
+                                 ’                            ’
+                                                              ✘ 555 Prison Condition
+                                                              ✘ 560 Civil Detainee -
+                                                              ’
+                                                                    Conditions of
+                                                                    Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+’
+✘ 1 Original             ’
+                         ✘ 2 Removed from           ’
+                                                    ✘ 3       Remanded from               ’
+                                                                                          ✘ 4 Reinstated or       ’
+                                                                                                                  ✘ 5 Transferred from     ’
+                                                                                                                                           ✘ 6 Multidistrict                  ’
+                                                                                                                                                                              ✘ 8 Multidistrict
+    Proceeding               State Court                      Appellate Court                 Reopened                Another District             Litigation -                   Litigation -
+                                                                                                                  (specify)                        Transfer                      Direct File
+                                    Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                     Age Discrimination in Employment Act, 29焁U.S.C.A. §621, et seq.
+VI. CAUSE OF ACTION Brief description of cause:
+                                     Age Discrimination
+VII. REQUESTED IN     ’ CHECK IF THIS IS A CLASS ACTION                                           DEMAND $                                   CHECK YES only if demanded in complaint:
+     COMPLAINT:          UNDER RULE 23, F.R.Cv.P.                                                   150,000.00                               JURY DEMAND:         ’ Yes
+                                                                                                                                                                  ✘          ’ No
+                                                                                                                                                                             ✘
+VIII. RELATED CASE(S)
+                       (See instructions):
+      IF ANY                               JUDGE                                                                                       DOCKET NUMBER
+DATE                                                               SIGNATURE OF ATTORNEY OF RECORD
+07/08/2020                                                       /s/ Brian M. Doyle
+FOR OFFICE USE ONLY
+
+  RECEIPT #                  AMOUNT                                    APPLYING IFP                                      JUDGE                          MAG. JUDGE
+
+                                                                                                                                                                           Reset
+                            Case 5:20-cv-03339-JMG
+                                               UNITEDDocument  1-1 Filed
+                                                     STATES DISTRICT COURT07/08/20 Page 2 of 3
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                         998 Souht Krocks Road , #30 Allentown , PA 18106
+Address of Plaintiff: ______________________________________________________________________________________________
+                                             5035 Clairton Blvd , Pittsburgh, PA 15236
+Address of Defendant: ____________________________________________________________________________________________
+                                                        724 Delaware Avenue , Bethlehem , PA 18015
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year
+       previously terminated action in this court?
+                                                                                                                                Yes   ✓                No ✔
+
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit
+       pending or within one year previously terminated action in this court?
+                                                                                                                                Yes   ✓                No   ✔
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes
+                                                                                                                                      ✓                No    ✔
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights
+       case filed by the same individual?
+                                                                                                                                Yes
+                                                                                                                                      ✓                No    ✔
+
+I certify that, to my knowledge, the within case          ●   is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      07/08/2020
+DATE: __________________________________
+                                                               /s/ Brian M. Doyle, Esq
+                                                              __________________________________________                                 PA 319475
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL: (Place a √ in one category only)
+
+A.            Federal Question Cases:                                                       B.   Diversity Jurisdiction Cases:
+
+
+✔      1.     Indemnity Contract, Marine Contract, and All Other Contracts                  
+                                                                                            ✔    1.    Insurance Contract and Other Contracts
+
+✔      2.     FELA                                                                          
+                                                                                            ✔    2.    Airplane Personal Injury
+
+✔      3.     Jones Act-Personal Injury                                                     
+                                                                                            ✔    3.    Assault, Defamation
+
+✔      4.     Antitrust                                                                     
+                                                                                            ✔    4.    Marine Personal Injury
+
+✔      5.     Patent                                                                        
+                                                                                            ✔    5.    Motor Vehicle Personal Injury
+
+✔      6.     Labor-Management Relations                                                    
+                                                                                            ✔    6.    Other Personal Injury (Please specify): _____________________
+
+✔      7.     Civil Rights                                                                  
+                                                                                            ✔    7.    Products Liability
+
+✔      8.     Habeas Corpus                                                                 
+                                                                                            ✔    8.    Products Liability – Asbestos
+
+✔      9.     Securities Act(s) Cases                                                       
+                                                                                            ✔    9.    All other Diversity Cases
+
+✔      10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+
+✔      11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (The effect of this certification is to remove the case from eligibility for arbitration.)
+
+   Brian M. Doyle
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+             Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+      ✔       exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     ✔
+      Relief other than monetary damages is sought.
+
+
+      07/08/2020
+DATE: __________________________________                       /s/Brian M. Doyle
+                                                              __________________________________________                                 PA 319475
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (5/2018)
+             Case 5:20-cv-03339-JMG Document 1-1 Filed 07/08/20 Page 3 of 3
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+
+Eileen Kulp               Advantage          :                               CIVIL ACTION
+                                             :
+                       v. Care Rehablitation :
+                                                  :
+                                                  :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   (x )
+
+
+7/8/2020                       Brian M. Doyle                       Eileen Kulp
+Date                               Attorney-at-law                       Attorney for
+
+215-944-6113                    215-944-5124                         Briand@ericshore.com
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+

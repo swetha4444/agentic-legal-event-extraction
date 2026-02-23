@@ -1,0 +1,1110 @@
+Source URL: https://www.courtlistener.com/docket/66675675/1/singer-dds-v-the-trustees-of-the-university-of-pennsylvania/
+Title: Complaint (Attorney) – #1 in SINGER, DDS v. THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA (E.D. Pa., 2:22-cv-05097) – CourtListener.com
+
+JS 44 (Rev. 10/20)                  Case 2:22-cv-05097-JMY
+                                                      CIVILDocument
+                                                            COVER 1SHEET
+                                                                     Filed 12/21/22 Page 1 of 21
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                                     DEFENDANTS
+                                                                                                                     7+(75867((62)7+(81,9(56,7<2)3(116</9$1,$
+           72''6,1*(5''6                                                                                         3(11'(17$/0(',&,1( 0$5.:2/)''63+'
+    (b) County of Residence of First Listed Plaintiff                 %DOWLPRUH                                     County of Residence of First Listed Defendant 3KLODGHOSKLD
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                                         NOTE:        IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                                      THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       .DWKHULQH&2HOWMHQ , Esquire
+       Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+       Philadelphia,PA19102215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                                    (For Diversity Cases Only)                                            and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                            PTF               DEF                                          PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                              Citizen of This State            1                 1       Incorporated or Principal Place         4     4
+                                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                                    Citizen of Another State                  2           2    Incorporated and Principal Place                  5      5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                                           of Business In Another State
+
+                                                                                                              Citizen or Subject of a                   3           3    Foreign Nation                                    6      6
+                                                                                                                Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                      Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                                     FORFEITURE/PENALTY                              BANKRUPTCY                            OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                             625 Drug Related Seizure                   422 Appeal 28 USC 158                   375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                            of Property 21 USC 881                 423 Withdrawal                          376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability                        690 Other                                      28 USC 157                              3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                                                400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                                     PROPERTY RIGHTS                          410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                                     820 Copyrights                          430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                                   830 Patent                              450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                                   835 Patent - Abbreviated                460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                                          New Drug Application                470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                                           840 Trademark                               Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                                      LABOR                             880 Defend Trade Secrets                480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                              710 Fair Labor Standards                       Act of 2016                             (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                             Act                                                                            485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                           720 Labor/Management                       SOCIAL SECURITY                             Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                              Relations                              861 HIA (1395ff)                        490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                          740 Railway Labor Act                      862 Black Lung (923)                    850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability                        751 Family and Medical                     863 DIWC/DIWW (405(g))                      Exchange
+                                             Medical Malpractice                                                      Leave Act                              864 SSID Title XVI                      890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                            790 Other Labor Litigation                 865 RSI (405(g))                        891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                               791 Employee Retirement                                                            893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                               Income Security Act                   FEDERAL TAX SUITS                        895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                                  870 Taxes (U.S. Plaintiff                    Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                               or Defendant)                        896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                                            871 IRS—Third Party                      899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                                IMMIGRATION                                26 USC 7609                             Act/Review or Appeal of
+                                             Employment              Other:                                       462 Naturalization Application                                                         Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                         465 Other Immigration                                                              950 Constitutionality of
+                                             Other                   550 Civil Rights                                 Actions                                                                            State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from                     4 Reinstated or                5 Transferred from
+                                                                                                                                                        6 Multidistrict                                         8 Multidistrict
+      Proceeding             State Court                                Appellate Court                     Reopened                       Another DistrictLitigation -                                           Litigation -
+                                                                                                                                           (specify)       Transfer                                               Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                                                  86&HHWVHT ³7LWOH9,,´ 86&HWVHT ³7LWOH,;´ 36HWVHT ³3+5$´ 3KLOD&RGHHWVHT ³3)32´ 
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff brings this action against hLVIRUPHUHPSOR\HUVGXHWRUHWDOLDWRU\WHUPLQDWLRQ
+                                             
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                                 DEMAND $                                           CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                                        excess of $75,000                                  JURY DEMAND:                       ✖   Yes           No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                               DOCKET NUMBER
+DATE                                                                         SIGNATURE
+                                                                                NAT
+                                                                                  TUURE
+                                                                                     R
+                                                                                     REE OF
+                                                                                          F ATTORNEY
+                                                                                            A TOR
+                                                                                            AT T N
+                                                                                                 NE
+                                                                                                 NEY
+                                                                                                  E OF
+                                                                                                     O RECORD
+                                                                                                       RE
+                                                                                                       RECO
+                                                                                                         COR
+                                                                                                          O D
+'HFHPEHU
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                          APPLYING
+                                                                                  A      G IFP                                           JUDGE
+                                                                                                                                            G                                     MAG. JUDGE
+               Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 2 of 21
+                          IN THE UNITED STATES DISTRICT COURT
+                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                      CASE MANAGEMENT TRACK DESIGNATION FORM
+   Todd Singer, DDS                                  :                         CIVIL ACTION
+                                    Plaintiff,       :
+                          v.                         :
+The Trustees of the University of Pennsylvania, :
+Penn Dental Medicine and Mark Wolf, DDS, PHD :                                 NO.
+                                   Defendants.
+  In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+  plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+  filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+  side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+  designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+  the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+  to which that defendant believes the case should be assigned.
+
+  SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+  (a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+  (b) Social Security – Cases requesting review of a decision of the Secretary of Health
+      and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+  (c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+  (d) Asbestos – Cases involving claims for personal injury or property damage from
+      exposure to asbestos.                                                                            ( )
+
+  (e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+      commonly referred to as complex and that need special or intense management by
+      the court. (See reverse side of this form for a detailed explanation of special
+      management cases.)                                                                               ( )
+
+  (f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+  December 21, 2022                                                   Plaintiff, Todd Singer, DDS
+  Date                               Attorney-at-law
+                                     Attorney
+                                            y-a
+                                              -at-
+                                                t l aw                     Attorney for
+   215-545-7676                    215-565-2859                         oeltjen@consolelaw.com
+
+  Telephone                           FAX Number                           E-Mail Address
+
+
+  (Civ. 660) 10/02
+                             Case 2:22-cv-05097-JMY
+                                                UNITEDDocument   1 Filed
+                                                      STATES DISTRICT    12/21/22 Page 3 of 21
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+Address of Plaintiff:                                  /XWKHUYLOOH7LPRQLXP0'
+______________________________________________________________________________________________
+
+Address of Defendant: _:DOQXW6WUHHW6XLWH3KLODGHOSKLD3$___________________________________________
+
+Place of Accident, Incident or Transaction:___________________________________________________________________________
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      
+DATE: __________________________________                           V.DWKHULQH&2HOWMHQ
+                                                             __________________________________________                                    318037
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+     Katherine C. Oeltjen, Esquire counsel of record or pro se plaintiff, do hereby certify:
+I, ____________________________________________,
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      
+DATE: __________________________________
+                                                                   V.DWKHULQH&2HOWMHQ
+                                                             __________________________________________                                    318037
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+         Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 4 of 21
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+ TODD SINGER, DDS
+ Lutherville-Timonium, MD                       CIVIL ACTION NO.:
+
+                      Plaintiff,
+        v.
+                                                JURY TRIAL DEMANDED
+ THE TRUSTEES OF THE UNIVERSITY
+ OF PENNSYLVANIA
+ 2929 Walnut Street, Suite 400
+ Philadelphia, PA 19104
+
+ PENN DENTAL MEDICINE
+ 2929 Walnut Street, Suite 400
+ Philadelphia, PA 19104
+
+ and
+
+ MARK WOLF, DDS, PHD
+ c/o2929 Walnut Street, Suite 400
+ Philadelphia, PA 19104, as aider and abettor
+
+                       Defendants.
+
+
+
+                                        COMPLAINT
+
+   I. INTRODUCTION
+
+       Dr. Todd Singer (“Plaintiff”), a high performing Dentist and Assistant Dean for
+
+Defendants, The Trustees of the University of Pennsylvania and Penn Dental Medicine (“Penn
+
+Defendants”) was terminated without warning shortly after he brought forward a complaint of
+
+sexually explicit and harassing conduct by Professor and Chair of the Department of Periodontics,
+
+Dr. Rodrigo Neiva, toward Dr. Singer’s female assistant. Prior to his complaints, Dr. Singer was
+
+never warned that his performance was deficient in any material way, and he was routinely praised
+            Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 5 of 21
+
+
+
+
+for his work for the Penn Defendants. After his complaints, he was terminated. The only reason
+
+given for his termination was that Dr. Singer had “raised his voice.” At no time did the Penn
+
+Defendants deny that the complained of conduct occurred, instead aided by Dr. Mark Wolff, DDS,
+
+PhD and others, the Penn Defendants took steps to conceal the conduct complained of by Dr.
+
+Singer in the hope that it would not be subject to reporting or punishment mandated by Title IX of
+
+the Education Amendments of 1972 and related authority. Plaintiff now brings claims for
+
+retaliatory termination pursuant to Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C.
+
+§ 2000e, et seq. (“Title VII”), Title IX of the Education Amendments of 1972, 20 U.S.C. §1681 et
+
+seq. (“Title IX”), the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seq
+
+(“PHRA”), and the Philadelphia Fair Practices Ordinance, Phila. Code § 9-1101, et seq. (“PFPO”).
+
+II.        PARTIES
+
+      1.        Plaintiff, Dr. Todd Singer, DDS, is a citizen of Maryland and resides in Lutherville-
+
+Timonium.
+
+      2.        Defendant The Trustees of the University of Pennsylvania (“Defendant
+
+University”) is a Pennsylvania corporation with a principal place of business located at 2929
+
+Walnut Street, Suite 400, Philadelphia, PA 19104.
+
+      3.        Defendant Penn Dental Medicine (“Defendant Dental”) is a Pennsylvania
+
+corporation with a principal place of business located at 2929 Walnut Street, Suite 400,
+
+Philadelphia, PA 19104
+
+      4.        Defendant Mark Wolff, DDS, PhD. (“Defendant Wolff”) is an individual and
+
+citizen of the Commonwealth of Pennsylvania. He works and lives in the City of Philadelphia.
+
+      5.        Defendant Wolff is the Morton Amsterdam Dean and Professor of Penn Dental.
+
+                                                  2
+            Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 6 of 21
+
+
+
+
+     6.         At all material times Defendant Wolff was Plaintiff’s supervisor.
+
+     7.         At all times material hereto, Defendant Wolff willfully and knowingly committed,
+
+aided, abetted, incited, compelled and/or coerced Penn Defendants’ unlawful conduct as
+
+complained of herein.
+
+     8.         At all material times, Penn Defendants acted as a single employer, joint employers
+
+and/or alter egos.
+
+     9.         Penn Defendants are engaged in an industry affecting interstate commerce and
+
+regularly conduct business in the Commonwealth of Pennsylvania and the City of Philadelphia.
+
+     10.        Penn Defendants are subject to Title IX.
+
+     11.        At all times material hereto, Penn Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Penn Defendants and in furtherance of Penn Defendants’ business.
+
+     12.        At all times material hereto, Penn Defendants, collectively and individually, were
+
+“employer(s)” within the meaning of the statutes which form the basis of this matter.
+
+     13.        At all times material hereto, Plaintiff was an “employee” of Penn Defendants,
+
+collectively and individually, within the meaning of the statutes which form the basis of this matter.
+
+     III.       JURISDICTION AND VENUE
+
+     14.        The causes of action which form the basis of this matter arise under Title VII, Title
+
+IX, the PHRA and the PFPO.
+
+     15.        The District Court has jurisdiction over Counts I (Title VII) and Count II (Title IX)
+
+pursuant to 28 U.S.C. §1331.
+
+
+
+                                                  3
+            Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 7 of 21
+
+
+
+
+      16.       The District Court has supplemental jurisdiction over Count III (PHRA-Penn
+
+Defendants), Count IV (PHRA-Defendant Wolff) and Count V (PFPO) pursuant to 28 U.S.C.
+
+§1367.
+
+      17.       The District Court has jurisdiction over all Counts I-V pursuant to 28 U.S.C. §1332
+
+since the amount in controversy exceeds the sum or value of seventy-five thousand dollars
+
+($75,000), exclusive of interests and costs, and as there is complete diversity of citizenship as
+
+Plaintiff is a citizen of Maryland and Defendants are citizens of Pennsylvania.
+
+      18.       Venue is proper in this District Court under 28 U.S.C. §1391(b).
+
+      19.       On or about December 23, 2021, Plaintiff filed a Complaint with the Pennsylvania
+
+Human Relations Commission (“PHRC”) and cross-filed with Equal Employment Opportunity
+
+Commission (“EEOC”) complaining of the acts of discrimination alleged herein.
+
+      20.       On or about September 26, 2022, the EEOC issued to Plaintiff a Notice of Right to
+
+Sue for the above Complaint/Charge.
+
+      21.       Plaintiff has    fully   complied       with   all   administrative prerequisites   for
+
+commencement of this action.
+
+IV.      FACTUAL ALLEGATIONS
+
+      22.       Plaintiff was hired by Penn Defendants on or about May 31, 2019, as Assistant
+
+Dean of Intramural and Extramural Affairs (“Assistant Dean”).
+
+      23.       Plaintiff reported to Defendant Wolff.
+
+      24.       Wolff reported to the Provost of Defendant University.
+
+      25.       Plaintiff consistently performed his job duties well.
+
+
+                                                    4
+            Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 8 of 21
+
+
+
+
+      26.         Examples of Plaintiff’s exemplary performance include but are not limited to the
+
+following: managing operations during the Covid-19 pandemic such that not a single employee
+
+was furloughed as a result of a dramatic shift in operations and successfully leading Defendant
+
+Dental’s Family Practice.
+
+      27.         As Assistant Dean, Plaintiff’s job duties included but were not limited to the
+
+following: overseeing and managing Defendant Dental’s faculty practices which included
+
+managing thirty-five (35) doctors and approximately one hundred (100) staff members; growing
+
+and developing the Community Dental footprint; serving as the Course Director for Practice
+
+Management and Professional Development; overseeing all contracts and business agreements;
+
+and any and all ad hoc requests or assignments from Defendant Wolff.
+
+      28.         On or about January 21, 2021, Dr. Rodrigo Neiva, DDS, MS (“Neiva”) (male),
+
+Professor Chair of Periodontics, asked Plaintiff to meet him at an offsite location.
+
+      29.         Neiva told Plaintiff he needed to speak to him “in private.”
+
+      30.         Plaintiff met with Neiva on or about the evening of January 25, 2021.
+
+      31.         At the meeting, Neiva, told Plaintiff that he (Neiva) was in “real trouble.”
+
+      32.         Neiva brought two laptop computers to the meeting, each opened on the table in
+
+front of Neiva.
+
+      33.         Neiva pointed to the laptops and told Plaintiff he had been in an “online
+
+relationship” with Plaintiff’s assistant (“Plaintiff’s Assistant”) 1 (female) since the prior Spring.
+
+
+
+
+1
+ “Plaintiff’s Assistant” was identified by name in Plaintiff’s PHRC Complaint, and her identity is understood by all
+Defendants.
+                                                         5
+            Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 9 of 21
+
+
+
+
+      34.        Plaintiff’s Assistant was substantially younger and subordinate to Neiva in the Penn
+
+Defendants’ organization.
+
+      35.        Neiva further told Plaintiff that he was upset because a female Instructor at
+
+Defendant Dental had contacted Plaintiff’s assistant and told her that Neiva was involved in a
+
+sexual relationship with her (“Instructor”) 2.
+
+      36.        Neiva told Plaintiff that he had sent sexually explicit messages to both women.
+
+      37.        Both women are subordinate to Neiva in the Penn Defendants’ organization.
+
+      38.        Neiva also told Plaintiff that Instructor was upset and had contacted Neiva’s wife
+
+and family about their relationship.
+
+      39.        Neiva stated that he was fearful that he would lose his job if information about his
+
+conduct toward Instructor and Plaintiff’s Assistant became public.
+
+      40.        Neiva admitted to Plaintiff that he used two email accounts, including a “Gmail” as
+
+well as his Penn associated email account, to send nude pictures and sexually explicit messages.
+
+      41.        He showed Plaintiff contents of both accounts across the table (i.e. at a distance).
+
+      42.        Plaintiff could see nude and sexually explicit images.
+
+      43.        Neiva’s conduct in sending the nude and sexually explicit images to
+
+subordinates/employees violated Penn Defendants’ policies against discrimination and sexual
+
+harassment.
+
+      44.        Plaintiff told Neiva that his conduct had to be reported.
+
+      45.        Plaintiff reported Neiva’s conduct to Defendant Wolff.
+
+
+
+2
+ “Instructor” was identified by name in Plaintiff’s PHRC Complaint, and her identity is understood by all
+Defendants.
+                                                         6
+           Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 10 of 21
+
+
+
+
+     46.       Plaintiff understood that Neiva’s conduct triggered internal and external reporting
+
+obligations under Title IX.
+
+     47.       Pursuant to Penn Defendants’ sexual harassment policies Plaintiff was required to
+
+report the conduct of Neiva.
+
+     48.       Plaintiff complained that Plaintiff’s Assistant and Instructor had been subjected to
+
+sexual harassment by Neiva and provided details of same, including Neiva’s use of two email
+
+accounts to send sexually explicit information to subordinates/junior employees.
+
+     49.       Immediately, Defendant Wolff focused on any potential damage to the Dental
+
+School’s fundraising.
+
+     50.       Defendant Wolff told Plaintiff to bring Neiva to him.
+
+     51.       Plaintiff did so and Defendant Wolff and Neiva met privately outside of Plaintiff’s
+
+presence.
+
+     52.       Subsequently, Defendant Wolff instructed Plaintiff to leave Plaintiff’s Assistant out
+
+of any investigation or complaint because he did not want to “have” to report Neiva’s conduct.
+
+     53.       Defendant Wolff further detailed his plans to “spin” the information as a “faculty
+
+on faculty” issue between Neiva and Instructor and allege that Instructor was “stalking” Neiva.
+
+     54.       Defendant Wolff emphasized that he did not want to have to replace Neiva.
+
+     55.       At no time did Defendant Wolff express any concern for Plaintiff’s Assistant or
+
+Instructor.
+
+     56.       At no time did Defendant Wollf express any concern for whether or not Neiva’s
+
+conduct violated the Penn Defendants’ sexual harassment policies or federal, state or local law
+
+prohibiting sexual harassment in the workplace.
+
+                                                  7
+           Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 11 of 21
+
+
+
+
+     57.       Plaintiff complained to Defendant Wolff on multiple occasions that his conduct was
+
+wrong, not consistent with Penn Defendants’ reporting obligations, and reminded him of the email
+
+proof of Neiva’s conduct.
+
+     58.       Defendant Wolff became agitated when Plaintiff questioned his decision-making.
+
+     59.       Plaintiff’s Assistant’s job duties were immediately restricted by all Defendants, and
+
+she was told to “wind down.”
+
+     60.       Plaintiff was ordered by Defendant Wolff and Melanie Sposa, Human Resources
+
+(“Sposa”) not to provide Plaintiff’s Assistant with details about why her job duties were being
+
+limited.
+
+     61.       On or about January 28, 2021, Defendant Wolff called Plaintiff to make sure he
+
+was “crystal clear” on his order to him not to detail Neiva’s behavior toward Plaintiff’s Assistant
+
+to anyone.
+
+     62.       On or about January 29, 2021, during a meeting with leadership in the department,
+
+including without limitation, Sposa, Jenn Rappaport, Associate Director Office of Affirmative
+
+Action and Equal Employment Opportunity of Respondent (“Rappaport”) and Sean Burke
+
+(“Burke”), Associate General Counsel Neiva’s conduct was discussed.
+
+     63.       At no time during the meeting did Burke, Sposa, or Rappaport discuss whether
+
+Neiva’s conduct violated the Penn Defendants’ sexual harassment policies or federal, state, or local
+
+law prohibiting sexual harassment in the workplace.
+
+     64.       Sposa stated that Plaintiff’s Assistant was “wrapping up her work with Penn as per
+
+her ‘temporary’ status and moving on.”
+
+
+
+                                                 8
+           Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 12 of 21
+
+
+
+
+     65.       To Plaintiff’s knowledge, Penn Defendants never discussed whether Neiva’s
+
+conducted violated any federal, state, or local law prohibiting sexual harassment in the workplace.
+
+     66.       Plaintiff’s Assistant’s employment was terminated effective March 1, 2021.
+
+     67.       Plaintiff complained about Defendants’ treatment of Plaintiff’s Assistant and
+
+protection of Neiva despite his unlawful conduct.
+
+     68.       Immediately after the events described above, Plaintiff was subjected to retaliatory
+
+conduct including but not limited to, the following:
+
+                          a. Despite earlier promises by Defendant Wolff that Plaintiff would be
+
+                              elevated to certain leadership positions within the organization,
+
+                              Defendant Wolff rebuffed Plaintiff when he asked about being
+
+                              placed in a more senior leadership role;
+
+                          b. Whenever Plaintiff asked Defendant Wolff for an update on Neiva
+
+                              and any investigation into his conduct toward Penn Defendants’
+
+                              employees, Plaintiff was dismissed and/or rebuffed;
+
+                          c. Ultimately, Defendant Wolff told Plaintiff to “stop asking” about
+
+                              Neiva and shared that Plaintiff was “pissing him off” when he did
+
+                              so; and,
+
+                          d. Defendants left Plaintiff without an assistant, increasing his
+
+                              workload.
+
+     69.       On or about May 5, 2021, in connection with his performance evaluation,
+
+Defendant Wolff told Plaintiff that he would have a job “for life” at Penn Defendants so long as
+
+he “stopped bringing up shit.”
+
+                                                9
+           Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 13 of 21
+
+
+
+
+     70.       The above retaliatory conduct caused emotional upset for Plaintiff.
+
+     71.       Plaintiff understood Defendant Wolff to be telling him that he could keep his job
+
+and garner a promotion if he stopped complaining about how all Defendants had swept the sexual
+
+harassment of Plaintiff’s Assistant under the rug and protected the harasser, Neiva.
+
+     72.       On or about June 29, 2021, during a meeting with Sposa and others, Plaintiff
+
+complained about several human resources related problems.
+
+     73.       Without warning, the next day, on or about June 30, 2021, Sposa removed Plaintiff
+
+from an important symposium he was slated to present at that day with Defendant Wolff.
+
+     74.       Also on June 30, 2021, Defendant Wolff then insisted that Plaintiff meet him in
+
+person at Parc (a restaurant).
+
+     75.       Defendant Wolff threatened Plaintiff’s job and told him that because he had raised
+
+his voice with Sposa “they” were “massing” to file a complaint against him which he “would lose”
+
+and that he would not “defend” Plaintiff.
+
+     76.       Defendant Wolff told Plaintiff he could keep his job if he would “get in line and
+
+stop complaining.”
+
+     77.       Plaintiff refused this instruction and questioned why Neiva could sexually harass
+
+subordinates without consequence.
+
+     78.       Defendant Wolff falsely accused Plaintiff of paranoia and being delusional.
+
+     79.       Defendant Wolff falsely accused Plaintiff of being on drugs.
+
+     80.       Plaintiff understood all of Defendant Wolff’s false accusations to be driven by his
+
+on-going and repeated objection to and complaints about how all Defendants were protecting
+
+harasser Neiva.
+
+                                                10
+            Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 14 of 21
+
+
+
+
+      81.       Plaintiff told Defendant Wolff his accusations were insulting and of the type that
+
+are usually launched when “someone was on the right trail.”
+
+      82.       Plaintiff complained to Defendant Wolff again about Defendants’ treatment of
+
+Plaintiff’s Assistant.
+
+      83.       Defendant Wolff ordered Plaintiff to “take a few days off.”
+
+      84.       Plaintiff was deeply upset by Defendant Wolff’s accusations and statements during
+
+the June 30, 2021 meeting.
+
+      85.       The next day, on or about, July 1, during a Zoom conference, Defendant Wolff told
+
+Plaintiff that he was “done effective immediately.”
+
+      86.       Plaintiff was terminated on July 1, 2021.
+
+      87.       The only reason given for his termination was that Plaintiff had raised his voice to
+
+Sposa.
+
+      88.       Plaintiff again complained about Defendant Wolff’s protection of Neiva and
+
+Neiva’s discriminatory conduct.
+
+      89.       Plaintiff was distraught by being terminated.
+
+      90.       That same day, Plaintiff spoke to Plaintiff’s Assistant.
+
+      91.       Plaintiff subsequently met with Plaintiff’s Assistant and was shown approximately
+
+hundreds of sexually explicit emails between she and Neiva.
+
+      92.       On or about July 6, 2021, Defendant Wolff told Plaintiff that if he sent him an email
+
+“resigning” he would recommend that Plaintiff be given severance if he signed a release
+
+agreement.
+
+
+
+                                                 11
+           Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 15 of 21
+
+
+
+
+     93.       Defendant Wolff further explained to Plaintiff that if he wrote an email “quitting”
+
+and he signed a general release of all claims contained in the severance agreement, Plaintiff would
+
+be given an opportunity to control how his termination was communicated to the Penn Defendants’
+
+community.
+
+     94.       Plaintiff was deeply upset after months of being subjected to upsetting retaliatory
+
+conduct resulting in a hostile work environment.
+
+     95.       As a result of the months of being subjected to retaliatory conduct by Penn
+
+Defendants in violation of federal, state and local laws, Plaintiff sent Defendant Wolff an email
+
+“resigning” on or about July 6, 2021.
+
+     96.       On July 7, 2021, Penn Defendants sent Plaintiff a severance agreement and general
+
+release.
+
+     97.       The severance agreement is evidence of the fact that Plaintiff was terminated.
+
+     98.       Penn Defendants do not offer severance agreements to employees who resign
+
+voluntarily.
+
+     99.       By his termination on July 1, 2021, to the best of Plaintiff’s understanding, Neiva
+
+has not been coached, counseled or disciplined for the sending the sexually explicit emails to a
+
+subordinate.
+
+     100.      Neiva remains in his position as Professor and Chair.
+
+     101.      Neiva was also given some of Plaintiff’s responsibilities following his termination.
+
+     102.      The retaliatory conduct of all Defendants has caused Plaintiff serious emotional
+
+upset and stress.
+
+
+
+                                                12
+           Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 16 of 21
+
+
+
+
+      103.      At all material times, Defendant Wolff aided and abetted the Penn Defendants in
+
+subjecting Plaintiff to retaliation.
+
+      104.      The stated reason for Plaintiff’s termination, that he “raised” his voice, is pre-
+
+textual.
+
+      105.      Plaintiff’s complaints of sex discrimination and sexual harassment were a
+
+motivating and/or determinative factor(s) in subjecting Plaintiff to a retaliatory hostile work
+
+environment and in his termination.
+
+      106.      Plaintiff’s complaints of violation of Title IX were a motivating and/or
+
+determinative factor(s) in subjecting Plaintiff to a retaliatory hostile work environment and in his
+
+termination.
+
+      107.      The retaliatory actions taken against Plaintiff after he complained of discriminatory
+
+conduct would have discouraged a reasonable employee from complaining about discrimination.
+
+      108.      The retaliatory conduct of all Defendants, as alleged herein, was severe and/or
+
+pervasive enough to make a reasonable person believe that the conditions of employment had been
+
+altered and that a hostile work environment existed, and made Plaintiff believe that the conditions
+
+of employment had been altered and that a retaliatory hostile work environment existed.
+
+      109.      As a direct and proximate result of all Defendants’ retaliatory acts and practices,
+
+Plaintiff has suffered and will suffer a loss of earnings, diminution of earning capacity, loss of
+
+employee benefits, pain and suffering, mental anguish, emotional distress, embarrassment,
+
+humiliation, inconvenience, and loss of enjoyment of life, the full extent of which is not know at
+
+this time.
+
+
+
+                                                 13
+          Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 17 of 21
+
+
+
+
+      110.      All Defendants’ retaliatory conduct was sufficiently outrageous and egregious to
+
+warrant an award of punitive damages in favor of Plaintiff.
+
+                               COUNT I-TITLE VII (Penn Defendants)
+
+      111.      Plaintiff incorporates herein by reference the paragraphs above, as if set forth herein
+
+in their entirety.
+
+      112.      By committing the foregoing acts of retaliation against Plaintiff, Penn Defendants
+
+have violated Title VII.
+
+      113.      Penn Defendants acted intentionally, and with malice and/or reckless indifference
+
+to Plaintiff’s rights, and its conduct warrants the imposition of punitive damages.
+
+      114.      As a direct and proximate result of Penn Defendants’ violation of Title VII, Plaintiff
+
+has suffered the losses set forth herein and has incurred attorneys’ fees and costs.
+
+      115.      Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Penn Defendants’ retaliatory acts unless and until this Court grants
+
+the relief requested herein.
+
+                               COUNT II-TITLE IX (Penn Defendants)
+
+      116.      Plaintiff incorporates herein by reference the paragraphs above, as if set forth herein
+
+in their entirety.
+
+      117.      Plaintiff engaged in protected activity under Title IX.
+
+      118.      Penn Defendants retaliated against Plaintiff for his good faith reporting and
+
+complaints.
+
+
+
+                                                  14
+          Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 18 of 21
+
+
+
+
+      119.        By committing the foregoing acts of retaliation against Plaintiff, Penn Defendant
+
+have violated Title IX.
+
+      120.        Said violations were willful and/or intentional, with malice and/or reckless
+
+indifference toward the federally protected rights of Plaintiff, warranting the imposition of punitive
+
+damages.
+
+                              COUNT III—PHRA (Penn Defendants)
+
+      121.        Plaintiff incorporates herein by reference the above paragraphs as if set forth herein
+
+in their entirety.
+
+      122.        Penn Defendants, by the above improper and discriminatory and retaliatory acts,
+
+have violated the PHRA.
+
+      123.        Said violations were intentional and willful.
+
+      124.        As a direct and proximate result of the Penn Defendants’ violation of the PHRA,
+
+Plaintiff has sustained the injuries, damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+      125.        Plaintiff is now suffering and will continue to suffer irreparable injuries and
+
+monetary damages as a result of Penn Defendants’ discriminatory acts unless and until the Court
+
+grants the relief requested herein.
+
+                               COUNT IV—PHRA (Defendant Wolff)
+
+      126.        Plaintiff incorporates herein by reference the above paragraphs as if set forth herein
+
+in their entirety.
+
+      127.        Defendant Wolff aided and abetted the Penn Defendants’ retaliatory conduct.
+
+                                                   15
+          Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 19 of 21
+
+
+
+
+      128.      Defendant Wolff is therefore personally liable to Plaintiff pursuant to the PHRA.
+
+      129.      As a direct and proximate result of Defendant Wolff’s violations of the PHRA,
+
+Plaintiff has suffered and will suffer those damages and losses set forth herein.
+
+                               COUNT V—PFPO (All Defendants)
+
+      130.      Plaintiff incorporates herein by reference the above paragraphs as if set forth herein
+
+in their entirety.
+
+      131.      By committing the foregoing acts of retaliation against Plaintiff, all Defendants
+
+have violated the PFPO.
+
+      132.      All Defendants acted willfully and intentionally, and with malice and/or reckless
+
+indifference to Plaintiff’s rights, thereby warranting the imposition of punitive damages.
+
+      133.      As a direct and proximate result of all Defendants’ violation of the PFPO, Plaintiff
+
+has sustained the injuries, damages and losses set forth herein and has incurred attorneys’ fees and
+
+costs.
+
+      134.      Plaintiff is now suffering and will continue to suffer the irreparable injury and
+
+monetary damages as a result of all Defendants’ retaliatory and unlawful acts unless and until this
+
+Court grants the relief requested herein.
+
+      135.      No previous application has been made for the relief requested herein.
+
+                                              RELIEF
+
+         WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+all Defendants’ improper conduct, and specifically prays that the Court grant the following relief
+
+to the Plaintiff by:
+
+
+                                                 16
+ Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 20 of 21
+
+
+
+
+      (a) declaring the acts and practices complained of herein to be in violation of the Title
+
+VII;
+
+      (b) declaring the acts and practices complained of herein to be in violation of the Title
+
+IX;
+
+      (c) declaring the acts and practices complained of herein to be in violation of the PHRA
+
+      (d) declaring the acts and practices complained of herein to be in violation of the PFPO;
+
+      (e) enjoining and permanently restraining the violations alleged herein;
+
+      (f) entering judgment against the Defendants and in favor of the Plaintiff in an amount
+
+to be determined;
+
+      (g) reinstating Plaintiff;
+
+      (h) awarding compensatory damages to make the Plaintiff whole for all lost earnings,
+
+including without limitation bonus payments, earning capacity and benefits, past and
+
+future, which Plaintiff has suffered or may suffer as a result of Defendants’ improper
+
+conduct;
+
+      (i) awarding compensatory damages to Plaintiff for past and future pain and suffering,
+
+emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff
+
+has suffered or may suffer as a result of Defendants’ improper conduct;
+
+      (j) awarding punitive damages to Plaintiff;
+
+      (k) awarding Plaintiff other such damages as are appropriate under the Title VII, Title
+
+IX, the PHRA, and the PFPO;
+
+      (l)   awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+reasonable attorneys’ fees; and,
+
+                                           17
+        Case 2:22-cv-05097-JMY Document 1 Filed 12/21/22 Page 21 of 21
+
+
+
+
+          (m) granting such other and further relief as this Court may deem just, proper, or
+
+      equitable including other equitable and injunctive relief providing restitution for past
+
+      violations and preventing future violations.
+
+
+
+Dated: December 21, 2022                             BY: /s/ Katherine C. Oeltjen___________
+                                                         Katherine C. Oeltjen, Esquire (318037)
+                                                         CONSOLE MATTIACCI LAW, LLC
+                                                         1525 Locust Street, 9th Floor
+                                                         Philadelphia, PA 19102
+                                                         (215) 545-7676
+
+                                                         Attorneys for Plaintiff
+
+
+
+
+                                              18
+

@@ -1,0 +1,769 @@
+Source URL: https://www.courtlistener.com/docket/59945741/1/hutchinson-v-comcast-corporation/
+Title: Complaint (Attorney) – #1 in HUTCHINSON v. COMCAST CORPORATION (E.D. Pa., 5:21-cv-02442) – CourtListener.com
+
+JS 44 (Rev. 10/20)                                   CIVILDocument
+                                   Case 5:21-cv-02442-JLS  COVER1SHEET
+                                                                   Filed 05/28/21 Page 1 of 24
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                           DEFENDANTS
+  JOHN HUTCHINSON                                                                                           COMCAST CORPORATION and COMCAST CABLE COMMUNICATIONS
+                                                                                                            MANAGEMENT, LLC
+   (b)    County of Residence of First Listed Plaintiff           Lehigh                                    County of Residence of First Listed Defendant              Philadelphia
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                            NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                       THE TRACT OF LAND INVOLVED.
+
+   (c)    Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+      Rahul Munshi , Esquire; Console Mattiacci Law, LLC
+                                                                                               ;
+      1525 Locust Street, 9th Floor Philadelphia , PA 19102
+      (215)545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                         (For Diversity Cases Only)                                    and One Box for Defendant)
+  1     U.S. Government              X 3 Federal Question                                                                         PTF        DEF                                         PTF      DEF
+          Plaintiff                          (U.S. Government Not a Party)                         Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                        of Business In This State
+
+  2     U.S. Government                4   Diversity                                               Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                          (Indicate Citizenship of Parties in Item III)                                                              of Business In Another State
+
+                                                                                                   Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                     Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                      Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                              TORTS                               FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY                 625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                    365 Personal Injury -                of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product                Product Liability            690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability                  367 Health Care/                                                                                        400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                    PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                        Personal Injury                                                    820 Copyrights                   430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’              Product Liability                                                  830 Patent                       450 Commerce
+  152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                                  835 Patent - Abbreviated         460 Deportation
+       Student Loans                 340 Marine                          Injury Product                                                         New Drug Application         470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product                  Liability                                                          840 Trademark                        Corrupt Organizations
+  153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                          LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud                  710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending                 Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability           380 Other Personal               720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal                  Property Damage                  Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                      385 Property Damage              740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -               Product Liability            751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                              Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS                790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:                   791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                      463 Alien Detainee                   Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment       X 442 Employment                  510 Motions to Vacate                                                 870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                        Sentence                                                               or Defendant)                896 Arbitration
+  245 Tort Product Liability             Accommodations              530 General                                                           871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                    IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment                  Other:                           462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -      540 Mandamus & Other             465 Other Immigration                                                  950 Constitutionality of
+                                         Other                       550 Civil Rights                     Actions                                                                State Statutes
+                                     448 Education                   555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+X 1 Original              2 Removed from                    3     Remanded from               4 Reinstated or                5 Transferred from   6 Multidistrict                        8 Multidistrict
+    Proceeding              State Court                           Appellate Court               Reopened                       Another District       Litigation -                         Litigation -
+                                                                                                                               (specify)              Transfer                             Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                        29 U.S.C. §621, et seq. ;43 P.S. §951, et seq. ;Phila. Code §9-1101, et seq
+VI. CAUSE OF ACTION                    Brief description of cause:
+                                        Age discrimination action under the ADEA, PHRA, and PFPO.
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                           DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                                  in excess of $75,00 0                       JURY DEMAND:         X Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                   DOCKET NUMBER
+DATE                                                                  SIGNATURE OF ATTORNEY OF RECORD
+ May 28,2021
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                     APPLYING IFP                                      JUDGE                           MAG. JUDGE
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 2 of 24
+      Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 3 of 24
+
+
+
+
+JOHN HUTCHINSON
+
+
+COMCAST CORPORATION and
+
+COMCAST CABLE COMMUNICATIONS
+MANAGEMENT, LLC
+
+
+
+
+May 28,2021                                      Plaintiff, John Hutchinson
+         Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 4 of 24
+
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT
+                 FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+________________________________
+                                     :
+JOHN HUTCHINSON                      :
+Allentown, PA 18104                  :
+                                     :
+                         Plaintiff,  :
+                                     :  CIVIL ACTION NO.
+              v.                     :
+                                     :
+COMCAST CORPORATION                  :  JURY TRIAL DEMANDED
+One Comcast Center                   :
+1701 JFK Blvd                        :
+Philadelphia, PA 19103               :
+                                     :
+       and                           :
+                                     :
+COMCAST CABLE                        :
+COMMUNICATIONS                       :
+MANAGEMENT, LLC                      :
+One Comcast Center                   :
+1701 JFK Blvd                        :
+Philadelphia, PA 19103               :
+                                     :
+                         Defendants. :
+________________________________     :
+
+                                       COMPLAINT
+
+   I. INTRODUCTION
+
+       Plaintiff, John Hutchinson, brings this employment discrimination action against his
+
+former employers, Comcast Corporation and Comcast Cable Communications Management,
+
+LLC (collectively, “Comcast” or “Defendants”). A fifteen-year employee of Comcast, Plaintiff
+
+had consistently performed his job duties competently and received positive performance
+
+reviews over the course of his lengthy tenure with the company. In August 2018, Plaintiff began
+
+reporting to a new supervisor who was almost thirty (30) years younger than Plaintiff. The new
+
+supervisor immediately placed Plaintiff on a performance improvement plan (“PIP”) and
+
+ultimately terminated his employment just a few months later. At the same time, Comcast
+
+                                              1
+              Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 5 of 24
+
+
+
+
+retained several of Plaintiff’s colleagues, all of whom are substantially younger than Plaintiff and
+
+who performed at the same, or lower, level of success.
+
+         Plaintiff was discriminated against because of his age in violation of the Age
+
+Discrimination in Employment Act, as amended, 29 U.S.C. §621, et seq. (“ADEA”), the
+
+Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”), and the
+
+Philadelphia Fair Practices Ordinance, Phila. Code §9-1101, et seq. (“PFPO”). Plaintiff seeks
+
+damages, including economic, compensatory, liquidated, and punitive damages and all other
+
+appropriate relief.
+
+   II.        PARTIES
+
+         1.      Plaintiff, John Hutchinson, is an individual and citizen of the Commonwealth of
+
+Pennsylvania.
+
+         2.      Plaintiff was born in 1955 and was sixty-three (63) years old at the time of his
+
+termination of employment in January 2019.
+
+         3.      Comcast is a corporation headquartered at 1701 JFK Blvd., Philadelphia, PA
+
+19103.
+
+         4.      Comcast is engaged in an industry affecting interstate commerce and regularly
+
+does business in the Commonwealth of Pennsylvania and the City of Philadelphia.
+
+         5.      At all times material hereto, Comcast employed more than twenty (20)
+
+employees.
+
+         6.      At all times material hereto, Defendants have had integrated operations, have had
+
+shared ownership, have had common management, and have had centralized control of their
+
+employment matters.
+
+         7.      At all times material hereto, Defendants have acted as a single employer, joint
+
+
+
+                                                 2
+               Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 6 of 24
+
+
+
+
+employers, and/or alter egos. The operations of Defendants are substantively consolidated.
+
+          8.      At all times material hereto, Comcast acted as an employer within the meanings
+
+of the statutes which form the basis of this matter.
+
+          9.      At all times material hereto, Plaintiff was an employee of Comcast within the
+
+meanings of the statutes which form the basis of this matter.
+
+          10.     At all times material hereto, Comcast acted by and through authorized agents,
+
+servants, workmen, and/or employees acting within the course and scope of their employment
+
+with Comcast and in furtherance of Comcast’s business.
+
+   III.         JURISDICTION AND VENUE
+
+          11.     The causes of action which form the basis of this matter arise under the ADEA,
+
+the PHRA, and the PFPO.
+
+          12.     The District Court has jurisdiction over Count I (ADEA) pursuant to 29 U.S.C.
+
+§626(c) and 28 U.S.C. §1331.
+
+          13.     The District Court has supplemental jurisdiction over Count II (PHRA) pursuant
+
+to 28 U.S.C. §1367.
+
+          14.     The District Court has supplemental jurisdiction over Count III (PFPO) pursuant
+
+to 28 U.S.C. §1367.
+
+          15.     Venue is proper in the District Court under 28 U.S.C. §1391(b)(2) because a
+
+substantial part of the events or omissions giving rise to the claim occurred within this District.
+
+          16.     On or about February 15, 2019, Plaintiff filed a Complaint of Discrimination with
+
+the Pennsylvania Human Relations Commission (“PHRC”), and dual-filed with the Equal
+
+Employment Opportunity Commission (“EEOC”), complaining of the acts of discrimination
+
+alleged herein. Attached hereto, incorporated herein and marked as Exhibit 1 is a true and
+
+
+
+                                                  3
+              Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 7 of 24
+
+
+
+
+correct copy of the PHRC/EEOC Complaint of Discrimination.
+
+            17.     On or about March 5, 2021, the EEOC issued to Plaintiff a Notice of Right to Sue.
+
+Attached hereto, incorporated herein and marked as Exhibit 2 is a true and correct copy of that
+
+notice.
+
+            18.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+      IV.         FACTUAL ALLEGATIONS
+
+            19.     Plaintiff was born in May of 1955.
+
+            20.     Plaintiff was hired by Comcast in or around October 2003.
+
+            21.     Plaintiff had over fifteen (15) years of service at Comcast prior to his termination
+
+of employment in January 2019, during which time he performed his job duties in a highly
+
+competent manner.
+
+            22.     Plaintiff last held the position of Local Sales Manager.
+
+            23.     He last reported to Christopher Cook (age 38 1), Area Sales Manager.
+
+            24.     Plaintiff began reporting to Mr. Cook in or around August 2018.
+
+            25.     Mr. Cook reported to Tarik Ghee (age 35), Senior Director of Sales.
+
+            26.     Before he began reporting to Mr. Cook, Plaintiff reported directly to Robert
+
+Kucharczuk (age 62), Director of Sales.
+
+            27.     Plaintiff reported to Mr. Kucharczuk until his position was “eliminated” in or
+
+around May 2018.
+
+            28.     From May 2018 until August 2018, Plaintiff reported directly to Mr. Ghee. Then,
+
+Plaintiff began reporting to Mr. Cook when he became Area Sales Manager in or around August
+
+2018.
+
+1
+    Ages contained herein are approximates.
+
+                                                      4
+          Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 8 of 24
+
+
+
+
+       29.     On Plaintiff’s last performance evaluation prior to his termination, in August
+
+2018, Plaintiff received an “achieves expectations” score on his mid-year review.
+
+       30.     Before he began reporting to Mr. Cook, Plaintiff had no performance or
+
+disciplinary issues and was given no indication that he was under-performing or that his job was
+
+in jeopardy.
+
+       31.     Plaintiff had also consistently received positive performance reviews.         For
+
+example, Plaintiff received an “Achieves Expectations” score on his 2017 annual performance
+
+review, and he received a “Highly Effective” final rating for 2016.
+
+       32.     On or around September 3, 2018, Mr. Cook – who had only recently become
+
+Plaintiff’s supervisor – placed Plaintiff on a performance improvement plan (“PIP”) for the first
+
+time in Plaintiff’s fifteen-year career with Comcast.
+
+       33.     Plaintiff was blindsided, as his performance did not warrant a PIP.
+
+       34.     Plaintiff was Mr. Cook’s only direct report who was placed on a PIP at that time.
+
+       35.     Comcast failed to provide Plaintiff with any explanation as to how his
+
+performance was allegedly worse than that of the younger employees who were not placed on a
+
+PIP.
+
+       36.     On or around October 3, 2018, Mr. Cook placed Plaintiff on an unjustified
+
+Collaborative Success Plan.
+
+       37.     One (1) month later, on or around November 3, 2018, Mr. Cook placed Plaintiff
+
+on an unjustified Business Improvement Plan.
+
+       38.     One (1) month after that, on or around December 3, 2018, Mr. Cook placed
+
+Plaintiff on a Final Improvement Plan.
+
+       39.     Plaintiff’s performance did not warrant disciplinary action.
+
+
+
+                                                 5
+             Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 9 of 24
+
+
+
+
+       40.       Comcast failed to provide Plaintiff with any explanation as to how his
+
+performance was allegedly worse than that of the younger employees who were not placed on a
+
+PIP and then subsequent Plans.
+
+       41.       On January 4, 2019, in a meeting with Mr. Cook, Mr. Ghee, and Lisa Work of
+
+Human Resources, Comcast terminated Plaintiff’s employment, effective immediately.
+
+       42.       The stated reason for termination was that Plaintiff’s team allegedly did not hit its
+
+revenue goals.
+
+       43.       However, Plaintiff’s team’s revenue was at or above the prior year’s numbers.
+
+       44.       Comcast’s stated reason for termination was false and a pretext for age
+
+discrimination.
+
+       45.       At the time of his termination of employment, Plaintiff was the oldest employee
+
+reporting to Mr. Cook at the age of 63.
+
+       46.       The following individuals also reported to Mr. Cook and were retained in January
+
+2019 when Plaintiff was terminated: (1) Richard Martin (age 40), Local Sales Manager; (2) Amy
+
+Adelson (age 48), Local Sales Manager; and (3) Linda Quindlin (age 50), Local Sales Manager.
+
+       47.       Plaintiff was qualified, if not more qualified, to perform these employees’
+
+positions.
+
+       48.       Defendants have an age discriminatory bias and pattern and practice of
+
+discriminating against older employees while favoring younger employees.
+
+       49.       By way of example, Defendants had also terminated and/or pushed out several
+
+older Local Sales Manager, including, but not limited to, Michael Weinstein (age 66), Patrick
+
+Dellecave (age 65), and Robert Latullipe (age 56).
+
+       50.       Plaintiff’s age was a motivating and/or determinative factor in Comcast’s
+
+
+
+                                                   6
+          Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 10 of 24
+
+
+
+
+discriminatory treatment of Plaintiff and in the termination of Plaintiff’s employment.
+
+        51.     As a direct and proximate result of the discriminatory conduct of Comcast,
+
+Plaintiff has in the past incurred, and may in the future incur, a loss of earnings and/or earning
+
+capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem,
+
+mental anguish, and loss of life’s pleasures, the full extent of which is not known at this time.
+
+        52.     The conduct of Comcast, as set forth above, was outrageous under the
+
+circumstances, was done by and with the knowledge of upper management and warrants the
+
+imposition of punitive damages against Comcast.
+
+        53.     The conduct of Comcast, as set forth above, was willful and intentional.
+
+                                        COUNT I (ADEA)
+
+        54.     Plaintiff incorporates herein by reference paragraphs 1 through 53 above, as if set
+
+forth herein in their entirety.
+
+        55.     By committing the foregoing acts of discrimination against Plaintiff, Defendants
+
+have violated the ADEA.
+
+        56.     Said violations were willful and warrant the imposition of liquidated damages.
+
+        57.     As a direct and proximate result of Defendants’ violation of the ADEA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        58.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        59.     No previous application has been made for the relief requested herein.
+
+                                       COUNT II (PHRA)
+
+        60.     Plaintiff incorporates herein by reference paragraphs 1 through 59 above, as if set
+
+
+
+                                                  7
+          Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 11 of 24
+
+
+
+
+forth herein in their entirety.
+
+        61.     Defendants, by committing the foregoing acts of discrimination, have violated the
+
+PHRA.
+
+        62.     As a direct and proximate result of Defendants’ violations of the PHRA, Plaintiff
+
+has sustained the injuries, damages and losses set forth herein.
+
+        63.     Plaintiff is now suffering and will continue to suffer irreparable injuries and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until the Court
+
+grants the relief requested herein.
+
+        64.     No previous application has been made for the relief requested herein.
+
+                                       COUNT III (PFPO)
+
+        65.     Plaintiff incorporates herein by reference paragraphs 1 through 64 above, as if set
+
+forth herein in their entirety.
+
+        66.     Comcast, by the foregoing acts of discrimination, has violated the PFPO.
+
+        67.     The conduct of Comcast, as set forth above, was outrageous under the
+
+circumstances, was done by and with the knowledge of upper management and warrants the
+
+imposition of punitive damages against Comcast.
+
+        68.     As a direct and proximate result of Comcast’s violations of the PFPO, Plaintiff
+
+has sustained the injuries, damages and losses set forth herein.
+
+        69.     Plaintiff is now suffering and will continue to suffer irreparable injuries and
+
+monetary damages as a result of Comcast’s discriminatory acts unless and until relief is granted
+
+as requested herein.
+
+        70.     No previous application has been made for the relief requested herein.
+
+
+
+
+                                                 8
+         Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 12 of 24
+
+
+
+
+                                              RELIEF
+
+       WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in favor of
+
+Plaintiff, John Hutchinson, and against Defendants. Plaintiff seeks damages and legal and
+
+equitable relief in connection with Defendants’ improper conduct, and specifically prays that the
+
+Court grant the following relief to the Plaintiff by:
+
+       (a) declaring the acts and practices complained of herein to be in violation of the ADEA;
+
+       (b) declaring the acts and practices complained of herein to be in violation of the PHRA;
+
+       (c) declaring the acts and practices complained of herein to be in violation of the PFPO;
+
+       (d) enjoining and permanently restraining the violations alleged herein;
+
+       (e) entering judgment against Defendants in favor of Plaintiff in an amount to be
+
+           determined;
+
+       (f) awarding compensatory damages to Plaintiff to make Plaintiff whole for all past and
+
+           future lost earnings, benefits and earnings capacity which Plaintiff has suffered and
+
+           will continue to suffer as a result of Defendants’ discriminatory and unlawful
+
+           misconduct;
+
+       (g) awarding compensatory damages to Plaintiff for past and future emotional upset,
+
+           mental anguish, humiliation, loss of life’s pleasures and pain and suffering, which
+
+           Plaintiff has suffered or may suffer as a result of Defendants’ improper conduct;
+
+       (h) awarding liquidated damages to Plaintiff under the ADEA;
+
+       (i) awarding punitive damages to Plaintiff under the PFPO;
+
+       (j) awarding Plaintiff such other damages as are appropriate under the ADEA, the
+
+           PHRA, and the PFPO;
+
+       (k) awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+
+
+                                                  9
+        Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 13 of 24
+
+
+
+
+          reasonable attorneys’ fees; and,
+
+      (l) granting such other and further relief as this Court may deem just, proper, or equitable
+
+          including other equitable and injunctive relief providing restitution for past violations
+
+          and preventing future violations.
+
+
+
+                                                    CONSOLE MATTIACCI LAW, LLC
+
+
+Dated: May 28, 2021                                 By:     _________________________
+                                                            Rahul Munshi
+                                                            1525 Locust Street, 9th Floor
+                                                            Philadelphia, PA 19102
+                                                            munshi@consolelaw.com
+                                                            215-545-7676
+                                                            215-814-8920 (fax)
+
+                                                            Attorneys for Plaintiff,
+                                                            John Hutchinson
+
+
+
+
+                                               10
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 14 of 24
+
+
+
+
+                Exhibit 1
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 15 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 16 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 17 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 18 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 19 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 20 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 21 of 24
+Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 22 of 24
+
+
+
+
+            EXHIBIT 2
+                       Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 23 of 24
+ EEOC Form 161-B (11/2020)                U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                         NOTICE OF RIGHT TO SUE (ISSUED ON REQUEST)
+To:     John Hutchinson                                                               From:    Philadelphia District Office
+                                                                                               801 Market Street
+       REDACTED                                                                                Suite 1000
+                                                                                               Philadelphia, PA 19107
+
+                  On behalf of person(s) aggrieved whose identity is
+                  CONFIDENTIAL (29 CFR §1601.7(a))
+
+ EEOC Charge No.                                         EEOC Representative                                           Telephone No.
+
+                                                         Kurt Jung
+ 17F-2021-60401                                          State, Local & Tribal Program Manager                         (267) 589-9749
+                                                                                   (See also the additional information enclosed with this form.)
+NOTICE TO THE PERSON AGGRIEVED:
+Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act (ADA), or the Genetic Information Nondiscrimination
+Act (GINA): This is your Notice of Right to Sue, issued under Title VII, the ADA or GINA based on the above-numbered charge. It has
+been issued at your request. Your lawsuit under Title VII, the ADA or GINA must be filed in a federal or state court WITHIN 90 DAYS
+of your receipt of this notice; or your right to sue based on this charge will be lost. (The time limit for filing suit based on a claim under
+state law may be different.)
+
+                  More than 180 days have passed since the filing of this charge.
+
+                  Less than 180 days have passed since the filing of this charge, but I have determined that it is unlikely that the EEOC will
+                  be able to complete its administrative processing within 180 days from the filing of this charge.
+                  The EEOC is terminating its processing of this charge.
+
+                  The EEOC will continue to process this charge.
+
+Age Discrimination in Employment Act (ADEA): You may sue under the ADEA at any time from 60 days after the charge was filed until
+90 days after you receive notice that we have completed action on the charge. In this regard, the paragraph marked below applies to
+your case:
+        X         The EEOC is closing your case. Therefore, your lawsuit under the ADEA must be filed in federal or state court WITHIN
+                  90 DAYS of your receipt of this Notice. Otherwise, your right to sue based on the above-numbered charge will be lost.
+
+                  The EEOC is continuing its handling of your ADEA case. However, if 60 days have passed since the filing of the charge,
+                  you may file suit in federal or state court under the ADEA at this time.
+
+Equal Pay Act (EPA): You already have the right to sue under the EPA (filing an EEOC charge is not required.) EPA suits must be brought
+in federal or state court within 2 years (3 years for willful violations) of the alleged EPA underpayment. This means that backpay due for
+any violations that occurred more than 2 years (3 years) before you file suit may not be collectible.
+
+If you file suit, based on this charge, please send a copy of your court complaint to this office.
+
+                                                                         On behalf of the Commission
+
+
+
+                                                                                                                            03/05/2021
+ Enclosures(s)                                                         Jamie R. Williamson                                   (Date Issued)
+                                                                         District Director
+
+ cc:          COMCAST CORPORATION AND COMCAST CABLE
+              COMMUNICATIONS MGMT
+
+              Rahul Munshi, Esq.                                                      Sean Caulfield, Esq.
+              Console Mattiacci Law                                                   Morgan, Lewis & Bockius LLP
+              1525 Locust Street, 9th Floor                                           1701 Market Street
+              Philadelphia, PA 19102                                                  Philadelphia, PA 19103
+              munshi@consolelaw.com                                                   sean.caulfield@morganlewis.com
+              buccieri@consolelaw.com
+                       Case 5:21-cv-02442-JLS Document 1 Filed 05/28/21 Page 24 of 24
+Enclosure with EEOC
+Form 161-B (11/2020)
+                                       INFORMATION RELATED TO FILING SUIT
+                                     UNDER THE LAWS ENFORCED BY THE EEOC
+                      (This information relates to filing suit in Federal or State court under Federal law.
+             If you also plan to sue claiming violations of State law, please be aware that time limits and other
+                    provisions of State law may be shorter or more limited than those described below.)
+
+
+                                   Title VII of the Civil Rights Act, the Americans with Disabilities Act (ADA),
+PRIVATE SUIT RIGHTS           --
+                                   the Genetic Information Nondiscrimination Act (GINA), or the Age
+                                   Discrimination in Employment Act (ADEA):
+
+In order to pursue this matter further, you must file a lawsuit against the respondent(s) named in the charge within
+90 days of the date you receive this Notice. Therefore, you should keep a record of this date. Once this 90-
+day period is over, your right to sue based on the charge referred to in this Notice will be lost. If you intend to
+consult an attorney, you should do so promptly. Give your attorney a copy of this Notice, and its envelope or
+record of receipt, and tell him or her the date you received it. Furthermore, in order to avoid any question that you
+did not act in a timely manner, it is prudent that your suit be filed within 90 days of the date this Notice was
+issued to you (as indicated where the Notice is signed) or the date of the postmark or record of receipt, if later.
+
+Your lawsuit may be filed in U.S. District Court or a State court of competent jurisdiction. (Usually, the appropriate
+State court is the general civil trial court.) Whether you file in Federal or State court is a matter for you to decide
+after talking to your attorney. Filing this Notice is not enough. You must file a "complaint" that contains a short
+statement of the facts of your case which shows that you are entitled to relief. You r suit may include any matter
+alleged in the charge or, to the extent permitted by court decisions, matters like or related to the matters alleged in
+the charge. Generally, suits are brought in the State where the alleged unlawful practice occurred, but i n some
+cases can be brought where relevant employment records are kept, where the employment would have been, or
+where the respondent has its main office. If you have simple questions, you usually can get answers from the
+office of the clerk of the court where you are bringing suit, but do not expect that office to write your complaint or
+make legal strategy decisions for you.
+
+PRIVATE SUIT RIGHTS           --   Equal Pay Act (EPA):
+
+EPA suits must be filed in court within 2 years (3 years for willful violations) of t he alleged EPA underpayment: back
+pay due for violations that occurred more than 2 years (3 years) before you file suit may not be collectible. For
+example, if you were underpaid under the EPA for work performed from 7/1/0 8 to 12/1/08, you should file suit
+before 7/1/10 – not 12/1/10 -- in order to recover unpaid wages due for July 2008. This time limit for filing an EPA
+suit is separate from the 90-day filing period under Title VII, the ADA, GINA or the ADEA referred to above.
+Therefore, if you also plan to sue under Title VII, the ADA, GINA or the ADEA, in addition to suing on the EPA
+claim, suit must be filed within 90 days of this Notice and within the 2- or 3-year EPA back pay recovery period.
+
+ATTORNEY REPRESENTATION --               Title VII, the ADA or GINA:
+
+If you cannot afford or have been unable to obtain a lawyer to represent you, the U.S. District Court having jurisdiction
+in your case may, in limited circumstances, assist you in obtaining a lawyer. Requests for such assistance must be
+made to the U.S. District Court in the form and manner it requires (you should be prepared to explain in detail your
+efforts to retain an attorney). Requests should be made well before the end of the 90-day period mentioned above,
+because such requests do not relieve you of the requirement to bring suit within 90 days.
+
+ATTORNEY REFERRAL AND EEOC ASSISTANCE                    --   All Statutes:
+
+You may contact the EEOC representative shown on your Notice if you need help in finding a lawyer or if you have any
+questions about your legal rights, including advice on which U.S. District Court can hear your case. If you need to
+inspect or obtain a copy of information in EEOC's file on the charge, please request it promptly in writing and provide
+your charge number (as shown on your Notice). While EEOC destroys charge files after a certain time, all charge files
+are kept for at least 6 months after our last action on the case. Therefore, if you file suit and want to review the charge
+file, please make your review request within 6 months of this Notice. (Before filing suit, any request should be
+made within the next 90 days.)
+
+                  IF YOU FILE SUIT, PLEASE SEND A COPY OF YOUR COURT COMPLAINT TO THIS OFFICE.
+

@@ -1,0 +1,1049 @@
+Source URL: https://www.courtlistener.com/docket/64877156/1/chiddick-v-rosemont-college/
+Title: Complaint (Attorney) – #1 in CHIDDICK v. ROSEMONT COLLEGE (E.D. Pa., 2:22-cv-03150) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 2:22-cv-03150-AB
+                                                      CIVILDocument
+                                                            COVER1SHEET
+                                                                    Filed 08/08/22 Page 1 of 41
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+                                     Troy Chiddick                                                             Rosemont College
+                                                                                                               Rosemont College of the Holy Child Jesus
+    (b)    County of Residence of First Listed Plaintiff               Montgomery County                       County of Residence of First Listed Defendant Montgomery County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Caren N. Gurmankin, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State          ✖ 1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                    625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                   of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability               690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                           400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                       PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                       820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                     830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                     835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                            New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                             840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                             LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                     710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                    Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                  720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                     Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                 740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability               751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                   790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                      791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                      Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                    870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                 or Defendant)                 896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                              871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                       IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment              Other:                              462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                465 Other Immigration                                                  950 Constitutionality of
+                                             Other                   550 Civil Rights                        Actions                                                                State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq.; 42 U.S.C. §1981; 42 U.S.C. § 12101, et seq.
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                                                               Plaintiff was discriminated against based on his race.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                            in excess of $75,000                           JURY DEMAND:                X   Yes           No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+8/8/2022
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                              Case 2:22-cv-03150-AB
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   08/08/22 Page 2 of 41
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                       King of Prussia, PA 19406
+Address of Plaintiff: ______________________________________________________________________________________________
+                                         1400 Montgomery Avenue; Rosemont, PA 19010
+Address of Defendant: ____________________________________________________________________________________________
+                                                       1400 Montgomery Avenue; Rosemont, PA 19010
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      08/08/2022
+DATE: __________________________________                     __________________________________________                                    205900
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+           Caren N. Gurmankin
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+     X        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     X        Relief other than monetary damages is sought.
+
+
+      08/08/2022
+DATE: __________________________________                     __________________________________________                                    205900
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+                Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 3 of 41
+                          IN THE UNITED STATES DISTRICT COURT
+                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                      CASE MANAGEMENT TRACK DESIGNATION FORM
+Troy Chiddick                                       :                          CIVIL ACTION
+                                                    :
+                       v.                           :
+Rosemont College, et al.                            :
+                                                    :                          NO.
+
+  In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+  plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+  filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+  side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+  designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+  the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+  to which that defendant believes the case should be assigned.
+
+  SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+  (a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+  (b) Social Security – Cases requesting review of a decision of the Secretary of Health
+      and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+  (c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+  (d) Asbestos – Cases involving claims for personal injury or property damage from
+      exposure to asbestos.                                                                            ( )
+
+  (e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+      commonly referred to as complex and that need special or intense management by
+      the court. (See reverse side of this form for a detailed explanation of special
+      management cases.)                                                                               ( )
+
+  (f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+  8/8/2022                                                              Plaintiff, Troy Chiddick
+  Date                               Attorney-at-law                       Attorney for
+   215-545-7676                   215-405-2900                          gurmankin@consolelaw.com
+
+  Telephone                           FAX Number                           E-Mail Address
+
+
+  (Civ. 660) 10/02
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 4 of 41
+
+
+
+
+               IN THE UNITED STATES DISTRICT COURT FOR
+                 THE EASTERN DISTRICT OF PENNSYLVANIA
+________________________________
+                                      :
+TROY CHIDDICK                         :
+King of Prussia, PA 19406             :
+                                      : CIVIL ACTION NO.
+                          Plaintiff,  :
+                                      :
+        v.                            :
+                                      :
+ROSEMONT COLLEGE                      :
+1400 Montgomery Avenue                :
+Rosemont, PA 19010                    :
+                                      :
+and                                   :
+                                      :
+ROSEMONT COLLEGE OF THE               :
+HOLY CHILD JESUS                      :
+                                      : JURY TRIAL DEMANDED
+                                      :
+                          Defendants. :
+________________________________      :
+
+                                     COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Troy Chiddick, brings this action against his former employers,
+
+Rosemont College and Rosemont College of the Holy Child Jesus (“Defendants”).
+
+Defendants terminated Plaintiff, one of the very few Black employees at the management
+
+level, after he complained about the race discriminatory conduct to which it was
+
+subjecting him and other Black employees, and after Plaintiff advised Defendant of his
+
+medical conditions (resulting from Defendant’s discriminatory and retaliatory treatment)
+
+and took medical leave in connection with the same.
+
+       Defendants’ discriminatory and retaliatory conduct towards Plaintiff violated Title
+
+VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq. (“Title VII”);
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 5 of 41
+
+
+
+
+42 U.S.C. §1981 (“Section 1981”); the Americans with Disabilities Act, as amended, 42
+
+U.S.C. § 12101, et seq. (“ADA”); the Pennsylvania Human Relations Act, as amended,
+
+43 P.S. § 951, et seq. (“PHRA”).
+
+II.    PARTIES
+
+       1.      Plaintiff, Troy Chiddick, is an individual and a citizen of the
+
+Commonwealth of Pennsylvania.
+
+       2.      Plaintiff is Black.
+
+       3.      Defendant, Rosemont College, is incorporated in Pennsylvania with a
+
+principal place of business at 1400 Montgomery Avenue, Rosemont, PA 19010.
+
+       4.      Defendant, Rosemont College of the Holy Child Jesus, is incorporated in
+
+Pennsylvania with a principal place of business at 1400 Montgomery Avenue, Rosemont,
+
+PA 19010.
+
+       5.      Defendants are engaged in an industry affecting interstate commerce and
+
+regularly does business in the Commonwealth of Pennsylvania.
+
+       6.      At all times material hereto, Defendants employed more than fifteen (15)
+
+employees.
+
+       7.      At all times material hereto, Defendants acted by and through its
+
+authorized agents, servants, workmen, and/or employees acting within the course and
+
+scope of their employment with Defendants and in furtherance of Defendants’ business.
+
+       8.      At all times material hereto, Defendants acted as employers within the
+
+meaning of the statutes which form the basis of this matter.
+
+       9.      At all times material hereto, Plaintiff was an employee of Defendants
+
+within the meaning of the statutes which form the basis of this matter.
+
+
+
+
+                                             2
+       Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 6 of 41
+
+
+
+
+III.   JURISDICTION AND VENUE
+
+       10.     The causes of action which form the basis of this matter arise under Title
+
+VII, Section 1981, the ADA, the PHRA, and the PFPO.
+
+       11.     The District Court has jurisdiction over Count I (Title VII) pursuant to 42
+
+U.S.C. § 2000e-5 and 28 U.S.C. § 1331.
+
+       12.     The District Court has jurisdiction over Count II (Section 1981) pursuant
+
+to 28 U.S.C. §1331.
+
+       13.     The District Court has jurisdiction over Count III (ADA) pursuant to
+
+pursuant to 42 U.S.C. §12117(a) and 28 U.S.C. §1331.
+
+       14.     The District Court has supplemental jurisdiction over Count IV (PHRA)
+
+and Count V (PFPO) pursuant to 28 U.S.C. § 1367.
+
+       15.     Venue is proper in the District Court under 28 U.S.C. §1391(b) and 42
+
+U.S.C. § 2000(e)-5(f).
+
+       16.     On or about September 30, 2020, Plaintiff filed a Complaint of
+
+Discrimination with the Pennsylvania Human Relations Commission (“PHRC”),
+
+complaining of acts of discrimination and retaliation alleged herein. This Complaint was
+
+cross-filed with the Equal Employment Opportunity Commission (“EEOC”). Attached
+
+hereto, incorporated herein, and marked as Exhibit “1” is a true and correct copy of the
+
+PHRC Complaint of Discrimination (with personal identifying information redacted).
+
+       17.     On or about April 15, 2021, Plaintiff filed a Second Complaint of
+
+Discrimination with the PHRC. This Complaint with cross-filed with the EEOC.
+
+Attached hereto, incorporated herein, and marked as Exhibit “2” is a true and correct
+
+copy of the PHRC Second Complaint of Discrimination (with personal identifying
+
+
+
+
+                                            3
+       Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 7 of 41
+
+
+
+
+information redacted).
+
+          18.   On or about May 16, 2022, the EEOC issued to Plaintiff a Notice of Right
+
+to Sue for his Complaints of Discrimination. Attached hereto, incorporated herein, and
+
+marked as Exhibit “3” is a true and correct copy of the Notice of Right to Sue (with
+
+personal identifying information redacted).
+
+          19.   Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.       FACTUAL ALLEGATIONS
+
+          20.   Plaintiff began working at Defendants in or about August 2008.
+
+          21.   At all times material hereto, Plaintiff consistently demonstrated excellent
+
+performance throughout his employment with Defendants.
+
+          22.   As of around Fall 2017, Plaintiff held the position of Dean of Students and
+
+reported directly to Lisa Dolling (white), Provost and Senior Vice President for
+
+Academic and Student Affairs. Dolling reported to Jayson Boyers (white), President.
+
+          23.   Defendants’ demographics evidenced a bias against Black employees.
+
+Evidence of the same includes, but is not limited to, the fact that, to the best of Plaintiff’s
+
+knowledge, he was one of only two Black employees who indirectly reported to Boyers
+
+and he was one of only two Black employees who reported directly to Dolling.
+
+          24.   Throughout Plaintiff’s employment, Defendants treated Plaintiff less
+
+favorably than white and other non-Black employees. Evidence of Defendants’ race
+
+discriminatory treatment to which they subjected Plaintiff includes that which is set forth
+
+herein.
+
+          25.   Dolling and Jane Federowicz, Assistant Vice President for Human
+
+
+
+
+                                               4
+       Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 8 of 41
+
+
+
+
+Resources, repeatedly criticized Plaintiff for the racial make-up of his direct reports,
+
+almost all of whom were Black.
+
+        26.       Dolling and Federowicz pressured Plaintiff to hire more white employees
+
+into his group.
+
+        27.       Dolling told Plaintiff that she was going to “fix” his speaking and writing.
+
+        28.       Dolling told Plaintiff that her goal was to “fix” the way that the students
+
+from the “inner city” spoke.
+
+        29.       Dolling repeatedly, and unjustly, criticized Plaintiff’s Black direct reports.
+
+        30.       Dolling repeatedly asked Plaintiff how long his Black direct reports were
+
+planning to stay employed at Defendants.
+
+        31.       Dolling repeatedly pressured Plaintiff to ask his Black direct reports how
+
+long they planned to stay employed at Defendants and whether they were applying for
+
+jobs elsewhere.
+
+        32.       Dolling and Federowicz undermined Plaintiff’s authority by bypassing
+
+him and communicating with his direct reports regarding issues for which he had
+
+responsibility.
+
+        33.       Dolling repeatedly and unjustly criticized Plaintiff for issues that were not
+
+his responsibility.
+
+        34.       Dolling repeatedly and unjustly criticized Plaintiff when he followed
+
+instructions that she had given him.
+
+        35.       To Plaintiff’s information and belief, Dolling and Federowicz repeatedly
+
+interrogated his direct reports and pressured them to give negative feedback regarding his
+
+leadership.
+
+
+
+
+                                                5
+       Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 9 of 41
+
+
+
+
+       36.     When Plaintiff placed two of his Black direct reports on a search
+
+committee for an open position in his department, Dolling told him to remove the two
+
+Black employees from the committee and to replace at least one of them with a white
+
+employee.
+
+       37.     Plaintiff understand that Dolling instructed him to remove the two Black
+
+employees from the search committee for the open position, and replace at least one of
+
+them with a white employee, because Defendants wanted a white employee in that open
+
+position.
+
+       38.     Dolling instructed Plaintiff to move a Black student out of her room so
+
+that white students could move into the space.
+
+       39.     When Plaintiff objected to relocating the Black student and asked why
+
+Dolling wanted to do so, Dolling yelled at him and told him to get the Black student out
+
+of the room immediately so that the white employees could move in.
+
+       40.     Dolling and Federowicz tried to portray Plaintiff, inaccurately, as someone
+
+who lost his temper and who acted in an intimidating manner towards Dolling.
+
+       41.     When Plaintiff refused to agree with Dolling on a particular issue in a
+
+meeting, despite her pressuring him to do so, Dolling stormed out of the room.
+
+Federowicz subsequently told Plaintiff that she and Dolling had never seen him so upset,
+
+to which Plaintiff told her that they were not going to make him out to be the “big Black
+
+guy” against the small white lady (Dolling), that they knew that he did not do anything
+
+wrong, and that Dolling was setting him up for failure.
+
+       42.     To Plaintiff’s knowledge and belief, Defendants failed to take remedial
+
+and/or corrective action regarding his expressed concern that he was being treated
+
+
+
+
+                                            6
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 10 of 41
+
+
+
+
+differently based on his race.
+
+       43.     On August 25, 2020, Plaintiff sent an email to Dolling in which he
+
+complained about Defendants’ race discriminatory conduct.
+
+       44.     To Plaintiff’s knowledge and belief, Defendants failed to take remedial
+
+and/or corrective action regarding his complaint about race discriminatory conduct.
+
+       45.     On or about September 14, 2020, Plaintiff complained about Defendants’
+
+race discriminatory conduct to Federowicz.
+
+       46.     To Plaintiff’s knowledge and belief, no one at Defendants took action to
+
+remedy and/or correct the race discriminatory conduct about which he complained and to
+
+which he was being subjected.
+
+       47.     Rather than take remedial and/or corrective action regarding the race
+
+discriminatory conduct to which Plaintiff was being subjected, Defendants retaliated
+
+against Plaintiff, including that which is set forth herein.
+
+       48.     On or about September 17, 2020, Defendants put Plaintiff on a
+
+Performance Improvement Plan (“PIP”).
+
+       49.     The September 2020 PIP was the first time in Plaintiff’s tenure with
+
+Defendants that he had been subjected to any progressive discipline or any corrective
+
+action in connection with his performance.
+
+       50.     On September 21, 2020, Plaintiff went out on approved medical leave due
+
+to his dangerously elevated blood pressure.
+
+       51.     Plaintiff’s medical condition resulted from the stress and anxiety that he
+
+suffered due to Defendants’ discriminatory and retaliatory conduct.
+
+       52.     On or about September 30, 2020, Plaintiff filed a Complaint with the
+
+
+
+
+                                               7
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 11 of 41
+
+
+
+
+PHRC setting forth allegations regarding the race discriminatory, and retaliatory, conduct
+
+to which he had been subjected. He advised Defendants of the same on that day.
+
+        53.     To Plaintiff’s knowledge and belief, no one at Defendants took action to
+
+remedy and/or correct the race discrimination and/or retaliation to which he had been
+
+subjected and about which he had complained.
+
+        54.     Plaintiff remained out of work on approved medical leave through on or
+
+about March 8, 2021.
+
+        55.     Plaintiff returned to work on March 9, 2021.
+
+        56.     Upon Plaintiff’s return to work, he was told that he had been removed
+
+from his position of Dean of Students.
+
+        57.     Defendants informed Plaintiff that his only option to remain employed
+
+was to take the position of Program Director.
+
+        58.     The Program Director position was multiple organizational layers below
+
+that of Plaintiff’s prior Dean of Students position. As a result, Plaintiff asked if he could
+
+have the title of Assistant Dean, to which Defendants agreed.
+
+        59.     The position of Assistant Dean was a lower-level position, including with
+
+less responsibility.
+
+        60.     So that Plaintiff could remain employed at Defendants, he took the
+
+position of Assistant Dean.
+
+        61.     Plaintiff was told that the reason why Defendants removed him from his
+
+Dean of Students job and offering him one of two lower-level positions was
+
+“reorganization”.
+
+        62.     To Plaintiff’s knowledge and belief, they replaced him as Dean of
+
+
+
+
+                                              8
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 12 of 41
+
+
+
+
+Students and put another individual into that position.
+
+        63.     Plaintiff was told that he had to vacate his office, and he was reassigned to
+
+a less desirable office in a les desirable building.
+
+        64.     Plaintiff was assigned tasks with deadlines that Defendants knew or
+
+should have known were not feasible to meet.
+
+        65.     On or about March 24, 2021, Plaintiff complained, again, about the
+
+discriminatory and retaliatory conduct to which he had been, and continued to be,
+
+subjected.
+
+        66.     To Plaintiff’s knowledge and belief, no one at Defendants took action to
+
+remedy and/or correct the race discriminatory or retaliatory conduct to which he was
+
+being subjected.
+
+        67.     On or about March 24, 2021, Plaintiff again experienced dangerously
+
+elevated blood pressure as a result of Defendants’ continued discriminatory and
+
+retaliatory treatment.
+
+        68.     Plaintiff submitted a doctor’s note to Defendants in which he asked for a
+
+thirty (30) day medical leave as an accommodation to his medical condition, which
+
+resulted from Defendants’ race discriminatory and retaliatory conduct.
+
+        69.     Defendants responded to Plaintiff’s request for an accommodation by
+
+asking if he was able to work remotely rather than go out on medical leave.
+
+        70.     Plaintiff informed Plaintiff that, per his doctor’s evaluation of his medical
+
+condition, he was unable to work for thirty (30) days but that, upon completion of a thirty
+
+(30) day leave, he would let Defendants know if he was able to work from home.
+
+        71.     On or about April 1, 2021, Defendants terminated Plaintiff’s employment.
+
+
+
+
+                                               9
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 13 of 41
+
+
+
+
+       72.     Defendants informed Plaintiff that they were terminating his employment
+
+because he was unable to work from home and that they could not accommodate his
+
+request for thirty (30) days of leave.
+
+       73.     Defendants’ asserted reason for terminating Plaintiff’s employment was
+
+pretextual.
+
+       74.     Plaintiff’s race was a motivating and/or determinative factor in connection
+
+with Defendants’ discriminatory treatment of Plaintiff, including subjecting him to a
+
+hostile work environment, demoting him, and terminating his employment.
+
+       75.     Plaintiff’s complaints about Defendants’ discriminatory conduct were
+
+motivating and/or determinative factors in connection with Defendants’ retaliatory
+
+conduct to which Plaintiff was subjected, including subjecting him to a hostile work
+
+environment, demoting him, and terminating his employment.
+
+       76.     Plaintiff was disabled, and/or had a record of a disability, and/or was
+
+regarded as being disabled.
+
+       77.     Plaintiff’s disabilities, including his record of disability and Defendants’
+
+regarding him as having a disability, were motivating and determinative factor in
+
+connection with Defendants’ discriminatory treatment of Plaintiff, including the
+
+demotion of Plaintiff and the termination of Plaintiff.
+
+       78.     Defendants failed to provide Plaintiff with reasonable accommodation for
+
+his known disabilities by granting his request for an accommodation.
+
+       79.     Defendants retaliated against Plaintiff for requesting a reasonable
+
+accommodation for his disability.
+
+       80.     Defendants failed to prevent or address the discriminatory and retaliatory
+
+
+
+
+                                             10
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 14 of 41
+
+
+
+
+conduct referred to herein and further failed to take corrective and remedial measures to
+
+make the workplace free of discriminatory and retaliatory conduct.
+
+        81.       The retaliatory actions taken against Plaintiff after he complained of
+
+discriminatory conduct would have discouraged a reasonable employee from
+
+complaining of discrimination.
+
+        82.       As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendants, Plaintiff has in the past incurred, and may in the future incur, a
+
+loss of earnings and/or earning capacity, loss of benefits, pain and suffering,
+
+embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of life’s
+
+pleasures, the full extent of which is not known at this time.
+
+                                     COUNT I – Title VII
+
+        83.       Plaintiff incorporates herein by reference paragraphs 1 through 82
+
+above, as if set forth herein in their entirety.
+
+        84.    By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated Title VII.
+
+        85.       Said violations were done with malice and/or reckless indifference.
+
+        86.       As a direct and proximate result of Defendants’ violation of Title VII,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+        87.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+        88.       No previous application has been made for the relief requested herein.
+
+
+
+
+                                               11
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 15 of 41
+
+
+
+
+                                   COUNT II – Section 1981
+
+        89.       Plaintiff incorporates herein by reference paragraphs 1 through 88 above,
+
+as if set forth herein in their entirety.
+
+        90.       By committing the foregoing acts of discrimination and retaliation,
+
+Defendants have violated Section 1981.
+
+        91.       Said violations were done with malice and/or reckless indifference, and
+
+warrant the imposition of punitive damages.
+
+        92.       As a direct and proximate result of Defendants’ violation of Section 1981,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+        93.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+        94.       No previous application has been made for the relief requested herein.
+
+                                        COUNT I - ADA
+
+        95.       Plaintiff incorporates herein by reference paragraphs 1 through 94 above,
+
+as if set forth herein in their entirety.
+
+        96.       By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the ADA.
+
+        97.       Defendants acted intentionally, and with malice and/or reckless
+
+indifference to Plaintiff’s rights, and their conduct warrants the imposition of punitive
+
+damages.
+
+
+
+
+                                               12
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 16 of 41
+
+
+
+
+        98.       As a direct and proximate result of Defendants’ violation of the ADA,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorney’s
+
+fees and costs.
+
+        99.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+        100.      No previous application has been made for the relief requested herein.
+
+                                      COUNT IV – PHRA
+
+        101.      Plaintiff incorporates herein by reference paragraphs 1 through 100 above,
+
+as if set forth herein in their entirety.
+
+        102    Defendants, by the above improper and discriminatory and retaliatory acts,
+
+has violated the PHRA.
+
+        103.      Said violations were intentional and willful.
+
+        104.      As a direct and proximate result of Defendants’ violation of the
+
+PHRA, Plaintiff has sustained the injuries, damages, and losses set forth herein and has
+
+incurred attorneys’ fees and costs.
+
+        105.      Plaintiff is now suffering and will continue to suffer irreparable injuries
+
+and monetary damages as a result of Defendants’ discriminatory and retaliatory acts
+
+unless and until the Court grants the relief requested herein.
+
+        106.    No previous application has been made for the relief requested herein.
+
+
+
+
+                                               13
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 17 of 41
+
+
+
+
+                                           RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in
+
+connection with Defendants’ improper conduct, and specifically prays that the Court
+
+grant the following relief to the Plaintiff by:
+
+        (a)     declaring the acts and practices complained of herein to be
+
+in violation of Title VII;
+
+        (b)     declaring the acts and practices complained of herein to be in violation of
+
+Section 1981;
+
+        (c)     declaring the acts and practices complained of herein to be in violation of
+
+the ADA;
+
+        (d)     declaring the acts and practices complained of herein to be in violation
+
+of the PHRA;
+
+        (e)     enjoining and permanently restraining the violations alleged herein;
+
+        (f)     entering judgment against the Defendants and in favor of the Plaintiff in
+
+an amount to be determined;
+
+        (g)     awarding compensatory damages to make the Plaintiff whole for all lost
+
+earnings, earning capacity, and benefits, past and future, which Plaintiff has suffered or
+
+may suffer as a result of Defendants’ improper conduct;
+
+        (h)     awarding compensatory damages to Plaintiff for past and future pain and
+
+suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures,
+
+which Plaintiff has suffered or may suffer as a result of Defendants’ improper conduct;
+
+        (i)     awarding punitive damages to Plaintiff under Title VII;
+
+        (j)     awarding punitive damages to Plaintiff under Section 1981;
+
+
+
+
+                                              14
+      Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 18 of 41
+
+
+
+
+       (k)     awarding punitive damages to Plaintiff under the ADA;
+
+       (l)     awarding Plaintiff such other damages as are appropriate under Title VII,
+
+Section 1981, the ADA, and the PHRA;
+
+       (m)     awarding Plaintiff the costs of suit, expert fees, and other disbursements,
+
+and reasonable attorneys’ fees; and,
+
+       (n)     granting such other and further relief as this Court may deem just, proper,
+
+or equitable including other equitable and injunctive relief providing restitution for past
+
+violations and preventing future violations.
+
+
+
+                                                CONSOLE MATTIACCI LAW, LLC
+
+
+
+Dated: August 8, 2022                   BY: ____________________________
+                                            Caren N. Gurmankin (205900)
+                                            1525 Locust Street, 9th Floor
+                                            Philadelphia, PA 19102
+                                            (215) 545-7676
+
+                                                Attorney for Plaintiff,
+                                                Troy Chiddick
+
+
+
+
+                                               15
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 19 of 41
+
+
+
+
+               EXHIBIT 1
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 20 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 21 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 22 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 23 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 24 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 25 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 26 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 27 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 28 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 29 of 41
+
+
+
+
+               EXHIBIT 2
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 30 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 31 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 32 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 33 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 34 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 35 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 36 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 37 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 38 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 39 of 41
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 40 of 41
+
+
+
+
+               EXHIBIT 3
+Case 2:22-cv-03150-AB Document 1 Filed 08/08/22 Page 41 of 41
+

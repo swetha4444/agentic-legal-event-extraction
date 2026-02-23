@@ -1,0 +1,903 @@
+Source URL: https://www.courtlistener.com/docket/18510448/1/marks-v-spx-corporation/
+Title: Complaint (Attorney) – #1 in Marks v. SPX Corporation (E.D. Pa., 2:20-cv-04944) – CourtListener.com
+
+                                     Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 1 of 25
+JS 44 (Rev. 06/17)                                                         CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+Louis N. Marks                                                                                              SPX Corporation and CUES, Inc.
+
+
+    (b) County of Residence of First Listed Plaintiff             Montgomery                                  County of Residence of First Listed Defendant              Mecklenburg
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c) Attorneys (Firm Name, Address, and Telephone Number)                                                   Attorneys (If Known)
+Jacqueline Joan Ryan, Esquire, Console Mattiacci Law, LLC
+1525 Locust Street, 9th Floor, Philadelphia, PA 19102
+215.545.7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                          (For Diversity Cases Only)                                        and One Box for Defendant)
+u 1    U.S. Government                u 3     Federal Question                                                                     PTF       DEF                                           PTF      DEF
+         Plaintiff                              (U.S. Government Not a Party)                        Citizen of This State         u 1       u 1       Incorporated or Principal Place       u 4     u 4
+                                                                                                                                                         of Business In This State
+
+u 2    U.S. Government                u 4     Diversity                                              Citizen of Another State          u 2    u    2   Incorporated and Principal Place    u 5     u 5
+         Defendant                              (Indicate Citizenship of Parties in Item III)                                                             of Business In Another State
+
+                                                                                                     Citizen or Subject of a           u 3    u    3   Foreign Nation                      u 6     u 6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                             Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                             TORTS                                  FORFEITURE/PENALTY                         BANKRUPTCY                    OTHER STATUTES
+u   110 Insurance                        PERSONAL INJURY                PERSONAL INJURY              u 625 Drug Related Seizure          u 422 Appeal 28 USC 158          u 375 False Claims Act
+u   120 Marine                       u   310 Airplane                 u 365 Personal Injury -              of Property 21 USC 881        u 423 Withdrawal                 u 376 Qui Tam (31 USC
+u   130 Miller Act                   u   315 Airplane Product               Product Liability        u 690 Other                               28 USC 157                       3729(a))
+u   140 Negotiable Instrument                 Liability               u 367 Health Care/                                                                                  u 400 State Reapportionment
+u   150 Recovery of Overpayment      u   320 Assault, Libel &               Pharmaceutical                                                 PROPERTY RIGHTS                u 410 Antitrust
+        & Enforcement of Judgment             Slander                       Personal Injury                                              u 820 Copyrights                 u 430 Banks and Banking
+u   151 Medicare Act                 u   330 Federal Employers’             Product Liability                                            u 830 Patent                     u 450 Commerce
+u   152 Recovery of Defaulted                 Liability               u 368 Asbestos Personal                                            u 835 Patent - Abbreviated       u 460 Deportation
+        Student Loans                u   340 Marine                         Injury Product                                                     New Drug Application       u 470 Racketeer Influenced and
+        (Excludes Veterans)          u   345 Marine Product                 Liability                                                    u 840 Trademark                        Corrupt Organizations
+u   153 Recovery of Overpayment               Liability                PERSONAL PROPERTY                         LABOR                     SOCIAL SECURITY                u 480 Consumer Credit
+        of Veteran’s Benefits        u   350 Motor Vehicle            u 370 Other Fraud              u 710 Fair Labor Standards          u 861 HIA (1395ff)               u 490 Cable/Sat TV
+u   160 Stockholders’ Suits          u   355 Motor Vehicle            u 371 Truth in Lending                Act                          u 862 Black Lung (923)           u 850 Securities/Commodities/
+u   190 Other Contract                       Product Liability        u 380 Other Personal           u 720 Labor/Management              u 863 DIWC/DIWW (405(g))               Exchange
+u   195 Contract Product Liability   u   360 Other Personal                 Property Damage                 Relations                    u 864 SSID Title XVI             u 890 Other Statutory Actions
+u   196 Franchise                            Injury                   u 385 Property Damage          u 740 Railway Labor Act             u 865 RSI (405(g))               u 891 Agricultural Acts
+                                     u   362 Personal Injury -              Product Liability        u 751 Family and Medical                                             u 893 Environmental Matters
+                                             Medical Malpractice                                            Leave Act                                                     u 895 Freedom of Information
+        REAL PROPERTY                      CIVIL RIGHTS                PRISONER PETITIONS            u 790 Other Labor Litigation          FEDERAL TAX SUITS                    Act
+u   210 Land Condemnation            u   440 Other Civil Rights         Habeas Corpus:               u 791 Employee Retirement           u 870 Taxes (U.S. Plaintiff      u 896 Arbitration
+u   220 Foreclosure                  u   441 Voting                   u 463 Alien Detainee                 Income Security Act                  or Defendant)             u 899 Administrative Procedure
+u   230 Rent Lease & Ejectment       u   442 Employment               u 510 Motions to Vacate                                            u 871 IRS—Third Party                  Act/Review or Appeal of
+u   240 Torts to Land                u   443 Housing/                       Sentence                                                            26 USC 7609                     Agency Decision
+u   245 Tort Product Liability               Accommodations           u 530 General                                                                                       u 950 Constitutionality of
+u   290 All Other Real Property      u   445 Amer. w/Disabilities -   u 535 Death Penalty                  IMMIGRATION                                                          State Statutes
+                                             Employment                 Other:                       u 462 Naturalization Application
+                                     u   446 Amer. w/Disabilities -   u 540 Mandamus & Other         u 465 Other Immigration
+                                             Other                    u 550 Civil Rights                   Actions
+                                     u   448 Education                u 555 Prison Condition
+                                                                      u 560 Civil Detainee -
+                                                                            Conditions of
+                                                                            Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+u 1 Original             u 2 Removed from                 u 3         Remanded from             u 4 Reinstated or       u 5 Transferred from     u 6 Multidistrict                  u 8 Multidistrict
+    Proceeding               State Court                              Appellate Court               Reopened                Another District             Litigation -                   Litigation -
+                                                                                                                        (specify)                        Transfer                      Direct File
+                                          Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                           29 U.S.C. §621, et seq. (“ADEA”); 43 P.S. §951, et seq. (“PHRA”), 43 P.S. §260.1 et seq. (“WPCL”)
+VI. CAUSE OF ACTION Brief description of cause:
+                                           Plaintiff brings this action for unlawful age discrimination and breach of contract.
+VII. REQUESTED IN     u CHECK IF THIS IS A CLASS ACTION                                                 DEMAND $                                   CHECK YES only if demanded in complaint:
+     COMPLAINT:          UNDER RULE 23, F.R.Cv.P.                                                         ,QH[FHVVRI                  JURY DEMAND:         u Yes      u No
+VIII. RELATED CASE(S)
+                       (See instructions):
+      IF ANY                               JUDGE                                                                                             DOCKET NUMBER
+DATE                                                                     SIGNATURE OF ATTORNEY OF RECORD
+10/06/2020                                                              /s/ Jacqueline Joan Ryan
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                     APPLYING IFP                                      JUDGE                          MAG. JUDGE
+                 Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 2 of 25
+
+
+
+
+                     8ZOOFXPPE 1"
+                     "SESFZ,FMM3PBE 4VJUF $IBSMPUUF /$
+
+
+
+
+                                                                                        Y
+
+                                                                                        Y
+
+                                                                                        Y
+
+                                                                                        Y
+
+
+
+                             T+BDRVFMJOF+PBO3ZBO                 
+
+
+
+
+Y
+
+
+
+
+        +BDRVFMJOF+PBO3ZBO
+
+    Y
+
+    Y
+
+                              T+BDRVFMJOF+PBO3ZBO               
+            Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 3 of 25
+
+
+                            IN THE UNITED STATES DISTRICT COURT
+                         FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                        CASE MANAGEMENT TRACK DESIGNATION FORM
+                                                                             CMLACTION
+                   Louis N. Marks
+                           v.
+                   SPX Corporation and CUES,
+                   Inc.                                                      NO.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                               ( )
+(b) Social Security- Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+(c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53 .2.       ( )
+(d) Asbestos- Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+(e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+(f) Standard Management- Cases that do not fall into any one of the other tracks.                    (X)
+
+
+  10/6/2020                           /s/Jacqueline Joan Ryan            Louis N. Marks
+Date                                    Attorney-at-law                  Attorney for
+    215.545.7676                        215.689.4137                      jryan@consolelaw.com
+
+Telephone                               FAX Number                       E-Mail Address
+
+
+(Civ. 660) 10/02
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 4 of 25
+
+
+
+
+               IN THE UNITED STATES DISTRICT COURT FOR
+                THE EASTERN DISTRICT OF PENNSYLVANIA
+
+____________________________________
+                                       :
+LOUIS N. MARKS                         :
+Wynnewood, PA 19096                    :           CIVIL ACTION NO.
+                                       :
+                           Plaintiff,  :
+                                       :
+              v.                       :
+                                       :
+SPX CORPORATION                        :
+6325 Ardrey Kell Road, Suite 400       :           JURY TRIAL DEMANDED
+Charlotte, North Carolina 28277        :
+                                       :
+and                                    :
+                                       :
+CUES, Inc.                             :
+3600 Rio Vista Avenue                  :
+Orlando, Florida 32805                 :
+                                       :
+                           Defendants. :
+___________________________________ :
+
+                                    COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Louis N. Marks, brings this action against his former employers, SPX
+
+Corporation (“Defendant SPX”) and CUES, Inc. (“Defendant CUES”) (collectively
+
+“Defendants”). Mr. Marks, a then seventy-four (74) year old attorney with decades of
+
+experience, was terminated because of his age. Mr. Marks was replaced by a significantly
+
+younger employee. After terminating Mr. Marks’ employment, Defendants refused to
+
+honor his contractual right to six months severance pay. Defendants’ conduct constitutes
+
+a violation of the Age Discrimination in Employment Act, as amended, 29 U.S.C. §621, et
+
+seq. (“ADEA”), the Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq.
+       Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 5 of 25
+
+
+
+
+(“PHRA”), the Pennsylvania Wage Payment and Collection Law, 43 P.S. §260.1 et seq.
+
+(“WPCL”), and a breach of contract.
+
+II.     PARTIES
+
+        1.     Plaintiff, Louis N. Marks, is an individual and a citizen of the
+
+Commonwealth of Pennsylvania.
+
+        2.     Plaintiff was seventy-four (74) years old at the time of his termination.
+
+        3.     Defendant SPX is a Delaware corporation with a principal place of business
+
+located at 6325 Ardrey Kell Road, Suite 400, Charlotte, North Carolina 28277.
+
+        4.     Defendant CUES is a Delaware corporation with a principal place of
+
+business located at 3600 Rio Vista Avenue, Orlando, Florida 32805.
+
+        5.     Defendant CUES is a wholly-owned and controlled subsidiary of Defendant
+
+SPX.
+
+        6.     Defendants are engaged in industries affecting interstate commerce and
+
+regularly do business in the Commonwealth of Pennsylvania.
+
+        7.     Defendants are registered and authorized to do business in the
+
+Commonwealth of Pennsylvania, with registered agents located in the Commonwealth of
+
+Pennsylvania for service of legal process.
+
+        8.     Defendant CUES maintains a place of business in Pennsylvania.
+
+        9.     Defendant CUES is a mere instrumentality of Defendant SPX, as such,
+
+Defendants share and exercise control over the work or working conditions of its
+
+employees.
+
+        10.    Defendant SPX is the “alter ego” of its controlled subsidiary Defendant
+
+CUES.
+
+
+
+
+                                             2
+       Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 6 of 25
+
+
+
+
+        11.    Defendants are interconnected such that they are considered a “single”
+
+and/or “integrated” employer and/or enterprise.
+
+        12.    Defendants employed, and still currently employ, several individuals in the
+
+Commonwealth of Pennsylvania, including Plaintiff who was subjected to, impacted, and
+
+harmed by the discriminatory practice and unlawful acts alleged herein and giving rise to
+
+this action.
+
+        13.    Defendant SPX is subject to the personal jurisdiction of this Court because,
+
+inter alia, the case arises out of or relates to the contacts of SPX with the Commonwealth
+
+of Pennsylvania, the contacts of SPX are continuous and systematic such that SPX is at
+
+home here, and/or SPX has consented to personal jurisdiction by registering to do business
+
+in the Commonwealth of Pennsylvania with a registered agent for service of process.
+
+        14.    Defendant CUES is subject to the personal jurisdiction of this Court
+
+because, inter alia, the case arises out of or relates to the contacts of CUES with the
+
+Commonwealth of Pennsylvania, the contacts of CUES are continuous and systematic such
+
+that CUES is at home here, and/or CUES has consented to personal jurisdiction by
+
+registering to do business in the Commonwealth of Pennsylvania with a registered agent
+
+for service of process.
+
+        15.    At all times material hereto, Defendants employed more than twenty (20)
+
+employees.
+
+        16.    At all times material hereto, Defendants acted by and through their
+
+authorized agents, servants, workmen, and/or employees acting within the course and
+
+scope of their employment with Defendants and in furtherance of Defendants’ business.
+
+        17.    At all times material hereto, Defendants acted as employers within the
+
+
+
+
+                                            3
+       Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 7 of 25
+
+
+
+
+meaning of the statutes which form the basis of this matter.
+
+       18.      At all times material hereto, Plaintiff was an employee of Defendants within
+
+the meaning of the statutes which form the basis of this matter.
+
+III.   JURISDICTION AND VENUE
+
+       19.      The causes of action which form the basis of this matter arise under the
+
+ADEA, the PHRA, the WPCL and from a breach of contract.
+
+       20.      The District Court has jurisdiction over Count I (ADEA) pursuant to 29
+
+U.S.C. §626(c) and 28 U.S.C. §1331.
+
+       21.      The District Court has jurisdiction over all counts pursuant to 28 U.S.C. §
+
+1332 since the amount in controversy in the present action exceeds the sum or value of
+
+seventy five thousand dollars ($75,000), exclusive of interests and costs, and where there
+
+exists complete diversity of citizenship, as Plaintiff is a citizen of the Commonwealth of
+
+Pennsylvania and Defendants are not citizens of the Commonwealth of Pennsylvania.
+
+       22.      The District Court has jurisdiction over Count II (PHRA) pursuant to 28
+
+U.S.C. §1367.
+
+       23.      The District Court has jurisdiction over Count III (Breach of Contract)
+
+pursuant to 28 U.S.C. §1367.
+
+       24.      The District Court has jurisdiction over Count IV (WPCL) pursuant to 28
+
+U.S.C. §1367.
+
+       25.      Venue is proper in the District Court under 28 U.S.C. §1391(b).
+
+       26.      On or about September 27, 2019, Plaintiff filed a Complaint of
+
+Discrimination with the Pennsylvania Human Relations Commission (“PHRC”),
+
+complaining of acts of discrimination alleged herein. This Complaint was cross-filed with
+
+
+
+
+                                             4
+          Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 8 of 25
+
+
+
+
+the Equal Employment Opportunity Commission (“EEOC”).                          Attached hereto,
+
+incorporated herein and marked as Exhibit “1” is a true and correct copy of the PHRC
+
+Complaint of Discrimination (with personal identifying information redacted).
+
+           27.       More than three hundred and sixty-five (365) days have passed from the
+
+day Plaintiff filed his Complaint of Discrimination with the PHRC.
+
+           28.       Therefore, Plaintiff has fully complied with all administrative prerequisites
+
+for the commencement of this action.
+
+IV.        FACTUAL ALLEGATIONS
+
+           29.       Plaintiff was hired by Defendant CUES, on or about January 1, 2016 as its
+
+Vice President and General Counsel.
+
+           30.       Prior to being hired by Defendant CUES, Plaintiff worked consistently as
+
+outside counsel for Defendant CUES from in or about January 2010.
+
+           31.       Plaintiff consistently performed his job duties in a highly competent manner
+
+and received positive feedback.
+
+           32.       Plaintiff was born on October 3, 1944. He was seventy-four (74) years old
+
+at the time of his termination.
+
+           33.       Plaintiff worked out of his home office in Wynnewood, Pennsylvania.
+
+           34.       Plaintiff reported to Alexander Milley (67 1) (“Milley”), President and Chief
+
+Executive Officer of Defendant CUES.
+
+           35.       In or around June 2018, Defendant CUES was purchased by Defendant
+
+SPX.
+
+           36.       To Plaintiff’s knowledge and belief, he was the oldest employee of
+
+
+
+1
+    All ages herein are to the best of Plaintiff’s knowledge and belief.
+
+
+                                                         5
+       Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 9 of 25
+
+
+
+
+Defendant CUES.
+
+       37.     Defendants      SPX    and     CUES    excluded     Plaintiff   from   certain
+
+communications and meetings related to his job.
+
+       38.     Milley told Plaintiff that he wanted to be a witness if and when Defendant
+
+SPX terminated Plaintiff’s employment because Plaintiff would have “one hell of an age
+
+discrimination case.”
+
+       39.     In January 2019, Defendants failed to give Plaintiff a salary increase despite
+
+his outstanding performance.
+
+       40.     Milley apologized to Plaintiff that he was not given a salary increase as
+
+other employees with outstanding performance reviews received salary increases.
+
+       41.     Plaintiff was not given a salary increase because of his age.
+
+       42.     Milley routinely told Plaintiff that he was performing at an “exceptionally
+
+high level” and doing an “outstanding job.”
+
+       43.     On or about July 12, 2019, on a phone call with John Swann (“Swann”)
+
+(48), President of Weil-McLain, Marley Engineered Products and Radiodetection, and
+
+Candie Russell (“Russell”) (45), Vice President, Human Resources, Defendants terminated
+
+Plaintiff’s employment effective immediately.
+
+       44.     Swann’s stated reason for Plaintiff’s termination was that his position did
+
+not “fit structurally” within the business.
+
+       45.     Swann stated that Milley was not part of the phone call because Milley
+
+disagreed with the decision to terminate Plaintiff’s employment.
+
+       46.     Defendants’ stated reason for terminating Plaintiff’s employment is pretext.
+
+       47.     Defendants terminated Plaintiff’s employment because of his age.
+
+
+
+
+                                              6
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 10 of 25
+
+
+
+
+       48.     Before the termination meeting, Plaintiff had no indication that his job was
+
+in jeopardy or that his employment would be terminated.
+
+       49.     To the best of Plaintiff’s knowledge and belief, he was the only employee
+
+at Defendants that was terminated on July 12, 2019.
+
+       50.     To the best of Plaintiff’s knowledge and belief, all other employees of
+
+Defendants were retained, all of whom, upon Plaintiff’s knowledge and belief, are younger,
+
+if not substantially younger, than Plaintiff.
+
+       51.     Defendant failed to provide Plaintiff with any explanation, including the
+
+criteria, as to how his position did not “fit structurally” within Defendants’ business and
+
+why younger employees were retained.
+
+       52.     Plaintiff had no opportunity or option to remain employed with Defendants.
+
+       53.     Plaintiff had no performance or disciplinary issues at any time throughout
+
+his employment with Defendants.
+
+       54.     On or about July 12, 2019, following Plaintiff’s termination, on a phone call
+
+with Milley, Plaintiff asked Milley what was going on. Milley sounded as though he was
+
+very upset and stated that he was concerned about Plaintiff, that he felt “dirty,” that he
+
+would “take care of [Plaintiff],” and that he was sad that they would not be working
+
+together any longer.
+
+       55.     Milley told Plaintiff that he was against the decision to terminate Plaintiff’s
+
+employment, that he was not allowed to call Plaintiff to warn him before the termination
+
+meeting, and that he was told that Plaintiff would be terminated despite his objection.
+
+       56.     Milley stated that Plaintiff’s termination was disruptive to Defendant
+
+CUES, that executives and employees liked and respected Plaintiff and his work, and that
+
+
+
+
+                                                7
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 11 of 25
+
+
+
+
+Plaintiff had improved Defendant CUES’ business.
+
+       57.     On July 12, 2019, following Plaintiff’s termination, Defendants sent out a
+
+letter, signed by John Nurkin (48), Vice President, General Counsel and Secretary of
+
+Defendant SPX, entitled “Organizational Announcement – Legal Team,” stating the
+
+following: “[W]e are making some changes within our Legal function to reflect SPX’s
+
+legal service operating model. Effective today, John Armstrong (Sr. Business Counsel)
+
+will provide legal support for CUES…This change will allow CUES to receive dedicated
+
+legal support will also benefitting from the SPX Legal Team’s initiatives to streamline
+
+processes and leverage best practices across SPX…John will be an asset in assisting CUES.
+
+John first joined the SPX Legal Team in August 2017….In the weeks ahead, John will be
+
+working with [Alexander] Milley and the CUES team to transition into his expanded role.”
+
+       58.     Defendants replaced Plaintiff with John Armstrong (45), Senior Business
+
+Counsel.
+
+       59.     Plaintiff was more qualified and experienced to perform his job duties than
+
+the substantially younger employee with whom Defendants replaced him.
+
+       60.     After Plaintiff’s employment was terminated, Milley told Plaintiff that, in
+
+his opinion, Plaintiff had “one hell of an age discrimination case.”
+
+       61.     Plaintiff’s age was a motivating and/or determinative factor in connection
+
+with Defendants’ discriminatory treatment of Plaintiff, including terminating Plaintiff’s
+
+employment.
+
+       62.     Defendants have also refused to honor their contract with Plaintiff for six
+
+(6) months of severance pay.
+
+       63.     Plaintiff is entitled to six (6) months of severance because in or about
+
+
+
+
+                                             8
+         Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 12 of 25
+
+
+
+
+January or February of 2018, Milley, on behalf of Defendant CUES, informed Plaintiff that
+
+in exchange for Plaintiff’s continued employment, Plaintiff would receive six (6) months
+
+of severance pay in the event that his employment was terminated. Plaintiff accepted this
+
+offer.
+
+          64.     Despite the contract, Defendants have refused to pay Plaintiff severance
+
+unless Plaintiff signs a release of claims.
+
+          65.     The contract between Plaintiff and Defendants does not require Plaintiff to
+
+sign a release of claims in order to receive severance pay.
+
+          66.     At the time of his termination, Plaintiff was making $300,000 per year.
+
+          67.     To date, Defendants have not paid Plaintiff $150,000 for the six (6) months
+
+of severance to which he has a contractual right.
+
+          68.     As a direct and proximate result of the discriminatory conduct of
+
+Defendants, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation,
+
+loss of self-esteem, mental anguish and loss of life’s pleasures, the full extent of which is
+
+not known at this time.
+
+          69.     The conduct of Defendants, as set forth above, was willful and intentional.
+
+          70.     By failing to pay Plaintiff six (6) months of severance, Defendants breached
+
+its contract with Plaintiff and violated the Wage Payment and Collection.
+
+          71.     Plaintiff has suffered damages as a result of Defendants’ breach.
+
+                COUNT I – VIOLATION OF THE AGE DISCRIMINATION
+                              IN EMPLOYMENT ACT
+
+          72.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+
+
+                                                9
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 13 of 25
+
+
+
+
+        73.       By committing the foregoing acts of discrimination against Plaintiff,
+
+Defendants have violated the ADEA.
+
+        74.       Said violations were willful and warrant the imposition of liquidated
+
+damages.
+
+        75.       As a direct and proximate result of Defendants’ violation of the ADEA,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorney’s
+
+fees and costs.
+
+        76.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        77.       No previous application has been made for the relief requested herein.
+
+                  COUNT II – VIOLATION OF THE PENNSYLVANIA
+                             HUMAN RELATIONS ACT
+
+        78.       Plaintiff incorporates herein by reference the above paragraphs as if set
+
+forth herein in their entirety.
+
+        79.       Defendants, by the above improper and discriminatory acts, have violated
+
+the PHRA.
+
+        80.       As a direct and proximate result of Defendants’ violation of the PHRA,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein.
+
+        81.       Plaintiff has incurred and is entitled to all costs and attorneys’ fees
+
+incurred as a result of the unlawful behavior complained of herein.
+
+        82.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this
+
+Court grants the relief requested herein.
+
+
+
+                                                10
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 14 of 25
+
+
+
+
+        83.     No previous application has been made for the relief requested herein.
+
+                        COUNT III – BREACH OF CONTRACT
+
+        84.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        85.     In consideration for his employment and performance with Defendants,
+
+Plaintiff earned the benefit of the full value of the contract for severance.
+
+        86.     By terminating Plaintiff’s employment and failing to pay him the
+
+contractually obligated six (6) months of severance, Defendants breached the contract.
+
+        87.     As a direct and proximate result of Defendants’ breach, Plaintiff has
+
+suffered the loss of his severance, which remains due to him.
+
+        88.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ acts unless and until this Court grants the
+
+relief requested herein.
+
+        89.     No previous application has been made for the relief requested herein.
+
+               COUNT IV – VIOLATION OF THE WAGE PAYMENT
+                           AND COLLECTION LAW
+
+        90.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        91.     Plaintiff’s severance constitutes earnings and/or wages of an employee as
+
+defined by Pa. C.S. §260.1 et seq.
+
+        92.     In consideration for his employment and performance with Defendants,
+
+Plaintiff earned the full value of the contract.
+
+
+
+
+                                              11
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 15 of 25
+
+
+
+
+        93.     Upon Plaintiff’s termination, the severance became due and owing within
+
+thirty (30) days of the regular payday, but Defendants wrongfully withheld, and continue
+
+to withhold, payment.
+
+        94.     In denying payment of the severance to Plaintiff, Defendants have violated
+
+the Wage Payment and Collection Law, and that sum is due and owing.
+
+        95.     There is no good faith dispute that the severance is owed to Plaintiff.
+
+        96.     Plaintiff is entitled to recover liquidated damages against Defendants under
+
+Section 260.10 of the Wage Payment and Collection Law.
+
+        97.     In addition, Plaintiff is entitled to recover reasonable attorneys’ fees and
+
+costs as a result of Defendants’ violation of the Wage Payment and Collection law.
+
+        98.     No previous application has been made for the relief requested herein.
+
+                                          RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection
+
+with Defendants’ improper conduct, and specifically prays that the Court grant the
+
+following relief to the Plaintiff by:
+
+                (a)     declaring the acts and practices complained of herein to be in
+
+violation of the ADEA;
+
+                (b)     declaring the acts and practices complained of herein to be in
+
+violation of the PHRA;
+
+                (c)     declaring the acts and practices complained of herein to be in breach
+
+of contract;
+
+                (d)     declaring the acts and practices complained of herein to be in
+
+violation of the WPCL;
+
+
+
+
+                                             12
+      Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 16 of 25
+
+
+
+
+               (e)     enjoining and permanently restraining the violations alleged herein;
+
+               (f)     entering judgment against the Defendants and in favor of the
+
+Plaintiff in an amount to be determined;
+
+               (g)     awarding compensatory damages to make the Plaintiff whole for all
+
+lost earnings, earning capacity and benefits, past and future, which Plaintiff has suffered or
+
+may suffer as a result of Defendants’ improper conduct;
+
+               (h)     awarding compensatory damages to Plaintiff for past and future pain
+
+and suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures,
+
+which Plaintiff has suffered or may suffer as a result of Defendants’ improper conduct;
+
+               (i)     awarding liquidated damages to Plaintiff under the ADEA and
+
+WPCL;
+
+               (j)     awarding damages to Plaintiff as a result of Defendants’ breach of
+
+contract;
+
+               (k)     awarding Plaintiff such other damages as are appropriate under the
+
+ADEA, PHRA, and WPCL;
+
+               (l)     awarding Plaintiff the costs of suit, expert fees and other
+
+disbursements, and attorneys’ fees; and,
+
+               (m)     granting such other and further relief as this Court may deem just,
+
+proper, or equitable including other equitable and injunctive relief providing restitution for
+
+past violations and preventing future violations.
+
+
+
+
+                                             13
+     Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 17 of 25
+
+
+
+
+                                    CONSOLE MATTIACCI LAW LLC
+
+
+
+Dated: October 01, 2020      BY:    /s/Jacqueline Joan Ryan___________
+                                    Stephen G. Console, Esq. (36656)
+                                    Laura C. Mattiacci, Esq. (89643)
+                                    Jacqueline Joan Ryan, Esq. (320640)
+                                    1525 Locust Street, 9th Floor
+                                    Philadelphia, PA 19102
+                                    (215) 545-7676
+
+                                    Attorneys for Plaintiff,
+                                    Louis N. Marks
+
+
+
+
+                                   14
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 18 of 25
+
+
+
+
+                EXHIBIT 1
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 19 of 25
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 20 of 25
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 21 of 25
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 22 of 25
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 23 of 25
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 24 of 25
+Case 2:20-cv-04944-PD Document 1 Filed 10/06/20 Page 25 of 25
+

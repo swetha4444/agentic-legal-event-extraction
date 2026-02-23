@@ -1,0 +1,823 @@
+Source URL: https://www.courtlistener.com/docket/59951461/1/holdren-v-collegium-pharmaceuticals-inc/
+Title: Complaint (Attorney) – #1 in HOLDREN v. COLLEGIUM PHARMACEUTICALS, INC. (E.D. Pa., 2:21-cv-02473) – CourtListener.com
+
+JS 44 (Rev. 10/20)                Case 2:21-cv-02473-GEKP
+                                                     CIVIL Document 1 Filed 06/01/21 Page 1 of 20
+                                                           COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+          JENNIFER HOLDREN                                                                                    COLLEGIUM PHARMACEUTICALS, INC.
+    (b)   County of Residence of First Listed Plaintiff                MONTGOMERY                             County of Residence of First Listed Defendant              NORFOLK
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                 Attorneys (If Known)
+      Lane J. Schiff , Esquire
+      Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+      Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)  III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                           (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                          of Business In This State
+
+    2   U.S. Government                      4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                                     Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                        Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY             625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -            of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability        690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                              830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                              835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                      840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                      LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud              710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending             Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal           720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage              Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage          740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability        751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                            Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS            790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:               791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee               Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                             870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                           or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                       871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                       462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other         465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                 Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+      Proceeding             State Court                                Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                                 (specify)                  Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq. (“Title VII”); 43 P.S. §951, et seq. (“PHRA”); Phila. Code §9-1101, et seq. (“PFPO”).
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff brings this action against her former employer for sex discrimination, retaliation, and a hostile work environment.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                              excess of $75,000                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                               DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+June 1, 2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                   JUDGE                           MAG. JUDGE
+                           Case 2:21-cv-02473-GEKP   Document
+                                              UNITED STATES     1 Filed
+                                                            DISTRICT     06/01/21 Page 2 of 20
+                                                                     COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                        Flourtown, PA 19031
+Address of Plaintiff: ______________________________________________________________________________________________
+                                       780 Dedham Street, Suite 800, Canton, MA 02021
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      6/1/21
+DATE: __________________________________                     __________________________________________
+                                                                       ___
+                                                                        _____
+                                                                           ____
+                                                                              ____
+                                                                              ___
+                                                                              __ ________
+                                                                                       ___                                                 314179
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law
+                                                                            orn
+                                                                             rnney
+                                                                                ey-at-La
+                                                                                      L w / Pro SSe Plaintiff                                 Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+          Lane J. Schiff, Esquire
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      6/1/21
+DATE:__________________________________                     __________________________________________
+                                                                        __
+                                                                         ___
+                                                                           _____________                                                   314179
+                                                                                                                               __________________________________
+                                                                         Attorney-at-Law
+                                                                              ney-a
+                                                                                  at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+         Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 3 of 20
+
+
+                          IN THE UNITED STATES DISTRICT COURT
+                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                       CASE MANAGEMENT TRACK DESIGNATION FORM
+          JENNIFER HOLDREN                                                    CIVIL ACTION
+                                 PLAINTIFF,
+                            v.
+  COLLEGIUM PHARMACEUTICALS, INC.
+                                                                              NO.
+                                    DEFENDANT.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                                 ( )
+(b) Social Security- Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                    ( )
+(c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53.2.         ( )
+(d) Asbestos- Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                             ( )
+(e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                                ( )
+(f) Standard Management- Cases that do not fall into any one of the other tracks.                     ( X)
+
+             June 1, 2021
+                                                                        Plaintiff, Jennifer Holdren
+Date                                   Attori�                           Attorney for
+   (215) 545-7676                     (215) 565-2859                  schiff@consolelaw.com
+
+
+Telephone                              FAX Number                        E-Mail Address
+
+
+(Civ. 660) 10/02
+          Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 4 of 20
+
+
+
+
+                 IN THE UNITED STATES DISTRICT COURT FOR
+                   THE EASTERN DISTRICT OF PENNSYLVANIA
+_________________________________________
+                                          :
+JENNIFER HOLDREN                          :
+Flourtown, PA 19031                       :
+                                          :  CIVIL ACTION NO.
+                           Plaintiff,     :
+                                          :
+             v.                           :  JURY TRIAL DEMANDED
+                                          :
+COLLEGIUM PHARMACEUTICALS, INC.           :
+780 Dedham Street, Suite 800              :
+Canton, MA 02021                          :
+                                          :
+                           Defendant.     :
+_________________________________________ :
+
+                                          COMPLAINT
+
+   I. INTRODUCTION
+
+         Plaintiff, Jennifer Holdren, brings this action against her former employer, Collegium
+
+Pharmaceuticals, Inc. as a result of the invidious sex discrimination, retaliation, and hostile work
+
+environment to which she was subjected. Defendant’s discriminatory and retaliatory conduct
+
+violated Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000e, et seq. (“Title
+
+VII”), the Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”), and
+
+the Philadelphia Fair Practices Ordinance, as amended, Phila. Code §9-1101, et seq. (“PFPO”).
+
+Plaintiff seeks all damages, including economic loss, compensatory damages, punitive damages,
+
+attorneys’ fees and costs, and all other relief this Court deems appropriate.
+
+   II.        PARTIES
+
+         1.     Plaintiff, Jennifer Holdren, is a female individual, residing in Flourtown,
+
+Pennsylvania.
+
+         2.     Defendant, Collegium Pharmaceuticals, Inc., (“Defendant”) is a corporation,
+           Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 5 of 20
+
+
+
+
+maintaining a place of business located 780 Dedham Street, Suite 800, Canton, MA 02021.
+
+          3.      At all times material hereto, Defendant acted by and through its authorized agents,
+
+servants, workmen, and/or employees acting within the course and scope of their employment
+
+with Defendant and in furtherance of Defendant’s business.
+
+          4.      At all times material hereto, Defendant acted as an employer of Plaintiff within
+
+the meaning of the statutes which form the basis of this matter.
+
+          5.      At all times material hereto, Plaintiff was an employee of Defendant within the
+
+meaning of the statutes which form the basis of this matter.
+
+   III.         JURISDICTION AND VENUE
+
+          6.      The causes of action that form the basis of this matter arise under Title VII, the
+
+PHRA, and the PFPO.
+
+          7.      The District Court has jurisdiction over Count I (Title VII) pursuant to 28 U.S.C.
+
+§1331.
+
+          8.      The District Court has supplemental jurisdiction over Count II (PHRA) and Count
+
+III (PFPO) pursuant to 28 U.S.C. §1367.
+
+          9.      Venue is proper in the District Court under 28 U.S.C. §1391 because a substantial
+
+part of the events or omissions giving rise to the claim occurred within this District.
+
+          10.     On or about May 24, 2018 Plaintiff filed a Complaint with the Pennsylvania
+
+Human Relations Commission (“PHRC”), complaining of the acts of discrimination, retaliation,
+
+and harassment alleged herein. This complaint was cross-filed with the Equal Employment
+
+Opportunity Commission (“EEOC”).            Attached hereto, incorporated herein and marked as
+
+“Exhibit A” is a true and correct copy of the PHRC Complaint (with personal identifying
+
+information redacted).
+
+
+
+                                                   2
+           Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 6 of 20
+
+
+
+
+          11.     On or about March 3, 2021, the EEOC issued to Plaintiff a Notice of Right to Sue.
+
+Attached hereto, incorporated herein and marked as “Exhibit B” is a true and correct copy of that
+
+notice.
+
+          12.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+   IV.          FACTUAL ALLEGATIONS
+
+          13.     Plaintiff was employed by Defendant from on or about July 31, 2017 until on or
+
+about August 8, 2019.
+
+          14.     Plaintiff held the position of Therapeutic Specialist. In that position, she was
+
+responsible for selling prescription drugs to physicians.
+
+          15.     Plaintiff’s sales territory was Philadelphia South, and she worked throughout
+
+Philadelphia, Pennsylvania.
+
+          16.     Plaintiff consistently performed her job duties in a highly competent manner.
+
+          17.     On or about November 14, 2017, Plaintiff began reporting to David Young
+
+(male), Regional Sales Manager.
+
+          18.     Young subjected Plaintiff to sex discrimination and treated her differently and
+
+worse than his male direct reports.
+
+          19.     In or about December 2017, less than one (1) month after Plaintiff began
+
+reporting to Young, he inquired as to whether Plaintiff had been placed on a Performance
+
+Improvement Plan or a coaching plan and stated that Plaintiff would not succeed at Defendant.
+
+          20.     In or about January 2018, Young expressed hostility towards Plaintiff when she
+
+told him about a childcare conflict. Young did not similarly express hostility when a male
+
+employee had a childcare conflict.
+
+
+
+                                                   3
+          Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 7 of 20
+
+
+
+
+         21.   On or about January 24, 2018, Plaintiff complained to Marlo Manning, Human
+
+Resources, that Young was subjecting her to sex discrimination.
+
+         22.   Plaintiff additionally complained that other female employees have been
+
+subjected to similarly hostile treatment by Young.
+
+         23.   Defendant failed to take appropriate corrective and remedial action in response to
+
+Plaintiff’s complaint. As a result of Defendant’s failure, Plaintiff continued to be subjected to sex
+
+discrimination and was additionally subjected to retaliation.
+
+         24.   In or about early February 2018, Young ignored Plaintiff at the National Sales
+
+Meeting.
+
+         25.   In or about March of 2018, Young unjustifiably berated Plaintiff for her sales
+
+numbers and failed to recognize Plaintiff’s numerous accomplishments.
+
+         26.   On or about March 15, 2018, Young issued Plaintiff an unjustified negative field
+
+travel report, which is a report created after Young shadowed Plaintiff throughout a workday.
+
+         27.   On or about March 23, 2018, Young issued Plaintiff an unjustified 2017
+
+performance review rating of “partially met expectations.”
+
+         28.   The negative performance review resulted in no raise or stock options for
+
+Plaintiff.
+
+         29.   In or about April 2018, Plaintiff received her goals for the second quarter of 2018.
+
+Plaintiff’s goals and expectations were higher, and less feasible, than other employees’ goals and
+
+expectations in her region.
+
+         30.   On or about April 4, 2018, Plaintiff complained to Manning of sex discrimination
+
+and retaliation. Plaintiff further complained that she did not feel comfortable working with
+
+Young.
+
+
+
+                                                 4
+         Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 8 of 20
+
+
+
+
+       31.     Defendant failed to take appropriate corrective and remedial action in response to
+
+Plaintiff’s complaint. As a result of Defendant’s failure, Plaintiff continued to be subjected to
+
+sex discrimination and retaliation.
+
+       32.     On or about May 12, 2018, Plaintiff received another negative field travel report
+
+rating from Young.
+
+       33.     On May 24, 2018, Plaintiff filed a complaint with the PHRC and served a copy on
+
+Defendant.
+
+       34.     Following Plaintiff’s PHRC Complaint, Defendant informed Plaintiff that she
+
+would still report to and work with Young but would temporarily not be required to physically
+
+work in his presence.
+
+       35.     Defendant further informed Plaintiff that it would conduct an internal
+
+investigation into Plaintiff’s allegations of discrimination and retaliation.
+
+       36.     Defendant failed to take appropriate corrective and remedial action in response to
+
+Plaintiff’s complaint. As a result of Defendant’s failure, Plaintiff continued to be subjected to sex
+
+discrimination and retaliation.
+
+       37.     In or about September 2018, Young again ignored Plaintiff at the National Sales
+
+Meeting.
+
+       38.     In or about January 2019, Young interfered with Plaintiff’s ability to perform her
+
+sales job duties by directing a Managed Care Director to not work with Plaintiff.
+
+       39.     In or about July 2019, Young unjustly criticized Plaintiff and spoke to her in a
+
+hostile manner after Plaintiff expressed concern with a certain pharmaceutical promotion that
+
+Defendant was offering to its customers.
+
+       40.     On or about August 7, 2019, Manning informed Plaintiff that Defendant’s internal
+
+
+
+                                                  5
+          Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 9 of 20
+
+
+
+
+investigation concluded that Young had not subjected her to discrimination or retaliation.
+
+         41.   Plaintiff informed Manning that Young had continued to treat her in an unlawful
+
+manner.
+
+         42.   Manning informed Plaintiff that she would again have to physically work with
+
+Young.
+
+         43.   On or about August 8, 2019, Plaintiff’s employment was terminated.
+
+         44.   Plaintiff has been discriminated against because of her sex, retaliated against
+
+because of her complaints, and subjected to a hostile work environment.
+
+         45.   Plaintiff’s sex was a determinative and motivating factor in the discriminatory
+
+treatment outlined herein.
+
+         46.   Plaintiff’s engaging in protected activity was a determinative and motivating
+
+factor in the retaliatory treatment alleged herein, including, without limitation, treating her in a
+
+hostile manner, ignoring her, issuing her unjustified negative field reports, issuing her a negative
+
+performance review rating, providing her with higher performance goals and expectations, and
+
+instructing an employee not to work with her.
+
+         47.   Defendant’s conduct would dissuade a reasonable employee from making
+
+complaints.
+
+         48.   Defendant failed to prevent or address the discriminatory and retaliatory conduct
+
+referred to herein and further failed to take corrective and/or remedial measures to make the
+
+workplace free of discriminatory and retaliatory conduct.
+
+         49.   Plaintiff was subjected to severe and/or pervasive conduct that interfered with her
+
+ability to perform her job duties and was not welcomed by Plaintiff, thereby creating a hostile
+
+work environment.
+
+
+
+                                                 6
+        Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 10 of 20
+
+
+
+
+        50.     The conduct to which Plaintiff was subjected was so severe and/or pervasive that
+
+a reasonable person in Plaintiff’s position would find the work environment to be hostile and/or
+
+abusive.
+
+        51.     Plaintiff’s sex and/or engaging in protected activity was a motivating and
+
+determinative factor in the hostile work environment to which she was subjected.
+
+        52.     As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendant, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of
+
+self-esteem, mental anguish, and loss of life’s pleasures.
+
+        53.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of the unlawful behavior complained of herein unless and until this
+
+Court grants the relief requested herein.
+
+                                     COUNT I – TITLE VII
+
+        54.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        55.     By committing the foregoing acts of discrimination, retaliation, and harassment
+
+against Plaintiff, Defendant violated Title VII.
+
+        56.     Defendant acted willfully and intentionally, and with malice and/or reckless
+
+indifference to Plaintiff’s protected rights, thereby warranting the imposition of punitive
+
+damages.
+
+        57.     As a direct and proximate result of Defendant’s violation of Title VII, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        58.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+
+
+                                                   7
+        Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 11 of 20
+
+
+
+
+monetary damages as a result of Defendant’s violations of Title VII unless and until this Court
+
+grants the relief requested herein.
+
+        59.     No previous application has been made for the relief requested herein.
+
+                                       COUNT II – PHRA
+
+        60.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        61.     By committing the foregoing acts of discrimination, retaliation, and harassment
+
+against Plaintiff, Defendant violated the PHRA.
+
+        62.     As a direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+        63.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s violations of the PHRA unless and until this Court
+
+grants the relief requested herein.
+
+        64.     No previous application has been made for the relief requested herein.
+
+                                      COUNT III – PFPO
+
+        65.     Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+        66.     By committing the foregoing acts of discrimination, retaliation, and harassment
+
+against Plaintiff, Defendant violated the PFPO.
+
+        67.     Said violations warrant the imposition of punitive damages.
+
+        68.     As a direct and proximate result of Defendant’s violation of the PFPO, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+
+
+                                                  8
+        Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 12 of 20
+
+
+
+
+and costs.
+
+        69.      Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s violations of the PFPO unless and until this Court
+
+grants the relief requested herein.
+
+        70.      No previous application has been made for the relief requested herein.
+
+                                               RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s unlawful conduct, and specifically prays that this Court grant the following relief to
+
+Plaintiff by:
+
+        (a) declaring the acts and practices complained of herein to be in violation of Title VII;
+
+        (b) declaring the acts and practices complained of herein to be in violation of the PHRA;
+
+        (c) declaring the acts and practices complained of herein to be in violation of the PFPO;
+
+        (d) enjoining and permanently restraining the violations alleged herein;
+
+        (e) entering judgment against Defendant and in favor of Plaintiff in an amount to be
+
+              determined;
+
+        (f) awarding damages to make Plaintiff whole for all lost earnings, earning capacity and
+
+              benefits, past and future, which Plaintiff has suffered or may suffer as a result of
+
+              Defendant’s unlawful conduct;
+
+        (g) awarding back pay and front pay;
+
+        (h) awarding compensatory damages to Plaintiff for past and future pain and suffering,
+
+              emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which
+
+              Plaintiff has suffered or may suffer as a result of Defendant’s unlawful conduct;
+
+        (i) awarding punitive damages to Plaintiff;
+
+
+
+                                                   9
+    Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 13 of 20
+
+
+
+
+   (j) awarding Plaintiff such other damages and relief as is appropriate under Title VII, the
+
+       PHRA, and the PFPO;
+
+      (k) awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+        attorneys’ fees; and
+
+   (l) granting such other and further relief as this Court may deem just, proper, or equitable
+
+       including other equitable and injunctive relief providing restitution for past violations
+
+       and preventing future violations.
+
+
+
+                                                  CONSOLE MATTIACCI LAW, LLC
+
+
+Dated: June 1, 2021                        By:           _______________________
+                                                         Lane J, Schiff, Esquire
+                                                         1525 Locust St., 9th Floor
+                                                         Philadelphia, PA 19102
+                                                         (215) 545-7676
+
+                                                         Attorney for Plaintiff,
+                                                         Jennifer Holdren
+
+
+
+
+                                             10
+Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 14 of 20
+
+
+
+
+  EXHIBIT A
+Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 15 of 20
+Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 16 of 20
+Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 17 of 20
+Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 18 of 20
+Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 19 of 20
+
+
+
+
+  EXHIBIT B
+                     Case 2:21-cv-02473-GEKP Document 1 Filed 06/01/21 Page 20 of 20
+ EEOC Form 161-B (11/2020)                U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                         NOTICE OF RIGHT TO SUE (ISSUED ON REQUEST)
+To:     Jennifer Holdren                                                              From:    Philadelphia District Office
+       REDACTED                                                                                801 Market Street
+        Flourtown, PA 19031                                                                    Suite 1000
+                                                                                               Philadelphia, PA 19107
+
+                  On behalf of person(s) aggrieved whose identity is
+                  CONFIDENTIAL (29 CFR §1601.7(a))
+
+ EEOC Charge No.                                         EEOC Representative                                           Telephone No.
+
+                                                         Kurt Jung
+ 17F-2019-60341                                          State, Local & Tribal Program Manager                         (267) 589-9749
+                                                                                   (See also the additional information enclosed with this form.)
+NOTICE TO THE PERSON AGGRIEVED:
+Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act (ADA), or the Genetic Information Nondiscrimination
+Act (GINA): This is your Notice of Right to Sue, issued under Title VII, the ADA or GINA based on the above-numbered charge. It has
+been issued at your request. Your lawsuit under Title VII, the ADA or GINA must be filed in a federal or state court WITHIN 90 DAYS
+of your receipt of this notice; or your right to sue based on this charge will be lost. (The time limit for filing suit based on a claim under
+state law may be different.)
+
+        X         More than 180 days have passed since the filing of this charge.
+
+                  Less than 180 days have passed since the filing of this charge, but I have determined that it is unlikely that the EEOC will
+                  be able to complete its administrative processing within 180 days from the filing of this charge.
+        X         The EEOC is terminating its processing of this charge.
+
+                  The EEOC will continue to process this charge.
+
+Age Discrimination in Employment Act (ADEA): You may sue under the ADEA at any time from 60 days after the charge was filed until
+90 days after you receive notice that we have completed action on the charge. In this regard, the paragraph marked below applies to
+your case:
+                  The EEOC is closing your case. Therefore, your lawsuit under the ADEA must be filed in federal or state court WITHIN
+                  90 DAYS of your receipt of this Notice. Otherwise, your right to sue based on the above-numbered charge will be lost.
+
+                  The EEOC is continuing its handling of your ADEA case. However, if 60 days have passed since the filing of the charge,
+                  you may file suit in federal or state court under the ADEA at this time.
+
+Equal Pay Act (EPA): You already have the right to sue under the EPA (filing an EEOC charge is not required.) EPA suits must be brought
+in federal or state court within 2 years (3 years for willful violations) of the alleged EPA underpayment. This means that backpay due for
+any violations that occurred more than 2 years (3 years) before you file suit may not be collectible.
+
+If you file suit, based on this charge, please send a copy of your court complaint to this office.
+
+                                                                         On behalf of the Commission
+
+
+
+                                                                                                                            03/03/2021
+ Enclosures(s)                                                         Jamie R. Williamson                                   (Date Issued)
+                                                                         District Director
+
+ cc:          COLLEGIUM PHARMACEUTICAL, INC.
+
+              Rahul Munshi, Esq.                                                      Director of Human Resources
+              Console Mattiacci Law                                                   Collegium Pharmaceutical, Inc.
+              1525 Locust Street, 9th Floor                                           780 Dedham Street, Suite 800
+              Philadelphia, PA 19102                                                  Canton, MA 02021
+              munshi@consolelaw.com
+              buccieri@consolelaw.com
+

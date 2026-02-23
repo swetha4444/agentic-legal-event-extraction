@@ -1,0 +1,1445 @@
+Source URL: https://www.courtlistener.com/docket/69221813/1/oreilly-phd-v-the-institute-for-cancer-research/
+Title: Complaint (Attorney) – #1 in O'REILLY, Ph.D. v. THE INSTITUTE FOR CANCER RESEARCH (E.D. Pa., 2:24-cv-05315) – CourtListener.com
+
+       Case 2:24-cv-05315-KSM            Document 1       Filed 10/03/24      Page 1 of 46
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                               :
+ ALANA M. O’REILLY, Ph.D.,                     :
+                                               :
+                                  Plaintiff,   :
+                                               :
+        v.                                     : CIVIL ACTION NO.
+                                               :
+                                               :
+                                               :
+ THE INSTITUTE FOR CANCER                      :
+ RESEARCH, TEMPLE UNIVERSITY                   : JURY TRIAL DEMANDED
+ HEALTH SYSTEM, TEMPLE                         :
+ UNIVERSITY, and JONATHAN                      :
+ CHERNOFF, MD, Ph.D.,                          :
+                                               :
+                               Defendants.     :
+
+                                          COMPLAINT
+
+       Plaintiff, Alana M. O’Reilly, Ph.D. (“Plaintiff”), by and through her counsel, files this
+
+Complaint and asserts claims of gender discrimination, including sexual harassment, and
+
+retaliation against The Institute For Cancer Research d/b/a Fox Chase Cancer Center (“Fox
+
+Chase”), Temple University Health System (“TUHS”), Temple University (“Temple”), and
+
+Jonathan Chernoff, MD, Ph.D.
+
+                                        INTRODUCTION
+
+       Fox Chase, TUHS, and Temple are recognized as institutions of excellence with respect
+
+to cancer research, medical care, and higher education, respectively. In their own policies, and in
+
+communications to thousands of their employees in Philadelphia, Fox Chase, TUHS, and Temple
+
+represent that they will comply with all applicable federal, state, and local laws prohibiting
+
+sexual harassment and retaliation in the workplace. However, when presented with hard evidence
+
+that Jonathan Chernoff, the Fox Chase Cancer Center Director, repeatedly subjected Alana
+
+
+
+                                                 1
+       Case 2:24-cv-05315-KSM            Document 1       Filed 10/03/24      Page 2 of 46
+
+
+
+
+O’Reilly, a subordinate female scientist, to sexual harassment and retaliation, they failed to take
+
+responsibility for the civil rights violations, denied the conduct ever took place, and refused to do
+
+anything to prevent it from happening in the future.
+
+        Dr. O’Reilly is a scientist whose career has been devoted to the eradication of cancer and
+
+the education of future scientists. Dr. O’Reilly’s attention should be focused on her research, her
+
+students, and her family. Instead, since the institutions which employ her knowingly and
+
+willfully failed to prevent and correct sexual harassment and retaliation in her workplace, Dr.
+
+O’Reilly has been forced file this lawsuit so that a jury of her peers can hold these Defendants
+
+accountable for their blatant violations of the law. In addition to holding Defendants accountable
+
+for their knowing violations of the law, Dr. O’Reilly has filed this Complaint to seek
+
+compensation for the harms Defendants have caused her, and to ensure that sexual harassment
+
+and retaliation does not happen to her or to any other women at Fox Chase, TUHS, or Temple in
+
+the future.
+
+                                 JURISDICTION AND VENUE
+
+        1.     This action for discrimination and retaliation is authorized and instituted pursuant
+
+to Title VII of the Civil Rights Act of 1964 ("Title VII"), 42 U.S.C. § 2000e, et seq., as amended.
+
+        2.     This Court has original jurisdiction pursuant to 28 U.S.C. § 1331.
+
+        3.     Pursuant to 28 U.S.C. § 1367, this Court has supplemental jurisdiction with
+
+respect to Plaintiff’s claims for gender discrimination and retaliation under the Philadelphia Fair
+
+Practices Ordinance (“PFPO”), Phila. Code § 9-1101, et seq.
+
+        4.     This case is not subject to compulsory arbitration because Plaintiff seeks
+
+injunctive relief and the amount in controversy exceeds the jurisdictional amount for arbitration
+
+of One Hundred Fifty Thousand Dollars ($150,000), exclusive of interest and costs.
+
+
+
+                                                 2
+        Case 2:24-cv-05315-KSM          Document 1        Filed 10/03/24       Page 3 of 46
+
+
+
+
+        5.      Plaintiff has exhausted her administrative remedies with respect to her
+
+discrimination and retaliation claims pursuant to Title VII and PFPO since more than one (1)
+
+year has passed since she filed an administrative complaint on August 31, 2023. Such
+
+administrative complaint was filed with the Philadelphia Commission on Human Relations
+
+(“PCHR”), and dual filed with the Equal Employment Opportunity Commission (“EEOC”).
+
+Attached hereto, incorporated herein, and marked as “Exhibit 1” is a true and correct copy of the
+
+PCHR administrative complaint.
+
+        6.      The PCHR issued its Dismissal and Notice of Rights on September 24, 2024.
+
+Attached hereto, incorporated herein, and marked as “Exhibit 2” is a true and correct copy of that
+
+Notice. As a result, Plaintiff has adequately exhausted her administrative remedies.
+
+        7.      Venue is properly invoked pursuant to 29 U.S.C. § 1391(b) because the actions
+
+complained of herein occurred within the jurisdictional limit of this Court.
+
+                                             PARTIES
+
+        8.      Plaintiff, Alana M. O’Reilly, Ph.D., is an adult female individual who resides in
+
+Pennsylvania.
+
+        9.      Fox Chase is a private non-profit cancer research and education institution located
+
+in Philadelphia, Pennsylvania.
+
+        10.     At all times relevant to this Complaint, Fox Chase is and was Dr. O’Reilly’s
+
+employer within the meaning of Title VII and the PFPO.
+
+        11.     At all times relevant to this Complaint, Fox Chase has been a subsidiary of
+
+TUHS.
+
+        12.     At all times relevant to this Complaint, TUHS is and was Dr. O’Reilly’s employer
+
+within the meaning of Title VII and the PFPO.
+
+
+
+                                                 3
+       Case 2:24-cv-05315-KSM            Document 1       Filed 10/03/24      Page 4 of 46
+
+
+
+
+       13.      At all times relevant to this Complaint, TUHS has been affiliated with Temple.
+
+       14.      At all times relevant to this Complaint, Temple is and was Dr. O’Reilly’s
+
+employer within the meaning of Title VII and the PFPO.
+
+       15.      In the alternative, to the extent they are not Dr. O’Reilly’s employers as defined
+
+by Title VII and/or the PFPO, TUHS and/or Temple have aided and abetted the other
+
+Defendants’ discrimination and retaliation against Dr. O’Reilly in violation of the PFPO as set
+
+forth herein.
+
+       16.      Defendant, Jonathan Chernoff, MD, Ph.D., is an employee of Fox Chase, and
+
+currently serves as Fox Chase’s Senior Vice President and Cancer Center Director.
+
+       17.      Upon information and belief, since his promotion to Cancer Center Director in
+
+2021, Defendant Chernoff has reported to and has been supervised by representatives of TUHS
+
+and/or Temple.
+
+       18.      At all times relevant to this Complaint, Defendant Chernoff was and is a “person”
+
+who is legally prohibited from retaliating against Dr. O’Reilly pursuant to the PFPO.
+
+       19.      Defendants’ discriminatory and retaliatory actions as described herein took place
+
+within Philadelphia, Pennsylvania.
+
+       20.      At all times relevant to this Complaint, Defendants Fox Chase, TUHS, and
+
+Temple acted by and through their authorized agents and/or employees within the course and
+
+scope of their employment.
+
+
+
+
+                                                 4
+       Case 2:24-cv-05315-KSM           Document 1        Filed 10/03/24      Page 5 of 46
+
+
+
+
+                                  FACTUAL ALLEGATIONS
+
+Dr. O’Reilly’s Educational and Employment History
+
+       21.     Dr. O’Reilly holds a B.A. in Chemistry from the University of Pennsylvania, and
+
+a Ph.D. in Cell and Developmental Biology from Harvard University. She completed her
+
+postdoctoral work at Harvard University and Stanford University.
+
+       22.     In 2007, Dr. O’Reilly joined Fox Chase as an Assistant Professor.
+
+       23.     Dr. O’Reilly’s research has been primarily focused on understanding how diet
+
+impacts the genes and signals that cause cancer and related illnesses.
+
+       24.     Since 2012, Dr. O’Reilly has also served as a Director for the Immersion Science
+
+Program (“ISP”) at Fox Chase, which is dedicated to identifying and training future scientists
+
+who share a commitment to prevail over cancer. The ISP runs programs for high school students
+
+to conduct research at Fox Chase alongside professional scientists and educators, as well as
+
+programs for middle and high school teachers who are interested in creating an ISP Teaching
+
+Lab in their own classrooms.
+
+       25.     In 2014, in recognition of the quality of her research, her recognition in the field,
+
+and her contributions to the Intellectual life at Fox Chase, Fox Chase promoted Dr. O’Reilly to
+
+Associate Professor, Laboratory Investigator, with tenure.
+
+       26.     In late July 2023, Dr. O’Reilly and Dara Ruiz-Whalen, her partner in the ISP,
+
+received the Viktor Hamburger Outstanding Educator Prize awarded by the Society for
+
+Developmental Biology.
+
+Defendant Chernoff Subjected Dr. O’Reilly to Sexual Harassment Starting in 2014
+
+       27.     In May 2014, Dr. O’Reilly reported a scary and threatening sexual harassment
+
+incident involving a housekeeping employee. In the wake of that experience, Defendant
+
+
+
+                                                 5
+        Case 2:24-cv-05315-KSM            Document 1       Filed 10/03/24    Page 6 of 46
+
+
+
+
+Chernoff, who was Dr. O’Reilly’s direct supervisor at the time, took advantage of the situation
+
+and began subjecting her to sexual harassment as well.
+
+        28.        In the summer and into the autumn of 2014, Defendant Chernoff’s sexual
+
+harassment of Dr. O’Reilly included sending her numerous personal messages about his feelings
+
+for her and other women, including sending her a poem that he decided not to send to a former
+
+mistress, but was sending to her instead; writing to her because the thunder and lightning made
+
+him reflective; telling her of behavior towards him from a pretty young woman what he
+
+perceived to be flirtatious; and referencing that he was seeking donations from all his former
+
+girlfriends.
+
+        29.        By mid-October 2014, Dr. O’Reilly had made it clear in writing to Defendant
+
+Chernoff that his communications to her were inappropriate and were interfering with her work
+
+environment.
+
+        30.        Thereafter, Defendant Chernoff’s messages continued and became more
+
+demanding, including telling Dr. O’Reilly that he was upset that she was not responding to his
+
+messages; that her refusal to respond to him reminded him of being rejected by his former
+
+mistress; and that he thought she was special, something he realized after she had been assaulted
+
+earlier in the year.
+
+        31.        Defendant Chernoff also demanded that Dr. O’Reilly meet with him in person.
+
+When she refused, Defendant Chernoff insisted that he would stop by her lab because he wanted
+
+to better understand her work, and that her refusals to communicate with him were making his
+
+job “difficult.”
+
+
+
+
+                                                   6
+       Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24      Page 7 of 46
+
+
+
+
+       32.     During that time, Dr. O’Reilly told Defendant Chernoff multiple times, including
+
+in writing, that his behavior was unwelcome and had to stop because it was interfering with her
+
+ability to work.
+
+       33.     When Defendant Chernoff’s personal messages continued even after she notified
+
+him of their impact on her work environment, Dr. O’Reilly reported his conduct to another
+
+supervisor, Anne Skalka.
+
+       34.     As a result of the complaint, and as approved by Dr. Skalka, Dr. O’Reilly notified
+
+Defendant Chernoff that she would only communicate with him about work-related issues, and
+
+he was not to contact her outside of work.
+
+       35.     Despite Dr. O’Reilly’s notice to Defendant Chernoff that she would not
+
+communicate with him other than with respect to work-related matters, Defendant Chernoff
+
+continued to send her messages to her non-work email about personal matters, including on
+
+Christmas morning.
+
+       36.     Defendant Chernoff’s conduct towards Dr. O’Reilly in 2014 constituted illegal
+
+sexual harassment.
+
+Fox Chase, TUHS, and Temple Refused to Correct Chernoff’s Misconduct
+
+       37.     To address Defendant Chernoff’s threatening conduct, Dr. O’Reilly contacted the
+
+Title IX officer at Temple in late 2014 to report her concerns. Dr. O’Reilly was redirected to
+
+speak to Fay Trachtenberg, Esquire, who worked in Temple’s Office of University Counsel.
+
+       38.     After Dr. O’Reilly provided details of Defendant Chernoff’s behaviors, Ms.
+
+Trachtenberg advised her that Defendant Chernoff’s conduct constituted “quid pro quo” sexual
+
+harassment, and that he would be “fired by 8am” the next day.
+
+
+
+
+                                                7
+       Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24      Page 8 of 46
+
+
+
+
+       39.     However, Defendants Fox Chase, TUHS and/or Temple did not terminate
+
+Defendant Chernoff for his unlawful sexual harassment of Dr. O’Reilly.
+
+       40.     Thereafter, Dr. O’Reilly hired an attorney, who facilitated a meeting with Ms.
+
+Trachtenberg and Robert Beck, a Fox Chase Deputy Director, on January 7, 2015.
+
+       41.     At the meeting, Ms. Trachtenberg advised Dr. O’Reilly that Temple would not
+
+terminate Defendant Chernoff for his illegal misconduct towards her because he was
+
+instrumental in writing the institution’s “core grant,” a partnership with the National Cancer
+
+Institute that was funded by the National Institutes of Health (“NIH”). Instead, according to Ms.
+
+Trachtenberg, Temple would reassign Dr. O’Reilly to report to Dr. Beck, and hope that
+
+Defendant Chernoff would realize his error and correct his behavior.
+
+       42.     During the meeting on January 7, 2015, Ms. Trachtenberg also taunted Dr.
+
+O’Reilly, letting her know that if she tried to pursue her legal right to work in an environment
+
+free from discriminatory harassment, Temple had “deep pockets,” and it could withstand any
+
+legal challenge.
+
+       43.     However, Ms. Trachtenberg later confirmed in writing that Temple and its
+
+affiliated entities had taken the following steps in response to Dr. O’Reilly’s sexual harassment
+
+complaint against Dr. Chernoff: (1) reassigned Dr. O’Reilly to Dr. Beck as her new supervisor so
+
+that she would no longer report to Defendant Chernoff; (2) committed that Dr. Chernoff would
+
+no longer have any control or influence over any decisions having to do with Dr. O’Reilly’s job
+
+at Fox Chase; and (3) counseled Dr. Chernoff to “avoid all communications, both professional
+
+and personal,” with Dr. O’Reilly.
+
+
+
+
+                                                 8
+       Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24     Page 9 of 46
+
+
+
+
+       44.     Despite these commitments to protect Dr. O’Reilly from Defendant Chernoff’s
+
+continued harassment and retaliation for her complaints about him, Defendant Chernoff
+
+continued to have a detrimental impact on her career.
+
+       45.     By way of example only, later the same year, Defendant Chernoff warned Dr.
+
+O’Reilly that he would not be able to provide support for her postdoctoral student unless she
+
+communicated with him directly about her.
+
+       46.     At the time, Dr. O’Reilly elected not to pursue formal legal action against
+
+Defendants for many reasons, including the cost of such litigation, the concern that public
+
+accusations would further harm her career, and her fear that such a step could expose her young
+
+children to the risk of harm.
+
+       47.     In November 2021, Fox Chase, TUHS and/or Temple promoted Defendant
+
+Chernoff to Cancer Center Director, the highest research position within Fox Chase. By that
+
+time, Dr. Beck had already retired and stepped back from his duties at Fox Chase.
+
+       48.     At the time of Defendant Chernoff’s promotion to Cancer Center Director, the
+
+leadership of Fox Chase, TUHS, and/or Temple knew that Defendant Chernoff had subjected Dr.
+
+O’Reilly to sexual harassment and that they had committed that Defendant Chernoff would have
+
+no influence over her job at Fox Chase. Nevertheless, these institutional leaders placed
+
+Defendant Chernoff back in Dr. O’Reilly’s chain of command and did nothing to prevent
+
+Defendant Chernoff from discriminating or retaliating against her in this new role.
+
+       49.     The leaders at Fox Chase, TUHS, and/or Temple who decided to promote
+
+Defendant Chernoff without taking any steps to protect Dr. O’Reilly from further sexual
+
+harassment or retaliation did so with the knowledge that they were violating Dr. O’Reilly’s legal
+
+right to work in an environment free from sexual harassment and retaliation.
+
+
+
+                                                9
+      Case 2:24-cv-05315-KSM             Document 1       Filed 10/03/24       Page 10 of 46
+
+
+
+
+       50.       Upon information and belief, in the years that followed Dr. O’Reilly’s initial
+
+complaint about him, Defendant Chernoff made or influenced numerous decisions about the
+
+trajectory of Dr. O’Reilly’s career at Fox Chase that were motivated by discrimination and/or
+
+retaliation, including but not limited to decisions about her compensation and funding
+
+opportunities.
+
+       51.       Upon information and belief, Defendant Chernoff did not engage in overt sexual
+
+harassment of Dr. O’Reilly for many years because a fellow professor and colleague at Fox
+
+Chase, Jeffrey Peterson, was willing to stand up to Defendant Chernoff about his behavior.
+
+Defendant Chernoff’s Discriminatory Harassment of Dr. O’Reilly in 2023
+
+       52.       Tragically, in early January 2023, Dr. Peterson died at age 53 from cancer.
+
+       53.       Within weeks of Dr. Peterson’s passing, Defendant Chernoff made the decision to
+
+again subject Dr. O’Reilly to quid pro quo sexual harassment knowing it violated the law, his
+
+employer’s policies, and the explicit instructions he had been given in 2015.
+
+       54.       As the head of the Cancer Center, Defendant Chernoff decided to test the waters
+
+to see if he could get away with sexually harassing Dr. O’Reilly again now that he was in charge
+
+and Dr. Peterson was no longer present to object to his conduct.
+
+       55.       On January 18, 2023, Dr. O’Reilly made her annual presentation about her
+
+research at a faculty seminar during which she paid tribute to Dr. Peterson.
+
+       56.       Defendant Chernoff decided to attend Dr. O’Reilly’s annual presentation for the
+
+first time since he had been instructed not to communicate with her in 2015.
+
+       57.       In attending Dr. O’Reilly’s presentation to faculty, Defendant Chernoff
+
+knowingly and willfully disregarded his employers’ prior instructions to “avoid all
+
+communications, both professional and personal,” with Dr. O’Reilly.
+
+
+
+                                                  10
+      Case 2:24-cv-05315-KSM              Document 1    Filed 10/03/24      Page 11 of 46
+
+
+
+
+       58.      Soon thereafter, Dr. O’Reilly learned from other colleagues that Dr. Chernoff had
+
+been taking pictures of her with his phone camera during her presentation. In fact, Defendant
+
+Chernoff was observed zooming in on and scrolling through the photos he had taken of Dr.
+
+O’Reilly while sitting in the audience.
+
+       59.      The colleagues who reported Defendant Chernoff’s behavior during the
+
+presentation to Dr. O’Reilly considered his conduct to be shocking and unsettling.
+
+       60.      On Monday, January 23, 2023, Defendant Chernoff sent an email to Dr. O’Reilly
+
+in which he referenced being in the audience during her presentation the week prior, praised her
+
+work, and asked that she work directly with him on a grant application even though he had more
+
+than sufficient support from other staff members to complete the application.
+
+       61.      As with his attendance at her presentation, Defendant Chernoff’s decision to
+
+email Dr. O’Reilly and ask that she work with him was a knowing and willful abuse of his power
+
+as Cancer Center Director, a violation of both the law and his employer’s policies, and a blatant
+
+breach of his employers’ prior instructions not to communicate with Dr. O’Reilly.
+
+Dr. O’Reilly’s Internal Complaint About Chernoff’s Discriminatory Harassment in 2023
+
+       62.      On January 25, 2023, Dr. O’Reilly met in person with her direct supervisors,
+
+David Wiest, Ph.D., Scientific Director of the Research Institute, and Erica Golemis, Ph.D,
+
+Deputy Chief Science Officer, to report Defendant Chernoff’s behavior.
+
+       63.      The meeting with her supervisors in Dr. Wiest’s office included the following
+
+communications, among others, after Dr. O’Reilly informed them of Defendant Chernoff’s
+
+recent conduct:
+
+             a. Dr. Golemis initially disputed that Defendant Chernoff was in the audience on
+                January 18, 2023, because she thought he was participating via Zoom.
+
+
+
+
+                                                11
+        Case 2:24-cv-05315-KSM           Document 1        Filed 10/03/24     Page 12 of 46
+
+
+
+
+              b. Dr. Wiest confirmed that Defendant Chernoff was sitting a few seats away from
+                 him during Dr. O’Reilly’s presentation.
+
+              c. Dr. Wiest was not aware of any restrictions on Defendant Chernoff’s contact with
+                 Dr. O’Reilly.
+
+              d. Dr. Golemis acknowledged that she knew that Defendant Chernoff was restricted
+                 from having contact with Dr. O’Reilly, although that was not something they had
+                 ever discussed.
+
+              e. When Dr. Wiest asked to be filled in on the history of the situation, Dr. O’Reilly
+                 explained the circumstances from 2014-2015 (as described above), after which
+                 Dr. Wiest asked: “Why is [Defendant Chernoff] still here?”
+
+              f. Dr. O’Reilly described the position taken by the Temple Office of University
+                 Counsel at the time, and confirmed that she did not think it would be useful to
+                 contact the legal department this time, despite Dr. Golemis’ suggestion that they
+                 do so.
+
+              g. Dr. O’Reilly confirmed that she just wanted to be treated like her male faculty
+                 colleagues and to have access to funding, which was difficult without adequate
+                 institutional support.
+
+              h. At the conclusion of the meeting, Dr. Wiest assured Dr. O’Reilly that she had “his
+                 word” that Defendant Chernoff would not bother her again.
+
+        64.      During the meeting on January 25, 2023, Dr. O’Reilly questioned how Dr. Wiest
+
+could protect her since he also reported to Dr. Chernoff. In that context, Dr. Wiest compared the
+
+situation to one in which his children want to take a friend out to do something, and they are
+
+independent enough to make the plan and decide what to do, but they have to come to him for
+
+the money to pay for it. Dr. Wiest said that was how it was at Fox Chase, and referring to
+
+Defendant Chernoff said: “He’s your daddy.”
+
+        65.      Dr. O’Reilly’s report to Dr. Wiest and Dr. Golemis on January 25, 2023,
+
+constituted protected conduct for purposes of her retaliation claim pursuant to Title VII and the
+
+PFPO.
+
+
+
+
+                                                  12
+       Case 2:24-cv-05315-KSM           Document 1        Filed 10/03/24       Page 13 of 46
+
+
+
+
+       66.     Pursuant to the Fox Chase and TUHS Policy against Workplace Harassment, Dr.
+
+Wiest and Dr. Golemis were obligated to notify Human Resources of Dr. O’Reilly’s harassment
+
+complaint.
+
+Defendants’ Continued Discrimination and Retaliation Against O’Reilly
+
+       67.     On March 20, 2023, Dr. Wiest forwarded an email to all faculty identifying
+
+federal funding opportunities.
+
+       68.     Dr. O’Reilly wrote back to Dr. Wiest immediately to confirm that the Research
+
+with Activities Related to Diversity (“ReWARD”) grant opportunity with the NIH might be ideal
+
+for her, and that it would require an institutional Letter of Support. Dr. O’Reilly asked Dr. Wiest
+
+to confirm that it was feasible for her to obtain the Letter of Support required for the grant before
+
+she applied.
+
+       69.     As is true for all Associate Professors with tenure at Fox Chase, Dr. O’Reilly
+
+must secure funding, primarily from outside sources, to support fifty percent (50%) of her salary
+
+and benefits, and the expenses of her laboratory to retain her employment.
+
+       70.     At the time of her inquiry about the ReWARD grant opportunity, Dr. O’Reilly’s
+
+then current grant (an R21 from the NIH) was scheduled to be in place until April 23, 2024.
+
+       71.     A few days later, on March 23, 2023, Dr. Wiest confirmed in an email back to Dr.
+
+O’Reilly that the ReWARD grant would be a “great opportunity” for her, but that he was unable
+
+to convince the “institution” to provide support “as they felt there were other initiatives that were
+
+of a higher priority.” Dr. Wiest also said he was “sorry.”
+
+       72.     Without an institutional Letter of Support for her application for the ReWARD
+
+grant, Dr. O’Reilly was unable to meet the initial deadline on June 5, 2023.
+
+
+
+
+                                                 13
+       Case 2:24-cv-05315-KSM           Document 1        Filed 10/03/24      Page 14 of 46
+
+
+
+
+       73.      Dr. Wiest’s assertion that there were other initiatives at Fox Chase that were of a
+
+higher priority than the ReWARD grant opportunity and that such assessment motivated the
+
+decision to deny her request for the Letter of Support were false.
+
+       74.      Dr. Wiest later confirmed to Dr. O’Reilly that Defendant Chernoff made or
+
+participated in the decision to deny her request for the institutional Letter of Support.
+
+       75.      Defendants denied Dr. O’Reilly’s request for a Letter of Support for her
+
+ReWARD grant application because she refused Defendant Chernoff’s requests that she work
+
+with and/or interact with him.
+
+       76.      Defendants denied Dr. O’Reilly’s request for a Letter of Support for her
+
+ReWARD grant application in retaliation for the complaint she made to her supervisors about
+
+Defendant Chernoff’s sexual harassment of her on January 25, 2023.
+
+       77.      Defendants’ denial of Dr. O’Reilly’s request for a Letter of Support on March 23,
+
+2023, was a knowing and willful violation of Dr. O’Reilly’s right to be free from sexual
+
+harassment and retaliation, a violation of Defendants’ own policies, and a blatant breach of her
+
+employers’ prior commitment that Defendant Chernoff would not have any influence on her job
+
+at Fox Chase.
+
+       78.      Defendants’ decision to deny Dr. O’Reilly’s request for a routine Letter of
+
+Support for a grant application, which was confirmed in writing on March 23, 2023, illegally
+
+jeopardized her external grant funding, her continued employment, her career, and her
+
+livelihood.
+
+       79.      In early August 2023, when Fox Chase included a notice in its daily news
+
+communication to all staff that Dr. O’Reilly and Ms. Ruiz-Whalen, her partner in the ISP, had
+
+been awarded the Viktor Hamburger Outstanding Educator Prize by the Society for
+
+
+
+                                                 14
+         Case 2:24-cv-05315-KSM         Document 1       Filed 10/03/24      Page 15 of 46
+
+
+
+
+Developmental Biology, Dr. Wiest sent Dr. O’Reilly a congratulatory message to her about the
+
+award.
+
+         80.   In email responses on August 2 and 11, 2023, Dr. O’Reilly reconfirmed to Dr.
+
+Wiest that she intended to apply for the ReWARD grant by the next submission deadline, which
+
+was October 5, 2023, and asked that he confirm that an institutional Letter of Support for the
+
+grant would be forthcoming.
+
+         81.   The same day, Dr. Wiest acknowledged Dr. O’Reilly’s intent, his awareness of
+
+the requirements for the Letter of Support, and his plans to consult with a colleague about it, but
+
+did not confirm that the requested letter would be provided.
+
+Defendants’ Knowing and Willful Violations of Dr. O’Reilly’s Civil Rights, Their Own Policies,
+and Prior Commitments Forced Dr. O’Reilly to Initiate Legal Proceedings
+
+         82.   In light of Defendant Chernoff’s illegal conduct towards her, and the other
+
+Defendants’ knowing and willful decisions to facilitate and enable such illegal conduct, Dr.
+
+O’Reilly understood that she had no choice but to pursue formal legal action to protect her career
+
+and livelihood, to hold Defendants accountable for their illegal actions, and to protect other
+
+women at Fox Chase, TUHS, and Temple from similar treatment.
+
+         83.   On August 31, 2023, Dr. O’Reilly filed an administrative complaint with the
+
+Philadelphia Commission on Human Relations against Defendants alleging, among other things,
+
+that Defendant Chernoff’s conduct towards her, and Defendants’ denial of the institutional Letter
+
+of Support for the ReWARD grant, constituted illegal sexual harassment and retaliation.
+
+         84.   Fox Chase, TUHS, and Temple became aware of Dr. O’Reilly’s administrative
+
+complaint within a few days of its filing.
+
+
+
+
+                                                15
+       Case 2:24-cv-05315-KSM              Document 1    Filed 10/03/24      Page 16 of 46
+
+
+
+
+       85.     On September 14, 2023, after receiving notice of Dr. O’Reilly’s administrative
+
+complaint of discrimination and retaliation, Fox Chase notified Dr. O’Reilly that it would
+
+provide a Letter of Support for the ReWARD grant application.
+
+       86.     Dr. O’Reilly submitted her application for the ReWARD grant by the October 5,
+
+2023, deadline, and it is still pending.
+
+       87.     The fact that Defendants provided an institutional Letter of Support for Dr.
+
+O’Reilly’s ReWARD grant application in October 2023, after Dr. O’Reilly was forced to file
+
+formal legal proceedings against them, demonstrates that their prior rationale for denying the
+
+request (that is, there were other funding priorities) was just the product of quid pro quo sexual
+
+harassment, and a pretext for retaliation.
+
+The Impact of Defendants’ Discriminatory and Retaliatory Conduct
+
+       88.     The sex-based harassment to which Defendant Chernoff subjected Dr. O’Reilly as
+
+described herein was unwelcome.
+
+       89.     Dr. O’Reilly believed her work environment was hostile and abusive as a result of
+
+Defendant Chernoff’s sex-based harassment of her, and the harassment unreasonably interfered
+
+with her ability to perform her job duties.
+
+       90.     The sex-based harassment to which Dr. O’Reilly was subjected was severe and/or
+
+pervasive such that a reasonable person in her position would find her work environment to be
+
+hostile and abusive.
+
+       91.     Defendants conditioned Dr. O’Reilly’s receipt of institutional support for her
+
+application for the ReWARD grant on having a personal or professional relationship with
+
+Defendant Chernoff.
+
+
+
+
+                                                 16
+      Case 2:24-cv-05315-KSM            Document 1       Filed 10/03/24     Page 17 of 46
+
+
+
+
+       92.     Defendants’ denial of Dr. O’Reilly’s request to provide an institutional Letter of
+
+Support for the ReWARD grant application to the NIH in March 2023 constituted a tangible
+
+employment action, which was motivated by Dr. O’Reilly’s rejection of Defendant Chernoff’s
+
+sexually harassing conduct towards her.
+
+       93.     Upon information and belief, Defendant Chernoff is the alter ego of Fox Chase.
+
+       94.     Fox Chase, TUHS, and Temple failed to take reasonable steps to prevent or
+
+promptly correct the sex-based harassment to which Dr. O’Reilly was subjected.
+
+       95.     Defendants’ denial of Dr. O’Reilly’s request to provide an institutional Letter of
+
+Support for the ReWARD grant application to the NIH in March 2023 constitutes a materially
+
+adverse action that would discourage a reasonable worker from complaining about sex-based
+
+harassment.
+
+       96.     As a result of the sex-based harassment (both quid pro quo and hostile
+
+environment) and retaliation to which Defendants subjected her, Dr. O’Reilly has suffered, and
+
+will continue to suffer, significant emotional distress, mental anguish, and harm to her
+
+professional and academic reputation.
+
+       97.     As a result of Defendants’ discriminatory and retaliatory conduct, Dr. O’Reilly
+
+has suffered, and will continue to suffer, harm to her employment at Fox Chase, including her
+
+tenure status and compensation, her research funding, her ability to collaborate with her
+
+colleagues, her career, and her livelihood.
+
+Defendants’ Intentional, Malicious, and Continuing Violation of Dr. O’Reilly’s Civil Rights
+
+       98.     Defendants’ discriminatory and retaliatory actions as described herein were
+
+willful and taken with malice and/or reckless disregard for Dr. O’Reilly’s civil rights and warrant
+
+the imposition of punitive damages.
+
+
+
+                                                17
+       Case 2:24-cv-05315-KSM            Document 1       Filed 10/03/24       Page 18 of 46
+
+
+
+
+        99.     Even after Dr. O’Reilly filed her administrative complaint of discrimination and
+
+retaliation with the PCHR, Fox Chase, TUHS, and Temple refused to take her allegations
+
+seriously, and have taken no steps to correct the past violations of her civil rights or protect her
+
+from continued harassment and retaliation.
+
+        100.    In their administrative answers to Dr. O’Reilly’s complaint filed with the PCHR,
+
+Defendants swore under oath that neither Defendant Chernoff’s attendance at Dr. O’Reilly’s
+
+presentation on January 18, 2023, nor his email to her on January 23, 2023, asking that she work
+
+with him, were inconsistent with the prior instructions to him to “avoid all communications, both
+
+professional and personal,” with her.
+
+        101.    In their administrative answers to Dr. O’Reilly’s complaint filed with the PCHR,
+
+Defendants swore under oath that Defendant Chernoff never took pictures of Dr. O’Reilly during
+
+her presentation on January 18, 2023, suggesting that perhaps he had been looking at his phone
+
+at that time.
+
+        102.    Upon information and belief, despite the receipt of two sworn Declarations from
+
+witnesses who observed Defendant Chernoff taking pictures of Dr. O’Reilly during her
+
+presentation and zooming in on the pictures, Fox Chase, TUHS, and Temple have not conducted
+
+any investigation into the situation and/or disciplined Defendant Chernoff for lying about his
+
+behavior.
+
+        103.    Despite their awareness of Defendant Chernoff’s illegal conduct towards Dr.
+
+O’Reilly in January 2023, Fox Chase, TUHS, and/or Temple permitted, facilitated, and enabled
+
+Defendant Chernoff’s illegal decision to deny Dr. O’Reilly’s request for a Letter of Support less
+
+than two months later in March 2023.
+
+
+
+
+                                                  18
+       Case 2:24-cv-05315-KSM              Document 1       Filed 10/03/24      Page 19 of 46
+
+
+
+
+          104.     Rather than accept responsibility for their illegal conduct, Defendants want to
+
+pretend that the sexual harassment and retaliation never happened since they provided a Letter of
+
+Support for Dr. O’Reilly’s grant in October 2023, after she was forced to initiate formal legal
+
+proceedings. In fact, in their sworn answers to Dr. O’Reilly’s administrative complaint,
+
+Defendants asserted that they “did not deny Dr. O’Reilly a letter of support for the ReWARD
+
+grant.”
+
+          105.     Upon information and belief, Fox Chase, TUHS, and/or Temple have refused to
+
+enforce the law and their own policies with respect to Defendant Chernoff’s violation of Dr.
+
+O’Reilly’s civil rights because, among other reasons, to do so would trigger an obligation to
+
+notify the NIH that one of their scientific investigators has been disciplined for discrimination
+
+and retaliation.
+
+          106.     Defendants’ knowing and willful refusal to take responsibility for their prior
+
+illegal actions, their knowing and willful refusal to address or correct such prior illegal conduct,
+
+and their knowing and willful refusal to take steps to prevent illegal discrimination and
+
+retaliation in the future ensures that such conduct will be repeated, not only with respect to Dr.
+
+O’Reilly, but with respect to other women employed by Fox Chase, TUHS, and Temple.
+
+          107.     In fact, despite their awareness of Defendant Chernoff’s illegal conduct towards
+
+Dr. O’Reilly as set forth herein, Fox Chase, TUHS, and Temple refuse to facilitate Dr.
+
+O’Reilly’s full participation as an Associate Professor, including but not limited to, opportunities
+
+to collaborate with her colleagues at scientific meetings and faculty retreats, and continue to
+
+allow Defendant Chernoff to be the ultimate decision maker with respect to all the terms and
+
+conditions of her employment.
+
+
+
+
+                                                    19
+       Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24      Page 20 of 46
+
+
+
+
+       108.    Defendants’ continued refusal to take corrective action in response to Defendant
+
+Chernoff’s illegal conduct towards Dr. O’Reilly and/or to facilitate her full participation as an
+
+Associate Professor constitute materially adverse actions that would discourage a reasonable
+
+worker from complaining about sex-based harassment and/or retaliation.
+
+       109.    Upon information and belief, to the extent TUHS and/or Temple are not Dr.
+
+O’Reilly’s “employers” for purposes of Title VII and/or the PFPO, TUHS and/or Temple aided
+
+and abetted the other Defendants’ sexual harassment and retaliation and/or are directly
+
+responsible for the other Defendants’ retaliation of her through its and/or their actions, including
+
+but not limited to:
+
+               a.      Making, participating in and/or influencing decisions about: what, if any,
+
+actions would be taken to prevent Defendant Chernoff from subjecting Dr. O’Reilly to sexual
+
+harassment and/or retaliation following her initial complaints, particularly in connection with his
+
+promotion to Cancer Center Director in 2021; whether and how to investigate Dr. O’Reilly’s
+
+complaints against Defendant Chernoff in 2023; whether, and to what extent, Defendant
+
+Chernoff would be disciplined for his conduct; and what, if any, remedial actions would be taken
+
+to correct the harassment and prevent further harassment or retaliation; and/or
+
+               b.      Providing legal advice about the decisions identified above, since, for
+
+example, and upon information and belief, the General Counsel for Fox Chase reports to the
+
+Chief Counsel Officer for TUHS, who reports to and/or is considered part of the Temple’s Office
+
+of University Counsel.
+
+
+
+
+                                                 20
+       Case 2:24-cv-05315-KSM          Document 1        Filed 10/03/24    Page 21 of 46
+
+
+
+
+                                             COUNT I
+
+                              Sex-Based Discrimination in violation of
+                    Title VII of the Civil Rights Act of 1964 Against Fox Chase
+
+        110.    Plaintiff hereby incorporates by reference paragraphs 1 through 109 as though
+
+fully set forth herein.
+
+        111.    Fox Chase violated Title VII of the Civil Rights Act of 1964, as amended, by
+
+subjecting Plaintiff to sexual harassment.
+
+                                             COUNT II
+
+                             Sex-Based Discrimination in violation of
+                      Title VII of the Civil Rights Act of 1964 Against TUHS
+
+        112.     Plaintiff hereby incorporates by reference paragraphs 1 through 111 as though
+
+fully set forth herein.
+
+        113.    TUHS violated Title VII of the Civil Rights Act of 1964, as amended, by
+
+subjecting Plaintiff to sexual harassment.
+
+                                             COUNT III
+
+                             Sex-Based Discrimination in violation of
+                     Title VII of the Civil Rights Act of 1964 Against Temple
+
+        114.     Plaintiff hereby incorporates by reference paragraphs 1 through 113 as though
+
+fully set forth herein.
+
+        115.    Temple violated Title VII of the Civil Rights Act of 1964, as amended, by
+
+subjecting Plaintiff to sexual harassment.
+
+
+
+
+                                                21
+       Case 2:24-cv-05315-KSM             Document 1      Filed 10/03/24     Page 22 of 46
+
+
+
+
+                                                 COUNT IV
+
+                           Sex-Based Discrimination in violation of the
+                     Philadelphia Fair Practices Ordinance Against Fox Chase
+
+        116.    Plaintiff hereby incorporates by reference paragraphs 1 through 115 as though
+
+fully set forth herein.
+
+        117.    Fox Chase violated the Philadelphia Fair Practices Ordinance by subjecting
+
+Plaintiff to sexual harassment.
+
+                                                  COUNT V
+
+                              Sex-Based Discrimination in violation of the
+                          Philadelphia Fair Practices Ordinance Against TUHS
+
+        118.     Plaintiff hereby incorporates by reference paragraphs 1 through 117 as though
+
+fully set forth herein.
+
+        119.    TUHS violated the Philadelphia Fair Practices Ordinance by subjecting Plaintiff
+
+to sexual harassment.
+
+        120.    In the alternative, TUHS violated the Philadelphia Fair Practices Ordinance by
+
+aiding and abetting the other Defendants’ sexual harassment of Plaintiff.
+
+                                              COUNT VI
+
+                               Sex-Based Discrimination in violation of the
+                          Philadelphia Fair Practices Ordinance Against Temple
+
+        121.     Plaintiff hereby incorporates by reference paragraphs 1 through 120 as though
+
+fully set forth herein.
+
+        122.    Temple violated the Philadelphia Fair Practices Ordinance by subjecting Plaintiff
+
+to sexual harassment.
+
+        123.    In the alternative, Temple violated the Philadelphia Fair Practices Ordinance by
+
+aiding and abetting the other Defendants’ sexual harassment of Plaintiff.
+
+                                                  22
+       Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24      Page 23 of 46
+
+
+
+
+                                           COUNT VII
+
+                           Sex-Based Discrimination in violation of the
+                      Philadelphia Fair Practices Ordinance Against Chernoff
+
+        124.    Plaintiff hereby incorporates by reference paragraphs 1 through 123 as though
+
+fully set forth herein.
+
+        125.    Chernoff violated the Philadelphia Fair Practices Ordinance by aiding and
+
+abetting the other Defendants’ sexual harassment of Plaintiff.
+
+                                           COUNT VIII
+
+                                      Retaliation in violation of
+                    Title VII of the Civil Rights Act of 1964 Against Fox Chase
+
+        126.    Plaintiff hereby incorporates by reference paragraphs 1 through 125 as though
+
+fully set forth herein.
+
+        127.    Fox Chase violated and continues to violate Title VII of the Civil Rights Act of
+
+1964, as amended, by subjecting Plaintiff to retaliation and/or retaliatory harassment for making
+
+good faith complaints about Defendant Chernoff’s sexual harassment of her, including with
+
+respect to Plaintiff’s career trajectory, her compensation, decisions about her access to funding
+
+opportunities, and other terms and conditions of her employment.
+
+                                            COUNT IX
+
+                                      Retaliation in violation of
+                      Title VII of the Civil Rights Act of 1964 Against TUHS
+
+        128.     Plaintiff hereby incorporates by reference paragraphs 1 through 127 as though
+
+fully set forth herein.
+
+        129.    TUHS violated and continues to violate Title VII of the Civil Rights Act of 1964,
+
+as amended, by subjecting Plaintiff to retaliation and/or retaliatory harassment for making good
+
+faith complaints about Defendant Chernoff’s sexual harassment of her, including with respect to
+
+                                                23
+       Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24      Page 24 of 46
+
+
+
+
+Plaintiff’s career trajectory, her compensation, decisions about her access to funding
+
+opportunities, and other terms and conditions of her employment.
+
+                                            COUNT X
+
+                                      Retaliation in violation of
+                     Title VII of the Civil Rights Act of 1964 Against Temple
+
+        130.    Plaintiff hereby incorporates by reference paragraphs 1 through 129 as though
+
+fully set forth herein.
+
+        131.    Temple violated and continues to violate Title VII of the Civil Rights Act of
+
+1964, as amended, by subjecting Plaintiff to retaliation and/or retaliatory harassment for making
+
+good faith complaints about Defendant Chernoff’s sexual harassment of her, including with
+
+respect to Plaintiff’s career trajectory, her compensation, decisions about her access to funding
+
+opportunities, and other terms and conditions of her employment.
+
+                                             COUNT XI
+
+                                    Retaliation in violation of
+                     Philadelphia Fair Practices Ordinance Against Fox Chase
+
+        132.    Plaintiff hereby incorporates by reference paragraphs 1 through 131 as though
+
+fully set forth herein.
+
+        133.    Fox Chase violated and continues to violate the Philadelphia Fair Practices
+
+Ordinance by subjecting Plaintiff to retaliation and/or retaliatory harassment for making good
+
+faith complaints about Defendant Chernoff’s sexual harassment of her, including with respect to
+
+Plaintiff’s career trajectory, her compensation, decisions about her access to funding
+
+opportunities, and other terms and conditions of her employment.
+
+
+
+
+                                                24
+       Case 2:24-cv-05315-KSM             Document 1      Filed 10/03/24     Page 25 of 46
+
+
+
+
+                                                COUNT XII
+
+                                       Retaliation in violation of
+                          Philadelphia Fair Practices Ordinance Against TUHS
+
+        134.     Plaintiff hereby incorporates by reference paragraphs 1 through 133 as though
+
+fully set forth herein.
+
+        135.    TUHS violated and continues to violate the Philadelphia Fair Practices Ordinance
+
+by subjecting Plaintiff to retaliation and/or retaliatory harassment for making good faith
+
+complaints about Defendant Chernoff’s sexual harassment of her, including with respect to
+
+Plaintiff’s career trajectory, her compensation, decisions about her access to funding
+
+opportunities, and other terms and conditions of her employment.
+
+                                               COUNT XIII
+
+                                        Retaliation in violation of
+                          Philadelphia Fair Practices Ordinance Against Temple
+
+        136.     Plaintiff hereby incorporates by reference paragraphs 1 through 135 as though
+
+fully set forth herein.
+
+        137.    Temple violated and continues to violate the Philadelphia Fair Practices
+
+Ordinance by subjecting Plaintiff to retaliation and/or retaliatory harassment for making good
+
+faith complaints about Defendant Chernoff’s sexual harassment of her, including with respect to
+
+Plaintiff’s career trajectory, her compensation, decisions about her access to funding
+
+opportunities, and/or other terms and conditions of her employment.
+
+                                               COUNT XIV
+
+                                    Retaliation in violation of
+                      Philadelphia Fair Practices Ordinance Against Chernoff
+
+        138.    Plaintiff hereby incorporates by reference paragraphs 1 through 137 as though
+
+fully set forth herein.
+
+                                                  25
+       Case 2:24-cv-05315-KSM            Document 1      Filed 10/03/24      Page 26 of 46
+
+
+
+
+        139.    Chernoff violated and continues to violate the Philadelphia Fair Practices
+
+Ordinance by subjecting Plaintiff to retaliation and/or retaliatory harassment for making good
+
+faith complaints about his sexual harassment of her, including with respect to Plaintiff’s career
+
+trajectory, her compensation, decisions about her access to funding opportunities, and other
+
+terms and conditions of her employment.
+
+                                       PRAYER FOR RELIEF
+
+        WHEREFORE, Plaintiff, Alana M. O’Reilly, Ph.D., respectfully requests that this Court
+
+enter judgment in favor of Plaintiff and against Defendants as follows:
+
+        A.      Declare the acts and practices complained of herein to be a violation of the Title
+
+VII of the Civil Rights Act of 1964;
+
+        B.      Declare the acts and practices complained of herein to be a violation of the
+
+Philadelphia Fair Practices Ordinance;
+
+        C.      Enter an order requiring Defendants to cease and desist their discriminatory and
+
+retaliatory actions;
+
+        D.      Award to Plaintiff compensatory damages for all past and future non-economic
+
+harms she has suffered and will continue to suffer as a result of Defendants’ discrimination and
+
+retaliation, including, but not limited to, emotional distress, mental anguish, and harm to her
+
+professional and academic reputation;
+
+        E.      Award to Plaintiff compensatory damages for all past and future economic harms
+
+she has suffered and will continue to suffer as a result of Defendants’ discrimination and
+
+retaliation;
+
+        F.      Award to Plaintiff punitive damages for Defendants’ willful and/or reckless
+
+disregard for her legal rights;
+
+
+
+                                                 26
+      Case 2:24-cv-05315-KSM           Document 1       Filed 10/03/24      Page 27 of 46
+
+
+
+
+       G.      Award to Plaintiff all costs, disbursements, and reasonable attorneys’ fees relating
+
+to the enforcement of her rights;
+
+       H.      Award to Plaintiff pre-and post-judgment interest as well as the sum necessary to
+
+make up for any adverse tax consequences incurred by her as result of any judgment entered in
+
+this matter; and
+
+       I.      Grant to Plaintiff such additional relief as the Court deems just and proper under
+
+the circumstances.
+
+
+
+                                    JURY TRIAL DEMANDED
+
+       Plaintiff hereby requests a jury trial on each of the Counts in this Complaint.
+
+
+
+
+                                             UEBLER LAW LLC
+
+
+                                             __________________________________
+                                             Julie A. Uebler, Esquire (ID No. 71297)
+                                             101 Lindenwood Drive, Suite 225
+                                             Malvern, PA 19355
+                                             (484) 875-3186 (Voice)
+                                             (484) 875-9273 (Fax)
+                                             uebler@ueblerlaw.com
+
+                                             Attorney for Plaintiff
+                                             Alana M. O’Reilly, Ph.D.
+
+
+
+
+                                                27
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 28 of 46
+
+
+
+
+              EXHIBIT 1
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 29 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 30 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 31 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 32 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 33 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 34 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 35 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 36 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 37 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 38 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 39 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 40 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 41 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 42 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 43 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 44 of 46
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 45 of 46
+
+
+
+
+              EXHIBIT 2
+Case 2:24-cv-05315-KSM   Document 1   Filed 10/03/24   Page 46 of 46
+

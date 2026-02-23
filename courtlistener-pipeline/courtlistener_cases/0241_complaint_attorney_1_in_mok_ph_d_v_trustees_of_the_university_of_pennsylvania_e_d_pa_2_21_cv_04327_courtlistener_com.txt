@@ -1,0 +1,909 @@
+Source URL: https://www.courtlistener.com/docket/60601460/1/mok-phd-v-trustees-of-the-university-of-pennsylvania/
+Title: Complaint (Attorney) – #1 in MOK, Ph.D v. TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA (E.D. Pa., 2:21-cv-04327) – CourtListener.com
+
+JS 44 (Rev. 10/20)                  Case 2:21-cv-04327-CFK
+                                                      CIVILDocument
+                                                            COVER 1SHEET
+                                                                     Filed 10/01/21 Page 1 of 23
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+          Ka Yan Danise Mok, Ph.D                                                                              Trustees Of The University Of Pennsylvania
+    (b)   County of Residence of First Listed Plaintiff                Arlington County, VA                    County of Residence of First Listed Defendant              Philadelphia County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+          Brian C. Farrell, Esq., Console Mattiacci Law, LLC
+          1525 Locust St., 9th Fl., Philadelphia, PA 19102 (215) 545-7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                     400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                               830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                      New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                       840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq.
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Discrimination on the basis of sexual orientation, gender identity, and religious beliefs. Retaliation for complaining of the same.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                               in excess of $75,000                        JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+10/01/2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                             Case 2:21-cv-04327-CFK
+                                                UNITEDDocument   1 Filed
+                                                      STATES DISTRICT    10/01/21 Page 2 of 23
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                              Arlington, VA
+Address of Plaintiff: ______________________________________________________________________________________________
+                                                       Philadelphia, PA 19106
+Address of Defendant: ____________________________________________________________________________________________
+                                                                     Philadelphia, PA 19106
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      10/01/2021
+DATE: __________________________________                     __________________________________________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+               Brian C. Farrell
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+      X       Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     X        Relief other than monetary damages is sought.
+
+
+      10/01/2021
+DATE: __________________________________                     __________________________________________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+             Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 3 of 23
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+                                                  :                          CIVIL ACTION
+ Ka Yan Danise Mok, Ph.D.                         :
+                    v.                            :
+                                                  :
+                                                  :                          NO.
+ Trustees Of The University Of Pennsylvania
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+10/01/2021                                                          Plaintiff, Ka Yan Danise Mok, Ph.D
+Date                               Attorney-at-law                       Attorney for
+ 215-545-7676                   215-405-2900                          farrell@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+            Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 4 of 23
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                  :
+ KA YAN DANISE MOK, Ph.D.                         :
+                                                  :
+                                Plaintiff,        :
+                                                  :
+        v.                                        : CIVIL ACTION NO.
+                                                  :
+                                                  :
+                                                  :
+ TRUSTEES OF THE UNIVERSITY                       :
+ OF PENNSYLVANIA,                                 : JURY TRIAL DEMANDED
+                                                  :
+                               Defendant.         :
+                                                  :
+
+                                             COMPLAINT
+
+I.     PRELIMINARY STATEMENT
+
+       Plaintiff, Ka Yan Danise Mok, Ph.D. (“Plaintiff” or “Dr. Mok”), through her undersigned
+
+counsel, files this Civil Action Complaint against her former employer, Trustees of the University
+
+of Pennsylvania (“Defendant” or “Penn”). Dr. Mok asserts claims of discrimination based on
+
+sexual orientation, gender identity, religious beliefs, and retaliation against Penn under Title VII
+
+of the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000e, et seq. (“Title VII”), the
+
+Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”), and the
+
+Philadelphia Fair Practices Ordinance, as amended, Phila. Code §9-1100, et seq. (“PFPO”).
+
+       Dr. Mok seeks all available damages, including economic loss, compensatory damages for
+
+emotional distress, and punitive damages, along with all other relief under applicable federal and
+
+state law as this Court deems appropriate.
+
+II.    PARTIES
+
+       1.       Dr. Mok is an individual and resident of the United States. Dr. Mok currently lives
+             Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 5 of 23
+
+
+
+
+in Arlington, Virginia.
+
+        2.       The Trustees of the University of Pennsylvania, operating as the University of
+
+Pennsylvania, is a private educational institution comprised of twelve schools, including Arts &
+
+Sciences, among others.
+
+        3.       Penn is located in Philadelphia, Pennsylvania.
+
+        4.       At all times relevant to this Complaint, Penn was an employer under Title VII, the
+
+PHRA, and the PFPO.
+
+        5.       At all times relevant to this Complaint, Dr. Mok was an employee of Penn under
+
+Title VII, the PHRA, and the PFPO.
+
+        6.       At all times relevant to this Complaint, Penn acted by and through its authorized
+
+agents, workers, and/or employees acting within the course and scope of their employment with
+
+Penn.
+
+III.    JURISDICTION AND VENUE
+
+        7.       The causes of action set forth in this Complaint arise under the Title VII (Count I-
+
+II); the PHRA (Counts III-IV); and the PFPO (Counts V-VI).
+
+        8.       The District Court has subject matter jurisdiction over Counts I-II (Title VII) under
+
+28 U.S.C. §1331.
+
+        9.       The District Court has supplemental jurisdiction over Counts III-IV (PHRA) and
+
+Counts V-VI (PFPO) under 28 U.S.C. §1367.
+
+        10.      Penn is subject to the personal jurisdiction of this Court because, among other
+
+things, the case arises out of or relates to Penn’s contacts with Pennsylvania, and the contacts of
+
+Penn are continuous and systematic such that Penn is considered at home in Pennsylvania.
+
+        11.      Venue is proper under 28 U.S.C. § 1391(b).
+
+
+
+                                                   2
+            Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 6 of 23
+
+
+
+
+          12.     On or about June 1, 2020, Dr. Mok dual filed a Charge of Discrimination with the
+
+Philadelphia Commission on Human Relations (“PCHR”) and the Equal Employment Opportunity
+
+Commission (“EEOC”), complaining of the acts of discrimination and retaliation alleged herein.
+
+Attached, incorporated herein, and marked as Exhibit “A” is a true and correct copy of Dr. Mok’s
+
+PCHR Charge of Discrimination, with minor redactions for purposes of electronic filing of
+
+confidential and personal identifying information.
+
+          13.     On or about July 7, 2021, the EEOC issued to Dr. Mok a Dismissal and Notice of
+
+Right to Sue. Attached and marked as Exhibit “B” is a true and correct copy of that Notice, with
+
+minor redactions for purposes of electronic filing of confidential and personal identifying
+
+information.
+
+          14.     The PCHR issued its Dismissal and Notice of Rights to Dr. Mok on September 24,
+
+2021.
+
+          15.     Dr. Mok has complied with all administrative requirements for the institution of
+
+this civil action.
+
+    IV.         FACTUAL ALLEGATIONS
+
+          16.     Dr. Mok is a licensed psychologist who specializes in providing mental health
+
+treatment to members of the LGBTQIA+ community.
+
+          17.     Dr. Mok obtained her Ph.D. in Psychology from Brigham Young University
+
+(“BYU”) in 2019.
+
+          18.     Dr. Mok identifies as genderqueer/ gender nonconforming and queer.
+
+“Genderqueer” and “gender nonconforming” are terms to describe gender identity. They entail
+
+defining one’s identity in way that does not align with heterosexual or homosexual norms.
+
+Genderqueer individuals such as Dr. Mok often experience their gender as fluid, meaning it can
+
+shift or change at any given time. “Queer” is a term to denote one’s sexual orientation and sexual
+                                                  3
+          Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 7 of 23
+
+
+
+
+identity. Queer individuals typically do not identify as straight or cis-gender.
+
+       19.     By way of further background, Dr. Mok was raised in the Mormon faith. Before
+
+her employment with Penn, Dr. Mok began a faith transition to agnosticism. When she started
+
+working for Penn, Dr. Mok furthered her faith transition and openly identified as agnostic. Dr.
+
+Mok also incorporated her faith transition into her clinical psychology work.
+
+       20.     On or about August 1, 2018, Dr. Mok accepted a position as a pre-doctoral intern
+
+with Penn in its Counseling and Psychological Services (“CAPS”) program. At that time, Dr. Mok
+
+was still working to complete her Ph.D. with BYU.
+
+       21.     As pre-doctoral intern in Penn’s CAPS program, Dr. Mok worked as part of a
+
+multidisciplinary clinical team to provide patients with intake assessment, telephone consultations,
+
+walk-in crisis prevention, individual, and group therapy, along with overall case management. Dr.
+
+Mok also worked with patients on psychological issues related to identity development, faith
+
+transition, and social justice and advocacy.
+
+       22.     While in the CAPS program, Dr. Mok reported to Soumya Madabhushi, Ph.D (“Dr.
+
+Madabhushi”), a Staff Psychologist and the Outreach Training Coordinator for CAPS.
+
+       23.     While in the CAPS program, Dr. Mok disclosed her gender identity, sexual
+
+orientation, and religious identity to her supervisors and co-workers, including Dr. Madabushi.
+
+Furthermore, Dr. Mok actively consulted Dr. Madabhushi about her professional decision to
+
+disclose her identities in connection with her clinical work.
+
+       24.     At all times relevant to this Complaint, Penn was aware of Dr. Mok’s gender
+
+identity (genderqueer/ gender nonconforming), sexual orientation (queer), and religious identity
+
+(agnostic).
+
+       25.     As a result of her exemplary performance in the CAPS program, Penn offered Dr.
+
+
+
+                                                  4
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 8 of 23
+
+
+
+
+Mok employment as a postdoctoral fellowship position following her completion of her Ph.D.
+
+       26.     Dr. Mok accepted Penn’s employment offer and began working for Penn as a
+
+postdoctoral fellow on or about August 23, 2019.
+
+       27.     In this role, Dr. Mok reported to Dr. Madabhushi and Cyndy Boyd, Ph.D. (“Dr.
+
+Boyd”), Psychologist and Director of Training.
+
+       28.     A few months after starting the fellowship, on or about October 16, 2019, Dr. Mok
+
+applied for a full-time position as a Staff Psychologist in Penn’s Counseling and Psychological
+
+Services department.
+
+       29.     On or about December 9, 2019, Michal Saraf, PsyD (“Dr. Saraf”), Senior Clinical
+
+Director in Penn’s Counseling and Psychological Services department, requested to meet with Dr.
+
+Mok about her job application.
+
+       30.     During their meeting, which occurred on or about December 10, 2019, Dr. Saraf
+
+rejected Dr. Mok’s application for the Staff Psychologist position and informed her that Penn
+
+would not even permit Dr. Mok to interview.
+
+       31.       Dr. Saraf’s basis for rejecting Dr. Mok was that Penn’s “selection committee” for
+
+the Staff Psychologist position had “reservations regarding [Dr. Mok’s] identities.” Dr. Saraf
+
+elaborated that “some” of Dr. Mok’s identities were “newer” and had “only started once [Dr. Mok]
+
+came to Penn.”
+
+       32.     Dr. Saraf also told Dr. Mok that Penn’s decision to reject her job application was
+
+not based on Dr. Mok’s work performance.
+
+       33.     Dr. Saraf’s comments to Dr. Mok during their December 10, 2019 meeting
+
+represent an admission by Penn that it rejected Dr. Mok’s application for discriminatory reasons.
+
+       34.     Later that week, Dr. Mok registered a complaint of discrimination with her
+
+
+
+                                                 5
+          Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 9 of 23
+
+
+
+
+supervisors, Drs. Madabhushi and Boyd, based on Dr. Saraf’s comments and reasons for rejecting
+
+her application.
+
+       35.       Upon information and belief, Dr. Boyd and Dr. Madabhushi failed to investigate
+
+Dr. Mok’s complaint of discrimination in good faith.
+
+       36.       Dr. Mok filed her charge of discrimination with the PCHR and EEOC on or about
+
+June 1, 2020.
+
+       37.       Following Penn’s receipt of Dr. Mok’s charge, Penn subjected Dr. Mok to
+
+retaliation for asserting her rights under Title VII, the PHRA, and the PFPO.
+
+       38.       During a meeting in late August 2020, Dr. Boyd accosted Dr. Mok about her charge
+
+of discrimination, stating:
+
+             •   “I feel betrayed by you.”;
+
+             •   “What are you expecting? To be hired?”
+
+             •   “What did you want me to do? I had no power.”
+
+             •   That she and Dr. Madabhushi might “lose their jobs” because of Dr. Mok’s charge
+
+                 of discrimination;
+
+             •   That Dr. Mok was “making a lot of assumptions” in her charge of discrimination,
+
+                 thereby implying that Dr. Mok had fabricated the relevant facts.
+
+       39.       Dr. Boyd’s comments were retaliatory and would cause reasonable people who
+
+have had their civil rights violated, like Dr. Mok, to be deterred from engaging in protected activity
+
+under Title VII, the PHRA, and the PFPO.
+
+       40.       In or about September 2020, Dr. Mok’s term as a post-doctoral fellow with Penn
+
+ended. Dr. Mok subsequently accepted a Staff Psychologist position at American University,
+
+where she remains currently employed.
+
+
+                                                  6
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 10 of 23
+
+
+
+
+        41.     Dr. Mok’s gender identity (genderqueer/ gender nonconforming) was a motivating
+
+and/or determinative factor in connection with Penn’s discriminatory treatment of her, including
+
+failing to hire into/ rejecting her application for the Staff Psychologist position.
+
+        42.     Dr. Mok’s sexual orientation (queer) was a motivating and/or determinative factor
+
+in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+rejecting her application for the Staff Psychologist position.
+
+        43.     Dr. Mok’s religious identity (Agnostic) was a motivating and/or determinative
+
+factor in connection with Penn’s discriminatory treatment of her, including failing to hire her/ into
+
+rejecting her application for the Staff Psychologist position.
+
+        44.     As a direct and proximate result of Penn’s discriminatory and retaliatory conduct,
+
+Dr. Mok has in the past incurred, and may in the future incur, a loss of earnings and/or earning
+
+capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem,
+
+mental anguish, and loss of life’s pleasures, the full extent of which is not known at this time.
+
+        45.     Penn acted with malice, reckless indifference, and/or deliberate indifference to Dr.
+
+Mok’s protected rights.
+
+                                       COUNT I – Title VII
+                                      (Disparate Treatment)
+                                       Plaintiff v. Defendant
+
+        46.     Dr. Mok incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        47.     Dr. Mok’s gender identity (genderqueer/ gender nonconforming) was a motivating
+
+and/or determinative factor in connection with Penn’s discriminatory treatment of her, including
+
+failing to hire her into/ rejecting her application for the Staff Psychologist position.
+
+        48.     Dr. Mok’s sexual orientation (queer) was a motivating and/or determinative factor
+
+
+
+                                                   7
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 11 of 23
+
+
+
+
+in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+rejecting her application for the Staff Psychologist position.
+
+        49.     Dr. Mok’s religious identity (Agnostic) was a motivating and/or determinative
+
+factor in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+rejecting her application for the Staff Psychologist position.
+
+        50.     By committing the foregoing acts of discrimination against Dr. Mok, Penn has
+
+violated Title VII.
+
+        51.     As a direct and proximate result of Penn’s discriminatory conduct, Dr. Mok has in
+
+the past incurred, and may in the future incur, a loss of earnings and/or earning capacity, loss of
+
+benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem, mental anguish, and
+
+loss of life’s pleasures, the full extent of which is not known at this time.
+
+        52.     Penn acted intentionally, and with malice and/or reckless indifference to Dr. Mok’s
+
+rights, and its conduct warrants the imposition of punitive damages.
+
+                                       COUNT II – Title VII
+                                           (Retaliation)
+                                       Plaintiff v. Defendant
+
+        53.     Dr. Mok incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        54.     Penn retaliated against Dr. Mok because of Dr. Mok’s complaints of discrimination.
+
+        55.     Penn’s actions would cause reasonable people who have had their civil rights
+
+violated, like Dr. Mok, to be deterred engaging in protected activity under Title VII
+
+        56.     By committing the foregoing acts of retaliation against Dr. Mok, Penn has violated
+
+Title VII.
+
+        57.     As a direct and proximate result of Penn’s violation of the Title VII, Dr. Mok has
+
+
+
+                                                  8
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 12 of 23
+
+
+
+
+suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs. Dr.
+
+Mok is now suffering and will continue to suffer irreparable injury and monetary damages as a
+
+result of Penn’s retaliatory acts unless and until this Court grants the relief requested herein.
+
+        58.     Penn acted intentionally and with malice and/or reckless indifference to Dr. Mok’s
+
+rights, and its conduct warrants the imposition of punitive damages.
+
+                                       COUNT III – PHRA
+                                      (Disparate Treatment)
+                                       Plaintiff v. Defendant
+
+        59.     Dr. Mok incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        60.     Dr. Mok’s gender identity (genderqueer/ gender nonconforming) was a motivating
+
+and/or determinative factor in connection with Penn’s discriminatory treatment of her, including
+
+failing to hire her into/ rejecting her application for the Staff Psychologist position.
+
+        61.     Dr. Mok’s sexual orientation (queer) was a motivating and/or determinative factor
+
+in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+rejecting her application for the Staff Psychologist position.
+
+        62.     Dr. Mok’s religious identity (Agnostic) was a motivating and/or determinative
+
+factor in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+rejecting her application for the Staff Psychologist position.
+
+        63.     By committing the foregoing acts of discrimination against Dr. Mok, Penn has
+
+violated the PHRA.
+
+        64.     As a direct and proximate result of Penn’s discriminatory conduct, Dr. Mok has in
+
+the past incurred, and may in the future incur, a loss of earnings and/or earning capacity, loss of
+
+benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem, mental anguish, and
+
+
+
+                                                   9
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 13 of 23
+
+
+
+
+loss of life’s pleasures, the full extent of which is not known at this time.
+
+                                       COUNT IV – PHRA
+                                           (Retaliation)
+                                       Plaintiff v. Defendant
+
+        65.     Dr. Mok incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        66.     Penn retaliated against Dr. Mok because of Dr. Mok’s complaints of discrimination.
+
+        67.     Penn’s actions would cause reasonable people who have had their civil rights
+
+violated, like Dr. Mok, to be deterred engaging in protected activity under the PHRA.
+
+        68.     By committing the foregoing acts of retaliation against Dr. Mok, Penn has violated
+
+the PHRA.
+
+        69.     As a direct and proximate result of Penn’s violation of the PHRA, Dr. Mok has
+
+suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs. Dr.
+
+Mok is now suffering and will continue to suffer irreparable injury and monetary damages as a
+
+result of Penn’s retaliatory acts unless and until this Court grants the relief requested herein.
+
+                                        COUNT V – PFPO
+                                      (Disparate Treatment)
+                                       Plaintiff v. Defendant
+
+        70.     Dr. Mok incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        71.     Dr. Mok’s gender identity (genderqueer/ gender nonconforming) was a motivating
+
+and/or determinative factor in connection with Penn’s discriminatory treatment of her, including
+
+failing to hire her into/ rejecting her application for the Staff Psychologist position.
+
+        72.     Dr. Mok’s sexual orientation (queer) was a motivating and/or determinative factor
+
+in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+
+
+                                                  10
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 14 of 23
+
+
+
+
+rejecting her application for the Staff Psychologist position.
+
+        73.     Dr. Mok’s religious identity (Agnostic) was a motivating and/or determinative
+
+factor in connection with Penn’s discriminatory treatment of her, including failing to hire her into/
+
+rejecting her application for the Staff Psychologist position.
+
+        74.     By committing the foregoing acts of discrimination against Dr. Mok, Penn has
+
+violated the PFPO.
+
+        75.     As a direct and proximate result of Penn’s discriminatory conduct, Dr. Mok has in
+
+the past incurred, and may in the future incur, a loss of earnings and/or earning capacity, loss of
+
+benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem, mental anguish, and
+
+loss of life’s pleasures, the full extent of which is not known at this time.
+
+        76.     Penn acted intentionally and with malice and/or reckless indifference to Dr. Mok’s
+
+rights, and its conduct warrants the imposition of punitive damages.
+
+                                        COUNT VI – PFPO
+                                           (Retaliation)
+                                       Plaintiff v. Defendant
+
+        77.     Dr. Mok incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        78.     Penn retaliated against Dr. Mok because of Dr. Mok’s complaints of discrimination.
+
+        79.     Penn’s actions would cause reasonable people who have had their civil rights
+
+violated, like Dr. Mok, to be deterred engaging in protected activity under the PFPO.
+
+        80.     By committing the foregoing acts of retaliation against Dr. Mok, Penn has violated
+
+the PFPO.
+
+        81.     As a direct and proximate result of Penn’s violation of the PFPO, Dr. Mok has
+
+suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs. Dr.
+
+
+
+                                                  11
+         Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 15 of 23
+
+
+
+
+Mok is now suffering and will continue to suffer irreparable injury and monetary damages as a
+
+result of Penn’s retaliatory acts unless and until this Court grants the relief requested herein.
+
+        82.    Penn acted intentionally and with malice and/or reckless indifference to Dr. Mok’s
+
+rights, and its conduct warrants the imposition of punitive damages.
+
+                                     PRAYER FOR RELIEF
+
+        WHEREFORE, Plaintiff, Ka Yan Danise Mok, Ph.D., respectfully requests that this Court
+
+enter judgment in her favor and against Defendant, Trustees of the University of Pennsylvania, by
+
+        A.     Declaring the acts and practices complained of herein to be a violation of the Title
+
+VII of the Civil Rights Act of 1964;
+
+        B.     Declaring the acts and practices complained of herein to be a violation of the
+
+Pennsylvania Human Relations Act;
+
+        C.     Declaring the acts and practices complained of herein to be a violation of the
+
+Philadelphia Fair Practices Ordinance;
+
+        D.     Awarding to Dr. Mok compensation for all past and future pecuniary losses
+
+resulting from Defendant’s illegal actions, including, but not limited to, lost earnings, lost earnings
+
+growth potential, all compensation and benefits lost due to the actions of Defendant, all out-of-
+
+pocket losses, as well as an award of front pay;
+
+        E.     Awarding to Dr. Mok compensatory damages for all past and future non-pecuniary
+
+damages resulting from Defendant’s illegal actions, including, without limitation, emotional
+
+distress, mental anguish, humiliation, and reputational harm;
+
+        F.     Awarding to Dr. Mok punitive damages for Defendant’s malicious and reckless
+
+conduct as described herein;
+
+        G.     Awarding to Dr. Mok all costs of this action, together with reasonable attorneys’
+
+fees;
+                                                   12
+            Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 16 of 23
+
+
+
+
+       H.       Awarding to Dr. Mok prejudgment interest;
+
+       I.       Awarding to Dr. Mok the sum necessary to make up for any adverse tax
+
+consequences incurred by her as result of any judgment entered in this matter; and
+
+       J.       Awarding to Dr. Mok such additional relief as the Court deems just and proper
+
+under the circumstances.
+
+                                 JURY TRIAL DEMANDED
+
+       Dr. Mok requests a jury trial on each of the Counts in this Complaint.
+
+
+                                                    CONSOLE MATTIACCI LAW, LLC
+
+                                               By: /s/ Brian C. Farrell
+                                                   Brian C. Farrell, Esquire
+                                                   Console Mattiacci Law, LLC
+                                                   1525 Locust Street, Ninth Floor
+                                                   Philadelphia, PA 19102
+                                                   (215) 545-7676
+                                                   (215) 565-2851 (fax)
+                                                   farrell@consolelaw.com
+                                                   Attorney for Plaintiff, Ka Yan Danise Mok
+Date: October 1, 2021
+
+
+
+
+                                               13
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 17 of 23
+
+
+
+
+             Exhibit “A”
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 18 of 23
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 19 of 23
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 20 of 23
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 21 of 23
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 22 of 23
+
+
+
+
+             Exhibit “B”
+Case 2:21-cv-04327-CFK Document 1 Filed 10/01/21 Page 23 of 23
+

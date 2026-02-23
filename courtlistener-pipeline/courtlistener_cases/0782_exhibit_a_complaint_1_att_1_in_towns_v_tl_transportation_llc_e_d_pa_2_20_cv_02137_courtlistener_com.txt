@@ -1,0 +1,677 @@
+Source URL: https://www.courtlistener.com/docket/17125308/1/1/towns-v-tl-transportation-llc/
+Title: Exhibit A - Complaint – #1, Att. #1 in TOWNS v. TL TRANSPORTATION, LLC (E.D. Pa., 2:20-cv-02137) – CourtListener.com
+
+Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 1 of 14
+
+
+
+
+                 Exhibit A
+         Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 2 of 14
+
+                                                            NOTICE TO PLEAD
+                                         To: All Defendants
+                                         You are hereby notified to file a written response to the
+                                                                     Filed
+                                         enclosed Complaint within twenty (20)and    Attested
+                                                                               days from the date ofby the
+                                                                   Office
+                                         service hereof or a judgement        of Judicial
+                                                                       may be entered against you. Records
+                                                                       10 APR 2020 02:32 pm
+                                                                           A. SILIGRINI
+                                         __________________________
+                                         Attorney for Plaintiff
+
+                                        THIS IS NOT AN ARBITRATION AS AN
+                                        ASSESSMENT OF DAMAGES HEARING IS
+                                        REQUIRED
+
+
+
+DEREK SMITH LAW GROUP, PLLC                         COUNSEL FOR PLAINTIFF
+BY: CHARLES M. SCOTT, ESQ.
+ATTORNEY I.D. No.: 326926
+1835 MARKET STREET, SUITE 2950
+PHILADELPHIA, PA 19103
+T: 215-391-4790 / Fax: 215-893-5288
+__________________________________________
+AKENSHAI TOWNS                             :        COURT OF COMMON PLEAS
+889 St. Nicholas Ave., Apt. 410            :        PHILADELPHIA COUNTY
+New York, NY 10032                        :
+                                           :
+                      Plaintiff            :        CIVIL ACTION
+        v.                                 :
+                                           :
+TL TRANPORTATION, LLC                     :         CASE NO. 191103263
+127 Lubrano Drive, Suite 202               :
+Annapolis, MD 21401;                       :
+                                           :
+AND                                       :
+                                           :
+SHIRLEY WASHINGTON                         :
+127 Lubrano Drive, Suite 202               :
+Annapolis, MD 21401                        :
+                                           :
+AND                                       :
+                                           :
+AMAZON LOGISTICS, INC.                    :
+410 Terry Avenue North                     :
+Seattle, WA 98109;                        :
+                                           :        Major Jury Trial Demanded
+                      Defendants.          :
+__________________________________________:
+
+
+                             NOTICE TO DEFEND
+
+
+
+
+                                                                                       Case ID: 191103263
+           Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 3 of 14
+
+
+
+
+                                             NOTICE
+
+You have been sued in court. If you wish to defend against the claims set forth in the following
+pages, you must take action within twenty (20) days after this complaint and notice are served, by
+entering a written appearance personally or by attorney and filing in writing with the court your
+defenses or objections to the claims set forth against you. You are warned that if you fail to do so
+the case may proceed without you and a judgment may be entered against you by the court without
+further notice for any money claimed in the complaint of for any other claim or relief requested by
+the plaintiff. You may lose money or property or other rights important to you. You should take
+this paper to your lawyer at once. If you do not have a lawyer or cannot afford one, go to or
+telephone the office set forth below to find out where you can get legal help.
+
+             Philadelphia Bar Association Lawyer Referral and Information Service
+                                  1101 Market St., 11th Floor
+                               Philadelphia, Pennsylvania 19107
+                                        (215) 238-6333
+
+
+
+                                              AVISO
+
+Le han demandado a usted en la corte. Si usted quiere defenderse de estas demandas expuestas en
+las paginas siguientes, usted tiene veinte (20) dias de plazo al partir de la fecha de la demanda y la
+notificacion. Hace falta ascentar una comparencia escrita o en persona o con un abogado y entregar
+a la corte en forma escrita sus defensas o sus objeciones a las demandas en contra de su persona.
+Sea avisado que si usted no se defiende, la corte tomara medidas y puede continuar la demanda en
+contra suya sin previo aviso o notificacion. Ademas, la corte puede decider a favor del demandante
+y requiere que usted cumpla con todas las provisiones de esta demanda. Usted puede perder dinero
+o sus propiedades u otros derechos importantes para usted. Lleve esta demanda a un abogado
+immediatamente. Si no tiene abogado o si no tiene el dinero suficiente de pagar tal servicio. Vaya
+en persona o llame por telefono a la oficina cuya direccion se encuentra escrita abajo para averiguar
+donde se puede conseguir asistencia legal.
+
+     Asociacion De Licenciados De Filadelfia Servicio De Referencia E Informacion Legal
+                                1101 Market St., 11th Piso
+                              Filadelfia, Pennsylvania 19107
+                                      (215) 238-6333
+
+
+
+
+                                                  2
+                                                                                            Case ID: 191103263
+           Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 4 of 14
+
+
+
+
+DEREK SMITH LAW GROUP, PLLC                                 COUNSEL FOR PLAINTIFF
+BY: CHARLES M. SCOTT, ESQ.
+ATTORNEY I.D. No.: 326926
+1835 MARKET STREET, SUITE 2950
+PHILADELPHIA, PA 19103
+T: 215-391-4790 / Fax: 215-893-5288
+__________________________________________
+AKENSHAI TOWNS                            :                 COURT OF COMMON PLEAS
+889 St. Nicholas Ave., Apt. 410           :                 PHILADELPHIA COUNTY
+New York, NY 10032                        :
+                                          :
+                      Plaintiff           :                 CIVIL ACTION
+        v.                                :
+                                          :
+TL TRANPORTATION, LLC                     :                 CASE NO. 191103263
+127 Lubrano Drive, Suite 202              :
+Annapolis, MD 21401                       :
+                                          :
+AND                                       :
+                                          :
+SHIRLEY WASHINGTON                        :
+127 Lubrano Drive, Suite 202              :
+Annapolis, MD 21401                       :
+                                          :
+AND                                       :
+                                          :
+AMAZON LOGISTICS, INC.                    :
+410 Terry Avenue North                    :
+Seattle, WA 98109                         :
+                                          :                 Major Jury Trial Demanded
+                      Defendants.         :
+__________________________________________:
+
+                                COMPLAINT – CIVIL ACTION
+
+       Plaintiff, AKENSHAI TOWNS, by and through his attorneys, Derek Smith Law Group,
+
+PLLC, hereby files this Civil Complaint against Defendants, TL TRANSPORTATION, LLC,
+
+SHIRLEY WASHINGTON, and AMAZON LOGISTICS, INC., as joint and individual
+
+employers, seeking damages for the wrongful discharge of Plaintiff’s employment in violation of
+
+Pennsylvania public policy under Shick v. Shirey, 552 Pa. 590 (1998). Upon information and belief,
+
+and in support thereof, Plaintiff alleges as follows:
+
+
+
+                                                                                         Case ID: 191103263
+            Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 5 of 14
+
+
+
+
+                                          I. PARTIES
+
+       1.     Plaintiff, AKENSHAI TOWNS, is an adult individual currently residing in the
+
+State of New York at 889 St. Nicholas Ave., Apt. 410, New York, NY 10032
+
+       2.     At the time of the events set forth in this Complaint, and at the time this action was
+
+commenced by Writ of Summons on November 21, 2019, Plaintiff resided in the Commonwealth
+
+of Pennsylvania at 1315 McFerran Street, Philadelphia, PA 19140.
+
+       3.     Defendant, TL TRANSPORTATION, LLC (“TLT”), is a foreign business entity
+
+duly existing under the laws of the State of Maryland and registered to do business in the
+
+Commonwealth of Pennsylvania.
+
+       4.     Defendant TLT operates its corporate headquarters in Maryland at 127 Lubrano
+
+Drive, Suite 202, Annapolis, MD 21401.
+
+       5.     Defendant, SHIRLEY WASHINGTON, is an adult female individual residing in
+
+the State of Maryland with a business address for purposes of service at 127 Lubrano Drive, Suite
+
+202, Annapolis, MD 21401.
+
+       6.     At all times material, Defendant WASHINGTON was employed by Defendant
+
+TLT as a Human Resources Manager and held supervisory authority over Plaintiff during his
+
+employment.
+
+       7.     Defendant AMAZON LOGISTICS, INC. (“AMAZON”) is a foreign business
+
+entity duly existing under the laws of the State of Delaware and registered to do business in the
+
+Commonwealth of Pennsylvania.
+
+       8.     Defendant AMAZON operates its corporate headquarters in the State of
+
+Washington at 410 Terry Avenue North, Seattle, WA 98109.
+
+       9.     Defendant AMAZON is a subsidiary of Amazon.com, LLC which advertises for
+
+
+
+
+                                                2
+                                                                                          Case ID: 191103263
+             Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 6 of 14
+
+
+
+
+and provides logistics services for Amazon.com deliveries.
+
+                               II. JURISDICTION AND VENUE
+
+       10.     This action was commenced by Writ of Summons filed on November 21, 2019 and
+
+served on the named Defendants via Certified Mail on January 13, 2020.
+
+       11.     Jurisdiction and venue are appropriate before the Philadelphia County Court of
+
+Common Pleas as Defendants are registered to do business in Pennsylvania and, in fact, conduct
+
+business in Philadelphia County.
+
+       12.     All acts and omissions giving rise to this action occurred in Philadelphia County.
+
+               III. DEFENDANTS WERE PLAINTIFF’S JOINT EMPLOYER
+
+       13.     At all times material, Defendant TLT and Defendant AMAZON were joint and
+
+individual employers of Plaintiff.
+
+       14.     Defendant AMAZON runs a program for individuals or existing logistics
+
+businesses to partner with Defendant AMAZON to become a Delivery Service Partner (“DSP”) to
+
+deliver packages from an Amazon-owned delivery station to an Amazon.com customer.
+
+       15.     At all times material, Defendant TLT operated as a DSP for Defendant AMAZON.
+
+       16.     Defendant AMAZON provides DSPs, including Defendant TLT, with “branded
+
+Amazon vans customized for delivery, fuel program, high quality branded uniforms, rugged
+
+devices, and business services such as recruiting tool discounts, payroll, tax & accounting software
+
+discounts, legal support, and insurance options.” (https://logistics.amazon.com/marketing/faq, last
+
+visited April 1, 2020).
+
+       17.     Defendant AMAZON conducts criminal background checks on potential
+
+employees hired by DSPs, including Plaintiff.
+
+
+
+
+                                                 3
+                                                                                          Case ID: 191103263
+             Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 7 of 14
+
+
+
+
+       18.      DSPs may not hire potential employees without Defendant AMAZON’s knowledge
+
+and approval.
+
+       19.      Defendant AMAZON maintains employment records for the employees of DSPs,
+
+including Defendant TLT.
+
+       20.      Defendant AMAZON does not require their DSPs to have any logistics experience.
+
+In part, because Amazon provides technological and logistical expertise to the DSP.
+
+       21.      The principals of DSPs, such as Defendant TLT, are required to undergo three-
+
+week hands-on training, including but not limited to education on the Amazon-provided delivery
+
+equipment, the daily processes at an Amazon delivery facility, and assist in sorting and loading
+
+packages.
+
+       22.      Defendant AMAZON provides consistent coaching and support, an operation
+
+manual, driver assistance, and a dedicated account manager to each DSP.
+
+       23.      DSPs also interact on a daily basis with Defendant AMAZON’s account manager,
+
+on-road assistance team, and delivery station personnel.
+
+       24.      DSPs are given access to Defendant AMAZON’s proprietary technology, training
+
+resources, videos, and delivery data.
+
+       25.      Defendant AMAZON also supplies DSPs, such as Defendant TLT, with business
+
+tools to assist with planning, daily operations, routing guidance, and customer service.
+
+       26.      Defendant AMAZON also supplies DSPs, such as Defendant TLT, with Amazon-
+
+branded uniforms that all employees of a DSP must wear.
+
+       27.      Defendant AMAZON requires every DSP driver to use a proprietary, handheld
+
+tracking and communication device called a “Rabbit.”
+
+
+
+
+                                                 4
+                                                                                           Case ID: 191103263
+             Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 8 of 14
+
+
+
+
+       28.     The Rabbit is connected to a database with the addresses of Amazon.com
+
+customers, and also functions as a GPS navigation device, package scanner, and mobile telephone.
+
+       29.     The Rabbit allows Defendant AMAZON to track and oversee the movements and
+
+work progress of every individual DSP delivery driver.
+
+       30.     Defendant AMAZON supervises and controls the work activities, work schedules,
+
+conditions and management of DSPs, such as Defendant TLT.
+
+       31.     Defendant AMAZON sets and controls the delivery routes DSPs must follow to
+
+deliver Amazon packages to Amazon customers.
+
+       32.     Defendant AMAZON also dictates the hours of delivery in which a DSP may
+
+deliver a package.
+
+       33.     Defendant AMAZON pays DPSs, including Defendant TLT, pursuant to its
+
+standard Delivery Provider Terms of Service.
+
+       34.     At all times material, Defendant AMAZON exercised substantial control over
+
+Defendant TLT’s employee hiring practices; employee work schedules and conditions of
+
+employment; rates and method of payment; and employment records of Defendant TLT
+
+employees.
+
+       35.     Defendant TLT and Defendant AMAZON were Plaintiff’s joint employer and shall
+
+be referenced jointly hereafter as “Defendants.”
+
+       36.     The unlawful acts alleged in this Complaint were committed by Defendants and/or
+
+Defendants’ officers, agents, employees, or representatives, while actively engaged in the
+
+management of Defendants’ businesses or affairs and with the authorization of the Defendants.
+
+
+
+
+                                                   5
+                                                                                       Case ID: 191103263
+             Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 9 of 14
+
+
+
+
+                                IV. CHRONOLOGY OF FACTS
+
+       37.     Around October 2018, Plaintiff began employment with Defendants as a
+
+Dispatcher.
+
+       38.     At all times material, Plaintiff’s job duties involved coordinating and dispatching
+
+delivery drivers from Defendant AMAZON’s delivery station located at 4219 Richmond Street,
+
+Philadelphia, PA.
+
+       39.     Around May 14, 2019, Jeremiah Hymon, a Delivery Associate employed by
+
+Defendants, came to Plaintiff in the morning and indicated he could not make deliveries on his
+
+assigned routes that day because of an ankle injury.
+
+       40.     With Mr. Hymon standing next to him, Plaintiff called his supervisor, Brian Kobb,
+
+on speakerphone to explain the situation and get official direction on how to proceed.
+
+       41.     On speakerphone, Mr. Kobb told Plaintiff and Mr. Hymon that anyone who
+
+couldn’t work their scheduled shift would be subject to termination unless there was
+
+documentation excusing the absence.
+
+       42.     Mr. Hyman became increasingly and visibly angry during the conversation as it
+
+was explained he would potentially be subject to termination if he could not work that day.
+
+       43.     On speakerphone, Plaintiff’s supervisor then asked Plaintiff if Mr. Hymon had
+
+produced any documentation to him about the injury.
+
+       44.     When Plaintiff replied “no,” Mr. Hymon launched into a rage and started slamming
+
+his fists on the desk and yelling.
+
+       45.     When Plaintiff tried to deescalate the situation, Mr. Hymon physically attacked
+
+Plaintiff; throwing him into a shelf and onto the ground – all while Plaintiff’s supervisor was still
+
+on speakerphone.
+
+
+
+
+                                                 6
+                                                                                           Case ID: 191103263
+                Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 10 of 14
+
+
+
+
+          46.      After Plaintiff wrestled free from Mr. Hymon, Plaintiff immediately called 911 and
+
+asked for police to respond.
+
+          47.      During the assault, another employee notified on-site security.
+
+          48.      Philadelphia Police responded to the assault and prepared an incident report
+
+documenting that Plaintiff suffered simple assault at the hands of Jeremiah Hymon.
+
+          49.      After calling 911, Plaintiff then immediately informed his supervisor about the
+
+attack.
+
+          50.      Mr. Hymon was removed from the premises by Defendants’ security immediately
+
+following the incident and Plaintiff stayed to make a Police report about the incident.
+
+          51.      Immediately after speaking with Police, Plaintiff reported to his supervisor that he
+
+was injured in the incident and needed medical attention.
+
+          52.      Plaintiff’s supervisor told him to go the hospital and take the next few days off.
+
+          53.      After the incident, Plaintiff immediately went to the hospital to seek medical
+
+treatment.
+
+          54.      In the following days, Plaintiff attempted multiple times to contact Defendants’
+
+Human Resources to inquire about submitting a claim for Workers’ Compensation benefits for the
+
+injuries he sustained on work-premises on May 14, 2019.
+
+          55.      Defendants did not return Plaintiff’s calls or otherwise attempt to contact Plaintiff
+
+about his injuries or the incident.
+
+          56.      Around the end of May 2019, Plaintiff finally made contact with Defendants to
+
+discuss his return to work. At that time, Defendants informed Plaintiff they were conducting an
+
+investigation into the May 14, 2019 incident and Plaintiff could not return to work until the
+
+investigation concluded.
+
+
+
+
+                                                     7
+                                                                                               Case ID: 191103263
+              Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 11 of 14
+
+
+
+
+        57.      Plaintiff subsequently obtained counsel to represent him in pursuing Worker’s
+
+Compensation benefits.
+
+        58.      On June 6, 2019, Plaintiff filed a Workers’ Compensation Claim Petition seeking
+
+benefits from Defendant TLT for the work-related injuries he sustained when he was attacked by
+
+Mr. Hymon on May 14, 2019.
+
+        59.      Around June 7, 2019, Plaintiff received an envelope post-marked June 6, 2019
+
+containing an undated letter signed by Defendant TLT’s Human Resource Director, Defendant
+
+WASHINGTON.
+
+        60.      Post-marked the same day Plaintiff filed a formal Workers’ Compensation Claim
+
+Petition against Defendant TLT, the undated letter stated without elaboration that Plaintiff’s
+
+employment was terminated effective May 25, 2019.
+
+        61.      Defendants’ internal investigation of the May 14, 2019 incident ultimately
+
+concluded that Plaintiff was not the instigator of the altercation with Mr. Hymon.
+
+                                            COUNT ONE
+                                      Wrongful Discharge In
+                                 Violation Of Public Policy Under
+                                 Shick v. Shirey, 552 Pa. 590 (1998)
+                                     Plaintiff v. All Defendants
+        62.      Plaintiff incorporates the foregoing paragraphs as though set forth at length herein.
+
+        63.      In Shick v. Shirey, 552 Pa. 590 (1998), the Pennsylvania Supreme Court expressly
+
+held that “a cause of action exists under Pennsylvania law for wrongful discharge of an employee
+
+who files a claim for workers' compensation benefits.” Shick, 552 Pa. at 604.
+
+        64.      While employed by the named Defendants, and in the course and scope of his
+
+employment, Plaintiff suffered injuries at work that required medical treatment and time out of
+
+work.
+
+
+
+                                                   8
+                                                                                            Case ID: 191103263
+             Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 12 of 14
+
+
+
+
+       65.      Plaintiff timely gave Defendants notice of his work-related injury the same day it
+
+happened and promptly sought medical attention.
+
+       66.      Plaintiff subsequently exercised his rights under the Pennsylvania Worker’s
+
+Compensation Act by filing a Claim Petition seeking compensation from Defendants for the work-
+
+related injuries Plaintiff suffered on May 14, 2019.
+
+       67.      Defendants then terminated Plaintiff’s employment by letter post-marked the same
+
+day Plaintiff filed a Workers’ Compensation Claim Petition.
+
+       68.      The temporal proximity between Plaintiff’s protected activity in seeking workers’
+
+compensation benefits and Defendants’ action to terminate Plaintiff is unusually suggestive of a
+
+retaliatory motive and gives rise to an inference of causation.
+
+       69.      Defendants decision to terminate Plaintiff was made in retaliation for Plaintiff
+
+exercising his rights under the Pennsylvania Workers’ Compensation Act.
+
+       70.      Defendants’ decision to terminate Plaintiff for exercising his rights under the
+
+Pennsylvania Workers’ Compensation Act violates Pennsylvania public policy and is an actionable
+
+exception to at-will employment under Shick v. Shirey, 552 Pa. 590 (1998).
+
+       71.      As a direct and proximate result of Defendants’ wrongful discharge of Plaintiff in
+
+violation of Pennsylvania public policy, Plaintiff has suffered harm and incurred damages
+
+including, loss of earnings, loss of wages, out-of-pocket expenses, mental anguish, embarrassment,
+
+humiliation, loss of reputation, and other related harms.
+
+       WHEREFORE, Plaintiff, Akenshai Towns, demands Judgment in his favor and against
+
+the named Defendants for damages in excess of Fifty Thousand ($50,000.00) Dollars, plus any
+
+interest, costs of litigation, punitive damages, and any other damages recoverable by law.
+
+
+                               <SIGNATURE ON NEXT PAGE>
+
+
+
+                                                 9
+                                                                                         Case ID: 191103263
+          Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 13 of 14
+
+
+
+
+                                     Respectfully submitted,
+
+                                            DEREK SMITH LAW GROUP, PLLC
+
+
+
+
+Dated: April 10, 2020                By:
+                                            CHARLES M. SCOTT, ESQ.
+                                            Counsel for Plaintiff, Akenshai Towns
+
+
+
+
+                                       10
+                                                                               Case ID: 191103263
+           Case 2:20-cv-02137 Document 1-1 Filed 05/04/20 Page 14 of 14
+
+
+
+
+                               CERTIFICATE OF SERVICE
+
+       I, Charles M. Scott, Esq., do hereby certify this 10th day of April 2020, that a true and
+
+correct copy of the foregoing Complaint was served via electronic filing upon counsel of record
+
+for Defendant Amazon Logistics, Inc.
+
+       I further certify that a true and correct copy of the foregoing Complaint was served via
+
+Certified Mail, Return Receipt Requested, and Regular Mail, upon the following Defendants as
+
+follows:
+
+
+                               TL TRANPORTATION, LLC
+                                127 Lubrano Drive, Suite 202
+                                   Annapolis, MD 21401
+
+                                SHIRLEY WASHINGTON
+                                127 Lubrano Drive, Suite 202
+                                   Annapolis, MD 21401
+
+
+
+                                                   DEREK SMITH LAW GROUP, PLLC
+
+
+
+
+Dated: April 10, 2020                       By:
+                                                   CHARLES M. SCOTT, ESQ.
+                                                   Counsel for Plaintiff, Akenshai Towns
+
+
+
+
+                                                                                       Case ID: 191103263
+

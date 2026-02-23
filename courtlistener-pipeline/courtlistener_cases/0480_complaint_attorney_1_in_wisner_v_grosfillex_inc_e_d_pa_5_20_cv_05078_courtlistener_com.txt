@@ -1,0 +1,697 @@
+Source URL: https://www.courtlistener.com/docket/18534611/1/wisner-v-grosfillex-inc/
+Title: Complaint (Attorney) – #1 in WISNER v. GROSFILLEX, INC. (E.D. Pa., 5:20-cv-05078) – CourtListener.com
+
+                                     Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 1 of 13
+JS 44 (Rev. 08/18)                                                         CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+EDWARD WISNER                                                                                               GROSFILLEX, INC.
+
+
+    (b) County of Residence of First Listed Plaintiff             Berks                                       County of Residence of First Listed Defendant
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c) Attorneys (Firm Name, Address, and Telephone Number)                                                   Attorneys (If Known)
+Kitay Law Offices
+1810 Union Blvd., Allentown, PA 18109 (610) 776-1700
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                          (For Diversity Cases Only)                                        and One Box for Defendant)
+’ 1    U.S. Government                ’ 3     Federal Question                                                                     PTF       DEF                                           PTF      DEF
+         Plaintiff                              (U.S. Government Not a Party)                        Citizen of This State         ’ 1       ’ 1       Incorporated or Principal Place       ’ 4     ’ 4
+                                                                                                                                                         of Business In This State
+
+’ 2    U.S. Government                ’ 4     Diversity                                              Citizen of Another State          ’ 2    ’    2   Incorporated and Principal Place    ’ 5     ’ 5
+         Defendant                              (Indicate Citizenship of Parties in Item III)                                                             of Business In Another State
+
+                                                                                                     Citizen or Subject of a           ’ 3    ’    3   Foreign Nation                      ’ 6     ’ 6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                             Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                             TORTS                                  FORFEITURE/PENALTY                         BANKRUPTCY                    OTHER STATUTES
+’   110 Insurance                        PERSONAL INJURY                PERSONAL INJURY              ’ 625 Drug Related Seizure          ’ 422 Appeal 28 USC 158          ’ 375 False Claims Act
+’   120 Marine                       ’   310 Airplane                 ’ 365 Personal Injury -              of Property 21 USC 881        ’ 423 Withdrawal                 ’ 376 Qui Tam (31 USC
+’   130 Miller Act                   ’   315 Airplane Product               Product Liability        ’ 690 Other                               28 USC 157                       3729(a))
+’   140 Negotiable Instrument                 Liability               ’ 367 Health Care/                                                                                  ’ 400 State Reapportionment
+’   150 Recovery of Overpayment      ’   320 Assault, Libel &               Pharmaceutical                                                 PROPERTY RIGHTS                ’ 410 Antitrust
+        & Enforcement of Judgment             Slander                       Personal Injury                                              ’ 820 Copyrights                 ’ 430 Banks and Banking
+’   151 Medicare Act                 ’   330 Federal Employers’             Product Liability                                            ’ 830 Patent                     ’ 450 Commerce
+’   152 Recovery of Defaulted                 Liability               ’ 368 Asbestos Personal                                            ’ 835 Patent - Abbreviated       ’ 460 Deportation
+        Student Loans                ’   340 Marine                         Injury Product                                                     New Drug Application       ’ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’   345 Marine Product                 Liability                                                    ’ 840 Trademark                        Corrupt Organizations
+’   153 Recovery of Overpayment               Liability                PERSONAL PROPERTY                         LABOR                     SOCIAL SECURITY                ’ 480 Consumer Credit
+        of Veteran’s Benefits        ’   350 Motor Vehicle            ’ 370 Other Fraud              ’ 710 Fair Labor Standards          ’ 861 HIA (1395ff)               ’ 485 Telephone Consumer
+’   160 Stockholders’ Suits          ’   355 Motor Vehicle            ’ 371 Truth in Lending                Act                          ’ 862 Black Lung (923)                 Protection Act
+’   190 Other Contract                       Product Liability        ’ 380 Other Personal           ’ 720 Labor/Management              ’ 863 DIWC/DIWW (405(g))         ’ 490 Cable/Sat TV
+’   195 Contract Product Liability   ’   360 Other Personal                 Property Damage                 Relations                    ’ 864 SSID Title XVI             ’ 850 Securities/Commodities/
+’   196 Franchise                            Injury                   ’ 385 Property Damage          ’ 740 Railway Labor Act             ’ 865 RSI (405(g))                     Exchange
+                                     ’   362 Personal Injury -              Product Liability        ’ 751 Family and Medical                                             ’ 890 Other Statutory Actions
+                                             Medical Malpractice                                            Leave Act                                                     ’ 891 Agricultural Acts
+        REAL PROPERTY                      CIVIL RIGHTS                PRISONER PETITIONS            ’ 790 Other Labor Litigation          FEDERAL TAX SUITS              ’ 893 Environmental Matters
+’   210 Land Condemnation            ’   440 Other Civil Rights         Habeas Corpus:               ’ 791 Employee Retirement           ’ 870 Taxes (U.S. Plaintiff      ’ 895 Freedom of Information
+’   220 Foreclosure                  ’   441 Voting                   ’ 463 Alien Detainee                 Income Security Act                  or Defendant)                   Act
+’   230 Rent Lease & Ejectment       ’   442 Employment               ’ 510 Motions to Vacate                                            ’ 871 IRS—Third Party            ’ 896 Arbitration
+’   240 Torts to Land                ’   443 Housing/                       Sentence                                                            26 USC 7609               ’ 899 Administrative Procedure
+’   245 Tort Product Liability               Accommodations           ’ 530 General                                                                                             Act/Review or Appeal of
+’   290 All Other Real Property      ’   445 Amer. w/Disabilities -   ’ 535 Death Penalty                  IMMIGRATION                                                          Agency Decision
+                                             Employment                 Other:                       ’ 462 Naturalization Application                                     ’ 950 Constitutionality of
+                                     ’   446 Amer. w/Disabilities -   ’ 540 Mandamus & Other         ’ 465 Other Immigration                                                    State Statutes
+                                             Other                    ’ 550 Civil Rights                   Actions
+                                     ’   448 Education                ’ 555 Prison Condition
+                                                                      ’ 560 Civil Detainee -
+                                                                            Conditions of
+                                                                            Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+’ 1 Original             ’ 2 Removed from                 ’ 3         Remanded from             ’ 4 Reinstated or       ’ 5 Transferred from     ’ 6 Multidistrict                  ’ 8 Multidistrict
+    Proceeding               State Court                              Appellate Court               Reopened                Another District             Litigation -                   Litigation -
+                                                                                                                        (specify)                        Transfer                      Direct File
+                                          Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                          29 U.S.C. § 621, et seq.
+VI. CAUSE OF ACTION Brief description of cause:
+                                           ADEA Violations
+VII. REQUESTED IN     ’ CHECK IF THIS IS A CLASS ACTION                                                 DEMAND $                                   CHECK YES only if demanded in complaint:
+     COMPLAINT:          UNDER RULE 23, F.R.Cv.P.                                                                                                  JURY DEMAND:         ’ Yes      ’ No
+VIII. RELATED CASE(S)
+                       (See instructions):
+      IF ANY                               JUDGE                                                                                             DOCKET NUMBER
+DATE                                                                     SIGNATURE OF ATTORNEY OF RECORD
+10/14/2020
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                     APPLYING IFP                                      JUDGE                          MAG. JUDGE
+      Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 2 of 13
+
+
+
+
+EDWARD WISNER
+
+
+
+GROSFILLEX, INC.
+
+
+
+
+                                                                             X
+
+
+    10/14/2020         William P. Mansour, Esq.   Plaintiff Edward Wisner
+
+
+ (610) 776-1700         (484) 650-3200             wmansour@kitaylegal.com
+                              Case 5:20-cv-05078-HB
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   10/14/20 Page 3 of 13
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                             114 Omega Circle, Wernersville, PA 19565
+Address of Plaintiff: ______________________________________________________________________________________________
+                                          230 Old West Penn Ave., Robesonia, PA 19551
+Address of Defendant: ____________________________________________________________________________________________
+                                                           Robesonia, Berks County, Pennsylvania
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      10/14/2020
+DATE: __________________________________                                     0XVWVLJQKHUH
+                                                             __________________________________________                                    318833
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+            William P. Mansour
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     ✔        Relief other than monetary damages is sought.
+
+
+      10/14/2020
+DATE: __________________________________                                   6LJQKHUHLIDSSOLFDEOH
+                                                             __________________________________________                                    318833
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+            Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 4 of 13
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                 )
+ EDWARD WISNER,                                  )
+                                                 )
+                 Plaintiff,                      )              No. ________________
+                                                 )
+        v.                                       )
+                                                 )
+ GROSFILLEX, INC.,                               )              CIVIL ACTION – LAW
+                                                 )
+                 Defendant.                      )
+                                                 )
+
+                                          COMPLAINT
+       NOW COMES, Plaintiff EDWARD WISNER (“Plaintiff”), by and through his
+
+undersigned counsel, who hereby complains against Defendant GROSFILLEX, INC.
+
+(“Defendant”) as follows:
+
+                                        INTRODUCTION
+
+       1.       This age employment discrimination action arises under the Age Discrimination in
+
+Employment Act of 1967, 29 U.S.C. § 621, et seq. (“ADEA”). Specifically, as set forth in more
+
+detail herein, Plaintiff alleges that he was demoted and then permanently laid off because of his
+
+age in violation of the ADEA.
+
+                                             PARTIES
+
+       2.       Plaintiff is an adult individual currently residing in New Berlinville, Berks County,
+
+Pennsylvania.
+
+       3.       Defendant is a global manufacturer, seller, and distributor of residential and
+
+commercial resin products. Defendant is a Delaware for-profit corporation with its North
+
+American headquarters located at 230 Old West Penn Ave., Robesonia, PA 19551. At all times
+             Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 5 of 13
+
+
+
+
+relevant and material hereto, Defendant regularly employed at least of fifteen (15) employees for
+
+each working day of at least twenty (20) calendar weeks in 2020 and 2019.
+
+                                  JURISDICTION AND VENUE
+
+        4.      This Court has jurisdiction over the subject matter of this action under 28 U.S.C. §
+
+1331 because this action arises under the laws of the United States.
+
+        5.      Venue in this district is proper under 28 U.S.C. § 1391(b)(2) because the events
+
+giving rise to this action occurred within this district.
+
+        6.      On July 10, 2020, Plaintiff timely filed a Charge of Discrimination against
+
+Defendant with the United States Equal Employment Opportunity Commission (“EEOC”).
+
+        7.      This action is being commenced more than sixty (60) days after Plaintiff filed his
+
+Charge of Discrimination with the EEOC.
+
+        8.      Plaintiff has satisfied all conditions precedent to the initiation of this action.
+
+                                   FACTUAL ALLEGATIONS
+
+        9.      Defendant hired Plaintiff in May 1984 as a full-time employee. During Plaintiff’s
+
+nearly 36 years as an employee, Defendant promoted him on several occasions due to his
+
+knowledge, skill, and dedication. Plaintiff received his most recent promotion to “Logistics
+
+Manager” in 2002.
+
+        10.     As a Logistics Manager, Plaintiff was responsible for directing and supervising the
+
+work of several “Logistics Coordinators.” From 1988 through 2002, Plaintiff reported to Logistics
+
+Manager, Ron Johnson. After receiving his promotion in 2002 through 2016, Mr. Wisner reported
+
+directly to Dan Yearick.
+
+        11.     In 2017, Defendant appointed Carlos Marin as CEO of its North American
+
+consumer products division. Upon assuming the position of CEO, Mr. Marin asked Defendant’s
+
+
+
+                                                   2
+          Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 6 of 13
+
+
+
+
+Human Resources Director to provide him with the ages of all long-time employees. Upon
+
+information and belief, Mr. Marin received this information.
+
+       12.     Once in the position, Mr. Marin consolidated three (3) of Defendant’s departments
+
+– Logistics, Customer Service, and IT – under a single unit called “Services.” Mr. Marin appointed
+
+David Sarge to be “Director of Services.” As a Logistics Manager in the Logistics Department,
+
+Plaintiff began reporting directly to David Sarge until August 2019.
+
+       13.     In August 2019, Defendant’s new American CEO, Frans Govers, named Gene
+
+Hracho as Director of Operations. As Director of Operations, Mr. Hracho was responsible for
+
+directing and supervising the Logistics Department, among others. From that point forward,
+
+Plaintiff reported to, and was directly supervised by, Mr. Hracho.
+
+       14.     As of January 2019, there were only three (3) employees in the Logistics
+
+Department: Plaintiff and two Logistics Coordinators, Mr. Joe Esteves, and Ms. Jennifer Sarabia.
+
+As Logistics Manager, Plaintiff was responsible for supervising and directing the work of Mr.
+
+Esteves and Ms. Sarabia.
+
+       15.     During the first half of 2019, the Logistics Department had some difficulty keeping
+
+up with its workload. The primary cause of these difficulties was the fact that the Logistics
+
+Department was significantly understaffed. Specifically, Ms. Sarabia was absent on intermittent
+
+medical leave for at least 25 days between February and June 2019. As far as Mr. Esteves was
+
+concerned, he was a non-exempt employee and never worked overtime, even if there was work to
+
+be completed. This resulted in a backlog of work to be performed.
+
+       16.     Defendant claimed at the time, however, that the primary impetus behind the
+
+Logistics Department’s decrease in productivity was that Plaintiff “did not have the technical
+
+
+
+
+                                                3
+          Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 7 of 13
+
+
+
+
+skills” to perform many of Ms. Sarabia’s job functions in her absence. Plaintiff’s alleged lack of
+
+“technical skills” was merely a euphemism for his older age.
+
+       17.     On October 2, 2019, a mere five (5) weeks after he became Plaintiff’s direct
+
+supervisor and without sufficient time to observe Plaintiff’s work product, Mr. Hracho placed
+
+Plaintiff on a 45-day Performance Improvement Plan (“PIP”). At the time, Plaintiff was sixty (60)
+
+years of age. The purported reason for the PIP was Plaintiff’s alleged failure to “create a
+
+Department that endeavors to provide prompt and thorough service.”
+
+       18.     Mr. Hracho claimed that his decision was based on “a series of interviews about
+
+[Plaintiff’s] performance and the work of the Logistics Department” as well as his “own personal
+
+experience.” This reason is pre-textual for two (2) reasons: (1) Mr. Hracho only directly supervised
+
+Plaintiff for five (5) weeks before placing him on a PIP and, therefore, did not have enough
+
+“personal experience” to judge Plaintiff’s job performance; and (2) based on Plaintiff’s
+
+conversations with many of the people to whom Mr. Hracho claimed to have spoken, some of them
+
+said they never spoke to Mr. Hracho while other stated they did not speak negatively of Plaintiff
+
+or his work performance and complained to Mr. Hracho primarily about the shortage of staff in
+
+the Logistics Department.
+
+       19.     At no point in his 35 years of service to Defendant was Plaintiff ever placed on a
+
+PIP. In fact, throughout his tenure with Defendant, Plaintiff received numerous promotions and
+
+raises as well as regular, above-average performance evaluations.
+
+       20.     As part of Defendant’s performance evaluations, the manager or supervisor
+
+performing the review must numerically rate employee performance in several categories on a 1-
+
+4 scale. Likewise, the employee being reviewed must also rate themselves in the same categories
+
+using the same 1-4 scale.
+
+
+
+                                                 4
+          Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 8 of 13
+
+
+
+
+       21.     When it came time for Plaintiff’s performance review at the end of October 2019,
+
+Plaintiff completed his portion of the review form and rated himself “3” in each of the ten (10)
+
+categories, giving him a cumulative score of “30.” This cumulative score was equal to the score
+
+Plaintiff received on his 2018 annual performance review. When Plaintiff provided his review to
+
+Mr. Hracho for completion, Mr. Hracho told Plaintiff that he scored himself too high and directed
+
+him to reduce his own scores. Mr. Hracho further told Plaintiff that, if he failed to reduce his own
+
+scores, there “would be consequences” because it was an “obvious sign” that he “did not
+
+understand the importance of” the PIP.
+
+       22.     Out of fear of losing his job given Mr. Hracho’s comments, Plaintiff reduced his
+
+scores in several areas, such that his cumulative score decreased to “24.” On or about October 30,
+
+2019, Mr. Hracho completed his numerical scoring of Plaintiff’s job performance, which resulted
+
+in a cumulative score of “20.” Mr. Hracho also commented that Plaintiff was not living up to
+
+Defendant’s expectations for its “senior” managers.
+
+       23.     On December 4, 2019, the day after Plaintiff’s PIP was completed, Defendant,
+
+through Mr. Hracho, demoted Plaintiff to the position of “Logistics Coordinator,” effective
+
+immediately. Defendant, through Mr. Hracho, made the decision to demote Plaintiff well before
+
+his PIP was completed. In addition, as part of Plaintiff’s demotion, Defendant, through Mr.
+
+Hracho, substantially reduced Plaintiff’s salary from $3,156.00 bi-weekly to $2,2442.30 bi-
+
+weekly.
+
+       24.     Following Plaintiff’s demotion, Defendant assigned all of Plaintiff’s job duties to
+
+Olivier Guichard, Defendant’s Supply Chain Manager. Thus, Mr. Guichard became the de facto
+
+Logistics Manager. What is more, Plaintiff, who was allegedly incompetent and bad at his job, was
+
+tasked with training Mr. Guichard since Mr. Guichard had no prior logistics experience.
+
+
+
+                                                 5
+             Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 9 of 13
+
+
+
+
+        25.     At the time he was assigned Plaintiff’s job duties, Mr. Guichard was under 40 years
+
+of age and was substantially younger than Plaintiff.
+
+        26.     To date, Defendant has not hired a permanent Logistics Manager to replace Plaintiff
+
+and the position of Logistics Manager remains vacant.
+
+        27.     After his demotion to Logistics Coordinator, Defendant assigned Mr. Esteves to
+
+train Plaintiff in the “technical skills” he needed to perform his new job. According to Defendant,
+
+Plaintiff allegedly had difficulty learning these new “technical skills.”
+
+        28.     Defendant demoted Plaintiff to the position of Logistics Coordinator with the
+
+expectation that Plaintiff would have difficulty learning the new “technical skills” the job required
+
+since Defendant demoted him, in part, because of his lack of “technical skills.”
+
+        29.     On or about March 23, 2020, amid the COVID-19 pandemic, Defendant laid off or
+
+furloughed a number of employees, including Plaintiff.
+
+        30.     Later in May 2020, many of the employees who were laid off or furloughed were
+
+recalled by Defendant. Plaintiff, however, was not recalled.
+
+        31.     Almost all of the employees who were recalled back were substantially younger
+
+than Plaintiff, including Ms. Sarabia.
+
+        32.     On May 15, 2020, Plaintiff emailed Mr. Hracho to ask what his status was and
+
+whether and when he can expect to return to work. Mr. Hracho replied that Plaintiff was
+
+permanently laid off and should not expect to be called back to work.
+
+        33.     Mr. Hracho was the person who decided to permanently lay off and discharge
+
+Plaintiff.
+
+        34.     Mr. Hracho decided that Plaintiff’s lay off would be permanent as early as March
+
+20, 2020.
+
+
+
+                                                  6
+          Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 10 of 13
+
+
+
+
+                                       COUNT I
+                  DISCRIMINATORY DEMOTION IN VIOLATION OF
+      29 U.S.C. § 623(a)(1), THE AGE DISCRIMINATION IN EMPLOYMENT ACT
+
+       35.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       36.     At all times relevant and material hereto, Plaintiff was 60 years of age.
+
+       37.     At the time of his demotion, Plaintiff was qualified for the position of Logistics
+
+Manager and was performing his job duties satisfactorily.
+
+       38.     On December 4, 2019, Defendant, through Mr. Hracho, demoted Plaintiff from his
+
+position as Logistics Manager to the position of Logistics Coordinator. As a result, Defendant,
+
+through Mr. Hracho, substantially reduced Plaintiff’s salary from $3,156.00 bi-weekly to
+
+$2,2442.30 bi-weekly.
+
+       39.     Following his demotion, Plaintiff’s job duties as Logistics Manager were assigned
+
+to Mr. Guichard, who was substantially younger than Plaintiff.
+
+       40.     From the date of Plaintiff’s demotion through the present, the position of Logistics
+
+Manager has remained vacant.
+
+       41.     Plaintiff was purportedly demoted for his lack of “technical skills” and his alleged
+
+failure to live up to Defendant’s expectations for its “senior” managers. These purported reasons
+
+are merely euphemisms for Plaintiff’s older age.
+
+       42.     Defendant demoted Plaintiff because of his age.
+
+       43.     Defendant’s decision to demote Plaintiff was not based on any reasonable factor
+
+other than Plaintiff’s age.
+
+       44.     Defendant demoted Plaintiff intentionally and/or in reckless disregard for
+
+Plaintiff’s rights under federal law.
+
+
+
+                                                 7
+          Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 11 of 13
+
+
+
+
+       45.     As a direct and proximate result of Defendant’s decision to demote him, Plaintiff
+
+suffered past and future lost wages and loss of earning capacity.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in his favor and against Defendant and award the following relief:
+
+               a.      All back pay from December 4, 2019 through the date of judgment, plus
+
+                       pre- and post-judgment interest;
+
+               b.      Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+               c.      Liquidated damages in an amount equal to the back pay award;
+
+               d.      All costs and reasonable attorney’s fees; and
+
+               e.      Any other relief deemed proper and just.
+
+                                      COUNT II
+                  DISCRIMINATORY DISCHARGE IN VIOLATION OF
+      29 U.S.C. § 623(a)(1), THE AGE DISCRIMINATION IN EMPLOYMENT ACT
+
+       46.     Plaintiff incorporates by reference all preceding allegations as if same were set forth
+
+more fully at length herein.
+
+       47.     On or about March 23, 2020, Plaintiff was permanently laid off and discharged
+
+from his position as Logistics Coordinator.
+
+       48.     At the time of his permanent lay off, Plaintiff was qualified for the position of
+
+Logistics Coordinator and was performing his job duties satisfactorily.
+
+       49.     Following its series of layoffs, Defendant recalled many laid off employees who
+
+were substantially younger than Plaintiff, including Ms. Sarabia.
+
+       50.     Upon her recall, Ms. Sarabia was the only Logistics Coordinator working for
+
+Defendant.
+
+
+
+                                                 8
+           Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 12 of 13
+
+
+
+
+       51.     According to Defendant, Ms. Sarabia was recalled instead of Plaintiff because she
+
+was more skilled in the Logistics Coordinator position. But Defendant demoted Plaintiff to the
+
+Logistics Coordinator position based on his alleged lack of “technical skills” and, therefore, it set
+
+Plaintiff up to fail by demoting him to a position that it believed he did not have the skills to
+
+perform.
+
+       52.     Defendant permanently laid off and discharged Plaintiff because of his age.
+
+       53.     Defendant’s decision to permanently lay off and discharge Plaintiff was not based
+
+on any reasonable factor other than Plaintiff’s age.
+
+       54.     Defendant discharged Plaintiff intentionally and/or in reckless disregard for
+
+Plaintiff’s rights under federal law.
+
+       55.     As a direct and proximate result of Defendant’s decision to discharge him, Plaintiff
+
+suffered past and future lost wages and loss of earning capacity.
+
+       WHEREFORE, Plaintiff respectfully requests that this Honorable Court enter judgment
+
+in his favor and against Defendant and award the following relief:
+
+               a.      All back pay from March 20, 2020 through the date of judgment, plus pre-
+
+                       and post-judgment interest;
+
+               b.      Front pay from the date of judgment through a date deemed equitable and
+
+                       just by the court;
+
+               c.      Liquidated damages in an amount equal to the back pay award;
+
+               d.      All costs and reasonable attorney’s fees; and
+
+               e.      Any other relief deemed proper and just.
+
+
+
+
+                                                 9
+          Case 5:20-cv-05078-HB Document 1 Filed 10/14/20 Page 13 of 13
+
+
+
+
+                            DEMAND FOR JURY TRIAL
+
+        PLEASE TAKE NOTICE that Plaintiff EDWARD WISNER demands a trial by jury for
+
+all claims so triable.
+
+                                              Respectfully Submitted,
+
+                                              KITAY LAW OFFICES
+
+Date: October 14, 2020                 BY:    /s/ William P. Mansour
+                                              William P. Mansour, Esquire
+                                              Pa. Attorney ID No. 318833
+                                              Kitay Law Offices
+                                              1810 Union Blvd.
+                                              Allentown, PA 18109
+                                              P: (610) 776-1700
+                                              Email: wmansour@kitaylegal.com
+
+                                              Attorney for Plaintiff Edward Wisner
+
+
+
+
+                                         10
+

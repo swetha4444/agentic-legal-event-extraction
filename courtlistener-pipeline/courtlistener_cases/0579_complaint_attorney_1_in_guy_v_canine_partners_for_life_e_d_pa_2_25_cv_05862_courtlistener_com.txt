@@ -1,0 +1,698 @@
+Source URL: https://www.courtlistener.com/docket/71632281/1/guy-v-canine-partners-for-life/
+Title: Complaint (Attorney) – #1 in GUY v. CANINE PARTNERS FOR LIFE (E.D. Pa., 2:25-cv-05862) – CourtListener.com
+
+             Case 2:25-cv-05862        Document 1       Filed 10/13/25      Page 1 of 13
+
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+ Susann Guy,                                   : Civil Action
+                                               :
+                                     Plaintiff : No.
+                                               :
+ v.                                            :
+                                               : Jury Trial Demanded
+ Canine Partners for Life and Janie Cramer, :
+                                               :
+                                 Defendants :
+
+                                           COMPLAINT
+
+                                            Introduction
+
+        1.      Plaintiff Susann Guy (Guy) is suing her former employer, Canine Partners for Life
+
+(CPL), and its former Executive Director, Janie Cramer (Cramer), for firing her due to age
+
+discrimination and retaliation.
+
+        2.      Guy brings this case under the Americans with Disabilities Act of 1990, as amended,
+
+42 U.S.C.A. § 12101 et seq. (ADAAA), the Age Discrimination in Employment Act, 29 U.S.C. §
+
+621 et seq. (ADEA), and the Pennsylvania Human Relations Act, 43 P.S. § 951 et seq. (PHRA).
+
+        3.      Guy seeks back pay, reinstatement or front pay, loss of earnings capacity,
+
+compensatory damages (under the ADAAA and the PHRA), punitive damages (under the
+
+ADAAA), liquidated damages (under the ADEA), interest, negative tax consequence damages,
+
+injunctive relief, and attorney’s fees and costs.
+
+                                     Jurisdiction And Venue
+
+        4.      This Court has original jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1343 and
+
+the ADAAA and the ADEA. Furthermore, Defendants’ conduct violates the PHRA and the
+
+pendant jurisdiction of this Court is invoked to remedy those violations.
+
+
+
+
+                                                    1
+            Case 2:25-cv-05862        Document 1        Filed 10/13/25      Page 2 of 13
+
+
+
+
+       5.       All jurisdictional prerequisites to bringing this action have been satisfied because:
+
+                (a)    On March 12, 2024, Guy dual-filed a timely Charge of Discrimination with
+
+       the Equal Employment Opportunity Commission (EEOC) and the Pennsylvania Human
+
+       Relations Commission (PHRC).
+
+                (b)    On July 15, 2025, the EEOC issued a Determination and Notice of Rights
+
+       to Guy.
+
+       6.       Venue is proper as Guy worked at CPL, which is located in the Eastern District of
+
+Pennsylvania.
+
+                                            The Parties
+
+       7.       Guy resides in Quarryville, Pennsylvania and is currently 61 years old.
+
+       8.       CPL is a Pennsylvania domestic non-profit domestic corporation with a principal
+
+place of business located at 334 Faggs Manor Road, Cochranville, PA 19330.
+
+       9.       Upon information and belief, at all relevant times, CPL employed over 23-25
+
+employees.
+
+       10.      According to its website, CPL “is a non-profit 501(c)(3) organization that breeds,
+
+raises, trains, and matches service and companion dogs with those who need support in their daily
+
+lives.” See https://k94life.org/ (visited October 6, 2025).
+
+       11.      According to its website, CPL “is dedicated to improving the quality of life and
+
+increasing the independence of those with disabilities or who are in other situations of need by
+
+pairing them with professionally trained service dogs and companion dogs.” See
+
+https://k94life.org/about-us-canine-partners-for-life/ (visited October 6, 2025).
+
+       12.      At all relevant times, Cramer was CPL’s Executive Director.
+
+
+
+
+                                                  2
+            Case 2:25-cv-05862         Document 1       Filed 10/13/25      Page 3 of 13
+
+
+
+
+        13.      At all material times hereto, CPL acted through its employees, agents,
+
+representatives and/or servants who were acting within the course and scope of their employment
+
+and authority.
+
+                                       Factual Background
+
+                    Age Discrimination and Retaliation are Foreseeable
+
+        14.      In 2023, the EEOC received 81,055 Charges of Discrimination.1 See
+
+https://www.eeoc.gov/data/enforcement-and-litigation-statistics-0 (visited October 6, 2025).
+
+        15.      Of these 81,055 Charges of Discrimination, 14,144 (17.45%) alleged age
+
+discrimination. See id.
+
+        16.      Of these 81,055 Charges of Discrimination, 46,047 (56.81%) alleged retaliation. See
+
+id.
+
+        17.      Despite foreseeability of age discrimination and retaliation, CPL hired managers
+
+and human resources personnel who were not qualified to follow laws and policies prohibiting age
+
+discrimination and retaliation.
+
+        18.      Despite foreseeability of age discrimination and retaliation, CPL did not adequately
+
+train its managers to follow laws and policies prohibiting age discrimination and retaliation.
+
+        19.      Despite foreseeability of age discrimination and retaliation, CPL failed to supervise
+
+its managers to ensure they followed laws and policies prohibiting age discrimination and
+
+retaliation.
+
+        20.      Although foreseeable, CPL failed to prevent age discrimination and retaliation
+
+against Guy.
+
+
+
+
+1 This number does not include charges filed with state or local Fair Employment Practices
+
+Agencies.
+
+                                                   3
+             Case 2:25-cv-05862      Document 1       Filed 10/13/25      Page 4 of 13
+
+
+
+
+                                Guy’s Employment with CPL
+
+        21.     In February 2004, Guy began working for CPL as an Administrative Assistant.
+
+        22.     In July 2013, CPL promoted Guy to Assistant to the Executive Director.
+
+        23.     In September 2014, CPL promoted Guy to Chief Operating Officer.
+
+        24.     At all relevant times, Guy was qualified for the Chief Operating Officer because:
+
+                (a)    Of her work experience with CPL;
+
+                (b)    In 2015, she, along with CPL’s previous Executive Director and Founder,
+
+        completed the Dale Carnegie Course: Skills for Success;
+
+                (c)    She met or exceeded CPL’s reasonable performance expectations for her
+
+        position—on November 10, 2023, less than one month before Defendants fired her, she
+
+        received a positive Performance Appraisal.
+
+        25.     In or around August 2022, CPL issued a written warning to Guy for allegedly
+
+presenting an “unwelcome work environment” after an employee filed a harassment complaint
+
+against Guy.
+
+        26.     CPL never shared the final written report with Guy and no evidence supporting
+
+harassment had been found; however, CPL issued the written warning.
+
+                             Guy Engages in Protected Activity
+
+        27.     Guy’s daughter, Tonya DiPilla (DiPilla), also worked for CPL.
+
+        28.     When DiPilla was in high school and college, she worked in the kennel as a kennel
+
+assistant.
+
+        29.     After graduating from college, from July 2013 until September 2023, DiPilla
+
+worked on CPL’s development team.
+
+        30.     In 2023, DiPilla requested four weeks of a flexible working schedule to work from
+
+home while her mother-in-law was undergoing cancer treatment.
+
+
+                                                 4
+          Case 2:25-cv-05862         Document 1        Filed 10/13/25     Page 5 of 13
+
+
+
+
+       31.     CPL denied DiPilla’s request and told her that she had to be in the office, while
+
+allowing other employees to work flexible schedules.
+
+       32.     On at least three occasions, Guy told Cramer that CPL had to be careful because
+
+it was discriminatory to not offer DiPilla the same flexibility that CPL offered to other employees.
+
+       33.     The last time Guy mentioned CPL’s discriminatory treatment of DiPilla to Cramer
+
+was in November 2023, less than a month before Defendants fired Guy.
+
+       34.     On that occasion, Guy told Cramer that DiPilla could have had a discrimination
+
+case against CPL.
+
+                                     Defendants Fire Guy
+
+       35.     On November 22, 2023, Cramer told Guy that she needed to meet with her about
+
+a complaint that had been filed.
+
+       36.     Cramer called Corey Wegerbauer (Wegerbauer), CPL’s Business Manager, to join
+
+the meeting.
+
+       37.     At this time, Guy was Wegerbauer’s acting supervisor and Wegerbauer had given
+
+notice that he was retiring at the end of December 2023.
+
+       38.     Cramer told Guy that an employee filed a harassment complaint against her.
+
+       39.     Cramer would not tell Guy who filed the complaint or what the situation or issue
+
+the complaint was related to.
+
+       40.     Guy was surprised since she could not recall any circumstance that would warrant
+
+such a serious complaint, which she told Cramer and Wegerbauer.
+
+       41.     Neither Cramer nor Wegerbauer would tell Guy any details about the alleged
+
+harassment complaint.
+
+       42.     Cramer and Wegerbauer told Guy that CPL hired a HR company (Blackwell HR
+
+Solutions) to investigate the harassment complaint.
+
+
+                                                 5
+           Case 2:25-cv-05862        Document 1       Filed 10/13/25       Page 6 of 13
+
+
+
+
+       43.     Cramer and Wegerbauer told Guy that since this was the second complaint that an
+
+employee had filed against her (referring to the August 2022 complaint mentioned above),
+
+Blackwell HR Solutions advised them to put Guy on immediate mandatory leave.
+
+       44.     Cramer asked for Guy’s keys and CPL credit card.
+
+       45.     Wegerbauer told Guy that should she choose to speak with the investigator assigned
+
+to the complaint, she should be able to figure out who filed the complaint and what it was about.
+
+       46.     Guy told Cramer and Wegerbauer that she was not sure that she could emotionally
+
+go through this type of situation again and not sure that she wanted to.
+
+       47.     Cramer handed Guy the name and phone number of the investigator.
+
+       48.     Guy went to her office and learned that CPL had disconnected Guy’s access to
+
+Outlook.
+
+       49.     Cramer came to Guy’s office and asked if she was going to call the investigator from
+
+the office or if she would rather go home to make the call.
+
+       50.     After noticing that CPL had removed her email access, Guy suggested to Cramer
+
+that when this type of action is done, access to the data drives should have also been removed.
+
+       51.     At this point, Guy was crying and could hardly speak. She packed up her personal
+
+possessions from the office and turned in her keys and credit card and left the building.
+
+       52.     After arriving home, Guy called Cramer and asked if she would still be permitted
+
+to talk with the investigator. Guy explained that she needed to know what the complaint was about
+
+and that she believed CPL could learn something from this situation. Cramer replied, “Certainly.”
+
+       53.     On November 22, 2023, Guy received the call from the investigator and responded
+
+to all questions asked.
+
+       54.     Guy learned from the investigator’s questions that it was Kirstin Downie (Downie),
+
+CPL’s Director of Development and Communications, who filed the complaint against her.
+
+
+                                                 6
+          Case 2:25-cv-05862         Document 1      Filed 10/13/25      Page 7 of 13
+
+
+
+
+       55.     Downie is significantly younger than Guy. Upon information and belief, Downie
+
+was around 40 years old.
+
+       56.     The investigator asked Guy questions about a set of emails that she shared with
+
+Cramer, obtained and passed along to Cramer per her request, relating to DiPilla’s request for
+
+flexibility with time working from home.
+
+       57.     The investigator also asked Guy a few questions surrounding a potential agreement
+
+with another non-profit (Pawsible) as well as her relationship with Cramer and DiPilla.
+
+       58.     After Guy spoke with the investigator, she could not imagine why Downie would
+
+have filed a harassment complaint against her since she never had any personal communications
+
+with Downie about DiPilla. Guy had always respected the relationship of supervisor and employee
+
+between Downie and DiPilla, only communicating concerns through Cramer.
+
+       59.     The investigator told Guy that the investigation results should be available to CPL
+
+by November 29, 2023.
+
+       60.     After not hearing from anyone by November 29, 2023, Guy called Cramer on
+
+December 1, 2023 and learned that the investigator had a personal emergency and that the results
+
+should be available the next week.
+
+       61.     Guy did not hear anything from CPL until December 8, 2023.
+
+       62.     Around 9:30 a.m. on December 8, 2023, Guy received a call from Cramer. Cramer
+
+told her that Wegerbauer was also on the call.
+
+       63.     Cramer told Guy that after discussions with members of CPL’s Board and
+
+considering the previous complaint (from August 2022), that it was in CPL’s best interest that she
+
+be released from employment.
+
+       64.     Cramer told Guy to expect a communication from CPL’s attorney about a
+
+severance agreement and told her that she should not talk with anyone other than CPL’s attorney.
+
+
+                                                 7
+           Case 2:25-cv-05862          Document 1       Filed 10/13/25      Page 8 of 13
+
+
+
+
+        65.      Defendants refused to share Blackwell HR Solutions’ investigative report with Guy.
+
+        66.      Guy did not sign a severance agreement.
+
+        67.      At the time of her firing, Guy was 59 years old.
+
+              Defendants Replace Guy with a Significantly Younger Individual
+
+        68.      Initially, after firing Guy, Wegerbauer assumed Guy’s duties until CPL hired a full
+
+time replacement.
+
+        69.      In 2024, CPL hired Alicia Spoto (Spoto) to replace Guy and re-named the Chief
+
+Operating Officer position to “Director of Operations.”
+
+        70.      Upon information and belief, Spoto is approximately 34 years old.
+
+        71.      Since Guy was 59 years old at the time of her firing, Spoto is approximately 26
+
+years younger than Guy.
+
+                                  Defendants’ Legal Violations
+
+        72.      Defendants discriminated against Guy based on her age.
+
+        73.      Defendants retaliated against Guy for engaging in protected activity when she
+
+complained about Defendants’ disparate treatment of DiPilla based on her association with a
+
+person with a disability.
+
+        74.      Defendants’ actions have caused Guy significant financial loss, as well as emotional
+
+distress, career damage, loss of earnings capacity, mental anguish, humiliation, embarrassment,
+
+and loss of dignity.
+
+                                          Count I
+                            Age Discrimination (ADEA and PHRA)
+
+        75.      Paragraphs 1-74 are incorporated by reference as if fully set forth herein.
+
+        76.      At the time of her firing, Guy was 59 years old.
+
+
+
+
+                                                   8
+             Case 2:25-cv-05862       Document 1        Filed 10/13/25     Page 9 of 13
+
+
+
+
+        77.     As averred above, at all relevant times, Guy was qualified for the Chief Operating
+
+Officer position.
+
+        78.     Defendants fired Guy and replaced her with a significantly younger individual.
+
+        79.     Defendants fired Guy due to age discrimination
+
+        80.     Defendants’ actions have caused Guy significant financial loss, as well as emotional
+
+distress, career damage, loss of earnings capacity, mental anguish, humiliation, embarrassment,
+
+and loss of dignity.
+
+        81.     Defendants’ acts, failures to act, practices, and policies set forth above constitute
+
+age discrimination and violate the ADEA and PHRA.
+
+        82.     Cramer is sued individually under the PHRA (and not under the ADEA) because
+
+she aided and abetted CPL’s discriminatory conduct against Guy by intending to aid CPL’s
+
+discriminatory behavior and/or by failing to take action to prevent CPL’s discriminatory behavior.
+
+        WHEREFORE, Guy respectfully requests this Court:
+
+        A.      Issue a Declaratory Judgment declaring that Defendants’ actions as set forth in this
+
+Complaint are unlawful and violate the ADEA and PHRA.
+
+        B.      Issue equitable/injunctive relief including:
+
+                (1)    Issue preliminary and permanent injunctions enjoining and restraining
+
+        Defendants, their officers, agents, employees, and those acting in participation with
+
+        Defendants, from engaging in any act or practice of harassment, discrimination, and/or
+
+        retaliation against employees in violation of the ADEA and PHRA.
+
+                (2)    Order CPL to provide training to all employees on harassment,
+
+        discrimination, and retaliation prevention and related compliance under the ADEA and
+
+        PHRA—with the training specifics to be tailored to the problems, deficiencies, and gaps
+
+        that the evidence shows.
+
+
+                                                  9
+            Case 2:25-cv-05862        Document 1       Filed 10/13/25       Page 10 of 13
+
+
+
+
+                (3)    Order CPL to deliver to its Board members and employees a copy of the
+
+       jury verdict and trial court judgment.
+
+                (4)    Order CPL to report on the manner of compliance with the terms of any
+
+       final order for non-monetary equitable relief issued under the ADEA and PHRA—with
+
+       the reporting specifics to be tailored based on the evidence.
+
+                (5)    Order CPL to reinstate Guy upon such terms and conditions as will put her
+
+       in the position she would have occupied had Defendants not unlawfully discriminated
+
+       against her.
+
+       C.       Enter judgment in favor of Guy and against Defendants for back pay, including
+
+wages and fringe benefits.
+
+       D.       Enter judgment in favor of Guy for front pay in lieu of reinstatement.
+
+       E.       Enter judgment in favor of Guy and against Defendants for compensatory damages
+
+for emotional distress, career damage, loss of earnings capacity, mental anguish, humiliation,
+
+embarrassment, and loss of dignity.
+
+       F.       Enter judgment in favor of Guy and against Defendants for liquidated damages, as
+
+allowable by law.
+
+       G.       Award Guy reasonable attorney’s fees together with the costs of this action.
+
+       H.       Award Guy pre-judgment and post-judgment interest.
+
+       I.       Enter judgment in favor of Guy for any other monetary losses as a direct result of
+
+Defendants’ violation of the ADEA and PHRA, including but not limited to negative tax
+
+consequence damages.
+
+       J.       Award such other and further legal and equitable relief as may be necessary and
+
+appropriate to redress fully the deprivation of Guy’s rights, to prevent their recurrence in the future
+
+and to protect other employees from such unlawful behavior.
+
+
+                                                  10
+             Case 2:25-cv-05862       Document 1        Filed 10/13/25     Page 11 of 13
+
+
+
+
+                                            Count II
+                                 Retaliation (ADAAA and PHRA)
+
+        83.      Paragraphs 1-82 are incorporated by reference as if fully set forth herein.
+
+        84.      As averred above, Guy engaged in protected activity under the ADAAA and the
+
+PHRA when she complained about Defendants’ disparate treatment of DiPilla based on her
+
+association with a person with a disability.
+
+        85.      As averred above, after Guy engaged in protected activity, she suffered an adverse
+
+action—Defendants fired her.
+
+        86.      Defendants retaliated against Guy for engaging in protected activity.
+
+        87.      Defendants’ actions have caused Guy significant financial loss, as well as emotional
+
+distress, career damage, loss of earnings capacity, mental anguish, humiliation, embarrassment,
+
+and loss of dignity.
+
+        88.      Defendants’ acts, failures to act, practices, and policies set forth above constitute
+
+retaliation and violate the ADAAA and PHRA.
+
+        89.      Cramer is sued individually under the PHRA (and not under the ADAAA) because
+
+she aided and abetted CPL’s retaliatory conduct against Guy by intending to aid CPL’s retaliatory
+
+behavior and/or by failing to take action to prevent CPL’s retaliatory behavior.
+
+        WHEREFORE, Guy respectfully requests this Court:
+
+        A.       Issue a Declaratory Judgment declaring that Defendants’ actions as set forth in this
+
+Complaint are unlawful and violate the ADAAA and PHRA.
+
+        B.       Issue equitable/injunctive relief including:
+
+                 (1)    Issue preliminary and permanent injunctions enjoining and restraining
+
+        Defendants, their officers, agents, employees, and those acting in participation with
+
+
+
+
+                                                  11
+            Case 2:25-cv-05862        Document 1      Filed 10/13/25     Page 12 of 13
+
+
+
+
+       Defendants, from engaging in any act or practice of harassment, discrimination, and/or
+
+       retaliation against employees in violation of the ADAAA and PHRA.
+
+                (2)    Order CPL to provide training to all employees on harassment,
+
+       discrimination, and retaliation prevention and related compliance under the ADAAA and
+
+       PHRA—with the training specifics to be tailored to the problems, deficiencies, and gaps
+
+       that the evidence shows.
+
+                (3)    Order CPL to deliver to its Board members and employees a copy of the
+
+       jury verdict and trial court judgment.
+
+                (4)    Order CPL to report on the manner of compliance with the terms of any
+
+       final order for non-monetary equitable relief issued under the ADAAA and PHRA—with
+
+       the reporting specifics to be tailored based on the evidence.
+
+                (5)    Order CPL to reinstate Guy upon such terms and conditions as will put her
+
+       in the position she would have occupied had Defendants not unlawfully retaliated against
+
+       her.
+
+       C.       Enter judgment in favor of Guy and against Defendants for back pay, including
+
+wages and fringe benefits.
+
+       D.       Enter judgment in favor of Guy for front pay in lieu of reinstatement.
+
+       E.       Enter judgment in favor of Guy and against Defendants for compensatory damages
+
+for emotional distress, career damage, loss of earnings capacity, mental anguish, humiliation,
+
+embarrassment, and loss of dignity.
+
+       F.       Enter judgment in favor of Guy and against Defendants for punitive damages, as
+
+allowable by law.
+
+       G.       Award Guy reasonable attorney’s fees together with the costs of this action.
+
+       H.       Award Guy pre-judgment and post-judgment interest.
+
+
+                                                12
+            Case 2:25-cv-05862       Document 1        Filed 10/13/25       Page 13 of 13
+
+
+
+
+       I.       Enter judgment in favor of Guy for any other monetary losses as a direct result of
+
+Defendants’ violation of the ADAAA and PHRA, including but not limited to negative tax
+
+consequence damages.
+
+       J.       Award such other and further legal and equitable relief as may be necessary and
+
+appropriate to redress fully the deprivation of Guy’s rights, to prevent their recurrence in the future
+
+and to protect other employees from such unlawful behavior.
+
+                                           Jury Demand
+
+       Guy demands a jury to try all claims triable by jury.
+
+
+                                                       Respectfully submitted,
+
+
+Dated: October 13, 2025                                __________________________
+                                                       Stephanie J. Mensing
+                                                       PA ID No. 89625
+                                                       Mensing Law LLC
+                                                       1515 Market Street, Suite 1200
+                                                       Philadelphia, PA 19102
+                                                       (215) 586-3751; (215) 359-2741 fax
+                                                       stephanie@mensinglaw.com
+                                                       Attorney for Plaintiff
+
+
+
+
+                                                  13
+

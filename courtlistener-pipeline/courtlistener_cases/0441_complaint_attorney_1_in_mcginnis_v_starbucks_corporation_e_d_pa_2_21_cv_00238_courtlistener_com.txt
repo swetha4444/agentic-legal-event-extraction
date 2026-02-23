@@ -1,0 +1,1301 @@
+Source URL: https://www.courtlistener.com/docket/29115075/1/mcginnis-v-starbucks-corporation/
+Title: Complaint (Attorney) – #1 in MCGINNIS v. STARBUCKS CORPORATION (E.D. Pa., 2:21-cv-00238) – CourtListener.com
+
+JS 44 (Rev. 10/20)                Case 2:21-cv-00238-GEKP
+                                                     CIVIL Document 1 Filed 01/17/21 Page 1 of 29
+                                                           COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+                                                                                                              STARBUCKS CORPORATION d/b/a STARBUCKS
+          COLLEEN MCGINNIS
+                                                                                                              COFFEE COMPANY
+    (b)   County of Residence of First Listed Plaintiff                Montgomery                             County of Residence of First Listed Defendant King
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                 Attorneys (If Known)
+      Katherine C. Oeltjen, Esquire
+      Console Mattiacci Law LLC, 1525 Locust Street, 9th
+      Floor, Philadelphia, PA 19102
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only) III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                           (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                          of Business In This State
+
+    2   U.S. Government                      4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                                     Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                        Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY             625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -            of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability        690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                              830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                              835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                      840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                      LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud              710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending             Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal           720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage              Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage          740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability        751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                            Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS            790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:               791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee               Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                             870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                           or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                       871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                       462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other         465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                 Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+      Proceeding             State Court                                Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                                 (specify)                  Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42. U.S.C. §2000e, et. seq. (“Title VII”); 29 U.S.C. §2601, et seq. (“FMLA”), 43 P.S. §951, et seq. (“PHRA”).
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff brings this action against her former employer for wrongful termination.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                              excess of $75,000                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                               DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+January 17, 2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                   JUDGE                           MAG. JUDGE
+                           Case 2:21-cv-00238-GEKP   Document
+                                              UNITED STATES     1 Filed
+                                                            DISTRICT     01/17/21 Page 2 of 29
+                                                                     COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                            King of Prussia, PA 19406
+Address of Plaintiff: ______________________________________________________________________________________________
+                                           2401 Utah Avenue, #800, Seattle, WA 98314
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+           1/17/2021                                               V.DWKHULQH&2HOWMHQ                                                        318037
+DATE: __________________________________                     ________________  __________________________                      __________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+     Katherine C. Oeltjen, Esquire counsel of record or pro se plaintiff, do hereby certify:
+I, ____________________________________________,
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      1/17/2021
+DATE: __________________________________
+                                                                   V.DWKHULQH&2HOWMHQ
+                                                             __________________________________________                                    318037
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+                     Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 3 of 29
+                                 IN THE UNITED STATES DISTRICT COURT
+                              FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                              CASE MANAGEMENT TRACK DESIGNATION FORM
+            COLLEEN MCGINNIS              :                                           CIVIL ACTION
+                           Plaintiff      :
+                        v.                :
+STARBUCKS CORPORATION d/b/a STARBUCKS COFFEE COMPANY
+                            Defendant.    :                                           NO.
+
+                                            DEFENDANT
+         In accordance with the Civil Justice     Expense and Delay Reduction Plan of this court, counsel for
+         plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+         filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+         side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+         designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+         the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+         to which that defendant believes the case should be assigned.
+
+         SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+         (a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                            ( )
+
+         (b) Social Security – Cases requesting review of a decision of the Secretary of Health
+             and Human Services denying plaintiff Social Security Benefits.                                  ( )
+
+         (c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.      ( )
+
+         (d) Asbestos – Cases involving claims for personal injury or property damage from
+             exposure to asbestos.                                                                           ( )
+
+         (e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+             commonly referred to as complex and that need special or intense management by
+             the court. (See reverse side of this form for a detailed explanation of special
+             management cases.)                                                                              ( )
+
+         (f) Standard Management – Cases that do not fall into any one of the other tracks.                  ( X)
+
+
+           January 17, 2021               / /s/ Katherine C. Oeltjen          Katherine C. Oeltjen
+         Date                               Attorney-at-law                     Attorney for Plaintiff
+          215-545-7676                   215-565-2852                           oeltjen@consolelaw.com
+
+         Telephone                           FAX Number                          E-Mail Address
+
+
+         (Civ. 660) 10/02
+          Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 4 of 29
+
+                              Civil Justice Expense and Delay Reduction Plan
+                             Section 1:03 - Assignment to a Management Track
+
+    (a)          The clerk of court will assign cases to tracks (a) through (d) based on the initial pleading.
+
+    (b)           In all cases not appropriate for assignment by the clerk of court to tracks (a) through (d), the
+plaintiff shall submit to the clerk of court and serve with the complaint on all defendants a case management
+track designation form specifying that the plaintiff believes the case requires Standard Management or
+Special Management. In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on the
+plaintiff and all other parties, a case management track designation form specifying the track to which that
+defendant believes the case should be assigned.
+
+    (c)         The court may, on its own initiative or upon the request of any party, change the track
+assignment of any case at any time.
+     (d)         Nothing in this Plan is intended to abrogate or limit a judicial officer's authority in any case
+pending before that judicial officer, to direct pretrial and trial proceedings that are more stringent than those
+of the Plan and that are designed to accomplish cost and delay reduction.
+     (e)        Nothing in this Plan is intended to supersede Local Civil Rules 40.1 and 72.1, or the
+procedure for random assignment of Habeas Corpus and Social Security cases referred to magistrate judges
+of the court.
+                            SPECIAL MANAGEMENT CASE ASSIGNMENTS
+                             (See §1.02 (e) Management Track Definitions of the
+                              Civil Justice Expense and Delay Reduction Plan)
+     Special Management cases will usually include that class of cases commonly referred to as "complex
+litigation" as that term has been used in the Manuals for Complex Litigation. The first manual was prepared
+in 1969 and the Manual for Complex Litigation Second, MCL 2d was prepared in 1985. This term is
+intended to include cases that present unusual problems and require extraordinary treatment. See §0.1 of the
+first manual. Cases may require special or intense management by the court due to one or more of the
+following factors: (1) large number of parties; (2) large number of claims or defenses; (3) complex factual
+issues; (4) large volume of evidence; (5) problems locating or preserving evidence; (6) extensive discovery;
+(7) exceptionally long time needed to prepare for disposition; (8) decision needed within an exceptionally
+short time; and (9) need to decide preliminary issues before final disposition. It may include two or more
+related cases. Complex litigation typically includes such cases as antitrust cases; cases involving a large
+number of parties or an unincorporated association of large membership; cases involving requests for
+injunctive relief affecting the operation of large business entities; patent cases; copyright and trademark
+cases; common disaster cases such as those arising from aircraft crashes or marine disasters; actions brought
+by individual stockholders; stockholder's derivative and stockholder's representative actions; class actions or
+potential class actions; and other civil (and criminal) cases involving unusual multiplicity or complexity of
+factual issues. See §0.22 of the first Manual for Complex Litigation and Manual for Complex Litigation
+Second, Chapter 33.
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 5 of 29
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT FOR
+                      THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+COLLEEN MCGINNIS,
+KING OF PRUSSIA, PA 19406                               CIVIL ACTION NO.:
+
+               Plaintiff,
+        v.
+
+STARBUCKS CORPORATION d/b/a
+STARBUCKS COFFEE COMPANY                               JURY TRIAL DEMANDED
+2401 Utah Avenue
+Seattle, WA 98314
+
+               Defendant.
+
+
+                                            COMPLAINT
+   I.   INTRODUCTION
+        Plaintiff, Colleen McGinnis (“Plaintiff”), a ten (10) year employee of Defendant who
+
+served as a Store Manager for a high-volume location, was wrongfully terminated by Defendant,
+
+Starbucks Corporation d/b/a/ Starbucks Coffee Company (“Defendant”), shortly after becoming
+
+pregnant, taking a maternity leave and complaining of pregnancy discrimination. Before
+
+informing Defendant of her pregnancy and complaining of pregnancy discrimination, Plaintiff
+
+had never been told that her performance as a Store Manager was deficient or that her job was in
+
+any jeopardy. Plaintiff now brings claims against the Defendant to Title VII of the Civil Rights
+
+Act of 1964, as amended, 42. U.S.C. §2000e, et. seq. (“Title VII”), the Family Medical Leave
+
+Act, 29 U.S.C. §2601, et seq. (“FMLA”) and the Pennsylvania Human Relations Act, as
+
+amended, 43 P.S. §951, et seq. (“PHRA”).
+
+  II.   PARTIES
+
+         1.    Plaintiff is an individual and citizen of the Commonwealth of Pennsylvania. She
+
+resides in King of Prussia, Pennsylvania.
+
+                                                1
+          Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 6 of 29
+
+
+
+
+         2.     Plaintiff is female.
+
+         3.     Defendant Starbucks Corporation d/b/a Starbucks Coffee Company is organized
+
+under the laws of the State of Washington with a principal place of business at 2401 Utah
+
+Avenue, Seattle Washington.
+
+         4.     Defendant is engaged in an industry affecting interstate commerce and regularly
+
+does business in the Commonwealth of Pennsylvania.
+
+         5.     At all times material hereto, Plaintiff worked for Defendant out of its stores
+
+throughout the Commonwealth of Pennsylvania, including without limitation, locations in West
+
+Chester and Exton, Pennsylvania.
+
+         6.     At all times material hereto, Defendant employed more than fifteen (15)
+
+employees.
+
+         7.     At all times material hereto, Defendant acted by and through their authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendant and in furtherance of Defendant’s business.
+
+         8.     At all times material hereto, Defendant acted as employers within the meaning of
+
+the statutes which form the basis of this matter.
+
+         9.     At all times material hereto, Plaintiff was an employee of Defendant within the
+
+meaning of the statutes that form the basis of this matter.
+
+ III.   JURISDICTION AND VENUE
+
+         10.    The causes of action which form the basis of this matter arise under Title VII, the
+
+FMLA and the PHRA.
+
+         11.    The District Court has jurisdiction over Count I (Title VII) and Count II (FMLA)
+
+pursuant to 28 U.S.C. §1331.
+
+
+
+                                                    2
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 7 of 29
+
+
+
+
+         12.      The District Court has jurisdiction over all Counts pursuant to 28 U.S.C. §1332
+
+since the amount in controversy exceeds the sum or value of seventy-five thousand dollars
+
+($75,000), exclusive of interests and costs, and as there is complete diversity of citizenship as
+
+Plaintiff is a citizen of Pennsylvania and Defendant is a citizen of Washington.
+
+         13.      Venue is proper in this District Court under 28 U.S.C. §1391(b) and 42 U.S.C.
+
+§2000e-5(f).
+
+         14.      On or about June 9, 2020, Plaintiff filed a Charge of Discrimination with the
+
+Equal Employment Opportunity Commission (“EEOC”) complaining of the acts of discrimination
+
+and retaliation alleged herein. The Charge of Discrimination was cross-filed with the
+
+Pennsylvania Human Relations Commission (“PHRC”). Attached hereto, incorporated herein,
+
+and marked as Exhibit “1” is a true and correct copy of the EEOC Charge (with personal
+
+identifying information redacted).
+
+         15.      On or about October 21, 2020 the EEOC issued the Plaintiff a Notice of Right to
+
+Sue for her Charge of Discrimination. Attached hereto and marked as Exhibit “2” is a true and
+
+correct copy of the Notice (with personal identifying information redacted).
+
+         16.      Upon information and belief, the EEOC took the lead in “investigating” Plaintiff’s
+
+Charge consistent with the EEOC/PHRC cross-filing agreement. Consistent with that agreement,
+
+the PHRC waives its rights to investigate Plaintiff’s Charge.
+
+         17.      The Plaintiff did not request the Right to Sue and the EEOC issued the Right to
+
+Sue sua sponte.
+
+         18.      Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+
+
+
+                                                  3
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 8 of 29
+
+
+
+
+IV.     FACTUAL ALLEGATIONS
+
+         19.    Plaintiff was hired by Defendant in or about July, 2007 as a Barista.
+
+         20.    She briefly left Defendant in 2008 and returned in 2010.
+
+         21.    Amid her strong performance, Plaintiff was promoted several times by Defendant
+
+from Barista to Shift Supervisor and then to Assistant Store Manager.
+
+         22.    In or about July, 2016, Plaintiff was promoted to Store Manager by her then
+
+District Manager, Brian Dragone (“Dragone”).
+
+         23.    As Store Manager, Plaintiff was responsible for managing a store that averaged
+
+approximately $ 2.5 million in sales annually. She was charged with managing personnel and
+
+staffing, waste management, and inventory.
+
+         24.    By 2018, Plaintiff was managing Defendant’s High Street, West Chester,
+
+Pennsylvania location. She reported to Maddie Houseman (“Houseman”) who in turn reported to
+
+Marcus Eckensberger (“Eckensberger”).
+
+         25.    At the High Street location, Plaintiff managed a team of eighteen (18) employees
+
+and was routinely used by Defendant as a resource for training other Store Managers amid her
+
+exemplary performance. She was often utilized by Defendant as a “mentor” to new Store
+
+Managers and asked to show them how to perform the job well.
+
+         26.    Plaintiff consistently performed her duties in an exemplary manner and took steps
+
+to ensure she was an active “team player” within the District. By way of example, and without
+
+limitation: (a) Plaintiff routinely received positive performance evaluations as Store Manager; (b)
+
+Plaintiff created and implemented a Coffee Masters Training program within the District and
+
+worked with employees (“Partners”) throughout the District to teach them about coffee culture,
+
+
+
+
+                                                 4
+          Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 9 of 29
+
+
+
+
+coffee growing and coffee processing; and (c) Plaintiff organized and judged the District’s Barista
+
+Championship for multiple years.
+
+         27.     On or about October 1, 2018, Trina Horton (“Horton”), District Manager became
+
+Plaintiff’s supervisor.
+
+         28.    Shortly thereafter, Horton asked Plaintiff to transfer to the Exton, Pennsylvania
+
+store.
+
+         29.    The Exton store was a higher volume store than the High Street location.
+
+         30.    Plaintiff agreed to the transfer.
+
+         31.    During the same conversation, Plaintiff told Horton that she was pregnant.
+
+         32.    Horton asked Plaintiff about her due date.
+
+         33.    Plaintiff asked Horton to keep the information about her pregnancy confidential
+
+as it was very early in the pregnancy and she had not widely shared news of her pregnancy.
+
+         34.    As soon as Horton learned that Plaintiff was pregnant, she subjected Plaintiff to
+
+unwarranted criticism and micromanagement of her performance. By way of example, and
+
+without limitation, Horton would criticize Plaintiff’s store and, by extension, Plaintiff’s
+
+performance in ways that were false or about which she could not have any knowledge because
+
+Horton did not visit the store with any regularity to observe the conditions of the store.
+
+         35.    Horton made numerous comments about Plaintiff’s pregnancy to Plaintiff’s
+
+subordinates and co-workers, including calling Plaintiff “hormonal,” discussing pregnancy
+
+cravings and telling Plaintiff that she should have a “vaginal birth.”
+
+         36.    Horton’s comments made Plaintiff feel embarrassed and uncomfortable.
+
+         37.    Plaintiff’s direct reports asked Plaintiff why Horton was treating her more harshly
+
+than others as they had noticed Horton’s poor treatment of Plaintiff.
+
+
+
+                                                    5
+          Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 10 of 29
+
+
+
+
+          38.    Amid Horton’s treatment of Plaintiff, she drafted an action plan for herself to
+
+document her efforts to meet Horton’s expectations.
+
+          39.    Plaintiff’s store, through no fault of Plaintiff’s, was experiencing serious staffing
+
+shortages that impacted the ability of the store to meet various items in the action plan.
+
+          40.    Plaintiff asked Horton for support in addressing the staffing shortages as ensuring
+
+appropriate staffing at all stores in the District is part of Horton’s job.
+
+          41.    Horton sent one Assistant Store Manager, who was still in training, to the store to
+
+“assist” Plaintiff.
+
+          42.    Instead of that employee assisting Plaintiff, Plaintiff had to spend extra time
+
+training the employee, resulting in additional work for Plaintiff rather than less.
+
+          43.    Plaintiff often covered gaps in staffing herself, working long weeks outside the
+
+normal scope of scheduled hours.
+
+          44.    To meet Horton’s increasing demands, Plaintiff worked lengthy shifts without
+
+breaks, remaining on her feet for additional hours while her pregnancy continued.
+
+          45.    Plaintiff suffered from gestational diabetes and amid her fear of Horton’s
+
+intensifying micromanagement, Plaintiff worked shifts instead of attending to necessary medical
+
+testing such as glucose monitoring.
+
+          46.    In or about early June, 2019, Horton gave Plaintiff a “documented coaching.”
+
+          47.    Plaintiff had not previously received a documented coaching as a Store Manager.
+
+          48.    Approximately two weeks later, the day prior to the start of Plaintiff’s maternity
+
+leave, Horton called Plaintiff into the storage room of the Exton store. Horton told Plaintiff she
+
+had heard that she was “upset” about the documented coaching.
+
+
+
+
+                                                    6
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 11 of 29
+
+
+
+
+          49.    Plaintiff told Horton that it was difficult to be covering so many shifts and
+
+working so much while pregnant as a result of the staffing shortages that the District was failing
+
+to assist her in resolving.
+
+          50.    In response, Horton told Plaintiff to ask her for help if she needed it.
+
+          51.    Plaintiff was on maternity leave from July 1, 2019 to October 15, 2019.
+
+          52.    The maternity leave was considered, consistent with Defendant’s policies, leave
+
+under the Family Medical Leave Act.
+
+          53.    During Plaintiff’s maternity leave, Plaintiff’s job was performed by a male, non-
+
+pregnant employee.
+
+          54.    During Plaintiff’s maternity leave, Horton promoted several employees into
+
+Assistant Store Manager and/or other leadership positions.
+
+          55.    Horton’s hiring and promotions resulted in an excessive number of management
+
+level employees when also including Plaintiff in store headcount.
+
+          56.    One day after Plaintiff returned from maternity leave, Horton came to the Exton
+
+store and subjected Plaintiff to unwarranted criticism. Horton told Plaintiff that three months of
+
+the store being managed by someone else was not enough time to “fix it.”
+
+          57.    Horton revoked the Exton store’s status as a “training store.”
+
+          58.    Horton told Plaintiff she would no longer be allowed to train new managers.
+
+          59.    Horton also made Plaintiff feel uncomfortable about needing to pump breast milk
+
+during her shifts and did not support Plaintiff in ensuring that Plaintiff had a private area to pump
+
+on her breaks.
+
+
+
+
+                                                   7
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 12 of 29
+
+
+
+
+         60.    On or about November 15, 2019, one month after Plaintiff returned from
+
+maternity leave, Horton told Plaintiff by telephone that she was being placed on a performance
+
+improvement plan or (“PIP”).
+
+         61.    Horton told Plaintiff that she would have ninety (90) days to improve her
+
+performance or she would be fired.
+
+         62.    Horton did not actually present Plaintiff with a PIP or provide her any written
+
+documentation relating to any performance improvement during the discussion.
+
+         63.    Plaintiff told Horton that she was struggling as a new mom and working on very
+
+little sleep amid her lengthy work weeks covering persistent staff shortages.
+
+         64.    In response, Horton stated that Plaintiff was a “groovy chick” but that she needed
+
+to be placed on a PIP.
+
+         65.    Plaintiff called Partner Resources and told them that she was being placed on a
+
+PIP within weeks of her return for maternity leave and that Defendant had made multiple errors
+
+related to her pay and benefits while out on leave.
+
+         66.    Plaintiff also shared with Partner Resources that Horton had not been supportive
+
+of Plaintiff’s needs to pump breast milk during her shift and that Horton had indicated to Plaintiff
+
+that she was uncomfortable with Plaintiff’s need to pump at work.
+
+         67.    Partner Resources told Plaintiff, without investigation, that it was “OK” for her to
+
+be placed on a PIP right after her maternity leave.
+
+         68.    Partner Resources also told Plaintiff that she was entitled to purchase materials to
+
+ensure that a store stock room could have a private area for pumping.
+
+         69.    Horton did not give Plaintiff the PIP until December 23, 2019.
+
+
+
+
+                                                  8
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 13 of 29
+
+
+
+
+         70.       By placing Plaintiff on a PIP on that date, Horton guaranteed that Plaintiff would
+
+not receive the quarterly bonus that she had earned.
+
+         71.       The PIP contained unreasonable goals and expectations, particularly in light of the
+
+extreme staffing shortages.
+
+         72.       While Plaintiff was on leave, neither Horton nor Plaintiff’s replacement, had
+
+meaningfully addressed the staffing shortages.
+
+         73.       The PIP further contained information related to issues that persisted or arose
+
+during Plaintiff’s maternity leave and while another Store Manager was responsible for the Exton
+
+Store.
+
+         74.       The male Store Manager who replaced Plaintiff during her leave was not held to
+
+the same expectations that Horton was holding Plaintiff.
+
+         75.       In order to meet each and every element of the PIP, Plaintiff worked extra hours
+
+and performed the job responsibilities of multiple positions. Plaintiff answered work-related texts
+
+at all hours and worked well in excess of what Defendant requires or expects of Store Managers.
+
+         76.       Horton, despite it being her job to do so, offered no support in addressing staffing
+
+shortages. Further, Horton criticized Plaintiff when she prioritized addressing staffing shortages to
+
+free up time for Plaintiff to address the items in the PIP.
+
+         77.       Horton did not provide Plaintiff any routine feedback on the PIP and rarely visited
+
+the Exton store.
+
+         78.       On or about February 20, 2020, during an offsite meeting called by Horton,
+
+Horton tried to convince Plaintiff to quit. She threatened Plaintiff with a poor reference if she
+
+remained with Defendant and did not complete the PIP to Horton’s satisfaction.
+
+
+
+
+                                                    9
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 14 of 29
+
+
+
+
+         79.    Horton told Plaintiff that she did not think Plaintiff could complete the PIP
+
+successfully.
+
+         80.    When Plaintiff refused to quit, Horton told Plaintiff that she was “pulling” another
+
+employee from the Exton store, resulting in further staffing shortages.
+
+         81.    Plaintiff understood that Horton’s goal in removing staff was to make it even
+
+more difficult for Plaintiff to complete the PIP.
+
+         82.    Plaintiff understood that Horton wanted Plaintiff to fail the PIP.
+
+         83.    Horton was angry that Plaintiff would not quit.
+
+         84.    On or about February 21, 2020, Plaintiff telephoned Partner Resources again and
+
+complained of pregnancy discrimination. Plaintiff specifically complained of Horton’s
+
+discriminatory conduct and her actions in connection with Plaintiff’s pregnancy, maternity leave
+
+and return from maternity leave.
+
+         85.    Plaintiff further complained that Horton was expecting Plaintiff to work hours
+
+more than what was expected of Store Managers, knowing that Plaintiff had a newborn baby at
+
+home.
+
+         86.    Plaintiff told Partner Resources that she was not going to quit.
+
+         87.    Partner Resources did not conduct any meaningful investigation of Plaintiff’s
+
+complaints of pregnancy discrimination.
+
+         88.    Following Plaintiff’s second call with Partner Resources regarding Horton’s
+
+discriminatory conduct, Horton suddenly made suggestions and aided in providing additional
+
+staffing to cover the Exton’s stores shifts.
+
+
+
+
+                                                    10
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 15 of 29
+
+
+
+
+            89.   Plaintiff understood that Partner Resources had contacted Horton and told her that
+
+Plaintiff had complained about Horton’s treatment of her in connection with her pregnancy and
+
+maternity leave.
+
+            90.   On March 3, 2020, before the ninety (90) days of the PIP were “up,” Horton told
+
+Plaintiff that it was “time to talk about” Plaintiff “leaving Starbucks.”
+
+            91.   Horton told Plaintiff that she was not completing her job responsibilities or
+
+meeting the culture or “values” of Starbucks.
+
+            92.   Plaintiff’s termination was effective immediately.
+
+            93.   Before becoming pregnant, taking maternity leave and complaining of pregnancy
+
+discrimination, Plaintiff had never been told that she was not completing her job responsibilities
+
+or meeting the culture and values of Starbucks; nor had Plaintiff ever been told her job was in
+
+jeopardy.
+
+            94.   Plaintiff was the only Store Manager to take a maternity leave within the District
+
+for at least five years, and perhaps longer.
+
+            95.   Plaintiff’s job duties were performed by a non-pregnant, non-complaining
+
+employee following her termination.
+
+            96.   Defendant will demote Store Managers to Assistant Store Managers or offer them
+
+transfers to lower volume stores when Defendant perceives performance “issues” with certain
+
+employees.
+
+            97.   Defendant did not discuss any option of keeping her job and moving to a lesser
+
+position or a lower volume store with Plaintiff at any time.
+
+            98.   Defendants stated reason(s) for terminating Plaintiff is pre-textual.
+
+
+
+
+                                                   11
+          Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 16 of 29
+
+
+
+
+          99.     Plaintiff’s sex/pregnancy was a motivating and/or determinative factor in
+
+Defendant’s discriminatory and retaliatory treatment of Plaintiff, including, without limitation, in
+
+connection with placing her on a PIP, denying her a bonus and her termination.
+
+          100. Plaintiff’s complaining of sex/pregnancy discrimination was a motivating and/or
+
+determinative factor in Defendant’s discriminatory and retaliatory treatment of Plaintiff,
+
+including, without limitation, with placing her on a PIP, denying her a bonus and her termination
+
+          101. The Defendant failed to prevent or address the discriminatory and retaliatory
+
+conduct referred to herein and further failed to take corrective and remedial measures to make the
+
+workplace free of discriminatory and retaliatory conduct.
+
+          102. The retaliatory actions taken against Plaintiff after she complained of
+
+discriminatory conduct would have discouraged a reasonable employee from complaining about
+
+discrimination.
+
+          103. Defendants retaliated against Plaintiff for taking FMLA leave.
+
+          104. As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendant, Plaintiff has in the past incurred and may in the future incur a loss of earnings and/or
+
+earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-
+
+esteem, mental anguish, and loss of life’s pleasures.
+
+          105. Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+          106. Defendant acted with malice and/or reckless indifference to Plaintiff’s protected
+
+rights.
+
+
+
+
+                                                 12
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 17 of 29
+
+
+
+
+          107. The conduct of Defendant, as set forth above, was outrageous and warrants the
+
+imposition of punitive damages against Defendant.
+
+                                      COUNT I – TITLE VII
+
+          108. Plaintiff incorporates by reference paragraphs 1 through 107 above, as if set forth
+
+herein in their entirety.
+
+          109. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant has violated Title VII.
+
+          110. Said violations were done with malice and/or reckless indifference to Plaintiff’s
+
+protected rights and warrant the imposition of punitive damages.
+
+          111. As a direct and proximate result of Defendant’s violation of Title VII, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          112. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendant’s discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                        COUNT II—FMLA
+
+          113. Plaintiff incorporates by reference paragraphs 1 through 112 above, as if set forth
+
+herein in their entirety.
+
+          114. By committing the foregoing acts against Plaintiff, Defendant has violated the
+
+FMLA.
+
+          115. Defendant’s conduct was retaliatory.
+
+          116. Said violations were not in good faith, and Defendant did not have reasonable
+
+grounds to believe that the foregoing acts were not in violation of the FMLA.
+
+          117. The imposition of liquidated damages is warranted.
+
+                                                 13
+         Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 18 of 29
+
+
+
+
+          118. As a direct and proximate result of Defendant’s violations of the FMLA, Plaintiff
+
+has suffered damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+                                         COUNT III – PHRA
+
+          119. Plaintiff incorporates by reference paragraphs 1 through 118 above, as if set forth
+
+herein in their entirety.
+
+          120. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant has violated the PHRA.
+
+          121. Said violations were intentional and willful.
+
+          122. As a direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          123. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendant’s discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                              RELIEF
+
+         WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+ Defendants’ improper conduct, and specifically prays that the Court grant the following relief to
+
+ Plaintiff by:
+
+         a.      Declaring the acts and practices complained of herein to be in violation of Title
+
+         VII;
+
+         b.      Declaring the acts and practices complained of herein to be in violation of the
+
+         FMLA;
+
+         c.      Declaring the acts and practices complained of herein to be in violation of the
+
+         PHRA;
+
+                                                 14
+       Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 19 of 29
+
+
+
+
+      d.     Enjoining and permanently restraining the violations alleged herein;
+
+      e.     Entering judgment against the Defendant and in favor of the Plaintiff in an
+
+      amount to be determined;
+
+      f.     Awarding compensatory damages to make the Plaintiff whole for all lost earnings,
+
+      earning capacity, and benefits, which Plaintiff has suffered as a result of Defendant’s
+
+      improper conduct;
+
+      g.     Awarding compensatory damages to Plaintiff for past pain and suffering,
+
+      emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff
+
+      has suffered as a result of Defendants’ improper conduct;
+
+      h.     Awarding punitive damages to Plaintiff;
+
+      i.     Awarding liquidated damages to Plaintiff;
+
+      j.     Awarding Plaintiff other such damages as are appropriate under Title VII, the
+
+      FMLA, and the PHRA;
+
+      k.     Awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+      reasonable attorneys’ fees; and
+
+      l.     Granting such other and further relief as this Court may deem just, proper, or
+
+      equitable including other equitable and injunctive relief providing restitution for past
+
+      violations and preventing future violations.
+
+                                           CONSOLE MATTIACI LAW LLC
+
+Dated: January 17, 2021                     By:      /s/ Katherine C. Oeltjen
+                                                     Katherine C. Oeltjen, Esquire (318037)
+                                                     Stephen G. Console, Esquire (36656)
+                                                     1525 Locust Street, 9th Floor
+                                                     Philadelphia, PA 19102
+                                                     (215) 545-7676
+                                                     Attorneys for Plaintiff Colleen McGinnis
+
+
+                                              15
+Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 20 of 29
+
+
+
+
+   EXHIBIT 1
+           Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 21 of 29
+
+
+
+
+                                         REDACTED
+
+REDACTED                                                    REDACTED
+        Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 22 of 29
+
+
+                                EEOC Charge of Discrimination
+           Colleen McGinnis v. Starbucks Corporation d/b/a Starbucks Coffee Company
+                                          Page 2 of 6
+
+
+
+    Throughout my employment, I performed my duties in a consistently exemplary manner and
+was an active team player in the region that I was assigned. By way of example only, and without
+limitation, I routinely volunteered to cover staff shortages at stores other than those I was assigned
+to and was often asked to mentor Store Managers on behalf of Respondent amid my strong
+performance. In addition, my store(s) served as a mentoring/training store(s). Only managers with
+ideal “training stores” that met all company standards were selected to train other Store Managers.
+In addition, I created and implemented a Coffee Masters Training program within my district, I
+worked with Respondent’s partners across my district in teaching them about coffee culture, coffee
+growing and coffee processing, and I organized and judged the district’s Barista Championship for
+two years.
+
+   2. Harm Summary
+    I believe that Respondent discriminated against me due to my gender (female) and pregnancy
+and retaliated against me for complaining of sex/pregnancy discrimination. Evidence of
+discriminatory and retaliatory conduct includes, but is not limited to the following:
+
+   A. On or about October 1, 2018, Trina Horton (“Horton”) (female), District Manager (“DM”)
+      became my supervisor. Horton initially reported to Eckensberger (male) Regional
+      Manager. She later reported to Dominic Alessandrini (“Alessandrini”) (male) Regional
+      Manager.
+
+   B. Shortly after she started as a District Manager, Horton convened a meeting with the Store
+      Managers who reported to her. During the meeting, in reference to new policy materials
+      from Respondent that referred to characteristics that made a good store manager, I
+      complained that I did not like Starbucks’ use of the world “benevolent” because I
+      associated the word with religion.
+
+   C. Horton scolded me and told me not to be so negative.
+
+   D. Following the meeting, Horton asked me to transfer to the Exton store. The Exton store
+      was higher volume than the store I was previously managing.
+
+   E. I agreed to take the higher volume store and, at the same time, told Horton that I was
+      pregnant. Horton acknowledged my pregnancy and asked when my due date was and I told
+      her. I asked her to keep the information confidential as it was very early in my pregnancy
+      and I had not told many people about my pregnancy.
+    Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 23 of 29
+
+
+                            EEOC Charge of Discrimination
+       Colleen McGinnis v. Starbucks Corporation d/b/a Starbucks Coffee Company
+                                      Page 3 of 6
+F. As soon as Horton learned that I was pregnant, she subjected me to unwarranted criticism
+   and micromanagement of my performance. By way of example, Horton would criticize my
+   store, and by extension my performance, in ways that were false and about which she could
+   not have any knowledge because she did not come to my store with any regularity to
+   observe the conditions of the store.
+
+G. At the same time, Horton made numerous comments about my pregnancy to my
+   subordinates and co-workers, including calling me “Hormonal,” wanting to discuss
+   pregnancy cravings and telling me that I should have a “vaginal birth” in front of other
+   employees, embarrassing me and making me uncomfortable.
+
+H. Employees reporting to me noticed that Horton treated me more harshly than others and
+   asked me why she was treating me differently.
+
+I. Amid Horton’s treatment of me, I drafted an action plan for myself in an effort to document
+   my efforts to meet her expectations. At the same time, my store was experiencing staffing
+   shortages that seriously impacted the store’s ability to complete all items on the action plan.
+
+
+J. Despite the well-known staffing shortages, the only support Horton provided to my store
+   was to send an Assistant Store Manager who had yet to complete her training to help.
+   Because of the Assistant Store Manager’s lack of training, I had to spend extra time training
+   her on the job and checking her work, resulting in more work for me, rather than less.
+
+K. Amid Horton’s micromanagement of my performance and my desire to exceed her
+   expectations despite extreme staffing shortages, I worked lengthy shifts without breaks. I
+   suffered from gestational diabetes and I worked instead of attending necessary medical
+   testing and remained on my feet without adequate breaks or snacks in an effort to please
+   Horton and to keep my job.
+
+L. In early June, 2019, Horton gave me a documented coaching. Approximately two weeks
+   later, the day prior to the start of my maternity leave, Horton called me into the Exton store
+   storage room and told me she had heard I was “upset” about the coaching. She told me at
+   that time it was for cleanliness of my store. I told Horton that it was difficult to be working
+   so much while pregnant.
+
+
+M. Prior to notifying Respondent that I was pregnant, I had never received a documented
+   coaching as a Store Manager.
+
+N. I took maternity leave from July 1, 2019 to October 15, 2019. During my maternity leave,
+   Horton selected a non-pregnant Store Manager to perform my job duties.
+    Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 24 of 29
+
+
+                           EEOC Charge of Discrimination
+      Colleen McGinnis v. Starbucks Corporation d/b/a Starbucks Coffee Company
+                                     Page 4 of 6
+
+O. At the same time, while I was on maternity leave, Horton hired or promoted several people
+   into Assistant Store Manager and/or other leadership positions. I understood her to be
+   training them to take my place as the staff she hired/promoted exceeded the number of
+   open slots for management level positions within the district so long as I remained in my
+   job.
+
+P. On or about October 16, 2019, one day after I returned from leave, Horton came to the
+   Exton store. During the meeting, Horton gave me unwarranted criticism about my
+   performance and told me that three months of the store being managed by someone else
+   wasn’t enough time to “fix it.”
+
+Q. Horton also told me that I would no longer be allowed to train new managers or have the
+   Exton store be a training store.
+
+R. On or about November 15, 2019, when I had been back from maternity leave for only one
+   month, Horton told me I had ninety (90) days to improve my performance or I would be
+   terminated and that she was putting me on a performance improvement plan or (“PIP”).
+
+S. Horton did not actually present me with any written documentation or a PIP on November
+   15, 2019.
+
+T. I told Horton that I was struggling a bit as a new mom to find work-life balance and that I
+   was working large numbers of hours on little sleep amid persistent staffing shortages.
+
+U. Horton told me she thought I was a “groovy chick” but that she needed to present me with
+   the PIP.
+
+V. Given my recent maternity leave and Horton’s threat of termination, I called Partner
+   Resources and complained that Horton was placing me on a PIP within weeks of my return
+   from maternity leave. I also detailed errors in my benefits and pay by Respondent during
+   my maternity leave that resulted (through no fault of my own) in a temporary loss of
+   benefits in contrast to Respondent’s policies.
+
+W. Partner Resources told me it was “OK” for me to be placed on a PIP despite its proximity
+   to my maternity leave.
+
+X. Horton did not give me a PIP until December 23, 2019.
+
+Y. The PIP contained unreasonable goals and expectations given the extreme staffing
+   shortages in the Exton store.
+          Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 25 of 29
+
+
+                                 EEOC Charge of Discrimination
+            Colleen McGinnis v. Starbucks Corporation d/b/a Starbucks Coffee Company
+                                           Page 5 of 6
+      Z. The issues identified on the PIP existed during my three months of maternity leave, but the
+         non-pregnant Store Manager (male) who performed my work while on leave was not held
+         to the same expectations nor was he placed on a PIP.
+
+AA. I worked diligently to achieve each item on the PIP despite staffing shortages that were
+    well known to Horton, resulting in me working extra hours and engaging in job
+    responsibilities of multiple people and positions. I answered work-related text messages at
+    all hours and worked well in excess of what Respondent expected for its Store Managers.
+
+BB.      Horton offered no support, despite it being within her job responsibilities to do so, in
+         addressing staffing shortages and was unhappy with me when I prioritized resolving the
+         staffing shortages so that I could then have the time to attend to the items in the PIP.
+
+CC.      During the PIP, Horton did not provide me with routine feedback or support my efforts to
+         meet my goals and rarely visited my store.
+
+DD. On or about February 20, 2020, during an offsite meeting called for by Horton, she tried to
+    convince me to quit, threatening me with a poor reference if I remained and didn’t complete
+    my PIP to her satisfaction. Horton told me that she didn’t think I could successfully
+    complete the PIP.
+
+EE.      When I didn’t agree to quit, Horton told me that she was pulling another employee from
+         my store who had been supporting me while experiencing extreme staffing shortages.
+
+FF.      In removing staff from my store, Horton made the task of completing the PIP substantially
+         more difficult.
+
+GG. I understood Horton to be trying to force me to quit.
+
+HH. On or about February 21, 2020, I telephoned Partner Resources and complained about
+    Horton’s actions in connection with my pregnancy, maternity leave and return. I further
+    complained that I was working fifty (50) hour weeks with a newborn at home but that I
+    was afraid to lessen my schedule or take any time off because of Horton’s treatment of me.
+
+II.      I told Partner Resources that I was not going to quit my job.
+
+JJ.      Following my call with Partner Resources, Horton suddenly, and for a short time, made
+         suggestions and aided in providing additional staffing to cover my store’s shifts.
+
+KK. I understood that Partner Resources had contacted Horton and told her that I had
+    complained about her treatment of me in connection with my pregnancy and maternity
+    leave.
+        Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 26 of 29
+
+
+                               EEOC Charge of Discrimination
+          Colleen McGinnis v. Starbucks Corporation d/b/a Starbucks Coffee Company
+                                         Page 6 of 6
+
+LL.    On March 3, Horton told me it was “time to talk about [me] leaving Starbucks.” Horton
+       told me that I wasn’t completing my job responsibilities or meeting the culture and values
+       of Starbucks.
+
+MM. My termination was effective immediately.
+
+NN. Prior to becoming pregnant and taking a maternity leave, I had never been told that I wasn’t
+    completing my job responsibilities or meeting the culture and values of Starbucks nor had
+    I ever been warned that my job was in jeopardy.
+
+OO. To the best of my knowledge, after my termination, my job duties were performed by a
+    female employee who had not recently been pregnant or taken a maternity leave.
+
+PP.    No Store Manager, other than me, has taken a maternity leave from within my district
+       within the past five years (and perhaps more).
+
+II. Respondent’s Stated Reason
+
+        Respondent has not provided a legitimate, non-discriminatory reason for the discriminatory
+and retaliatory treatment to which I have been subjected, including, but not limited to, subjecting
+me to a hostile work environment and terminating me. The stated reason for my termination my
+position, is pre-textual.
+
+III. Statutes and Basis of Allegations
+
+
+       I believe that Respondent has discriminated against me in violation of Title VII of the Civil
+Rights Act of 1964, as amended, 42 U.S.C. §2000e, et seq. (“Title VII”) and the Pennsylvania
+Human Relations Act, as amended 43 P.S. §951, et. seq. (“PHRA”).
+Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 27 of 29
+
+
+
+
+   EXHIBIT 2
+      Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 28 of 29
+
+
+
+
+REDACTED
+Case 2:21-cv-00238-GEKP Document 1 Filed 01/17/21 Page 29 of 29
+

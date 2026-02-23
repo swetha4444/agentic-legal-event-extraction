@@ -1,0 +1,1960 @@
+Source URL: https://www.courtlistener.com/docket/16529816/1/newsome-v-city-of-philadelphia/
+Title: Complaint – #1 in NEWSOME v. CITY OF PHILADELPHIA (E.D. Pa., 2:19-cv-05590) – CourtListener.com
+
+Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 1 of 42
+Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 2 of 42
+Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 3 of 42
+         Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 4 of 42
+
+
+
+
+DEREK SMITH LAW GROUP, PLLC
+IAN M. BRYSON, ESQUIRE
+Attorney ID No. 321359
+1835 Market Street, Suite 2950
+Philadelphia, PA 19103
+(215) 391-4790
+ian@dereksmithlaw.com
+Attorneys for Plaintiff and the Proposed Class
+
+                 IN THE UNITED STATES DISTRICT COURT FOR THE
+                       EASTERN DISTRICT OF PENNSYLVANIA
+________________________________________________
+                                                         :
+JANELLE NEWSOME,                                         : Civil Action No.
+individually and on behalf of others similarly situated, :
+                                                         : COLLECTIVE ACTION
+                              Plaintiff,                 : COMPLAINT FOR
+                                                         : DECLARATORY JUDGMENT,
+       v.                                                : INJUNCTIVE RELIEF and
+                                                         : DAMAGES
+CITY OF PHILADELPHIA,                                    :
+                                                         :
+                              Defendant.                 :
+________________________________________________:
+
+                                 NATURE OF THE ACTION
+   1. Plaintiff Janelle Newsome brings this suit individually and on behalf of all others
+
+       similarly situated as a collective action seeking all available relief under the Fair Labor
+
+       Standards Act of 1938, 29 U.S.C. §§ 201 et seq. (“FLSA”) contending that the
+
+       Philadelphia Police Department has systematically and willfully failed to provide nursing
+
+       female police officers with “reasonable break time to express breast milk for their nursing
+
+       children for 1 year after the child’s birth each time such employee has need to express the
+
+       milk,” and has further failed to provide “a place, other than a bathroom, that is shielded
+
+       from view and free from intrusion from coworkers and the public, which may be used by
+
+       employees to express breast milk.” 29 U.S.C. § 207(r)(1)(A) and (B).
+
+
+
+
+                                                 1
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 5 of 42
+
+
+
+
+2. Plaintiff also brings this action for personal relief from sex discrimination in violation of
+
+   Title VII of the Civil Rights Act of 1964, 42 U.S.C. §§ 2000e et seq. (“Title VII”) and
+
+   Section 1983 of the Civil Rights Act of 1871, 42 U.S.C. § 1983 (“Section 1983”).
+
+3. Plaintiff seeks injunctive and declaratory relief, compensatory damages, punitive
+
+   damages, liquidated damages, statutory penalties, reasonable attorneys’ fees, litigation
+
+   costs and pre- and post-judgment interest as remedies for Defendant’s violations of her
+
+   rights.
+
+                                         PARTIES
+4. Plaintiff Janelle Newsome (“Ms. Newsome”) is an adult individual resident of
+
+   Philadelphia County and a citizen of the Commonwealth of Pennsylvania. Pursuant to
+
+   Section 216(b) of the FLSA, Plaintiff has consented in writing to be a party in this action.
+
+   Her executed Consent to Sue form is attached hereto as Exhibit “A.”
+
+5. Defendant City of Philadelphia (“the City”) is a municipality of the Commonwealth of
+
+   Pennsylvania. The City owns, operates, manages, directs and controls the Philadelphia
+
+   Police Department (“the PPD”), whose agents, servants and employees at all relevant
+
+   times were acting within the course and scope of their employment under color of state
+
+   law and operating pursuant to official policies, customs or practices of the City and the
+
+   PPD.
+
+6. Plaintiff was an “employee” and Defendant was an “employer” covered by the FLSA and
+
+   Title VII and was required to comply with the mandates therein.
+
+7. Defendant systematically and willfully failed to satisfy the requirements of the FLSA,
+
+   Title VII and Section 1983.
+
+
+
+
+                                              2
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 6 of 42
+
+
+
+
+    EXHAUSTION OF ADMINISTRATIVE REMEDIES UNDER TITLE VII
+8. Ms. Newsome timely filed charges of discrimination with the U.S. Equal Employment
+
+   Opportunity Commission (“EEOC”) and the Pennsylvania Human Relations Commission
+
+   (“PHRC”) alleging violations of Title VII the Pennsylvania Human Relations Act, 43
+
+   P.S. §§ 951-963 (“PHRA”), and the Philadelphia Fair Practices Ordinance, Philadelphia
+
+   Code §§ 9-1101 et seq. (“PFPO”).
+
+9. EEOC issued Ms. Newsome a Notice of Right to Sue Within 90 Days. Ms. Newsome has
+
+   timely filed this action and has complied with all administrative prerequisites to bring this
+
+   lawsuit.
+
+10. Ms. Newsome’s PHRA and PFPO claims are still pending before PHRC because less
+
+   than one year has elapsed since PHRC assumed jurisdiction over her charges. After one
+
+   year, Ms. Newsome will seek leave to amend this complaint to assert her PHRA and
+
+   PFPO claims.
+
+                            JURISDICTION AND VENUE
+11. This Court has jurisdiction over this lawsuit pursuant to 28 U.S.C § 1331 because it
+
+   involves questions of federal law under Title VII, Section 1983 and the FLSA.
+
+12. Venue in this Court is proper under 28 U.S.C. § 1391(b) because a substantial part of the
+
+   acts or omissions giving rise to the claims alleged herein occurred within this judicial
+
+   district, and Defendant is subject to personal jurisdiction here.
+
+13. This Court is empowered to issue a declaratory judgment pursuant to 28 U.S.C. §§ 2201
+
+   and 2202.
+
+                  FLSA COLLECTIVE ACTION ALLEGATIONS
+14. The PPD employs over 6300 sworn members, approximately 35% of which are women.
+
+   There are eleven different ranks in the PPD in the following order, beginning at the entry
+                                             3
+ Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 7 of 42
+
+
+
+
+level position of Police Officer and ending with Police Commissioner: (1) Police Officer;
+
+(2) Detective; (3) Corporal; (4) Sergeant; (5) Lieutenant; (6) Captain; (7) Staff Inspector;
+
+(8) Inspector; (9) Chief Inspector; (10) Deputy Commissioner; and (11) Commissioner.
+
+The City’s Office of Human Resources provides the following job class specification for
+
+Police Officer:
+
+GENERAL DEFINITION
+
+This is general duty police work on an assigned shift involving the protection of
+life and property, enforcement of laws, and investigation of crimes. Work is
+performed under the supervision of a police officer of higher rank. The employee
+has a controlling impact on the prevention of crime within an assigned area. Work
+requires regular exposure to uncontrolled and/or unpredictable conditions and the
+frequent exercise of moderate physical effort. The essential functions and tasks
+required for the position of police officer, include, but are not limited to,
+qualification and use of firearms, patrolling and apprehension of suspects.
+Employees in this class must also comply with Commonwealth municipal police
+officer certification requirements
+
+ALLOCATING FACTORS
+
+Positions in this class must be able to perform the essential and physical functions
+of the job.
+
+TYPICAL EXAMPLES OF WORK
+
+Patrols a designated area of the city, on foot, bicycle, segway or horseback, or in a
+car, motorcycle, or police boat to prevent and discover the commission of crime
+and to enforce traffic and parking regulations; answers calls and complaints, taking
+the necessary police action.
+
+Takes proper police action at scene of crime, administers first aid, gathers evidence,
+locates witnesses and makes arrest; appears in court to present evidence and testify
+against persons accused of crimes.
+
+Investigates persons suspected of being engaged in gambling, illegal sale of liquors,
+or other vice activities; checks the operation of taverns, poolrooms, dance halls,
+clubs, and similar establishments for compliance with laws and ordinances.
+
+Ascertains validity of information or secures evidence for the arrest of persons
+alleged to have committed a crime; searches for and preserves evidence; interviews
+suspects, prisoners, complainants, and witnesses, takes information or secures
+
+                                          4
+ Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 8 of 42
+
+
+
+
+evidence for the arrest of persons alleged to have committed a crime; searches for
+and preserves evidence; interviews suspects, prisoners, complainants and witnesses
+to obtain information about crimes; reports automobile accidents, interviews
+witnesses, takes information, and makes detailed reports.
+
+Investigates complaints concerning juveniles; discusses the case with complainant,
+juvenile, parents and others who may be able to aid in the case; investigates crimes
+by and against juveniles; testifies in court concerning case, visits neighborhood
+boys’ clubs and recreation centers, counseling leaders on juvenile problems.
+
+Writes detailed reports of automobile accidents in cases where personal injuries or
+property damage is apparent.
+
+Works with community residents, business owners and other City employees to
+solve problems of crime and disorder.
+
+Performs all duties and responsibilities at the highest level of personal and
+professional ethics.
+
+Uses computer systems to identify crime patterns, analyzes the nature of crime and
+disorders, problems and obtains information relevant to crime control and
+prevention.
+
+May serve in the district operations office to perform necessary clerical procedures
+connected with police work.
+
+Performs related work as required.
+
+REQUIRED KNOWLEDGE, SKILLS AND ABILITIES
+
+KNOWLEDGE OF:
+   •   the use, care and safe handling of firearms and other equipment used in the
+       performance of essential tasks;
+   •   the laws controlling, and the procedures, practices and techniques necessary
+       to police patrol operations;
+   •   the laws, codes, statutes and regulations concerning criminal activity,
+       especially when they apply to law enforcement operations;
+   •   the criminal justice system as it applies to law enforcement operations;
+   •   the techniques, practice and procedures necessary to the effective
+       interaction with the general public, victims, suspects, and officers of other
+       agencies and municipalities; and
+   •   duty manuals, departmental organizations, administrative direction and
+       applicable City ordinances.
+SKILL IN:
+
+
+                                         5
+ Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 9 of 42
+
+
+
+
+     •   the use and care of firearms and other equipment used in the performance
+         of essential tasks
+ABILITY TO:
+     •   cope with situations firmly, courteously, tactfully and with respect for the
+         rights of others;
+     •   analyze situations quickly and objectively, and to determine a proper course
+         of action to be taken;
+     •   understand and carry out oral and written instructions;
+     •   write and speak effectively;
+     •   learn clerical procedures connected with police work;
+     •   make arrests;
+     •   take necessary police action to prevent the commission of a crime, including
+         use of a firearm where needed;
+     •   patrol streets on foot;
+     •   respond to emergency situations;
+     •   use firearms and other weapons as needed;
+     •   operate equipment in the performance of essential tasks;
+     •   perform the essential and physical functions of the job;
+     •   identify, analyze and respond to crime and disorder problems; and
+     •   use computer systems to obtain necessary information in the performance
+         of the position.
+MINIMUM ACCEPTABLE TRAINING AND EXPERIENCE
+
+For employees hired from eligible lists for Police Officer Recruit initially
+established before 2012:
+
+EDUCATION: Education equivalent to standard high school.
+
+AND
+
+TRAINING: Recent successful completion of training as a Police Officer Recruit
+at the City of Philadelphia Police Academy.
+
+OR
+
+CERTIFICATION: Possession of Pennsylvania Municipal Police Officers’
+Certification from the Pennsylvania Municipal Police Officers Education and
+Training Commission prior to appointment and during tenure of employment as a
+Police Officer 1.
+
+For employees hired from eligible lists for Police Officer Recruit initially
+established during or after 2012 or from Police Officer 1 eligible lists initially
+established during or after 2011:
+
+
+                                          6
+ Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 10 of 42
+
+
+
+
+Option 1
+
+TRAINING: Recent successful completion of training as a Police Officer Recruit
+at the City of Philadelphia Police Academy.
+
+OR
+
+Option 2
+
+EDUCATION: Education equivalent to completion of a standard high school.
+
+AND
+
+EXPERIENCE: One year of full time employment as a commonwealth or state
+certified Law Enforcement Officer which has been within the three year period
+immediately prior to the thirtieth (30) day after the last date for filing applications
+for the examination for this class.
+
+AND
+
+CERTIFICATION: Possession of a commonwealth or state Law Enforcement
+Officers’ Certification.
+
+PHYSICAL AND MEDICAL REQUIREMENTS
+
+Ability to meet the physical and medical standards approved for this class.
+
+Age—Must have reached Nineteenth (19th) Birthday as of the date of appointment.
+
+LICENSES, REGISTRATIONS AND/OR CERTIFICATES
+
+Possession of Pennsylvania Municipal Police Officers’ Certification from the
+Pennsylvania Municipal Police Officers Education and Training Commission prior
+to appointment and during tenure of employment as a Police Officer 1.
+
+Initial and annual qualification on a police firearms course, by a certified police
+firearms instructor, with any firearms, shotguns, rifles authorized for use including
+personal weapons carried in lieu of issued weapons or as a second weapon.
+
+Possession of a valid proper class motor vehicle operator's license as issued by the
+Commonwealth of Pennsylvania within 60 days of establishing Pennsylvania
+residency and during tenure of employment as a Police Officer 1.
+Preferred License
+
+Possession of a valid proper class motor vehicle operator's license from any state at
+least three years prior to appointment as a Police Officer 1.
+
+                                          7
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 11 of 42
+
+
+
+
+   See City of Philadelphia Office of Human Resources Personnel Job Class Specifications,
+   Police Officer 1, https://www.phila.gov/personnel/specs/6A02.htm
+
+15. Pursuant to 29 U.S.C. §§ 216(b) and 207(r) of the FLSA, Ms. Newsome brings this action
+
+   individually and on behalf of all other similarly situated female Police Officers employed
+
+   by the PPD during the past three years who were denied their rights under the FLSA’s
+
+   “Break Time for Nursing Mothers” provision, which requires employers to provide (1)
+
+   “reasonable break time for an employee to express breast milk for her nursing child for 1
+
+   year after the child’s birth each time such employee has need to express the milk”; and
+
+   (2) “a place, other than a bathroom, that is shielded from view and free from intrusion
+
+   from coworkers and the public, which may be used by an employee to express breast
+
+   milk.” 29 U.S.C. § 207(r)(1)(A) and (B).
+
+16. The members of the putative class are hereinafter referred to as “Collective Class
+
+   Plaintiffs.”
+
+17. Plaintiff estimates that there are in excess of 500 other similarly situated Collective Class
+
+   Plaintiffs who are working or worked for the PPD and are or were unlawfully denied
+
+   their rights under the FLSA’s Break Time for Nursing Mothers provision, 29 U.S.C. §
+
+   207(r). The precise number of employees can be easily ascertained by Defendant. These
+
+   employees can be identified and located using Defendant’s payroll and personnel records.
+
+   Potential Collective Class Plaintiffs may be informed of the pendency of this Collective
+
+   Action by direct mail and/or publication.
+
+18. Pursuant to 29 U.S.C. § 216(b), this action is properly maintained as a collective action
+
+   because all class members are similarly situated. Plaintiff and other similarly situated
+
+   female Police Officers (1) were similarly denied reasonable break time to express breast
+
+   milk for their nursing children for 1 year after birth each time they needed to, and also
+
+                                              8
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 12 of 42
+
+
+
+
+   denied a private place, other than a bathroom, to do so; (2) had the same or substantially
+
+   similar job classifications and duties; and (3) were subject to the same uniform policies,
+
+   business practices, payroll practices, and operating procedures.
+
+19. Further, Defendant’s willful policies and practices, which are discussed more fully below,
+
+   whereby Defendant denied Plaintiff and Collective Class Plaintiffs their rights under the
+
+   FLSA’s Break Time for Nursing Mothers provision, have affected Plaintiff and
+
+   Collective Class Plaintiffs in the same fashion.
+
+20. In violation of the FLSA, Defendant failed to provide Plaintiff and Collective Class
+
+   Plaintiffs “reasonable break time to express breast milk for [their] nursing child[ren] for 1
+
+   year after the child’s birth each time such employee has need to express the milk.” 29
+
+   U.S.C. § 207(r)(1)(A) and (B).
+
+21. In violation of the FLSA, Defendant also failed to provide “a place, other than a
+
+   bathroom, that is shielded from view and free from intrusion from coworkers and the
+
+   public, which may be used by [Plaintiff and Collective Class Plaintiffs] to express breast
+
+   milk.” 29 U.S.C. § 207(r)(1)(B).
+
+22. This policy and practice is unequivocal evidence of Defendant’s systematic, willful and
+
+   improper failure to follow the provisions of the FLSA.
+
+23. Plaintiff will request the Court to authorize notice to all current and former similarly
+
+   situated female Police Officers employed by the PPD in the last three years to inform
+
+   them of the pendency of this action and their right to “opt in” to this lawsuit pursuant to
+
+   29 U.S.C. § 216(b) for the purpose of seeking actual damages, liquidated damages,
+
+   attorneys’ fees, litigation costs, declaratory relief, employment consistent with the FLSA,
+
+   and all other relief available.
+
+
+
+                                              9
+    Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 13 of 42
+
+
+
+
+                              FACTUAL BACKGROUND
+24. Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+25. On December 22, 2014, Ms. Newsome started working for the PPD as a Police Officer
+
+   assigned to the 18th District.
+
+26. In July 2018, Ms. Newsome gave birth to her child.
+
+27. In January 2019, Ms. Newsome returned to work from leave and was detailed to the
+
+   PPD’s Neighborhood Services Unit (“NSU”) on restricted duty. She was still nursing her
+
+   infant child and expected to do so until her child reached age 1 in July 2019.
+
+28. Upon returning to work, Ms. Newsome experienced ongoing pregnancy discrimination
+
+   regarding her need to express milk at work.
+
+29. Defendant denied Ms. Newsome reasonable break time to express breast milk for her
+
+   nursing child for 1 year after the child’s birth each time she had the need to express the
+
+   milk.
+
+30. Defendant also denied Ms. Newsome a private place, other than a bathroom, that was
+
+   shielded from view and free from intrusion from coworkers and the public that she could
+
+   use to express breast milk.
+
+31. The PPD has no policy or directive in place to provide basic accommodations for
+
+   breastfeeding mothers like Ms. Newsome.
+
+32. The PPD does not provide accommodations for nursing mothers like Ms. Newsome—it
+
+   does not provide time for women to express milk, nor does it provide private space that is
+
+   not a bathroom each time women need to pump.
+
+33. As a result, women employed by the PPD are kept unaware and deprived of their
+
+   statutory civil rights.
+
+
+
+                                            10
+    Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 14 of 42
+
+
+
+
+34. When Ms. Newsome arrived to NSU, she informed her supervisor, Sergeant Herbert
+
+   Gibbons, that she would need to pump at work and that she would “try to only do it once
+
+   per day.” Because the PPD does not provide accommodations for nursing mothers,
+
+   Sergeant Gibbons failed to apprise Ms. Newsome of her right to take time to express
+
+   milk, nor did he apprise her of her right to a private space (that is not a bathroom) each
+
+   time she needed to pump. Rather, Sergeant Gibbons stated, “We’ll figure something out,”
+
+   and at no time thereafter did Sergeant Gibbons provide accommodations for Ms.
+
+   Newsome.
+
+35. As a result, Ms. Newsome did not have a private, sanitary space that was regularly
+
+   available and free from interruptions from coworkers; and she was forced to pump at
+
+   irregular times or not at all.
+
+36. For example, Ms. Newsome attempted to pump in an office that was frequently used by
+
+   the building’s all-male tech crew, who often told her “we’re going to be in here for a
+
+   while,” forcing her to pump in the restroom or not pump at all. Occasionally, when the
+
+   room was vacant, Ms. Newsome was often interrupted by the all-male tech crew who
+
+   would knock on the door and ask, “When are you going to be done” and wait outside
+
+   until she came out.
+
+37. On another occasion Sergeant Gibbons instructed Ms. Newsome and another nursing
+
+   mother—Officer Jennifer Allen—to “pump in Officer John Whipple’s office.” The same
+
+   day, or shortly thereafter, Ms. Newsome and Officer Allen were asked by another police
+
+   officer, Officer Darden, “Were you notified that you had to start pumping in Mary’s (a
+
+   civilian coworker) office?” Ms. Newsome and Officer Allen had not been notified of this
+
+
+
+
+                                            11
+    Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 15 of 42
+
+
+
+
+   change. Officer Darden further stated, “You should pump at the same time in the same
+
+   room.”
+
+38. Upon hearing this, Ms. Newsome became concerned that her supervisors and coworkers
+
+   did not support her need to pump at work and that her ability to do so was in jeopardy.
+
+   Ms. Newsome and other nursing mothers rely on a positive, accepting attitude from
+
+   supervisors and coworkers to feel confident in the ability to continue working while
+
+   breastfeeding. Ms. Newsome and other nursing mothers also rely on consistent
+
+   availability of a private space to pump. These accommodations are not provided by the
+
+   PPD.
+
+39. On another occasion, another police officer, Officer Martin, told Ms. Newsome and
+
+   Officer Allen that “people need to get into the office you’re pumping in during the time
+
+   that you pump,” and directed them to “pump in Mary’s office from now on.”
+
+40. On another occasion, Sergeant Gibbons called Ms. Newsome and Officer Allen into his
+
+   office and stated, “You are to put the sign (a sign they hung on the door while they were
+
+   pumping to notify others the room was in use) back in my office after each use.” Sergeant
+
+   Gibbons further stated that he “doesn’t want to hear Mary making a big fuss about the
+
+   sign,” and that he “wants to avoid hearing her mouth.” This arrangement required Ms.
+
+   Newsome and Officer Allen to retrieve the privacy sign from an office occupied by three
+
+   male officers each and every time they needed to pump and return the sign to the three
+
+   male officers each and every time they were finished. Ms. Newsome and Officer Allen
+
+   found this arrangement to be extremely demeaning.
+
+41. On another occasion, Ms. Newsome, Officer Allen and Officer Tanya Richardson
+
+   approached Sergeant Gibbons about their coworkers’ frequent interruptions and negative
+
+
+
+                                           12
+    Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 16 of 42
+
+
+
+
+   comments regarding their need to express milk at work. They requested that Sergeant
+
+   Gibbons address the issue with their coworkers. In response, Sergeant Gibbons stated, “I
+
+   won’t address it with anyone because I would be kicked out of the unit.” He further
+
+   stated, “Anytime I have spoken up before I was backstabbed and given 18’s
+
+   (disciplined).” These frequent negative interactions regarding Ms. Newsome’s and
+
+   Officer Allen’s rights caused both women to cry at work on several occasions.
+
+42. On another occasion, Ms. Newsome told Sergeant Gibbons, “I do not feel comfortable
+
+   with the procedure of getting the privacy sign from you because I have to walk into an
+
+   office with three male officers, ask them for the sign, and then walk back into the same
+
+   office to return it to them. It makes me feel uncomfortable.” Officer Allen agreed.
+
+43. Later that day, Sergeant Gibbons called Ms. Newsome and Officer Allen into the break
+
+   room and stated, “Effective immediately you will pump in Mary’s office, a permanent
+
+   sign will be made that will hang on the door, and you will each have keys to the office.
+
+   You can pump whenever you want to.” This conversation occurred in late-April 2019,
+
+   approximately 4 months after Ms. Newsome had returned to work from leave.
+
+44. Ms. Newsome and Officer Allen asked Sergeant Gibbons “if Mary had been notified that
+
+   we were to pump in her office,” and Sergeant Gibbons said “yes.”
+
+45. However, when Ms. Newsome and Officer Allen attempted to use Mary’s office, Mary
+
+   stated, “I have work to do, you have to use another office.”
+
+46. Officer Allen informed Sergeant Gibbons that “Mary said we can’t use her office,” and
+
+   Sergeant Gibbons responded, “she has to,” but took no further action to remedy the
+
+   situation. He did not provide Ms. Newsome and Officer Allen with keys or a permanent
+
+
+
+
+                                           13
+    Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 17 of 42
+
+
+
+
+   sign as he had promised. He did not instruct Mary to allow the women to pump in her
+
+   office.
+
+47. Later, Ms. Newsome and Officer Allen again complained to Sergeant Gibbons that they
+
+   had not been given the basic accommodations that he had promised . Ms. Newsome
+
+   stated, “You said provisions would be made for us.” In response, Sergeant Gibbons said,
+
+   “By law, I only have to give you 10 minutes.” Ms. Newsome responded, “10 minutes is
+
+   not long enough to begin the flow of milk—it could take me up to 30 minutes.” Sergeant
+
+   Gibbons changed the subject and took no further action to accommodate her needs.
+
+48. Around April 29, 2019, Ms. Newsome and Officer Allen were instructed to pump in the
+
+   building’s lunch room during lunch hour. That day, while Ms. Newsome was attempting
+
+   to use the lunch room to pump, coworkers started gathering outside, knocking on the door
+
+   and asking, “What’s going on in there?”
+
+49. When Ms. Newsome opened the door to the lunch room, one employee who had been
+
+   waiting outside said “FINALLY” and groaned before entering the room. The employee
+
+   then asked Ms. Newsome, “Can I come in when you’re pumping because I’m a woman?”
+
+50. The PPD is responsible for alerting employees about the employer’s worksite lactation
+
+   program (which the PPD does not have) and for negotiating policies and practices to help
+
+   facilitate each employee’s infant feeding goals. Defendant failed to meet these
+
+   requirements.
+
+51. The PPD is responsible for knowing exactly how to support employees like Ms.
+
+   Newsome, including educating all staff about the importance of respecting a coworker’s
+
+   privacy while pumping and providing coverage during lactation breaks. Defendant failed
+
+   to meet these requirements.
+
+
+
+                                           14
+    Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 18 of 42
+
+
+
+
+52. The PPD is responsible for ensuring that all employees will assist in providing a positive
+
+   atmosphere of support for breastfeeding employees like Ms. Newsome. Defendant failed
+
+   to meet these requirements.
+
+53. The PPD’s ongoing failure to provide Ms. Newsome with consistent, private and sanitary
+
+   lactation space caused her extreme anxiety and uncertainty about her ability to continue
+
+   breastfeeding her child. Breastfeeding and working takes a lot of time, coordination and
+
+   dedication from a mother. A lactation space is necessary because in order to begin the
+
+   flow of milk, mothers must be able to sit down and relax, and not be stressed. Mothers
+
+   such as Ms. Newsome who are placed in an open or uncomfortable space, or who are
+
+   worried about hostility from coworkers, may not be able to pump milk or may not be able
+
+   to pump milk as quickly.
+
+54. As a result of the PPD’s failure to designate private, sanitary rooms for nursing
+
+   employees like Ms. Newsome to express breast milk at work, Ms. Newsome was forced
+
+   to stop pumping at work altogether. For the next several months she could only pump at
+
+   nighttime when she arrived home from work.
+
+55. On several occasions, Ms. Newsome was forced to take sick leave to pump at home.
+
+56. Officer Allen also was forced to stop pumping at work and took leave to pump at home.
+
+57. Section 4207 of the Patient Protection and Affordable Care Act, which amended Section
+
+   7 of the FLSA, 29 U.S.C. § 207, requires employers to provide “reasonable break time
+
+   for an employee to express breast milk for her nursing child for 1 year after the child’s
+
+   birth each time such employee has need to express the milk.” 29 U.S.C. § 207(r)(1)(A).
+
+   The law further requires employers to provide “a place, other than a bathroom, that is
+
+
+
+
+                                            15
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 19 of 42
+
+
+
+
+   shielded from view and free from intrusion from coworkers and the public, which may be
+
+   used by an employee to express breast milk.” 29 U.S.C. § 207(r)(1)(B).
+
+58. The FLSA and the “Break Time for Nursing Mothers” provision cover all public agency
+
+   employees of a State, a political subdivision of a State, or an interstate government
+
+   agency. 29 U.S.C. § 203(s)(1)(C). Federal law does not preempt “a State law that
+
+   provides greater protections to employees than the protections provided for under [the
+
+   federal law].” 29 U.S.C. 207(r)(4).
+
+59. The Philadelphia Fair Practices Ordinance (the “PFPO”) expands on the federal
+
+   protections under the FLSA. Under the PFPO, “it shall be an unlawful employment
+
+   practice to deny or interfere with the employment opportunities of an individual based
+
+   upon . . . her . . . sex (including pregnancy, childbirth, or a related medical condition), . . .
+
+   including, but not limited to . . . fail[ing] to reasonably accommodate an individual’s need
+
+   to express breast milk. Reasonable accommodations include providing unpaid break time
+
+   or allowing an employee to use paid break, mealtime, or both, to express milk and
+
+   providing a private, sanitary space that is not a bathroom where an employee can express
+
+   breast milk . . .” Phila. Code § 9-1103(1)(m)(i).
+
+60. The PPD failed to provide these basic accommodations to Plaintiff and Collective Class
+
+   Plaintiffs. None of the PPD’s 21 police districts provide accommodations for nursing
+
+   mothers: women are forced to express milk in unsanitary bathrooms that are often
+
+   extremely hot or extremely cold and infested with roaches and mice.
+
+61. Plaintiff’s and Collective Class Plaintiffs’ job duties are the same and generally include:
+
+   patrolling designated areas of the city on foot, bicycle, segway, horseback, car,
+
+   motorcycle, or police boat to prevent and discover the commission of crimes and traffic
+
+
+
+                                              16
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 20 of 42
+
+
+
+
+   and parking violations; answering calls and complaints; and taking the necessary police
+
+   action (in addition to other duties specified in paragraph 14 above).
+
+62. Throughout Plaintiff’s and Collective Class Plaintiffs’ employment with Defendant,
+
+   Defendant failed to provide Plaintiff and Collective Class Plaintiffs “reasonable break
+
+   time to express breast milk for [their] nursing child[ren] for 1 year after the child’s birth
+
+   each time such employee has need to express the milk.” 29 U.S.C. § 207(r)(1)(A) and
+
+   (B).
+
+63. Moreover, throughout Plaintiff’s and Collective Class Plaintiffs’ employment with
+
+   Defendant, Defendant failed to provide “a place, other than a bathroom, that is shielded
+
+   from view and free from intrusion from coworkers and the public, which may be used by
+
+   [Plaintiff and Collective Class Plaintiffs] to express breast milk.” 29 U.S.C. §
+
+   207(r)(1)(B).
+
+64. Violations of Plaintiff’s and Collective Class Plaintiffs’ federally protected rights were
+
+   the result of official policy: the City, the PPD, and their policymaking officials (1)
+
+   directed that the violations of occur; (2) authorized the violations; (3) agreed to
+
+   subordinates’ decisions to engage in the violations; (4) provided inadequate training; (5)
+
+   provided inadequate supervision; and (6) failed to adopt needed policies to prevent the
+
+   violations.
+
+65. Plaintiff and Collective Class Plaintiffs were and are, within the meaning of the FLSA,
+
+   non-exempt employees of Defendant and therefore entitled to the statutorily mandated
+
+   protections of the FLSA’s Break Time for Nursing Mothers provision.
+
+66. Plaintiff and Collective Class Plaintiffs were “employees” of Defendant as defined by the
+
+   FLSA.
+
+
+
+                                             17
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 21 of 42
+
+
+
+
+67. As a result of Defendant’s violations of the law, Plaintiff and Collective Class Plaintiffs
+
+   were subjected to employment inconsistent with the FLSA.
+
+68. Defendant threatened to discipline any employee who questioned its unlawful practices.
+
+69. As a result, Plaintiff and Collective Class Plaintiffs have suffered damages.
+
+                                       COUNT I
+      VIOLATIONS OF FLSA PROTECTIONS FOR NURSING MOTHERS
+                                  29 U.S.C. § 207(r)
+      Plaintiff and Collective Class Plaintiffs v. Defendant City of Philadelphia
+70. Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+71. Section 4207 of the Patient Protection and Affordable Care Act (“ACA”), which
+
+   amended Section 7 of the FLSA, 29 U.S.C. § 207, requires employers to provide
+
+   “reasonable break time for an employee to express breast milk for her nursing child for 1
+
+   year after the child’s birth each time such employee has need to express the milk.” 29
+
+   U.S.C. § 207(r)(1)(A).
+
+72. The law further requires employers to provide “a place, other than a bathroom, that is
+
+   shielded from view and free from intrusion from coworkers and the public, which may be
+
+   used by an employee to express breast milk.” 29 U.S.C. § 207(r)(1)(B).
+
+73. The FLSA and the “Break Time for Nursing Mothers” provision cover all public agency
+
+   employees of a State, a political subdivision of a State, or an interstate government
+
+   agency. 29 U.S.C. § 203(s)(1)(C).
+
+74. The FLSA defines “employer” as “any person acting directly or indirectly in the interest
+
+   of an employer in relation to an employee, including individual supervisors and
+
+   management officials. 29 U.S.C. § 203(d).
+
+75. Defendant violated Plaintiff and Collective Class Plaintiffs’ rights under the FLSA by (1)
+
+   failing to provide reasonable break time for Plaintiff and Collective Class Plaintiffs to
+
+                                             18
+         Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 22 of 42
+
+
+
+
+        “express breast milk for her nursing child for 1 year after the child’s birth each time she
+
+        had a need to express the milk”; and (2) failing to provide Plaintiff and Collective Class
+
+        Plaintiffs “a place, other than a bathroom, that is shielded from view and free from
+
+        intrusion from coworkers and the public, which may be used to express breast milk.”
+
+    76. The foregoing actions, policies and practices of Defendant violate the FLSA.
+
+    77. Defendant’s actions were willful, in bad faith and in reckless disregard of clearly
+
+        applicable FLSA provisions.
+
+    78. Defendant is liable to Plaintiff and Collective Class Plaintiffs for actual damages,
+
+        liquidated damages and other relief, pursuant to 29 U.S.C. § 216(b), as well as reasonable
+
+        attorneys’ fees, costs and expenses.
+
+    WHEREFORE, Plaintiff prays for the following relief on behalf of herself and Collective
+
+Class Plaintiffs:
+
+    a. An Order from this Court permitting this litigation to proceed as a collective action
+       pursuant to 29 U.S.C. § 216(b);
+
+    b. An Order from this Court ordering Defendant to file with this Court and furnish to the
+       undersigned counsel a list of all names and addresses of all female Police Officers who
+       have worked for Defendant during the preceding three years, and authorizing Plaintiff’s
+       counsel to issue a notice at the earliest possible time to these individuals, informing them
+       that this action has been filed, of the nature of the action, and of their right to opt in to
+       this lawsuit if they worked for Defendant during the liability period, but were denied their
+       rights under the Break Time for Nursing Mothers provision of the FLSA;
+
+    c. Adjudicating and declaring that Defendant’s conduct as set forth herein and above is in
+       violation of the FLSA;
+
+    d. Adjudicating and declaring that Defendant violated the FLSA by failing to provide
+       reasonable break time and private, sanitary lactation space for nursing mothers;
+
+    e. Awarding Plaintiff and Collective Class Plaintiffs damages in an amount consistent with
+       the FLSA;
+
+
+
+
+                                                 19
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 23 of 42
+
+
+
+
+f. Awarding Plaintiff and Collective Class Plaintiffs liquidated damages in accordance with
+   the FLSA;
+
+g. Awarding Plaintiff reasonable attorneys’ fees and all costs of this action, to be paid by
+   Defendant, in accordance with the FLSA;
+
+h. Awarding pre- and post-judgment interest and court costs as further allowed by law;
+
+i. Granting Plaintiff and Collective Class Plaintiffs leave to add additional plaintiffs by
+   motion, the filing of written opt in consent forms, or any other method approved by the
+   Court; and
+
+j. For all additional general and equitable relief to which Plaintiff and Collective Class
+   Plaintiffs are entitled.
+                                      COUNT II
+                                FLSA RETALIATION
+                                    29 U.S.C. § 215
+      Plaintiff and Collective Class Plaintiffs v. Defendant City of Philadelphia
+79. Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+80. The FLSA prohibits retaliation by employers against employees for asserting their rights
+
+   under the Act. 29 U.S.C. § 215(a)(3).
+
+81. Defendant violated the FLSA’s anti-relation provision when it took materially adverse
+
+   employment actions against Plaintiff and Collective Class Plaintiffs for asserting their
+
+   rights under the Break Time for Nursing Mothers law.
+
+82. As a result of Defendant’s violations of the FLSA, Plaintiff and Collective Class
+
+   Plaintiffs have suffered damages, including, but not limited to: loss of employment,
+
+   diminishment of career opportunities, past and future lost wages, reputational harm, pain
+
+   and suffering, inconvenience, mental anguish, loss of enjoyment of life, humiliation,
+
+   emotional distress, and other harm, both tangible and intangible.
+
+83. The foregoing actions, policies and practices of Defendant violate the FLSA.
+
+84. Defendant’s actions were willful, in bad faith and in reckless disregard of clearly
+
+   applicable FLSA provisions.
+
+                                            20
+         Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 24 of 42
+
+
+
+
+    85. Defendant is liable to Plaintiff and Collective Class Plaintiffs for actual damages,
+
+        liquidated damages and other relief, pursuant to 29 U.S.C. § 216(b), as well as reasonable
+
+        attorneys’ fees, costs and expenses.
+
+    WHEREFORE, Plaintiff prays for the following relief on behalf of herself and Collective
+
+Class Plaintiffs:
+
+    a. An Order from this Court permitting this litigation to proceed as a collective action
+       pursuant to 29 U.S.C. § 216(b);
+
+    b. An Order from this Court ordering Defendant to file with this Court and furnish to the
+       undersigned counsel a list of all names and addresses of all female Police Officers who
+       have worked for Defendant during the preceding three years, and authorizing Plaintiff’s
+       counsel to issue a notice at the earliest possible time to these individuals, informing them
+       that this action has been filed, of the nature of the action, and of their right to opt in to
+       this lawsuit if they worked for Defendant during the liability period, but were denied their
+       rights under the Break Time for Nursing Mothers provision of the FLSA;
+
+    c. Adjudicating and declaring that Defendant’s conduct as set forth herein and above is in
+       violation of the FLSA;
+
+    d. Adjudicating and declaring that Defendant violated the FLSA by retaliating against
+       employees who asserted their rights to reasonable break time and private, sanitary
+       lactation space;
+
+    e. Awarding Plaintiff and Collective Class Plaintiffs damages in an amount consistent with
+       the FLSA;
+
+    f. Awarding Plaintiff and Collective Class Plaintiffs liquidated damages in accordance with
+       the FLSA;
+
+    g. Awarding Plaintiff reasonable attorneys’ fees and all costs of this action, to be paid by
+       Defendant, in accordance with the FLSA;
+
+    h. Awarding pre- and post-judgment interest and court costs as further allowed by law;
+
+    i. Granting Plaintiff and Collective Class Plaintiffs leave to add additional plaintiffs by
+       motion, the filing of written opt in consent forms, or any other method approved by the
+       Court; and
+
+    j. For all additional general and equitable relief to which Plaintiff and Collective Class
+       Plaintiffs are entitled.
+
+                                                 21
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 25 of 42
+
+
+
+
+                                      COUNT III
+                        TITLE VII DISPARATE TREATMENT
+                                  42 U.S.C. § 2000e-2
+             Plaintiff Janelle Newsome v. Defendant City of Philadelphia
+86. Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+87. Title VII provides, in relevant part, that “it shall be an unlawful employment practice for
+
+   an employer . . . to discriminate against any individual with respect to [her]
+
+   compensation, terms, conditions, or privileges of employment, because of [her] race,
+
+   color, religion, sex, or national origin.” 42 U.S.C. § 2000e-2(a)(1).
+
+88. Title VII further provides that “it shall be an unlawful employment practice for any
+
+   employer . . . controlling . . . training or retraining, including on-the-job training
+
+   programs to discriminate against any individual because of [her] race, color, religion, sex,
+
+   or national origin in admission to, or employment in, any program established to provide
+
+   . . . training.” 42 U.S.C. § 2000e-2(d).
+
+89. In 1978, Congress enacted the Pregnancy Discrimination Act, 92 Stat. 2076, which added
+
+   new language to Title VII’s definitions subsection to specify that Title VII’s “ter[m]
+
+   ‘because of sex’ . . . include[s] . . . because of or on the basis of pregnancy, childbirth, or
+
+   related medical conditions.; and women affected by pregnancy, childbirth, or related
+
+   medical conditions shall be treated the same for all employment-related purposes . . . as
+
+   other persons not so affected but similar in their ability or inability to work.” 42 U.S.C. §
+
+   2000e(k); Young v. United Parcel Serv., Inc., 135 S. Ct. 1344-45 (2015) (explaining “that
+
+   the denial of an accommodation constituted disparate treatment under the Pregnancy
+
+   Discrimination Act.”).
+
+90. Title VII further provides that “un unlawful employment practice is established when the
+
+   complaining party demonstrates that race, color, religion, sex, or national origin was a
+
+
+                                              22
+     Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 26 of 42
+
+
+
+
+   motivating factor for any employment practice, even though other factors also motivated
+
+   the practice.” 42 U.S.C. § 2000e-2(m).
+
+91. The City engaged in unlawful employment practices prohibited by Title VII by
+
+   intentionally discriminating against Plaintiff with respect to her compensation, terms,
+
+   conditions, training and privileges of employment because of her sex and pregnancy.
+
+92. The City subjected Plaintiff to adverse tangible employment actions—defined as
+
+   significant changes in Plaintiff’s employment status, discipline, denial of training, failure
+
+   to promote, reassignment with significantly different job responsibilities, and decisions
+
+   causing changes in significant changes in her employment benefits.
+
+93. Plaintiff’s protected characteristics (sex and pregnancy) played a determinative factor in
+
+   the City’s decisions.
+
+94. The City cannot show any legitimate nondiscriminatory reasons for its employment
+
+   practices and any reasons proffered by the City for its actions against Plaintiff are
+
+   pretextual and can readily be disbelieved.
+
+95. Alternatively, Plaintiff’s protected status played a motivating part in the City’s decisions
+
+   even if other factors may also have motivated its actions against Plaintiff.
+
+96. The City acted with the intent to discriminate.
+
+97. The City acted upon a continuing course of conduct.
+
+98. As a result of the City’s violations of Title VII, Plaintiff has suffered damages, including,
+
+   but not limited to: past and future lost wages, pain and suffering, inconvenience, mental
+
+   anguish, loss of enjoyment of life, humiliation, emotional distress, reputational harm,
+
+   diminishment of career opportunities, and other harm, both tangible and intangible.
+
+
+
+
+                                             23
+           Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 27 of 42
+
+
+
+
+    WHEREFORE, Plaintiff Janelle Newsome demands judgment against Defendant City of
+
+Philadelphia and prays for the following relief: (1) an award of compensatory damages in an
+
+amount consistent with Title VII; (2) an award of reasonable attorneys’ fees and costs of this
+
+action in accordance with Title VII; (3) an award of pre- and post-judgment interest and court
+
+costs as further allowed by law; (4) an adjudication and declaration that the City’s conduct as set
+
+forth herein is in violation of Title VII; and (5) all additional general and equitable relief to
+
+which Plaintiff is entitled.
+
+                                           COUNT IV
+                       TITLE VII HOSTILE WORK ENVIRONMENT
+                                       42 U.S.C. § 2000e-2
+                  Plaintiff Janelle Newsome v. Defendant City of Philadelphia
+    99. Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+    100.         Title VII also prohibits hostile work environment harassment, defined as
+
+        unwanted comments or conduct regarding the plaintiff’s protected characteristics that
+
+        have the purpose or effect of unreasonably interfering with the terms and conditions of
+
+        the plaintiff’s employment. Harris v. Forklift Systems, 510 U.S. 17, 21 (1993).
+
+    101.         An employer is strictly liable for supervisor harassment that “culminates in a
+
+        tangible employment action, such as discharge, demotion, or undesirable reassignment.”
+
+        Burlington Industries, Inc. v. Ellerth, 524 U.S. 742 (1998).
+
+    102.         Respondeat superior liability for the acts of non-supervisory employees exists
+
+        where “the defendant knew or should have known of the harassment and failed to take
+
+        prompt remedial action. Andrews v. City of Philadelphia, 895 F.2d 1469, 1486 (3d Cir.
+
+        1990).
+
+
+
+
+                                                  24
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 28 of 42
+
+
+
+
+103.       Employer liability for co-worker harassment also exists where “the employer
+
+   failed to provide a reasonable avenue for complaint.” Huston v. Procter & Gamble Paper
+
+   Prods. Corp., 568 F.3d 100, 105 (3d Cir. 2009).
+
+104.       Here, Defendant’s conduct occurred because of Plaintiff’s legally protected
+
+   characteristics and was severe or pervasive enough to make a reasonable nursing mother
+
+   believe that the conditions of employment were altered, and that the working
+
+   environment was intimidating, hostile or abusive.
+
+105.       The harassing conduct directly refers to Plaintiff’s sex traits and pregnancy.
+
+106.       The City delegated to Plaintiff’s supervisors the authority to control the work
+
+   environment and they abused that authority to create a hostile work environment.
+
+107.       Harassing conduct based on Plaintiff’s sex and pregnancy filled the environment
+
+   of Plaintiff’s work area.
+
+108.       The City knew that the harassing conduct filled Plaintiff’s work environment.
+
+109.       Harassing conduct occurred daily.
+
+110.       Harassing conduct caused Plaintiff to sustain severe emotional distress resulting
+
+   in physical illness and serious psychological sequelae.
+
+111.       Plaintiff subjectively regarded the harassing conduct as unwelcome and unwanted
+
+   and objectively opposed the conduct.
+
+112.       The conduct was both severe and pervasive.
+
+113.       The conduct was humiliating.
+
+114.       The conduct unreasonably interfered with Plaintiff’s work performance.
+
+115.       The conduct was so extreme that it resulted in material changes to the terms and
+
+   conditions of Plaintiff’s employment.
+
+
+
+                                            25
+           Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 29 of 42
+
+
+
+
+    116.        The City provided a futile avenue for complaint.
+
+    117.        The City retaliated against Plaintiff for her complaints.
+
+    118.        The City acted upon a continuing course of conduct.
+
+    119.        As a result of the City’s violations of Title VII, Plaintiff has suffered damages,
+
+        including, but not limited to: past and future lost wages, pain and suffering,
+
+        inconvenience, mental anguish, loss of enjoyment of life, humiliation, emotional distress,
+
+        reputational harm, diminishment of career opportunities, and other harm, both tangible
+
+        and intangible.
+
+    WHEREFORE, Plaintiff Janelle Newsome demands judgment against Defendant City of
+
+Philadelphia and prays for the following relief: (1) an award of compensatory damages in an
+
+amount consistent with Title VII; (2) an award of reasonable attorneys’ fees and costs of this
+
+action in accordance with Title VII; (3) an award of pre- and post-judgment interest and court
+
+costs as further allowed by law; (4) an adjudication and declaration that Defendant’s conduct as
+
+set forth herein is in violation of Title VII; and (5) all additional general and equitable relief to
+
+which Plaintiff is entitled.
+
+                                           COUNT V
+                                   TITLE VII RETALIATION
+                                       42 U.S.C. § 2000e-3
+                  Plaintiff Janelle Newsome v. Defendant City of Philadelphia
+    120.        Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+    121.        Title VII protects employees from retaliation for attempting to exercise their
+
+        rights under the Act:
+
+                42 U.S.C. § 2000e-3. Other unlawful employment practices
+                (a) Discrimination for making charges, testifying, assisting, or
+                participating in enforcement proceedings. It shall be an unlawful
+                employment practice for an employer to discriminate against any of
+                                                  26
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 30 of 42
+
+
+
+
+           his employees . . . because [she] has opposed any practice made an
+           unlawful employment practice by this subchapter, or because [she]
+           has made a charge, testified, assisted, or participated in any manner
+           in an investigation, proceeding, or hearing under this subchapter.
+
+122.       The Supreme Court in Burlington v. N. & S.F. Ry. V. White, 548 U.S. 53, 68
+
+   (2006) held that a cause of action for retaliation under Title VII lies whenever the
+
+   employer responds to protected activity in such a way that “might have dissuaded a
+
+   reasonable worker from making or supporting a charge of discrimination.”
+
+123.       Informal complaints and protests can constitute protected activity under the
+
+   “opposition” clause of 42 U.S.C. § 2000e-3(a). Moore v. City of Philadelphia, 461 F.3d
+
+   331, 343 (3d Cir. 2006) (“Opposition to discrimination can take the form of informal
+
+   protests of discriminatory employment practices, including making complaints to
+
+   management.”).
+
+124.       Retaliation need not be job-related to be actionable under Title VII—an employer
+
+   can effectively retaliate against an employee by taking actions not directly related to her
+
+   employment or by causing her harm outside the workplace. White, 548 U.S. at 61-62
+
+   (rejecting authority from the Third Circuit and others requiring that the plaintiff suffer an
+
+   adverse employment action in order to recover for retaliation).
+
+125.       “[A] plaintiff need not prove the merits of the underlying discrimination
+
+   complaint, but only that ‘[she] was acting under a good faith, reasonable belief that a
+
+   violation existed.’” Aman v. Cort Furniture Rental Corp., 85 F.3d 1074, 1085 (3d Cir.
+
+   1996); Griffiths v. CIGNA Corp., 988 F.2d 457, 468 (3d Cir. 1993); Sumner v. United
+
+   States Postal Service, 899 F.2d 203, 209 (2d Cir. 1990), overruled on other grounds by
+
+   Miller v. CIGNA Corp., 47 F.3d 586 (3d Cir.1995); see also Moore, 461 F.3d at 341
+
+   (finding that a transfer of a police officer from a district could constitute actionable
+
+                                             27
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 31 of 42
+
+
+
+
+   retaliation because it “is the kind of action that might dissuade a police officer from
+
+   making or supporting a charge of unlawful discrimination within his squad.”).
+
+126.       Here, the City discriminated against Plaintiff because of her protected activity
+
+   under Title VII.
+
+127.       Plaintiff was acting under a reasonable, good faith belief that her right to be free
+
+   from discrimination on the basis of sex was violated.
+
+128.       Plaintiff was subjected to materially adverse actions at the time or after the
+
+   protected conduct took place.
+
+129.       The City also discriminated against Plaintiff by taking materially adverse actions
+
+   against third parties who engaged in protected activity on Plaintiff’s behalf.
+
+130.       There was a causal connection between the City’s materially adverse actions and
+
+   Plaintiff’s protected activity.
+
+131.       The City’s actions were “materially adverse” because they were serious enough to
+
+   discourage a reasonable worker from engaging in protected activity.
+
+132.       The City acted upon a continuing course of conduct.
+
+133.       Plaintiff will rely on a broad array of evidence to demonstrate a causal link
+
+   between their protected activity and the City’s actions taken against her, such as the
+
+   unusually-suggestive proximity in time between events, as well as Defendant’s
+
+   antagonism and change in demeanor toward Plaintiff after Defendant became aware of
+
+   Plaintiff’s protected activity.
+
+134.       As a result of the City’s violations of Title VII, Plaintiff has suffered damages,
+
+   including, but not limited to: past and future lost wages, pain and suffering,
+
+   inconvenience, mental anguish, loss of enjoyment of life, humiliation, emotional distress,
+
+
+
+                                             28
+           Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 32 of 42
+
+
+
+
+        reputational harm, diminishment of career opportunities, and other harm, both tangible
+
+        and intangible.
+
+    WHEREFORE, Plaintiff Janelle Newsome demands judgment against Defendant City of
+
+Philadelphia and prays for the following relief: (1) an award of compensatory damages in an
+
+amount consistent with Title VII; (2) an award of reasonable attorneys’ fees and costs of this
+
+action in accordance with Title VII; (3) an award of pre- and post-judgment interest and court
+
+costs as further allowed by law; (4) an adjudication and declaration that Defendant’s conduct as
+
+set forth herein is in violation of Title VII; and (5) all additional general and equitable relief to
+
+which Plaintiff is entitled.
+
+                                    COUNT VI
+   DISPARATE TREATMENT IN VIOLATION OF EQUAL PROTECTION CLAUSE
+                                  42 U.S.C. § 1983
+            Plaintiff Janelle Newsome v. Defendant City of Philadelphia
+    135.        Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+    136.        The Fourteenth Amendment to the United States Constitution protects persons
+
+        from being subjected to discrimination, by persons acting under color of state law, on the
+
+        basis of a protected class (e.g., sex). U.S. Const. amend. XIV.
+
+    137.        Section 1983 provides:
+                Every person who, under color of any statute, ordinance, regulation,
+                custom, or usage, of any State or Territory or the District of
+                Columbia, subjects, or causes to be subjected, any citizen of the
+                United States or other person within the jurisdiction thereof to the
+                deprivation of any rights, privileges, or immunities secured by the
+                Constitution and laws, shall be liable to the party injured in an action
+                at law, suit in equity, or other proper proceeding for redress, except
+                that in any action brought against a judicial officer for an act or
+                omission taken in such officer’s judicial capacity, injunctive relief
+                shall not be granted unless a declaratory decree was violated or
+                declaratory relief was unavailable. For the purposes of this section,
+                any Act of Congress applicable exclusively to the District of
+
+                                                  29
+          Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 33 of 42
+
+
+
+
+               Columbia shall be considered to be a statute of the District of
+               Columbia.
+
+42 U.S.C. § 1983.
+   138.        Section 1983 provides a cause of action for unconstitutional employment
+
+       discrimination by both employers and individuals, so long as the plaintiff shows that the
+
+       defendant acted under color of state law. See Fitzgerald v. Barnstable School Committee,
+
+       129 S. Ct. 788, 796 (2009) (“The Equal Protection Clause reaches only state actors, but §
+
+       1983 equal protection claims may be brought against individuals as well as municipalities
+
+       and certain other state entities.”); see also Andrews v. City of Philadelphia, 895 F.2d
+
+       1469, 1478 (3d Cir. 1990) (“Liciardello and Doyle objectively should have known the
+
+       applicable legal standard, and thus are not protected by qualified immunity in treating, or
+
+       allowing their subordinates to treat, female employees differently on the basis of gender
+
+       in their work environment.”).
+
+   139.        “[M]unicipalities and other local government units [are] included among those
+
+       persons to whom § 1983 applies.” Monell v. Department of Social Services of City of
+
+       New York, 436 U.S. 658, 690 (1978). However, “a municipality cannot be held liable
+
+       under § 1983 on a respondeat superior theory.” Id. at 691. “Instead, it is when execution
+
+       of a government's policy or custom, whether made by its lawmakers or by those whose
+
+       edicts or acts may fairly be said to represent official policy, inflicts the injury that the
+
+       government as an entity is responsible under § 1983.” Id. at 694.
+
+   140.        Defendant violated Section 1983 by intentionally discriminating against Plaintiff
+
+       in a serious tangible way with respect to her compensation, terms, conditions or
+
+       privileges of employment.
+
+
+
+
+                                                  30
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 34 of 42
+
+
+
+
+141.       Plaintiff’s protected characteristics (sex) was a determinative or motivating factor
+
+   in Defendant’s employment actions.
+
+142.       Defendant cannot show any legitimate nondiscriminatory reason for its
+
+   employment practices and any reasons proffered by the Defendant for its actions against
+
+   Plaintiff are pretextual and can readily be disbelieved.
+
+143.       Plaintiff’s protected status played a motivating part in the Defendant’s decisions
+
+   even if other factors may also have motivated Defendant’s actions against Plaintiff.
+
+144.       Defendant acted under color of state law.
+
+145.       Defendant acted with the intent to discriminate.
+
+146.       Defendant acted upon a continuing course of conduct.
+
+147.       Moreover, this case unquestionably involves official policy: the City, the PPD,
+
+   and their policymaking officials (1) directed that the violations occur; (2) authorized the
+
+   violations; (3) agreed to subordinates’ decisions to engage in the violations; (4) provided
+
+   inadequate training; (5) provided inadequate supervision; and (6) failed to adopt needed
+
+   policies to prevent the violations.
+
+148.       Defendant acted with malice or reckless indifference to Plaintiff’s federally
+
+   protected rights and as a result there should be an award of punitive damages against
+
+   Defendant.
+
+149.       As a result of Defendant’s violations of Plaintiff’s Equal Protection rights,
+
+   Plaintiff has suffered damages, including, but not limited to: past and future lost wages,
+
+   pain and suffering, inconvenience, mental anguish, loss of enjoyment of life, humiliation,
+
+   emotional distress, reputational harm, diminishment of career opportunities, and other
+
+   harm, both tangible and intangible.
+
+
+
+                                            31
+            Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 35 of 42
+
+
+
+
+     WHEREFORE, Plaintiff Janelle Newsome demands judgment against Defendant City of
+
+ Philadelphia and prays for the following relief: (1) actual damages; (2) compensatory damages in
+
+ an amount consistent with Section 1983; (3) reasonable attorneys’ fees in accordance with
+
+ Section 1983; (4) litigation costs in accordance with Section 1983; (5) pre- and post-judgment
+
+ interest as further allowed by law; (6) an adjudication and declaration that Defendant’s conduct
+
+ as set forth herein is in violation of Section 1983; (7) punitive damages in accordance with
+
+ Section 1983; (8) front pay in accordance with Section 1983; and (9) all additional general and
+
+ equitable relief to which Plaintiff is entitled.
+
+                                   COUNT VII
+HOSTILE WORK ENVIRONMENT IN VIOLATION OF EQUAL PROTECTION CLAUSE
+                                 42 U.S.C. § 1983
+           Plaintiff Janelle Newsome v. Defendant City of Philadelphia
+     150.        Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+     151.        The Third Circuit has made it clear that harassment can give rise to an equal
+
+         protection claim. See, e.g., Andrews v. City of Philadelphia, 895 F.2d 1469, 1478-79 (3d
+
+         Cir. 1990) (upholding verdict for plaintiff on harassment claims against city employees,
+
+         based on conclusion that evidence supported finding of purposeful discrimination); see
+
+         also Bohen v. City of East Chicago, Ind., 799 F.2d 1180, 1185 (7th Cir. 1986)
+
+         (“harassment of female employees by a state employer constitutes sex discrimination for
+
+         purposes of the equal protection clause of the fourteenth amendment.”); Cheryl L.
+
+         Anderson, "Nothing Personal:" Individual Liability under 42 U.S.C. § 1983 for Sexual
+
+         Harassment as an Equal Protection Claim, 19 BERKELEY J. EMP. & LAB. L. 60, 80
+
+         (1998) (citing Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986) as support for
+
+         argument that harassment can satisfy the intentional discrimination requirement for equal
+
+         protection claims).
+
+                                                    32
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 36 of 42
+
+
+
+
+152.       The Third Circuit has also made clear that a harassment equal protection claim
+
+   can be made even if the defendant is not the plaintiff’s supervisor. See Bonenberger v.
+
+   Plymouth Twp., 132 F.3d 20, 24 (3d Cir. 1997).
+
+153.       Additionally, a plaintiff can show an equal protection violation by a supervisor
+
+   who fails properly to address harassment by the plaintiff’s co-workers. Andrews, 895
+
+   F.2d at 1479.
+
+154.       A municipal employer can be liable on the theory that it directly encouraged
+
+   harassment of the plaintiff, or on the theory that it did not do enough to prevent the
+
+   harassment. See Bohen, 799 F.2d at 1187 (“[A] plaintiff can make an ultimate showing of
+
+   sex discrimination either by showing that harassment that is attributable to the employer
+
+   under § 1983 amounted to intentional sex discrimination or by showing that the
+
+   conscious failure of the employer to protect the plaintiff from the abusive conditions
+
+   created by fellow employees amounted to intentional discrimination.”); cf. Reynolds v.
+
+   Borough of Avalon, 799 F. Supp. 442, 447 (D.N.J. 1992) (holding that “a reasonable jury
+
+   might find that the risk of harassment in the workplace is so obvious that an employer's
+
+   failure to take action to prevent or stop it from occurring--even in the absence of actual
+
+   knowledge of its occurrence--constitutes deliberate indifference, where the employer has
+
+   also failed to take any steps to encourage the reporting of such incidents”).
+
+155.       Defendant violated Section 1983 by subjecting Plaintiff to harassment based on
+
+   sex and pregnancy.
+
+156.       Defendant’s conduct was not welcomed by Plaintiff.
+
+157.       Defendant’s conduct was so severe or pervasive that a reasonable nursing mother
+
+   would find the work environment to be hostile or abusive.
+
+
+
+                                            33
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 37 of 42
+
+
+
+
+158.       Plaintiff believed her work environment was hostile or abusive as a result of
+
+   Defendant’s conduct.
+
+159.       As a result of the hostile work environment, Plaintiff suffered a “tangible
+
+   employment action” defined as a significant change in employment status, failure to
+
+   promote, reassignment with significantly different responsibilities, and/or a decision
+
+   causing a significant change in benefits.
+
+160.       Defendant failed to exercise reasonable care to prevent harassment in the
+
+   workplace by failing to establish an explicit policy against harassment in the workplace
+
+   on the basis of sex and pregnancy, failing to fully communicate the policy to their
+
+   employees, failing to provide a reasonable way for Plaintiff to make a claim of
+
+   harassment to higher management, and failing to take reasonable steps to promptly
+
+   correct the harassing behavior raised by Plaintiff.
+
+161.       Defendant acted under color of state law.
+
+162.       Defendant acted with the intent to discriminate.
+
+163.       Defendant acted upon a continuing course of conduct.
+
+164.       Moreover, this case unquestionably involves official policy: the City, the PPD,
+
+   and their policymaking officials (1) directed that the violations occur; (2) authorized the
+
+   violations; (3) agreed to subordinates’ decisions to engage in the violations; (4) provided
+
+   inadequate training; (5) provided inadequate supervision; and (6) failed to adopt needed
+
+   policies to prevent the violations.
+
+165.       Defendant acted with malice or reckless indifference to Plaintiff’s federally
+
+   protected rights and as a result there should be an award of punitive damages against
+
+   Defendant.
+
+
+
+                                               34
+           Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 38 of 42
+
+
+
+
+    166.        As a result of Defendant’s violations of Plaintiff’s Equal Protection rights,
+
+        Plaintiff has suffered damages, including, but not limited to: past and future lost wages,
+
+        pain and suffering, inconvenience, mental anguish, loss of enjoyment of life, humiliation,
+
+        emotional distress, reputational harm, diminishment of career opportunities, and other
+
+        harm, both tangible and intangible.
+
+    WHEREFORE, Plaintiff Janelle Newsome demands judgment against Defendant City of
+
+Philadelphia and prays for the following relief: (1) actual damages; (2) compensatory damages in
+
+an amount consistent with Section 1983; (3) reasonable attorneys’ fees in accordance with
+
+Section 1983; (4) litigation costs in accordance with Section 1983; (5) pre- and post-judgment
+
+interest as further allowed by law; (6) an adjudication and declaration that Defendant’s conduct
+
+as set forth herein is in violation of Section 1983; (7) punitive damages in accordance with
+
+Section 1983; (8) front pay in accordance with Section 1983; and (9) all additional general and
+
+equitable relief to which Plaintiff is entitled.
+
+                                         COUNT VIII
+                  RETALIATION IN VIOLATION OF PETITION CLAUSE
+                                        42 U.S.C. § 1983
+                  Plaintiff Janelle Newsome v. Defendant City of Philadelphia
+    167.        Plaintiff repeats every allegation made in the above paragraphs of this complaint.
+
+    168.        The First Amendment gives persons the right to petition the Government for a
+
+        redress of grievances. U.S. Const. amend. I.
+
+    169.        “[R]etaliation by a government employer for a public employee’s exercise of the
+
+        right of access to the courts may implicate the protections of the Petition Clause.”
+
+        Borough of Duryea v. Guarnieri, 131 S. Ct. 2488, 2494 (2011); see also Mack v. Warden
+
+
+
+
+                                                   35
+       Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 39 of 42
+
+
+
+
+   Loretto FCI, 839 F.3d 286 (3d Cir. 2016) (holding that an inmate’s oral grievance is
+
+   protected under the Petition Clause).
+
+170.       To be protected under the First Amendment, speech by a government employee
+
+   “must be on a matter of public concern, and the employee's interest in expressing herself
+
+   on this matter must not be outweighed by any injury the speech could cause to ‘the
+
+   interest of the State, as an employer, in promoting the efficiency of the public services it
+
+   performs through its employees.’” Waters v. Churchill, 511 U.S. 661, 668 (1994).
+
+171.       A report of sex-based discrimination or harassment by a government official can
+
+   constitute speech on a matter of public concern. See Azzaro v. County of Allegheny, 110
+
+   F.3d 968, 975 (3d Cir. 1997) (reasoning that the plaintiff’s reports “brought to light actual
+
+   wrongdoing on the part of one exercising public authority.”).
+
+172.       The plaintiff must show a “causal link” between the protected speech and the
+
+   adverse employment action. See Azzaro, 110 F.3d at 981 (reversing summary judgment
+
+   dismissing First Amendment retaliation claim because there existed “a material dispute of
+
+   fact as to whether [plaintiff’s] reports were a motivating factor in the discharge
+
+   decision”).
+
+173.       If the plaintiff shows that the decisionmaker was aware of the protected conduct,
+
+   then the plaintiff may use the temporal proximity between that knowledge and the
+
+   adverse employment action to argue causation. Thomas v. Town of Hammonton, 351
+
+   F.3d 108, 114 (3d Cir. 2003).
+
+174.       Here, Plaintiff engaged in activity that was protected by the First Amendment’s
+
+   Petition Clause.
+
+175.       Plaintiff’s speech was on a matter of public concern.
+
+
+
+                                            36
+          Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 40 of 42
+
+
+
+
+   176.       Defendant took materially adverse employment actions against Plaintiff for
+
+       engaging in protected activity.
+
+   177.       Plaintiff’s protected activity was a substantial or motivating factor in Defendant’s
+
+       decisions.
+
+   178.       Defendant cannot show any legitimate nondiscriminatory reason for its
+
+       employment practices and any reasons proffered by Defendant for its actions against
+
+       Plaintiff are pretextual and can readily be disbelieved.
+
+   179.       Defendant acted upon a continuing course of conduct.
+
+   180.       Moreover, this case unquestionably involves official policy: the City, the PPD,
+
+       and their policymaking officials (1) directed that the violations occur; (2) authorized the
+
+       violations; (3) agreed to subordinates’ decisions to engage in the violations; (4) provided
+
+       inadequate training; (5) provided inadequate supervision; and (6) failed to adopt needed
+
+       policies to prevent the violations.
+
+   181.       Defendant acted with malice or reckless indifference to Plaintiff’s federally
+
+       protected rights and as a result there should be an award of punitive damages against
+
+       Defendant.
+
+   182.       As a result of Defendant’s violations of Plaintiffs’ Free Speech rights, Plaintiff
+
+       has suffered damages, including, but not limited to: past and future lost wages, pain and
+
+       suffering, inconvenience, mental anguish, loss of enjoyment of life, humiliation,
+
+       emotional distress, reputational harm, diminishment of career opportunities, and other
+
+       harm, both tangible and intangible.
+
+   WHEREFORE, Plaintiff Janelle Newsome demands judgment against Defendant City of
+
+Philadelphia and prays for the following relief: (1) actual damages; (2) compensatory damages;
+
+
+                                                37
+Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 41 of 42
+Case 2:19-cv-05590-MMB Document 1 Filed 11/26/19 Page 42 of 42
+

@@ -1,0 +1,963 @@
+Source URL: https://www.courtlistener.com/docket/59724869/1/wagner-v-ikea-north-american-services-llc/
+Title: Complaint (Attorney) – #1 in WAGNER v. IKEA NORTH AMERICAN SERVICES, LLC (E.D. Pa., 2:21-cv-01188) – CourtListener.com
+
+               Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 1 of 18
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+               FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+__________________________________________
+KATIE WAGNER                              :
+217 Mountain Street                       :
+Philadelphia, PA 19148                    :                              CIVIL ACTION
+                                          :
+                   Plaintiff,             :                              No.: _________________________
+                                          :
+        v.                                :
+                                          :
+IKEA NORTH AMERICAN SERVICES, LLC         :                              JURY TRIAL DEMANDED
+d/b/a IKEA                                :
+420 Alan Road                             :
+Conshohocken, PA 19428                    :
+                                          :
+                   Defendant.             :
+__________________________________________:
+
+                                      CIVIL ACTION COMPLAINT
+
+          Katie Wagner (hereinafter referred to as “Plaintiff,” unless indicated otherwise) by and
+
+through her undersigned counsel, hereby avers as follows:
+
+                                               INTRODUCTION
+
+          1.       Plaintiff has initiated this action to redress violations by Defendant Ikea North
+
+American Services, LLC (hereinafter referred to as “Defendant”) of Title VII of the Civil Rights
+
+Act of 1964 (“Title VII” – 42 U.S.C. §§ 2000(d) et. seq), the Age Discrimination in Employment
+
+Act (“ADEA” - 29 U.S.C. §§ 621 et. seq.), the Americans with Disabilities Act, as Amended
+
+(“ADA” – 42 U.S.C. §§ 12101 et. seq.), and the Pennsylvania Human Relations Act (“PHRA”).1
+
+As a direct consequence of Defendant’s unlawful actions, Plaintiff seeks damages as set forth
+
+herein.
+
+
+1
+ Plaintiff’s claims under the PHRA are referenced herein for notice purposes. She is required to wait 1 full year
+before initiating a lawsuit from date of dual-filing with the EEOC. Plaintiff must however file this lawsuit in advance
+of same because of the date of issuance of her federal right-to-sue-letter under Title VII, the ADEA and the ADA.
+Plaintiff’s PHRA claims however will mirror identically her federal claims under Title VII, ADEA and the ADA.
+             Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 2 of 18
+
+
+                                  JURISDICTION AND VENUE
+
+        2.       This Court has original subject matter jurisdiction over the instant action pursuant
+
+to 28 U.S.C. §§ 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks
+
+redress for violations of federal laws. There lies supplemental jurisdiction over Plaintiff’s state
+
+law claims because they arise out of the same common nucleus of operative facts as Plaintiff's
+
+federal claims asserted herein.
+
+        3.       This Court may properly assert personal jurisdiction over Defendants because their
+
+contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over
+
+Defendants to comply with traditional notions of fair play and substantial justice, satisfying the
+
+standard set forth by the United States Supreme Court in Int’l Shoe Co. v. Washington, 326 U.S.
+
+310 (1945), and its progeny.
+
+        4.       Pursuant to 28 U.S.C. § 1391(b)(1) an (b)(2), venue is properly laid in this district
+
+because Defendants are deemed to reside where they are subjected to personal jurisdiction,
+
+rendering Defendants residents of the Eastern District of Pennsylvania.
+
+        5.       Plaintiff is proceeding herein under Title VII and the ADA after properly
+
+exhausting all administrative remedies with respect to such claims by timely filing a Charge of
+
+Discrimination with the Equal Employment Opportunity Commission (“EEOC”) and by filing the
+
+instant lawsuit within ninety (“90”) days of receiving a notice of dismissal and/or right to sue letter
+
+from the EEOC.
+
+                                               PARTIES
+
+        6.       The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        7.       Plaintiff is an adult individual with an address as set forth in the caption.
+
+
+
+
+                                                    2
+                Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 3 of 18
+
+
+           8.       Defendant Ikea North American Services LLC operates store locations nationally
+
+doing business as “IKEA” (selling home-furnishing(s) and other related products) and is
+
+headquartered in Conshohocken, Pennsylvania.
+
+           9.       At all times relevant herein, Defendant acted by and through their agents, servants
+
+and employees, each of whom acted at all times relevant herein in the course and scope of their
+
+employment with and for the Defendants.
+
+                                         FACTUAL BACKGROUND
+           10.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+           11.      Plaintiff is a female.
+
+           12.      Plaintiff was hired by Defendant on or about March 19, 2017 as Recruiter and
+
+formally promoted to the position of Recruitment Delivery Manager.
+
+           13.      At all times, Plaintiff was based out of Defendant’s United States headquarters,
+
+which was their Conshohocken, PA location (address set forth in the Caption).
+
+           14.      In total, Plaintiff was employed by Defendant for approximately 3.5 years until her
+
+illegal termination, infra.
+
+           15.      As a Recruitment Delivery Manager, Plaintiff worked within Defendant’s Human
+
+Resources Department supervising a group of direct reports in the “Talent Department,” in all
+
+aspects of recruitment/hiring/retention.
+
+           16.      For nearly the entirety of Plaintiff’s employment, she directly reported to Eleanor
+
+Tattar, Vice President of Succession Planning/Talent Manager.
+
+           17.      At all relevant times, Tattar directly reported to Philip Wellington, “Head of
+
+People” (Chief Human Resources Officer)(“CHRO”) for the United States.2
+
+
+2
+    Mr. Wellington at all times reported to Defendant’s President (US), one Javier Quinones.
+
+                                                           3
+          Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 4 of 18
+
+
+       18.     During Plaintiff’s employment, she was a hard working employee who performed
+
+her job well, received positive feedback and had positive performance reviews.
+
+       19.     During Plaintiff’s employment, she had not been the subject of any discipline, and
+
+never received so much as a “counseling” under Defendant’s corrective action policy (as
+
+Defendant IKEA very much adheres to progressive discipline in coaching its employees, and same
+
+starts with a counseling, warning and up through final warning).
+
+       20.     The events giving rise to this lawsuit relate to Defendant’s hiring of a male
+
+Recruitment Manager: Richard (“Rick”) Carsley (hereinafter “Carsley”) and his creation of a
+
+hostile work environment based upon sex and other discriminatory behaviors, which were formally
+
+reported to management by Plaintiff and others.
+
+       21.     During the last approximate year of Plaintiff’s employment, Carsley was hired to
+
+perform similar recruiting functions as Plaintiff and was considered her peer, and was also
+
+overseeing his own team of direct reports.
+
+       22.     Though Carsley was brought on board in the same capacity as Plaintiff, working in
+
+their corporate US Headquarters performing formal human resources and recruiting/hiring
+
+functions – he objectively had no regard for civil rights laws which prohibit discrimination in
+
+hiring or terms and condition of employment based upon one’s sex, age, pregnancy or other
+
+protected characteristics.
+
+       23.     Carsley’s discriminatory behavior was uninhibited, and often made Plaintiff and
+
+other employees extremely uncomfortable working around him.
+
+       24.        Plaintiff confided concerns about Carsley’s behavior to her direct supervisor
+
+(Tattar) on several occasions, and always assumed and hoped Tattar was addressing Carsley’s
+
+inappropriate behavior either with him directly, through the appropriate chain of
+
+command/channels within Defendant – or both (in fact, Plaintiff perceived Tattar to be a strong
+
+
+                                                  4
+          Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 5 of 18
+
+
+leader who held managers within Defendant Ikea’s organization accountable in all aspects of job
+
+performance and company credo: shared values and unique culture).
+
+       25.       On or about June 2, 2020, Tattar was placed on an involuntary leave, pending an
+
+“investigation”; Plaintiff was    not privy to the details of the “investigation” concerning Tattar.
+
+       26.       On or about June 8, 2020, Plaintiff was interviewed as to the Tattar investigation.
+
+       27.       The context of the questioning related to: (1) Tattar’s management style; (2)
+
+Tattar’s communication(s) in or out of work with Plaintiff or other employees; and (3) whether
+
+Tattar communicated about other employees, such as Carsley.
+
+       28.       In light of Carsley’s name having been mentioned, Plaintiff used the interview to
+
+convey her own very serious concerns about Carsley. In particular, Plaintiff outlined numerous
+
+sexist comments (and gestures) by him and that he engaged inappropriately in commentary and/or
+
+actions of discriminating against older job applicants and women (among others).
+
+       29.       Plaintiff therefore engaged in legally-protected complaints of discrimination on or
+
+about June 8, 2020 about Carsley when she was being interviewed about Tattar, concerns which
+
+Plaintiff understood were being conveyed to upper management.
+
+       30.       During Tattar’s absence, Carsley (despite being a serious focal point in that
+
+investigation, as raised by Plaintiff), was actively assuming additional leadership roles, including
+
+all things Talent Acquisition, now joining senior leadership team meetings, making high-level
+
+decisions and announcing internal items to other parts of the Ikea organization across the United
+
+States -- before all local team members (including Plaintiff) were even on board with/aware of
+
+certain items.
+
+       31.       In addition, though employees including Plaintiff had been directed not to discuss
+
+the Tattar investigation or communicate with Tattar, Carsley was openly disparaging Tattar,
+
+including her leadership style (which Plaintiff brought to Philip Wellington’s attention directly);
+
+
+                                                  5
+          Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 6 of 18
+
+
+Mr. Wellington never followed up with Plaintiff nor confirmed whether he had so much as spoken
+
+with Carsley about this behavior, let alone admonished him for same.
+
+       32.     It was objective to most team members that Carsley and Mr. Wellington had a close
+
+relationship and that Mr. Wellington tended to favor Carsley over other managers when engaging
+
+in work-related issues (which likely speaks to why Wellington turned a blind eye to Carsley’s
+
+discrimination and internal complaints about Carsley).
+
+       33.     As Carsley’s discriminatory conduct had gone unabated, by early July 2020, an
+
+external candidate actually made a complaint of race discrimination against Carsley and one of his
+
+direct reports about their recruitment practices/hiring; same was forwarded directly to upper
+
+management and Plaintiff was never made aware that any action was taken in response to this
+
+complaint. (Therefore, in addition to Plaintiff’s own internal complaints of discrimination against
+
+Carsley, a new complaint from a member of the public had corroborated same by this time).
+
+       34.     On or about July 14, 2020, Plaintiff learned that Tattar’s employment was
+
+terminated.
+
+       35.     On the same day of Tattar’s announced termination, Plaintiff communicated with
+
+Amy Vernon (an HR Business Partner) advising that: (1) the discrimination claims she raised
+
+concerning Carsley had not been addressed; (2) Plaintiff was actually fearful of retaliation against
+
+herself; and (3) Plaintiff had been coping with depression (and the workplace stressors and being
+
+around Carlsey were exacerbating same).
+
+       36.     Vernon asked Plaintiff what kind of “support system” she had for her depression
+
+and suggested she could offer company resources if need be (Plaintiff confirmed she did have
+
+support and confirmed she was undergoing treatment for her depression).
+
+       37.     Plaintiff inquired during the meeting if she was now permitted to speak to Tattar
+
+(as the investigation had concluded and Tattar no longer worked there); Vernon was very clear
+
+
+                                                 6
+           Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 7 of 18
+
+
+that while she could not control who Plaintiff talked to – if Plaintiff was intent on speaking to
+
+Tattar about anything at all work-related, there would be problems.3
+
+         38.      Plaintiff’s meeting with Vernon concluded with Vernon expressly informing
+
+Plaintiff she would “follow up” with Mr. Wellington “about the discrimination piece,” Plaintiff
+
+had re-raised; however, Plaintiff had little confidence that following up with Mr. Wellington would
+
+do much, as Wellington had done nothing with any other concerns Plaintiff had brought to his
+
+attention about and concerning Carsley.
+
+         39.      On or about July 15, 2020, Plaintiff submitted a formal written complaint about and
+
+concerning Carsley through an internal complaint forum called “iSpeak.” “iSpeak” is an on-line
+
+system (and form submission) available to employees of Defendant to make work-related
+
+complaints about any matters, inclusive of discrimination.
+
+         40.      The types of concerns Plaintiff expressed (more in depth) on this date overlapped
+
+many prior concerns: (a) previously expressed to Tattar; (b) expressed on or about June 8, 2020;
+
+and (c) expressed on or about July 14, 2020. Some examples of such concerns included but were
+
+not limited to Carsley:
+
+               ● Engaging in gender / age discrimination;
+
+               ● Suggesting not to place a pregnant woman because she will be out on leave soon
+                 causing others to pick up her work obligations;
+
+               ● Suggesting a female looked too big because she was pregnant in a training video
+                 and to remove her, inserting a black person;
+
+               ● Comments about Plaintif’s appearance, liking her outfit, and referencing her as
+                 cute;
+
+               ● Recruitment teams consist of high heels click[ing] down the hall;
+
+               ● Expressing difficulties in hiring with a reference to older women;
+
+3
+  Though Plaintiff did not socialize with Tattar outside of work, she still perceived Tattar to be an excellent manager
+and was concerned about Tattar’s well being given the abrupt termination; however, given the company’s clear animus
+toward this former employee, Plaintiff did not make any contact with Tattar as she was told.
+
+                                                          7
+              Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 8 of 18
+
+
+
+                 ● Comments about women being too emotional; and
+
+                 ● Considering whether women have family obligations when interviewing them;
+
+The bullet-point examples above are not intended to be an all-inclusive list; but rather, just that - -
+
+a series of examples of the types of continual or pervasive comments made by Carsley that
+
+Plaintiffs and others found inappropriate and point-blank discriminatory.4
+
+           41.      The very next day -- on July 16, 2020, Plaintiff was contacted by Emily Wellington
+
+(People & Culture Business Partner) and Phillip Wellington (collectively “the Wellingtons”); for
+
+the first time, Plaintiff was told that she was now under investigation. Plaintiff was then placed on
+
+an involuntary leave of absence. The only information Plaintiff was provided was that: (1) she was
+
+not permitted to record the call (requiring her verbal confirmation of non-recording); (2) an
+
+employee complained about Plaintiff; (3) no timeframe for her involuntarily leave could be given;
+
+and (4) while Plaintiff’s iSpeak complaint was received, this discrimination complaint had nothing
+
+to do with her now being sent home.
+
+           42.      Nonetheless, Plaintiff’s involuntary leave of absence (for the first time in her
+
+career) happened to occur following at least 3 separate complaints of discrimination by Plaintiff,
+
+including twice in the prior 48 hours.
+
+           43.      On or about July 22, 2020, counsel from an outside law firm (Potter & Murdock,
+
+P.C.) interviewed Plaintiff as part of the “investigation” into Plaintiff. Therein, they asked Plaintiff
+
+about whether she has had contact with Tattar or an employee on paternity leave. The conversation
+
+then shifted into her own concerns of discrimination as relayed via iSpeak. Plaintiff reiterated prior
+
+concerns, explained that she had to escalate the matters through iSpeak because nothing was being
+
+
+
+
+4
+    There is also evidence that Carsley said “recruiting was like seducing a woman.”
+
+                                                           8
+           Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 9 of 18
+
+
+done by management about her prior concerns, and that she wanted the discrimination in the
+
+workplace to cease.
+
+         44.      During this interview, Plaintiff was given no meaningful information about alleged
+
+complaints about Plaintiff purportedly prompting a necessary investigation.
+
+         45.      Plaintiff participated in a scheduled conference call with Phillip Wellington on
+
+August 11, 2020 (per notification 1 day earlier). Therein, Tanesha Carter (acting as interim
+
+Manager since Tattar’s separation) also participated in the call.
+
+         46.      During the August 11, 2020 call, Plaintiff was informed the investigation is still
+
+ongoing, the company is prepared to bring her back, and she should take her return as a “good
+
+sign.”
+
+         47.      On August 12, 2020, Plaintiff returned to work and was instructed by Emily
+
+Wellington not to discuss certain aspects of prior investigations; though she was back      at work,
+
+Plaintiff did not even have access to her computer or Defendant’s internal system until later in the
+
+day on August 12, 2020.
+
+         48.      Plaintiff then only had the opportunity to work for 2 more business days (Thursday,
+
+the 13th, and Friday, the 14th) before being terminated on Monday, August 17, 2020.
+
+         49.      Plaintiff was terminated via phone by Phillip Wellington (present with Emily
+
+Wellington) stating inter alia:
+
+               ● The company has decided to separate Plaintiff’s employment immediately;
+
+               ● There are unsustainable working dynamics;
+
+               ● It’s in the best interest of the talent team to make a change;
+
+               ● A “corrective action” will be sent to Plaintiff;
+
+               ● No reason for termination would be given over the phone beyond stating “we have
+                 the ability to terminate at will, and there doesn’t have to be a reason;” and
+
+               ● Plaintiff’s unused PTO will be paid out.
+
+                                                    9
+         Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 10 of 18
+
+
+
+        50.     Following the aforesaid termination discussion on August 17, 2020, Plaintiff
+
+received a formal “corrective action” identifying various reasons for termination.
+
+        51.     Any objective person would completely agree that the rationale therein was
+
+fabricated, as 1st) Defendant so pretextually terminated Plaintiff that documentation identified
+
+tasks Plaintiff was not even responsible for as part of her job; 2nd ) there were allegations Plaintiff’s
+
+team was unhappy with her, which contradicted recent reviews, surveys, texts and feedback; and
+
+3rd), no prior warning (verbal or in writing) was ever conveyed to Plaintiff about anything.
+
+        52.     Prior to the issuance of this “corrective action” memorializing Plaintiff’s
+
+termination, Plaintiff’s performance was stellar, timely and thorough – as evidenced by reviews
+
+and compensation growth.
+
+        53.     As stated, Plaintiff did not receive progressive discipline, as anyone not being
+
+retaliated against would.
+
+        54.     Plaintiff was only one (1) of several other Recruitment Delivery Managers or
+
+similar roles in the Talent Department, including but not limited to: (i) Colleen (Col) Holmes
+
+(“Recruitment Programs Manager”): (ii) Michael DeSanto (“Recruitment Delivery Manager”);
+
+(iii) Rick Carsley (“Recruitment Delivery Manager”); (iv) Amy Haggblom (“Recruitment
+
+Delivery Manager”); and (v) Christopher Selders (“Interim Recruitment Delivery Manager”).
+
+        55.     Each Recruitment Delivery Manager had a number of Recruiters or Senior
+
+Recruiters who reported to them; in particular, Plaintiff had at least five (5) different
+
+Recruiters/Senior Recruiters reporting to her at all times.
+
+        56.     Given Plaintiff’s work ethic and ability to handle her own team members and
+
+workload, Plaintiff was tasked with overseeing several additional Recruiters (in addition to her
+
+own) during a peer’s paternity leave.
+
+
+
+                                                   10
+          Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 11 of 18
+
+
+         57.   Recruiters and Senior Recruiters often provided feedback about their direct
+
+supervisors and same was often solicited; never once was Plaintiff informed of any negative
+
+feedback from her Recruiters which was anything beyond what the company defined as “coaching
+
+and development” (which was common in the Ikea organization).
+
+         58.   In fact – in the midst of the “Tattar investigation,” which prompted uncertainty
+
+about reporting functions, having an “interim” Manager in Tattar’s absence, an going global
+
+restructure referred to as the “Lead Work Organize” (LWO) initiative, and pressure to focus on
+
+recruiting efforts for retail locations, many Recruiters were dissatisfied with their respective
+
+workloads and had expressed to Plaintiff and Plaintiff’s peers their dissatisfaction with varying
+
+facets of the work environment in light of these considerations.
+
+         59.   These concerns were brought directly to upper management by Plaintiff, or some
+
+of her peers (to such an extent that the interim manager admitted there were too many emails on
+
+the issue and urged in person meetings to address these recruiter and manager concerns in real
+
+time).
+
+         60.   The concerns were not directed toward Plaintiff, her workplace demeanor, her
+
+handling of job duties or anything of the sort.
+
+         61.   If any single Recruiter brought any legitimate concerns to upper management’s
+
+attention, Plaintiff was never told of it, had no opportunity to explain/explore any such complaint,
+
+and was clearly singled out for an arbitrary termination where numerous other managers in her
+
+same position had been the direct subject of criticisms by their own Recruiters for an array of
+
+reasons in the midst of very chaotic changes (ongoing) in this Talent Department.
+
+         62.   Carsley in particular was the subject of complaints by not only direct reports, but
+
+peers (in addition to outright discrimination complaints recently brought to management’s
+
+attention by Plaintiff, an external candidate and likely Tattar).
+
+
+                                                  11
+         Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 12 of 18
+
+
+        63.      Tattar has since filed her own EEOC Charge against Defendant Ikea and identified
+
+therein that Carsley was formally coached for more than five (5) months and placed on a Final
+
+Written Warning – yet he was not terminated by Defendant Ikea for any of his actions.
+
+        64.      There is simply no question Defendant terminated Plaintiff for her own complaints
+
+of discrimination, for being a potential witness in Tattar’s legal assertions (as she was sent a
+
+litigation-hold document while employed as to her), and solely for retaliatory reasons.
+
+        65.      As a final point, in addition to blatantly targeting Plaintiff for “investigation” the
+
+day after she pursued a formal discrimination complaint with iSpeak and fired her shortly
+
+thereafter (only presenting alleged “performance concerns” to her after termination), Defendant
+
+Ikea has a pattern and practice of retaliating against its employees and terminated at least two (2)
+
+other employees in the same time frame who came forward with complaints of formal
+
+discrimination.
+
+                                               COUNT I
+                  Violation of Title VII of the Civil Rights Act of 1964 (“Title VII”)
+              (Retaliation for Complaining of Gender & Pregnancy Discrimination;
+                       Hostile Work Environment; Gender Discrimination)
+
+        66.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        67.      Plaintiff engaged in protected conduct under Title VII on several occasions in
+
+relation to Carsley during his hire, but most recently on June 8, 2020, July 14, 2020, July 15, 2020
+
+and July 22, 2020.
+
+        68.      Plaintiff was subject to materially adverse actions very shortly thereafter, including
+
+being placed on an involuntarily leave of absence, having her workplace privileges and online
+
+access suspended, and being terminated.
+
+
+
+
+                                                  12
+         Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 13 of 18
+
+
+        69.     Plaintiff was terminated for objectively false and pre-textual reasons, and in
+
+contraventions of Defendant’s own internal policies and procedures adhering to progressive
+
+discipline.
+
+        70.     Plaintiff was terminated for alleged performance/behavior issues for which male
+
+employees have not been terminated and was treated disparately in comparison to other male peers.
+
+        71.     Plaintiff was subject to regular and pervasive gender based harassment, in the form
+
+of unwelcomed advances by Carsley, comments about her appearance, and regular negative
+
+comments about women in general.
+
+        72.     Though Plaintiff escalated Carsley’s inappropriate and repeated conduct and
+
+comments within Defendant, his behavior continued
+
+        73.     These actions as aforesaid constitute violations of Title VII.
+
+                                          COUNT II
+              Violations of the Age Discrimination in Employment Act (“ADEA”)
+                      (Retaliation for Complaining of Age Discrimination)
+
+
+        74.     The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        75.     Plaintiff engaged in protected conduct under the ADEA on several occasions in
+
+relation to Carsley during his hire, but most recently on June 8, 2020, July 14, 2020, July 15, 2020
+
+and July 22, 2020, as she opposed his age based discrimination by Carsley.
+
+        76.     Plaintiff was subject to materially adverse actions shortly thereafter, including
+
+being placed on an involuntarily leave of absence, having her workplace privileges and online
+
+access suspended, and being terminated.
+
+        77.     Plaintiff was terminated for objectively false and pretextual reasons, and in
+
+contraventions of Defendant’s own internal policies and procedures adhering to progressive
+
+discipline.
+
+                                                 13
+            Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 14 of 18
+
+
+
+
+                                              COUNT III
+                 Violations of the Americans with Disabilities Act, as amended ("ADA")
+                             (Actual/Perceived/Record of Disability Discrimination)
+
+           78.      The foregoing paragraphs are incorporated herein by reference as though set forth
+
+in full.
+
+           79.      Plaintiff suffers from a qualifying disability as that term is defined by the ADA, as
+
+amended, as her depression substantially limits her ability to think, concentrate, and sleep at times
+
+(though she was always able to perform her job well with Defendant).
+
+           80.      Plaintiff expressly put Defendant on notice of her record of depression and ongoing
+
+need for treatment.
+
+           81.      In close proximity to Plaintiff’s disclosure of her record of a mental-health
+
+disability, she was terminated for completely false and pre-textual reasons.
+
+           82.      Plaintiff therefore avers that her disability was also a determinative factor in
+
+Defendant’s decision to arbitrarily terminate her employment.
+
+WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+           A.       Defendants are to promulgate and adhere to a policy prohibiting discrimination and
+
+retaliation in the future against any employee(s);
+
+           B.       Defendants are to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff
+
+whole for any and all pay and benefits Plaintiff would have received had it not been for
+
+Defendants’ illegal actions, including but not limited to back pay, front pay, salary, pay increases,
+
+bonuses, insurance, benefits, training, promotions, reinstatement and seniority;
+
+
+
+
+                                                     14
+         Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 15 of 18
+
+
+       C.      Plaintiff is to be awarded punitive damages, as permitted by applicable law, in an
+
+amount believed by the Court or trier of fact to be appropriate to punish Defendants for their
+
+willful, deliberate, malicious and outrageous conduct and to deter Defendants or other employers
+
+from engaging in such misconduct in the future;
+
+       D.      Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper and appropriate (including but not limited to damages for emotional distress, pain, suffering
+
+and humiliation); and
+
+       E.      Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+attorney’s fees as provided by applicable federal and state law.
+
+
+
+                                                     Respectfully submitted,
+
+                                                     KARPF, KARPF & CERUTTI, P.C.
+
+                                              By:    _______________________________
+                                                     Ari R. Karpf, Esq.
+                                                     3331 Street Rd.
+                                                     Two Greenwood Square, Suite 128
+                                                     Bensalem, PA 19020
+                                                     (215) 639-0801
+Dated: March 11, 2021
+
+
+
+
+                                                15
+   Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 16 of 18
+
+
+
+
+            ========h~íáÉ=t~ÖåÉê
+
+
+fâÉ~=kçêíÜ=^ãÉêáÅ~å=pÉêîáÅÉëI=ii`=ÇLÄL~=fâÉ~
+
+
+
+
+PLNNLOMON
+                             Case 2:21-cv-01188-PBT
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   03/11/21 Page 17 of 18
+                                                                       COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       ONT=jçìåí~áå=píêÉÉíI=mÜáä~ÇÉäéÜá~I=m^=NVNQU
+Address of Plaintiff: ______________________________________________________________________________________________
+                       QOM=^ä~å=oç~ÇI=`çåëÜçÜçÅâÉåI=m^=NVQOU
+Address of Defendant: ____________________________________________________________________________________________
+                                            aÉÑÉåÇ~åíDë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+        PLNNLOMON
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+        PLNNLOMON
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                   Case 2:21-cv-01188-PBT Document 1 Filed 03/11/21 Page 18 of 18
+JS 44 (Rev. 06/17)                                                        CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                           DEFENDANTS
+t^dkboI=h^qfb                                                                                              fhb^=kloqe=^jbof`^k=pbosf`bpI=ii`=aL_L^=fhb^
+
+    (b) County of Residence of First Listed Plaintiff               mÜáä~ÇÉäéÜá~                             County of Residence of First Listed Defendant                jçåíÖçãÉêó
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                     (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                             NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                           THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                   Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                      III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                    f
+                                                                                                        (For Diversity Cases Only)                                            and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3    Federal Question                                                                     PTF           DEF                                           PTF      DEF
+          Plaintiff                             (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1    Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                           of Business In This State
+
+❒ 2    U.S. Government                 ’ 4 Diversity                                               Citizen of Another State          ’ 2         ’ 2   Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                           (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                   Citizen or Subject of a           ’ 3         ’ 3   Foreign Nation                        ’ 6      ’ 6
+                                                                                                     Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                 Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                             TORTS                                FORFEITURE/PENALTY                            BANKRUPTCY                     OTHER STATUTES
+❒   110 Insurance                      PERSONAL INJURY                 PERSONAL INJURY            ❒ 625 Drug Related Seizure               ’   422 Appeal 28 USC 158         ❒ 375 False Claims Act
+❒   120 Marine                       ’ 310 Airplane                  ❒ 365 Personal Injury -            of Property 21 USC 881             ’   423 Withdrawal                ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’ 315 Airplane Product                Product Liability      ❒ 690 Other                                      28 USC 157                       3729(a))
+❒   140 Negotiable Instrument               Liability                ❒ 367 Health Care/                                                                                     ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’ 320 Assault, Libel &                Pharmaceutical                                                      PROPERTY RIGHTS              ❒ 410 Antitrust
+        & Enforcement of Judgment           Slander                        Personal Injury                                                 ❒ 820 Copyrights                 ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’ 330 Federal Employers’              Product Liability                                               ❒ 830 Patent                     ❒ 450 Commerce
+❒   152 Recovery of Defaulted               Liability                ❒ 368 Asbestos Personal                                               ❒ 835 Patent - Abbreviated       ❒ 460 Deportation
+        Student Loans                ’ 340 Marine                          Injury Product                                                         New Drug Application      ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’ 345 Marine Product                  Liability                                                       ❒ 840 Trademark                         Corrupt Organizations
+❒   153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                        LABOR                          SOCIAL SECURITY               ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’ 350 Motor Vehicle             ❒ 370 Other Fraud            ❒ 710 Fair Labor Standards               ’ 861 HIA (1395ff)               ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’ 355 Motor Vehicle             ❒ 371 Truth in Lending               Act                              ❒ 862 Black Lung (923)           ❒ 850 Securities/Commodities/
+❒   190 Other Contract                     Product Liability         ❒ 380 Other Personal         ❒ 720 Labor/Management                   ’ 863 DIWC/DIWW (405(g))                 Exchange
+❒   195 Contract Product Liability   ’ 360 Other Personal                  Property Damage                Relations                        ❒ 864 SSID Title XVI             ❒ 890 Other Statutory Actions
+❒   196 Franchise                          Injury                    ❒ 385 Property Damage        ❒ 740 Railway Labor Act                  ’ 865 RSI (405(g))               ❒ 891 Agricultural Acts
+                                     ’ 362 Personal Injury -               Product Liability       ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                           Medical Malpractice                                            Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS          ❒ 790 Other Labor Litigation               FEDERAL TAX SUITS                      Act
+❒   210 Land Condemnation            ❒ 440 Other Civil Rights          Habeas Corpus:             ❒ 791 Employee Retirement                ❒ 870 Taxes (U.S. Plaintiff      ❒ 896 Arbitration
+❒   220 Foreclosure                  ❒ 441 Voting                    ❒ 463 Alien Detainee                Income Security Act                      or Defendant)             ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       ❒ 442 Employment
+                                     u                               ❒ 510 Motions to Vacate                                               ❒ 871 IRS—Third Party                   Act/Review or Appeal of
+❒   240 Torts to Land                ❒ 443 Housing/                        Sentence                                                               26 USC 7609                      Agency Decision
+❒   245 Tort Product Liability             Accommodations            ❒ 530 General                                                                                          ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒ 445 Amer. w/Disabilities -    ❒ 535 Death Penalty                IMMIGRATION                                                                State Statutes
+                                           Employment                  Other:                     ❒ 462 Naturalization Application
+                                     ❒ 446 Amer. w/Disabilities -    ❒ 540 Mandamus & Other       ❒ 465 Other Immigration
+                                           Other                     ❒ 550 Civil Rights                 Actions
+                                     ❒ 448 Education                 ❒ 555 Prison Condition
+                                                                     ❒ 560 Civil Detainee -
+                                                                           Conditions of
+                                                                           Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                           ❒   3    Remanded from             ❒ 4 Reinstated or        ’     5 Transferred from     ❒ 6 Multidistrict                 ❒ 8 Multidistrict
+        Proceeding                State Court                       Appellate Court               Reopened                     Another District            Litigation -                   Litigation -
+                                                                                                                            (specify)                      Transfer                       Direct File
+                                            Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                      qáíäÉ=sff=EQOrp`OMMMFX=^ab^=EOVrp`SONFX=^a^=EQOrp`NONMNF
+VI. CAUSE OF ACTION Brief description of cause:
+                      sáçä~íáçåë=çÑ=qáíäÉ=sffI=^ab^I=^a^=~åÇ=íÜÉ=m^=eìã~å=oÉä~íáçåë=^ÅíK
+VII. REQUESTED IN     ❒ CHECK IF THIS IS A CLASS ACTION      DEMAND $                    CHECK YES only if demanded in complaint:
+     COMPLAINT:           UNDER RULE 23, F.R.Cv.P.                                       JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                        (See instructions):
+      IF ANY                                JUDGE                                  DOCKET NUMBER
+DATE                                                                    SIGNATURE OF ATTORNEY OF RECORD
+          PLNNLOMON
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                    APPLYING IFP                                     JUDGE                              MAG. JUDGE
+
+                  Print                                Save As...                                                                                                                  Reset
+

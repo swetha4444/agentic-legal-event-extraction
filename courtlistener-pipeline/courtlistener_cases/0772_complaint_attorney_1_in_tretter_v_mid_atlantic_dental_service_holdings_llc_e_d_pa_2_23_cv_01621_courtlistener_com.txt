@@ -1,0 +1,1075 @@
+Source URL: https://www.courtlistener.com/docket/67287183/1/tretter-v-mid-atlantic-dental-service-holdings-llc/
+Title: Complaint (Attorney) – #1 in TRETTER v. MID-ATLANTIC DENTAL SERVICE HOLDINGS LLC (E.D. Pa., 2:23-cv-01621) – CourtListener.com
+
+JS 44 (Rev. 10/20)                Case 2:23-cv-01621-LAS
+                                                      CIVILDocument
+                                                            COVER1SHEET
+                                                                    Filed 04/28/23                                                                      Page 1 of 24
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+                                                                                                             MID-ATLANTIC DENTAL SERVICE HOLDINGS LLC, MID-ATLANTIC
+          DEBRA TRETTER                                                                                     DENTAL PARTNERS, MID-ATLANTIC INTERMEDIATE, LLC, & SONRAVA
+                                                                                                            HEALTH
+    (b) County of Residence of First Listed Plaintiff                  Bucks                                 County of Residence of First Listed Defendant Montgomery
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       Lane J. Schiff , Esquire
+       Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+       Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                           (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                          of Business In This State
+
+    2   U.S. Government                      4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                                     Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                        Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY             625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -            of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability        690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                              830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                              835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                      840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                      LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud              710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending             Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal           720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage              Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage          740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability        751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                            Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS            790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:               791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee               Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                             870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                           or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                       871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                       462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other         465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                 Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+      Proceeding             State Court                                Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                                 (specify)                  Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq. (“Title VII”);43 P.S. §951, et seq. (“PHRA”).
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff brings this action against her former employers for unlawful sex discrimination and retaliation.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                              excess of $75,000                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                               DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+April 28, 2023
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                   JUDGE                           MAG. JUDGE
+                          Case 2:23-cv-01621-LAS
+                                              UNITEDDocument   1 Filed
+                                                     STATES DISTRICT    04/28/23
+                                                                     COURT                                                         Page 2 of 24
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                        Langhorne, PA 19047
+Address of Plaintiff: ______________________________________________________________________________________________
+                        630 West Germantown Pike, Suite 120, Plymouth Meeting, PA 19462
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      4/28/23
+DATE: __________________________________                     __________________________________________                                    314179
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+          Lane J. Schiff, Esquire
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      4/28/23
+DATE:__________________________________                     __________________________________________                                    314179
+                                                                                                                               __________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+         Case 2:23-cv-01621-LAS             Document 1      Filed 04/28/23        Page 3 of 24
+
+
+                          IN THE UNITED STATES DISTRICT COURT
+                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                      CASE MANAGEMENT TRACK DESIGNATION FORM
+            DEBRA TRETTER                                                       CIVIL ACTION
+                               PLAINTIFF,
+                       v.
+MID-ATLANTIC DENTAL SERVICE HOLDINGS LLC, MID-
+ATLANTIC
+DENTAL PARTNERS, MID-ATLANTIC INTERMEDIATE, LLC,                                NO.
+& SONRAVA HEALTH               DEFENDANTS.
+  In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+  plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+  filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+  side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+  designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+  the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+  to which that defendant believes the case should be assigned.
+  SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+  (a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                                ( )
+  (b) Social Security- Cases requesting review of a decision of the Secretary of Health
+      and Human Services denying plaintiff Social Security Benefits.                                   ( )
+  (c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53.2.        ( )
+  (d) Asbestos- Cases involving claims for personal injury or property damage from
+      exposure to asbestos.                                                                            ( )
+  (e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+      commonly referred to as complex and that need special or intense management by
+      the court. (See reverse side of this form for a detailed explanation of special
+      management cases.)                                                                               ( )
+  (f) Standard Management- Cases that do not fall into any one of the other tracks.                    ( X)
+
+   April 28, 2023
+                                                                          Plaintiff, Debra Tretter
+  Date                                Attori�                              Attorney for
+     (215) 545-7676                  (215) 565-2859                     schiff@consolelaw.com
+
+
+  Telephone                            FAX Number                          E-Mail Address
+
+
+  (Civ. 660) 10/02
+    Case 2:23-cv-01621-LAS          Document 1        Filed 04/28/23      Page 4 of 24
+
+
+
+
+                IN THE UNITED STATES DISTRICT COURT FOR
+                 THE EASTERN DISTRICT OF PENNSYLVANIA
+
+___________________________________
+DEBRA TRETTER                       :
+Langhorne, PA 19047                 :                 CIVIL ACTION NO.
+                                    :
+                         Plaintiff, :
+                                    :
+            v.                      :
+                                    :
+MID-ATLANTIC DENTAL                 :
+SERVICE HOLDINGS LLC                :
+630 West Germantown Pike, Suite 120 :
+Plymouth Meeting, PA 19462,         :
+                                    :
+MID-ATLANTIC DENTAL                 :
+PARTNERS                            :
+630 West Germantown Pike, Suite 120 :                 JURY TRIAL DEMANDED
+Plymouth Meeting, PA 19462          :
+                                    :
+MID-ATLANTIC INTERMEDIATE,          :
+LLC                                 :
+630 West Germantown Pike, Suite 120 :
+Plymouth Meeting, PA 19462,         :
+                                    :
+                         &          :
+                                    :
+SONRAVA HEALTH                      :
+630 West Germantown Pike, Suite 120 :
+Plymouth Meeting, PA 19462,         :
+                                    :
+                   Defendants.      :
+___________________________________ :
+
+                                      COMPLAINT
+
+       I.      INTRODUCTION
+
+       Plaintiff, Debra Tretter, brings this action against her former employer, Defendants,
+
+Mid-Atlantic Dental Service Holding LLC, Mid-Atlantic Dental Partners, and Mid-
+
+Atlantic Intermediate, LLC (collectively “Mid-Atlantic Defendants”) for unlawful sex
+
+discrimination and retaliation, in violation of Title VII of the Civil Rights Act of 1964, as
+    Case 2:23-cv-01621-LAS           Document 1       Filed 04/28/23       Page 5 of 24
+
+
+
+
+amended, 42 U.S.C. §2000e, et seq. (“Title VII”) and the Pennsylvania Human Relations
+
+Act, as amended, 43 P.S. §951, et seq. (“PHRA”). Plaintiff further brings this claim against
+
+Sonrava Health as, upon information and belief, the successor in interest of Mid-Atlantic
+
+Dental Service Holding LLC and Mid-Atlantic Dental Partners. Plaintiff seeks all damages
+
+allowable at law, including back-pay, front-pay, compensatory, punitive, costs and
+
+attorneys’ fees, and all other relief that this Court deems appropriate.
+
+       II.     PARTIES
+
+       1.      Plaintiff, Debra Tretter, is an individual and a citizen of the Commonwealth
+
+of Pennsylvania.
+
+       2.      Plaintiff is a woman.
+
+       3.      Defendant Mid-Atlantic Dental Service Holding LLC is limited liability
+
+company with an office located at 630 West Germantown Pike, Suite 120, Plymouth
+
+Meeting, Pennsylvania 19462.
+
+       4.      Defendant Mid-Atlantic Dental Partners is a company with an office located
+
+at 630 West Germantown Pike, Suite 120, Plymouth Meeting, Pennsylvania 19462.
+
+       5.      Defendant Mid-Atlantic Intermediate, LLC is a company with an office
+
+located at 630 West Germantown Pike, Suite 120, Plymouth Meeting, Pennsylvania 19462.
+
+       6.      On or about June 22, 2022, Sonrava Health purchased Mid-Atlantic Dental
+
+Service Holding LLC and Mid-Atlantic Dental Partners.
+
+       7.      Upon information and belief, Sonrava Health is the successor of interest of
+
+Mid-Atlantic Dental Service Holding LLC and Mid-Atlantic Dental Partners.
+
+       8.      At all times material hereto, Defendants employed more than fifteen (15)
+
+employees.
+
+
+
+
+                                              2
+    Case 2:23-cv-01621-LAS           Document 1        Filed 04/28/23    Page 6 of 24
+
+
+
+
+       9.      At all times material hereto, Defendants acted by and through their
+
+authorized agents and/or employees acting within the course and scope of their
+
+employment with Defendants and in furtherance of Defendants’ business.
+
+       10.     At all times material hereto, Defendants collectively constituted Plaintiff’s
+
+employers under the joint and/or single employer doctrine. Defendants shared common
+
+management, had interrelated operations, and collectively controlled Plaintiff’s job duties
+
+and responsibilities.
+
+       11.     At all times material hereto, Defendants acted as an employer within the
+
+meaning of the statutes which form the basis of this matter.
+
+       12.     At all times material hereto, Plaintiff was an employee within the meaning
+
+of the statutes which form the basis of this matter.
+
+       III.    JURISDICTION AND VENUE
+
+       13.     The causes of action that form the basis of this matter arise under Title VII
+
+and the PHRA.
+
+       14.     The District Court has jurisdiction over Count I (Title VII) pursuant to 42
+
+U.S.C. §2000e-5 and 28 U.S.C. §1331.
+
+       15.     The District Court has supplemental jurisdiction over Count II (PHRA)
+
+pursuant to 28 U.S.C. §1367.
+
+       16.     On or about March 26, 2021, Plaintiff filed a Complaint with the
+
+Pennsylvania Human Relations Commission (“PHRC”), complaining of the acts of
+
+discrimination and retaliation alleged herein. This Complaint was cross-filed with Equal
+
+Employment Opportunity Commission (“EEOC”). Attached hereto, incorporated herein
+
+and marked as Exhibit “A” is a true and correct copy of the PHRC Complaint (with
+
+
+
+
+                                              3
+    Case 2:23-cv-01621-LAS          Document 1        Filed 04/28/23       Page 7 of 24
+
+
+
+
+personal identifying information redacted).
+
+       17.     On or about February 1, 2023, the EEOC issued to Plaintiff a Notice of
+
+Right to Sue. Attached hereto, incorporated herein and marked as Exhibit “B” is a true and
+
+correct copy of the Notice with personal identifying information redacted.
+
+       18.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+       IV.     FACTUAL ALLEGATIONS
+
+       19.     Plaintiff was hired by Mid-Atlantic Defendants on or about July 16, 2018.
+
+       20.     Plaintiff consistently performed her job duties in a highly competent
+
+manner, and received positive feedback.
+
+       21.     Plaintiff last held the position of Corporate Controller.
+
+       22.     On or about January 14, 2019, Mid-Atlantic Defendants hired Michael Stees
+
+(male), Division Controller.
+
+       23.     Plaintiff had more responsibilities and longer service time with Mid-
+
+Atlantic Defendants than Stees but was paid the same as Stees.
+
+       24.     In or about October 2019, Plaintiff began reporting to Joseph Sivori (male),
+
+Chief Financial Officer.
+
+       25.     Plaintiff was treated differently and worse, and in a more hostile,
+
+dismissive, and demeaning manner than male employees.
+
+       26.     Mid-Atlantic Defendants unjustly criticized Plaintiff’s performance.
+
+       27.     Mid-Atlantic Defendants gave Plaintiff additional work, job duties, and
+
+responsibilities but did not give her a promotion or salary increase.
+
+       28.     Plaintiff received no salary increase or promotion, despite her requests,
+
+
+
+
+                                              4
+    Case 2:23-cv-01621-LAS          Document 1       Filed 04/28/23      Page 8 of 24
+
+
+
+
+throughout her employment with Mid-Atlantic Defendants.
+
+       29.     Mid-Atlantic Defendants gave salary increases and promotions to less
+
+qualified male employees with shorter service time than Plaintiff.
+
+       30.     Plaintiff asked Sivori why less qualified male employees were given salary
+
+increases and she was not. Plaintiff received no explanation, including the criteria, as to
+
+why she was not given salary increases and less qualified male employees were given
+
+salary increases.
+
+       31.     On November 23, 2020, in an email to Sivori, Plaintiff provided a list of six
+
+(6) female employees, including herself, who were not given performance reviews or salary
+
+increases.
+
+       32.     Plaintiff received no meaningful response to her email.
+
+       33.     On February 1, 2021, in a phone call with Sivori, Mid-Atlantic Defendants
+
+terminated Plaintiff’s employment, effective March 5, 2021, which was later moved to
+
+March 10, 2021.
+
+       34.     The stated reason for Plaintiff’s termination was consolidation. Sivori told
+
+Plaintiff that Mid-Atlantic Defendants no longer needed multiple Controllers, and Stees
+
+was selected for the combined position. Plaintiff asked why she was being terminated and
+
+Stees was being retained. Sivori responded that he was under pressure from the Board to
+
+make changes. Sivori told Plaintiff that her termination was not performance related and
+
+that he would give her a positive reference.
+
+       35.     Mid-Atlantic Defendants assigned Plaintiff’s job duties and responsibilities
+
+to Stees.
+
+       36.     Plaintiff was more qualified than Stees to perform her job duties and
+
+
+
+
+                                               5
+    Case 2:23-cv-01621-LAS          Document 1       Filed 04/28/23     Page 9 of 24
+
+
+
+
+responsibilities and that of the combined Controller position.
+
+       37.     Plaintiff was given no opportunity to apply for the combined Controller
+
+position that was given to Stees.
+
+       38.     Numerous employees told Plaintiff that she should have been retained and
+
+selected for the combined Controller position instead of Stees.
+
+       39.     On or about February 4, 2021, Stees told Plaintiff that he received a salary
+
+increase, and Plaintiff learned that another male employee received a salary increase.
+
+       40.     Plaintiff asked Sivori why Stees and the other male employee were given
+
+salary increases and she was not. Plaintiff received no explanation.
+
+       41.     On February 19, 2021, in a meeting with Sivori and Jill Cole, Chief Human
+
+Resources Officer, Plaintiff complained of sex discrimination. Plaintiff complained that
+
+there was a pattern of sex discrimination at Mid-Atlantic Defendants. Sivori and Cole did
+
+not deny the same.
+
+       42.     Mid-Atlantic Defendants failed to investigate Plaintiff’s sex discrimination
+
+complaints.
+
+       43.     Mid-Atlantic Defendants failed to take any action to remedy or prevent the
+
+sex discrimination to which Plaintiff had been subjected.
+
+       44.     On March 10, 2021, Mid-Atlantic Defendants terminated Plaintiff’s
+
+employment.
+
+       45.     Other female employees have recently resigned from Mid-Atlantic
+
+Defendants.
+
+       46.     Mid-Atlantic Defendants’ conduct evidences a bias against female
+
+employees and/or employees who engage in protected activity.
+
+
+
+
+                                             6
+   Case 2:23-cv-01621-LAS           Document 1         Filed 04/28/23      Page 10 of 24
+
+
+
+
+       47.     Plaintiff’s sex was a motivating and determinative factor in Defendants’
+
+discriminatory treatment of Plaintiff, including terminating her employment and failing to
+
+select her for the combined Controller position.
+
+       48.     Plaintiff’s sex was a motivating and determinative factor in Defendants’
+
+discriminatory treatment of Plaintiff, including failing to give her salary increases and/or a
+
+promotion.
+
+       49.     Plaintiff’s engaging in protected activity was a motivating and
+
+determinative factor in Defendants’ retaliatory treatment of Plaintiff, including terminating
+
+her employment and failing to select her for the combined Controller position.
+
+       50.     Defendants failed to prevent or address the discriminatory and retaliatory
+
+conduct referred to herein and further failed to take corrective and/or remedial measures to
+
+make the workplace free of discriminatory and retaliatory conduct.
+
+       51.     The retaliatory actions taken against Plaintiff after she engaged in protected
+
+activity would have discouraged a reasonable employee from complaining of
+
+discrimination.
+
+       52.     As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendants, Plaintiff has in the past incurred, and may in the future incur, a loss
+
+of earnings (including loss of Employee Units), and/or earning capacity, loss of benefits,
+
+pain and suffering, embarrassment, humiliation, loss of self-esteem, mental anguish, and
+
+loss of life’s pleasures, the full extent of which is not known at this time.
+
+       53.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and
+
+until this Court grants the relief requested herein.
+
+
+
+
+                                              7
+   Case 2:23-cv-01621-LAS             Document 1        Filed 04/28/23      Page 11 of 24
+
+
+
+
+        54.       Plaintiff has incurred and is entitled to reasonable costs and attorneys’ fees
+
+incurred as a result of the unlawful behavior complained of herein.
+
+                                      COUNT I - Title VII
+
+        55.       Plaintiff incorporates herein the paragraphs above, as if set forth herein in
+
+their entirety.
+
+        56.       By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants violated Title VII.
+
+        57.       Said violations were done with malice and/or reckless indifference to
+
+plaintiff’s protected rights.
+
+        58.       As a direct and proximate result of Defendants’ violation of Title VII,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+
+attorney’s fees and costs.
+
+        59.       Plaintiff is now suffering and may continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ unlawful acts unless and until this Court
+
+grants the relief requested herein.
+
+        60.       No previous application has been made for the relief requested herein.
+
+                                      COUNT II – PHRA
+
+        61.       Plaintiff incorporates herein by reference the paragraphs above, as if set
+
+forth herein in their entirety.
+
+        62.       By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants violated the PHRA.
+
+        63.       As a direct and proximate result of Defendants’ violation of the PHRA,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein, and has incurred
+
+
+
+
+                                                8
+   Case 2:23-cv-01621-LAS               Document 1        Filed 04/28/23      Page 12 of 24
+
+
+
+
+attorneys’ fees and costs.
+
+        64.         Plaintiff is now suffering and may continue to suffer irreparable injuries and
+
+monetary damages as a result of Defendants’ unlawful acts unless and until the Court grants
+
+the relief requested herein.
+
+        65.         No previous application has been made for the relief requested herein.
+
+                                              RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection
+
+with Defendants’ improper conduct, and specifically prays that the Court grant the
+
+following relief to Plaintiff by:
+
+              (a)      declaring the acts and practices complained of herein to be in violation
+
+of Title VII;
+
+              (b)      declaring the acts and practices complained of herein to be in violation
+
+of the PHRA;
+
+              (c)      enjoining and permanently restraining the violations alleged herein;
+
+              (d)      entering judgment against Defendants and in favor of the Plaintiff in an
+
+amount to be determined;
+
+              (e)      awarding compensatory damages to make the Plaintiff whole for all lost
+
+earnings, earning capacity and benefits, past and future, which Plaintiff has suffered or may
+
+suffer as a result of Defendants’ improper conduct;
+
+              (f)      awarding compensatory damages to Plaintiff for past and future pain
+
+and suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures,
+
+which Plaintiff has suffered or may suffer as a result of Defendants’ improper conduct;
+
+              (g)      awarding Plaintiff back pay;
+
+
+
+
+                                                  9
+   Case 2:23-cv-01621-LAS           Document 1       Filed 04/28/23      Page 13 of 24
+
+
+
+
+           (h)     awarding Plaintiff front pay;
+
+           (i)     awarding Plaintiff the value of any lost or unvested equity, including,
+
+without limitation Employee Units;
+
+           (j)     awarding Plaintiff such other damages as are appropriate under Title
+
+VII and the PHRA;
+
+           (k)     awarding Plaintiff the costs of suit, expert fees and other disbursements;
+
+           (l)     awarding Plaintiff reasonable attorney’s fees; and,
+
+           (m)     granting such other and further relief as this Court may deem just,
+
+proper, or equitable, including other equitable and injunctive relief, providing restitution
+
+for past violations, and preventing future violations.
+
+
+
+
+                                              CONSOLE MATTIACCI LAW, LLC
+
+
+
+Dated: April 28, 2023                 BY:     ____________________________
+                                              Lane J. Schiff, Esquire
+                                              1525 Locust St., 9th Floor
+                                              Philadelphia, PA 19102
+                                              (215) 545-7676
+
+                                              Attorney for Plaintiff,
+                                              Debra Tretter
+
+
+
+
+                                             10
+Case 2:23-cv-01621-LAS   Document 1   Filed 04/28/23   Page 14 of 24
+       Case 2:23-cv-01621-LAS         Document 1       Filed 04/28/23      Page 15 of 24
+
+
+
+
+                        COMMONWEALTH OF PENNSYLVANIA
+                              GOVERNOR’S OFFICE
+                   PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+                                 COMPLAINT
+__________________________________________
+                                           :
+COMPLAINANT:                               :
+                                           :
+DEBRA TRETTER                              :                       Docket No.
+                                           :
+v.                                         :
+                                           :
+RESPONDENTS:                               :
+                                           :
+MID-ATLANTIC DENTAL PARTNERS               :
+                                           :
+and                                        :
+                                           :
+MID-ATLANTIC DENTAL SERVICE                :
+HOLDINGS LLC                               :
+__________________________________________:
+
+    1. The Complainant herein is:
+
+        Name:                        Debra Tretter
+
+        Address:                     REDACTED
+                                     Langhorne, PA 19047
+
+    2. The Respondents herein are:
+
+        Names:                       Mid-Atlantic Dental Partners; Mid-Atlantic Dental Service
+                                     Holdings LLC
+
+        Address:                     630 West Germantown Pike, Suite 120
+                                     Plymouth Meeting, PA 19462
+
+    3. I, Debra Tretter, the Complainant herein, allege that I was subjected to unlawful
+
+discrimination because of my sex (female), and retaliation because I engaged in protected
+
+activity, as set forth below.
+       Case 2:23-cv-01621-LAS           Document 1       Filed 04/28/23     Page 16 of 24
+
+
+
+
+       Discrimination and Retaliation
+
+           A. I specifically allege:
+
+           [1]         I was hired by Respondents on or about July 16, 2018.
+
+           [2]         I consistently performed my job duties in a highly competent manner, and
+
+received positive feedback.
+
+           [3]         I last held the position of Corporate Controller.
+
+           [4]         I last reported to Joseph Sivori (male), Chief Financial Officer. Sivori
+
+reported to C. Mitchell Goldman (male), Chief Executive Officer.
+
+           [5]         Before reporting to Sivori, I reported to Sean Porrini (male), Chief
+
+Financial Officer.
+
+           [6]         On or about January 14, 2019, Respondents hired Michael Stees (male),
+
+Division Controller.
+
+           [7]         I had more responsibilities and longer service time with Respondents than
+
+Stees but was paid the same as Stees.
+
+           [8]         In or about October 2019, I began reporting to Sivori.
+
+           [9]         At the time of my termination, in addition to me, the following employees
+
+reported to Sivori. I was more qualified to perform these employees’ positions.
+
+                          a) Michael Stees (male), Division Controller;
+
+                          b) Ellen Gray (female), Consultant Controller.
+
+           [10]        I was treated differently and worse, and in a more hostile, dismissive, and
+
+demeaning manner than male employees were treated.
+
+           [11]        Male supervisors and male direct reports treated me in a hostile and
+
+demeaning manner—differently and worse than they treated male employees.
+       Case 2:23-cv-01621-LAS           Document 1      Filed 04/28/23     Page 17 of 24
+
+
+
+
+           [12]       Respondents removed a portion of my job duties and responsibilities and
+
+assigned them to less qualified male employees.
+
+           [13]       Respondents unjustly criticized my performance.
+
+           [14]       Respondents piled on to me additional work, job duties, and
+
+responsibilities but did not give me a promotion or salary increase.
+
+           [15]       I received no salary increase or promotion, despite my requests,
+
+throughout my employment with Respondents.
+
+           [16]       Respondents gave salary increases and promotions to less qualified male
+
+employees with shorter service time than me, including Alex Agurok (male), Financial Analyst,
+
+and Todd Miller (male), Senior Accountant.
+
+           [17]       I asked Sivori and Goldman why Agurok (male) and Miller (male) were
+
+given salary increases and I was not.
+
+           [18]       I received no explanation, including the criteria, as to why I was not given
+
+salary increases and less qualified male employees were given salary increases.
+
+           [19]       Respondents failed to give salary increases to me but gave salary increases
+
+to male employees, who were less qualified and had shorter service time than me, based on sex.
+
+           [20]       Male employees were given salary increases while female employees,
+
+including me, were not given salary increases.
+
+           [21]       On November 23, 2020, in an email to Sivori, I provided a list of six (6)
+
+female employees, including me, who were not given performance reviews or salary increases.
+
+           [22]       I received no response to my above email.
+
+           [23]       On February 1, 2021, in a phone call with Sivori, Respondents terminated
+
+my employment, effective March 5, 2021, which was later moved to March 10, 2021. The stated
+       Case 2:23-cv-01621-LAS           Document 1      Filed 04/28/23    Page 18 of 24
+
+
+
+
+reason for my termination was consolidation. Sivori told me that Respondents no longer needed
+
+multiple Controllers, and Stees was selected for the combined position. I asked why I was being
+
+terminated and Stees was being retained. Sivori responded that he was under pressure from the
+
+Board to make changes. Sivori told me that my termination was not performance related and
+
+that he would give me a positive reference.
+
+            [24]      I was more qualified for the combined Controller position than Stees
+
+(male), and had a longer service time at Respondents than Stees (male).
+
+            [25]      I was given no opportunity to apply for the combined Controller position
+
+that was given to Stees (male).
+
+            [26]      Respondents terminated my employment because of my sex and/or my
+
+engaging in protected activity in connection with my objecting to Respondents’ failure to give
+
+salary increases to female employees.
+
+            [27]      Respondents failed to select me for the combined Controller position
+
+because of my sex and/or my engaging in protected activity in connection with my objecting to
+
+Respondents’ failure to give salary increases to female employees.
+
+            [28]      Numerous employees told me that I should have been retained and
+
+selected for the combined Controller position instead of Stees.
+
+            [29]      I was the only employee reporting to Sivori who was notified of
+
+termination on February 1, 2021.
+
+            [30]      Before the termination meeting, I had no indication that my job was in
+
+jeopardy.
+
+            [31]      I had no disciplinary or performance issues throughout my employment.
+       Case 2:23-cv-01621-LAS          Document 1      Filed 04/28/23      Page 19 of 24
+
+
+
+
+           [32]       Respondents failed to give me salary increases, but gave salary increases
+
+to male employees, because of my sex.
+
+           [33]       I had no opportunity to remain employed with Respondents.
+
+           [34]       On February 4, 2021, Stees told me that he received a salary increase, and
+
+I learned that Agurok received a salary increase.
+
+           [35]       I had been denied a salary increase throughout my employment with
+
+Respondents.
+
+           [36]       I asked Sivori why Stees (male) and Agurok (male) were given salary
+
+increases and I was not.
+
+           [37]       I received no explanation, including the criteria, as to why I was not given
+
+a salary increase and less qualified male employees were a given salary increase.
+
+           [38]       Respondents assigned my job duties and responsibilities to Stees (male). I
+
+was more qualified to perform my job duties and responsibilities than the male employee with
+
+whom Respondents replaced me.
+
+           [39]       On February 19, 2021, in a meeting with Sivori and Jill Cole (female),
+
+Chief Human Resources Officer, I complained of sex discrimination. I complained that there
+
+was a pattern of sex discrimination at Respondents. Sivori and Cole did not deny the same.
+
+           [40]       Respondents failed to investigate my sex discrimination complaints.
+
+           [41]       Respondents failed to take any action to remedy or prevent the sex
+
+discrimination to which I have been subjected.
+
+           [42]       On March 10, 2021, Respondents terminated my employment.
+
+           [43]       Female employees, including Malloree Heng (female), Payroll, and Jen
+
+Bratis (female), Senior Accountant, have recently resigned from Respondents.
+       Case 2:23-cv-01621-LAS             Document 1       Filed 04/28/23     Page 20 of 24
+
+
+
+
+             [44]         Respondents’ sex discriminatory and retaliatory conduct has caused me
+
+emotional distress.
+
+             [45]         Respondents’ conduct evidences a bias against female employees and/or
+
+employees who engage in protected activity.
+
+             [46]         I bring this Complaint as a class and pattern and practice Complaint
+
+on behalf of myself and any and all current or former employees of Respondents who are
+
+female, and have been discriminated against based on sex, in connection with the terms and
+
+conditions of their employment, including being subjected to a hostile work environment,
+
+failure to promote, demotion, compensation, and/or termination.
+
+             B. Based on the aforementioned, I allege that Respondents have discriminated
+
+against me because of my sex (female), and retaliated against me because I engaged in protected
+
+activity, in violation of Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e,
+
+et seq. (“Title VII”), and the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et
+
+seq. (“PHRA”).
+
+        4.         The allegations in Paragraph 3 hereof constitute unlawful discriminatory practices
+
+in violation of:
+
+              X           Pennsylvania Human Relations Act (Act of October 27, 1955, P.L.
+
+             744, as amended) Section 5 Subsection(s): (a); (d)
+
+             ____         Section 5.1 Subsection(s) _____________________________
+
+             ____         Section 5.2 Subsection(s) _____________________________
+
+             ____         Pennsylvania Fair Educational Opportunities Act (Act of July 17, 1961,
+
+             P.L. 766, as amended) Section 4 Subsection(s) _____________________________
+      Case 2:23-cv-01621-LAS             Document 1      Filed 04/28/23      Page 21 of 24
+
+
+
+
+       5.        Other action based upon the aforesaid allegations has been instituted by the
+
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+
+             X          This charge will be referred to the EEOC for the purpose of dual
+
+            filing.
+
+       6.        The Complainant seeks that Respondent be required to:
+
+            (a) Make the Complainant whole.
+
+            (b) Eliminate all unlawful discriminatory practice(s) and procedure(s).
+
+            (c) Remedy the discriminatory effect of past practice(s) and procedure(s).
+
+            (d) Take further affirmative action necessary and appropriate to remedy the violation
+
+                 complained of herein.
+
+            (e) Provide such further relief as the Commission deems necessary and appropriate.
+Case 2:23-cv-01621-LAS   Document 1   Filed 04/28/23   Page 22 of 24
+Case 2:23-cv-01621-LAS   Document 1   Filed 04/28/23   Page 23 of 24
+Case 2:23-cv-01621-LAS   Document 1   Filed 04/28/23   Page 24 of 24
+

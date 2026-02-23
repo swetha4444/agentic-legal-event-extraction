@@ -1,0 +1,943 @@
+Source URL: https://www.courtlistener.com/docket/60095873/1/keene-jr-v-transdigm-group-inc/
+Title: Complaint (Attorney) – #1 in KEENE, JR. v. TRANSDIGM GROUP, INC. (E.D. Pa., 2:21-cv-03385) – CourtListener.com
+
+                        Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 1 of 31
+
+
+
+
+    RONALD L. KEENE, JR.                                                      TRANSDIGM GROUP, INC and KORRY ELECTRONICS CO.,
+
+                                              Chester
+
+
+
+    Julie A. Uebler, Esquire                                                  Michael S. Friedman, Esquire
+    Console Mattiacci Law, LLC                                                Jackson Lewis PC
+    1525 Locust Street, 9th Floor Philadelphia PA 19102                       1601 Cherry St # 1350 Philadelphia, PA 19102
+
+
+                          X
+
+
+
+
+                         X
+
+
+
+
+X
+
+
+                              42 U.S.C. § 1981;42 U.S.C. § 2000e;29 U.S.C. §§ 623(a) and (d) and 626(c)
+                              Plaintiff brings this action against Defendant for race and age discrimination and retaliation.
+
+                                                                        in excess of $150,000                                   X
+
+
+
+
+July 29, 2021
+             Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 2 of 31
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+RONALD L. KEENE, JR.                              :                           CIVIL ACTION
+                                                  :
+                        v.                        :
+ TRANSDIGM GROUP, INC. and                        :
+                                                  :                          NO.
+ KORRY ELECTRONICS CO.,
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+July 29, 2021                                                         Plaintiff
+Date                               Attorney-at-law                       Attorney for
+ (215) 545-7676
+                                (215) 827-5101                         uebler@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+            Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 3 of 31
+
+
+
+
+                                                 ; 11910 Beverly Park Rd, Everett, WA 98204
+                          Pottstown, PA
+
+
+
+
+July 29, 2021
+
+
+
+
+July 29,2021
+            Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 4 of 31
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                               :
+RONALD L. KEENE, JR.                           :
+                                               :
+                                 Plaintiff,    :
+                                               :
+       v.                                      : CIVIL ACTION NO.
+                                               :
+                                               :
+                                               :
+TRANSDIGM GROUP, INC. and                      :
+KORRY ELECTRONICS CO.,                         : JURY TRIAL DEMANDED
+                                               :
+                              Defendants.      :
+                                               :
+                                               :
+                                               :
+
+                                              COMPLAINT
+
+                                        INTRODUCTION
+
+       Plaintiff, Ronald L. Keene, Jr. (“Plaintiff” or “Mr. Keene”), by and through his counsel,
+
+files this Complaint and asserts claims of race and age discrimination and retaliation against
+
+TransDigm Group, Inc. and Korry Electronics Co. (collectively, “Defendants”). At the time
+
+TransDigm acquired his employer in March 2019, Mr. Keene had been making significant
+
+contributions in the area of sales and business development to the Company’s predecessors for
+
+close to a decade, with a particular focus on the naval military market. Rather than continue Mr.
+
+Keene’s employment, TransDigm’s predominantly Caucasian management team terminated Mr.
+
+Keene’s employment because of his race (African America), age (oldest in his division at age
+
+63), and because he had previously complained about discrimination. Mr. Keene brings this
+
+lawsuit to hold Defendants accountable for their blatant violation of his civil rights.
+             Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 5 of 31
+
+
+
+
+                                             PARTIES
+
+        1.       Ronald L. Keene, Jr. is an adult individual who resides in Pottstown,
+
+Pennsylvania.
+
+        2.       Mr. Keene’s race is African American.
+
+        3.       Mr. Keene’s date of birth is October 4, 1955.
+
+        4.       Defendant, TransDigm Group, Inc. (“TransDigm”), is a publicly traded company
+
+that designs, produces and supplies engineered aircraft components for commercial and military
+
+aircraft.
+
+        5.       TransDigm’s corporate office is located at 1301 East 9th Street, Suite 3000,
+
+Cleveland, OH 44114.
+
+        6.       Defendant, Korry Electronics Co. (“Korry”), is a wholly-owned subsidiary of
+
+TransDigm.
+
+        7.       Korry’s corporate office is located at 11910 Beverly Park Road, Everett,
+
+Washington 98204.
+
+        8.       TransDigm and Korry (collectively “Defendants”) are engaged in an industry
+
+affecting commerce and regularly do business in the Commonwealth of Pennsylvania.
+
+        9.       At all times relevant to this Complaint, Defendants were employers within the
+
+meaning of the statutes which form the basis of this matter.
+
+        10.      At all times relevant to this Complaint, Plaintiff was an employee of Defendants
+
+within the meaning of the statutes which form the basis of this matter.
+
+        11.      At all times material hereto, Plaintiff worked for Defendants out of his home in
+
+Pennsylvania.
+
+
+
+
+                                                  2
+          Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 6 of 31
+
+
+
+
+                                 JURISDICTION AND VENUE
+
+         12.   Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 1331 and 1343.
+
+         13.   With respect to Plaintiff’s allegations of race discrimination and retaliation, this
+
+action is authorized and instituted pursuant to Section 1981 of the Civil Rights Act of 1866, 42
+
+U.S.C. § 1981 (“Section 1981”), and Title VII of the Civil Rights Act of 1964, as amended
+
+(“Title VII”), 42 U.S.C. § 2000e, and Section 102 of the Civil Rights Act of 1991, 42 U.S.C. §
+
+1981a.
+
+         14.   With respect to Plaintiff’s allegations of age discrimination and retaliation, this
+
+action is authorized and instituted pursuant to the Age Discrimination in Employment Act, as
+
+amended (“ADEA”), 29 U.S.C. §§ 623(a) and (d) and 626(c).
+
+         15.   This Court has supplemental jurisdiction with respect to Plaintiff’s claims for race
+
+and age discrimination and retaliation under the Pennsylvania Human Relations Act (“PHRA”),
+
+as amended, 43 P.S. § 951, et seq., pursuant to 28 U.S.C. § 1367.
+
+         16.   This case is not subject to compulsory arbitration because Plaintiff seeks
+
+injunctive relief and the amount in controversy exceeds the jurisdictional amount for arbitration
+
+of One Hundred Fifty Thousand Dollars ($150,000), exclusive of interest and costs.
+
+         17.   Plaintiff filed an administrative complaint with the Pennsylvania Human
+
+Relations Commission (“PHRC”), which was dual filed with the Equal Employment Opportunity
+
+Commission (“EEOC”), on May 2, 2019. Attached hereto, incorporated herein, and marked as
+
+Exhibit A is a true and correct copy of the PHRC administrative complaint (with personal
+
+identifying information redacted).
+
+
+
+
+                                                 3
+             Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 7 of 31
+
+
+
+
+           18.      Plaintiff has exhausted his administrative remedies with respect to the ADEA and
+
+Title VII because the EEOC issued a Notice of Right to Sue on May 7, 2021. Attached hereto,
+
+incorporated herein, and marked as Exhibit B is a true and correct copy of that Notice.
+
+           19.      Plaintiff has exhausted his administrative remedies with respect to the PHRA
+
+since more than one year has passed since he filed his complaint with the PHRC.
+
+           20.      Venue is properly invoked pursuant to 29 U.S.C. § 1391(b) because the actions
+
+complained of herein occurred within the jurisdictional limit of this Court.
+
+                                           FACTUAL ALLEGATIONS
+
+Keene’s Military And Employment History Through 2017
+
+           21.       Mr. Keene served his country honorably in the Marine Corps from 1978 to 1985,
+
+and thereafter served in the Marine Corps Reserves until 1988.
+
+           22.       Following the completion of his full-time military service, Mr. Keene worked in
+
+a number of sales and business development positions for federal contractors, including
+
+Honeywell, York International, and Thales Aerospace & Defense.
+
+           23.      For the period 2010 through 2015, Mr. Keene worked for Barco Federal Systems
+
+(“Barco”) as the Director of Business Development.
+
+           24.      In or about February 2015, Esterline Controls and Communications (“Esterline”)
+
+acquired Barco. Mr. Keene continued to work as a Director of Business Development after the
+
+acquisition.
+
+           25.      Mr. Keene reported to Andy Buchan, Esterline Vice President, Strategic
+
+Development (Caucasian, 40s). 1 Mr. Buchan reported to Steven Luys (Caucasian, 50s), Vice
+
+President of Strategic Marketing.
+
+
+
+1
+    Ages identified herein are approximations.
+
+                                                    4
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 8 of 31
+
+
+
+
+        26.    At the time, Mr. Keene was an employee of Esterline Federal, LLC, a subsidiary
+
+of Esterline, based in Duluth, Georgia.
+
+        27.    In or about November 2016, Mr. Luys advised Mr. Keene and announced at a
+
+National Sales Meeting in Belgium that he intended to promote him to Director of Business
+
+Development for the platform worldwide. Mr. Luys asked Mr. Keene to travel to Atlanta to meet
+
+with him about the position.
+
+        28.    The Esterline platform was made up of five (5) different divisions: Korry, which
+
+focused on flight deck electronics; Mason Controls, which focused on handgrips; Avista, which
+
+focused on engineering; Palomar Products, which focused on communications and radios; and
+
+Racal Acoustics, which focused on headsets.
+
+        29.    In late November 2016, when Mr. Keene arrived in Atlanta just days after his
+
+promotion was announced at the National Sales Meeting, however, Mr. Luys advised Mr. Keene
+
+that he would be laid off due to budget issues, with a projected termination date of December 31,
+
+2016.
+
+        30.    On or about December 22, 2016, Mr. Luys advised Mr. Keene that his projected
+
+termination date was revised to March 31, 2017.
+
+        31.    The Esterline business leaders did not want to lose Mr. Keene since he was a
+
+valuable contributor to the Company’s bottom line.
+
+        32.    By letter dated March 16, 2017, Mr. Buchan offered Mr. Keene the opportunity to
+
+retain his employment with a transfer from Esterline Federal to Esterline as Director of Business
+
+Development – Naval. At or about that time, Mr. Keene became an employee of the Korry
+
+subsidiary for administrative purposes.
+
+
+
+
+                                                5
+           Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 9 of 31
+
+
+
+
+       33.     At the time of Mr. Keene’s transition to Korry in 2017, Mr. Buchan agreed to
+
+continue Mr. Keene’s compensation, including his bonus.
+
+       34.     In or about June 2017, Esterline hired Jason Childs (biracial, 48) to serve as
+
+Esterline’s President.
+
+       35.     Soon thereafter, Esterline announced the creation of a new position of Vice
+
+President of Sales, reporting to Mr. Childs.
+
+Defendants’ Discriminatory Failure to Promote Keene to Vice President of Sales
+
+       36.     Mr. Keene received encouragement to apply for the Vice President opening from
+
+several division heads within Esterline, including Steven Ungs, Vice President and General
+
+Manager, Avista; Robert Gibbs, Vice President, Korry; and Mike Rabajon, Vice President,
+
+Palomar.
+
+       37.     Mr. Keene was qualified for the Vice President of Sales position.
+
+       38.     Mr. Keene applied for the position of Vice President of Sales in or about
+
+September 2017, and interviewed with Mr. Childs for the job.
+
+       39.     Shortly thereafter, Mr. Keene heard from his colleagues that Esterline had
+
+selected Pascal LeGuay (Caucasian, 43) for the Vice President of Sales position.
+
+       40.     Defendants’ decision not to select Mr. Keene for the Vice President of Sales
+
+position was motivated by race (African American) and/or age (62) discrimination.
+
+Mr. Keene’s Complaints of Discrimination
+
+       41.     Mr. Keene then reached out to Wendy Galbreath (Caucasian), from Esterline’s
+
+Human Resources department, to find out why he had not received formal notification of
+
+Esterline’s decision to reject him for the promotion.
+
+
+
+
+                                                 6
+        Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 10 of 31
+
+
+
+
+       42.     During that conversation, Mr. Keene also asked Ms. Galbreath how many people
+
+of color were in Esterline’s senior management ranks.
+
+       43.     Ms. Galbreath seemed surprised by Mr. Keene’s question, and wanted to know
+
+why Mr. Keene was asking her about race. Ms. Galbreath told Mr. Keene that she would have
+
+someone get back to him.
+
+       44.     Two (2) days after his conversation with Ms. Galbreath, Mr. Keene received a
+
+telephone call from Mr. Childs, in which Mr. Childs said he had heard that Mr. Keene had an
+
+“attitude” about why he did not get promoted, a problem with how many people of color were in
+
+Esterline’s senior management, and that he felt he was being treated unfairly.
+
+       45.     Mr. Keene told Mr. Childs that he did not have an attitude, and that he had only
+
+asked how many people of color were in Esterline’s senior management. Mr. Keene complained
+
+to Mr. Childs that he was the only Black employee in his organization, and that he was
+
+concerned that he may not have other opportunities to advance because of his age (62).
+
+       46.     Defendants took no action to investigate Mr. Keene’s complaints of
+
+discrimination.
+
+       47.     Despite Defendants’ discriminatory rejection of Mr. Keene for promotion, and the
+
+company’s failure to investigate his complaints, Mr. Keene continued to meet or exceed all
+
+performance expectations.
+
+TransDigm’s Acquisition of Esterline
+
+       48.     In the Spring of 2018, Esterline hired Denise Millard (Caucasian) as Vice
+
+President, Sales and Marketing, to report to Mr. Childs.
+
+       49.     On October 10, 2018, TransDigm announced plans to acquire Esterline.
+
+
+
+
+                                                7
+          Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 11 of 31
+
+
+
+
+         50.   In or about October 2018, Mr. Keene learned that the Company would not pay
+
+him a bonus consistent with his prior compensation as agreed by Mr. Buchan upon his transition
+
+to Korry. Mr. Keene complained about the discrepancy to Korry’s Human Resources
+
+department.
+
+         51.   In or about December 2018, Esterline advised Mr. Keene that he would report to
+
+Stephen Burn (Caucasian, 30s), a Senior Director for Sales and Marketing, rather than Mr.
+
+LeGuay.
+
+         52.   In or about December 2018, Mr. Burn offered to pay Mr. Keene part of the
+
+previously promised bonus, but no bonus amounts were ever paid to Mr. Keene.
+
+         53.    On March 1, 2019, Ms. Millard notified Esterline employees via internal Memo
+
+that all the Esterline Sales, Marketing and Business Development and Contract team members
+
+would start reporting to the individual divisions of Esterline.
+
+         54.    With respect to Sales and Business Development, Ms. Millard listed the new
+
+division assignments by name. Ms. Millard’s March 1, 2019 Memo identified five (5) U.S.-based
+
+employees to be assigned to Korry: Mr. LeGuay, Rich Webster (Caucasian, 60s), Ash Hussein
+
+(race and age unknown), Paul Hazen (Caucasian, 40s), and Mr. Keene. Upon information and
+
+belief, Mr. Keene was the oldest of the employees assigned to Korry, and the only person of
+
+color.
+
+         55.   The Sales and Business Development employees assigned to Korry reported to
+
+Matt Hansen, head of Sales and Marketing for Korry.
+
+         56.    Shortly after he received Ms. Millard’s March 1, 2020 Memo, Mr. Keene
+
+received a call from Mr. Hansen confirming his role to support sales for the Korry division.
+
+
+
+
+                                                  8
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 12 of 31
+
+
+
+
+       57.     Ms. Millard’s March 1, 2019 Memo also identified the assignments of other
+
+Esterline employees in connection with the anticipated acquisition by TransDigm, including
+
+Steve Rooney (Caucasian, 50s) and Janice Rowe (Caucasian, 40s), who were assigned to Racal;
+
+Stephen Burn (Caucasian, 30s), Tom Arko (Caucasian, 40s), Hugo Hernandez (Latino, early
+
+60s), who were assigned to Palomar; and Steve Riebel (Caucasian, late 50s), who was assigned
+
+to Mason Controls.
+
+       58.     TransDigm’s acquisition of Esterline closed on March 14, 2019.
+
+Defendants’ Discriminatory and Retaliatory Termination of Keene’s Employment
+
+       59.     On March 15, 2019, Mr. Keene spoke to Ms. Millard about the impact of the
+
+TransDigm acquisition. Ms. Millard shared with Mr. Keene that she and Mr. Childs were not
+
+being retained. Ms. Millard also mentioned to Mr. Keene that the leadership of the new
+
+organization appeared to be all Caucasian men, as there were no women or people of color on the
+
+company’s organization chart.
+
+       60.     In the same conversation, Ms. Millard also told Mr. Keene that TransDigm was
+
+planning layoffs, and he could be impacted.
+
+       61.     The same day, on March 15, 2019, Mr. LeGuay and Minor Harris (Caucasian,
+
+45), Director of Human Resources, called Mr. Keene and terminated his employment, effective
+
+immediately. Messrs. LeGuay and Harris claimed that Mr. Keene was being terminated because
+
+the Business Development Manager position was being eliminated.
+
+       62.     Mr. Keene questioned Defendants’ reasons for his termination since he had been
+
+notified as of March 1, 2019 of his transition to a sales position in support of the Korry division.
+
+Mr. Keene also asked why Defendants were not terminating someone with less seniority. Mr.
+
+Keene did not get responses to his questions.
+
+
+
+                                                  9
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 13 of 31
+
+
+
+
+       63.     Upon information and belief, Mr. Keene was the only one whose employment
+
+was terminated out of the five (5) employees assigned to support sales for the Korry division in
+
+Ms. Millard’s March 1, 2019 Memo.
+
+       64.     Upon information and belief, Mr. Keene was the only Black employee assigned to
+
+the Korry division.
+
+       65.     Upon information and belief, Mr. Keene was the oldest employee assigned to the
+
+Korry division.
+
+       66.     Upon information and belief, Mr. Keene was the only employee assigned to the
+
+Korry division in connection with the TransDigm acquisition who had made an internal
+
+complaint of discrimination.
+
+       67.     Mr. Keene was as qualified, if not more qualified, than the other employees who
+
+were retained by Defendant and who were Caucasian, younger and/or had not made complaints
+
+of discrimination.
+
+       68.     Upon information and belief, Defendants did not terminate the employment of
+
+any of the other sales, contract or business development employees identified in Ms. Millard’s
+
+March 1, 2019 Memo in connection with TransDigm’s acquisition of Esterline.
+
+       69.     Defendants terminated Mr. Keene’s employment because of his age, race and/or
+
+in retaliation for his prior complaints of discrimination.
+
+       70.     Defendants’ assertion that they terminated his employment because his job was
+
+eliminated is just a pretext for discrimination and retaliation.
+
+       71.     Defendants presented Mr. Keene with a Severance Agreement and Release on
+
+March 15, 2019, in which they offered him $55,816.96 in severance pay and other benefits in
+
+exchange for a release of claims.
+
+
+
+                                                  10
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 14 of 31
+
+
+
+
+       72.     Pursuant to the Severance Agreement and Release, Defendants instructed Mr.
+
+Keene that he was required to sign a release of “all claims” in order to get his severance pay.
+
+       73.     The Severance Agreement and Release presented to Mr. Keene did not comply
+
+with the legal requirements of the Older Workers Benefit Protection Act (“OWBPA”), including
+
+the notice and revocation periods, even though it sought to require Mr. Keene to release “all legal
+
+claims,” including any claim for age discrimination pursuant to the ADEA.
+
+       74.     Defendants presented Mr. Keene with a Severance Agreement and General
+
+Release that did not comply with the OWBPA in order to pressure him into signing the release in
+
+just five (5) days, and trick him into thinking he had released his claims for age discrimination.
+
+       75.     Mr. Keene did not sign the Severance Agreement and General Release as
+
+presented by Defendants.
+
+       76.     On March 16, 2019, Mr. Keene communicated to Mr. Childs in an e-mail that he
+
+had been told that he would have a position in the new organization, referenced his age and race,
+
+and asked how the decision to terminate his employment had been made.
+
+       77.     The same day, Mr. Childs responded by e-mail and said Defendants had not
+
+followed the recommendation made by Ms. Millard and Mr. Hansen, which was to retain Mr.
+
+Keene as part of the Korry team.
+
+       78.     Defendants’ business leaders reached out to Mr. Keene to obtain his consulting
+
+services following his termination from employment, but Defendants would not permit Mr.
+
+Keene to provide consulting services because he refused to sign a release of claims.
+
+       79.     In response to Plaintiff’s PHRC Complaint, in direct contradiction to Ms.
+
+Millard’s March 1, 2019 Memo, Defendants asserted that Mr. Keene never reported to Mr.
+
+
+
+
+                                                 11
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 15 of 31
+
+
+
+
+Hansen, and instead continued to report to Mr. Burn until his job was eliminated as of March 15,
+
+2019, in connection with the acquisition.
+
+        80.     To the contrary, Mr. Keene’s position had already been transitioned to sales in
+
+support of Korry, and Mr. Burn’s reporting assignment also changed as of March 1, 2019, to
+
+support the Palomar division.
+
+        81.     Defendants’ discriminatory and retaliatory actions were willful and warrant the
+
+imposition of liquidated damages.
+
+        82.     Defendants’ discriminatory and retaliatory actions were intentional and
+
+implemented with malice and/or a reckless indifference to Mr. Keene’s civil rights and warrant
+
+the imposition of punitive damages.
+
+        83.     As a direct and proximate result of Defendants’ discriminatory and retaliatory
+
+conduct, Mr. Keene has incurred, and continues to incur, a loss of earnings and/or earning
+
+capacity, pain and suffering, embarrassment, humiliation, mental anguish, and loss of life’s
+
+pleasures.
+
+                                              COUNT I
+
+                          Race Discrimination and Retaliation in violation of
+                            Section 1981 of the Civil Rights Act of 1866
+
+        84.     Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        85.     Defendants violated Section 1981 by failing to select Plaintiff for the position of
+
+Vice President of Sales in or about September 2017 because of his race.
+
+        86.     Defendants violated Section 1981 by treating Plaintiff differently with respect to
+
+the terms and conditions of his employment because of his race and/or in retaliation for his
+
+internal complaint of race discrimination.
+
+                                                  12
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 16 of 31
+
+
+
+
+        87.     Defendants violated Section 1981 by terminating his employment in March 2019
+
+because of his race and/or in retaliation for his internal complaint of race discrimination.
+
+                                                COUNT II
+
+                           Race Discrimination and Retaliation in violation of
+                                Title VII of the Civil Rights Act of 1964
+
+        88.     Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        89.     Defendants violated Title VII by treating Plaintiff differently with respect to the
+
+terms and conditions of his employment because of his race and/or in retaliation for his internal
+
+complaint of race discrimination
+
+        90.     Defendants violated Title VII by terminating his employment in March 2019
+
+because of his race and/or in retaliation for his internal complaint of race discrimination.
+
+                                               COUNT III
+
+                          Race Discrimination and Retaliation in violation of the
+                                   Pennsylvania Human Relations Act
+
+        91.     Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        92.     Defendants violated the PHRA by treating Plaintiff differently with respect to the
+
+terms and conditions of his employment because of his race and/or in retaliation for his internal
+
+complaint of race discrimination
+
+        93.     Defendants violated the PHRA by terminating his employment in March 2019
+
+because of his race and/or in retaliation for his internal complaint of race discrimination.
+
+
+
+
+                                                    13
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 17 of 31
+
+
+
+
+                                               COUNT IV
+
+                          Age Discrimination and Retaliation in violation of the
+                                Age Discrimination in Employment Act
+
+        94.     Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        95.     Defendants violated the ADEA by treating Plaintiff differently with respect to the
+
+terms and conditions of his employment because of his age and/or in retaliation for his internal
+
+complaint of age discrimination
+
+        96.     Defendants violated the ADEA by terminating his employment in March 2019
+
+because of his age and/or in retaliation for his internal complaint of age discrimination.
+
+                                               COUNT V
+
+                           Age Discrimination and Retaliation in violation of the
+                                   Pennsylvania Human Relations Act
+
+        97.     Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        98.     Defendants violated the PHRA by treating Plaintiff differently with respect to the
+
+terms and conditions of his employment because of his age and/or in retaliation for his internal
+
+complaint of age discrimination
+
+        99.     Defendants violated the PHRA by terminating his employment in March 2019
+
+because of his age and/or in retaliation for his internal complaint of age discrimination.
+
+                                        PRAYER FOR RELIEF
+
+        WHEREFORE, Plaintiff, Ronald L. Keene, Jr., respectfully requests that this Court enter
+
+judgment in favor of Plaintiff and against Defendant:
+
+
+
+
+                                                   14
+         Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 18 of 31
+
+
+
+
+        A.      Declaring the acts and practices complained of herein to be a violation of
+
+Plaintiff’s civil rights;
+
+        B.      Requiring Defendants to reinstate Plaintiff to a position equivalent to the one he
+
+was denied, and to award him full wages and benefits commensurate to that position;
+
+        C.      Awarding to Plaintiff compensation for all past and future pecuniary losses
+
+resulting from Defendants’ unlawful employment practices, including but not limited to all
+
+compensation and benefits lost due to the actions of Defendants, all out of pocket losses, as well
+
+as an award of front pay, if re-employment is not possible;
+
+        D.      Awarding to Plaintiff compensation for all past and future non-pecuniary losses
+
+resulting from Defendants’ unlawful employment practices, including but not limited to, pain
+
+and suffering, emotional distress, humiliation, embarrassment, and a loss of life’s pleasures, in
+
+amounts to be determined at trial;
+
+        E.      Awarding to Plaintiff liquidated damages for Defendants’ willful violation of the
+
+ADEA;
+
+        F.      Awarding to Plaintiff punitive damages for Defendants’ malicious and reckless
+
+conduct as described herein, in an amount to be determined at trial;
+
+        G.      Awarding to Plaintiff costs of this action, together with reasonable attorneys’ fees;
+
+        H.      Awarding to Plaintiff prejudgment interest; and
+
+        I.      Granting to Plaintiff such additional relief as the Court deems just and proper
+
+under the circumstances.
+
+
+
+
+                                                 15
+ Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 19 of 31
+
+
+
+
+                           JURY TRIAL DEMANDED
+
+Plaintiff hereby requests a jury trial on each of the Counts in this Complaint.
+
+
+                              Respectfully submitted,
+
+                              CONSOLE MATTIACCI LAW, LLC
+
+                              s/ Julie A. Uebler
+                              Julie A. Uebler, Esquire (ID No. 71297)
+                              1525 Locust Street, 9th Floor
+                              Philadelphia, PA 19102
+                              (215) 545-7676 (Voice)
+                              (215) 501-5957 (Fax)
+                              uebler@consolelaw.com
+
+                              Attorneys for Plaintiff
+                              Ronald L. Keene, Jr.
+
+
+
+
+                                         16
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 20 of 31
+
+
+
+
+           EXHIBIT A
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 21 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 22 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 23 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 24 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 25 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 26 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 27 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 28 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 29 of 31
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 30 of 31
+
+
+
+
+           EXHIBIT B
+Case 2:21-cv-03385-MAK Document 1 Filed 07/29/21 Page 31 of 31
+

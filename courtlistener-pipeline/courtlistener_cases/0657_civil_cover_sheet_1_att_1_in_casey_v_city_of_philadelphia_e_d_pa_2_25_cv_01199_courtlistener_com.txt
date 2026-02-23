@@ -1,0 +1,145 @@
+Source URL: https://www.courtlistener.com/docket/69710076/1/1/casey-v-city-of-philadelphia/
+Title: Civil Cover Sheet – #1, Att. #1 in Casey v. CITY OF PHILADELPHIA (E.D. Pa., 2:25-cv-01199) – CourtListener.com
+
+JS 44 (Rev. 03/24)                   Case 2:25-cv-01199CIVIL COVER
+                                                         Document 1-1 SHEET
+                                                                       Filed 03/06/25                                                                Page 1 of 2
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+           Sergeant Mark Casey                                                                                  City of Philadelphia
+
+    (b) County of Residence of First Listed Plaintiff                   Philadelphia                           County of Residence of First Listed Defendant              Philadelphia
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+    (c) Attorneys (Firm Name, Address, and Telephone Number)                                                    Attorneys (If Known)
+
+           Wayne A. Ely, Esquire                                                                                Unknown
+           59 Andrea Drive, Richboro, PA 18954 (215) 801-7979
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                     INTELLECTUAL                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                820 Copyrights                    430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                              830 Patent                        450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                              835 Patent - Abbreviated          460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                     New Drug Application          470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                      840 Trademark                         Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             Title VII of the Civil Rights Act of 1964, 42 U.S.C. sec. 1983
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Sexual harassment and retaliation
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                                                                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+3/6/2025                                                                    S/ Wayne A. Ely
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+JS 44 Reverse (Rev. 03/24)   Case 2:25-cv-01199                 Document 1-1              Filed 03/06/25             Page 2 of 2
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statute.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related cases, if any. If there are related cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+

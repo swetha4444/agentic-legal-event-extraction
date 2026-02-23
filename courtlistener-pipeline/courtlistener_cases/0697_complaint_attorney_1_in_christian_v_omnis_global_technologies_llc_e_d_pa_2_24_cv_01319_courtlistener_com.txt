@@ -1,0 +1,1220 @@
+Source URL: https://www.courtlistener.com/docket/68386107/1/christian-v-omnis-global-technologies-llc/
+Title: Complaint (Attorney) – #1 in CHRISTIAN v. OMNIS GLOBAL TECHNOLOGIES, LLC (E.D. Pa., 2:24-cv-01319) – CourtListener.com
+
+            Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 1 of 23
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+MICHELLE CHRISTIAN                                 )
+109 Signal Hill Road,                              )
+Holland, Pennsylvania 18966,                       )
+                                                   )    Civil Action No. __________________
+                Plaintiff,                         )
+                                                   )
+       v.                                          )
+                                                   )    JURY TRIAL DEMANDED
+OMNIS GLOBAL TECHNOLOGIES, LLC                     )
+3710 Collins Ferry Road,                           )
+Morgantown, WV 26505                               )
+       and                                         )
+OMNIS BUILDING TECHNOLOGIES, LLC                   )
+3710 Collins Ferry Road,                           )
+Morgantown, WV 26505                               )
+       and                                         )
+OBT BLUEFIELD, LLC                                 )
+3710 Collins Ferry Road,                           )
+Morgantown, WV 26505                               )
+       and                                         )
+OMNIS FUEL TECHNOLOGIES LLC                        )
+d/b/a OMNIGEN                                      )
+3710 Collins Ferry Road,                           )
+Morgantown, WV 26505                               )
+       and                                         )
+OMNIS SUBLIMATION RECOVERY                         )
+TECHNOLOGIES, LLC                                  )
+3710 Collins Ferry Road,                           )
+Morgantown, WV 26505                               )
+                                                   )
+                Defendants.                        )
+
+
+
+                               CIVIL ACTION COMPLAINT
+
+       Plaintiff, Michelle Christian, by and through her undersigned counsel, brings this action
+
+against the above-named Defendants, and avers as follows:
+             Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 2 of 23
+
+
+
+
+                                        I.       INTRODUCTON
+
+        1.       Plaintiff has initiated this action to redress violations against her former
+
+employers under Title VII, 42 U.S.C. §2000e, et seq, the Pennsylvania Human Relations Act
+
+(“PHRA”)1, the False Claims Act, 31 U.S.C. § 3730(h)(1), unjust enrichment, breach of contract,
+
+the Pennsylvania Wage Payment and Collection Law (“WPCL”) 43 Pa. Stat. Ann. § 260.9, and
+
+for promissory estoppel. As a direct consequence of Defendants’ unlawful actions, Plaintiff
+
+seeks damages as set forth herein.
+
+                                II.      JURISDICTION AND VENUE
+
+        2.       This Court has original subject matter jurisdiction over the instant action pursuant
+
+to 28 U.S.C. §§ 1331 and 1343(a)(4) because it arises under the laws of the United States and
+
+seeks redress for violations of federal laws. There lies supplemental jurisdiction over Plaintiff's
+
+state-law claims because they arise out of the same common nucleus of operative facts as
+
+Plaintiff's federal claims asserted herein.
+
+        3.       This Court may properly maintain personal jurisdiction over Defendants because
+
+the contacts with this state and this judicial district is sufficient for the exercise of jurisdiction
+
+over Defendants to comply with traditional notions of fair play and substantial justice, satisfying
+
+the standard set forth by the United States Supreme Court in International Shoe Co. v.
+
+Washington, 326 U.S. 310 (1945) and its progeny.
+
+        4.       Venue is proper in the Eastern District of Pennsylvania under 28 U.S.C. § 1391(b)
+
+because Plaintiff worked for Defendants in this District and a substantial part of the events or
+
+omissions giving rise to Plaintiff’s claims occurred in this District.
+
+
+1
+  Plaintiff will move to amend the instant Complaint to include violations of the PHRA after full administrative
+exhaustion before the Pennsylvania Human Relations Commission. Such claims will mirror Plaintiff’s federal
+claims asserted under Title VII, except that Plaintiff intends to pursue claims individually against Simon K.
+Hodson – the PHRA claims are mentioned herein for notice purposes only at this time.
+
+
+                                                       2
+            Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 3 of 23
+
+
+
+
+       5.       On or about November 26, 2023, Plaintiff filed a timely charge alleging
+
+discrimination and retaliation with the Equal Employment Opportunity Commission (“EEOC”),
+
+docketed at Charge No. 530-2024-01093.               This charge was simultaneously filed with the
+
+Pennsylvania Human Relations Commission.
+
+       6.       The EEOC issued a Notice of Right to Sue on January 7, 2024.
+
+       7.       This Complaint is filed within 90 days of receipt by the Plaintiff of the Notice of
+
+Right to sue.
+
+                                              III.       PARTIES
+
+       8.       Plaintiff is an adult individual with an address as set forth in the caption.
+
+       9.       Defendants Omnis Global Technologies, LLC, Omnis Building Technologies,
+
+LLC, OBT Bluefield, LLC, Omnis Fuel Technologies, LLC, d/b/a Omnigen, and Omnis
+
+Sublimation Recovery Technologies, LLC (collectively “Defendant Omnis o Defendant
+
+entities”) are all Delaware companies with shared primary business operations located at 3710
+
+Collins Ferry Road, Morgantown, West Virginia 26505.
+
+       10.      Defendants Omnis Global Technologies, LLC, Omnis Building Technologies,
+
+LLC, and OBT Bluefield, LLC jointly engage in the business of manufacturing compositive
+
+insulated building units, used toward creating residential homes with energy efficient materials.
+
+       11.      Defendant Omnis Fuel Technologies LLC, d/b/a Omnigen operates a power plant
+
+out of Pleasants County, West Virginia, but its address is registered with the Secretary of State as
+
+Morgantown, WV.
+
+       12.      Plaintiff performed work for and on behalf of all Omnis Defendants.
+
+
+
+
+                                                     3
+           Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 4 of 23
+
+
+
+
+         13.      At all times relevant herein, Defendants acted by and through their agents,
+
+servants, and employees, each of whom acted at all times relevant herein in the course and scope
+
+of their employment with and for Defendants.
+
+                                        IV.      FACTUAL ALLEGATIONS
+
+         14.      Plaintiff began working for Defendant Omnis Global Technologies LLC on
+
+November 16, 2020 as its “Vice President of Government Relations.”2
+
+         15.      Plaintiff’s job duties included connecting all Defendant Omnis companies with
+
+private and public contacts to develop all Defendant Omnis’ businesses.
+
+         16.      Though Defendant Omnis Global Technologies LLC is based out of Santa
+
+Barbara California, Plaintiff was hired to work from her home in Bucks, County PA (and asked
+
+to travel where and when needed).
+
+         17.      Moreover, Defendants’ Santa Barbara location ceased operations during
+
+Plaintiff’s period of employment, and Defendants’ primary lab and offices were all out of the
+
+West Virginia location as set forth in the caption.
+
+         18.      Plaintiff was hired by Defendants’ owner: Simon K. Hodson (hereinafter
+
+“Hodson”), and Plaintiff’s offer letter indicated she would report directly to Hodson.
+
+         19.      Upon information and belief, Hodson owns and operates nearly 50 different
+
+companies; however, Hodson specifically brought Plaintiff on to focus her efforts on the
+
+Defendant Omnis entities.
+
+
+
+
+2
+  Defendants do not make any efforts to recognize corporate formalities, and comingle assets between Defendant
+entities, entangle leadership, and overall business operations. To wit, Plaintiff was initially paid through Defendant
+Omnis Global Technologies LLC, but as time went on, Defendants started paying Plaintiff through Defendant OBT
+Bluefield LLC and the other named Defendants; importantly, Plaintiff reported to individuals within each of these
+entities and was held out to the public (including government entities) as working for each of the named Defendants.
+
+
+
+                                                          4
+           Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 5 of 23
+
+
+
+
+       20.     Hodson sought to monopolize Plaintiff’s then existing federal government
+
+contacts and her existing contacts with elected state officials (as Hodson was attempting to
+
+secure funding and garner support for his ongoing and expanding business projects).
+
+       21.     At all relevant times, Hodson’s son, Jonathan Hodson, held himself out as a
+
+“President” of Defendant Omnis Building Technologies.
+
+       22.     At all relevant times, Hodson’s other son, Michael Hodson, assisted with
+
+operations aspects of Defendant entities in various capacities.
+
+       23.     Hodson and his two (2) sons are members of the Latter-Day Saints Church
+
+(“LDS”).
+
+       24.     Defendants’ Vice President of Human Resources, Mathew Hart, is also a member
+
+of the LDS (while Hart holds himself out publicly as VP HR for Defendant “Omnis Building
+
+Technologies,” he performs Human Resources functions for each of the Defendant entities).
+
+       25.     Defendants’ CFO, Randall Smith, is Hodson’s brother-in-law, and he operates as
+
+CFO for all named Defendant entities; he is also a member of the LDS.
+
+       26.     Defendants’ General Counsel is Blake Stephens, who is GC for all Defendant
+
+entities; Stephens is also a member of the LDS.
+
+       27.     Defendants have consistently hired Hodson’s relatives for high-level positions
+
+within their companies, as well as any direct support staff working intimately with Defendants’
+
+management.
+
+       28.     Most of Defendants’ high-level managers and inner support staff are affiliated
+
+with the Latter-Day Saints Church.
+
+
+
+
+                                                  5
+          Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 6 of 23
+
+
+
+
+        29.     Plaintiff is not a member of the LDS; therefore, Hodson sought to “convert”
+
+Plaintiff to his religion and press his religious views on her throughout her entire period of
+
+employment with Defendants (and aggressively so).
+
+        30.     Many work conversations within Defendants’ management brought about a
+
+discussion on religion (including facilitating LDS prayers at business meals) or included talking
+
+about events the LDS was hosting (simply by way of examples).
+
+        31.     Hodson was quite vocal with Plaintiff about his intentions to “bring her over,”
+
+(meaning have her join the LDS) and Plaintiff often uncomfortably and politely declined.
+
+        32.     Plaintiff was vocal to both Hodson himself, and Jonathan Hodson about her
+
+protestations of Hodson’s behavior about religion and her preference not to discuss religion at
+
+work.
+
+        33.     Defendants did not maintain any type of employee handbook during Plaintiff’s
+
+tenure and had no real avenue for redress of internal complaints (and Hart: VP of Human
+
+Resources -- openly condoned some of Defendants’ obvious discriminatory behaviors).
+
+        34.     Simply by way of example, at a company meeting, Stephens was speaking of his
+
+young child, and Hodson made a negative remark about women being better suited for staying
+
+at home. Thereafter, Hodson directed Stephens to share an LDS prayer with Plaintiff and
+
+actually directed him to print it out.
+
+        35.     LDS teachings proscribe “responsibilities and blessings” of an LDS wife, and
+
+emphasize a woman’s support of a male as the “patriarch of the home.”
+
+        36.     Plaintiff reported to Hart that she opposed Simon’s derogatory comment about
+
+women being at home, and Stephens providing her with a written copy of an LDS prayer;
+
+shockingly, Hart said he found nothing wrong with it and believed in those teachings himself.
+
+
+
+
+                                               6
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 7 of 23
+
+
+
+
+       37.     Plaintiff was one of the few, if not only, females in an executive position with
+
+Defendant entities.
+
+       38.     During Plaintiff’s time working for Defendants, she felt intentionally isolated and
+
+marginalized as both a female employe, and an employee who refused to commit to Defendants’
+
+LDS church.
+
+       39.     Defendants’ management made numerous denigrating comments to Plaintiff,
+
+making generalized negative statements about her capabilities, or talking down to Plaintiff as if
+
+she was not a contributing member to meetings or the team, or as if her opinion was not nearly as
+
+important as that of her male LDS peers.
+
+       40.     Plaintiff did not witness Defendants’ management make any similar comments or
+
+exhibit similar behaviors to any male employees, or any employees who were also members of
+
+the LDS Church.
+
+       41.     Throughout her employment, Plaintiff weas also subjected to constant
+
+inappropriate comments about her physical appearance.
+
+       42.     Other activities took place that demonstrated Hodson did not value women as
+
+equal contributors and clearly saw young impressionable women as merely potential new
+
+members of his faith (to be married off to LDS members).
+
+       43.     Between in or about September of 2020 and through 2022, Hodson met two (2)
+
+girls, ages 16 and 17, in Johnstown, Pennsylvania.
+
+       44.     These two (2) girls began traveling with Hodson and the company throughout
+
+Pennsylvania, West Virgina, and California.
+
+
+
+
+                                                7
+           Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 8 of 23
+
+
+
+
+       45.     Hodson gave the impression he was going to have the girls work for Defendants
+
+(even creating a company email address for one of them), but Plaintiff never actually saw these
+
+girls perform any job duties for Defendants.
+
+       46.     Plaintiff adamantly expressed her discomfort in having girls who were in high
+
+school and under 18 years of age stay in hotels with Defendants’ management (and frankly as a
+
+concept in general).
+
+       47.     Hodson provided monetary consideration to these girls to entice them continue on
+
+with Defendants entities travel affairs (including for example, paying cash for their own medical
+
+treatment).
+
+       48.     Although it was clearly not part of her job responsibilities (but since Plaintiff was
+
+one of the few, if not the only, female executive within Defendant entities), Hodson asked
+
+Plaintiff to watch over the girls and take care of them.
+
+       49.     No other male employees were asked to watch over and take care of these girls.
+
+       50.     Plaintiff then asked not to be involved with these young girls or the situation
+
+anymore.
+
+       51.     Plaintiff later discovered that Hodson was taking these young girls to his Latter-
+
+Day Saints Church and other LDS events.
+
+       52.     Hodson later asked Plaintiff to help the girls with getting into college; Hodson’s
+
+ongoing efforts to convert these women to his Church was interfering with Plaintiff’s ability to
+
+do her job and she was vocal about her disinterest in being involved.
+
+       53.     Hodson wanted one of them to attend West Virginia University since his son,
+
+Jonathan Hodson, and his lab and offices would be in Morgantown, WV near that school.
+
+
+
+
+                                                 8
+          Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 9 of 23
+
+
+
+
+        54.     As Plaintiff was objectively being treated like Hodson’s personal assistant or a
+
+female caretaker (and she felt obligated to do it because Hodson directed it), Plaintiff became
+
+briefly involved with these girls again when they first enrolled at WVU but had no further
+
+contact with the girls until Hodson asked her to help them get a “waiver” to live off campus so
+
+Hodson could obtain and pay for these girls’ apartment off campus.
+
+        55.     Upon information and belief, one of these young women is now married to a
+
+member of the LDS Church, and the other young woman is attending Brigham Young University
+
+(in Utah), an institution holding itself out to the public as “founded, supported and guided by The
+
+Church of Jesus Christ of Latter-Day Saints.”
+
+        56.     In short, Defendants repeatedly tried to convert Plaintiff to their religion, and
+
+entangled her in their efforts to do so with other females, often pressuring her to assist in their
+
+efforts as if it was part of her job duties.
+
+        57.     Plaintiff experienced antagonism by Hodson any time she expressed resistance in
+
+his or the company’s effort to focus on religion or opposed converting persons to their religion.
+
+        58.     Plaintiff was specifically told Hodson did not believe women should be in the
+
+workplace and their role was in the home; in line with those beliefs, Hodson often singled
+
+Plaintiff out and mistreated her due to her status as a female.
+
+        i.)     Plaintiff’s Complaints to Hodson in August and September of 2023 regarding
+                Fraud on the Government and Sex Based Harassment.
+
+        59.     Between June through August 2023, Plaintiff began asking Hodson questions
+
+about his various companies and how certain things did not make sense financially.
+
+        60.     Plaintiff was concerned about Hodson and the Defendant Omnis companies
+
+making false representations to state and federal officials in order to receive funds and assistance
+
+in the form of government loans and grants.
+
+
+
+                                                  9
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 10 of 23
+
+
+
+
+        61.    Plaintiff’s concerns peaked when she realized that Hodson and the Omnis
+
+companies had made so many misrepresentations to government officials that it would be
+
+extremely difficult for Plaintiff to support the claims without further understanding so she
+
+continued to ask Hodson questions.
+
+        62.    Hodson curtly responded by telling Plaintiff that she is “always whining” and that
+
+she “whines a lot.”
+
+        63.    On or about June 28, 2023, Plaintiff contacted Charles Gassenheimer, an
+
+employee of Omnis Bailey, LLC and Omnis Regenerative, LLC, regarding her concerns about
+
+the financing and validity of statements Hodson was making to state and federal government
+
+officials.
+
+        64.    Charles Gassenheimer informed Plaintiff that since she was “not one of them,”
+
+referring to being a member of the Latter-Day Saints Church, that she will get nowhere, no one
+
+will listen to her, and no one will take her concerns seriously.
+
+        65.    On August 30, 2023, Plaintiff finally confronted Hodson about the truthfulness of
+
+statements he was making to state and federal government officials, openly objecting to his
+
+ongoing efforts to defraud government officials for investment funds.
+
+        66.    This was not an off handed conversation, but lasted several hours; Plaintiff
+
+accused Hodson of lying to the Federal Department of Energy and the West Virginia
+
+Government, and insisted she would not lie on his behalf.
+
+        67.    Hodson knew Plaintiff had active meetings occurring and planned with
+
+government officials in the coming weeks regarding his efforts to secure a nearly $50 million-
+
+dollar forgivable loan (i.e. that her intent to report him to the Government was imminent).
+
+
+
+
+                                                 10
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 11 of 23
+
+
+
+
+        68.       Hodson overtly tried to minimize Plaintiff’s complaints by trying to appeal to
+
+Plaintiff as a female, and making an actual advance toward her saying: “hold my hands and look
+
+into my eyes and tell me you believe me.”
+
+        69.       Plaintiff immediately responded: “don’t touch me,” and Hodson said: “Then you
+
+should go.”
+
+        70.       Plaintiff walked away from the incident clearly distraught and on the verge of
+
+tears, but she was fearful of showing her emotions to Hodson, given some of the stereotypes he
+
+had already voiced about women being in the workplace.
+
+        71.       On or about September 5, 2023, Hodson sent Plaintiff a text message which
+
+stated in part:
+
+                  “Hi Michelle, I hope you had a good weekend. There was a lot
+                  accomplished last week. Thank you for your significant support and
+                  impact. However, as we discussed, there is an urgent need to clarify roles
+                  and responsibilities as we grow and develop the several OGT companies.
+                  Going forward, we believe that your most critical role is to work directly
+                  for OBT Bluefield at a monthly gross compensation of $20,000. You will
+                  work with and report directly to Jonathon Hodson. Your primary duties
+                  will be to coordinate all the WV State contacts and activities to ensure the
+                  best completion and start-up of the first manufacturing plant in Bluefield.
+                  This will include coordination of support and opportunities with Federal
+                  Agencies, State Agencies and strategic customers. Subsequently, we
+                  would ask you to leverage the first plant’s success to other sites in WV
+                  and surrounding States. This is a national company with huge market
+                  opportunity. Thank you for your great support to make this a success.”
+
+        72.       The text message continues in great detail requesting Plaintiff help the Omnis
+
+entities in other areas, and stating, “You have helped tremendously.”
+
+        73.       The text message ended by Hodson stating:
+
+                  “We are always open to discussing with you other changes that would best
+                  enable you to be most effective in your employment with the Omnis
+                  companies. Please give me your feedback on the above structure asap so
+                  that we can memorialize all this in an employment letter. I am also
+                  reviewing with our accounting team the resolution of your payroll to make
+
+
+
+                                                  11
+            Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 12 of 23
+
+
+
+
+                 sure that you received all the payments, including any bonuses, that were
+                 promised. I will complete this by Wednesday. Sincerely, Simon K.
+                 Hodson.”
+
+           74.   On September 6, 2023, at 9:44 a.m., Plaintiff sent Simon Hodson an email stating
+
+in part:
+
+                 “Simon, it is important for you to understand how important the
+                 communities in West Virginia are to me. The treatment I have endured
+                 by you and others who work with you has been unbearable. . . My
+                 proposal also ensures that the incident that took place at the
+                 Greenbrier Resort on Wednesday, August 30, will never happen
+                 again, since I will be a Contractor and not an Employee. I assume
+                 that you would never ask a male employee to hold your hand and look
+                 into your eyes to know the truth. It is troubling that when I refused to
+                 hold your hand and look into your eyes, you state that you would let
+                 me go.”
+
+           75.   On September 9, 2023— days after Plaintiff had expressly raised concerns about
+
+the misrepresentations Hodson was making to government officials, and almost immediately
+
+after she complained to Hodson about overt sex based harassment — Stephens (General
+
+Counsel) instructed her to “immediately cease and desist all work for any of the Omnis
+
+companies.”
+
+           76.   On September 10, 2023, Stephens threatened Plaintiff by stating, “Please be very
+
+careful about how you move forward here Michelle.”
+
+           77.   Plaintiff was offered no explanation for her termination – and in fact, to date,
+
+Defendants have falsely represented that Plaintiff voluntarily resigned from her employment.
+
+           78.   Defendants were so concerned about Plaintiff’s intended whistle blowing
+
+activities, Defendants then filed a separate civil action against Plaintiff in Bucks County Court of
+
+Common Pleas, making claims of conversation so they could obtain her computer (a personal
+
+computer which was not even Defendants’ property) and then making threats of anticipated
+
+claims for violation of trade secret laws, of which they have no proof.
+
+
+
+                                                12
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 13 of 23
+
+
+
+
+                                     COUNT I
+              SEX DISCRIMINATION, RETALIATION, AND HARASSMENT
+                          IN VIOLATION OF TITLE VII,
+                              42 U.S.C. §2000e, et. seq
+
+        79.     Plaintiff incorporates the allegations in the paragraphs above, as if fully set forth
+
+at length herein.
+
+        80.     Defendants took an adverse employment action against Plaintiff based on her sex
+
+by, among the other conduct alleged herein, constantly (1) making comments about her physical
+
+appearance; (2) making demeaning comments to Plaintiff solely because she was a woman; and
+
+(3) making her perform tasks that were not in her job description solely because she was a
+
+woman.
+
+        81.     Plaintiff expressly opposed Hodson’s mistreatment toward her due to her sex in
+
+extremely close proximity to her abrupt separation.
+
+        82.     The sex-based discrimination Plaintiff experienced was both severe and
+
+pervasive, as Plaintiff was subjected to it on multiple occasions throughout her employment and
+
+leading to her ultimate separation.
+
+                                  COUNT II
+         RELIGIOUS DISCRIMINATION, RETALIATION, AND HARASSMENT
+                         IN VIOLATION OF TITLE VII
+                               42 U.S.C. § 2000e
+
+        83.     Plaintiff incorporates the allegations contained in the paragraphs above, as if fully
+
+set forth at length herein.
+
+        84.     Hodson and many other Omnis executives were part of the LDS Church.
+
+        85.     Hodson and other high level managers within Defendants constantly spoke of
+
+their religion and encouraged Plaintiff to engage in discussions about the LDS Church and to
+
+become a member.
+
+
+
+
+                                                 13
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 14 of 23
+
+
+
+
+       86.     Hodson often mistreated Plaintiff because her religious beliefs did not align with
+
+his and other Omnis employee’s religious beliefs.
+
+       87.     Plaintiff repeatedly engaged in protected activity by protesting Hodson’s efforts to
+
+force his religious views upon her, complaints she also shared with other high level executives
+
+within Defendants.
+
+       88.     Plaintiff therefore avers she was subject to religious discrimination, subject to a
+
+hostile work environment on account of her religious views and terminated for engaging in
+
+protected conduct under Title VII by opposing religious discriminatory practices in the
+
+workplace.
+
+
+                                   COUNT III
+              RETALATION IN VIOLATION OF THE FALSE CLAIMS ACT
+                              31 U.S.C. § 3730(h)(1)
+
+       89.     Plaintiff incorporates the allegations in the paragraphs above, as if fully set forth
+
+at length herein.
+
+       90.     During her employment, Plaintiff became concerned about Hodson and the Omnis
+
+companies making false representations to state and federal officials in order to receive funds
+
+and assistance in the form of government loans and grants.
+
+       91.     Plaintiff reasonably believed Defendants were altering their books to make it
+
+appear as if Defendants were in a better financial position than they actually were, and that
+
+Hodson was presenting these altered financial statements to state and federal officials to secure
+
+government funds.
+
+       92.     To investigate these concerns, Plaintiff contacted Charles Gassenheimer, an
+
+employee of Omnis Bailey, LLC and Omnis Regenerative, LLC, on or about June 28, 2023.
+
+
+
+
+                                                14
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 15 of 23
+
+
+
+
+        93.    Charles Gassenheimer informed Plaintiff that since she was “not one of them,”
+
+that she will get nowhere, no one will listen to her, and no one will take her concerns seriously.
+
+        94.    On or about August 30, 2023, Plaintiff confronted Simon Hodson about the false
+
+statements that he was making to state and federal government officials to receive funding
+
+government funding and made known her intentions to report his false claims to government
+
+officials.
+
+        95.    Four days later, Simon Hodson sent Plaintiff an email informing her that her role
+
+at the company was changing, that she was only going to work for OBT Bluefield, and that she
+
+would report directly to his son, Jonathan Hodson.
+
+        96.    Plaintiff responded to this email, reiterating the concerns she raised to him on
+
+August 30, 2023.
+
+        97.    A few days later, Defendants’ General Counsel, without explanation, instructed
+
+Plaintiff to “immediately cease and desist all work for any of the Omnis companies.”
+
+        98.    Defendants then abruptly terminated Plaintiff’s employment.
+
+        99.    This retaliatory termination was motivated by Plaintiff raising the aforementioned
+
+concerns to Hodson.
+
+        100.   Based on information and belief, Hodson feared that Plaintiff would report
+
+Defendants’ fraudulently misrepresentations to the state and federal government, so he changed
+
+her role in the Company and then ultimately terminated her employment.
+
+
+
+
+                                                15
+           Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 16 of 23
+
+
+
+
+                                        COUNT IV
+                                   UNJUST ENRICHMENT
+
+       101.    Plaintiff incorporates the allegations in the paragraphs above, as if fully set forth
+
+at length herein.
+
+       102.    Plaintiff was hired by Defendants in November 2020 at an annual salary of
+
+$250,000.00.
+
+       103.    Due to Defendants’ financial condition in July 2021, Plaintiff was furloughed.
+
+       104.    In an effort to retain several employees, Defendants began offering incentive
+
+bonuses.
+
+       105.    On July 22, 2021, Defendants sent Plaintiff an offer letter to return to her position.
+
+       106.    That written offer stated, among other things, that: 1) Plaintiff would be
+
+compensated at an annual salary of $54,080.00; and 2) Defendants would pay Plaintiff a bonus
+
+following its receipt of $10 million or more in outside funding.
+
+       107.    Defendants, both in writing and orally, represented that bonus would be 110% of
+
+the difference between the compensation Plaintiff would have received under her terms of
+
+employment prior to this furlough ($250,000.00) and the compensation she received following
+
+her return to employment ($54,080.00).
+
+       108.    This non-discretionary bonus of $215,512.00 induced Plaintiff’s return to
+
+Defendants, and in fact, Plaintiff accepted this offer and began working for Defendants.
+
+       109.    Thereafter, upon information and belief, Defendants did obtain in excess of $10
+
+million in outside funding.
+
+       110.    Despite this, Plaintiff never received any of the $215,512.00 promised to her by
+
+Defendants.
+
+
+
+
+                                                16
+           Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 17 of 23
+
+
+
+
+                                       COUNT V
+                                  BREACH OF CONTRACT
+
+       111.    Plaintiff incorporates the allegations in the paragraphs above, as if fully set forth
+
+at length herein.
+
+       112.    The assertions set forth in Count III also establish a claim for breach of contract,
+
+as the Parties entered into an express written contract for a specific bonus amount.
+
+       113.    Those conditions were satisfied and Defendants materially breached the terms of
+
+the Parties’ agreement.
+
+                                   COUNT VI
+           UNPAID WAGES IN VIOLATION OF PENNSYLVANIA’S WAGE PAYMENT
+                            AND COLLECTION LAW
+                             43 Pa. Stat. Ann. § 260.9a
+
+       114.    Plaintiff incorporates the allegations in the paragraphs above, as if fully set forth
+
+at length herein.
+
+       115.    Plaintiff was employed by Defendants.
+
+       116.    As part of her terms of her compensation, Defendants contractually agreed to pay
+
+Plaintiff a non-discretionary bonus in the amount of $215,512.00 upon receipt of $10 million or
+
+more in outside funding.
+
+       117.    Thereafter, Defendants obtained in excess of $10 million or more in outside
+
+funding.
+
+       118.    Despite numerous promises to do so, Defendants never paid Plaintiff her non-
+
+discretionary bonus of $215,512.00.
+
+       119.    Defendants then terminated Plaintiff’s employment without paying her the bonus.
+
+       120.    Plaintiff’s unpaid bonus is a “wage” under the Pennsylvania Wage Payment and
+
+Collection Law. 43. P.S. § 260.2a.
+
+
+
+
+                                                17
+         Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 18 of 23
+
+
+
+
+        121.   Plaintiff’s unpaid bonus is also a “fringe benefit and wage supplement” under the
+
+Pennsylvania Wage Payment and Collection Law, which must be paid “within 10 days after such
+
+payments are required to be made directly to the employee, or within 60 days of the date when
+
+proper claim was filed by the employee in situations where no required time for payment is
+
+specified.” 43 P.S. § 260.3(b).
+
+        122.   Defendants’ failure to pay Plaintiff’s non-discretionary bonus of $215,512.00 is a
+
+violation of the WPCL.
+
+        123.   The $215,512.00 has remained unpaid more than sixty days after payment became
+
+due.
+
+        124.   Plaintiff is entitled to liquidated damages in an amount equal to twenty five
+
+percent of the unpaid wages. 43 P.S. § 260.10.
+
+                                       COUNT VII
+                                  PROMISSORY ESTOPPEL
+
+        125.   Plaintiff incorporates the allegations in the paragraphs above, as if fully set forth
+
+at length herein.
+
+        126.   Defendants should have reasonably expected that its promise to pay Plaintiff
+
+$215,512.00 would induce Plaintiff to return to her position following a furlough.
+
+        127.   Plaintiff detrimentally relied on this promise, as she would not have returned to
+
+Defendants at a salary that was almost four times less than what she was previously making
+
+without it.
+
+        128.   Defendants not only agreed in writing to pay Plaintiff this bonus but also
+
+reaffirmed this promise several times throughout Plaintiff’s employment.
+
+        129.   Defendants should have reasonably expected that repeatedly assuring Plaintiff
+
+that it would pay her the bonus would induce Plaintiff to continue working for Defendants.
+
+
+
+                                                 18
+        Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 19 of 23
+
+
+
+
+       130.    Plaintiff detrimentally relied on Defendants’ repeated assurances, as she would
+
+not have continued to work for Defendants if she knew that they would never pay her the
+
+promised bonus.
+
+       WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+       A.      Defendants are to promulgate and adhere to a policy prohibiting discrimination
+
+and retaliation in the future against any employee(s);
+
+       B.      Defendants are to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff
+
+whole for any and all pay and benefits Plaintiff would have received had it not been for
+
+Defendants’ illegal actions, including but not limited to back pay, front pay, salary, pay
+
+increases, bonuses, insurance, benefits, training, promotions, reinstatement and seniority;
+
+       C.      Plaintiff is to be awarded punitive damages, as permitted by applicable law, in an
+
+amount believed by the Court or trier of fact to be appropriate to punish Defendants for their
+
+willful, deliberate, malicious and outrageous conduct and to deter Defendants or other employers
+
+from engaging in such misconduct in the future;
+
+       D.      Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper and appropriate (including but not limited to damages for emotional distress, pain,
+
+suffering and humiliation);
+
+       E.      Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+attorney’s fees as provided by applicable federal and state law; and
+
+       F.      Plaintiff is to be given a jury trial as demanded in the caption of this Complaint.
+
+
+
+
+                                                19
+       Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 20 of 23
+
+
+
+
+                                          Respectfully submitted,
+
+                                          KARPF, KARPF & CERUTTI, P.C.
+
+
+
+                                   By:    ______________________________
+                                          Ari R. Karpf, Esq.
+                                          Christine E. Burke, Esq.
+                                          3331 Street Rd.
+                                          Two Greenwood Square, Suite 128
+                                          Bensalem, PA 19020
+                                          (215) 639-0801
+Dated: March 28, 2024
+
+
+
+
+                                     20
+  Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 21 of 23
+
+
+
+
+            jáÅÜÉääÉ=`Üêáëíá~å
+
+
+
+lãåáë=däçÄ~ä==qÉÅÜåçäçÖáÉëI=ii`I=Éí=~äK
+
+
+
+
+PLOULOMOQ
+                            Case 2:24-cv-01319-MRP
+                                               UNITEDDocument   1 Filed
+                                                      STATES DISTRICT    03/28/24 Page 22 of 23
+                                                                      COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       NMV=páÖå~ä=eáää=oç~ÇI=eçää~åÇI=m^=NUVSS
+Address of Plaintiff: ______________________________________________________________________________________________
+                       PTNM=`çääáåë=cÉêêó=oç~ÇI=jçêÖ~åíçïåI=ts=OSRMR
+Address of Defendant: ____________________________________________________________________________________________
+                                             aÉÑÉåÇ~åíë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+          PLOULOMOQ
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+          PLOULOMOQ
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                   Case 2:24-cv-01319-MRP Document 1 Filed 03/28/24 Page 23 of 23
+JS 44 (Rev. 06/17)                                                        CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                           DEFENDANTS
+                                                                                                          ljkfp=dil_^i=qb`eklildfbpI=ii`I=bq=^iK
+    `eofpqf^kI=jf`ebiib
+     (b) County of Residence of First Listed Plaintiff              _ìÅâë                                   County of Residence of First Listed Defendant                 jçåçåÖ~äá~
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                            NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                      III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif f
+                                                                                                       (For Diversity Cases Only)                                             and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3 Federal Question                                                                       PTF           DEF                                            PTF      DEF
+          Plaintiff                             (U.S. Government Not a Party)                     Citizen of This State          ’ 1           ’ 1     Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                           of Business In This State
+
+❒ 2    U.S. Government                 ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2    Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                           (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                  Citizen or Subject of a           ’ 3         ’ 3    Foreign Nation                        ’ 6      ’ 6
+                                                                                                    Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                             TORTS                               FORFEITURE/PENALTY                            BANKRUPTCY                      OTHER STATUTES
+❒   110 Insurance                      PERSONAL INJURY                 PERSONAL INJURY            ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158          ❒ 375 False Claims Act
+❒   120 Marine                       ’ 310 Airplane                  ❒ 365 Personal Injury -            of Property 21 USC 881            ’   423 Withdrawal                 ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’ 315 Airplane Product                Product Liability      ❒ 690 Other                                     28 USC 157                        3729(a))
+❒   140 Negotiable Instrument               Liability                ❒ 367 Health Care/                                                                                     ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’ 320 Assault, Libel &                Pharmaceutical                                                     PROPERTY RIGHTS               ❒ 410 Antitrust
+        & Enforcement of Judgment           Slander                        Personal Injury                                                ❒ 820 Copyrights                  ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’ 330 Federal Employers’              Product Liability                                              ❒ 830 Patent                      ❒ 450 Commerce
+❒   152 Recovery of Defaulted               Liability                ❒ 368 Asbestos Personal                                              ❒ 835 Patent - Abbreviated        ❒ 460 Deportation
+        Student Loans                ’ 340 Marine                          Injury Product                                                        New Drug Application       ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’ 345 Marine Product                  Liability                                                      ❒ 840 Trademark                          Corrupt Organizations
+❒   153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                        LABOR                         SOCIAL SECURITY                ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’ 350 Motor Vehicle             ❒ 370 Other Fraud            ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)                ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’ 355 Motor Vehicle             ❒ 371 Truth in Lending               Act                             ❒ 862 Black Lung (923)            ❒ 850 Securities/Commodities/
+❒   190 Other Contract                     Product Liability         ❒ 380 Other Personal         ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                  Exchange
+❒   195 Contract Product Liability   ’ 360 Other Personal                  Property Damage                Relations                       ❒ 864 SSID Title XVI              ❒ 890 Other Statutory Actions
+❒   196 Franchise                          Injury                    ❒ 385 Property Damage        ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))                ❒ 891 Agricultural Acts
+                                     ’ 362 Personal Injury -               Product Liability       ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                           Medical Malpractice                                            Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS          ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                       Act
+❒   210 Land Condemnation            ❒ 440 Other Civil Rights          Habeas Corpus:             ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff       ❒ 896 Arbitration
+❒   220 Foreclosure                  ❒ 441 Voting                    ❒ 463 Alien Detainee                Income Security Act                     or Defendant)              ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       ❒ 442 Employment
+                                     u                               ❒ 510 Motions to Vacate                                              ❒ 871 IRS—Third Party                    Act/Review or Appeal of
+❒   240 Torts to Land                ❒ 443 Housing/                        Sentence                                                              26 USC 7609                       Agency Decision
+❒   245 Tort Product Liability             Accommodations            ❒ 530 General                                                                                          ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒ 445 Amer. w/Disabilities -    ❒ 535 Death Penalty                IMMIGRATION                                                                State Statutes
+                                           Employment                  Other:                     ❒ 462 Naturalization Application
+                                     ❒ 446 Amer. w/Disabilities -    ❒ 540 Mandamus & Other       ❒ 465 Other Immigration
+                                           Other                     ❒ 550 Civil Rights                 Actions
+                                     ❒ 448 Education                 ❒ 555 Prison Condition
+                                                                     ❒ 560 Civil Detainee -
+                                                                           Conditions of
+                                                                           Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                          ❒    3    Remanded from             ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict                   ❒ 8 Multidistrict
+        Proceeding                State Court                       Appellate Court               Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                          (specify)                      Transfer                         Direct File
+                                          Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                    qáíäÉ=sff=EQOrp`OMMMF
+VI. CAUSE OF ACTION Brief description of cause:
+                                           sáçä~íáçåë=çÑ=qáíäÉ=sffI=meo^I=c~äëÉ=`ä~áãë=^ÅíI=råàìëí=båêáÅÜãÉåíI=_êÉÉÅÜ=çÑ=`çåíê~ÅíI=tm`i=~åÇ=mêçãáëëçêó=bëíçééÉäK
+VII. REQUESTED IN     ❒ CHECK IF THIS IS A CLASS ACTION                                              DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:          UNDER RULE 23, F.R.Cv.P.                                                                                                     JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                       (See instructions):
+      IF ANY                               JUDGE                                                                                              DOCKET NUMBER
+DATE                                                                    SIGNATURE OF ATTORNEY OF RECORD
+           PLOULOMOQ
+FOR OFFICE USE ONLY
+
+     RECEIPT #                    AMOUNT                                    APPLYING IFP                                    JUDGE                               MAG. JUDGE
+
+                  Print                               Save As...                                                                                                                   Reset
+

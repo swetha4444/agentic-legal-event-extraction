@@ -1,0 +1,966 @@
+Source URL: https://www.courtlistener.com/docket/63232575/1/ferruzzi-v-pond-lehocky-llp/
+Title: Complaint (Attorney) – #1 in FERRUZZI v. POND LEHOCKY, LLP (E.D. Pa., 2:22-cv-01443) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 2:22-cv-01443-WB
+                                                       CIVILDocument
+                                                             COVER1SHEET
+                                                                     Filed 04/13/22 Page 1 of 27
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+                                                                                                               Pond Lehocky, LLP
+    Paul Ferruzzi                                                                                              Pond Lehocky Giordano, LLP
+    (b)   County of Residence of First Listed Plaintiff                Montgomery County                       County of Residence of First Listed Defendant              Philadelphia County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Daniel S. Orlow, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State          ✖ 1          1      Incorporated or Principal Place
+                                                                                                                                                           of Business In This State
+                                                                                                                                                                                                 4     4 x
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                    625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                   of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability               690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                           400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                       PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                       820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                     830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                     835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                            New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                             840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                             LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                     710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                    Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                  720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                     Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                 740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability               751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                   790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                      791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                      Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                    870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                 or Defendant)                 896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                              871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                       IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment              Other:                              462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                465 Other Immigration                                                  950 Constitutionality of
+                                             Other                   550 Civil Rights                        Actions                                                                State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. § 12101, et seq.; 43 Pa. Stat. § 951, et seq. ; Phila. Code § 9-1100, et seq. ; 29 U.S.C. § 201, et seq.; 29 U.S.C. § 2601, et seq.
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff was discriminated and retaliated against because of his disability and his complaints about illegal overtime practices.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                            in excess of $75,000                           JURY DEMAND:                X   Yes           No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+        4/13/2022
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                               Case 2:22-cv-01443-WB
+                                                 UNITEDDocument   1 Filed
+                                                        STATES DISTRICT    04/13/22 Page 2 of 27
+                                                                        COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                              Hatboro, PA
+Address of Plaintiff: ______________________________________________________________________________________________
+                                            2005 Market Street, Philadelphia, PA 19103
+Address of Defendant: ____________________________________________________________________________________________
+                                                         2005 Market Street, Philadelphia, PA 19103
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.       Is this case related to property included in an earlier numbered suit pending or within one year                        Yes                       No   ✔
+         previously terminated action in this court?
+
+2.       Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                       Yes                       No   ✔
+         pending or within one year previously terminated action in this court?
+
+3.       Does this case involve the validity or infringement of a patent already in suit or any earlier
+         numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                 Yes                       No   ✔
+4.       Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                       Yes                       No    ✔
+         case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      04/13/2022
+DATE: __________________________________                      __________________________________________                                    311702
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.             Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+         1.    Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+         2.    FELA                                                                               2.    Airplane Personal Injury
+         3.    Jones Act-Personal Injury                                                          3.    Assault, Defamation
+         4.    Antitrust                                                                          4.    Marine Personal Injury
+         5.    Patent                                                                             5.    Motor Vehicle Personal Injury
+         6.    Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔        7.    Civil Rights                                                                       7.    Products Liability
+         8.    Habeas Corpus                                                                      8.    Products Liability – Asbestos
+         9.    Securities Act(s) Cases                                                            9.    All other Diversity Cases
+         10.   Social Security Review Cases                                                             (Please specify): ____________________________________________
+         11.   All other Federal Question Cases
+               (Please specify): ____________________________________________
+
+
+
+                                                                             ARBITRATION CERTIFICATION
+                                                   (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+              Daniel S. Orlow
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+     x         Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+               exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     x         Relief other than monetary damages is sought.
+
+
+      04/13/2022
+DATE: __________________________________                      __________________________________________                                    311702
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+              Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 3 of 27
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+ Paul Ferruzzi                                    :                          CIVIL ACTION
+                                                  :
+                       v.                         :
+                                                  :
+Pond Lehocky, LLP, et al.                         :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+4/13/2022                                                           Plaintiff, Paul Ferruzzi
+Date                               Attorney-at-law                       Attorney for
+ 215-545-7676                   215-405-2900                          orlow@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 4 of 27
+
+
+
+
+                         UNITED STATES DISTRICT COURT
+                       EASTERN DISTRICT OF PENNSYLVANIA
+__________________________________________
+                                           :
+Plaintiff,                                 :
+                                           :
+        PAUL FERRUZZI                      :
+        Hatboro, PA                        :   Case No.
+                                           :
+        v.                                 :
+                                           :
+Defendant,                                 :   JURY TRIAL DEMANDED
+                                           :
+        POND LEHOCKY, LLP                  :
+        Philadelphia, PA                   :
+                                           :
+        POND LEHOCKY GIORDANO, LLP         :
+        Philadelphia, PA                   :
+__________________________________________:
+
+                                CIVIL ACTION COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Paul Ferruzzi, brings this action against his former employer, Pond Lehocky, for
+
+violations of the Americans with Disabilities Act, 42 U.S.C. § 12101, et seq. (“ADA”), the
+
+Pennsylvania Human Relations Act, 43 Pa. Stat. § 951, et seq. (“PHRA”), the Philadelphia Fair
+
+Practices Ordinance, Phila. Code § 9-1100, et seq. (“PFPO”), the Fair Labor Standards Act, 29
+
+U.S.C. § 201, et seq. (“FLSA”), and the Family and Medical Leave Act, 29 U.S.C. § 2601, et
+
+seq. (“FMLA”).
+
+       Plaintiff was hired by Defendants in 2007 and demonstrated dedication and consistently
+
+excellent performance throughout thirteen (13) years of employment.          In November 2019,
+
+Plaintiff was diagnosed with testicular cancer. As a result, Plaintiff required surgical removal of
+
+a cancerous tumor and ongoing surveillance treatment thereafter, which required modifications
+
+to his work schedule for routine testing and treatment. Despite Plaintiff’s stellar track record
+            Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 5 of 27
+
+
+
+
+over thirteen (13) years, Plaintiff was terminated only five (5) months later in April 2020 under
+
+the guise of a reduction-in-force and ambiguous criticisms of his job performance. Merely one
+
+(1) week prior to his termination, Plaintiff had submitted complaints to Defendants’ upper
+
+management that staff members had been working compensable overtime hours, but were not
+
+clocking-in for or recording those hours due to a fear of being penalized for working overtime.
+
+       Plaintiff was unlawfully terminated because of his disability (testicular cancer), his
+
+requests for reasonable accommodations in connection with the same, and his reports to upper
+
+management that employees were not clocked-in during compensable overtime hours. Plaintiff
+
+seeks damages, including back-pay, front-pay, compensatory, liquidated, punitive, attorneys’
+
+fees and costs, and all other relief that this Court deems appropriate.
+
+II.    PARTIES
+
+       1.      Plaintiff Paul Ferruzzi is an individual and citizen of the Commonwealth of
+
+Pennsylvania, residing therein in Hatboro, PA.
+
+       2.      Defendant Pond Lehocky, LLP is organized under the laws of the Commonwealth
+
+of Pennsylvania with a principal place of business located at 2005 Market Street, Philadelphia,
+
+PA 19103.
+
+       3.      Defendant Pond Lehocky Giordano, LLP is organized under the laws of the
+
+Commonwealth of Pennsylvania with a principal place of business located at 2005 Market Street,
+
+Philadelphia, PA 19103.
+
+       4.      The operations of Defendants are substantively integrated and consolidated.
+
+Without limitation, and by way of example:
+
+               a.      Defendants share common leadership;
+
+
+
+
+                                                  2
+               Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 6 of 27
+
+
+
+
+                  b.     Defendants collectively and individually do business under the trade name
+
+                         “Pond Lehocky”;
+
+                  c.     Defendants have each issued Plaintiff documentation referring to them
+
+                         individually as Plaintiff’s employer;
+
+                  d.     Defendants share a common principal place of business located at 2005
+
+                         Market Street, Philadelphia, PA 19103;
+
+                  e.     Defendants issue press releases and other marketing-related materials that
+
+                         refer to Pond Lehocky as a single enterprise of which Defendants are each
+
+                         a part;
+
+          5.      At all times material hereto, Plaintiff was an employee of Defendants within the
+
+meaning of the statutes which form the basis of this matter.
+
+          6.      At all times material hereto, Defendants were each an employer of Plaintiff (both
+
+individually and collectively) within the meaning of the statutes which form the basis of this
+
+matter.
+
+          7.      At all times material hereto, Defendants employed more than fifteen (15) people.
+
+          8.      At all times material hereto, Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees within the course and scope of their employment
+
+with Defendants and in furtherance of Defendants’ business.
+
+III.      JURISDICTION AND VENUE
+
+          9.      The causes of action set forth in this Complaint arise under the ADA, the PHRA,
+
+the PFPO, the FLSA, and the FMLA.
+
+          10.     The District Court has subject matter jurisdiction over Counts I, IV, and V
+
+pursuant to 28 U.S.C. § 1331.
+
+
+                                                   3
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 7 of 27
+
+
+
+
+       11.       The District Court has supplemental jurisdiction over Counts II and III pursuant to
+
+28 U.S.C. § 1367.
+
+       12.       Venue is proper under 28 U.S.C. § 1391(b).
+
+       13.       On or about May 18, 2020, Plaintiff filed a Complaint of Discrimination with the
+
+Pennsylvania Human Relations Commission (PHRC), complaining of the various acts of
+
+discrimination and retaliation alleged herein. Plaintiff’s Complaint of Discrimination was dual-
+
+filed with the Equal Employment Opportunity Commission.                 Attached hereto, incorporated
+
+herein, and marked as Exhibit “A” is a true and correct copy of the May 18, 2020 Complaint of
+
+Discrimination      (with   minor     redactions       for   purposes    of   electronic   filing   of
+
+confidential/identifying information).
+
+       14.       On March 25, 2022, the EEOC issued Plaintiff a Notice of Dismissal and Right to
+
+Sue. Attached hereto as “Exhibit B” is a true and correct copy of that notice.
+
+       15.       On January 18, 2022, the Pennsylvania Human Relations Commission informed
+
+Plaintiff that more than one (1) year had passed since the filing of his Complaint of
+
+Discrimination, advising him that he had the right to bring an action in the appropriate Court of
+
+Common Pleas based on the alleged violations of the PHRA.
+
+       16.       Plaintiff is filing this complaint within ninety (90) days from his receipt of the
+
+EEOC’s Notice of Dismissal and Right to Sue.
+
+       17.       Plaintiff has fully complied with all administrative pre-requisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+       18.       Plaintiff was hired by Defendants in 2007.
+
+
+
+
+                                                   4
+           Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 8 of 27
+
+
+
+
+       19.     Plaintiff demonstrated dedication to Defendants and exceptional performance of
+
+   his job duties and responsibilities.
+
+       20.     Plaintiff was not once subjected to any disciplinary action throughout his almost
+
+thirteen (13) years of employment with Defendants.
+
+       21.     At the time of his termination, Plaintiff held the position of Director of Worker’s
+
+Compensation and reported to Jackie Donovan, Chief Operations Office.
+
+       22.     Donovan reported to Samuel Pond, Defendants’ Managing Partner.
+
+       23.     In or about 2013, Plaintiff was diagnosed with testicular cancer.
+
+       24.     Plaintiff’s 2013 diagnosis of testicular cancer required him to undergo surgery.
+
+       25.     In or about August 2013, Plaintiff informed Donovan of his testicular cancer
+
+diagnosis and that he expected to be out of work for two (2) weeks in connection with his
+
+surgery and corresponding recovery.
+
+       26.     On or about August 19, 2013, Plaintiff went out of work on a medical leave of
+
+absence.
+
+       27.     On or about August 20, 2013, Plaintiff underwent surgery in connection with his
+
+testicular cancer diagnosis.
+
+       28.     On or about August 30, 2013, Plaintiff returned to work from his medical leave of
+
+absence.
+
+       29.     On or about November 12, 2019, Plaintiff learned that he had developed another
+
+cancerous tumor related to his previous diagnosis of testicular cancer from 2013.
+
+       30.     Plaintiff’s testicular cancer impaired the normal growth of cells in his body.
+
+       31.     Plaintiff required another surgery to remove the tumor that he learned of in 2019.
+
+
+
+
+                                                 5
+             Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 9 of 27
+
+
+
+
+       32.      On or about November 12, 2019, Plaintiff informed Donovan and Amber Adams,
+
+Human Resources, of the newly discovered tumor.
+
+       33.      Plaintiff informed Donovan and Adams that the tumor needed to be removed
+
+before it got worse, and that he required another surgery as a result.
+
+       34.      Plaintiff informed Donovan and Adams that prior to undergoing surgery he
+
+planned to obtain a second opinion to ensure that surgery was necessary.
+
+       35.      On November 19, 2019, Plaintiff received a second opinion confirming that
+
+complete surgical removal of the tumor was required. Plaintiff informed Donovan of the same.
+
+       36.      On November 25, 2019, Plaintiff went out of work on a medical leave of absence.
+
+       37.      On November 25, 2019, Plaintiff underwent surgery to remove the newly
+
+discovered tumor.
+
+       38.      On December 9, 2019, Plaintiff returned to work from his medical leave of
+
+absence.
+
+       39.      Following his return to work, Plaintiff had to leave work early and/or arrive to
+
+work late on several occasions due to testing and doctors’ appointments.
+
+       40.      Defendants were aware of Plaintiff’s need to leave work early and/or arrive to
+
+work late on certain days due to testing and doctors’ appointments related to his cancer
+
+diagnosis.
+
+       41.      Following his return to work, Plaintiff had multiple conversations with Donovan
+
+and Adams about his need for additional tests and medical treatment related to his cancer
+
+diagnosis.
+
+       42.      Plaintiff informed Donovan and Adams that he would be receiving surveillance
+
+treatment in connection with his diagnosis moving forward.
+
+
+
+                                                 6
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 10 of 27
+
+
+
+
+        43.    Plaintiff required surveillance treatment following his surgery due to the
+
+propensity of his testicular cancer to re-occur in the future.
+
+        44.    Plaintiff explained to Donovan and Adams that the surveillance treatment he
+
+would be receiving consisted of frequent blood tests, MRI/CT scans, and check-ups with
+
+oncologists throughout the five (5) years following his second surgery.
+
+        45.    Plaintiff informed Donovan and Adams that he would need to request time off for
+
+testing and treatments.
+
+        46.    On or about April 14, 2020, Plaintiff advised Donovan that staff members were
+
+working compensable overtime hours, but not clocking-in for those hours.
+
+        47.    Specifically, in an email dated April 14, 2020, Plaintiff wrote to Donovan and, in
+
+relevant part, stated “…several staff are working not clocked in to make ends meet with their
+
+work. They won’t clock in for fear of penalty for OT but also need to get work done…”
+
+        48.    On April 17, 2020, in a phone call with Donovan and Jennifer Heinz, Chief
+
+Human     Resources       Officer,   Defendants   terminated     Plaintiff’s   employment,   effective
+
+immediately.
+
+        49.    Prior to being informed of his termination, Plaintiff had no indication that his job
+
+was in jeopardy.
+
+        50.    The stated reason for Plaintiff’s termination was that Donovan and Heinz felt that
+
+Plaintiff did not support them and that it was time to “part ways.”
+
+        51.    On April 29, 2020, in an email to Heinz, Plaintiff complained that he was
+
+terminated because of his disability, including being diagnosed with cancer twice during his
+
+employment and needing to alter his schedule for medical appointments and diagnostic testing.
+
+
+
+
+                                                  7
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 11 of 27
+
+
+
+
+       52.     On May 1, 2020, in an email from Heinz, she unjustly criticized Plaintiff and
+
+made false statements about his performance. She stated that Plaintiff’s “visible disregard for
+
+decisions being made by [his] superiors, disrespect toward executive team members and lack of
+
+support of the vision and goals of the Firm are in fact the reasons for [his] termination, again all
+
+of which was explained to [him] on … on April 17, 2020.”
+
+       53.     Defendants offered a severance agreement to Plaintiff in exchange for a release of
+
+all claims against it, which stated that Plaintiff was terminated as part of a reduction in force.
+
+       54.     At all relevant times, Plaintiff was a qualified individual with a disability within
+
+the meaning of the ADA, PHRA, and PFPO.
+
+       55.     At all relevant times, Plaintiff was able to perform the essential functions of his
+
+job with or without reasonable accommodations.
+
+       56.     At all relevant times, Defendants regarded Plaintiff as a disabled person.
+
+       57.     At all relevant times, Plaintiff had a recorded history of a disability of which
+
+Defendants were aware.
+
+       58.     Plaintiff’s disability (including his record thereof and Defendants’ perception of
+
+him as a disabled person), his requests for reasonable accommodations in connection with his
+
+disability, and his reports to Defendants’ upper management that employees were not clocked-in
+
+for compensable overtime hours were each motivating and/or determinative factors in
+
+Defendants’ discriminatory and retaliatory treatment of him, including terminating his
+
+employment and failing to provide him reasonable accommodations for his disability.
+
+       59.     As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendants, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of
+
+
+
+                                                  8
+             Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 12 of 27
+
+
+
+
+self-esteem, mental anguish, and loss of life’s pleasures, the full extent of which is not known at
+
+this time.
+
+                                           COUNT I
+                            Americans with Disabilities Act (Title VII)
+
+        60.      Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        61.      Defendants have violated the ADA by committing the foregoing acts of
+
+discrimination and retaliation.
+
+        62.      Defendants intentionally discriminated and retaliated against Plaintiff because of
+
+his disability, including his record thereof and Defendants’ perception of him as a disabled
+
+person, and his requests for reasonable accommodations.
+
+        63.      Defendants violated the ADA by failing to provide Plaintiff with reasonable
+
+accommodations in connection with his disability.
+
+        64.      Defendants acted with malice and/or reckless indifference toward the federally
+
+protected rights of Plaintiff and its conduct warrants the imposition of punitive damages.
+
+        65.      As a direct and proximate result of Defendants’ violation of the ADA, including
+
+terminating Plaintiff’s employment and failing to provide him with reasonable accommodations,
+
+Plaintiff has suffered the damages and losses set forth herein.
+
+        66.      Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        67.      No previous application has been made for the relief requested herein.
+
+                                          COUNT II
+                           Pennsylvania Human Relations Act (PHRA)
+
+
+                                                  9
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 13 of 27
+
+
+
+
+        68.     Plaintiff incorporates by reference the foregoing paragraphs of this Complaint, as
+
+if fully set forth herein.
+
+        69.     Defendants have violated the PHRA by committing the foregoing acts of
+
+discrimination and retaliation.
+
+        70.     Defendants intentionally discriminated and retaliated against Plaintiff because of
+
+his disability, including his record thereof and Defendants’ perception of him as a disabled
+
+person, and his requests for reasonable accommodations.
+
+        71.     Defendants violated the PHRA by failing to provide Plaintiff with reasonable
+
+accommodations in connection with his disability.
+
+        72.     As a direct and proximate result of Defendants’ violations of the PHRA, including
+
+terminating Plaintiff’s employment and failing to provide him with reasonable accommodations,
+
+Plaintiff has suffered the damages and losses set forth herein.
+
+        73.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        74.     No previous application has been made for the relief requested herein.
+
+                                            COUNT III
+                             Philadelphia Fair Practices Ordinance (PFPO)
+
+        75.     Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        76.     Defendants have violated the PFPO by committing the foregoing acts of
+
+discrimination and retaliation.
+
+
+
+
+                                                 10
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 14 of 27
+
+
+
+
+        77.     Defendants intentionally discriminated and retaliated against Plaintiff because of
+
+his disability, including his record thereof and Defendants’ perception of him as a disabled
+
+person, and his requests for reasonable accommodations.
+
+        78.     Defendants violated the PFPO by failing to provide Plaintiff with reasonable
+
+accommodations in connection with his disability.
+
+        79.     Defendants acted with malice and/or reckless indifference toward the federally
+
+protected rights of Plaintiff and its conduct warrants the imposition of punitive damages.
+
+        80.     As a direct and proximate result of Defendants’ violation of the PFPO, including
+
+terminating Plaintiff’s employment and failing to provide him with reasonable accommodations,
+
+Plaintiff has suffered the damages and losses set forth herein.
+
+        81.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        No previous application has been made for the relief requested herein.
+
+                                         COUNT IV
+                               Fair Labor Standards Act (FLSA)
+
+        82.     Plaintiff incorporates by reference the foregoing paragraphs of this Complaint, as
+
+if fully set forth herein.
+
+        83.     Defendants have violated the FLSA by committing the foregoing acts of
+
+retaliation.
+
+        84.     Defendants intentionally retaliated against Plaintiff because of his complaint that
+
+staff members were working compensable overtime hours, but were not clocking-in for the same
+
+out of fear of being penalized for working overtime.
+
+
+
+                                                 11
+          Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 15 of 27
+
+
+
+
+        85.     Defendants’ violation of the FLSA was not carried out in good faith, and
+
+Defendants did not have reasonable grounds to believe that the foregoing acts of retaliation were
+
+not in violation of the FLSA. Defendants’ violations of the FLSA accordingly warrant the
+
+imposition of liquidated damages.
+
+        86.     As a direct and proximate result of Defendants’ violation of the FLSA, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+        87.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ retaliatory acts unless and until this Court grants
+
+the relief requested herein.
+
+        88.     No previous application has been made for the relief requested herein.
+
+                                           COUNT V
+                               Family and Medical Leave Act (FMLA)
+
+        89.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        90.     At all relevant times, Defendants employed more than fifty (50) people within a
+
+seventy-five (75) mile radius of Plaintiff’s workplace.
+
+        91.     Plaintiff had worked for Defendants for at least 1,250 hours in the twelve months
+
+period preceding his need for medical leave in 2019.
+
+        92.     Plaintiff’s 2019 cancer diagnosis qualified as a “serious health condition” within
+
+the meaning of the FMLA.
+
+        93.     At the time of Plaintiff’s termination, Plaintiff was eligible for leave under the
+
+FMLA.
+
+        94.     At all relevant times, Defendants were subject to the requirements of the FMLA.
+
+
+
+
+                                                12
+             Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 16 of 27
+
+
+
+
+        95.      By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, including terminating his employment, Defendants violated the FMLA.
+
+        96.      Plaintiff’s exercise of his FMLA rights was considered as a negative factor, and
+
+was a motivating and determinative factor in Defendants’ conduct towards Plaintiff, including
+
+terminating his employment.
+
+        97.      Said violations were not in good faith, and Defendants did not have reasonable
+
+grounds to believe that the foregoing acts were not in violation of the FMLA. Defendants’
+
+violations of the FMLA warrant the imposition of liquidated damages.
+
+        98.      Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory, retaliatory, and unlawful acts unless
+
+and until the Court grants the relief requested herein.
+
+        99.      No previous application has been made for the relief requested herein
+
+                                             RELIEF
+
+        WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in his favor
+
+and against Defendants:
+
+        a)       declaring the acts and practices complained of herein to be in violation of the
+
+ADA;
+
+        b)       declaring the acts and practices complained of herein to be in violation of the
+
+PHRA;
+
+        c)       declaring the acts and practices complained of herein to be in violation of the
+
+PFPO;
+
+        d)       declaring the acts and practices complained of herein to be in violation of the
+
+FLSA;
+
+
+                                                 13
+             Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 17 of 27
+
+
+
+
+        e)       declaring the acts and practice complained of herein to be in violate of the FMLA;
+
+        f)       enjoining and restraining permanently the violations alleged herein;
+
+        g)       awarding damages to Plaintiff for the past and future economic losses that he has
+
+suffered;
+
+        h)       awarding compensatory damages to Plaintiff for past and future emotional upset,
+
+mental anguish, humiliation, loss of life’s pleasures, and pain and suffering;
+
+        i)       awarding punitive damages to Plaintiff;
+
+        j)       awarding liquidated damages to Plaintiff pursuant to the FLSA and FMLA.
+
+        k)       awarding Plaintiff the costs of this action, together with reasonable attorney’s
+
+fees;
+
+        l)       granting such other and further relief as this Court deems appropriate.
+
+
+
+                                               CONSOLE MATTIACCI LAW, LLC
+
+
+
+Dated: April 13, 2022                  BY:     ____________________________
+                                               Daniel S. Orlow, Esq.
+                                               1525 Locust Street, 9th Floor
+                                               Philadelphia, PA 19102
+                                               (215) 545-7676
+                                               Attorneys for Plaintiff, Paul Ferruzzi
+
+
+
+
+                                                  14
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 18 of 27
+
+
+
+
+                  Exhibit A
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 19 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 20 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 21 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 22 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 23 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 24 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 25 of 27
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 26 of 27
+
+
+
+
+                  Exhibit B
+Case 2:22-cv-01443-WB Document 1 Filed 04/13/22 Page 27 of 27
+

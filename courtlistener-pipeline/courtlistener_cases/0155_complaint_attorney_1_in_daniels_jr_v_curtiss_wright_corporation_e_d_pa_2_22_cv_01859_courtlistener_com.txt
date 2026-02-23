@@ -1,0 +1,688 @@
+Source URL: https://www.courtlistener.com/docket/63307452/1/daniels-jr-v-curtiss-wright-corporation/
+Title: Complaint (Attorney) – #1 in DANIELS, JR. v. CURTISS-WRIGHT CORPORATION (E.D. Pa., 2:22-cv-01859) – CourtListener.com
+
+JS 44 (Rev. 10/20)           Case 2:22-cv-01859-GEKP
+                                                 CIVILDocument
+                                                       COVER 1SHEET
+                                                                Filed 05/12/22                                                                          Page 1 of 22
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+
+          DEAN F. DANIELS, JR.                                                                              CURTISS-WRIGHT CORPORATION & EST
+                                                                                                            GROUP, INC.
+    (b) County of Residence of First Listed Plaintiff                  Montgomery                             County of Residence of First Listed Defendant              Montgomery
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       Lane J. Schiff , Esquire
+       Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+       Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                           (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                          of Business In This State
+
+    2   U.S. Government                      4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                                     Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                        Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY             625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -            of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability        690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                              830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                              835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                      840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                      LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud              710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending             Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal           720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage              Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage          740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability        751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                            Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS            790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:               791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee               Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                             870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                           or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                       871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                       462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other         465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                 Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+      Proceeding             State Court                                Appellate Court              Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                 (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity): 42
+                                             U.S.C. §12101, et seq. (“ADA”); 43 P.S. §951, et seq. (“PHRA”); 29 U.S.C. §2601, et seq. (“FMLA”)
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff brings this action against his former employer for unlawful discrimination and retaliation.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                              excess of $75,000                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                               DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+May 12, 2022
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                   JUDGE                           MAG. JUDGE
+                         Case 2:22-cv-01859-GEKP
+                                              UNITED Document   1 Filed
+                                                     STATES DISTRICT     05/12/22
+                                                                     COURT                                                            Page 2 of 22
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                        Harleysville, PA 19438
+Address of Plaintiff: ______________________________________________________________________________________________
+                                       2701 Township Line Road, Hatfield, PA 19440
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      5/12/22
+DATE: __________________________________                     __________________________________________                                    314179
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+          Lane J. Schiff, Esquire
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      5/12/22
+DATE:__________________________________                     __________________________________________                                    314179
+                                                                                                                               __________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+      Case 2:22-cv-01859-GEKP                 Document 1   Filed 05/12/22         Page 3 of 22
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                      CASE MANAGEMENT TRACK DESIGNATION FORM
+          DEAN F. DANIELS, JR.                                                CIVIL ACTION
+                                 PLAINTIFF,
+                            v.
+        CURTISS-WRIGHT CORPORATION, et al.
+                                                                              NO.
+                                 DEFENDANTS.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                                     ( )
+(b) Social Security- Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                        ( )
+(c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53.2.             ( )
+(d) Asbestos- Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                                 ( )
+(e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                                    ( )
+(f) Standard Management- Cases that do not fall into any one of the other tracks.                         ( X)
+
+ May 12, 2022
+                                                                        Plaintiff, Dean F. Daniels, Jr.
+Date                                   Attori�                           Attorney for
+   (215) 545-7676                     (215) 565-2859                  schiff@consolelaw.com
+
+
+Telephone                              FAX Number                        E-Mail Address
+
+
+(Civ. 660) 10/02
+       Case 2:22-cv-01859-GEKP            Document 1        Filed 05/12/22   Page 4 of 22
+
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT FOR
+                     THE EASTERN DISTRICT OF PENNSYLVANIA
+
+__________________________________________
+DEAN F. DANIELS, JR.                       :
+Harleysville, PA 19438                     :                    CIVIL ACTION NO.
+                                          :
+                        Plaintiff,        :
+                                          :
+               v.                         :
+                                          :
+CURTISS-WRIGHT CORPORATION                :                     JURY TRIAL DEMANDED
+2701 Township Line Road                   :
+Hatfield, PA 19440                        :
+                                          :
+                        &                 :
+                                          :
+EST GROUP INC                             :
+2701 Township Line Road                   :
+Hatfield, PA 19440                        :
+                                          :
+                        Defendants.       :
+_________________________________________ :
+
+                                 CIVIL ACTION COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Dean F. Daniels, Jr., brings this action against his former employers, Curtiss-
+
+Wright Corporation and EST Group Inc. for unlawful discrimination and retaliation, in violation
+
+of the Americans with Disabilities Act, as amended, 42 U.S.C. §12101, et seq. (“ADA”), the
+
+Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”). Plaintiff
+
+further brings this action pursuant to the Family Medical Leave Act, 29 U.S.C. §2601, et seq.
+
+(“FMLA”) for unlawful discrimination, retaliation, and leave interference. Plaintiff seeks
+
+damages, including back-pay, front-pay, compensatory, punitive, liquidated, costs and attorneys’
+
+fees, and all other relief that this Court deems appropriate.
+       Case 2:22-cv-01859-GEKP             Document 1     Filed 05/12/22        Page 5 of 22
+
+
+
+
+II.     PARTIES
+
+        1.      Plaintiff, Dean F. Daniels, Jr., is an individual and a citizen of the Commonwealth
+
+of Pennsylvania. He resides in Harleysville, Pennsylvania.
+
+        2.      Defendant, Curtiss-Wright Corporation, is corporation maintaining a place of
+
+business located at 2701 Township Line Road, Hatfield, PA 19440.
+
+        3.      Defendant, EST Group, Inc. is a corporation maintaining a place of business
+
+located at 2701 Township Line Road, Hatfield, PA 19440.
+
+        4.      At all times material hereto, Defendants collectively constituted Plaintiff’s
+
+employer under the joint and/or single employer doctrine.          Upon information and belief,
+
+Defendants shared common management, had interrelated operations, and collectively controlled
+
+Plaintiff’s job duties and responsibilities.
+
+        5.      At all times material hereto, Defendants acted by and through their authorized
+
+agents and/or employees acting within the course and scope of their employment with
+
+Defendants and in furtherance of Defendants’ business.
+
+        6.      At all times material hereto, Defendants employed more than fifty (50)
+
+individuals within a seventy-five (75) mile radius of where Plaintiff worked.
+
+        7.      At all times material hereto, Defendants were an employer within the meanings of
+
+the statutes that form the basis of this matter.
+
+        8.      At all times material hereto, Plaintiff was an employee within the meanings of the
+
+statutes that form the basis of this matter.
+
+III.    JURISDICTION AND VENUE
+
+        9.      The causes of action that form the basis of this matter arise under the ADA,
+
+FMLA, and PHRA.
+
+
+
+                                                   2
+      Case 2:22-cv-01859-GEKP             Document 1      Filed 05/12/22      Page 6 of 22
+
+
+
+
+          10.   The District Court has jurisdiction over Count I (ADA) and Count II (FMLA)
+
+pursuant to 28 U.S.C. §1331.
+
+          11.   The District Court has jurisdiction over Count III (PHRA) pursuant to 28 U.S.C.
+
+§1367.
+
+          12.   Venue is proper in the District Court pursuant to 28 U.S.C. §1391(b).
+
+          13.   On July 30, 2020, Plaintiff filed a Complaint with the Pennsylvania Human
+
+Relations Commission (“PHRC”), cross-filed with the Equal Employment Opportunity
+
+Commission (“EEOC”). Attached hereto, incorporated herein, and marked as Exhibit “A” is a
+
+true and correct copy of the Complaint.
+
+          14.   On March 4, 2022, the EEOC issued to Plaintiff a Notice of Right to Sue
+
+regarding his PHRC Complaint. Attached hereto and marked as Exhibit “B” is a true and correct
+
+copy of this notice (with minor redactions for purposes of electronic filing of
+
+confidential/identifying information).
+
+          15.   Plaintiff is filing this complaint within ninety (90) days from his receipt of this
+
+notice.
+
+          16.   Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.       FACTUAL ALLEGATIONS
+
+          17.   Plaintiff was employed by Defendants from in or about August 2014 until on or
+
+about July 7, 2020.
+
+          18.   Plaintiff consistently performed his job duties in a highly competent manner and
+
+received positive feedback.
+
+          19.   Plaintiff last held the position of Supply Chain Manager.
+
+
+
+                                                 3
+       Case 2:22-cv-01859-GEKP            Document 1        Filed 05/12/22      Page 7 of 22
+
+
+
+
+       20.     Plaintiff reported to Alex Kotlyar, Director, Engineering and Operations. Kotylar
+
+reported to Jim Berneski, General Manager.
+
+       21.     In or about February 2020, Plaintiff received a positive performance review and a
+
+merit salary increase. Plaintiff additionally received an above-target bonus.
+
+       22.     In or about mid-February 2020, Defendants expanded Plaintiff’s job duties, his
+
+responsibilities, and the number of his direct reports.
+
+       23.     On or about April 8, 2020, Plaintiff was diagnosed with Major Depression
+
+Disorder, in addition to his prior Generalized Anxiety Disorder diagnosis.
+
+       24.     These medical conditions are disabilities under the ADA and PHRA in that they
+
+substantially impair one (1) or more of Plaintiff’s major life activities.
+
+       25.     On or about April 14, 2020, Plaintiff commenced a medically necessary leave of
+
+absence pursuant to the FMLA due to his disabilities. Defendants had knowledge of the same.
+
+       26.     Plaintiff’s FMLA leave was a reasonable accommodation for his disabilities.
+
+       27.     On or about May 8, 2020, while Plaintiff was out on FMLA leave, Danielle
+
+Dixon, Berneski’s Administrative Assistant, informed Plaintiff that Berneski still wanted
+
+Plaintiff to send his updated monthly report within two (2) hours and Berneski did not care why
+
+Plaintiff was out of the office. Plaintiff responded that he was on FMLA leave. She apologized
+
+for the phone call and stated that she would speak with Berneski.
+
+       28.     In or about early July 2020, Sabina Shewell, Purchasing Supervisor, commented
+
+to Plaintiff regarding his medically necessary FMLA leave that not everyone was lucky enough
+
+to have twelve (12) weeks off to catch up on their chores around the house.
+
+       29.     On or about July 7, 2020, Plaintiff returned from his FMLA leave.
+
+
+
+                                                  4
+       Case 2:22-cv-01859-GEKP             Document 1        Filed 05/12/22     Page 8 of 22
+
+
+
+
+        30.     That same day, Defendants terminated Plaintiff’s employment, effective
+
+immediately.
+
+        31.     During the termination meeting, Plaintiff stated that he believed his job was
+
+protected under FMLA. Defendants responded that Plaintiff’s position had been eliminated due
+
+to efficiencies and that Plaintiff should not take it personally.
+
+        32.     Defendants’ articulated reason for Plaintiff’s termination is a pretext.
+
+        33.     Plaintiff was the only employee reporting to Kotlyar who was terminated on July
+
+7, 2020.
+
+        34.     Defendants assigned Plaintiff’s job duties to Shewell, who was previously
+
+Plaintiff’s direct report.
+
+        35.     To Plaintiff’s knowledge, Shewell was not disabled, had not taken medical leave,
+
+and had not requested a reasonable accommodation for a medical condition.
+
+        36.     Plaintiff was more qualified and experienced than Shewell.
+
+        37.     Plaintiff’s actual and/or perceived disabilities and/or record of impairment were a
+
+motivating and/or determinative factor in Defendants’ decision to terminate Plaintiff’s
+
+employment.
+
+        38.     Plaintiff’s request for a reasonable accommodation for his disabilities was a
+
+motivating and/or determinative factor in Defendants’ decision to terminate his employment.
+
+        39.     By terminating Plaintiff’s employment after he returned from FMLA leave,
+
+Defendants interfered with Plaintiff’s right to protected leave under the FMLA.
+
+        40.     By terminating Plaintiff’s employment after he took FMLA leave, Defendants
+
+discriminated and retaliated against Plaintiff for invoking his rights under the FMLA.
+
+
+
+
+                                                   5
+       Case 2:22-cv-01859-GEKP            Document 1       Filed 05/12/22     Page 9 of 22
+
+
+
+
+        41.     Plaintiff’s invocation of his rights under the FMLA was a motivating and/or
+
+determinative factor in Defendants’ decision to terminate his employment.
+
+        42.     Defendants’ violations of the FMLA were willful.
+
+        43.     As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendants, Plaintiff has in the past incurred and may in the future incur a loss of earnings and/or
+
+earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-
+
+esteem, mental anguish, and loss of life’s pleasures.
+
+        44.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+                                         COUNT I – ADA
+
+        45.     Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+        46.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants violated the ADA.
+
+        47.     Defendants acted with malice or a reckless indifference to Plaintiff’s rights,
+
+thereby warranting the imposition of punitive damages.
+
+        48.     As a direct and proximate result of Defendants’ violation of the ADA, Plaintiff
+
+has suffered the injuries, damages, and losses set forth herein.
+
+        49.     Plaintiff has incurred and is entitled to reasonable costs and attorneys’ fees
+
+incurred as a result of the unlawful behavior complained of herein.
+
+        50.     No previous application has been made for the relief requested herein.
+
+
+
+
+                                                 6
+      Case 2:22-cv-01859-GEKP              Document 1      Filed 05/12/22      Page 10 of 22
+
+
+
+
+                                         COUNT II – FMLA
+
+        51.       Plaintiff incorporates by reference the paragraphs above, as if set forth herein in
+
+their entirety.
+
+        52.       By committing the foregoing acts against Plaintiff, Defendants violated the
+
+FMLA.
+
+        53.       By terminating Plaintiff after he used protected leave and/or requested protected
+
+leave, Defendants discriminated and retaliated against Plaintiff and violated the FMLA.
+
+        54.       By terminating Plaintiff’s employment upon his return from FMLA leave,
+
+Defendants interfered with Plaintiff’s ability to use protected leave under the FMLA.
+
+        55.       Said violations were willful.
+
+        56.       The imposition of liquidated damages is warranted.
+
+        57.       As a direct and proximate result of Defendants’ violations of the FMLA, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+        58.       Plaintiff has incurred and is entitled to reasonable costs and attorneys’ fees
+
+incurred as a result of the unlawful behavior complained of herein.
+
+        59.       No previous application has been made for the relief requested herein.
+
+                                         COUNT III – PHRA
+
+        60.       Plaintiff incorporates by reference the paragraphs above, as if set forth herein in
+
+their entirety.
+
+        61.       By discriminating and retaliating against Plaintiff, Defendants violated the PHRA.
+
+        62.       As a direct and proximate result of Defendants’ violation of the PHRA,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein.
+
+
+
+
+                                                   7
+      Case 2:22-cv-01859-GEKP           Document 1       Filed 05/12/22      Page 11 of 22
+
+
+
+
+        63.     Plaintiff has incurred and is entitled to reasonable costs and attorneys’ fees
+
+incurred as a result of the unlawful behavior complained of herein.
+
+        64.     No previous application has been made for the relief requested herein.
+
+                                                RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendants’ improper conduct, and specifically prays that the Court grant the following relief to
+
+Plaintiff by:
+
+        a.      declaring the acts and practices complained of herein to be in violation of the
+
+ADA;
+
+        b.      declaring the acts and practices complained of herein to be in violation of the
+
+FMLA;
+
+        c.      declaring the acts and practices complained of herein to be in violation of the
+
+PHRA;
+
+        d.      enjoining and restraining permanently the violations alleged herein;
+
+        e.      awarding Plaintiff back-pay;
+
+        f.      awarding Plaintiff front-pay;
+
+        g.      awarding interest;
+
+        h.      awarding compensatory damages to Plaintiff for past and future pain and
+
+suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which
+
+Plaintiff has suffered or may suffer as a result of Defendants’ improper conduct;
+
+        i.      awarding liquidated damages;
+
+        j.      awarding punitive damages;
+
+
+
+
+                                                  8
+        Case 2:22-cv-01859-GEKP        Document 1       Filed 05/12/22      Page 12 of 22
+
+
+
+
+         k.   awarding Plaintiff the costs of this action, together with reasonable attorneys’
+
+fees;
+
+         l.   awarding Plaintiff such other damages as are appropriate under the ADA, FMLA,
+
+and PHRA; and
+
+         m.   granting such other and further relief as this Court deems appropriate.
+
+
+
+                                            CONSOLE MATTIACCI LAW, LLC
+
+
+
+ Date: May 12, 2022                 By:     _________________________
+                                            STEPHEN G. CONSOLE
+                                            LANE J. SCHIFF
+                                            1525 Locust Street
+                                            Philadelphia, PA 19102
+                                            (215) 545-7676
+                                            (215) 565-2859 (fax)
+
+                                            Attorneys for Plaintiff,
+                                            Dean F. Daniels, Jr.
+
+
+
+
+                                               9
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 13 of 22
+
+
+
+
+    EXHIBIT A
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 14 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 15 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 16 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 17 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 18 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 19 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 20 of 22
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 21 of 22
+
+
+
+
+    EXHIBIT B
+Case 2:22-cv-01859-GEKP   Document 1   Filed 05/12/22   Page 22 of 22
+

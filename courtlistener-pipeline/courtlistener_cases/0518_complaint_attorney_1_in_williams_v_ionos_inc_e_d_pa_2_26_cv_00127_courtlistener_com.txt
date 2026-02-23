@@ -1,0 +1,483 @@
+Source URL: https://www.courtlistener.com/docket/72123176/1/williams-v-ionos-inc/
+Title: Complaint (Attorney) – #1 in Williams v. IONOS Inc. (E.D. Pa., 2:26-cv-00127) – CourtListener.com
+
+          Case 2:26-cv-00127-TJS                 Document 1          Filed 01/08/26         Page 1 of 9
+
+
+
+
+                           IN THE UNITED STATES DISTRICT COURT
+                        FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+ROBERT WILLIAMS,                             :
+          Plaintiff,                         :         CIVIL ACTION NO.
+                                             :
+                  vs.                        :
+                                             :
+                                             :
+IONOS, INC.                                  :         JURY TRIAL DEMANDED
+f/k/a 1&1 INTERNET, INC.                     :
+             Defendant.                      :
+
+                                                 COMPLAINT
+
+I.       PRELIMINARY STATEMENT:
+
+         1.       Plaintiff, Robert Williams, brings this action for disability discrimination, failure
+
+to accommodate, and retaliation in violation of the Pennsylvania Human Relations Act
+
+(“PHRA”), 43 P.S. §951 et seq.1; interference and retaliation in violation of the Family and
+
+Medical Leave Act (“FMLA”), 29 U.S.C. §2601 et seq.
+
+         2.       This action arises from Defendant’s termination of Plaintiff’s employment on or
+
+about January 11, 2023, while Plaintiff was out due to a disabling condition, seeking medical
+
+care, and attempting to utilize medical leave.
+
+         3.       Plaintiff asserts claims under the Family and Medical Leave Act (“FMLA”), 29
+
+U.S.C. § 2601 et seq., for interference with FMLA rights and retaliation for attempting to
+
+exercise those rights.
+
+         4.       Plaintiff also asserts claims under the Pennsylvania Human Relations Act
+
+(“PHRA”), 43 P.S. § 951 et seq., for disability discrimination (including failure to accommodate
+
+and failure to engage in the interactive process) and retaliation.
+
+
+1 Plaintiff has requested a Right to Sue for claims arising under the Americans with Disabilities Act and is awaiting
+
+for the same but intends to amend the Complaint once the EEOC issues a Right to Sue.
+
+
+                                                          1
+             Case 2:26-cv-00127-TJS         Document 1       Filed 01/08/26       Page 2 of 9
+
+
+
+
+II.         JURISDICTION AND VENUE:
+
+            5.    This Court has federal question jurisdiction under 28 U.S.C. §1331 (FMLA) and
+
+supplemental jurisdiction under 28 U.S.C. §1367 (PHRA).
+
+            6.    Venue is proper under 28 U.S.C. § 1391(b) because the unlawful employment
+
+practices occurred in this judicial district and Defendant conducts substantial business in this
+
+district.
+
+            7.    Plaintiff has exhausted all administrative remedies. Specifically, Plaintiff filed a
+
+dual-filed charge with the PHRC and EEOC on June 26, 2023. More than one year has elapsed
+
+since that filing, and Plaintiff is permitted to pursue PHRA claims in court. Plaintiff’s FMLA
+
+claims do not require administrative exhaustion
+
+III.        PARTIES:
+
+            8.    Plaintiff Robert Williams is an adult individual who resides in or near Thorndale,
+
+Pennsylvania (Chester County).
+
+            9.    Defendant IONOS, Inc. f/k/a 1&1 Internet, Inc. is a business entity that does
+
+business in Pennsylvania, including within this District, and is an “employer” within the
+
+meaning of the FMLA and PHRA.
+
+            10.   On information and belief, Defendant’s address includes 2 Logan Square, 100 N.
+
+18th Street, Suite 400, Philadelphia, PA 19103.
+
+IV.         FACTUAL ALLEGATIONS COMMON TO CLAIMS:
+
+            11.   Plaintiff began working for Defendant on or about January 27, 2020.
+
+            12.   Plaintiff performed his job duties satisfactorily and met Defendant’s legitimate
+
+expectations.
+
+
+
+
+                                                    2
+        Case 2:26-cv-00127-TJS           Document 1       Filed 01/08/26      Page 3 of 9
+
+
+
+
+       13.     Plaintiff worked at Defendant’s Chesterbrook, Pennsylvania location and
+
+reported to Joe Costanza (supervisor/manager).
+
+       14.     On or about December 24, 2022, Plaintiff became seriously ill and disabled. His
+
+symptoms included, among other things, viral symptoms, fever, nausea, headache, and
+
+neurological complications, and he was bedridden and unable to work.
+
+       15.     Plaintiff promptly notified Defendant of his illness and inability to work.
+
+Specifically, Plaintiff notified his supervisor Joe Costanza of his illness on or about December
+
+24, 2022.
+
+       16.     Plaintiff followed up again on or about December 27, 2022, advising that he was
+
+still not feeling well and unable to work.
+
+       17.     Plaintiff continued to communicate about his illness and attempts to obtain
+
+medical care during the relevant period, including by email communications to Defendant’s
+
+management and Human Resources.
+
+       18.     On or about January 2, 2023, Defendant’s Human Resources representative,
+
+Karin Bright, emailed Plaintiff regarding his absences.
+
+       19.     In that email, Ms. Bright informed Plaintiff, among other things, that he would
+
+need a doctor’s note in order to be paid for his time off, but did not provide a deadline to submit
+
+any doctor’s note.
+
+       20.     Ms. Bright also informed Plaintiff that he was eligible for FMLA and provided a
+
+link and instructions to apply for FMLA, but did not provide a deadline to apply for FMLA or
+
+submit any FMLA paperwork.
+
+       21.     Plaintiff responded on or about January 3, 2023, reiterating that he had been
+
+communicating about his illness and indicating that he would attempt to obtain a doctor’s note.
+
+
+
+                                                 3
+           Case 2:26-cv-00127-TJS        Document 1       Filed 01/08/26     Page 4 of 9
+
+
+
+
+          22.   On or about January 6, 2023, Plaintiff informed Ms. Bright that he had a doctor’s
+
+appointment scheduled for January 9, 2023.
+
+          23.   Ms. Bright responded, asked Plaintiff to clarify that he would not be working
+
+until then, and stated that Plaintiff would be required to apply for FMLA, again without
+
+providing any deadline for the application or for submission of medical documentation.
+
+          24.   On or about January 10, 2023, Plaintiff informed Ms. Bright that his doctor could
+
+not see him until January 11, 2023.
+
+          25.   Plaintiff attended the medical appointment on January 11, 2023, and obtained
+
+medical documentation relating to that visit.
+
+          26.   Plaintiff then learned that Defendant had terminated his employment on or about
+
+January 11, 2023, asserting that Plaintiff had “abandoned” his job and/or had violated a “job
+
+abandonment” policy.
+
+          27.   Defendant’s termination rationale was false and/or pretextual because Plaintiff
+
+did not “abandon” his employment; he had repeatedly notified Defendant of his illness and
+
+inability to work and kept Defendant reasonably informed about his medical appointment
+
+timing.
+
+          28.   Defendant terminated Plaintiff while Plaintiff was out on medical leave and
+
+while Defendant had already acknowledged that Plaintiff was eligible for FMLA and needed
+
+medical documentation, yet Defendant did not provide Plaintiff a reasonable or defined
+
+timeframe to complete the process before taking adverse action.
+
+          29.   Defendant also failed to engage in a good-faith interactive process to determine
+
+whether Plaintiff required a reasonable accommodation (including a brief period of medical
+
+leave) and/or whether other accommodations were available short of termination.
+
+
+
+                                                 4
+           Case 2:26-cv-00127-TJS         Document 1        Filed 01/08/26      Page 5 of 9
+
+
+
+
+          30.   On or about June 26, 2023, Plaintiff (through counsel) filed a dual-filed charge
+
+with the Pennsylvania Human Relations Commission (“PHRC”) and the EEOC alleging
+
+disability discrimination and retaliation arising from Defendant’s actions.
+
+          31.   More than one year has passed since that filing, and Plaintiff is permitted to
+
+pursue PHRA claims in court.
+
+          32.   As a result of Defendant’s conduct, Plaintiff has suffered and continues to suffer
+
+loss of wages and benefits, emotional distress/humiliation, and other consequential damages.
+
+          33.   Plaintiff has incurred attorneys’ fees and costs.
+
+                COUNT I: FMLA INTERFERENCE (29 U.S.C. § 2615(a)(1))
+
+          34.   Plaintiff incorporates paragraphs 1 to 33 as if fully set forth herein.
+
+          35.   Defendant was an employer covered by the FMLA.
+
+          36.   Plaintiff was an eligible employee under the FMLA. Upon information and
+
+belief, Plaintiff worked sufficient hours, met the tenure requirements, and worked at or reported
+
+to a location where Defendant employed the requisite number of employees within the statutory
+
+radius.
+
+          37.   Plaintiff suffered from a “serious health condition” within the meaning of the
+
+FMLA that rendered him unable to perform the functions of his position.
+
+          38.   Plaintiff provided Defendant sufficient notice that he needed time off for a
+
+potentially FMLA-qualifying reason. Indeed, Defendant’s HR representative expressly
+
+informed Plaintiff he was FMLA-eligible and provided him instructions to apply.
+
+          39.   Defendant interfered with, restrained, and denied Plaintiff’s exercise of FMLA
+
+rights by, among other things, terminating him and treating his medically necessitated absence
+
+
+
+
+                                                   5
+         Case 2:26-cv-00127-TJS           Document 1       Filed 01/08/26      Page 6 of 9
+
+
+
+
+as “job abandonment,” instead of providing FMLA leave and/or allowing a reasonable
+
+opportunity to complete the leave/certification process.
+
+       40.     Defendant’s violation was willful in that Defendant knew (or recklessly
+
+disregarded) that Plaintiff’s leave was potentially FMLA-qualifying, having informed him of
+
+FMLA eligibility, yet terminated him anyway while he was out sick and before providing a
+
+defined or reasonable timeframe for required paperwork.
+
+       41.     As a direct and proximate result, Plaintiff suffered damages including lost
+
+compensation and benefits.
+
+WHEREFORE, Plaintiff demands judgment in his favor and against Defendant for all available
+
+relief under the FMLA, including back pay, benefits, interest, liquidated damages, equitable
+
+relief as appropriate, attorneys’ fees, and costs.
+
+    COUNT II: FMLA RETALIATION/DISCRIMINATION (29 U.S.C. § 2615(a)(2))
+
+       42.     Plaintiff incorporates paragraphs 1 to 41 as if fully set forth herein.
+
+       43.     Plaintiff engaged in protected activity by requesting and/or attempting to take
+
+leave for a serious health condition, providing notice of the need for leave, and pursuing FMLA
+
+leave as directed by Defendant.
+
+       44.     Defendant took materially adverse action against Plaintiff, including terminating
+
+his employment on or about January 11, 2023.
+
+       45.     Defendant’s decision was causally connected to Plaintiff’s protected activity,
+
+including by close temporal proximity and Defendant’s knowledge of Plaintiff’s medical
+
+condition and anticipated leave.
+
+       46.     Defendant’s violation was willful.
+
+       47.     Plaintiff suffered damages as a direct and proximate result.
+
+
+
+                                                     6
+         Case 2:26-cv-00127-TJS           Document 1       Filed 01/08/26      Page 7 of 9
+
+
+
+
+WHEREFORE, Plaintiff demands judgment in his favor and against Defendant for all available
+
+relief under the FMLA, including back pay, benefits, interest, liquidated damages, equitable
+
+relief as appropriate, attorneys’ fees, and costs.
+
+  COUNT III: PHRA DISABILITY DISCRIMINATION (INCLUDING FAILURE TO
+
+             ACCOMMODATE / INTERACTIVE PROCESS) (43 P.S. § 955(a))
+
+       48.     Plaintiff incorporates paragraphs 1 to 47 as if fully set forth herein.
+
+       49.     Defendant is an “employer” under the PHRA.
+
+       50.     Plaintiff is a protected individual under the PHRA because Plaintiff had an actual
+
+disability/handicap (including neurological dysfunction and related symptoms) that substantially
+
+limited one or more major life activities when active; and/or Plaintiff had a record of such an
+
+impairment; and/or Defendant regarded Plaintiff as having such an impairment.
+
+       51.     Plaintiff was qualified to perform the essential functions of his job, with or
+
+without reasonable accommodation.
+
+       52.     A reasonable accommodation available to Defendant included, at minimum, a
+
+brief period of medical leave and/or flexibility while Plaintiff obtained medical care and
+
+documentation (which Defendant itself requested and anticipated), rather than termination.
+
+       53.     Defendant had notice of Plaintiff’s medical condition and need for time off,
+
+including through Plaintiff’s communications, and through HR’s confirmation that Plaintiff was
+
+eligible for FMLA and direction to apply.
+
+       54.     Defendant failed to engage in a good-faith interactive process to determine
+
+appropriate accommodations.
+
+
+
+
+                                                     7
+         Case 2:26-cv-00127-TJS           Document 1       Filed 01/08/26       Page 8 of 9
+
+
+
+
+       55.     Instead, Defendant terminated Plaintiff on or about January 11, 2023 and treated
+
+his absence as “job abandonment,” despite Plaintiff’s ongoing communications and his pursuit
+
+of medical care.
+
+       56.     Defendant’s actions constituted unlawful discrimination under the PHRA,
+
+including adverse employment action on the basis of disability and/or perceived disability and
+
+failure to accommodate.
+
+WHEREFORE, Plaintiff demands judgment in his favor and against Defendant for all available
+
+relief under the PHRA, including back pay, front pay and/or reinstatement as appropriate,
+
+compensation for humiliation/embarrassment and other non-economic damages permitted by
+
+law, interest, attorneys’ fees, costs, and such other relief as the Court deems just.
+
+                     COUNT IV: PHRA RETALIATION (43 P.S. § 955(d))
+
+       57.     Plaintiff incorporates paragraphs 1 to 56 as if fully set forth herein.
+
+       58.     Plaintiff engaged in protected activity under the PHRA by opposing disability
+
+discrimination and by requesting and/or attempting to obtain leave or accommodation for a
+
+medical condition.
+
+       59.     Defendant took materially adverse action against Plaintiff, including termination.
+
+       60.     There is a causal connection between Plaintiff’s protected activity and
+
+Defendant’s adverse actions, including temporal proximity and Defendant’s knowledge of
+
+Plaintiff’s condition and request/need for leave/accommodation.
+
+       61.     Plaintiff suffered damages as a direct and proximate result.
+
+WHEREFORE, Plaintiff demands judgment in his favor and against Defendant for all available
+
+relief under the PHRA, including back pay, front pay and/or reinstatement as appropriate,
+
+
+
+
+                                                  8
+         Case 2:26-cv-00127-TJS           Document 1          Filed 01/08/26    Page 9 of 9
+
+
+
+
+compensation for humiliation/embarrassment and other non-economic damages permitted by
+
+law, interest, attorneys’ fees, costs, and such other relief as the Court deems just.
+
+        WHEREFORE, Plaintiff respectfully requests that the Court enter judgment in his favor
+
+and against Defendant and award:
+
+        A.      Back pay, lost benefits, and other compensation;
+
+        B.      Liquidated damages under the FMLA (and any other statutory relief available);
+
+        C.      Pre-judgment and post-judgment interest;
+
+        D.      Equitable relief including reinstatement and/or front pay, as appropriate;
+
+        E.      Compensatory damages as available under the PHRA, including for
+
+humiliation/embarrassment and emotional distress;
+
+        F.      Reasonable attorneys’ fees and costs; and
+
+        G.      Such other relief as the Court deems just and proper.
+
+JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable.
+
+                                                Respectfully Submitted,
+
+
+
+                                                HENNESSY LAW
+
+                                                /s/Brendan D. Hennessy, Esq.
+                                                __________________________________
+Date: January 8, 2026                           BRENDAN D. HENNESSY, ESQUIRE
+                                                I.D. NO.: 91831
+                                                101 Lindenwood Drive, Suite 225
+                                                Malvern, PA 19355
+                                                Phone: 484-875-3111
+                                                Bhennessy@Hennessylawfirm.com
+
+
+
+
+                                                   9
+

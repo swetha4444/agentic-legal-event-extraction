@@ -1,0 +1,1394 @@
+Source URL: https://www.courtlistener.com/docket/60362892/1/driscoll-v-qurate-retail-inc/
+Title: Complaint (Attorney) – #1 in DRISCOLL v. QURATE RETAIL, INC. (E.D. Pa., 2:21-cv-03965) – CourtListener.com
+
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 1 of 37
+
+
+
+
+                  29 U.S.C. §2601, et seq.
+JS 44 Reverse (Rev 10/20)    Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 2 of 37
+                    INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)   Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+        only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+        the official, giving both name and title.
+  (b)   County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+        time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+        condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)   Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+        in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statue.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 3 of 37
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 4 of 37
+
+
+
+
+ 12300 Liberty Boulevard Englewood, Colorado 80112
+            Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 5 of 37
+
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT FOR
+                     THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+RACHELLE DRISCOLL,
+Wilmington, North Carolina 28412                CIVIL ACTION NO.
+
+                      Plaintiff,
+       v.
+
+QURATE RETAIL, INC.,
+12300 Liberty Boulevard                         JURY TRIAL DEMANDED
+Englewood, Colorado 80112
+
+and
+
+QVC, INC.,
+1200 Wilson Drive
+West Chester, Pennsylvania 19380
+
+
+                      Defendants.
+
+
+
+                                         COMPLAINT
+  I.   INTRODUCTION
+       Plaintiff, Rachelle Driscoll (“Plaintiff”), an experienced television professional who
+
+suffers from the inflammatory disease and disability of Endometriosis, was terminated by
+
+Defendants, Qurate Retail, Inc. and QVC, Inc. (collectively “Defendants”), because of her
+
+Endometriosis and shortly after she sought medical treatment and required medical leave. Prior
+
+to notifying Defendants that she required medical leave and treatment for her disability, Plaintiff
+
+had never been told that her position as an on-air, Program Host was in jeopardy. In fact,
+
+Plaintiff had been selected to serve as a Program Host by Defendants after a highly competitive
+
+selection process and successful completion of a training, or “probationary,” period. Yet, when
+
+Plaintiff disclosed her need for treatment, Defendants took steps to minimize her visibility by
+
+
+                                                1
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 6 of 37
+
+
+
+
+assigning her less on-air time or by assigning her to on-air hours with minimal viewers,
+
+subjecting her to unwarranted criticism, and ultimately terminating her employment. Defendants
+
+retained Program Hosts who performed in a lesser or similar manner than Plaintiff but who had
+
+not disclosed disabilities or required medical leave. Plaintiff now brings claims pursuant to the
+
+Americans with Disabilities Act, as amended, 42 U.S.C. §12101, et seq. (“ADA”), the Family
+
+Medical Leave Act, 29 U.S.C. §2601, et seq. (“FMLA”), the Pennsylvania Human Relations Act,
+
+as amended, 43 P.S. § 951, et seq. (“PHRA”), and the Philadelphia Fair Practices Ordinance,
+
+Phila. Code § 9-1101, et seq. (“PFPO”).
+
+  II.   PARTIES
+
+         1.       Plaintiff is an individual and citizen of North Carolina. She resides in
+
+Wilmington, North Carolina.
+
+         2.       Defendant Qurate Retail, Inc. is a Delaware corporation with a principal place of
+
+business located at 12300 Liberty Boulevard, Englewood, Colorado 80112.
+
+         3.       Defendant QVC, Inc. is a wholly owned, consolidated subsidiary of Defendant
+
+Qurate Retail, Inc.
+
+         4.       Defendant QVC, Inc. is a Delaware corporation with a principal place of business
+
+located at 1200 Wilson Drive, West Chester, PA 19380.
+
+         5.       Defendants are engaged in an industry affecting interstate commerce and
+
+regularly do business in the Commonwealth of Pennsylvania, including without limitation, within
+
+and throughout the City of Philadelphia.
+
+         6.       At all times material hereto, Plaintiff worked for Defendants out of the West
+
+Chester office.
+
+
+
+
+                                                  2
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 7 of 37
+
+
+
+
+         7.     At all times material hereto, Defendants employed more than fifty (50) employees
+
+within a seventy-five (75) mile radius of Plaintiff’s work location.
+
+         8.     At all times material hereto, Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendants and in furtherance of Defendants’ business.
+
+         9.     At all times material hereto, Defendants were employers within the meaning of
+
+the statutes which form the basis of this matter.
+
+         10.    At all times material hereto, Plaintiff was an employee of Defendants within the
+
+meaning of the statutes that form the basis of this matter.
+
+ III.   JURISDICTION AND VENUE
+
+         11.    The causes of action which form the basis of this matter arise under the ADA, the
+
+FMLA, the PHRA, and the PFPO.
+
+         12.    The District Court has jurisdiction over Count I (ADA) and Count II (FMLA)
+
+pursuant to 42 U.S.C. §12117(a) and 28 U.S.C. §1331.
+
+         13.    The District Court has jurisdiction over all Counts pursuant to 28 U.S.C. §1332
+
+since the amount in controversy exceeds the sum or value of seventy-five thousand dollars
+
+($75,000), exclusive of interests and costs, and as there is complete diversity of citizenship as
+
+Plaintiff is a citizen of North Carolina and Defendants are citizens of Colorado and Pennsylvania,
+
+respectively.
+
+         14.    Venue is proper in this District Court under 28 U.S.C. §1391(b) because a
+
+substantial part of the events giving rise to these claims occurred within this District.
+
+         15.    On or about April 7, 2020, Plaintiff filed a Complaint with the Pennsylvania
+
+Human Relations Commission (“PHRC”) complaining of the acts of discrimination and
+
+
+
+                                                    3
+             Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 8 of 37
+
+
+
+
+retaliation alleged herein. The Complaint was cross-filed with the Equal Employment
+
+Opportunity Commission (“EEOC”). Attached hereto, incorporated herein, and marked as Exhibit
+
+“1” is a true and correct copy of the PHRC Complaint (with personal identifying information
+
+redacted).
+
+         16.    On or about June 9, 2021, the EEOC issued the Plaintiff a Notice of Right to Sue
+
+for her Complaint. Attached hereto and marked as Exhibit “2” is a true and correct copy of the
+
+Notice (with personal identifying information redacted).
+
+         17.    Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+ IV.    FACTUAL ALLEGATIONS
+
+         18.    Plaintiff was hired by Defendants on or about September 4, 2018, as a Trainee
+
+Program Host for Defendants’ QVC home shopping network and across QVC’s other platforms.
+
+         19.    Plaintiff’s hire followed a highly competitive application, audition, and interview
+
+process. Plaintiff was one of six (6) hosts selected to become Trainees out of approximately
+
+seventeen thousand (17,000) candidates.
+
+         20.    At all times material hereto, Plaintiff suffered from Endometriosis a chronic,
+
+inflammatory disease and disability.
+
+         21.     Endometriosis is a chronic medical condition in which tissue similar to that found
+
+in the lining of the uterus grows outside of the uterus. Endometriosis can result in a myriad of
+
+symptoms including without limitation, debilitating abdominal and leg pain, infertility, extreme
+
+fatigue, bowel and urinary disorders, and nausea and vomiting.
+
+         22.    To the best of her knowledge, Plaintiff was the only disabled Trainee Program
+
+Host out of the six (6) hired in Plaintiff’s “class” of Trainee Program Hosts.
+
+
+
+                                                  4
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 9 of 37
+
+
+
+
+         23.    Trainee and non-Trainee Program Hosts appear on camera during live
+
+programming and are responsible for informing the audience about the attributes and benefits of
+
+each product featured such that viewers are inspired to make purchases, and therefore generate
+
+revenue for Defendants.
+
+         24.    At all times material hereto, Plaintiff performed her job in an exemplary manner,
+
+consistently taking on job duties that were not required of her in order to ensure Defendants’
+
+success. By way of example, and without limitation, this included extensive work with
+
+Defendants’ digital department(s) to coordinate a social media and digital strategy for the
+
+promotion of Defendants’ products.
+
+         25.    As a Trainee Program Host, Plaintiff was given approximately six (6) months to
+
+perform as a Program Host to Defendants’ satisfaction. Successful Trainees would be invited to
+
+remain as Program Hosts, without Trainee designation, for Defendants.
+
+         26.    Defendants tasked Mary Beth Roe (“Roe”), a senior QVC Program Host, with
+
+conducting part of Plaintiff’s training.
+
+         27.    During Plaintiff’s training, Plaintiff told Roe that she suffered from a medical
+
+condition/disability. Roe told Plaintiff that she should inform “management” of Defendants.
+
+         28.    Fearing that disclosing her disability would prevent Defendants from retaining
+
+her, Plaintiff did not disclose her medical condition at that time.
+
+         29.    Between September 2018 and February 2019, Plaintiff performed all aspects of
+
+the training program.
+
+         30.    On or about March 4, 2019, Plaintiff successfully completed her probationary
+
+period and became a Program Host without Trainee designation.
+
+
+
+
+                                                   5
+              Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 10 of 37
+
+
+
+
+             31.     At least one (1) of the six (6) Trainee Program Hosts hired at the same time as
+
+Plaintiff was not selected to remain as a Program Host.
+
+             32.     Plaintiff initially reported to Caroline Stueck (“Stueck”), non-disabled 1, Director
+
+of Talent.
+
+             33.     Approximately one month after becoming a non-Trainee Program Host, Plaintiff’s
+
+supervisor changed to Beverly Brettmann (“Brettmann”), non-disabled, Director of Talent.
+
+             34.     Brettmann reported to Susan Schick (“Schick”), non-disabled, then Vice President
+
+of Talent.
+
+             35.     On or about April 2, 2019, Plaintiff told Shannon Mallon, (“Mallon”), Head of
+
+Programming, that she needed surgery for Endometriosis.
+
+             36.     Mallon reported to Mary Campbell (“Campbell”), then Chief Merchandising
+
+Officer and presently Chief Content, Digital and Platforms Officer for Defendant Qurate Retail,
+
+Inc.
+
+             37.     Brettmann also learned of Plaintiff’s disability and need for surgery.
+
+             38.     After learning of her disability, Brettmann, for the first time, told Plaintiff “They”
+
+don’t “get you.” Plaintiff understood “They” to refer to upper management and those within
+
+Defendants’ programming division.
+
+             39.     Plaintiff understood the statement to be negative as other hosts had been
+
+terminated or given poor on-air time slots when “They” “didn’t get” them.
+
+             40.     Plaintiff had never been told that management “didn’t get [her]” before she told
+
+Brettmann and Mallon that she needed surgery for her disability.
+
+
+
+
+1
+    All allegations as to disability status, except for Plaintiff’s own, are made to the best of Plaintiff’s knowledge.
+
+                                                              6
+          Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 11 of 37
+
+
+
+
+         41.    On or about April 29, 2019, Plaintiff telephoned Team Member Services to get
+
+information about medical leave for surgery. Team Member Services opened a “case” on
+
+Plaintiff’s behalf and provided her with information about medical leave.
+
+         42.    Initially, upon becoming non-Trainee Program Hosts, Plaintiff’s class was given
+
+comparable time slots for programming, yet, after she notified her supervisors of her need for
+
+surgery and details of her disability, Defendants scheduled Plaintiff in a disparate manner when
+
+compared to her peers.
+
+         43.    For example, Plaintiff was given more 4 am-7 am shifts than her peers (the least
+
+watched hours of the day) and less total airtime than her non-disabled peers.
+
+         44.    On or about May 10, 2019, Plaintiff had the highest performing show of the year
+
+(in the overnight hours) for the Mally brand, reaching a 90% achievement of her target at the 4 am
+
+hour, the least watched hour of the day.
+
+         45.    On or about May 19, 2019, again in the overnight hours, Plaintiff hosted an hour
+
+of Apple products. Plaintiff was told by the vendor guest that “the team doesn’t expect us to make
+
+any money. We are only doing this so we have something online.” Nonetheless, the hour achieved
+
+80% of the targeted goal, much to the surprise of the producers and the vendor/planning/buying
+
+teams.
+
+         46.    On or about May 21, 2019, Plaintiff met with Brettmann.
+
+         47.    During the meeting, Plaintiff complained to Brettmann that she was not being
+
+treated in the same manner as her peers and that she was not being given the same schedule or
+
+show opportunities as other new QVC Program Hosts. Plaintiff reminded Brettman of her skills
+
+and qualifications in multiple areas, including without limitation, in the beauty area as an
+
+
+
+
+                                                 7
+              Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 12 of 37
+
+
+
+
+experienced beauty and lifestyle expert, television host, former Miss Arizona, and professional
+
+makeup artist.
+
+          48.     During the same meeting, Plaintiff discussed her upcoming surgery for
+
+Endometriosis and information related to same that she had been given by Team Member
+
+Services. Plaintiff further told Brettman that she had discussed her surgery with the Programming
+
+Department within Defendants’ organization.
+
+          49.     In response, Brettmann told Plaintiff to schedule a meeting with Mallon in
+
+Programming and ask for “feedback” and “opportunities” to grow.
+
+          50.     Plaintiff believed that she was singled out for “feedback” after she disclosed her
+
+disability.
+
+          51.     Despite Plaintiff’s requests to be given opportunities equal to the other new QVC
+
+Program Hosts, Plaintiff continued to be given fewer opportunities even though she performed
+
+well to Defendants’ objective criteria.
+
+          52.     In or about July 2019, Plaintiff was given a partially successful performance
+
+rating for the two prior quarters.
+
+          53.     Plaintiff’s “partially successful” rating was unwarranted and not consistent with
+
+her performance to objective metrics.
+
+          54.     At the same time Plaintiff was successfully performing her hosting duties, she
+
+worked diligently with Defendants’ digital area and other departments, including in connection
+
+with leveraging her own social media following. For example, and without limitation, Plaintiff
+
+created a “getaway guide” series in relationship to upcoming travel to Europe and other trips,
+
+integrating and promoting approximately twelve (12) QVC products to Defendants’ benefit.
+
+
+
+
+                                                  8
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 13 of 37
+
+
+
+
+          55.    On or about August 9, 2019, Plaintiff contacted Team Member services to receive
+
+additional details about leave related to her surgery.
+
+          56.    On or about August 20, 2019, Plaintiff was given a December 30, 2019, surgery
+
+date with post-operative appointments slated for January 2020.
+
+          57.    Plaintiff informed Brettmann of the date for her surgery.
+
+          58.    Brettmann encouraged Plaintiff to move the date of her surgery.
+
+          59.    Plaintiff shifted her surgery to December 3, 2019, and told Respondents that her
+
+last day of work before medical leave would be November 26, 2019, to allow for pre-operative
+
+appointments.
+
+          60.    Brettmann told Plaintiff that she should not tell Schick about her surgery and that
+
+Brettmann would “handle” it.
+
+          61.    On or about September 9, 2019, Plaintiff sent an email to Brettman reminding her
+
+of her surgery and related medical leave schedule.
+
+          62.    Brettmann confirmed to Plaintiff that she told Schick about Plaintiff’s medical
+
+condition and need for surgery.
+
+          63.    Plaintiff asked Brettmann how Schick had responded and Brettmann responded,
+
+in part, that Schick was “all about the business.”
+
+          64.    In or about October 2019, Brettmann told Plaintiff that she needed to “work
+
+harder than everybody else.” Brettmann also told Plaintiff, “I don’t know why that is” . . . but,
+
+“that’s the way it is.”
+
+          65.    Plaintiff understood Brettmann to be relaying information she had received from
+
+people above her within the organization, including Schick.
+
+
+
+
+                                                     9
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 14 of 37
+
+
+
+
+           66.   At or around the same time, during a conversation with Roe, Plaintiff expressed
+
+her concern that her disability and need for medical leave would result in her termination before
+
+her surgery and that she would lose the medical insurance she was relying upon to pay for her
+
+surgery.
+
+           67.   Roe responded, in sum, that in her opinion Defendants would not terminate
+
+Plaintiff before her surgery but would be more likely to terminate her after her return and because
+
+of her disability.
+
+           68.   Plaintiff reported her conversation with Roe to Brettmann and complained that
+
+she was afraid that Defendants would hold her need for surgery and medical leave against her.
+
+           69.   Brettmann denied that Defendants would do so.
+
+           70.   Plaintiff continued to meet or exceed Defendants’ objective performance criteria.
+
+           71.   For the month of October, as Defendants’ programming entered the busiest time
+
+of the year, Plaintiff was assigned the lowest amount of on-air or live shows of any of the
+
+approximately thirty-three (33) Program Hosts.
+
+           72.   On or about October 24, 2019, Plaintiff was removed entirely from live shows.
+
+           73.   Newer, non-disabled QVC hosts were given opportunities to appear on air that
+
+Plaintiff was not given.
+
+           74.   With the support of others, including without limitation, line producers, Plaintiff
+
+continued to try to become involved in holiday related programming.
+
+           75.   Respondents blocked Plaintiff’s efforts to appear on air.
+
+           76.   At the same time, Plaintiff embraced a lesser role with Defendants’ digital
+
+strategy, working diligently to continue to promote the QVC brand and its products.
+
+
+
+
+                                                  10
+          Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 15 of 37
+
+
+
+
+         77.    On or about November 26, 2019, Plaintiff took medical leave for her surgery for
+
+Endometriosis and related recovery and follow-up care.
+
+         78.    Plaintiff’s medical leave was leave covered by the FMLA.
+
+         79.    Plaintiff returned from medical leave on or about January 12, 2020.
+
+         80.    Prior to her return, Plaintiff advised Defendants that she may require reasonable
+
+accommodation(s) for her disability upon her return.
+
+         81.    During a January 2020 performance review, Plaintiff was provided with
+
+inaccurate information about how she had performed to her targets. Plaintiff asked Defendants to
+
+provide her with the numbers/data that they were relying upon in her review, and they said they
+
+would follow up.
+
+         82.    In the same meeting, Brettmann asked Plaintiff how she was feeling and told her
+
+“I won’t tell anyone out there, you can tell me, just between you and I [sic].”
+
+         83.    In or about February 2020, a long-time vendor of QVC asked Plaintiff how she
+
+was being treated after her surgery and related disability. The vendor went on to state that she had
+
+heard “horror stories” of how Defendants treat employees with medical conditions.
+
+         84.    On or about February 26, 2020, Plaintiff was notified of her termination.
+
+         85.    Plaintiff was blind-sided. Prior to disclosing details of her disability and her need
+
+for surgery and medical leave, Plaintiff had never been told her job was in jeopardy.
+
+         86.    Defendants told Plaintiff the effective day of her termination was March 2, 2020.
+
+         87.    On or about March 4, 2020, the four (4) remaining Program Hosts who started
+
+with Plaintiff were given substantial grants of equity/options by Defendants.
+
+         88.    Plaintiff learned that reaching a one-year anniversary as a non-trainee Program
+
+Host was the reason for the grant of equity/options.
+
+
+
+                                                 11
+              Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 16 of 37
+
+
+
+
+          89.     By timing Plaintiff’s effective date of termination to March 2, 2020, Plaintiff was
+
+just two (2) days short of reaching the one-year anniversary as a non-trainee Program Host.
+
+          90.     Courtney Webb, non-disabled, replaced Plaintiff on the majority of her on-air
+
+slots.
+
+          91.     To the best of Plaintiff’s knowledge, none of the Program Hosts hired to replace
+
+her have disclosed a disability to Defendants.
+
+          92.     The only reason given for Plaintiff’s termination was “performance.” When
+
+Plaintiff asked human resources for details related to how her “performance” led to her
+
+termination, Plaintiff was told “I don’t have any details.”
+
+          93.     The reason given for Plaintiff’s termination was false and pre-textual.
+
+          94.     Defendants terminated Plaintiff because of her disability and/or need for
+
+reasonable accommodations and/or because she required medical leave for treatment of her
+
+disability.
+
+          95.     During her tenure with Defendants, Plaintiff learned and observed that they
+
+treated Program Hosts with medical conditions in a poor manner, placing them in less desirable
+
+on-air slots, minimizing their roles in the organization, isolating them within the Program Host
+
+team, and otherwise diminishing them.
+
+          96.     Plaintiff’s disability, including her record of disability and Defendants’ regarding
+
+her as having a disability, was a motivating and/or determinative factor in connection with
+
+Defendants’ discriminatory treatment of Plaintiff, including in connection with her termination,
+
+without limitation.
+
+          97.     At all times material hereto, Plaintiff was able to perform the essential functions
+
+of her job with or without a reasonable accommodation.
+
+
+                                                   12
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 17 of 37
+
+
+
+
+          98.    Plaintiff’s requests for leave and/or for reasonable accommodations were
+
+motivating and/or determinative factor(s) in Defendants’ discriminatory and retaliatory treatment
+
+of Plaintiff, including in connection with her termination, without limitation.
+
+          99.    Defendants failed to prevent or address the discriminatory and retaliatory conduct
+
+referred to herein and further failed to take corrective and remedial measures to make the
+
+workplace free of discriminatory and retaliatory conduct.
+
+          100. Defendants retaliated against Plaintiff for taking FMLA leave.
+
+          101. As a direct and proximate result of Defendants’ discriminatory and retaliatory
+
+conduct, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings and/or
+
+earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-
+
+esteem, mental anguish, and loss of life’s pleasures, the full extent of which is not known at this
+
+time.
+
+          102. Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+          103. No previous application has been made for the relief requested herein.
+
+                                          COUNT I – ADA
+
+          104. Plaintiff incorporates by reference each of the preceding paragraphs as if each
+
+were set forth herein in its entirety.
+
+          105. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the ADA.
+
+          106. Said violations were done with malice and/or reckless indifference to Plaintiff’s
+
+protected rights and warrant the imposition of punitive damages.
+
+
+
+                                                 13
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 18 of 37
+
+
+
+
+          107. As a direct and proximate result of Defendants’ violation of the ADA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          108. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendants’ discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                         COUNT II – FMLA
+
+          109. Plaintiff incorporates by reference each of the preceding paragraphs as if each
+
+were set forth herein in its entirety.
+
+          110. By committing the foregoing acts against Plaintiff, Defendants have violated the
+
+FMLA.
+
+          111. Defendants’ conduct was retaliatory.
+
+          112. Said violations were willful, not in good faith, and Defendants did not have
+
+reasonable grounds to believe that the foregoing acts were not in violation of the FMLA.
+
+          113. The imposition of liquidated damages is warranted.
+
+          114. As a direct and proximate result of Defendants’ violations of the FMLA, Plaintiff
+
+has suffered damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          115. Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ violations of the FMLA unless this Court grants the
+
+relief requested herein.
+
+                                         COUNT III – PHRA
+
+          116. Plaintiff incorporates by reference each of the preceding paragraphs as if each
+
+were set forth herein in its entirety.
+
+
+
+
+                                                 14
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 19 of 37
+
+
+
+
+          117. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the PHRA.
+
+          118. Said violations were intentional and willful.
+
+          119. As a direct and proximate result of Defendants’ violation of the PHRA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          120. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendants’ discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                         COUNT IV – PFPO
+
+          121. Plaintiff incorporates by reference each of the preceding paragraphs as if each
+
+were set forth herein in its entirety.
+
+          122. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the PFPO.
+
+          123. Said violations were done with malice and/or reckless indifference to Plaintiff’s
+
+protected rights, and were especially egregious, warranting the imposition of punitive damages.
+
+          124. Plaintiff’s disability was a substantial, motivating, and/or determinative factor in
+
+Defendants’ termination of her employment.
+
+          125. As a direct and proximate result of Defendants’ violation of the PFPO, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          126. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendants’ discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                             RELIEF
+
+                                                 15
+             Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 20 of 37
+
+
+
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendants’ improper conduct, and specifically prays that the Court grant the following relief to
+
+Plaintiff by:
+
+        a.       Declaring the acts and practices complained of herein to be in violation of the
+
+        ADA;
+
+        b.       Declaring the acts and practices complained of herein to be in violation of the
+
+        FMLA;
+
+        c.       Declaring the acts and practices complained of herein to be in violation of the
+
+        PHRA;
+
+        d.       Declaring the acts and practices complained of herein to be in violation of the
+
+        PFPO;
+
+        e.       Enjoining and permanently restraining the violations alleged herein;
+
+        f.       Entering judgment against Defendants and in favor of Plaintiff in an amount to be
+
+        determined;
+
+        g.       Awarding compensatory damages to make Plaintiff whole for all lost earnings,
+
+        earning capacity, and benefits, which Plaintiff has suffered as a result of Defendants’
+
+        improper conduct;
+
+        h.       Awarding compensatory damages to Plaintiff for past pain and suffering,
+
+        emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff
+
+        has suffered as a result of Defendants’ improper conduct;
+
+        i.       Awarding liquidated damages to Plaintiff;
+
+        j.       Awarding punitive damages to Plaintiff;
+
+
+
+
+                                                 16
+           Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 21 of 37
+
+
+
+
+      k.       Awarding Plaintiff other such damages as are appropriate under the ADA, the
+
+      FMLA, the PHRA, the PFPO
+
+      l.       Awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+      reasonable attorneys’ fees; and
+
+      m.       Granting such other and further relief as this Court may deem just, proper, or
+
+      equitable including other equitable and injunctive relief providing restitution for past
+
+      violations and preventing future violations.
+
+
+
+
+                                           CONSOLE MATTIACI LAW LLC
+
+Dated: September 3, 2021                    By:      /s/ Katherine C. Oeltjen_________
+                                                     Katherine C. Oeltjen, Esquire (318037)
+                                                     Stephen G. Console, Esquire (36656)
+                                                     1525 Locust Street, 9th Floor
+                                                     Philadelphia, PA 19102
+                                                     (215) 545-7676
+                                                     (215) 565-2852 (fax)
+                                                     Attorneys for Plaintiff
+
+
+
+
+                                              17
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 22 of 37
+
+
+
+
+                 Exhibit “1”
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 23 of 37
+         Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 24 of 37
+
+
+
+
+           A. I specifically allege:
+
+           [1]         I was hired by Respondents on or about September 4, 2018 as a Program
+
+Host (Trainee) for Respondents’ QVC home shopping network and across QVC’s other platforms,
+
+including without limitation, digital.
+
+           [2]         Program Hosts appear on camera, during live programming and are
+
+responsible for informing the audience about the attributes and benefits of each product featured
+
+such that viewers are inspired to make purchases, and therefore generate revenue for Respondents.
+
+           [3]         At all times material hereto, I performed my job in an exemplary manner,
+
+consistently taking on job duties that were not required of me in order to ensure Respondents’
+
+success. By way of example, and without limitation, this included extensive work with
+
+Respondents’ digital department(s) to coordinate social media and digital strategy with the
+
+promotion of Respondents’ products.
+
+           [4]         I was initially hired for a six-month probationary period after successfully
+
+competing in a national host search with more than seventeen thousand (17,000) applicants.
+
+           [5]         During the early weeks and months of my employment, I participated in
+
+intensive training program and mentoring with senior QVC host Mary Beth Roe (“Roe).
+
+           [6]         My goal during the six-month probationary period was to ensure that I
+
+became a long-term QVC program host. Respondents made it very clear to the six individuals
+
+offered probationary employment that being asked to remain after the six months was not
+
+guaranteed.
+
+           [7]         During my training, I told Roe that I suffered from an autoimmune disease.
+
+Roe told me that I should inform “management” of Respondents.
+            Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 25 of 37
+
+
+
+
+             [8]      Fearing that my disclosure of a disability would prevent Respondents from
+
+retaining me, I did not disclose my autoimmune disease. I did not require any accommodations as
+
+a result of my autoimmune disease at that time and was able to perform the essential functions of
+
+my job.
+
+             [9]      Between September, 2018 and in or about January, 2019, I participated in
+
+training and development with my peers. In or about January, 2019 I began to work on air with a
+
+co-Program Host, per Respondents’ standard practices.
+
+             [10]     On or about February, 24, 2019, I informed Zahra Farrokh, Programming,
+
+that I would be flying home to Arizona for a surgical appointment and shared my belief that I
+
+would I would possibly need to have surgery at a later date for a medical condition.
+
+             [11]     I have Endometriosis. Endometriosis is a chronic medical condition in
+
+which tissue similar to that found in the lining of the uterus grows outside of the uterus and
+
+typically within the abdominal cavity. Endometriosis can result in a myriad of symptoms including
+
+without limitation, extreme pain and other symptoms that substantially impact day to day living.
+
+             [12]     On or about March 4, 2019 I was offered a three-year contract with
+
+Respondents amid my exemplary performance, becoming a Program Host (i.e. no Trainee status)
+
+along with others in my probationary class.
+
+             [13]     To the best of my information and belief, I was the only disabled Program
+
+Host in my probationary class and thus the only disabled Program Host offered a non-probationary
+
+position.
+
+             [14]     Upon becoming a Program Host, I reported to Caroline Stueck (“Stueck”),
+
+Director of Talent.
+
+             [15]     To the best of my knowledge, Stueck is non-disabled.
+         Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 26 of 37
+
+
+
+
+           [16]        Approximately one month later, my supervisor changed to Beverly
+
+Brettmann (“Brettman”), Director of Talent.
+
+           [17]        To the best of my knowledge, Brettman is non-disabled.
+
+           [18]        On or about April 2nd, I told Shannon Mallon, (“Mallon”) Head Of
+
+Programming, that I needed surgery for Endometriosis.
+
+           [19]        Shortly thereafter, Brettman, Director of Talent, told me “they” don’t “get
+
+you.” I understood “they” to refer to upper management and those within Respondent’s
+
+programming division. I understood the statement to be negative as other hosts had been
+
+terminated or given poor on-air time slots when “they” “didn’t get” them.
+
+           [20]        I had never been told that management “didn’t get me” before I confirmed
+
+that I needed surgery for my disability.
+
+           [21]        On or about April 29, 2019, I telephoned Team Member Services to get
+
+information about medical leave for surgery. Team Member Services opened a “case” on my
+
+behalf and provided me with information about medical leave.
+
+           [22]        Initially, upon becoming non-Trainee Program Hosts, my class was given
+
+comparable time slots for programming, yet, after I notified Respondents of my need for surgery
+
+and the nature of my disability, Respondents scheduled me in a disparate manner when compared
+
+to my peers. I was given more 4-7 am shifts than my peers (the least watched hours of the day)
+
+and less total airtime than my non-disabled peers.
+
+           [23]        On or about May 10, 2019, I had the highest performing show of the year
+
+(in the overnight hours) for the Mally brand, reaching a 90% achievement of my target at the 4 am
+
+hour, the least watched hour of the day.
+          Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 27 of 37
+
+
+
+
+              [24]     On or about May 19, 2019, again in the overnight hours, I hosted an hour
+
+of Apple products. I was told by the vendor guest that “the team doesn’t expect us to make any
+
+money. We are only doing this so we have something online.” Nonetheless, the hour achieved
+
+80% of the targeted goal much to the surprise of the producers and the vendor/planning/buying
+
+teams.
+
+              [25]     On or about May 21, 2019 I met with Brettmann as part of our regular
+
+monthly routine. During the meeting I complained to Brettmann that I was not being treated in
+
+the same manner as my peers and that I was not being given the same schedule or show
+
+opportunities as other new QVC Program Hosts. I reminded Brettman of my skills and
+
+qualifications in multiple areas, including without limitation, in the beauty area as a professional
+
+make up artist.
+
+              [26]     During the same meeting, I discussed my upcoming surgery for
+
+Endometriosis and information related to same that I had been given by Team Member Services.
+
+I further told Brettman that I had discussed my surgery with programming within Respondents’
+
+organization.
+
+              [27]     In response, Brettmann told me to schedule a meeting with Mallon in
+
+Programming and ask for “feedback” and “opportunities” to grow.
+
+              [28]     I believe that I was singled out for “feedback” after I disclosed my
+
+disability.
+
+              [29]     Despite my requests to be given opportunities equal to the other new QVC
+
+Program Hosts, I continued to be given fewer opportunities despite the fact that I performed well
+
+to Respondents’ objective criteria.
+         Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 28 of 37
+
+
+
+
+           [30]        Nonetheless, in or about July, 2019, I was given a partially successful
+
+performance rating for the two prior quarters.
+
+           [31]        At the same time as I was successfully performing my hosting duties, I
+
+worked diligently with Respondents’ digital area and other departments, seeking to integrate my
+
+social media presence and the thousands of followers that I had before I joined Respondents, with
+
+Respondent’s products and promotions. For example, and without limitation, I created a “getaway
+
+guide” series in relationship to upcoming travel to Europe and other trips, integrating and
+
+promoting approximately twelve (12) QVC products.
+
+           [32]        On or about August 9, 2019, I contacted Team Member services to receive
+
+additional details about leave related to my surgery.
+
+           [33]        On or about August 20, 2019, I was given a December 30, 2019 surgery
+
+date with post-operative appointments slated for January, 2020.
+
+           [34]        At or around this time, I informed Brettman of the date for my surgery.
+
+           [35]        At Brettman’s urging, I shifted my surgery to December 3, 2019 and told
+
+Respondents that my last day worked before medical leave would be November 26, 2019 to allow
+
+for pre-operative appointments.
+
+           [36]        On or about September 9, 2019, I sent an email to Brettman reminding her
+
+of my surgery and related medical leave schedule. She responded by telling me she had informed
+
+her supervisor, Sue Schick (“Schick”), Vice President of Talent, of my surgery and leave.
+
+Brettman had earlier told me that I should not tell Schick of my disability and need for surgery and
+
+that she would handle it. When I asked Brettman how Schick responded, Brettman commented in
+
+part, that Schick was “all about the business.”
+         Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 29 of 37
+
+
+
+
+           [37]         In or about October, 2019, I was told that I needed to “work harder than
+
+everybody else” by Brettman. She further stated, “I don’t know why that is”…..but, “that’s the
+
+way it is.” I understood Brettman to be relaying information she had received from people above
+
+her within the organization, including Schick.
+
+           [38]         Also in or about October, 2019, during a conversation with Roe I expressed
+
+my concern that my disability and need for medical leave would result in my termination before
+
+my surgery and that I would lose the medical insurance I was relying upon to pay for my surgery.
+
+           [39]         I continued to meet or exceed Respondents’ objective performance criteria.
+
+           [40]         For the month of October, as Respondents programming entered the busiest
+
+time of the year, I was assigned the lowest amount of on-air or live shows of any of the
+
+approximately thirty-three (33) Program Hosts (including long-standing veterans and hosts who
+
+joined the organization at the same time that I did).
+
+           [41]         On or about October 24, 2019, I was removed entirely from live shows.
+
+           [42]         Newer, non-disabled QVC hosts were given opportunities to appear on air
+
+that I was not given.
+
+           [43]         With the support of others, including without limitation, line producers, I
+
+continued to try to become involved in holiday related programming.
+
+           [44]         Respondents blocked my efforts to appear on air.
+
+           [45]         At the same time, I embraced a lesser role with Respondents digital
+
+strategy, working diligently to continue to promote the QVC brand and its products.
+
+           [46]         On or about November 26, 2019, I took medical leave for my surgery for
+
+Endometriosis and related recovery and follow-up care.
+
+           [47]         I returned from medical leave on or about January 12, 2020.
+         Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 30 of 37
+
+
+
+
+           [48]        Prior to my return, I advised Respondents that I might have required a
+
+reasonable accommodation upon my return.
+
+           [49]        During a January, 2020 performance review I was provided with inaccurate
+
+information about how I performed to my targets. I asked Respondents to provide me with the
+
+numbers/data that they were relying upon in my review and they said they would follow up. In the
+
+same meeting, Brettman asked me how I was feeling and told me “I won’t tell anyone out there,
+
+you can tell me, just between you and I [sic].”
+
+           [50]        In or about February, 2020, a long-time vendor of QVC asked me how I
+
+was being treated after my surgery and related disability. The vendor went on to state that she had
+
+heard “horror stories” of how Respondents treat employees with medical conditions.
+
+           [51]        On or about February 26, 2020, I was notified of my termination. I was
+
+blind-sided. Prior to disclosing my disability and need for surgery, there was no indication that my
+
+job was in jeopardy.
+
+           [52]        Courtney Webb, non-disabled, replaced me on the majority of my on-air
+
+slots. In addition, to the best of my knowledge, Respondents hired three new female Program Hosts
+
+to begin work in April, 2020.
+
+           [53]        To the best of my knowledge none of the Program Hosts hired to replace
+
+me have disclosed a disability to Respondents.
+
+           [54]        The only reason given for my termination was “performance.” When I
+
+asked human resources for details related to how my “performance” lead to my termination, I was
+
+told “I don’t have any details.”
+
+           [55]        The reason given for my termination was false and pre-textual.
+          Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 31 of 37
+
+
+
+
+              [56]        Respondents terminated me because of my disability and/or need for
+
+reasonable accommodations and/or because I required medical leave for treatment of my
+
+disability.
+
+              [57]        During my tenure with Respondents, I learned and observed that they
+
+treated Program Hosts with disabilities in a poor manner, placing them in less desirable on-air
+
+slots, minimizing their role in the building, isolating them within the Program Host team and
+
+otherwise diminishing their roles.
+
+              [58]        Based on the aforementioned, I allege that Respondents have
+
+discriminated against me because of my disability (including history of and regarded as) in
+
+violation of the Americans with Disabilities Act, as amended, 42 U.S.C. §12101, et seq., the
+
+Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seq. (“PHRA”), and the
+
+Philadelphia Fair Practices Ordinance, Phila. Code § 9-1101, et seq. (“PFPO”).
+
+        4.         The allegations in Paragraph 3 hereof constitute unlawful discriminatory and
+
+retaliatory practices in violation of:
+
+               X          Pennsylvania Human Relations Act (Act of October 27, 1955, P.L. 744, as
+
+              amended) Section 5 Subsection(s):     (a); (d)__
+
+              ____        Section 5.1 Subsection(s) _____________________________
+
+              ____        Section 5.2 Subsection(s) _____________________________
+
+              ____        Pennsylvania Fair Educational Opportunities Act (Act of July 17, 1961,
+
+              P.L. 766, as amended) Section 4 Subsection(s) _____________________________
+
+        5.         Other action based upon the aforesaid allegations has been instituted by the
+
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+ Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 32 of 37
+
+
+
+
+      X          This charge will be referred to the EEOC for the purpose of dual filing.
+
+6.        The Complainant seeks that Respondents be required to:
+
+     (a) Make the Complainant whole.
+
+     (b) Eliminate all unlawful discriminatory and retaliatory practice(s) and procedure(s).
+
+     (c) Remedy the discriminatory and retaliatory effect of past practice(s) and
+
+          procedure(s).
+
+     (d) Take further affirmative action necessary and appropriate to remedy the violation
+
+          complained of herein.
+
+     (e) Provide such further relief as the Commission deems necessary and appropriate.
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 33 of 37
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 34 of 37
+
+
+
+
+                 Exhibit “2”
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 35 of 37
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 36 of 37
+Case 2:21-cv-03965-TJS Document 1 Filed 09/03/21 Page 37 of 37
+

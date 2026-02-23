@@ -1,0 +1,1180 @@
+Source URL: https://www.courtlistener.com/docket/29100561/1/epley-v-comcast-cable-communications-management-llc/
+Title: Complaint (Attorney) – #1 in EPLEY v. COMCAST CABLE COMMUNICATIONS MANAGEMENT, LLC (E.D. Pa., 2:21-cv-00155) – CourtListener.com
+
+JS 44 (Rev. 10/20)                  Case 2:21-cv-00155-CDJ
+                                                      CIVILDocument
+                                                            COVER 1SHEET
+                                                                     Filed 01/12/21 Page 1 of 41
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                                        DEFENDANTS
+                                                                                                                         COMCAST CABLE COMMUNICATIONS MANAGEMENT,
+          KIMBERLY EPLEY
+                                                                                                                         LLC & COMCAST CORPORATION
+    (b)   County of Residence of First Listed Plaintiff                Beaufort                                          County of Residence of First Listed Defendant Philadelphia
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                               (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                                         NOTE:       IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                                     THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                            Attorneys (If Known)
+      Katherine C. Oeltjen, Esquire
+      Console Mattiacci Law LLC, 1525 Locust Street, 9th
+      Floor, Philadelphia, PA 19102
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only) III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                                    (For Diversity Cases Only)                                          and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                            PTF             DEF                                          PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                              Citizen of This State            1               1       Incorporated or Principal Place         4     4
+                                                                                                                                                                         of Business In This State
+
+    2   U.S. Government                      4   Diversity                                                    Citizen of Another State                2           2    Incorporated and Principal Place                   5   5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                                         of Business In Another State
+
+                                                                                                              Citizen or Subject of a                 3           3    Foreign Nation                                     6   6
+                                                                                                                Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                    Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                                     FORFEITURE/PENALTY                            BANKRUPTCY                           OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                     PERSONAL INJURY                     625 Drug Related Seizure                  422 Appeal 28 USC 158                  375 False Claims Act
+    120 Marine                           310 Airplane                       365 Personal Injury -                    of Property 21 USC 881                423 Withdrawal                         376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                   Product Liability                690 Other                                     28 USC 157                             3729(a))
+    140 Negotiable Instrument                 Liability                     367 Health Care/                                                                                                      400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                   Pharmaceutical                                                            PROPERTY RIGHTS                         410 Antitrust
+        & Enforcement of Judgment             Slander                           Personal Injury                                                            820 Copyrights                         430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                 Product Liability                                                          830 Patent                             450 Commerce
+    152 Recovery of Defaulted                 Liability                     368 Asbestos Personal                                                          835 Patent - Abbreviated               460 Deportation
+         Student Loans                   340 Marine                             Injury Product                                                                 New Drug Application               470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                     Liability                                                                  840 Trademark                              Corrupt Organizations
+    153 Recovery of Overpayment               Liability                    PERSONAL PROPERTY                              LABOR                            880 Defend Trade Secrets               480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                  370 Other Fraud                      710 Fair Labor Standards                      Act of 2016                            (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                  371 Truth in Lending                     Act                                                                          485 Telephone Consumer
+    190 Other Contract                       Product Liability              380 Other Personal                   720 Labor/Management                      SOCIAL SECURITY                            Protection Act
+    195 Contract Product Liability       360 Other Personal                     Property Damage                      Relations                             861 HIA (1395ff)                       490 Cable/Sat TV
+    196 Franchise                            Injury                         385 Property Damage                  740 Railway Labor Act                     862 Black Lung (923)                   850 Securities/Commodities/
+                                         362 Personal Injury -                  Product Liability                751 Family and Medical                    863 DIWC/DIWW (405(g))                     Exchange
+                                             Medical Malpractice                                                     Leave Act                             864 SSID Title XVI                     890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                     PRISONER PETITIONS                   790 Other Labor Litigation                865 RSI (405(g))                       891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights              Habeas Corpus:                      791 Employee Retirement                                                          893 Environmental Matters
+    220 Foreclosure                      441 Voting                          463 Alien Detainee                      Income Security Act                  FEDERAL TAX SUITS                       895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                      510 Motions to Vacate                                                        870 Taxes (U.S. Plaintiff                   Act
+    240 Torts to Land                    443 Housing/                            Sentence                                                                      or Defendant)                      896 Arbitration
+    245 Tort Product Liability               Accommodations                  530 General                                                                  871 IRS—Third Party                     899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -          535 Death Penalty                       IMMIGRATION                               26 USC 7609                            Act/Review or Appeal of
+                                             Employment                      Other:                              462 Naturalization Application                                                       Agency Decision
+                                         446 Amer. w/Disabilities -          540 Mandamus & Other                465 Other Immigration                                                            950 Constitutionality of
+                                             Other                           550 Civil Rights                        Actions                                                                          State Statutes
+                                         448 Education                       555 Prison Condition
+                                                                             560 Civil Detainee -
+                                                                                 Conditions of
+                                                                                 Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                          3     Remanded from                    4 Reinstated or               5 Transferred from
+                                                                                                                                                        6 Multidistrict                                     8 Multidistrict
+      Proceeding             State Court                                 Appellate Court                    Reopened                      Another District  Litigation -                                      Litigation -
+                                                                                                                                          (specify)         Transfer                                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42. U.S.C. §2000e, et. seq. (“Title VII”); 42 U.S.C. §12101, et seq (“ADA)”; 2601, et seq. (“FMLA”); 43 P.S. §951, et seq. (“PHRA”); Phila. Code §9-1101, et seq. (“PFPO”)
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff brings this action against her former employer for discriminatory and retaliatory conduct.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                                DEMAND $                                          CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                                       excess of $75,000                                 JURY DEMAND:                      ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                              JUDGE                                                                            DOCKET NUMBER
+DATE                                                                          SIGNATURE OF ATTORNEY OF RECORD
+January 12, 2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                           APPLYING IFP                                         JUDGE                                   MAG. JUDGE
+                             Case 2:21-cv-00155-CDJ
+                                                UNITEDDocument   1 Filed
+                                                      STATES DISTRICT    01/12/21 Page 2 of 41
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                            Bluffton, SC 29910
+Address of Plaintiff: ______________________________________________________________________________________________
+                                           1701 JFK Boulevard, Philadelphia, PA 19103
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      1/12/2021
+DATE: __________________________________                           V.DWKHULQH&2HOWMHQ
+                                                             __________________________________________                                    318037
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+     Katherine C. Oeltjen, Esquire counsel of record or pro se plaintiff, do hereby certify:
+I, ____________________________________________,
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      1/12/20201
+DATE: __________________________________
+                                                                   V.DWKHULQH&2HOWMHQ
+                                                             __________________________________________                                    318037
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+                      Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 3 of 41
+                                 IN THE UNITED STATES DISTRICT COURT
+                              FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                              CASE MANAGEMENT TRACK DESIGNATION FORM
+            KIMBERLY EPLEY             :                                              CIVIL ACTION
+                          Plaintiff    :
+                       v.              :
+COMCAST CABLE COMMUNICATIONS MANAGEMENT,
+                                       : LLC, et al.
+                           Defendants. :                                              NO.
+
+                                            DEFENDANT
+         In accordance with the Civil Justice     Expense and Delay Reduction Plan of this court, counsel for
+         plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+         filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+         side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+         designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+         the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+         to which that defendant believes the case should be assigned.
+
+         SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+         (a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                            ( )
+
+         (b) Social Security – Cases requesting review of a decision of the Secretary of Health
+             and Human Services denying plaintiff Social Security Benefits.                                  ( )
+
+         (c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.      ( )
+
+         (d) Asbestos – Cases involving claims for personal injury or property damage from
+             exposure to asbestos.                                                                           ( )
+
+         (e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+             commonly referred to as complex and that need special or intense management by
+             the court. (See reverse side of this form for a detailed explanation of special
+             management cases.)                                                                              ( )
+
+         (f) Standard Management – Cases that do not fall into any one of the other tracks.                  ( X)
+
+
+           January 12, 2021               / /s/ Katherine C. Oeltjen          Katherine C. Oeltjen
+         Date                               Attorney-at-law                     Attorney for Plaintiff
+          215-545-7676                   215-565-2852                           oeltjen@consolelaw.com
+
+         Telephone                           FAX Number                          E-Mail Address
+
+
+         (Civ. 660) 10/02
+            Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 4 of 41
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT FOR
+                       THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+KIMBERLY EPLEY,
+Bluffton, South Carolina 29910                         CIVIL ACTION NO.:
+
+                Plaintiff,
+       v.
+
+COMCAST CABLE COMMUNICATIONS
+MANAGEMENT, LLC,                                      JURY TRIAL DEMANDED
+One Comcast Center
+1701 JFK Boulevard
+Philadelphia, PA 19103
+
+and
+
+COMCAST CORPORATION
+One Comcast Center
+1701 JFK Boulevard
+Philadelphia, PA 19103
+
+                        Defendants.
+
+
+                                       COMPLAINT
+  I.   INTRODUCTION
+       Plaintiff, Kimberly Epley (“Plaintiff”), a high-performing and experienced sales
+
+professional within the cable industry, brings claims against her former employers, Comcast
+
+Cable Communications management, LLC and Comcast Corporation (collectively “Defendants”)
+
+for discriminatory and retaliatory conduct, including in connection with her termination and
+
+Defendant’s subsequent failure to hire her for positions for which she was qualified. Plaintiff
+
+brings claims pursuant to Title VII of the Civil Rights Act of 1964, as amended, 42. U.S.C.
+
+§2000e, et. seq. (“Title VII”), the Americans with Disabilities Act, as amended, 42 U.S.C.
+
+§12101, et seq., the Family Medical Leave Act, 29 U.S.C. §2601, et seq. (“FMLA”), the
+
+Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”) and the
+
+                                              1
+          Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 5 of 41
+
+
+
+
+Philadelphia Fair Practices Ordinance, Phila. Code §9-1101, et seq. (“PFPO”) and seeks all
+
+appropriate relief.
+
+  II.   PARTIES
+
+         1.    Plaintiff is an individual and citizen of South Carolina. She resides in Bluffton,
+
+South Carolina, 29910.
+
+         2.    Plaintiff is female.
+
+         3.    Defendant Comcast Cable Communications Management LLC (“Defendant
+
+Cable”) is organized under the laws of the Commonwealth of Pennsylvania and maintains a
+
+principal place of business at One Comcast Center, Philadelphia, Pennsylvania.
+
+         4.    Defendant Comcast Corporation (“Defendant Comcast”) is a Pennsylvania
+
+corporation. Defendant Cable is a wholly owned subsidiary of Defendant Comcast.
+
+         5.    Defendants maintain their principal place of business at One Comcast Center,
+
+1701 JFK Boulevard, Philadelphia, Pennsylvania.
+
+         6.    Defendants are engaged in an industry affecting interstate commerce and
+
+regularly do business in the Commonwealth of Pennsylvania, including without limitation, within
+
+and throughout the City of Philadelphia.
+
+         7.    At all times material hereto, Plaintiff worked for Defendants out of their offices at
+
+One Comcast Center, 1701 JFK Boulevard, Philadelphia, Pennsylvania. Plaintiff also traveled on
+
+Defendants’ behalf.
+
+         8.    At all times material hereto, Defendants employed more than fifteen (15)
+
+employees.
+
+
+
+
+                                                 2
+           Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 6 of 41
+
+
+
+
+         9.     At all times material hereto, Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendants and in furtherance of Defendants’ business.
+
+         10.    At all times material hereto, Defendants acted as employers within the meaning of
+
+the statutes which form the basis of this matter.
+
+         11.    At all times material hereto, Plaintiff was an employee of Defendants within the
+
+meaning of the statutes that form the basis of this matter.
+
+ III.   JURISDICTION AND VENUE
+
+         12.    The causes of action which form the basis of this matter arise under Title VII, the
+
+ADA, the FMLA, the PHRA, and the PFPO.
+
+         13.    The District Court has jurisdiction over Count I (Title VII), Count II (ADA) and
+
+Count III (FMLA) pursuant to 28 U.S.C. §1331.
+
+         14.    The District Court has jurisdiction over all Counts pursuant to 28 U.S.C. §1332
+
+since the amount in controversy exceeds the sum or value of seventy-five thousand dollars
+
+($75,000), exclusive of interests and costs, and as there is complete diversity of citizenship as
+
+Plaintiff is a citizen of South Carolina and Defendants are not citizens of South Carolina.
+
+         15.    Venue is proper in this District Court under 28 U.S.C. §1391(b) and 42 U.S.C.
+
+§2000e-5(f).
+
+         16.    On or about April 5, 2019, Plaintiff filed a Complaint with the Pennsylvania
+
+Human Relations Commission (“PHRC”) complaining of the acts of discrimination and
+
+retaliation alleged herein. The Complaint was cross-filed with the Equal Employment
+
+Opportunity Commission (“EEOC”).           Attached hereto, incorporated herein, and marked as
+
+
+
+
+                                                    3
+              Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 7 of 41
+
+
+
+
+Exhibit “1” is a true and correct copy of the PHRC Complaint (with personal identifying
+
+information redacted).
+
+         17.      On or about July 18, 2019, Plaintiff filed a Second/Amended Complaint with the
+
+PHRC complaining of the acts of discrimination and retaliation alleged here. The Complaint was
+
+cross-filed with the EEOC. Attached hereto, incorporated here, and marked as Exhibit “2” is a
+
+true and correct copy of the Second/Amended PHRC Complaint (with personal identifying
+
+information redacted).
+
+         18.      On or about October 15, 2020, the EEOC issued the Plaintiff a Notice of Right to
+
+Sue for her Complaint and Second/Amended Complaint. Attached hereto and marked as Exhibit
+
+“3” is a true and correct copy of the Notice (with personal identifying information redacted).
+
+         19.      Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.     FACTUAL ALLEGATIONS
+
+         20.      Plaintiff was hired by Defendants on or about December 21, 2015 as Vice
+
+President, Strategic Client Groups, Enterprise Business (“VP”). As VP, Plaintiff was responsible
+
+for creating and managing a sales channel/organization that would target a new business segment
+
+for Defendants, Fortune 100 and Large Distributed Enterprises.
+
+         21.      At all times material hereto, Plaintiff was a high-performing, successful employee
+
+of Defendants, routinely meeting or exceeding objective targets, including sales quotas and
+
+objectives.
+
+         22.      Beginning on or about February 4, 2016, Plaintiff reported to Glenn Katz
+
+(“Katz”) (male). Katz, in turn, reported to William Stemper (“Stemper”) (male), President.
+
+
+
+
+                                                  4
+            Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 8 of 41
+
+
+
+
+Stemper reported to Dave Watson (“Watson”) (male), President and Chief Executive Officer,
+
+Defendant Cable.
+
+           23.   Plaintiff was the only female VP reporting to Katz.
+
+           24.   Two male VPs also reported to Katz: Amit Verma (“Verma”) (male), Vice
+
+President, Solution Architecture Engineering and Technology; and, Purazar Gowadia
+
+(“Gowadia”) (male), Vice President, National Client Group, Enterprise Business.
+
+           25.   Plaintiff was qualified to perform Gowadia’s position.
+
+           26.   Plaintiff was the only female VP, out of twelve (12) total VP employees, running
+
+a Headquarters (“HQ”) based, sales channel organization reporting directly or indirectly to
+
+Stemper.
+
+           27.   Katz demonstrated bias against Plaintiff as a female employee during the time she
+
+reported to him, including without limitation, in connection with the following:
+
+             a. Katz, who had previously supported male employees for leadership development
+
+                 programs, did not support Plaintiff’s application or request to be nominated for
+
+                 the Betsey Magness Leadership Institute, a premier development program for
+
+                 women in leadership in the cable industry. Katz told Plaintiff he had discussed her
+
+                 request for nomination with Andrew Topping (“Topping”) (male), Senior Vice
+
+                 President, Human Resources and others and that he would support her, but never
+
+                 actually did so.
+
+             b. Katz treated Plaintiff differently than male employees, speaking over her,
+
+                 interrupting her, ignoring her and routinely trying to take credit for her work in
+
+                 order to make her look “worse” and him look “better.”
+
+
+
+
+                                                  5
+              Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 9 of 41
+
+
+
+
+          28.     In or about early May, 2018, Plaintiff told Katz that she required an FMLA
+
+medical leave of absence to undergo surgery for a female related disability/medical condition.
+
+          29.     Shortly thereafter, Plaintiff was out of work to undergo a biopsy.
+
+          30.     Following the results of her biopsy, in or about late June, 2018, Plaintiff reminded
+
+Katz that she was slated to have female-related surgical procedures and would be out of work on
+
+an FMLA medical leave of absence as a result.
+
+          31.     Between July 2, 2018 and July 23, 2018, Plaintiff took an FMLA medical leave
+
+following surgery to remove her uterus and ovaries.
+
+          32.     Plaintiff was initially scheduled to be out of work for a shorter period of time, but
+
+unexpected complications necessitated a longer recovery period.
+
+          33.     At all times material hereto, Plaintiff kept Katz informed of her needs related to
+
+medical leave. Katz understood the nature of her surgery and disability.
+
+          34.     When Plaintiff returned to work, on or about July 23, 2018 she required
+
+accommodations for her disability and provided Defendants with a physician letter regarding
+
+same.
+
+          35.     Defendants granted the following accommodation requests for the first three (3)
+
+weeks following her return: limited travel; no carrying luggage; and the ability to work from
+
+home as needed.
+
+          36.     Defendants understood that Plaintiff was disabled and regarded her as having a
+
+disability.
+
+          37.     Katz did not conduct a mid-year performance review with Plaintiff upon her
+
+return for treatment of her disability/ FMLA leave despite it being the time of year when
+
+
+
+
+                                                    6
+           Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 10 of 41
+
+
+
+
+Defendants’ managers within Plaintiff’s group routinely conducted mid-year performance
+
+evaluations.
+
+          38.   Katz did not provide any explanation for failing to evaluate Plaintiff’s
+
+performance.
+
+          39.   Defendants treated Plaintiff differently and worse, than they treated male and/or
+
+non-disabled employees and/or employees who had not sought accommodations or required a
+
+medical leave of absence. By way of example only, in addition to continuing to interrupt her,
+
+ignore her, speak over her and trying to take credit for her work, Katz and Defendants excluded
+
+her from trainings, leadership opportunities, meetings, dinners and events. Non-disabled, male
+
+employees who had not sought reasonable accommodations or who had not required medical
+
+leave were routinely included in trainings, leadership opportunities, meetings, dinners and events
+
+and many benefitted from the career advancement and related accolades related to their
+
+attendance at such functions.
+
+          40.   Despite Plaintiff’s excellent performance and closure of high-value deals for
+
+Defendants, her successes were met with little fanfare by Defendants while lesser performance
+
+from her male, non-disabled comparators was lauded in a public and often effusive manner.
+
+          41.   Plaintiff was, at all material times, the only disabled employee reporting to Katz
+
+who required FMLA leave and/or who made requests for reasonable accommodations because of
+
+a disability.
+
+          42.   On or about December 11, 2018, in a meeting with Katz, Defendants
+
+disproportionately increased Plaintiff’s quota for 2019. Katz did not increase the quota for the
+
+male VP who had a quota and reported to Katz.
+
+
+
+
+                                                7
+           Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 11 of 41
+
+
+
+
+           43.   On or about December 17, 2018, in a meeting with Katz, Plaintiff was told that
+
+Defendants would be giving her a lower performance rating than she had received historically and
+
+lower than her actual performance warranted.
+
+           44.   In the meeting, Katz minimized Plaintiff’s contributions to Defendants. Katz
+
+criticized Plaintiff for “missing” certain work while she was out on FMLA leave.
+
+           45.   Katz falsely stated that Plaintiff failed to meet her 2018 target numbers.
+
+           46.   On February 28, 2019, in a meeting with Katz and Topping, Defendants
+
+terminated Plaintiff’s employment, effective March 15, 2019. The stated reasons for her
+
+termination were that Plaintiff was not in “alignment” with Defendants and she did not have the
+
+“skill set” that Defendants were looking for. Defendants further stated that they wanted Plaintiff’s
+
+replacement to be “more aggressive.” Defendants told Plaintiff that they had been discussing
+
+since mid-year “this relationship.”      Plaintiff understood “this relationship” to refer to her
+
+employment relationship with Defendants.
+
+           47.   During the same meeting, Defendants told Plaintiff to apply internally for other
+
+positions up to the effective date of her termination.
+
+           48.   At no time prior to February 28, 2019, was Plaintiff placed on any performance
+
+management plan or otherwise told that her job was, in any way, in jeopardy or that her
+
+performance was materially deficient.
+
+           49.   Defendants failed to follow their own policies in terminating Plaintiff without
+
+warning.
+
+           50.   Plaintiff met or exceeded her target numbers for 2016, 2017 and 2018.
+
+Conversely, Gowadia missed his 2018 targets and remained employed.
+
+
+
+
+                                                   8
+           Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 12 of 41
+
+
+
+
+           51.   Defendants have a history of pushing out and/or terminating high-level female
+
+employees.
+
+           52.   Defendants have an underrepresentation of women in VP or above level positions
+
+within Comcast Business/Stemper’s organization.
+
+           53.   The reason(s) given by Defendants for Plaintiff’s termination are false and pre-
+
+textual.
+
+           54.   Before her termination became effective, on or about March 12, 2019, Plaintiff
+
+applied internally for an open position, Vice President, Product Management.
+
+           55.   Plaintiff was qualified for the position.
+
+           56.   Plaintiff was not interviewed or hired for the position.
+
+           57.   Defendants did not provide any reason for not hiring Plaintiff for the position.
+
+           58.   Plaintiff asked Topping for an extension in the effective date of her termination
+
+date so that she could continue to look for another job internally. Topping denied the request.
+
+           59.   Plaintiff filed a PHRC Complaint against Defendants on or about April 5, 2019.
+
+           60.   A copy of the PHRC Complaint was sent to Defendants on or about that same
+
+day.
+
+           61.   On or about April 20, 2019, Plaintiff applied for a posted position, Vice President,
+
+Enterprise Solutions Sales at Defendants.
+
+           62.   Plaintiff was qualified for the position.
+
+           63.   On or about April 22, 2019, Plaintiff emailed Katz, Stemper, and Topping to
+
+advise them she had applied for the Enterprise Solutions Sales position, that she was qualified for
+
+the position, and that she wanted to be considered.
+
+           64.   Plaintiff did not receive any response to her email.
+
+
+
+                                                   9
+          Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 13 of 41
+
+
+
+
+         65.    Plaintiff applied for additional positions with Defendants for which she was
+
+qualified, including without limitation:
+
+            a. General Manager: Arthur W. Perdue Stadium (applied on or about April 26,
+
+                2019);
+
+            b. Vice President, Customer Experience Strategy and Operations (applied on or
+
+                about May 2, 2019);
+
+            c. Senior Director, Partnerships, Community Impact (Applied on or about May 3,
+
+                2019); and
+
+            d. Vice President Sales and Operations (Applied on or about May 3, 2019).
+
+         66.    Defendants did not interview Plaintiff for any of the above positions.
+
+         67.    Defendants did not hire Plaintiff for any of the above positions.
+
+         68.    For each position, Defendants either failed to provide any reason for not
+
+interviewing or hiring Plaintiff (General Manager Arthur W. Perdue Stadium and Vice President
+
+Customer Experience Strategy and Operations) or stated that “based on the needs for this
+
+particular role…” the Defendants had decided to proceed with candidates “whose qualifications
+
+and background are a better fit.”
+
+         69.    Defendants stated reason(s) for refusing to hire Plaintiff for the positions
+
+identified above are false and pre-textual.
+
+         70.    Following her termination, Plaintiff’s VP job was performed by male and/or non-
+
+disabled and/or non-complaining employees.
+
+         71.    Plaintiff’s sex was a motivating and/or determinative factor in Defendants’
+
+discriminatory and retaliatory treatment of Plaintiff, including without limitation, in connection
+
+with her termination and Defendants’ failure to hire her.
+
+
+
+                                                 10
+           Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 14 of 41
+
+
+
+
+          72.     Plaintiff’s complaining of sex discrimination was a motivating and/or
+
+determinative factor in Defendants’ discriminatory and retaliatory treatment of Plaintiff, including
+
+without limitation in connection with Defendants’ failure to hire her.
+
+          73.     Plaintiff’s disability, including her record of disability and Defendants’ regarding
+
+her as having a disability, and Plaintiff’s need for reasonable accommodations, was a motivating
+
+and/or determinative factor in connection with Defendants’ discriminatory and retaliatory
+
+treatment of Plaintiff, including, without limitation, in connection with terminating Plaintiff and
+
+failing to hire her.
+
+          74.     Plaintiff’s requests for leave, reasonable accommodations, and her complaint(s) of
+
+disability discrimination were a motivating and/or determinative factor(s) in Defendants’
+
+discriminatory and retaliatory treatment of Plaintiff including in connection with her termination
+
+and Defendants’ failure to hire her.
+
+          75.     At all times material hereto, Plaintiff was able to perform the essential functions
+
+of her job with or without a reasonable accommodation.
+
+          76.     The Defendants failed to prevent or address the discriminatory and retaliatory
+
+conduct referred to herein and further failed to take corrective and remedial measures to make the
+
+workplace free of discriminatory and retaliatory conduct.
+
+          77.     The retaliatory actions taken against Plaintiff after she complained of
+
+discriminatory conduct would have discouraged a reasonable employee from complaining about
+
+discrimination.
+
+          78.     Defendants retaliated against Plaintiff for taking FMLA leave and interfered with
+
+her rights to FMLA leave as necessitated by her disability.
+
+
+
+
+                                                   11
+          Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 15 of 41
+
+
+
+
+          79.    As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendants, Plaintiff has in the past incurred and may in the future incur a loss of earnings and/or
+
+earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-
+
+esteem, mental anguish, and loss of life’s pleasures.
+
+          80.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+          81.    Defendants acted with malice and/or reckless indifference to Plaintiff’s protected
+
+rights.
+
+          82.    The conduct of Defendant, as set forth above, was outrageous and warrants the
+
+imposition of punitive damages against Defendants.
+
+                                      COUNT I – TITLE VII
+
+          83.    Plaintiff incorporates by reference paragraphs 1 through 82 above, as if set forth
+
+herein in their entirety.
+
+          84.    By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated Title VII.
+
+          85.    Said violations were done with malice and/or reckless indifference to Plaintiff’s
+
+protected rights and warrant the imposition of punitive damages.
+
+          86.    As a direct and proximate result of Defendants’ violation of Title VII, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          87.    Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendants’ discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+
+                                                 12
+          Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 16 of 41
+
+
+
+
+                                         COUNT II – ADA
+
+          88.    Plaintiff incorporates herein by reference paragraphs 1 to 87 above, as if set forth
+
+herein in their entirety.
+
+          89.    By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the ADA.
+
+          90.    Defendants acted intentionally, and with malice and/or reckless indifference to
+
+Plaintiff’s rights, and their conduct warrants the imposition of punitive damages.
+
+          91.    As a direct and proximate result of Defendants’ violation of the ADA, Plaintiff
+
+has suffered the injuries, damages, and losses set forth herein.
+
+          92.     Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein.
+
+                                        COUNT III—FMLA
+
+          93.    Plaintiff incorporates by reference paragraphs 1 through 92 above, as if set forth
+
+herein in their entirety.
+
+          94.    By committing the foregoing acts against Plaintiff, Defendants have violated the
+
+FMLA.
+
+          95.    Defendants’ conduct was retaliatory and/or interfered with her rights to
+
+additional/future leave.
+
+          96.    Said violations were not in good faith, and Defendants did not have reasonable
+
+grounds to believe that the foregoing acts were not in violation of the FMLA.
+
+          97.    The imposition of liquidated damages is warranted.
+
+          98.    As a direct and proximate result of Defendants’ violations of the FMLA, Plaintiff
+
+has suffered damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+                                                  13
+          Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 17 of 41
+
+
+
+
+                                         COUNT IV – PHRA
+
+          99.    Plaintiff incorporates by reference paragraphs 1 through 98 above, as if set forth
+
+herein in their entirety.
+
+          100. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the PHRA.
+
+          101. Said violations were intentional and willful.
+
+          102. As a direct and proximate result of Defendants’ violation of the PHRA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          103. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendants’ discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                       COUNT V – PFPO
+
+          104. Plaintiff incorporates by reference paragraphs 1 through 103 above, as if set forth
+
+herein in their entirety.
+
+          105. By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the PFPO.
+
+          106. Said violations were done with malice and/or reckless indifference to Plaintiff’s
+
+protected rights and warrant the imposition of punitive damages.
+
+          107. As a direct and proximate result of Defendants’ violation of the PFPO, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+          108. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+
+damages as a result of Defendants’ discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                                 14
+             Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 18 of 41
+
+
+
+
+         109. No previous application has been made for the relief requested herein.
+
+                                              RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendants’ improper conduct, and specifically prays that the Court grant the following relief to
+
+Plaintiff by:
+
+        a.       Declaring the acts and practices complained of herein to be in violation of Title
+
+        VII;
+
+        b.       Declaring the acts and practices complained of herein to be in violation of the
+
+        ADA;
+
+        c.       Declaring the acts and practices complained of herein to be in violation of the
+
+        FMLA;
+
+        d.       Declaring the acts and practices complained of herein to be in violation of the
+
+        PHRA;
+
+        e.       Declaring the acts and practices complained of herein to be in violation of the
+
+        PFPO;
+
+        f.       Enjoining and permanently restraining the violations alleged herein;
+
+        g.       Entering judgment against the Defendants and in favor of the Plaintiff in an
+
+        amount to be determined;
+
+        h.       Awarding compensatory damages to make the Plaintiff whole for all lost earnings,
+
+        earning capacity, and benefits, which Plaintiff has suffered as a result of Defendants’
+
+        improper conduct;
+
+
+
+
+                                                 15
+           Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 19 of 41
+
+
+
+
+      i.       Awarding compensatory damages to Plaintiff for past pain and suffering,
+
+      emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff
+
+      has suffered as a result of Defendants’ improper conduct;
+
+      j.       Awarding punitive damages to Plaintiff;
+
+      k.       Awarding liquidated damages to Plaintiff;
+
+      l.       Awarding Plaintiff other such damages as are appropriate under Title VII, the
+
+      ADA, the FMLA, the PHRA, and the PFPO;
+
+      m.       Awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+      reasonable attorneys’ fees; and
+
+      n.       Granting such other and further relief as this Court may deem just, proper, or
+
+      equitable including other equitable and injunctive relief providing restitution for past
+
+      violations and preventing future violations.
+
+
+
+
+                                           CONSOLE MATTIACI LAW LLC
+
+Dated: January 12, 2021                     By:      /s/ Katherine C. Oeltjen
+                                                     Stephen G. Console, Esquire (36656)
+                                                     Katherine C. Oeltjen, Esquire (318037)
+                                                     1525 Locust Street, 9th Floor
+                                                     Philadelphia, PA 19102
+                                                     (215) 545-7676
+                                                     (215) 565-2852 (fax)
+                                                     Attorneys for Plaintiff Kimberly Epley
+
+
+
+
+                                              16
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 20 of 41
+
+
+
+
+   EXHIBIT 1
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 21 of 41
+
+
+
+
+          REDACTED
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 22 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 23 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 24 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 25 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 26 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 27 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 28 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 29 of 41
+
+
+
+
+                            REDACTED
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 30 of 41
+
+
+
+
+   EXHIBIT 2
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 31 of 41
+
+
+
+
+          REDACTED
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 32 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 33 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 34 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 35 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 36 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 37 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 38 of 41
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 39 of 41
+
+
+
+
+                            REDACTED
+Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 40 of 41
+
+
+
+
+   EXHIBIT 3
+                       Case 2:21-cv-00155-CDJ Document 1 Filed 01/12/21 Page 41 of 41
+ EEOC Form 161-B (11/16)                  U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                         NOTICE OF RIGHT TO SUE (ISSUED ON REQUEST)
+To:     Kimberly Epley                                                                From:    Philadelphia District Office
+       REDACTED                                                                                801 Market Street
+                                                                                               Suite 1000
+                                                                                               Philadelphia, PA 19107
+
+
+
+                  On behalf of person(s) aggrieved whose identity is
+                  CONFIDENTIAL (29 CFR §1601.7(a))
+
+ EEOC Charge No.                                         EEOC Representative                                           Telephone No.
+
+                                                         Kurt Jung
+ 17F-2020-60574                                          State, Local & Tribal Program Manager                         (267) 589-9749
+                                                                                   (See also the additional information enclosed with this form.)
+NOTICE TO THE PERSON AGGRIEVED:
+Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act (ADA), or the Genetic Information Nondiscrimination
+Act (GINA): This is your Notice of Right to Sue, issued under Title VII, the ADA or GINA based on the above-numbered charge. It has
+been issued at your request. Your lawsuit under Title VII, the ADA or GINA must be filed in a federal or state court WITHIN 90 DAYS
+of your receipt of this notice; or your right to sue based on this charge will be lost. (The time limit for filing suit based on a claim under
+state law may be different.)
+
+        X         More than 180 days have passed since the filing of this charge.
+
+                  Less than 180 days have passed since the filing of this charge, but I have determined that it is unlikely that the EEOC will
+                  be able to complete its administrative processing within 180 days from the filing of this charge.
+        X         The EEOC is terminating its processing of this charge.
+
+                  The EEOC will continue to process this charge.
+
+Age Discrimination in Employment Act (ADEA): You may sue under the ADEA at any time from 60 days after the charge was filed until
+90 days after you receive notice that we have completed action on the charge. In this regard, the paragraph marked below applies to
+your case:
+                  The EEOC is closing your case. Therefore, your lawsuit under the ADEA must be filed in federal or state court WITHIN
+                  90 DAYS of your receipt of this Notice. Otherwise, your right to sue based on the above-numbered charge will be lost.
+
+                  The EEOC is continuing its handling of your ADEA case. However, if 60 days have passed since the filing of the charge,
+                  you may file suit in federal or state court under the ADEA at this time.
+
+Equal Pay Act (EPA): You already have the right to sue under the EPA (filing an EEOC charge is not required.) EPA suits must be brought
+in federal or state court within 2 years (3 years for willful violations) of the alleged EPA underpayment. This means that backpay due for
+any violations that occurred more than 2 years (3 years) before you file suit may not be collectible.
+
+If you file suit, based on this charge, please send a copy of your court complaint to this office.
+
+                                                                         On behalf of the Commission
+
+
+
+                                                                                                                            10/15/2020
+ Enclosures(s)                                                         Jamie R. Williamson                                    (Date Mailed)
+                                                                         District Director
+
+ cc:           COMCAST CORPORATION AND COMCAST CABLE
+               COMMUNICATIONS MGMT, LLC
+
+               Katherine C. Oeltjen, Esq.                                             Paul C. Evans, Esq.
+               Console Mattiacci Law                                                  Baker & McKenzie, LLP
+               1525 Locust Street, 9th Floor                                          452 Fifth Avenue
+               Philadelphia, PA 19102                                                 New York, NY 10018
+               oeltjen@consolelaw.com                                                 paul.evans@bakermckenzie.com
+

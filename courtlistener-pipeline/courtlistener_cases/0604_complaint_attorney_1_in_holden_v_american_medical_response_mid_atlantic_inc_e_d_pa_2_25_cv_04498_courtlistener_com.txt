@@ -1,0 +1,732 @@
+Source URL: https://www.courtlistener.com/docket/71043409/1/holden-v-american-medical-response-mid-atlantic-inc/
+Title: Complaint (Attorney) – #1 in HOLDEN v. AMERICAN MEDICAL RESPONSE MID-ATLANTIC, INC. (E.D. Pa., 2:25-cv-04498) – CourtListener.com
+
+JS 44 (Rev. 04/21)          Case 2:25-cv-04498-KSM
+                                                CIVILDocument
+                                                      COVER1SHEET
+                                                              Filed 08/06/25                                                                       Page 1 of 16
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                        DEFENDANTS
+         RAKETA HOLDEN                                                                                   AMERICAN MEDICAL RESPONSE MID-ATLANTIC, INC.
+   (b) County of Residence of First Listed Plaintiff             PHILADELPHIA                            County of Residence of First Listed Defendant              PHILADELPHIA
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                         NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                    THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+
+         Sidney L. Gold, Esquire - The Gold Law Firm, P.C.
+         1835 Market St., Ste. 515, Phila, PA 19103 215-569-1999
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                      (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                     of Business In This State
+
+  2    U.S. Government                 4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                  Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                   Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY              PERSONAL INJURY                  625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                365 Personal Injury -                 of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product             Product Liability            690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability              367 Health Care/                                                         INTELLECTUAL                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &            Pharmaceutical                                                     PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                    Personal Injury                                                    820 Copyrights                    430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’          Product Liability                                                  830 Patent                        450 Commerce
+  152 Recovery of Defaulted               Liability              368 Asbestos Personal                                                  835 Patent - Abbreviated          460 Deportation
+       Student Loans                 340 Marine                      Injury Product                                                         New Drug Application          470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product              Liability                                                          840 Trademark                         Corrupt Organizations
+  153 Recovery of Overpayment             Liability             PERSONAL PROPERTY                           LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle           370 Other Fraud                   710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle           371 Truth in Lending                  Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability       380 Other Personal                720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal              Property Damage                   Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                  385 Property Damage               740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -           Product Liability             751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS             PRISONER PETITIONS                 790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights      Habeas Corpus:                    791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                  463 Alien Detainee                    Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment              510 Motions to Vacate                                                  870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                    Sentence                                                               or Defendant)                 896 Arbitration
+  245 Tort Product Liability             Accommodations          530 General                                                            871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -  535 Death Penalty                     IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment              Other:                            462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -  540 Mandamus & Other              465 Other Immigration                                                  950 Constitutionality of
+                                         Other                   550 Civil Rights                      Actions                                                                State Statutes
+                                     448 Education               555 Prison Condition
+                                                                 560 Civil Detainee -
+                                                                     Conditions of
+                                                                     Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+    Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                            (specify)                 Transfer                          Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                       1981, TITLE VII, PHRA
+VI. CAUSE OF ACTION Brief description of cause:
+
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                               150,000 IN EXCESS                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+08/06/2025                                                           /S/ SIDNEY L. GOLD, ESQUIRE
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+JS 44 Reverse (Rev. 04/21)   Case 2:25-cv-04498-KSM                  Document 1             Filed 08/06/25             Page 2 of 16
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statute.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+10/2024                     Case 2:25-cv-04498-KSM                         Document 1                    Filed 08/06/25            Page 3 of 16
+                                                          UNITED STATES DISTRICT COURT
+                                                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+                                                  6501 Essington Avenue, Philadelphia, Pennsylvania 19153
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+           1.    Does this case involve property included in an earlier numbered suit?                                                                    Yes
+
+           2.    Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                    Yes
+
+           3.    Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                       Yes
+
+           4.    Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                     Yes
+                 individual?
+
+           5.    Is this case related to an earlier numbered suit even though none of the above categories apply?                                         Yes
+                 If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is /     is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+           A.    Federal Question Cases:                                                                  B. Diversity Jurisdiction Cases:
+
+                 1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                 2.  FELA                                                                   2. Airplane Personal Injury
+                 3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                 4.  Antitrust                                                              4. Marine Personal Injury
+                 5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                 6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                 7.  Copyright/Trademark                                                    7. Products Liability
+                 8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                 9.  Labor-Management Relations                                                _____________________
+                 10. Civil Rights
+                 11. Habeas Corpus
+                 12. Securities Cases
+                 13. Social Security Review Cases
+                 14. Qui Tam Cases
+                 15. Cases Seeking Systemic Relief *see certification below*
+                 16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does /     does not have implications
+      beyond the parties before the court and       does /     does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                   ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+Case 2:25-cv-04498-KSM   Document 1   Filed 08/06/25   Page 4 of 16
+Case 2:25-cv-04498-KSM   Document 1   Filed 08/06/25   Page 5 of 16
+       Case 2:25-cv-04498-KSM              Document 1       Filed 08/06/25     Page 6 of 16
+
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+RAKETA HOLDEN,                                   :
+                          Plaintiff,             :
+                                                 :
+                 v.                              :       CIVIL ACTION NO.__________
+                                                 :
+AMERICAN MEDICAL RESPONSE                        :
+MID-ATLANTIC, INC.,                              :
+                Defendant.                       :
+                                                 :
+
+
+                                COMPLAINT AND JURY DEMAND
+
+I.     PRELIMINARY STATEMENT:
+
+       1.             This is an action for an award of damages, attorneys’ fees, and other relief on
+
+behalf of the Plaintiff, Raketa Holden (“Plaintiff”), a former employee of the Defendant,
+
+American Medical Response Mid-Atlantic, Inc. (“Defendant”), who has been harmed by the
+
+Defendant’s discriminatory and retaliatory employment practices.
+
+       2.         This action is brought under 42 U.S.C. §1981 ("§1981"), Title VII of the Civil
+
+Rights Act of 1964, 42 U.S.C. §2000(e), et seq., as amended by the Civil Rights Act of 1991
+
+(“Title VII”), and the Pennsylvania Human Relations Act, 43 P.S. §951 et seq. (“PHRA”).
+
+II.    JURISDICTION AND VENUE:
+
+       3.        The jurisdiction of this Court is invoked, and venue is proper in this district,
+
+pursuant to 28 U.S.C. §§1331 and 1391, as Plaintiff’s claims are substantively based on §1981
+
+and Title VII.
+
+       4.        The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C.
+
+§1367 to consider Plaintiff’s claims arising under the PHRA.
+
+
+
+
+                                                     1
+         Case 2:25-cv-04498-KSM           Document 1       Filed 08/06/25      Page 7 of 16
+
+
+
+
+         5.      All conditions precedent to the institution of this suit have been fulfilled and
+
+Plaintiff has satisfied all other jurisdictional prerequisites to the maintenance of this action. On
+
+May 9, 2025, a Notice of Right to Sue was issued by the Equal Employment Opportunity
+
+Commission and this action has been filed within ninety (90) days of receipt of said notice.
+
+III.     PARTIES:
+
+         6.      Plaintiff, Raketa Holden (“Plaintiff”), is an adult individual and citizen of the
+
+Commonwealth of Pennsylvania, residing therein at 4435 Loring Street, Philadelphia,
+
+Pennsylvania 19136.
+
+         7.       Defendant, American Medical Response Mid-Atlantic, Inc. (“Defendant”), is a
+
+corporation duly organized and existing under the laws of the Commonwealth of Pennsylvania,
+
+maintaining a place of business therein at 6501 Essington Avenue, Philadelphia, Pennsylvania
+
+19153.
+
+         8.      At all times relevant hereto, the Defendant was acting through its agents, servants,
+
+and employees, who were acting within the scope of their authority, course of employment, and
+
+under the direct control of the Defendant.
+
+         9.      At all times material herein, the Defendant has been a “person” and “employer” as
+
+defined under §1981, Title VII, and the PHRA, and has been, and is, subject to the provisions of
+
+each said Act.
+
+IV.      STATEMENT OF FACTS:
+
+         10.     Plaintiff was employed by the Defendant from on or about September 12, 2022
+
+until December 18, 2023, the date of her termination.
+
+
+
+
+                                                   2
+       Case 2:25-cv-04498-KSM           Document 1       Filed 08/06/25     Page 8 of 16
+
+
+
+
+       11.     Upon commencing employment, Plaintiff held the position of Wheelchair Van
+
+Driver. In or around January of 2023, Defendant promoted Plaintiff to the position of Emergency
+
+Medical Technician (“EMT”).
+
+       12.     As an EMT, Plaintiff reported directly to Nick Perez (“Perez”), Operations
+
+Manager, and John Mahon (“Mahon”), Supervisor.
+
+       13.     Beginning in or around February of 2023, the Defendant, through its agents,
+
+servants, and employees, began subjecting Plaintiff to a hostile work environment through
+
+various instances of sexual harassment and discrimination based on her race and her sex.
+
+       14.     By way of example, Frank (last name unknown) (“Frank”), EMT, repeatedly
+
+made unsolicited remarks to Plaintiff about her physical appearance, including commenting that
+
+she was pretty and making statements such as, “you look good, damn girl.”
+
+       15.     By way of further example, Frank, who is a Caucasian man, told Plaintiff, who is
+
+half Black, that he had never sexually “been with” a Black woman before, and that he wished he
+
+could have met her sooner.
+
+       16.     In rejection of Frank’s sexually harassing behavior, Plaintiff repeatedly told him
+
+to “mind [his] tongue” and consider the manner in which he spoke to her. Plaintiff made clear to
+
+Frank that she was not interested in a romantic or sexual relationship with him.
+
+       17.     In or around March of 2023, Plaintiff applied to the open position of Operation
+
+Direct Supervisor. Said position would have constituted a promotion for Plaintiff and resulted in
+
+an increase to her compensation.
+
+       18.     Shortly after she submitted her application, Plaintiff sent Perez an email inquiring
+
+about the position. However, Perez failed to respond to her email.
+
+
+
+
+                                                3
+       Case 2:25-cv-04498-KSM              Document 1    Filed 08/06/25      Page 9 of 16
+
+
+
+
+       19.     Approximately one week later, Plaintiff called Perez in a further effort to discuss
+
+the role. At that time, Perez told Plaintiff that Defendant planned to temporarily pause the hiring
+
+process.
+
+       20.     Shortly thereafter, Kimberly Jones (“Jones”), Supervisor, informed Plaintiff that
+
+Defendant had not received any other applications for the open Operation Direct Supervisor
+
+position to which Plaintiff had applied.
+
+       21.     However, in or around early May of 2023, Defendant selected Raymond Sickman
+
+(“Sickman”), a less experienced, less qualified, Caucasian man to fill the Operation Direct
+
+Supervisor role.
+
+       22.     Significantly, Sickman possessed only two (2) years of experience as an EMT,
+
+whereas Plaintiff possessed eight years of experience as an EMT and had been certified as an
+
+EMT since 2007.
+
+       23.     In or around late March of 2023, Plaintiff disclosed her pregnancy to Perez.
+
+       24.     Around the same time, Plaintiff made a request with Perez to take time off from
+
+work the upcoming weekend because of nausea that she was experiencing related to her
+
+pregnancy. Perez approved said request.
+
+       25.     However, in retaliation for requesting an accommodation for her pregnancy,
+
+Defendant suspended Plaintiff’s employment for one month without pay, allegedly for failing to
+
+properly notify Defendant of her request for time off.
+
+       26.     As evidence of Defendant’s discriminatory and retaliatory motivation for
+
+suspending Plaintiff’s employment, numerous male EMTs, including Carlos Ortiz (“Ortiz”),
+
+routinely made requests for time off with their supervisors without facing any discipline.
+
+
+
+
+                                                 4
+      Case 2:25-cv-04498-KSM           Document 1        Filed 08/06/25     Page 10 of 16
+
+
+
+
+       27.     Further, Defendant took no disciplinary action against Frank after he accumulated
+
+several unauthorized absences from work.
+
+       28.     During Plaintiff’s suspension, Perez and Angela Wilson (“Wilson”), Supervisor,
+
+repeatedly refused to answer Plaintiff’s inquiries regarding when she could return to work,
+
+thereby causing Plaintiff significant stress regarding her employment status.
+
+       29.     In or around early May of 2023, Defendant permitted Plaintiff to return to work.
+
+       30.     Thereafter, in or around late May of 2023, Plaintiff advised Perez of medical
+
+restrictions relating to her pregnancy, including her inability to lift heavy items, including
+
+patients. Plaintiff requested that Defendant permit her to perform light duty work in compliance
+
+with said restrictions as an accommodation for her pregnancy, and sent Defendant
+
+documentation from her physician substantiating said request.
+
+       31.     The following day, Perez notified Plaintiff that she would be required to work
+
+during the day instead of her normal night shift if she required light duty work. Significantly,
+
+Plaintiff had notified Perez upon her hire of her need to work the night shift to care for her
+
+children during the day. In reply, Plaintiff noted that Defendant permitted Jessica Qupo
+
+(“Qupo”), Driver, to continue working during the night shift after being placed on light duty.
+
+       32.     In or around early June of 2023, Plaintiff registered a complaint of sex and race
+
+discrimination with Michael Bealiah (“Bealiah”), Operation Direct Supervisor, regarding
+
+Defendant’s failure to promote her to the Operation Direct Supervisor position. However,
+
+Defendant failed to investigate Plaintiff’s concerns or take any remedial action.
+
+       33.     On or about September 12, 2023, Plaintiff commenced maternity leave.
+
+       34.     On or about November 11, 2023, upon Plaintiff’s return to work from maternity
+
+leave, she discovered that Defendant had changed her weekly schedule to a “platoon” schedule.
+
+
+
+                                                 5
+      Case 2:25-cv-04498-KSM           Document 1       Filed 08/06/25     Page 11 of 16
+
+
+
+
+Plaintiff’s new schedule reduced her hours from approximately 60 hours per week to
+
+approximately 40 hours per week, thereby reducing her compensation.
+
+       35.     In or around late November of 2023, Plaintiff informed Bealiah, Sickman, and
+
+Brian Findley (“Findley”), Operation Direct Supervisor, that Defendant was failing to allow her
+
+sufficient time and space to pump breast milk during her work shifts.
+
+       36.     On or about December 4, 2023, Plaintiff used Defendant’s van to return home to
+
+pump breast milk while she waited to receive an emergency call. Significantly, Defendant had
+
+agreed to allow her to do so, as she had no private place to pump during her work shifts.
+
+       37.     However, the following day, Defendant suspended Plaintiff’s employment
+
+without explanation.
+
+       38.     On or about December 14, 2023, Plaintiff received a call from Mahon and Alison
+
+Bartel (“Bartel”), Human Resources Manager. During said call, Bartel chastised Plaintiff for
+
+using Defendant’s vehicle to return home during her shift. As further discrimination, Bartel
+
+criticized Plaintiff’s need to pump breast milk, commenting “who do you think you are to pump
+
+on company time?” and adding that Defendant did not pay her to pump breast milk.
+
+Significantly, Plaintiff only pumped breast milk during her scheduled break times and while she
+
+was waiting for emergency calls.
+
+       39.     Furthermore, Defendant regularly permitted EMTs to return home while waiting
+
+for emergency calls without requiring them to seek permission to do so.
+
+       40.     Thereafter, on or about December 18, 2023, Defendant terminated Plaintiff’s
+
+employment.
+
+
+
+
+                                                6
+       Case 2:25-cv-04498-KSM              Document 1    Filed 08/06/25    Page 12 of 16
+
+
+
+
+       41.     Plaintiff believes and avers that Defendant terminated her employment based on
+
+her sex, pregnancy, and/or race, and/or in retaliation for opposing unlawful discrimination in the
+
+workplace and/or requesting accommodations for her pregnancy.
+
+                                            COUNT I
+                  (Title VII - Sex Discrimination, Pregnancy Discrimination,
+                                Race Discrimination, Retaliation)
+                                      Plaintiff v. Defendant
+
+       42.     Plaintiff incorporates by reference paragraphs 1 through 41 of this Complaint as
+
+though fully set forth at length herein.
+
+       43.     The actions of the Defendant, through its agents, servants, and employees, in
+
+subjecting Plaintiff to discrimination based on her sex, pregnancy, and race, and in retaliating
+
+against her for requesting accommodations for her pregnancy and opposing unlawful
+
+discrimination in the workplace, constituted violations of Title VII.
+
+       44.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of Title VII, Plaintiff sustained
+
+permanent and irreparable harm, resulting in the termination of her employment, which caused
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, front pay, and interest due thereon.
+
+       45.     As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of Title VII, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                          COUNT II
+                      (42 U.S.C. §1981 - Race Discrimination, Retaliation)
+                                     Plaintiff v. Defendant
+
+       46.      Plaintiff incorporates by reference paragraphs 1 through 45 of this Complaint as
+
+though fully set forth at length herein.
+
+
+                                                 7
+       Case 2:25-cv-04498-KSM              Document 1   Filed 08/06/25     Page 13 of 16
+
+
+
+
+       47.     The actions of the Defendant, through its agents, servants, and employees, in
+
+subjecting Plaintiff to discrimination based on her race, and in retaliating against her for
+
+opposing unlawful discrimination in the workplace, constituted violations of 42 U.S.C. §1981.
+
+       48.        As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of 42 U.S.C. §1981, Plaintiff
+
+sustained permanent and irreparable harm, resulting in the termination of her employment, which
+
+caused her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future
+
+earning power, plus back pay, and front pay and interest due thereon.
+
+       49.     As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of 42 U.S.C. §1981, Plaintiff
+
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                        COUNT III
+                   (PHRA - Sex Discrimination, Pregnancy Discrimination,
+                             Race Discrimination, Retaliation)
+                                   Plaintiff v. Defendant
+
+       50.     Plaintiff incorporates by reference paragraphs 1 through 49 of this Complaint as
+
+though fully set forth at length herein.
+
+       51.     The actions of the Defendant, through its agents, servants, and employees, in
+
+subjecting Plaintiff to discrimination based on her sex, pregnancy, and race, and in retaliating
+
+against her for requesting accommodations for her pregnancy and opposing unlawful
+
+discrimination in the workplace, constituted violations of the PHRA.
+
+       52.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff sustained
+
+permanent and irreparable harm, resulting in the termination of her employment, which caused
+
+
+
+
+                                                 8
+       Case 2:25-cv-04498-KSM              Document 1   Filed 08/06/25     Page 14 of 16
+
+
+
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, front pay, and interest due thereon.
+
+       53.     As further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                     PRAYER FOR RELIEF
+
+       54.     Plaintiff incorporates by reference paragraphs 1 through 53 of this Complaint as
+
+though fully set forth at length herein.
+
+       WHEREFORE, Plaintiff requests that this Court enter judgment in her favor and against
+
+the Defendant, and order that:
+
+       a.      Defendant compensate Plaintiff with a rate of pay and other benefits and
+
+emoluments of employment to which she would have been entitled had she not been subjected to
+
+unlawful discrimination and retaliation;
+
+       b.      Defendant compensate Plaintiff with an award of front pay, if appropriate;
+
+       c.      Defendant pay to Plaintiff punitive damages, compensatory damages for future
+
+pecuniary losses, pain, suffering, inconvenience, mental anguish, loss of enjoyment of life and
+
+other nonpecuniary losses as allowable;
+
+       d.      Defendant pay to Plaintiff pre and post judgment interest, costs of suit and
+
+attorney and expert witness fees as allowed by law;
+
+       e.      The Court award such other relief as is deemed just and proper.
+
+
+
+
+                                                 9
+     Case 2:25-cv-04498-KSM             Document 1      Filed 08/06/25    Page 15 of 16
+
+
+
+
+                                        JURY DEMAND
+
+     Plaintiff demands trial by jury.
+
+
+
+                                                     THE GOLD LAW FIRM, P.C.
+
+                                            By:      /s/ Sidney L. Gold, Esquire
+                                                     SIDNEY L. GOLD, ESQUIRE
+                                                     I.D. No.: 21374
+                                                     1835 Market Street, Suite 515
+                                                     Philadelphia, PA 19103
+                                                     (215) 569-1999
+                                                     Attorney for Plaintiff
+
+DATED: August 6, 2025
+
+
+
+
+                                              10
+       Case 2:25-cv-04498-KSM          Document 1        Filed 08/06/25     Page 16 of 16
+
+
+
+
+                                        VERIFICATION
+
+        I hereby verify that the statements contained in this Complaint are true and correct to the
+
+best of my knowledge, information and belief. I understand that false statements herein are
+
+made subject to the penalties of Title 18 Pa. C.S.A. §4904, relating to unsworn falsification to
+
+authorities.
+
+
+
+
+DATE:                                                _________________________________
+                                                     RAKETA HOLDEN, PLAINTIFF
+

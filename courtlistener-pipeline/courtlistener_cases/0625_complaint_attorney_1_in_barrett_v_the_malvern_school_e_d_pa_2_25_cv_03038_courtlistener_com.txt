@@ -1,0 +1,748 @@
+Source URL: https://www.courtlistener.com/docket/70533005/1/barrett-v-the-malvern-school/
+Title: Complaint (Attorney) – #1 in BARRETT v. THE MALVERN SCHOOL (E.D. Pa., 2:25-cv-03038) – CourtListener.com
+
+JS 44 (Rev. 04/21)          Case 2:25-cv-03038-RBS
+                                                CIVILDocument
+                                                      COVER1SHEET
+                                                              Filed 06/13/25                                                                       Page 1 of 14
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                         DEFENDANTS
+                                                                                                          THE MALVERN SCHOOL, BUSY BEES NORTH AMERICA,
+         DOUGLAS BARRETT, JR.                                                                             MALVERN SCHOOL REAL ESTATE LP, KRISTEN WATERFIELD,
+                                                                                                          JOSEPH A. SCANDONE AND MARNIE RHEN
+   (b) County of Residence of First Listed Plaintiff             Delaware County, PA                     County of Residence of First Listed Defendant
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                         NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                    THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+         Patricia V. Pierce and Christen Casale
+         Goldshaw Greenblatt Pierce LLC 215-978-9090
+         Two Penn Center, Suite 1230, 1500 JFK Blvd, Philadelphia, PA 19102
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                      (For Diversity Cases Only)                                    and One Box for Defendant)
+   1   U.S. Government                 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                     of Business In This State
+
+  2    U.S. Government                 4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                  Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                   Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY              PERSONAL INJURY                  625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                365 Personal Injury -                 of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product             Product Liability            690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument              Liability               367 Health Care/                                                         INTELLECTUAL                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &            Pharmaceutical                                                     PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment          Slander                     Personal Injury                                                    820 Copyrights                    430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’          Product Liability                                                  830 Patent                        450 Commerce
+  152 Recovery of Defaulted              Liability               368 Asbestos Personal                                                  835 Patent - Abbreviated          460 Deportation
+       Student Loans                 340 Marine                       Injury Product                                                        New Drug Application          470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product               Liability                                                         840 Trademark                         Corrupt Organizations
+  153 Recovery of Overpayment            Liability              PERSONAL PROPERTY                           LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle           370 Other Fraud                   710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle           371 Truth in Lending                  Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability       380 Other Personal                720 Labor/Management                 SOCIAL SECURITY                        Protection Act
+  195 Contract Product Liability     360 Other Personal               Property Damage                   Relations                       861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                   385 Property Damage              740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -            Product Liability            751 Family and Medical               863 DIWC/DIWW (405(g))                 Exchange
+                                         Medical Malpractice                                            Leave Act                       864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS             PRISONER PETITIONS                 790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights      Habeas Corpus:                    791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                  463 Alien Detainee                    Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment              510 Motions to Vacate                                                  870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                    Sentence                                                               or Defendant)                 896 Arbitration
+  245 Tort Product Liability             Accommodations          530 General                                                            871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -  535 Death Penalty                     IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment               Other:                           462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -   540 Mandamus & Other             465 Other Immigration                                                  950 Constitutionality of
+                                         Other                    550 Civil Rights                     Actions                                                                State Statutes
+                                     448 Education                555 Prison Condition
+                                                                  560 Civil Detainee -
+                                                                      Conditions of
+                                                                      Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from     6 Multidistrict                      8 Multidistrict
+    Proceeding             State Court                            Appellate Court               Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                            (specify)                  Transfer                         Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity) :
+                                       Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e; 29 U.S.C. § 215 (“FLSA”)
+VI. CAUSE OF ACTION Brief description of cause:
+                                       Gender discrimination, unpaid wages, unlawful termination in retaliation and tortious interference with a business relationship
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                                                                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+Jun 13, 2025
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+10/2024                     Case 2:25-cv-03038-RBS                         Document 1                    Filed 06/13/25            Page 2 of 14
+                                                          UNITED STATES DISTRICT COURT
+                                                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+           1.    Does this case involve property included in an earlier numbered suit?                                                                    Yes
+
+           2.    Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                    Yes
+
+           3.    Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                       Yes
+
+           4.    Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                     Yes
+                 individual?
+
+           5.    Is this case related to an earlier numbered suit even though none of the above categories apply?                                         Yes
+                 If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is /     is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+           A.    Federal Question Cases:                                                                  B. Diversity Jurisdiction Cases:
+
+                 1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                 2.  FELA                                                                   2. Airplane Personal Injury
+                 3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                 4.  Antitrust                                                              4. Marine Personal Injury
+                 5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                 6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                 7.  Copyright/Trademark                                                    7. Products Liability
+                 8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                 9.  Labor-Management Relations                                               _____________________
+                 10. Civil Rights
+                 11. Habeas Corpus
+                 12. Securities Cases
+                 13. Social Security Review Cases
+                 14. Qui Tam Cases
+                 15. Cases Seeking Systemic Relief *see certification below*
+                 16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does /     does not have implications
+      beyond the parties before the court and       does /     does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                   ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+       Case 2:25-cv-03038-RBS           Document 1        Filed 06/13/25      Page 3 of 14
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+ DOUGLAS BARRETT, Jr.                               :
+                                                    :
+                PLAINTIFF                           :       CIVIL ACTION NO.
+                                                    :
+        v.                                          :
+                                                    :       JURY TRIAL DEMANDED
+ THE MALVERN SCHOOL,                                :
+ BUSY BEES NORTH AMERICA,                           :
+ MALVERN SCHOOL REAL ESTATE LP,                     :
+ KRISTEN WATERFIELD,                                :
+ JOSEPH A. SCANDONE AND                             :
+ MARNIE RHEN,                                       :
+                                                    :
+               DEFENDANTS                           :
+
+
+
+                                CIVIL ACTION COMPLAINT
+
+       Plaintiff Douglas Barrett Jr. (“Plaintiff”) files this Civil Action Complaint (“Complaint”)
+
+against The Malvern School (“Malvern School”), Busy Bees North America (“Busy Bees”),
+
+Malvern School Real Estate LP (“Malvern School RE”), Kristen Waterfield, Joseph A. Scandone
+
+and Marnie Rhen (collectively “Defendants”), and in support thereof avers as follows:
+
+                                       INTRODUCTION
+
+       1.      Plaintiff files this Complaint to redress violations by Defendants of Title VII of the
+
+Civil Rights Act of 1964, 42 U.S.C. § 2000e et seq. (“Title VII”) and the Pennsylvania Human
+
+Relations Act, 43 P.S. § 991 et seq. (“PHRA”) based on gender, as well as the Pennsylvania Wage
+
+Payment Collection Law 43 P.S. § 260.1 et seq. (“WPCL”) and the Fair Labor Standards Act 29
+
+U.S.C. § 215 (“FLSA”), and tortious interference with a business relationship. As set forth more
+
+fully herein, the Defendants engaged in the following unlawful activities:
+        Case 2:25-cv-03038-RBS            Document 1          Filed 06/13/25   Page 4 of 14
+
+
+
+
+                a. Malvern School and Busy Bees North America unlawfully failed to pay
+
+                     Plaintiff a bonus based on his gender.
+
+                b. Malvern School RE, Kristen Waterfield, Joseph Scandone, and Marnie Rhen
+
+                     unlawfully failed to pay Plaintiff for work he completed for Malvern School
+
+                     RE.
+
+                c. Malvern School RE and Busy Bees unlawfully terminated Plaintiff’s
+
+                     employment in retaliation for raising good faith concerns regarding unpaid
+
+                     work.
+
+                d. Malvern School RE, Kristen Waterfield, and Marnie Rhen unlawfully and
+
+                     tortiously interfered with Plaintiff’s relationship with Busy Bees.
+
+       2.       As a result of Defendants’ unlawful actions, Plaintiff has suffered damages as set
+
+forth herein.
+
+                                  JURISDICTION AND VENUE
+
+       3.       The United States District Court for the Eastern District of Pennsylvania has
+
+original subject matter jurisdiction over Plaintiff’s Title VII and FLSA claims pursuant to 28
+
+U.S.C. § 1331 because Plaintiff’s claims arise under federal law.
+
+       4.       The United States District Court for the Eastern District of Pennsylvania has
+
+supplemental subject matter jurisdiction over Plaintiff’s remaining claims pursuant to 28 U.S.C. §
+
+1367 because Plaintiff’s remaining claims arise from a common set of facts as his claims arising
+
+under federal law.
+
+       5.       Venue is properly laid in this judicial district pursuant to 28 U.S.C. § 1391(b)(1)
+
+and (b)(2), because Defendant conducts business in this judicial district, and because a substantial
+
+
+
+
+                                                   2
+            Case 2:25-cv-03038-RBS        Document 1       Filed 06/13/25      Page 5 of 14
+
+
+
+
+part of the acts and/or omissions giving rise to the claims set forth herein occurred in this judicial
+
+district.
+
+         6.       Plaintiff has properly exhausted his administrative remedies by filing a timely
+
+Complaint of Employment Discrimination with the Equal Employment Opportunity Commission
+
+(“EEOC”), dual filed with the Pennsylvania Human Relations Commission (“PHRC”), and by
+
+filing the instant lawsuit within ninety (90) days of receiving the EEOC’s final agency decision.
+
+                                    FACTUAL BACKGROUND
+
+    I.         Plaintiff’s Employment with the Malvern School
+
+         7.       Plaintiff was hired by the Malvern School on or about February 2016 as the IT
+
+Manager, a newly created position paid on a salary basis and categorized as exempt from overtime
+
+pursuant to the FLSA.
+
+         8.       Kristen Waterfield and Joseph Scandone owned the Malvern School.
+
+         9.       For the majority of his employment, Plaintiff was the only IT professional
+
+supporting the Malvern School.
+
+         10.      Plaintiff developed all IT processes and procedures for managing the technology of
+
+the Malvern School’s 28 schools in Pennsylvania and New Jersey, as well as its Glen Mills
+
+Executive Office.
+
+         11.      Plaintiff additionally handled day-to-day IT troubleshooting and support services.
+
+         12.      Plaintiff received exemplary reviews throughout his employment with the Malvern
+
+School.
+
+         13.      In approximately 2019, Plaintiff was promoted to IT Director.
+
+         14.      Ms. Waterfield was the primary executive involved in the day-to-day operations
+
+and made all management decisions.
+
+
+                                                   3
+          Case 2:25-cv-03038-RBS           Document 1        Filed 06/13/25     Page 6 of 14
+
+
+
+
+    II.         The Malvern School Failed to Pay Male Directors a Closing Bonus
+
+          15.      Busy Bees purchased the Malvern School on September 29, 2023.
+
+          16.      All female directors of the Malvern School received large closing bonus payments
+
+as part of the sale.
+
+          17.      Plaintiff and the other male director, the Malvern School’s Facilities Director, did
+
+not receive a closing bonus.
+
+          18.      The disparate treatment of the Malvern School’s male directors regarding the
+
+payment of closing bonuses is consistent with anti-male stereotyping and preferential treatment
+
+towards female directors by Ms. Waterfield.
+
+          19.      Ms. Waterfield consistently prioritized training and development of female
+
+directors, but not male directors.
+
+          20.      For instance, female directors including HR Director Gigi Garcia, Director of
+
+Operations Debbie Martin, and Program Director Christle Seal, were invited annually to attend
+
+Pennsylvania’s Conference for Women.
+
+          21.      No comparable training or networking opportunities were offered to male directors.
+
+          22.      Marnie Rhen, Chief Financial Officer of the Malvern School, referred to Ms.
+
+Waterfield’s live-in partner as a “kept man.”
+
+          23.      Ms. Martin was not terminated or disciplined following her mishandling of an
+
+incident involving child abuse at The Malvern School’s Westtown location which occurred in or
+
+about September 2021.
+
+          24.      Daisy Anetor, a director-level female employee who joined the Malvern School just
+
+a few months prior to the sale to Busy Bees, was awarded a closing bonus.
+
+
+
+
+                                                    4
+          Case 2:25-cv-03038-RBS            Document 1       Filed 06/13/25      Page 7 of 14
+
+
+
+
+          25.      Upon information and belief, other female employees of the Malvern School were
+
+not disciplined or terminated for policy violations like theft.
+
+   III.         Plaintiff’s Work for Malvern School RE
+
+          26.      Shortly prior to the closing of the Malvern School’s sale to Busy Bees, Ms. Rhen
+
+asked Plaintiff to set up the IT infrastructure for Mr. Scandone and Ms. Waterfield’s new business,
+
+Malvern School RE.
+
+          27.      Upon information and belief, Malvern School RE was a new business unrelated to
+
+Busy Bees.
+
+          28.      Jackie Myers, a teacher from the Malvern School, was hired on a paid basis to
+
+oversee IT at this new real estate entity.
+
+          29.      Ms. Myers did not have any IT training.
+
+          30.      Plaintiff was not given a specific title or role, but was instructed to complete work
+
+on behalf of Malvern School RE.
+
+          31.      Plaintiff spent many hours over days, nights and weekends to help support Malvern
+
+Real Estate.
+
+          32.      Plaintiff transferred relevant cell phone numbers from the Malvern School to
+
+Malvern School RE.
+
+          33.      Plaintiff set up a Microsoft Exchange server for Malvern School RE.
+
+          34.      Plaintiff incurred expenses on his personal credit card to support Malvern School
+
+RE.
+
+          35.      On or about October 12, 2023, Ms. Myers contacted Plaintiff and asked for further
+
+assistance setting up cell phones for Malvern School RE.
+
+
+
+
+                                                     5
+       Case 2:25-cv-03038-RBS         Document 1       Filed 06/13/25      Page 8 of 14
+
+
+
+
+       36.    Plaintiff declined Ms. Myers’ request, as he had not been paid for the work he had
+
+done setting up Malvern School RE thus far, and because he had not received a closing bonus
+
+following the Malvern School’s sale to Busy Bees despite having been enticed by Ms. Waterfield
+
+to complete a labor-intensive camera project for the Malvern School as it prepared for the sale
+
+with promises of a bonus.
+
+       37.    Plaintiff spoke with Ms. Waterfield on October 13, 2023 and relayed that he could
+
+not provide unpaid work for Malvern School RE any longer.
+
+       38.    By this time, Plaintiff was working on a paid basis for Busy Bees following its
+
+purchase of the Malvern School.
+
+       39.    During this conversation Ms. Waterfield noted that she “had it on good authority”
+
+that Plaintiff would have a job for at least a year with Busy Bees, though she did not know what
+
+would happen to his position long term.
+
+       40.    Ms. Rhen contacted Plaintiff on October 20, 2023 and asked about the status of
+
+Plaintiff’s work for Malvern School RE.
+
+       41.    Ms. Rhen asked Plaintiff to set up another Microsoft Exchange domain for Malvern
+
+School RE.
+
+       42.    Plaintiff told Ms. Rhen that he had already relayed to Ms. Waterfield that he would
+
+not be performing additional unpaid work for Malvern School RE.
+
+       43.    Ms. Rhen told Plaintiff that he was required to continue working on an unpaid basis
+
+for Malvern School RE because the work had been assigned to Plaintiff prior to the closing of
+
+Busy Bees’ purchase of the Malvern School.
+
+
+
+
+                                               6
+        Case 2:25-cv-03038-RBS           Document 1        Filed 06/13/25      Page 9 of 14
+
+
+
+
+       44.     On December 1, 2023, Ms. Rhen – who had, like Plaintiff, been hired by Busy Bees
+
+following the merger – called Plaintiff into the Busy Bees executive office under the guise of
+
+receiving his performance review.
+
+       45.     At this meeting, Busy Bees HR Director Ms. Garcia informed Plaintiff that he was
+
+being terminated.
+
+       46.     Ms. Garcia and Ms. Rhen provided Plaintiff with a separation agreement which
+
+stated that the decision to terminate was based in part “on the elimination of [Plaintiff’s] position,
+
+[Plaintiff’s] recent interaction with employees, and [Plaintiff’s] inability to integrate into the
+
+company culture.”
+
+       47.     Upon information and belief, Busy Bees’ decision to terminate Plaintiff’s
+
+employment was unlawfully influenced by Defendants Malvern School RE, Ms. Waterfield, and
+
+Ms. Rhen.
+
+       48.     Plaintiff told Ms. Garcia that he was being retaliated against for asserting his rights.
+
+       49.     Ms. Garcia responded that Plaintiff had a right to complain but that he “needed to
+
+be nice about it.”
+
+       50.     Ms. Garcia did not deny that Plaintiff had made a complaint, nor did she deny that
+
+Plaintiff’s complaint was the reason he was being terminated.
+
+       51.     Upon information and belief, Malvern School RE and Kristen Waterfield, and
+
+Marnie Rhen used their relationship and influence with Busy Bees to convince Busy Bees to
+
+terminate Plaintiff’s employment, in retaliation for Plaintiff complaining about not being paid for
+
+work completed on behalf of Malvern School RE, and not receiving a closing bonus.
+
+
+
+
+                                                  7
+       Case 2:25-cv-03038-RBS            Document 1       Filed 06/13/25       Page 10 of 14
+
+
+
+
+                                         COUNT I
+          Discrimination in Violation of Title VII (Malvern School and Busy Bees)
+       52.      Plaintiff incorporates the previous allegations of the Complaint as though fully set
+
+forth herein.
+
+       53.      Plaintiff is male.
+
+       54.      Malvern School and/or Busy Bees’ decision to not pay Plaintiff a closing bonus
+
+associated with the sale of the Malvern School to Busy Bees was based on Plaintiff’s gender.
+
+       55.      By the aforesaid conduct, Defendants discriminated against Plaintiff based on his
+
+gender in violation of Title VII.
+
+       56.      These actions, as laid forth in this Complaint, constitute violations of Title VII.
+
+       WHEREFORE, Plaintiff seeks judgment in his favor, and against Defendants, in the form
+
+of (a) backpay and benefits, (b) compensatory damages, (c) reinstatement, or front pay in lieu
+
+thereof, (d) prejudgment interest, (e) attorneys’ fees and costs, and (f) any other appropriate and/or
+
+equitable relief as allowed by law and as determined by the Court.
+
+                                     COUNT II
+   Violation of the Pennsylvania Human Relations Act (Malvern School and Busy Bees)
+
+       57.      Plaintiff incorporates the previous allegations of the Complaint as though fully set
+
+forth herein.
+
+       58.      Plaintiff is male.
+
+       59.      Malvern School and/or Busy Bees’ decision to not pay Plaintiff a closing bonus
+
+associated with the sale of the Malvern School to Busy Bees was based on Plaintiff’s gender.
+
+       60.      By the aforesaid conduct, Defendants discriminated against Plaintiff based on his
+
+gender in violation of PHRA.
+
+       61.      These actions, as laid forth in this Complaint, constitute violations of PHRA.
+
+
+
+                                                  8
+       Case 2:25-cv-03038-RBS           Document 1       Filed 06/13/25      Page 11 of 14
+
+
+
+
+       WHEREFORE, Plaintiff seeks judgment in his favor, and against Defendants, in the form
+
+of (a) backpay and benefits, (b) compensatory damages, (c) reinstatement, or front pay in lieu
+
+thereof, (d) prejudgment interest, (e) attorneys’ fees and costs, (f) liquidated damages, and (g) any
+
+other appropriate and/or equitable relief as allowed by law and as determined by the Court.
+
+                                          COUNT III
+                Violation of the Fair Labor Standards Act (Malvern School RE)
+       62.      Plaintiff incorporates the previous allegations of the Complaint as though fully set
+
+forth herein.
+
+       63.      Plaintiff completed work on behalf of Malvern School RE.
+
+       64.      Without any good faith excuse or justification, Malvern School RE willfully failed
+
+and refused to pay Plaintiff for work completed on behalf of Malvern School RE.
+
+       65.      Plaintiff has suffered and incurred the loss of wages, attorneys’ fees and costs, and
+
+other damages as the result of Defendants’ actions.
+
+       66.      The above actions constitute violations of the Fair Labor Standards Act by
+
+Defendants.
+
+       WHEREFORE, Plaintiff seeks judgment in his favor, and against Defendants, in the form
+
+of (a) minimum wage payment for all hours worked, (b) an additional equal amount as liquidated
+
+damages, (c) prejudgment interest, (d) attorneys’ fees and costs, and (e) any other appropriate
+
+and/or equitable relief as allowed by law and as determined by the Court.
+
+                                      COUNT IV
+ Violation of the Wage Payment Collection Law (Malvern School RE, Kristen Waterfield,
+                           Joseph Scandone, Marnie Rhen)
+        67.     Plaintiff incorporates the previous allegations of the Complaint as though fully set
+forth herein.
+        68.     Plaintiff completed work on behalf of Malvern School RE.
+
+
+
+
+                                                  9
+       Case 2:25-cv-03038-RBS           Document 1       Filed 06/13/25      Page 12 of 14
+
+
+
+
+       69.      Without any good faith excuse or justification, Malvern School RE, Kristen
+
+Waterfield, Joseph Scandone, and Marnie Rhen willfully failed and refused to pay Plaintiff for
+
+work completed on behalf of Malvern School RE.
+
+       70.      Plaintiff has suffered and incurred the loss of wages, attorneys’ fees and costs, and
+
+other damages as the result of Defendants’ actions.
+
+       71.      The above actions constitute violations of the Pennsylvania Wage Payment and
+
+Collection Law by Defendants.
+
+       WHEREFORE, Plaintiff seeks judgment in his favor, and against Defendants, in the form
+
+of (a) compensatory damages, (b) liquidated damages, (c) prejudgment interest, (d) attorneys’ fees
+
+and costs, (e) any other appropriate and/or equitable relief as allowed by law and as determined by
+
+the Court.
+
+                                         COUNT V
+ Retaliation in Violation of the Fair Labor Standards Act (Busy Bees, Malvern School RE)
+       72.      Plaintiff incorporates the previous allegations of the Complaint as though fully set
+
+forth herein.
+
+       73.      Without any good faith excuse or justification, Malvern School RE willfully failed
+
+and refused to pay Plaintiff for work completed on behalf of Malvern School RE.
+
+       74.      Plaintiff raised a good faith concern regarding the Malvern School RE’s failure to
+
+pay him minimum wage and/or overtime for his work.
+
+       75.      The decision to terminate Plaintiff’s employment with Malvern School RE was
+
+unlawful retaliation for having complained regarding Defendants’ failure to pay Plaintiff the wages
+
+he was entitled to.
+
+
+
+
+                                                 10
+       Case 2:25-cv-03038-RBS           Document 1       Filed 06/13/25      Page 13 of 14
+
+
+
+
+        76.     Malvern School RE further engaged in unlawful post-termination retaliation
+
+against Plaintiff in violation of the FLSA by using their influence with Busy Bees to convince
+
+Busy Bees to terminate Plaintiff’s employment.
+
+        77.     Busy Bees also unlawfully retaliated against Plaintiff in violation of the FLSA by
+
+terminating Plaintiff’s employment based on his having complained regarding Malvern School
+
+RE’s failure to pay Plaintiff the wages he was legally entitled to.
+
+        WHEREFORE, Plaintiff seeks judgment in his favor, and against Defendants, in the form
+
+of (a) unpaid overtime compensation, (b) equal amount as liquidated damages, (c) reinstatement,
+
+(d) prejudgment interest, (e) attorneys’ fees and costs, and (f) any other appropriate and/or
+
+equitable relief as allowed by law and as determined by the Court.
+
+                                       COUNT VI
+       Tortious Interference (Malvern School RE, Kristen Waterfield, Marnie Rhen)
+        78.     Plaintiff incorporates the previous allegations of the Complaint as though fully set
+
+forth herein.
+
+        79.     Plaintiff had a contractual or economic relationship with Busy Bees.
+
+        80.     Malvern School RE, Kristen Waterfield, and Marnie Rhen took purposeful action
+
+specifically intended to harm the relationship between Plaintiff and Busy Bees.
+
+        81.     Malvern School RE, Kristen Waterfield, and Marnie Rhen lacked any privilege or
+
+justification for their actions.
+
+        82.     Plaintiff suffered legal damages as a result of Malvern School RE, Kristen
+
+Waterfield, and Marnie Rhen’s unlawful conduct, namely, he was fired from his position with
+
+Busy Bees.
+
+
+
+
+                                                 11
+      Case 2:25-cv-03038-RBS          Document 1       Filed 06/13/25   Page 14 of 14
+
+
+
+
+       WHEREFORE, Plaintiff seeks judgment in his favor, and against Defendants, in the form
+
+of compensatory and punitive damages, prejudgment interest, and any other appropriate and/or
+
+equitable relief as allowed by law and as determined by the Court.
+
+Dated: June 13, 2025                        Respectfully submitted,
+
+                                            GOLDSHAW GREENBLATT PIERCE LLC
+
+
+                                            ________________________________
+                                            Patricia V. Pierce, Esquire (ID No. 010101998)
+                                            Christen L. Casale, Esquire (ID No. 170192015)
+                                            Attorneys for Plaintiff, Douglas Barrett
+
+
+
+
+                                               12
+

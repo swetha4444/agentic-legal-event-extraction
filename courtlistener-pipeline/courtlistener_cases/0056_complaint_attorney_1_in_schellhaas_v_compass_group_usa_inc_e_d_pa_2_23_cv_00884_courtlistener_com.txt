@@ -1,0 +1,1492 @@
+Source URL: https://www.courtlistener.com/docket/66971926/1/schellhaas-v-compass-group-usa-inc/
+Title: Complaint (Attorney) – #1 in SCHELLHAAS v. COMPASS GROUP USA, INC. (E.D. Pa., 2:23-cv-00884) – CourtListener.com
+
+Case 2:23-cv-00884-Té fy 1 P eseyVRI SHR 03/08/23 Page 1 of 39
+
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS DEFENDANTS
+COMPASS GROUP, USA, INC.
+HAYLEY SCHELLHAAS
+
+(b) County of Residence of First Listed Plaintiff Montgomery
+(EXCEPT IN U.S. PLAINTIFF CASES)
+
+JS 44 (Rev. 10/20)
+
+County of Residence of First Listed Defendant Mecklenburg
+(IN U.S. PLAINTIFF CASES ONLY)
+
+INLAND CONDEMNATION CASES, USE THE LOCATION OF
+THE TRACT OF LAND INVOLVED.
+
+NOTE:
+
+(c) Attorneys (Firm Name, Address, and Telephone Number) Attorneys (if Known)
+
+Katherine C. Oeltjen , Esquire
+Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+
+Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X”’ in One Box Only) IW. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+(For Diversity Cases Only) and One Box for Defendant)
+[_]1 U.S. Government [x]3 Federal Question PTF DEF PIF DEF
+Plaintiff (U.S. Government Not a Party) Citizen of This State C 1 C 1 Incorporated or Principal Place CT 4 C 4
+of Business In This State
+CT 2 US. Government CT 4 Diversity Citizen of Another State C 2 C 2 Incorporated and Principal Place CT 5 C 5
+Defendant (Indicate Citizenship of Parties in Item III) of Business In Another State
+Citizen or Subject of a LC] 3 LC] 3 Foreign Nation CT 6 LC] 6
+Foreign Country
+
+IV. NATURE OF SUIT (Place an “X” in One Box Only)
+
+Click here for: Nature of Suit Code Descriptions.
+
+| CONTRACT TORTS FORFEITURE/PENALTY BANKRUPTCY OTHER STATUTES |
+110 Insurance PERSONAL INJURY PERSONAL INJURY | | 625 Drug Related Seizure 422 Appeal 28 USC 158 375 False Claims Act
+120 Marine 310 Airplane C 365 Personal Injury - of Property 21 USC 881 423 Withdrawal 376 Qui Tam (31 USC
+130 Miller Act 315 Airplane Product Product Liability | 690 Other 28 USC 157 3729(a))
+140 Negotiable Instrument Liability LC] 367 Health Care/ 400 State Reapportionment
+[ | 150 Recovery of Overpayment 320 Assault, Libel & Pharmaceutical PROPERTY RIGHTS 410 Antitrust
+& Enforcement of Judgment Slander Personal Injury 820 Copyrights 430 Banks and Banking
+151 Medicare Act 330 Federal Employers’ Product Liability 830 Patent |_| 450 Commerce
+152 Recovery of Defaulted Liability LC] 368 Asbestos Personal 835 Patent - Abbreviated r_| 460 Deportation
+Student Loans 340 Marine Injury Product New Drug Application [__} 470 Racketeer Influenced and
+(Excludes Veterans) 345 Marine Product Liability 840 Trademark Corrupt Organizations
+CT 153 Recovery of Overpayment Liability PERSONAL PROPERTY LABOR | 880 Defend Trade Secrets T | 480 Consumer Credit
+of Veteran’s Benefits 350 Motor Vehicle 370 Other Fraud 710 Fair Labor Standards Act of 2016 (15 USC 1681 or 1692)
+] 160 Stockholders’ Suits 355 Motor Vehicle 371 Truth in Lending Act T | 485 Telephone Consumer
+[| 190 Other Contract Product Liability CL] 380 Other Personal | | 720 Labor/Management SOCIAL SECURITY Protection Act
+| ]195 Contract Product Liability 360 Other Personal Property Damage Relations 861 HIA (1395ff) 490 Cable/Sat TV
+| 196 Franchise Injury LC] 385 Property Damage 740 Railway Labor Act 862 Black Lung (923) 850 Securities/Commodities/
+362 Personal Injury - Product Liability 751 Family and Medical 863 DIWC/DIWW (405(g)) Exchange
+Medical Malpractice Leave Act 864 SSID Title XVI r | 890 Other Statutory Actions
+REAL PROPERTY CIVIL RIGHTS PRISONER PETITIONS 790 Other Labor Litigation |_| 865 RSI (405(g)) || 891 Agricultural Acts
+[|_| 210 Land Condemnation 440 Other Civil Rights Habeas Corpus: |_|791 Employee Retirement | | 893 Environmental Matters
+[| 220 Foreclosure 441 Voting | | 463 Alien Detainee Income Security Act FEDERAL TAX SUITS 895 Freedom of Information
+| 230 Rent Lease & Ejectment x | 442 Employment i | 510 Motions to Vacate | | 870 Taxes (U.S. Plaintiff Act
+240 Torts to Land 443 Housing/ Sentence or Defendant) 896 Arbitration
+| 245 Tort Product Liability Accommodations | | 530 General T | 871 IRS—Third Party - 899 Administrative Procedure
+[| 290 All Other Real Property 445 Amer. w/Disabilities - | 535 Death Penalty IMMIGRATION 26 USC 7609 Act/Review or Appeal of
+Employment Other: 462 Naturalization Application Agency Decision
+446 Amer. w/Disabilities - 540 Mandamus & Other 465 Other Immigration T | 950 Constitutionality of
+Other 550 Civil Rights Actions State Statutes
+448 Education 555 Prison Condition
+560 Civil Detainee -
+Conditions of
+Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+
+1 Original 2 Removed from 3 Remanded from Cc 4 Reinstated or CO 5 Transferred from 6 Multidistrict 8 Multidistrict
+Proceeding State Court Appellate Court Reopened Another District Litigation - Litigation -
+(specify) Transfer Direct File
+
+Cite the U.S. Civil Statute under which you are filing (De not cite jurisdictional statutes unless diversity): 42 U.S.C. §20006¢, et seq. (Title VII’); 43 P.S. §951, et
+seq. (‘PHRA’); Phila. Code § 9-1101, et seq. (‘PFPO”)
+
+VI. CAUSE OF ACTION
+
+Brief description of cause:
+Plaintiff brings this action against her former employer for sex and sexual orientation discrimination and retaliation.
+
+VII. REQUESTED IN [] CHECK IF THIS IS A CLASS ACTION DEMAND $ CHECK YES only if demanded in complaint:
+COMPLAINT: UNDER RULE 23, F.R.Cv.P. excess of $75,000 JURY DEMAND: E]yes [No
+VIII. RELATED CASK(S)
+(See instructions):
+IF ANY JUDGE DOCKET NUMBER
+DATE SIGNAJORY OPATIORNE Y a a 4 .
+March 8, 2023 X ata { Vy ALA
+FOR OFFICE USE ONLY \ wo VU
+RECEIPT # AMOUNT APPL YING IFP JUDGE MAG. JUDGE
+
+Case 2:23-cv-00884-TUSITEDSHUMmEeDISTRICE KOWRB/O8/23 Page 2 of 39
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DESIGNATION FORM
+(to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+Address of Plaintiff: Gilbertsville, PA 19525
+
+Address of Defendant 2400 Yorkmont Road, Charlotte, NC 28217
+
+Place of Accident, Incident or Transaction:
+
+RELATED CASE, IF ANY:
+
+Case Number: Judge: Date Terminated:
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1. Is this case related to property included in an earlier numbered suit pending or within one year Yes No
+previously terminated action in this court?
+
+2. Does this case involve the same issue of fact or grow out of the same transaction as a prior suit Yes No
+pending or within one year previously terminated action 1n this court?
+
+3. Does this case involve the validity or infrmgement of a patent already in suit or any earlier Yes No
+numbered case pending or within one year previously terminated action of this court?
+
+<] AJ K
+
+4. Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights Yes No Y
+case filed by the same individual?
+
+I certify that, to my knowledge, the within case 0 is / [J is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+03/08/23 /s/ Katherine C. Oeltjen 318037
+
+Attorney-at-Law / Pro Se Plaintiff Attorney LD. # (if applicable)
+
+DATE:
+
+CIVIL: (Placea \ in one category only)
+
+A, Federal Question Cases: B. Diversity Jurisdiction Cases:
+oO Indemnity Contract, Marine Contract, and All Other Contracts CJ 1. Insurance Contract and Other Contracts
+[CI 2. FELA LJ 2. Airplane Personal Injury
+CI 3. Jones Act-Personal Injury LJ 3. Assault, Defamation
+LJ 4. Antitrust CJ 4. Marine Personal Injury
+C1 5. Patent [J 5. Motor Vehicle Personal Injury
+L] 6. Labor-Management Relations LJ 6. Other Personal Injury (Please specify):
+7. Civil Rights L] 7. Products Liability
+C1 8. Habeas Corpus C1 8. Products Liability - Asbestos
+H 9. Securities Act(s) Cases LJ 9. Allother Diversity Cases
+
+10. Social Security Review Cases (Please specify):
+CJ 11. All other Federal Question Cases
+
+(Please specify):
+
+ARBITRATION CERTIFICATION
+(The effect of this certification is to remove the case from eligibility for arbitration.)
+
+, Katherine C. Oeltjen, Esquire
+
+> , counsel of record or pro se plaintiff, do hereby certify:
+
+Y Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+exceed the sum of $150,000.00 exclusive of interest and costs:
+
+Relief other than monetary damages is sought.
+
+03/08/23 /s/ Katherine C. Oeltjen 318037
+
+Attorney-at-Law / Pro Se Plaintiff Attorney LD. # (if applicable)
+
+DATE:
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (5/2018)
+
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 3 of 39
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+CASE MANAGEMENT TRACK DESIGNATION FORM
+
+Hayley Schellhaas : CIVIL ACTION
+Plaintiff,
+Vv.
+
+Compass Group USA, INC. NO.
+
+Defendant
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus — Cases brought under 28 U.S.C. § 2241 through § 2255. ( )
+
+(b) Social Security — Cases requesting review of a decision of the Secretary of Health
+and Human Services denying plaintiff Social Security Benefits. ( )
+
+(c) Arbitration — Cases required to be designated for arbitration under Local Civil Rule 53.2. ( )
+
+(d) Asbestos — Cases involving claims for personal injury or property damage from
+exposure to asbestos. ( )
+
+(e) Special Management — Cases that do not fall into tracks (a) through (d) that are
+commonly referred to as complex and that need special or intense management by
+the court. (See reverse side of this form for a detailed explanation of special
+
+management cases.) ( )
+(f) Standard Management — Cases that do not fall into any one of the other tracks. (Xx)
+March 8, 2023 Caster, Plaintiff, Hayley Schellhaas
+Date Heehur Lait Attorney for
+215-545-7676 215-565-2859 oeltjen@consolelaw.com
+Telephone FAX Number E-Mail Address
+
+(Civ. 660) 10/02
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 4 of 39
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE EASTERN DISTRICT OF PENNSYLVANIA
+
+HAYLEY SCHELLHAAS,
+Gilbertsville, PA 19525 CIVIL ACTION NO.
+
+Plaintiff,
+Vv. JURY TRIAL DEMANDED
+
+COMPASS GROUP USA, INC.,
+2400 Yorkmont Road
+Charlotte, NC 28217
+
+Defendant.
+
+COMPLAINT
+
+I. INTRODUCTION
+
+Plaintiff, Hayley Schellhaas (“Plaintiff”), was a twenty-two-year, high performing
+Regional Sales Director for Defendant, Compass Group USA, Inc. (“Defendant”), when she was
+terminated within five weeks of complaining about discrimination and retaliation based on her
+sex and sexual orientation. Prior to her termination, Plaintiff had complained to Defendant on
+several occasions throughout her tenure—abiding by Defendant’s policies requiring her to do the
+same—about years of rampant sex discrimination, sexual harassment, and retaliation. Plaintiff
+was met with increasing hostility, unjust and unwarranted criticism, and retaliatory action each
+time, including but not limited to reassigning her accounts to her non-complaining male and/or
+heterosexual counterparts, and eventually terminating her. Plaintiff now brings claims pursuant
+to Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000e, et seg. (“Title VII’),
+Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seg. (“PHRA”) and the
+Philadelphia Fair Practices Ordinance, Phila. Code § 9-1101, et seg. (“PFPO”) against
+
+Defendant. Plaintiff seeks all appropriate relief.
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 5 of 39
+
+I. PARTIES
+
+1. Plaintiff is an individual and citizen of Pennsylvania. She resides Gilbertsville,
+Pennsylvania.
+
+2. Plaintiff is female.
+
+3. Plaintiff is gay.
+
+4. Defendant is a North Carolina corporation with a principal place of business
+located at 2400 Yorkmont Road, Charlotte, North Carolina 28217.
+
+5. Defendant is engaged in an industry affecting interstate commerce and regularly
+does business in the Commonwealth of Pennsylvania, including, without limitation, within and
+throughout the City of Philadelphia.
+
+6. At all times material hereto, Defendant employed more than fifteen (15)
+individuals.
+
+7. At all times material hereto, Plaintiff worked for Defendant out of her home office
+in Pennsylvania with travel within the City of Philadelphia on behalf of Defendant on a bi-weekly
+to monthly basis.
+
+8. Plaintiff conducted business on Defendant’s behalf within the City of Philadelphia
+and Defendant does business within the City of Philadelphia.
+
+9. At all times material hereto, Defendant acted by and through its authorized agents,
+servants, workmen, and/or employees acting within the course and scope of their employment
+with Defendant and in furtherance of Defendant’s business.
+
+10. At all times material hereto, Defendant acted as an employer within the meaning
+
+of the statutes which form the basis of this matter.
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 6 of 39
+
+11. At all times material hereto, Plaintiff was an employee of Defendant within the
+meaning of the statutes that form the basis of this matter.
+
+12. Defendant is a covered employer within the meaning of the statutes that form the
+basis of this matter.
+
+I. JURISDICTION AND VENUE
+
+13. The causes of action which form the basis of this matter arise under Title VII, the
+PHRA and the PFPO.
+
+14. The District Court has jurisdiction over Count I (Title VII) pursuant to 28 U.S.C.
+§1331.
+
+15. The District Court has supplemental jurisdiction over Count IT (PHRA) and Count
+Il (PFPO) pursuant to 28 U.S.C. §1367.
+
+16. The District Court has jurisdiction over all Counts (Count I-IIT) pursuant to 28
+U.S.C. §1332 since the amount in controversy exceeds the sum or value of seventy-five thousand
+dollars ($75,000), exclusive of interests and costs, and as there is complete diversity of citizenship
+as Plaintiff is a citizen of Pennsylvania and Defendant is a citizen of North Carolina.
+
+17. Venue is proper in this District Court under 28 U.S.C. §1391(b) because a
+substantial part of the events giving rise to these claims occurred within this District.
+
+18. On or about August 5, 2021, Plaintiff filed a Charge of Discrimination with the
+Pennsylvania Human Relations Commission (“PHRC”) (No. 202100305), and cross filed with the
+Equal Employment Opportunity Commission (“EEOC”) (No. 17F202161517), complaining of the
+acts of discrimination and retaliation alleged herein. Attached hereto, incorporated herein, and
+marked as Exhibit “1” is a true and correct copy of the PHRC Charge of Discrimination (with
+
+personal identifying information redacted).
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 7 of 39
+
+19. On or about December 14, 2022, the EEOC issued Plaintiff a Notice of Right to
+Sue. Attached hereto and marked as Exhibit “2” is a true and correct copy of the Notice (with
+personal identifying information redacted).
+
+20. Plaintiff has fully complied with all administrative prerequisites for the
+commencement of this action.
+
+IV. FACTUAL ALLEGATIONS
+
+21. On or about June 1, 1999, Plaintiff began working at a company that was later
+acquired by Defendant.
+
+22. Defendant is a national contract food service company.
+
+23. Plaintiff was a Regional Sales Director at Defendant from 2008 up until her 2021
+termination.
+
+24. In her capacity as Sales Director, Plaintiff was responsible for growing
+Defendant’s business and industry sector.
+
+25. Plaintiff worked out of her home office in Pottstown, Pennsylvania up until 2016,
+and Gilbertsville, Pennsylvania from 2016 onward.
+
+26. Plaintiff routinely performed work for Defendant’s business interest within the
+City of Philadelphia.
+
+27. Plaintiff consistently performed her job duties in a highly competent manner and
+received positive feedback.
+
+28. By way of example and without limitation, Plaintiff won the Sales Excellence
+award for twelve consecutive years, from 2008 through 2019.
+
+29. Plaintiff began reporting to Jennifer Thompson (“Thompson”), Regional Vice
+
+President, Sales, in or about August 2018.
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 8 of 39
+
+30.
+
+31.
+
+Plaintiff was the only gay employee reporting to Thompson.
+
+Thompson reported to Michael Gaebel (“Gaebel”), Senior Vice President, Sales,
+
+Corporate Services.
+
+32.
+
+Officer.
+
+33.
+
+34.
+
+Gaebel reported to Christopher Kowalewski (“Kowalewski’) Chief Growth
+
+Defendant has a long history of systemic, unmediated sex discrimination.
+
+By way of example and without limitation:
+
+In or about 2009, a male colleague gave Plaintiff a Talbot’s gift card and told her
+to buy “appropriate” attire for her role. Plaintiff understood this to mean that the
+
+colleague wanted her to dress in a more traditionally feminine manner.
+
+. When visiting client premises and professional kitchens—a standard part of
+
+Plaintiff's sales role—Plaintiff was told to “leave” on multiple occasions because
+professional kitchens were “a man’s space.”
+
+From 2010-2013, Dean Poling (“Poling”), a Vice President on Plaintiffs sales
+team, made regular abusive and harassing comments to Plaintiff and other female
+colleagues. For example, Poling would tell women that they were not “good” at
+their jobs. Just before Plaintiff made a client presentation, Poling told Plaintiff
+that she was “going to screw up this deal for us” because she was “just not as
+good” as her male colleague. Plaintiff consistently outperformed that male
+
+colleague in sales.
+
+. Poling also made remarks to Plaintiff about her sex and sexual orientation, even
+
+before Plaintiff came out at work. For example, in 2012, Poling asked Plaintiff
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 9 of 39
+
+whether one of their female dieticians would be her “type” if she were “a
+
+lesbian.”
+
+e. Plaintiff and three other female colleagues who had experienced similar
+
+discriminatory comments and conduct based on their sex complained to Human
+
+Resources about the same. Rather than issuing any form of corrective action or
+
+terminating Poling, he was moved to another position at Defendant.
+
+f. In or about August or September 2013, at a work event at a hotel, on the night of
+
+his retirement party, Kurt Kimball (“Kimball”) (male, heterosexual), then Chief
+
+Growth Officer, sexually harassed Plaintiff by way of the following and without
+
+limitation:
+
+il.
+
+iil.
+
+iv.
+
+Vi.
+
+At the hotel bar, Kimball approached Plaintiff, brought her a drink, and
+instructed her to go up with him to his hotel suite.
+
+Plaintiff went with Kimball as instructed, as she felt pressured to comply
+because he was her superior.
+
+Alone in the elevator to his hotel suite, he put his hands on Plaintiff's arms
+and shoulders, and pulled her in toward him.
+
+After they entered his room, Plaintiff pulled away from him and told him
+that she needed to leave.
+
+Plaintiff rushed out of his hotel room, went back down to hotel bar, found
+several of her colleagues, and began crying, telling them about the
+comments and conduct of a sexual nature that Kimball had subjected her
+to.
+
+Plaintiffs colleagues called Gaebel, who came down to speak with her.
+Case 2:23-cv-00884-TJS Documenti1 Filed 03/08/23 Page 10 of 39
+
+vil. Plaintiff complained to Gaebel of Kimball’s comments and conduct of a
+sexual nature toward her.
+viii. Gaebel told her that he would report the same to Human Resources.
+ix. After Plaintiff left his hotel room, Kimball called Plaintiffs cell phone
+over forty (40) times.
+
+g. Following the above incident, during a phone call with Adrienne Williams
+(“Williams”) (female, heterosexual), Human Resources, Plaintiff complained of
+Kimball’s comments and conduct of a sexual nature toward her.
+
+h. Defendant took no action to remedy or prevent the sex discrimination, including
+sexual harassment, to which Plaintiff was subjected.
+
+i. Defendant failed to investigate Plaintiff's sex discrimination complaints.
+
+j. Plaintiff heard that other female employees had complained of sexual harassment
+by Kimball and that Kimball retired because of female employees’ sexual
+harassment complaints. Plaintiff also heard that multiple female employees have
+complained of sexual harassment by high-level male executives, including Tom
+Ondroff (male, heterosexual), Chief Financial Officer and Chief Growth Officer.
+
+35. Following Plaintiff's sex discrimination complaint in 2013, she was treated in a
+hostile and dismissive manner—differently and worse than how male and/or noncomplaining
+employees were treated, and differently and worse than how she was treated before she
+complained of sex discrimination.
+
+36. Inor about 2014, Plaintiff came out at work as gay to several coworkers.
+
+37. After she came out as gay, Plaintiff was treated in a hostile and dismissive
+
+manner—differently and worse than how male and/or heterosexual employees were treated.
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 11 of 39
+
+38.
+
+Plaintiff was subjected to a hostile work environment based on her sex and sexual
+
+orientation from the time she came out at work up until her 2021 termination.
+
+39.
+
+By way of example and without limitation:
+
+In or about the fall of 2015, Plaintiff started bringing her girlfriend to work
+functions and with her on sales trips, when permitted to bring a partner.
+
+In or about the fall of 2015, at a work event, a male employee lifted two (2)
+fingers up to his mouth and stuck his tongue through his fingers, licking around
+his fingers, while staring at Plaintiff, which she understood to be a sexual gesture
+because of her sexual orientation.
+
+In or around 2016, while in the office, a different male employee (Tom ;
+heterosexual) asked Plaintiff, “Who is the guy in your relationship?” Plaintiff
+responded that it was “none of [his] business.” Tom did not stop asking Plaintiff
+questions, asking her “how” women could have sex if neither partner had “male
+parts,” and other questions to that effect.
+
+In or around 2017, anytime Plaintiff wore a skirt and/or makeup to work, a male
+employee (Patrick _, heterosexual) routinely commented on Plaintiff's attire,
+telling her that only “straight chicks” dressed that way.
+
+In or around November 2018, Plaintiff attended a Sales Excellence event with her
+partner. At the event, a sector CEO asked Plaintiff and her partner to have a
+“foursome” that night with him and his wife. Plaintiff walked away and avoided
+him for the rest of the evening.
+
+At a work event in 2019 in Chicago, male associates from another sector came up
+
+to Plaintiff at a tasting table and asked her if she wanted to “try the fish” because
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 12 of 39
+
+40.
+
+they “heard [she was] a lesbian.” Plaintiff responded that they were “disgusting”
+
+and walked away from them.
+
+In or about November 2019, at a work event, Thompson commented that Plaintiff
+
+cleaned up really well for a “dyke.”
+
+In or about 2019, Plaintiff heard that, at a work event, in front of other employees,
+(male, heterosexual), Sales Director, commented that he was going to
+
+“fuck” Anita Cox (female, homosexual), Regional Sales Director. The male
+
+employee remains employed with Defendant.
+
+In addition to the discriminatory comments, conduct, and ridicule to which
+
+Plaintiff was subjected on an ongoing basis, Plaintiff's responsibilities were unjustly taken away
+
+from her and assigned to her male and/or non-complaining and/or heterosexual counterparts.
+
+41.
+
+By way of example and without limitation:
+
+When Plaintiff secured an account in or around 2014, Defendant gave the credit
+and commission to a male Sales Director employee, Tom Hennessey (male,
+heterosexual), Sales Director, instead of Plaintiff.
+
+After Plaintiff built a relationship with another potential client in or around 2017,
+Defendant assigned the opportunity to Nicholas Gillett (“Gilett”), Sales Director
+(male, heterosexual), and Robert Nicklin, (“Nicklin”), Senior Vice President
+(male, heterosexual). Plaintiff was asked to turn over all of her work, findings,
+and all information she had gathered to Gillett and Nicklin, who were
+compensated and credited for the sale instead of Plaintiff.
+
+Another account Plaintiff had worked on over the course of two years (2017-
+
+2018) was, without explanation, removed from her and assigned to David
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 13 of 39
+
+42.
+
+Rodenheiser (male, heterosexual), Sales Director, for which he received the credit
+and compensation instead of Plaintiff.
+
+On April 14, 2020, Defendant removed another account from Plaintiff and
+assigned it to George Alahouzous (“Alahouzous’”) (male, heterosexual), Regional
+Sales Director, who received the credit and commissions for the account instead
+of Plaintiff. Plaintiff was more qualified to manage the account than the male,
+heterosexual, noncomplaining employee to whom it was assigned.
+
+When Plaintiff complained to Jennifer Hayes (“Hayes”) (female, heterosexual),
+
+Human Resources, that her accounts were being reassigned, Defendant began a further campaign
+
+of discrimination and retaliation, criticizing Plaintiff's performance—which had never been an
+
+issue before she complained. By way of example and without limitation:
+
+a.
+
+On April 15, 2020, in a meeting with Kowalewski, Plaintiff asked why an account
+was taken away from her and assigned to Alahouzous. He dismissed Plaintiff's
+questions and stated that he did not understand why they were having this
+conversation.
+
+On April 15, 2020, in an email to Gaebel, Plaintiff asked why an account was
+taken away from her and assigned to Alahouzous.
+
+On April 15, 2020, in an email to Hayes, Plaintiff stated that she was concerned
+that an account was taken away from her and assigned to Alahouzous. Plaintiff
+received no response to her email.
+
+On April 16, 2020, in an email from Gaebel, he stated that he would schedule a
+
+meeting for next week to discuss Plaintiffs concerns.
+
+10
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 14 of 39
+
+e. On April 20, 2020, in a meeting with Gaebel and Thompson, rather than
+discussing Plaintiff's concerns, Plaintiff was issued a first Counseling Report. The
+stated reason was failure to meet reasonable standards of efficiency. Plaintiff was
+told that she did not properly handle communication regarding the account at
+issue prior to her scheduled time off, even though Thompson knew about her
+scheduled time off, and her efforts to prepare what was needed in connection with
+the account and related presentation before her scheduled time off.
+
+f. Plaintiff's performance did not warrant a Counseling Report.
+
+g. The first Counseling Report contained false statements and misrepresentations.
+
+h. In or about July 2020, Defendant reduced Plaintiff's territory by two (2) states but
+did not change her target/quota to adjust for the territory reduction.
+
+i. Plaintiff's male and/or heterosexual counterparts were given additional and/or
+more favorable sales opportunities, being assigned larger geographic territories
+and lower quotas, rendering their standard for success comparatively lower.
+
+j. Defendant assigned one (1) of Plaintiff's states to Beth Collins (female,
+heterosexual), Regional Sales Director, and one (1) of Plaintiffs states to Jennifer
+Scalesi (female, heterosexual), Regional Sales Director. Plaintiff was more
+qualified to manage the states than the noncomplaining, heterosexual employees
+to whom they were assigned.
+
+k. On May 1, 2021, in a meeting with Gaebel and Thompson, Plaintiff was issued a
+second Counseling Report. The stated reason was failure to meet reasonable
+standards of efficiency. Plaintiff was told that she did not properly handle
+
+communication regarding certain of her accounts.
+
+11
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 15 of 39
+
+|. Plaintiff's performance did not warrant a second Counseling Report.
+
+m. The second Counseling Report contained false statements and misrepresentations.
+
+n. Plaintiff was told that Thompson did not have confidence in her ability to drive an
+upcoming sales process effectively, even though she had successfully handled
+such processes numerous times in the past, and that a colleague, Maret Seitz
+(female, heterosexual), Regional Sales Director, would be assigned to manage the
+upcoming sales process instead of Plaintiff. Plaintiff was more qualified to
+manage the sales process than the noncomplaining, heterosexual employee to
+whom the responsibility was assigned.
+
+43. Defendant removed accounts from Plaintiff and assigned them to less qualified
+male and/or heterosexual employees, even though Plaintiff had been working on many of the
+accounts for months and/or years, because of her sex and sexual orientation.
+
+44. Plaintiff had heard of multiple other female employees being similarly mistreated
+and having accounts removed from them and assigned to male employees who received the credit
+and commissions.
+
+45. By way of example and without limitation, Plaintiff heard that female employees
+including Ronnie McClusky (female, heterosexual), Regional Sales Director, Trenna Grice
+(female, heterosexual), Regional Sales Director, Jessica Rando (female, heterosexual), Regional
+Sales Director, Nina Cochrane (female, heterosexual), Regional Sales Director, Christina Niles
+(female, heterosexual), Regional Sales Director, Donna Cooper (female, heterosexual), Regional
+Sales Director, and Amy Moore (female, heterosexual), Regional Sales Director, Shannon Moody
+
+(female, heterosexual), Terri Carpenter (female, unknown), and Esteal Andraus (female,
+
+12
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 16 of 39
+
+heterosexual) were all pushed out and/or demoted and/or had accounts removed from them and
+assigned to male employees and/or complained about the same.
+
+46. Defendant treated female and/or homosexual employees, including Plaintiff,
+differently and worse, and in a more hostile and dismissive manner, than male and/or
+heterosexual employees were treated.
+
+47. Defendant held female and/or homosexual employees, including Plaintiff, to a
+more stringent standard than male and/or heterosexual employees were held.
+
+48. Defendant paid female and/or homosexual employees, including Plaintiff, less
+than their male counterparts at the same level. By way of example and without limitation:
+
+a. Plaintiff knew from discussions with colleagues on her team that her male
+counterparts performing the same role with similar experience and a similar sales
+record were making a higher base salary than Plaintiff made, and had been for
+years.
+
+49. Plaintiff complained about sex-based salary discrepancies each year. In spite of
+the same, her salary was never raised to match that of her male counterparts.
+
+50. On May 27, 2021, in a five (5) page letter, (“the Letter”) emailed to Cindy Noble
+(female, bisexual), Chief Human Resources Officer, copying Kowalewski and Jennifer
+McConnell (female, heterosexual), Chief Legal Officer, Plaintiff complained of sex and sexual
+orientation discrimination.
+
+51. Plaintiff complained of the sexual harassment to which she was subjected, the
+pattern of “discrimination that [she] face[d] daily as a female sales director,” and sexual
+
+orientation discrimination she experienced “as a gay female,” and provided numerous examples.
+
+13
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 17 of 39
+
+52. Plaintiff engaged in protected activity on May 27, 2021 when she submitted her
+Letter.
+
+53. Plaintiff received no written response to her Letter.
+
+54. On June 2, 2021, in a phone call with Moe Cierci (“Cierci”) (male, heterosexual),
+Human Resources Service Center, he and Plaintiff discussed the Letter.
+
+55. Plaintiff reiterated to Cierci that she had been subjected to and previously
+complained of sexual harassment, as referenced in the Letter.
+
+56. Cierci was dismissive of her complaints.
+
+57. Cierci asked Plaintiff about the “value” of the accounts where she was not paid
+commissions.
+
+58. At the end of the call, Cierci told Plaintiff that he would interview Thompson and
+Gaebel in connection with his investigation into her complaint letter.
+
+59. Plaintiff was placed on an administrative leave of absence, effective immediately,
+while Defendant investigated her complaint.
+
+60. Plaintiff did not receive an investigative report in connection with Defendant’s
+investigation into her sex and sexual orientation discrimination complaints.
+
+61. Defendant failed to take any appropriate remedial and/or corrective action
+regarding Plaintiff's complaint.
+
+62. Defendant terminated Plaintiff's employment on July 1, 2021, during a phone call
+with Cierci, effective the next day, July 2, 2021.
+
+63. Defendant terminated Plaintiff's employment within five (5) weeks of her sex and
+
+sexual orientation discrimination complaints.
+
+14
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 18 of 39
+
+64. The stated reason was that management lost their confidence and trust in
+Plaintiff's ability to get the job done.
+
+65. Defendant’s stated reason is pretext for discrimination and retaliation based on
+sex and sexual orientation.
+
+66. Defendant failed to remedy or prevent the sex and sexual orientation
+discrimination to which Plaintiff was subjected.
+
+67. Plaintiff was the only employee who was terminated effective July 1, 2021.
+
+68. Defendant retained all male and/or heterosexual and/or noncomplaining
+employees when Plaintiff was terminated.
+
+69. Defendant assigned Plaintiffs job duties and responsibilities to noncomplaining,
+heterosexual employees.
+
+70. Plaintiff was more qualified to perform her job duties and responsibilities than the
+noncomplaining, heterosexual employees to whom her job duties and responsibilities were
+assigned.
+
+71. Defendant terminated Plaintiff's employment because of her sex, her sexual
+orientation, and/or her sex and sexual orientation discrimination complaints.
+
+72. Defendant subjected Plaintiff to a hostile work environment because of her sex
+and/or sexual orientation and/or complaints of sex and sexual orientation discrimination.
+
+73. Defendant did not offer a reason as to why it was subjecting Plaintiff to a hostile
+work environment.
+
+74. The sex-based hostile work environment to which Plaintiff was subjected
+
+constitutes a continuing violation.
+
+15
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 19 of 39
+
+75. Defendant failed to compensate Plaintiff as much as similarly-situated male
+and/or heterosexual employees were compensated.
+
+76. Defendant held female and/or homosexual employees to a higher standard than it
+held male and/or heterosexual employees.
+
+77. Defendant has an underrepresentation of female employees, especially in high
+level positions.
+
+78. Defendant has pushed out and/or terminated and/or undercompensated and/or
+failed to promote female employees.
+
+79.  Defendant’s comments and conduct evidence a bias against female and/or
+homosexual employees and/or employees who engage in protected activity.
+
+80. Defendant did not target or treat similarly situated male and/or heterosexual
+and/or noncomplaining employees in the same manner it treated Plaintiff.
+
+81. Plaintiff's sex was a motivating and/or determinative factor in Defendant’s
+discriminatory and retaliatory conduct, including without limitation in connection with a hostile
+work environment, her pay, and her termination.
+
+82. Plaintiff's complaints of sex discrimination were motivating and/or determinative
+factors in Defendant’s discriminatory and retaliatory conduct, including without limitation in
+connection with a hostile work environment and her termination.
+
+83. Defendant failed to prevent or address the discriminatory and retaliatory conduct
+referred to herein and further failed to take corrective and remedial measures to make the
+
+workplace free of discriminatory and retaliatory conduct.
+
+16
+Case 2:23-cv-00884-TJS Documenti1 Filed 03/08/23 Page 20 of 39
+
+84. The retaliatory actions taken against Plaintiff after she complained of
+discriminatory conduct would have discouraged a reasonable employee from complaining about
+discrimination.
+
+85. The discriminatory and retaliatory conduct of Defendant, as alleged herein, was
+severe and/or pervasive enough to make a reasonable person believe that the conditions of
+employment had been altered and that a hostile work environment existed, and made Plaintiff
+believe that the conditions of employment had been altered and that a hostile work environment
+existed.
+
+86. Asadirect and proximate result of Defendant’s discriminatory and retaliatory acts
+and practices, Plaintiff has suffered and will suffer a loss of earnings, diminution of earning
+capacity, loss of employee benefits, pain and suffering, mental anguish, emotional distress,
+embarrassment, humiliation, inconvenience, and loss of enjoyment of life, the full extent of
+which is not known at this time.
+
+87. Defendant’s conduct was sufficiently outrageous and egregious enough to warrant
+an award of punitive damages in favor of Plaintiff.
+
+COUNT I- TITLE VU
+
+88. Plaintiff incorporates by reference each of the preceding paragraphs as if each
+were set forth herein in its entirety.
+
+89. By committing the foregoing acts of discrimination and retaliation against
+Plaintiff, Defendant has violated Title VII.
+
+90. Defendant acted intentionally, and with malice and/or reckless indifference to
+
+Plaintiff's rights, and its conduct warrants the imposition of punitive damages.
+
+17
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 21 of 39
+
+91. As a direct and proximate result of Defendant’s violation of Title VII, Plaintiff
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+92. Plaintiff is now suffering and will continue to suffer irreparable injury and
+monetary damages as a result of Defendant’s violation of Title VII unless this Court grants the
+
+relief requested herein.
+
+COUNT H-PHRA
+
+93. Plaintiff incorporates by reference each of the preceding paragraphs as if each
+were set forth herein in its entirety.
+
+94. By committing the foregoing acts of discrimination and retaliation against
+Plaintiff, Defendant has violated the PHRA.
+
+95. Said violations were intentional and willful.
+
+96. Asa direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+97. Plaintiff suffered and may continue to suffer irreparable injury and monetary
+damages as a result of Defendant’s discriminatory and retaliatory acts unless and until this Court
+
+grants the relief requested herein.
+
+COUNT UI—PFPO
+
+98. Plaintiff incorporates herein by reference the above paragraphs as if set forth
+herein in their entirety.
+
+99. By committing the foregoing acts of retaliation against Plaintiff, Defendant has
+violated the PFPO.
+
+100. Defendant acted willfully and intentionally, and with malice and/or reckless
+
+indifference to Plaintiff's rights, thereby warranting the imposition of punitive damages.
+
+18
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 22 of 39
+
+101. As a direct and proximate result of all Defendant’s violation of the PFPO,
+
+Plaintiff has sustained the injuries, damages and losses set forth herein and has incurred
+
+attorneys’ fees and costs.
+
+102. Plaintiff is now suffering and will continue to suffer the irreparable injury and
+
+monetary damages as a result of all Defendant’s discriminatory and retaliatory and unlawful acts
+
+unless and until this Court grants the relief requested herein.
+
+RELIEF
+
+WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s improper conduct, and specifically prays that the Court grant the following relief to
+
+Plaintiff by:
+
+a.
+
+b.
+
+Declaring the acts and practices complained of herein to be in violation of Title VU;
+Declaring the acts and practices complained of herein to be in violation of the PHRA;
+Declaring the acts and practices complained of herein to be in violation of the PFPO;
+Enjoining and permanently restraining the violations alleged herein;
+
+Entering judgment against Defendant and in favor of Plaintiff in an amount to be
+determined;
+
+Awarding compensatory damages to make Plaintiff whole for all lost earnings, earning
+capacity, and benefits, which Plaintiff has suffered as a result of Defendant’s improper
+conduct;
+
+Awarding compensatory damages to Plaintiff for past pain and suffering, emotional
+upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff has
+suffered as a result of Defendant’s improper conduct;
+
+Awarding punitive damages to Plaintiff;
+
+19
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 23 of 39
+
+i. Awarding Plaintiff other such damages as are appropriate under Title VII, the PHRA and
+the PFPO;
+
+j. Awarding Plaintiff the costs of suit, expert fees and other disbursements, and reasonable
+attorneys’ fees; and
+
+k. Granting such other and further relief as this Court may deem just, proper, or equitable
+including other equitable and injunctive relief providing restitution for past violations and
+
+preventing future violations.
+
+CONSOLE MATTIACI LAW LLC
+
+Dated: March 8, 2023 By:  (/s/ Katherine C. Qeltjen
+Katherine C. Oeltjen, Esquire (318037)
+Evelyn Kallenbach, Esquire (330781)
+1525 Locust Street, 9"" Floor
+Philadelphia, PA 19102
+(215) 545-7676
+(215) 565-2852 (fax)
+Attorneys for Plaintiff
+Hayley Schellhaas
+
+20
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 24 of 39
+
+EXHIBIT |
+‘o: 12159652483 Page: 03 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti1 Filed 03/08/23 Page 25 of 39
+
+From: Nancy Gl
+
+Received
+
+AUG 05 2021
+COMMONWEALTH OF PENNSYLVANIA PA Human Relations Commission
+GOVERNOR'S OFFICE Philadelphia Regional Office
+PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+COMPLAINT
+
+COMPLAINANT:
+HAYLEY SCHELLHAAS Docket No, IO ZICSOS
+RESPONDENT:
+
+COMPASS GROUP DSA, INC,
+
+1. The Complainant herein is:
+
+Name: Hayley Schetlhaas
+
+Address: nda DY ANGE Eat D)
+
+Gilbertsville, PA 19525
+
+2. The Respondent herein is:
+
+Names: Compass Group USA. Ine.
+
+Address: 24.00 Yorkmont Road
+Charlotte, NC 28217
+
+3. 1, Havley Schellhaas, the Complainant herein, allege that | was subjected to unlawful
+
+discrimination because of my sex (female) and my sexual orientation (homosexual/lesbian), and
+unlawful retaliation because of my complaints of sex and sexual orientation discrimination, as set
+
+forth below.
+
+a: 12159652489 Page: 04 of 15 2021-08-08 10:43:04 EDT 12195652858
+Case 2:23-cv-00884-TJS Document1 Filed 03/08/23 Page 26 of 39
+
+Discrimination and Retaliation
+
+A. Ispecifically allege:
+
+{1 On or about June 1, 1999, 1 began working at a company that was Later
+acquired by Respondent.
+
+[2] I consistently performed my job duties in a highly competent manner and
+
+received positive feedback.
+
+13] I worked out of my home office in Pennsylvania.
+4] I fast held the position of Regional Sales Director.
+[5] { last reported to Jennifer Thompson (female, heterosexual!), Regional
+
+Vice President, Sales. Thompson reported to Michacl Gaebel (male, heterosexual), Senior Vice
+President, Sales, Corporate Services. Gaebel reported to Christopher Kowalewski (male.
+
+%
+
+heterosexual), Chief Growth Officer.
+
+16} In or about August 2018, | began reporting to Thompson.
+
+[7] Thompson had no role in my being hired.
+
+18] | was the only homosexual employee reporting to ‘Thompson.
+
+9] At the time of my termination, in addition to me, the following employees
+
+reported to Thompson. | was more qualified to perform each of these employee's positions.
+(a) George Alahouzous (mate, heterosexual), Regional Sales Director;
+(b) Donna Cooper (female, heterosexual), Regional Sales Director;
+(c) Maret Seitz female, heterosexual), Regional Sales Director;
+
+(d) Sadie Oliver (female, heterosexual), Regional Sales Director;
+
+(e) Lauren Francis (female, heterosexual), Vice President:
+
+* All references herein fo an employee's sexual orientation are to the best of my knowledge and belief.
+
+From: Nancy Gla
+‘a: 12159652489
+
+Page: 05 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 27 of 39
+
+(f) Tony Kaszuba (male, heterosexual), Restaurant Associates Seller;
+
+(2g) Melissa Jordan (female, heterosexual), Restaurant Associates
+
+(bh) Laura Smith (female heterosexual), Inside Sales Representative.
+
+[10] Respondent treated female and/or homosexual employees, including me,
+differently and worse, and in a more hostile and dismissive manner, than male and/or
+heterosexual employees were treated.
+
+Pla] Respondent held female and/or homosexual employees, including me, to a
+more stringent standard than male and/or heterosexual employees were held,
+
+12] In or about 2013, at a work event ata hotel, on the night of his retirement
+party, Kurt Kimball (male, heterosexual), then Chief Growth Officer, engaged in comments and
+conduct of a sexual nature toward me. At the hotel bar. Kimball! approached me, brought me a
+drink, and instructed me to go up with him to his hotel suite, | went with Kimball! as instructed,
+as | felt pressured to comply because he was a superior to me. Alone in the elevator to his hotel
+suite, he put his hands on my arms and shoulders, and pulled me in toward him. After we
+entered his room, T pull away from him and told him that 1 needed to leave. [rushed out of his
+hotel room, went back down to hotel bar, found several of my colleagues, and began crying,
+telling them about the comments and conduct ofa sexual nature that Kimball had subjected me
+to. My colleagues called Gaebel, who came down to speak with me. | ecomplained to Gaebel of
+Kambail’s comments and conduct of a sexual nature toward me. Gaebel told me that he would
+
+report the same to [luman Resources. After] left his hotel room, Kimball called my cell phone
+
+over forty (40) times.
+
+Fram: Nancy Gla
+a: 12159652489 Page: 06 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 28 of 39
+
+13] In 2013, following the above, in a phone call with Adrienne Williams
+(female, heterosexual), Human Resources, | complained to of Kimball's comments and conduct
+ofa sexual nature toward me.
+
+[14] Respondent took no action to remedy or prevent the sex discrimination,
+
+including sexual harassment, to which | was subjected.
+
+f1S] Respondent failed to investigate my sex discrimination complaints.
+[16] [ heard that other female employees had complained of sexual harassment
+
+by Kimball.
+
+117] [ heard that Kimball “retired” because of female employees’ sexual
+harassment complaints.
+
+[18] | heard that multiple female employees have complained of sexua!
+harassment by male executive employees, including Tom Ondroff (male, heterosexual), Chief
+Financial Officer and Chief Growth Officer.
+
+19] | heard that multiple female employees had accounts removed from them
+and assigned to male employees who received the credit and commissions.
+
+{20] | heard that multiple female employees lefi Respondent because of how
+they were treated.
+
+f24] | heard that multiple female employees, meluding Ronnie MeClusky
+(female, heterosexual), Regional Sales Director, Trenna Grice (female, heterosexual), Regional
+Sales Director, Jessica Rando (female, heterosexual), Regional Sales Director, Nina Cochrane
+(female, heterosexual), Regional sales Director, Christina Niles Gemale, heterosexual), Regional
+
+sales Director, Donna Cooper (female, heterosexual), Regional Sales Director, and Amy Moore
+
+From: Nancy Gle
+0: 12159652489
+
+Page: 07 of 15 202 1-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 29 of 39
+
+(female, heterosexual), Regional Sales Director, were pushed out and/or demoted and/or had
+accounts removed from them and assigned to male employees,
+
+p22] Following my sex discrimination complaints, | was treated in a hostile and
+dismissive manner—-differently and worse than how male and/or heterosexual and/or
+noncomplaining employees were treated, and differently and worse than how | was treated
+before | complained of sex discrimination.
+
+[23] My performance was unjustly criticized, | was belittled. and P was spoken
+to in a demeaning, condescending marmer.
+
+[244] When | secured an account, Respondent gave the credit and commission to
+a male Sales Director employee, including Tom Hennessey (male, heterosexual), Sales Director,
+instead of me,
+
+25] After | built a relationship with a potential client, Respondent assigned the
+opportunity to Nicholas Gillett (male, heterosexual), Sales Director, and Robert Nicklin, Senior
+Vice President (male, heterosexual), who were compensated and credited for the sale, instead of
+me.
+
+[26] An account that was connected to an account that Thad been working on
+was, without explanation, removed from me and assigned to David Rodenheiser (male,
+
+heterosexual), Sales Director, for which he took the credit and compensation instead of me.
+
+[27] In or about 2014, | came out at work as lesbian to several coworkers.
+28 | In or about the fall of 2015, [started bringing my girlfriend to work
+
+functions and with me on sales trips, when permitted to bring a partner.
+
+From: Nancy Gla
+‘0, 12159652489 Page: 08 of 15 2021-08-05 10:43:04 EDT 12158652858 From: Nancy Gle
+Case 2:23-cv-00884-TJS Documenti1 Filed 03/08/23 Page 30 of 39
+
+f29] In or about the fall of 2015, at a work event, an employee lifted two (2)
+fingers up to his mouth and stuck his tongue through his fingers, licking around his fingers, while
+staring at me, which | understood to be a sexual gesture because of my sexual orientation.
+
+[30] In or about November 2019, ata work event, Thompson commented that |
+cleaned up really well fora “dyke.”
+
+3h] In or about 2019, | heard that, at a work event, in front of other employees,
+
+— Cnale, heterosexual), Sales Director. commented that he was poing to “fuck” Anita
+Cox (female, homosexual), Regional Sales Director. The male employee remains employed with
+Respondent.
+
+After coming out as lesbian, | was treated differently and worse, and ina
+
+Is
+
+more hostile and dismissive manner, than male and/or heterosexual employees were treated,
+
+£33] Respondent removed accounts from me and assigned them to less
+qualified male and/or heterosexual employees, even though Lhad been working on many of the
+accounts for months and/or years.
+
+[34] Respondent failed to lower my quota after removing accounts from me,
+while male and/or heterosexual employees with smaller territories had lower quotas.
+
+[35] Respondent failed to compensate me as much as similarly-situated male
+and/or heterosexual employees were compensated,
+
+[36] On April [4, 2020, Respondent removed an account from me and assigned
+ito Alahouzous (male, heterosexual}, who received the credit and commissions for the account
+mstead of me. | was more qualified to manage the account than the male, heterosexual,
+
+noncomplaning employee to whom it was assigned.
+‘a: 12159652489 Page: 09 of 15 2021-08-05 10:43:04 EDT 12189652858
+Case 2:23-cv-00884-TJS Documenti1 Filed 03/08/23 Page 31 of 39
+
+r
+
+[37] On April 15, 2020, a meeting with Kowalewski, Lasked why an account
+was taken away from me and assigned to Alahouzous. Me dismissed my questions and stated
+that he did not understand why we were having this conversation.
+
+138] On April 15, 2020, in an email to Gaebel, | asked why an account was
+taken away from me and assigned to Alahouzous,
+
+[39] On Apri 1S, 2020, in an email to Jennifer Haves (female, heterosexual),
+Human Resources, | stated that | was concerned that an account was taken away from me and
+
+assigned to another ernployee, Alahouzous,
+
+0] I received no response to my above email,
+[Al] On April 16, 2020, in an email from Gaebel, he stated that he would
+
+schedule a meeting for next week to discuss my concerns.
+
+[42] On April 20, 2020, in a meeting with Gaebel and Thompson, | was issued
+
+a first Counseling Report. The stated reason was fatlure to meet reasonable standards of
+
+efficiency. [was told that I did not properly handle communication regarding the account at
+issue prior to my scheduled time off, even though Thompson knew about my scheduled time off
+and my efforts to prepare what was needed in connection with the account and related
+presentation before my scheduled time off. My performance did not warrant a Counseling
+Report. The Counseling Report contained false statements and misrepresentations.
+
+[43| In or about July 2020, Respondent reduced my territory by two (2) states
+hut did not change my target/quota to adjust for the territory reduction,
+[4] Respondent assigned one (1) of my states to Beth Collins (female,
+
+heterosexual), Regional Sales Director, and one (1) of my states to Jennifer Scalesi (female,
+
+From: Nancy Glac
+0: 12159652489
+
+Page: 10 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 32 of 39
+
+heterosexual), Regional Sales Director. | was more qualified to manage the states than the
+noncomplaining, heterosexual employees to whom they were assigned,
+
+[45] In or about October 2021, Respondent transferred Seitz (female,
+heterosexual) to my team, reporting to Thompson.
+
+f4o| In or about April 2021, Respondent transferred Oliver (female,
+heterosexual) to my team, reporting to Thompson.
+
+[47] In or about April 2021, Respondent transferred Francis Gemale,
+heterosexual) to my team, reporting to Thompson.
+
+LAS] On May 1, 2021]. im a meeting with Gaebel and Thompson, | was issued a
+second Counseling Report. The stated reason was failure to meet reasonable standards of
+efficiency, | was told that I did not properly handle communication regarding certain of my
+accounts. My performance did not warrant a Counseling Report. The Counseling Report
+
+contained false statements and misrepresentations., [was told that Thompson did not have
+
+confidence in my ability to drive an upcoming sales process effectively, even though | had
+handled such processes numerous times in the past, and Seitz would be assigned to manage the
+upcoming sales process instead of me. | was more qualified to manage the sales process than the
+noncomplaining, heterosexual employee to whom the responsibility was assigned.
+
+[49] On May 27, 2021, ina five (5) page letter emailed to Cindy Noble
+(female, bisexual), Chief Human Resources Officer, copying Kowalewski and Jennifer
+
+MeConnell (female, heterosexual), Chief Legal Officer, | complained of sex and sexual
+
+orientation discrimination. | complained of the sexual harassment to which [sas subjected, the
+
+pattem of “discrimination that | faceid] daily as a female sales director,” and sexual orientation
+
+discrimination “as a gay female,” and provided numerous examples.
+
+From: Nancy Gla:
+0: 12159652489 Page: 11 of 15 2021-08-05 10:43:04 EDT 12155652858 From: Nancy Gla
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 33 of 39
+
+[SO] | received no written response to my letter,
+[St] On June 2, 2021). in a phone call with Moe Cierei (male, heterosexual),
+
+Haman Resources Service Center, we discussed my above complaint fetter, Cierci asked me
+about the “value” of the accounts where | was not paid commissions. | complained that 1 had
+been subjected to and previously complained of sexual harassment, as referenced in my letter,
+but Clerei was dismissive of my complaints. Cierci told me that he was voing to interview
+Thompson and Gaebel in connection with his investigation into my complaint letter. | was
+placed on an administrative leave of absence, effective immediately, while Respondent
+investigated my complaint.
+
+[52] On July 1.2021, ina phone call with Cierci, Respondent terminated my
+employment, effective July 2, 2021. The stated reason was that management lost their
+confidence and trust in my ability to get the job done.
+
+[53] Respondent terminated my employment because of my sex, my sexual
+orientation, and/or my sex and sexual orientation discrimination complaints,
+
+[54] After | engaged in protected activity, | was placed on an administrative
+leave, and Respondent terminated my employment within five (5) weeks of my sex and sexual
+orientation discrimination complaints.
+
+[55] Lreceived no third and Final Progressive Counseling Report, which was
+the next step in Respondent’s progressive discipline policy.
+
+[56] Respondent failed to follow its progressive discipline policy in terminating
+
+my employment.
+‘a: 12159652489 Page: 12 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti1 Filed 03/08/23 Page 34 of 39
+
+[57] Despite Respondent’s stated reason for terminating my employment,
+Respondent offered me a severance payment of $93,320.51 in exchange for a release of all
+claims against Respondent and confidentiality, | refused to sign the severance agreement,
+
+[58] | received no Investigative report in connection with Respondent’s
+investigation into my sex and sexual orientation discrimination complaints,
+
+159] I was the only employee reporting to Thompson who was terminated
+effective July 1, 2021,
+
+F6Q] Respondent retained all male and/or heterosexual and/or noncomplaining
+employees when | was terminated,
+
+lol] Respondent assigned my job duties and responsibilities to
+noncomplaining, heterosexual employees, including Francis and Cooper. | was more qualified to
+perform my job duties and responsibilities than the noncomplaining, heterosexual employees,
+including Francis and Cooper, to whom my job duties and responsibilities were assigned.
+
+[62] Respondent failed to remedy or prevent the sex and sexual orientation
+discrimination to which | was subjected,
+
+[63] Respondent subjected me to a hostile work environment because of my
+sex and/or sexual orientation and/or complaints of sex and sexual orientation discrimination.
+
+o4| ‘The sex-based hostile work environment to which | was subjected
+
+constitutes a continuing violation.
+
+[65] Respondent failed to compensate me as much as male and/or heterosexual
+employees were compensated.
+166] Respondent’s comments and conduct evidence a bias against female
+
+and/or homosexual employees and/or employees who engage in protected activity.
+
+From: Nancy Glac
+o: 12159652489 Page: 13 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 35 of 39
+
+167] Respondent’s sex and sexual orientation discriminatory and retaliatory
+comments and conduct toward me has caused me emotional distress.
+
+[68] Respondent held fernale and/or homosexual employees to a higher
+
+standard than it held male and/or heterosexual employees,
+
+[69] Respondent has an underrepresentation of femate employees, especially in
+high level positions.
+
+P70] Respondent has pushed out and/or terminated and/or compensated Tess
+and/or failed to promote female employees.
+
+174] | bring this Complaint as a class and pattern and practice Complaint
+on behalf of myself and any and all current or former employees of Respondent who are
+female, and have been discriminated against based on sex and/or sexual orientation, in
+connection with the terms and conditions of their employment, including being subjected to
+a hostile work environment, sexual harassment, and/or hiring.
+
+8. Based on the aforementioned, | allege that Respondent has discriminated against
+me because of my sex emale) and my sexual orientation Chomosexual/lesbian), and retaliated
+against because of my complaints of sex and sexual orientation discrimination, in violation of
+Tithe VH of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, ef sey. (Tithe VIE),
+and the Pennsylvania Human Relations Act, as amended, 43 PS. § 951, er seg. (PHRA”).
+
+4, The allegations in Paragraph 3 hereof constitute unlawful discriminatory and
+retaliatory practices in violation of:
+
+a Pennsylvania Human Relations Act (Act of October 27, 1955, PLL.
+744, as amended) Section 5 Subsection{s): — (a); (a)
+
+From: Nancy Glz
+o: 12159652483 Page: 14 of 15 2021-08-05 10:43:04 EDT 12155652858
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 36 of 39
+
+Section 3.2 Subsection(s)
+
+Pennsylvania Fair Educational Opportunities Act (Act of July 17, £961,
+3. Other action based upon the aforesaid allegations has been instituted by the
+
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+
+x This charge will be referred to the EICOC for the purpose of dual
+filing.
+6. The Complainant seeks that Respondent be required to:
+
+(a) Make the Complainant whole,
+
+(b) Eliminate all unlawful discriminatory and retaliatory practice(s) and procedure(s).
+
+(c) Remedy the discriminatory and retaliatory effect of past practice(s) and
+procedure(s).
+
+(d) Take further affirmative action necessary and appropriate to remedy the violation
+complained of herein.
+
+(ce) Provide such further relief as the Commission deems necessary and appropriate.
+
+Fram: Nancy Gla:
+a: 12159652489 Page: 15 of 15 2021-08-05 10:43:04 EDT 12155652858 From: Nancy Gla
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 37 of 39
+
+VERIFICATION
+
+I hereby verify that the staternents contained in this complaint are true and correct to the
+best of my knowledge, information, and belief. [understand that false statements herein are
+
+made subject to the penalties of 18 PLA.C.A. Section 4904, relating to unsworn falsification to
+
+authorities.
+
+BA DY NORE =D)
+
+CGilbertsville, PA [93525
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 38 of 39
+
+EXHIBIT 2
+Case 2:23-cv-00884-TJS Documenti Filed 03/08/23 Page 39 of 39
+
+ELOC Fonn 361-B (01/2023) U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+NOTICE OF RIGHT TO SUE (/SSUED ON REQUEST)
+
+To: Havlev Schellhaas from: Philadelphia District Office
+ail DYNO ED) 801 Market St, Suite 1000
+Gilbertsville, PA 19525 Philadelphia, PA 19107
+EEOC Charge No. EEOC Representative Telephone No.
+17F-2021-61517 Damon Johnson, (267) 589-9722
+
+State, Local & Tribal Program Manager
+
+(See also the additional information enclosed with this forn.)
+
+NOTICE TO THE PERSON AGGRIEVED:
+
+Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act (ADA), or the Genetic Information
+Nondiscrimination Act (GINA): This is your Notice of Right to Sue, issued under Title VII, the ADA or GINA based on the
+above-numbered charge. It has been issued at your request. Your lawsuit under Title VII, the ADA or GINA must be filed in
+a federal or state court WITHIN 90 DAYS of your receipt of this notice; or your right to sue based on this charge will be
+lost. (The time limit for filing suit based on a claim under state law may be different.)
+
+More than 180 days have passed since the filing of this charge.
+
+The EEOC is terminating its processing of this charge.
+
+Please retain this notice for your records.
+
+On behalf of the Commission
+
+Digitally Signed By: Karen McDonough
+12/14/2022
+
+Enclosures(s)} Karen McDonough
+Deputy District Director
+
+cc: For Charging Party
+Kayleen Egan
+Littler Mendelson, P.C.
+Three Parkway
+1601 Cherry Street, Suite 1400
+Philadelphia, PA 19102
+
+For Charging Party
+Katherine C. Oeltjen
+Console Maittiacci Law, LLC
+1525 Locust Street, 9th Floor
+Philadelphia, PA 19102

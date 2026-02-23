@@ -1,0 +1,2506 @@
+Source URL: https://www.courtlistener.com/docket/67177756/1/jaswal-v-gosch/
+Title: #1 in Jaswal v. Gosch (E.D. Pa., 2:23-cv-01391) – CourtListener.com
+
+           Case 2:23-cv-01391-JFM                    Document 1            Filed 02/28/23     Page 1 of 57
+
+
+
+
+                                    U NITED S TATES D ISTRICT C OURT
+                                  S OUTHERN D ISTRICT OF N EW Y ORK
+
+Priya Jaswal
+
+
+Write the full name of each plaintiff.                                             23 -   - 1761
+                                                                                  _____CV_______________
+                                                                                 (Include case number if one has been
+                                                                                 assigned)
+
+                                  -against-
+Jeffrey R Gosch, Division Head 30, NSWCPD, Naval Sea Systems Command (NAVSEA)
+                                                                                       COMPLAINT
+Backes, Christina, Lead Engineer, Code 333- Shock Certification Lead , NSWCPD,
+Naval Sea Systems Command (NAVSEA)
+                                                                                     Do you want a jury trial?
+Ortiz, Dionisio, Lead Engineer, Code 511, TDY Alabama Lead , NSWCPD, Naval Sea           ☐ Yes    ☐
+                                                                                                  ✔ No
+Systems Command (NAVSEA)
+
+Duckworth, Jeffrey W, Acting Manager Code 333 between January/Feb 2021- April
+2021 , NSWCPD, Naval Sea Systems Command (NAVSEA)
+Tronzo, Robert D Manager Code 333 between August 2020- January 2021, NSWCPD,
+Naval Sea Systems Command (NAVSEA)
+
+Write the full name of each defendant. If you need more
+space, please write “see attached” in the space above and
+attach an additional sheet of paper with the full list of
+names. The names listed above must be identical to those
+contained in Section II.
+
+
+
+
+                                                          NOTICE
+    The public can access electronic court files. For privacy and security reasons, papers filed
+    with the court should therefore not contain: an individual’s full social security number or full
+    birth date; the full name of a person known to be a minor; or a complete financial account
+    number. A filing may include only: the last four digits of a social security number; the year of
+    an individual’s birth; a minor’s initials; and the last four digits of a financial account number.
+    See Federal Rule of Civil Procedure 5.2.
+
+
+
+
+Rev. 1/9/17
+           Case 2:23-cv-01391-JFM         Document 1      Filed 02/28/23         Page 2 of 57
+
+
+
+
+I.    BASIS FOR JURISDICTION
+Federal courts are courts of limited jurisdiction (limited power). Generally, only two types of
+cases can be heard in federal court: cases involving a federal question and cases involving
+diversity of citizenship of the parties. Under 28 U.S.C. § 1331, a case arising under the United
+States Constitution or federal laws or treaties is a federal question case. Under 28 U.S.C. § 1332,
+a case in which a citizen of one State sues a citizen of another State or nation, and the amount
+in controversy is more than $75,000, is a diversity case. In a diversity case, no defendant may
+be a citizen of the same State as any plaintiff.
+What is the basis for federal-court jurisdiction in your case?
+
+     ☐ Federal Question
+
+     ☐ Diversity of Citizenship
+     ✔
+
+
+
+
+A. If you checked Federal Question
+
+Which of your federal constitutional or federal statutory rights have been violated?
+
+
+
+
+ B. If you checked Diversity of Citizenship
+
+         1. Citizenship of the parties
+
+ Of what State is each party a citizen?
+
+ The plaintiff ,    Priya Jaswal                                      , is a citizen of the State of
+                    (Plaintiff’s name)
+
+New York
+ (State in which the person resides and intends to remain.)
+
+ or, if not lawfully admitted for permanent residence in the United States, a citizen or
+ subject of the foreign state of
+
+                                                                  .
+ If more than one plaintiff is named in the complaint, attach additional pages providing
+ information for each additional plaintiff.
+
+
+
+                                                                                                  Page 2
+       Case 2:23-cv-01391-JFM            Document 1        Filed 02/28/23         Page 3 of 57
+
+
+
+
+ If the defendant is an individual:
+
+ The defendant,    all                                                 , is a citizen of the State of
+                    (Defendant’s name)
+
+Pennsylvania
+ or, if not lawfully admitted for permanent residence in the United States, a citizen or
+ subject of the foreign state of
+
+                                                                   .
+ If the defendant is a corporation:
+
+ The defendant,                                              , is incorporated under the laws of
+
+ the State of
+
+ and has its principal place of business in the State of
+
+ or is incorporated under the laws of (foreign state)
+
+ and has its principal place of business in                                                             .
+
+ If more than one defendant is named in the complaint, attach additional pages providing
+ information for each additional defendant.
+
+II. PARTIES
+
+A. Plaintiff Information
+Provide the following information for each plaintiff named in the complaint. Attach additional
+pages if needed.
+
+Priya                           M                        Jaswal
+First Name                      Middle Initial           Last Name
+
+97-37, 63rd Road 3N
+Street Address
+Rego Park                                        NY                             11374
+County, City                                     State                          Zip Code
+347-345-6744                                     priyaccny2018@gmail.com
+Telephone Number                                 Email Address (if available)
+
+
+
+                                                                                                   Page 3
+       Case 2:23-cv-01391-JFM           Document 1        Filed 02/28/23   Page 4 of 57
+
+
+
+
+B. Defendant Information
+To the best of your ability, provide addresses where each defendant may be served. If the
+correct information is not provided, it could delay or prevent service of the complaint on the
+defendant. Make sure that the defendants listed below are the same as those listed in the
+caption. Attach additional pages if needed.
+
+Defendant 1:       Jeffrey                         Gosch
+                   First Name                      Last Name
+                  Division Head 30
+                   Current Job Title (or other identifying information)
+                  4700 South Broad Street, Division 30, Bldg 29 Philadelphia, PA
+                   Current Work Address (or other address where defendant may be served)
+                  Philadelphia                           PA                  19112
+                  County, City                           State               Zip Code
+
+Defendant 2:      Christina                       Backes
+                  First Name                      Last Name
+                  Lead Engineer, Code 333
+                   Current Job Title (or other identifying information)
+                  4700 South Broad Street, Code 333, Bldg 29 Philadelphia, PA
+                   Current Work Address (or other address where defendant may be served)
+                   Philadelphia                            PA               19112
+                   County, City                            State           Zip Code
+
+Defendant 3:       Dionisio                        Ortiz
+                   First Name                      Last Name
+                  Lead Engineer, Code 511
+                   Current Job Title (or other identifying information)
+                  4700 South Broad Street, Division 50, Bldg1000 Philadelphia, PA
+                   Current Work Address (or other address where defendant may be served)
+                   Philadelphia                        PA                   19112
+                   County, City                        State               Zip Code
+
+
+
+
+                                                                                           Page 4
+       Case 2:23-cv-01391-JFM           Document 1        Filed 02/28/23   Page 5 of 57
+
+
+
+
+Defendant 4:      Jeffrey                              Duckworth
+                   First Name                     Last Name
+                  Acting Manager Code 333 between January/Feb 2021- April 2021
+                   Current Job Title (or other identifying information)
+                  4700 South Broad Street, Division 30, Bldg 29 Philadelphia, PA
+                   Current Work Address (or other address where defendant may be served)
+                  Philadelphia                           PA                 19112
+                   County, City                          State              Zip Code
+
+III. STATEMENT OF CLAIM
+Place(s) of occurrence:   Philadelphia, PA & Mobile AL
+
+
+Date(s) of occurrence:    Between August 2020-June 2021. TDY April 8th 2021
+FACTS:
+State here briefly the FACTS that support your case. Describe what happened, how you were
+harmed, and what each defendant personally did or failed to do that harmed you. Attach
+additional pages if needed.
+I contacted two courts and added appeals MSPB appeal Appeal_00.pdf and an initial
+decision, PH210267I1-IA-6-DocNum1846157.pdf, was made by the MSPB judge, the
+case was dismissed.
+I contacted EEOC and add Appeal (Complaint Number 2023001650 & EEOC Number
+2023000218) to have the EEO review supporting documents EEO.pdf, 202103321
+Clarification Questions - Complainant_rev_2 KP.docx, Gmail - Past Federal Employment
+Issues [Incident 220930-000409].pdf, Form 10-12-2022T10-22-29.pdf, Fullpageprint.pdf,
+Employment Issues_NSWCPD.pdf. I want the termination clause falsefully accusing me
+of unprofessional behavior towards lead and coworkers by the NSWCPD management
+removed from SF-50 record and if possible, the shock certification Mechanical
+Engineering job removed from my career history. For the reasons listed below and
+described in the supporting documents, I should not get evaluated by background check
+or security clearance harshly because of the job, an opportunity for code 333 NSWCPD
+to make money, that in my view was not structured for success and was design to
+negatively impact my career and may have had negative financial impact to the end user,
+US Navy. Both EEOC OFO were closed.
+In the EEOC court order I was advised that after 30 days I had right to file a lawsuit at
+civil court against the management and if no resolution is achieved after EEO Counseling
+with the Agency. The agency EEO POC advised during the EEO Complaint intake earlier
+this month that the termination letter is final and there is noting that could be done by the
+agency EEO regarding the termination letter itself. (Note In 2021 when I contacted
+agency code 333 human resources Keishla Guzman, she advised the same thing
+
+
+
+                                                                                           Page 5
+       Case 2:23-cv-01391-JFM          Document 1       Filed 02/28/23      Page 6 of 57
+
+
+that the agency EEO advised during EEO Counseling intake in Feb 2023. They will
+contact the lead engineers and managers and discuss what I am saying and it is highly
+likely that neither the lead engineer nor the managers will accept anything I am saying
+and I have no evidence. When there is no evidence, no court could help either. The hr is
+paid to support the management and there is nothing anyone can do about the “job” they
+(code 333 and code 511) assigned to me.) There was no value in waiting for 30 days
+however I still respected the EEO process that only added time and was misguiding in
+my view. EEO/MSPB court is intentionally added to the termination letter to misguide the
+court and law enforcement into believing the employment issues were EEO matter. The
+EEO matters were intentional drama that the code 333 and code 511 employees
+executed together with their management to hide their assignment that clearly lacked the
+need of engineers, their ways of misusing military databases (like NSDB) and resources,
+their way to get funding by using new hire engineers and their interrelationships internally
+with coworkers and management that looked odd (sexual) and indirectly vulgar in nature
+as described in the attached EEOC letter that I submitted.
+
+
+INJURIES:
+If you were injured as a result of these actions, describe your injuries and what medical
+treatment, if any, you required and received.
+
+Workplace stress since October 2020
+
+Injury (severe fatigue and weakness)on April 8 2021 and health issues like joint pains
+
+
+
+
+IV. RELIEF
+State briefly what money damages or other relief you want the court to order.
+
+-Termination letter false cause of unprofessional behavior removed from my records
+-Compensation for sudden job loss and new job search until I find an employment –
+Severance or yearly salary for couple of years
+-Medical payment for workplace stress since October 2020 and injury on April 8 2021 and
+followup issues compensation
+-Complete Relocation Expenses from and to home location to NY both ways
+- I want the termination clause falsefully accusing me of unprofessional behavior towards
+lead and coworkers by the NSWCPD management removed from SF-50 record and if
+possible, the shock certification Mechanical Eng job removed from my career history
+
+
+
+
+                                                                                            Page 6
+        Case 2:23-cv-01391-JFM           Document 1        Filed 02/28/23         Page 7 of 57
+
+
+
+
+V. PLAINTIFF’S CERTIFICATION AND WARNINGS
+
+By signing below, I certify to the best of my knowledge, information, and belief that: (1) the
+complaint is not being presented for an improper purpose (such as to harass, cause
+unnecessary delay, or needlessly increase the cost of litigation); (2) the claims are supported
+by existing law or by a nonfrivolous argument to change existing law; (3) the factual
+contentions have evidentiary support or, if specifically so identified, will likely have
+evidentiary support after a reasonable opportunity for further investigation or discovery;
+and (4) the complaint otherwise complies with the requirements of Federal Rule of Civil
+Procedure 11.
+
+I agree to notify the Clerk's Office in writing of any changes to my mailing address. I
+understand that my failure to keep a current address on file with the Clerk's Office may
+result in the dismissal of my case.
+
+
+Each Plaintiff must sign and date the complaint. Attach additional pages if necessary. If seeking to
+proceed without prepayment of fees, each plaintiff must also submit an IFP application.
+
+2/28/2023                                               Priya Jaswal              Digitally signed by Priya Jaswal
+                                                                                  Date: 2023.02.28 15:33:34 -05'00'
+
+Dated                                                   Plaintiff’s Signature
+Priya                           M                       Jaswal
+First Name                     Middle Initial           Last Name
+97-37, 63rd Road 3N
+Street Address
+Rego Park                                        NY                             11374
+County, City                                    State                           Zip Code
+347-345-6744                                            priyaccny2018@gmail.com
+Telephone Number                                        Email Address (if available)
+
+
+
+
+I have read the Pro Se (Nonprisoner) Consent to Receive Documents Electronically:
+☐
+✔ Yes    ☐ No
+
+     If you do consent to receive documents electronically, submit the completed form with your
+     complaint. If you do not consent, please do not attach the form.
+
+
+
+
+                                                                                                        Page 7
+          Case 2:23-cv-01391-JFM                    Document 1            Filed 02/28/23            Page 8 of 57
+
+
+                      United States District Court
+                      Southern District of New York
+
+
+
+ Pro Se (Nonprisoner) Consent to Receive Documents Electronically
+Parties who are not represented by an attorney and are not currently incarcerated may
+choose to receive documents in their cases electronically (by e-mail) instead of by regular
+mail. Receiving documents by regular mail is still an option, but if you would rather receive
+them only electronically, you must do the following:
+
+    1. Sign up for a PACER login and password by contacting PACER 1 at
+       www.pacer.uscourts.gov or 1-800-676-6856;
+    2. Complete and sign this form.
+
+If you consent to receive documents electronically, you will receive a Notice of Electronic
+Filing by e-mail each time a document is filed in your case. After receiving the notice, you
+are permitted one “free look” at the document by clicking on the hyperlinked document
+number in the e-mail. 2 Once you click the hyperlink and access the document, you may not
+be able to access the document for free again. After 15 days, the hyperlink will no longer
+provide free access. Any time that the hyperlink is accessed after the first “free look” or the
+15 days, you will be asked for a PACER login and may be charged to view the document. For
+this reason, you should print or save the document during the “free look” to avoid future
+charges.
+                                              IMPORTANT NOTICE
+Under Rule 5 of the Federal Rules of Civil Procedure, Local Civil Rule 5.2, and the Court’s
+Electronic Case Filing Rules & Instructions, documents may be served by electronic means.
+If you register for electronic service:
+
+         1. You will no longer receive documents in the mail;
+         2. If you do not view and download your documents during your “free look” and
+            within 15 days of when the court sends the e-mail notice, you will be charged for
+            looking at the documents;
+         3. This service does not allow you to electronically file your documents;
+         4. It will be your duty to regularly review the docket sheet of the case. 3
+
+1 Public Access to Court Electronic Records (PACER) (www.pacer.uscourts.gov) is an electronic public access service that
+
+allows users to obtain case and docket information from federal appellate, district, and bankruptcy courts, and the PACER
+Case Locator over the internet.
+2 You must review the Court’s actual order, decree, or judgment and not rely on the description in the email notice alone.
+
+See ECF Rule 4.3
+3 The docket sheet is the official record of all filings in a case. You can view the docket sheet, including images of
+
+electronically filed documents, using PACER or you can use one of the public access computers available in the Clerk’s
+Office at the Court.
+                                       500 PEARL STREET | NEW YORK, NY 10007
+                                   300 QUARROPAS STREET | WHITE PLAINS, NY 10601
+                                             PRO SE INTAKE UNIT: 212-805-0175
+rev. 2/9/15
+           Case 2:23-cv-01391-JFM            Document 1          Filed 02/28/23      Page 9 of 57
+
+
+
+
+                                CONSENT TO ELECTRONIC SERVICE
+I hereby consent to receive electronic service of notices and documents in my case(s) listed below. I
+affirm that:
+
+       1. I have regular access to my e-mail account and to the internet and will check regularly for
+          Notices of Electronic Filing;
+       2. I have established a PACER account;
+       3. I understand that electronic service is service under Rule 5 of the Federal Rules of Civil
+          Procedure and Rule 5.2 of the Local Civil Rules, and that I will no longer receive paper
+          copies of case filings, including motions, decisions, orders, and other documents;
+       4. I will promptly notify the Court if there is any change in my personal data, such as name,
+          address, or e-mail address, or if I wish to cancel this consent to electronic service;
+       5. I understand that I must regularly review the docket sheet of my case so that I do not miss a
+          filing; and
+       6. I understand that this consent applies only to the cases listed below and that if I file
+          additional cases in which I would like to receive electronic service of notices of documents, I
+          must file consent forms for those cases.
+
+Civil case(s) filed in the Southern District of New York:
+       Note: This consent will apply to all cases that you have filed in this court, so please list all of
+       your pending and terminated cases. For each case, include the case name and docket number
+       (for example, John Doe v. New City, 10-CV-01234).
+
+
+
+
+Jaswal. Priya, M
+Name (Last, First, MI)
+
+97-37, 63rd Road 3N             Rego Park                NY                          11374
+Address                         City                     State                      Zip Code
+
+347-345-6744                                             priyaccny2018@gmail.com
+Telephone Number                                         E-mail Address
+                                                                                    Digitally signed by Priya Jaswal
+2/28/2023                                                Priya Jaswal               Date: 2023.02.28 15:33:09 -05'00'
+Date                                                     Signature
+
+Return completed form to:
+Pro Se Intake Unit (Room 200)
+500 Pearl Street
+New York, NY 10007
+       Case 2:23-cv-01391-JFM           Document 1       Filed 02/28/23      Page 10 of 57
+
+
+
+
+Dear Judge,
+I contacted two courts and added appeals MSPB appeal Appeal_00.pdf and an initial decision,
+PH210267I1-IA-6-DocNum1846157.pdf, was made by the MSPB judge, the case was dismissed.
+I contacted EEOC and add Appeal (Complaint Number 2023001650 & EEOC Number
+2023000218) to have the EEO review supporting documents EEO.pdf, 202103321 Clarification
+Questions - Complainant_rev_2 KP.docx, Gmail - Past Federal Employment Issues [Incident
+220930-000409].pdf, Form 10-12-2022T10-22-29.pdf, Fullpageprint.pdf, Employment
+Issues_NSWCPD.pdf. I want the termination clause falsefully accusing me of unprofessional
+behavior towards lead and coworkers by the NSWCPD management removed from SF-50 record
+and if possible, the shock certification Mechanical Engineering job removed from my career
+history. For the reasons listed below and described in the supporting documents, I should not get
+evaluated by background check or security clearance harshly because of the job, an opportunity
+for code 333 NSWCPD to make money, that in my view was not structured for success and was
+design to negatively impact my career and may have had negative financial impact to the end
+user, US Navy. Both EEOC OFO were closed.
+In the EEOC court order I was advised that after 30 days I had right to file a lawsuit at civil court
+against the management and if no resolution is achieved after EEO Counseling with the Agency.
+The agency EEO POC advised during the EEO Complaint intake earlier this month that the
+termination letter is final and there is noting that could be done by the agency EEO regarding the
+termination letter itself. (Note In 2021 when I contacted agency code 333 human resources
+Keishla Guzman, she advised the same thing that the agency EEO advised during EEO
+Counseling intake in Feb 2023. They will contact the lead engineers and managers and discuss
+what I am saying and it is highly likely that neither the lead engineer nor the managers will
+accept anything I am saying and I have no evidence. When there is no evidence, no court could
+help either. The hr is paid to support the management and there is nothing anyone can do about
+the “job” they (code 333 and code 511) assigned to me.) There was no value in waiting for 30
+days however I still respected the EEO process that only added time and was misguiding in my
+view. EEO/MSPB court is intentionally added to the termination letter to misguide the court and
+law enforcement into believing the employment issues were EEO matter. The EEO matters were
+intentional drama that the code 333 and code 511 employees executed together with their
+management to hide their assignment that clearly lacked the need of engineers, their ways of
+misusing military databases (like NSDB) and resources, their way to get funding by using new
+hire engineers and their interrelationships internally with coworkers and management that looked
+odd (sexual) and indirectly vulgar in nature as described in the attached EEOC letter that I
+submitted.
+Thank you,
+
+
+Priya Jaswal
+       Case 2:23-cv-01391-JFM          Document 1       Filed 02/28/23      Page 11 of 57
+Priya Jaswal                                                             EEOC Number 2023001650
+
+
+Dear EEOC,
+
+I was trying to find however still unsuccessful in locating a Pro Bono Service to get help with
+EEO counseling and recalled new information to support my claim about the statement in letter
+of caution made by managers Rob Tronzo and Jeff Gosch that the lead engineer and the
+managers found offensive or unprofessional.
+
+Why is the termination letter fraudulent and framed to harm my career at NAVSEA. Listed
+below are the reasons I was collaborating by sharing my project and work information with
+several individuals.
+
+    1) I wanted (the individuals on cc and the ones I forwarded emails) them to know what I
+       was working on and if there are better opportunities in other groups (at NSWCPD or
+       NAVSEA) or just better ways of working on the tasks at code 333 that otherwise looked
+       like tampering NSDB database which was an archived military database. Please note, I
+       was always mindful that if I am able to find an opportunity to work at another department
+       at nswcpd or even at Washington DC Navy Yard I will have to work with code 333
+       engineers and managers thus I was always trying to be professional and respectful in-
+       spite of the fact I was indirectly getting disrespectful behavior from lead engineer
+       Christina Backes as I was involving Rob Tronzo and Jeff Gosch to report some of the
+       things Christina was doing around me listed in my complaint so far. I would accept that I
+       wrote the statements in my email to motivate Christina to change her contribution in
+       shock certification by introducing analysis of shock risk assessment instead of random
+       assumptions based on lack of data about the systems. Instead of sending a hastily
+       compiled letter to chief engineer to request them to provide funding for further analysis I
+       want to make sure the data in the letter about perceived deficiencies was actually
+       deficiencies. If a letter is sent about perceived deficiencies on ship without investigation
+       that are not really supported by any analysis a false record will be created that the ship
+       has many shock deficiencies that it may not have otherwise. I was concerned about
+       signing off on such vague letters and sending them to chief engineers as official records
+       that the ship are full of deficiencies when in fact code 333 did no investigation or
+       engineering analysis to verify and validate what they were calling deficiencies on the
+       ship. I was surprised which group within Navy will have that type of funding and
+       resources to analyze what code 333 certification engineering was calling shock
+       deficiencies on ship. I didn’t saw any group fixing or taking care of the deficiencies
+       identified by code 333 in ship certification risk or inspection. Thus, I did not understand
+       the purpose of having a shock certification and shock inspection. If nothing is done to fix
+       the problem then why are we generating problems that we don’t even know for sure are
+       problems to begin with.
+    2) I only sent emails cc’s to the point of contact on the ship (DDG- Nali and LCS- Rayan),
+       Sarah and Christina and if input was required from the design integration engineer- Pat
+       (NAVSEA05). Christina was adding ship certification NWA and charge numbers to my
+       timesheet and the work was assigned to edit NSDB database because she wasn’t getting
+       nsdb NWA as the database was in process for archiving. Last day before certification
+       meeting she was asking me to quickly review and submit risk assessment on the ship
+       without spending time on reviewing the system under analysis. The NSDB database was
+       Case 2:23-cv-01391-JFM          Document 1        Filed 02/28/23      Page 12 of 57
+Priya Jaswal                                                              EEOC Number 2023001650
+
+
+       in my view just tampered around without source and Christina was even saying she
+       herself don’t know if anyone actually have those test reports or who might know.
+       According to pat they might be traced down if needed but he never checked individual
+       records to verify or validate. Maybe thus Christina was having me edit database with
+       unknown which actually is lead engineer’s responsibility to sign off. Thus I was sending
+       emails to the team members to find out how they were doing the same things differently
+       and how work is allocated to them. I wanted to know who actually prepared the technical
+       documentation and analysis on the system under investigation. I learned later it was
+       written by Pat (NAVSEA 05) and Christina’s work only involved NSDB database search
+       and tracking test reports. I should have never learned how work is done if I had not
+       forwarded the emails and ccd the email to multiple team members in code 333 and
+       external organizations. Christina wasn’t writing anything about her work process and
+       wasn’t giving information to me to learn what my role in shock certification. And she and
+       her managers were on top writing letters of caution to stop me from obtaining the
+       information and learning from other organizations working in parallel or opposing to
+       them. Yes I thought to find a new role in Washington DC in program management or
+       Design integration by using the (PMO & System Integration/Design Integration) contacts
+       on shock certification and it is bad that Jeff tried blocking my attempt to network and
+       leave code 333 to work at Washington DC Navy Yard by writing letters of caution to
+       discourage me from finding better opportunities than tracking databases and test reports
+       for Christina. I was disappointed to find that I got no ship for certification and I was
+       asking Christina that I want my ship that I want to run full certification activities around.
+       However, I never understood what Christina actually does as part of shock
+       certification. But after sending emails to the PMO & Design Integration Team I learned
+       their work was what I was interested to do as part of my job.
+    3) I was sending emails to my mentors most were division heads like Jeff working at
+       nswcpd in various departments like dept 40 and 50 to learn their roles and how they
+       contribute or benefit from shock certification. Some worked in ship certification and thus
+       I thought they could provide information about shock certification. However, I ended up
+       discussing issues with shock inspections and shock certification process itself. I got lot of
+       good information about other jobs at nswc though. There is nothing wrong about sharing
+       assignments related information with other departments and division heads. Instead of
+       going to court it is better to resolve issues internally.
+    4) I think Jeff Gosch initiated ship shock inspection and certification himself and thus he
+       was forcing me to follow Christina independent to how the certification team at code 333
+       worked. I bet it was Jeff whose direction were followed by Christina, Sarah and Rob all
+       together. And maybe he was using his team like how Christina was match making and
+       operating an entertainment business of direct reporter.
+    5) Christina by showing me odd pictures of her direct report certification engineer and
+       creating uncomfortable situations and awkward moments indirectly reinforced that she
+       did not like or respected me as I perceived from the interview as well. I was quietly
+       tolerating the drama she was doing to humiliate me and directly attack me when she
+       called me in office. I don’t understand why she overreacted in front of Jeff and Rob to
+       encourage them to write letters of caution against me. What she did to disrespect me was
+       worse than the emails that are intentionally analyzed to advise me to change my email
+       tone against her. I only wanted to use the bad work experience at code 333 as a stepping
+       Case 2:23-cv-01391-JFM          Document 1       Filed 02/28/23      Page 13 of 57
+Priya Jaswal                                                             EEOC Number 2023001650
+
+
+       stone to advance in my career. I think everyone who experienced something similar does
+       that, you have to make the most out of what you got. Few weeks before I was going to
+       support underway testing at code 511, I found a large ball in my cubicle that the AO and
+       Jeff Duckworth advised to leave in the department admin’s cubicle for disposal. Why did
+       nswcpd and code 333 bother hiring me if they didn’t plan to have a career for me and had
+       me tolerate Christina’s odd unprofessional attitude and work style. And write a
+       termination letter accusing me of unprofessional behavior.
+    6) Not until in around January 2021 I learned that code 333 has a habit of initiating
+       something new every four years to maintain hiring and expanding their jobs, I realized I
+       was the target they were using now after unsuccessful shock certification that they were
+       pushing to become ship certification and EMI/EMC certification efforts. I just didn’t
+       knew how they were planning to use me to get the funding they needed from program
+       offices. But I realize upon returning from the boat that what I ignored was the hr trainings
+       that everyone was like mimicking indirectly. Than I recall Christina said in interviews
+       this job is like your last position at Boeing in systems safety engineering. Her job was not
+       even close or has anything similar to systems safety engineering. But the military training
+       on sexual harassment that discusses the definition of sexual assault and sexual harassment
+       with cinematic movie with actual victims and stories. I suddenly realized how past
+       created by manipulating management is used to damage present and future.
+    7) It is not possible that the relationship between coworkers and managers were not
+       awkwardly close and inappropriate at code 333. Sarah Collins knew my work experience
+       at various companies without me telling her. But it could be that Christina told her about
+       my experience. Sarah after becoming the acting branch head when rob went to vacation
+       took administrative access to Rob’s emails. And on the day rob was out of office I was
+       getting emails from Rob asking me to join employee resources group meetings. I was
+       surprised how an employee like Sarah can use their manager’s email to send emails to
+       other employees without mentioning that was email was not from Rob but Sarah had
+       access to Rob’s email in Rob’s absence during vacation. Something was definitely odd
+       about the Navy’s employee resource group as well. Maybe in military employees can use
+       their manager’s email to send coworkers information they want using the manager name
+       and email. Thus I thought it was maybe culture at military. But Sarah could have sent an
+       email herself why did she used rob’s email address to send information about employee
+       resource group to new hires. Maybe she was very trustworthy and close to managers to
+       have gotten access to send emails using manager’s email box. I never get access to send
+       emails using my momi’s email account and code 333 employees were so connected to
+       their managers to be using manager’s email box to send emails using manager’s
+       signature. I thought at the time maybe rob has some administrative responsibility that
+       requires granting access of his email account to acting bh at code 333. And Sarah just
+       wanted to be the one-day individual in charge to guide new hires, really, she could have
+       sent emails using her own email address. No management requires employee resource
+       group membership. Or the managers and employees were uncomfortably close to be
+       using military email and account without restrictions. After receiving the emails
+       encouraging to join employee resource group by the manager Rob Tronzo, when the
+       manager was out of office I asked the manager when he returned. Do you work when you
+       are on vacation? Because I got email from you with information about events organized
+       by employee resource group and you highly recommend attending them. Rob responded
+       Case 2:23-cv-01391-JFM            Document 1    Filed 02/28/23     Page 14 of 57
+Priya Jaswal                                                            EEOC Number 2023001650
+
+
+       Sarah might have used his email address to send those emails in his absence. I didn’t said
+       anything but was surprised Rob gave full access of his email account to Sarah to send
+       emails using Rob signature. The email were not on behalf of manager but were Rob’s
+       email with his own signature. I thought Sarah might have done something very special to
+       have gotten full access to manager’s email address in the less than 4 years of employment
+       at nswcpd. Maybe rob and Jeff were intentionally making the coworkers see the emails I
+       sent to them by giving them full access of email box. Like creating a feeding frenzy
+       gathering coworkers together or just having them misuse company email or they were too
+       close to some of their direct reporter to have them access their emails while they go out
+       on vacation. Either way the termination letter was false and targeted to harm my career
+       intentionally. Also, I am not sure if the military civilian command has engineering work
+       to hire engineers. Maybe business management might be a better fit for their positions.
+       The shock certification might be similar to business risk assessment from no angle it was
+       technical or engineering work. Not my monkey not my circus.
+    8) What if I am called in a court to explain why? I thought Christina and nswcpd appeared
+       to be a brothel rather than an engineering unit/command. I am not sure the emails I was
+       getting from management was actually sent by the manager themselves or individual like
+       Sarah with access to the manager’s email box. That is the point.
+    9) No way I am not putting myself through another nightmare job without any career only
+       entertainment for the employer to make money abusing me using diversity groups. How
+       was Christina able to hire that type of coworkers and not sure I do not care what type of
+       relationship they had with each other. Code 333 and code 511 looked like fuck buddy
+       coworker and management from how they behave around me. And I was sure nothing
+       technical or productive business that generate revenue or build engineering products
+       could be achieved from such workforce.
+
+I thought to bring this to your attention.
+
+Thank you,
+
+
+
+Priya Jaswal
+                   Case 2:23-cv-01391-JFM                    Document 1            Filed 02/28/23        Page 15 of 57
+
+                                 MERIT SYSTEMS PROTECTION BOARD
+                                         Appeal Form--Appellant and Agency Information
+
+Please type or print legibly.                                                                                             OMB No. 3124-0009
+1. Name (last, first, middle initial)
+    Jaswal, Priya
+2. Present Address (number and street, city, state, and zip code)
+    Address:                                   1 Mac Arthur Blvd #S807
+
+
+    City, State, Zip Code:                     Haddon Township, New Jersey, 08108, United States of America
+3. Telephone numbers (include area code) and E-Mail Address
+       You must notify the Board in writing of any change in your telephone number(s) or e-mail address while your appeal is pending.
+
+    Home: (347) 345-6744                                                              Work:
+    Fax:                                                                               Cell:
+    E-mail Address: priyaccny2018@gmail.com                                                      Other Phone Type:
+4. Do you wish to designate an individual or organization to represent you in this proceeding before the Board? (You may designate a
+    representative at any time. However, the processing of your appeal will not normally be delayed because of any difficulty you may
+    have in obtaining a representative.)
+                        Yes                                                                                 ✔   No
+5. Name, address, and telephone number of the agency that took the action or made the decisions you are appealing (include bureau
+    or division, street address, city, State and Zip code)
+    Agency Name:                        Department of the Navy
+    Bureau:                             Naval Sea Systems Command
+    Address:
+                                        5001 S Broad St, Bldg 29
+
+    City, State, Zip code:              Philadelphia, Pennsylvania, 19112, United States of America
+    Agency Phone:                       (215) 897-2998
+6. Your Federal employment status at the time of the decision          7. Type of appointment (if applicable):
+    or action you are appealing:
+
+       Temporary             ✔   Permanent          Applicant                ✔     Competitive             SES                    Excepted
+       Term                      Retired            Seasonal                       Postal Service          Other
+       None
+8. Your occupational series, position title, grade, and duty station at the time of the          9. Are you entitled to veteran's preference?
+   decision or action you are appealing (if applicable):                                             See 5 U.S.C. 2108.
+Occupational Series                             Position Title:
+                      Engineering-                                Mechanical Engineer                    Yes              ✔   No
+or Cluster:
+                                                 Duty Station:
+Grade or Pay Band: GS-0830-12                                     Philadelphia
+
+10. Length of Government Service (if applicable):                      11. Were you serving a probationary, trial, or initial service period at
+                                                                            the time of the action or decision you are appealing?
+
+                  Years       10   Months                                      ✔    Yes                No
+
+                                                                   Appeal Number: 202102596
+                                                                                                                MSPB Form 185-1, Page 1 (5/13/2013)
+                                                                  Submission Date: 6/17/2021 5:14:50 PM          5 CFR Parts 1201, 1208, and 1209
+                                                             Confirmation Number: 212104
+                  Case 2:23-cv-01391-JFM                    Document 1      Filed 02/28/23       Page 16 of 57
+
+
+                                MERIT SYSTEMS PROTECTION BOARD
+                                      Appeal Form--Appellant and Agency Information
+
+Please type or print legibly.
+ HEARING: You may have a right to a hearing before an administrative judge. If you elect not to have a hearing, the
+ administrative judge will make a decision on the basis of the submissions of the parties. Do you want a hearing?
+
+
+12. Do you want a hearing?                  ✔   Yes                  No
+E-Filing: Registration as an e-filer enables you to file any or all of your pleadings with the Board in electronic form. Registration
+also means you consent to accept service of all pleadings filed by other registered e-filers and all documents issued by the
+Board in electronic form. You will receive these as PDF documents at the e-mail address you provided the Board. If registered as
+an e-filer, you may file any pleading, or portion of a pleading, by non-electronic means. You can withdraw your registration as an
+e-filer at any time.
+
+13. Do you wish to register as an E-Filer in this appeal?
+                                ✔   I elect to E-File                                I decline to E-File
+
+
+14. I certify that all of the statements made in this form and all attached forms are true, complete, and correct to
+     the best of my knowledge and belief.
+
+
+
+
+     Priya Jaswal, Appellant                                                                   Date:
+
+
+
+
+                                                                 Appeal Number: 202102596
+                                                                                                       MSPB Form 185-1, Page 2 (5/13/2013)
+                                                               Submission Date: 6/17/2021 5:14:50 PM    5 CFR Parts 1201, 1208, and 1209
+
+                                                            Confirmation Number: 212104
+                  Case 2:23-cv-01391-JFM             Document 1          Filed 02/28/23      Page 17 of 57
+
+
+
+
+                                       e-Appeal Attachment Transmittal
+Appeal Number:             202102596
+Appellant Name:            Priya Jaswal
+Agency Name:               Department of the Navy
+
+
+Please check the box for each document included with this transmittal.
+
+     Name of Attachment               Attachment Processing Status                    File Name/Delivery Method
+
+     Drafted Appeal File              Upload with e-Appeal                            Appeal_00.pdf
+
+                              2 copies must be submitted of all documents submitted in hardcopy.
+                                       Send documents to be submitted in paper form to:
+                                                 Northeastern Regional Office
+                                                1601 Market Street Suite 1700
+                                              Philadelphia, Pennsylvania 19103
+                                                   United States of America
+
+                                                    Phone: (215) 597-9960
+                                                     Fax: (215) 597-3456
+
+
+
+
+                                                        Appeal Number: 202102596            Attachment Transmittal Sheet
+                                                      Submission Date: 6/17/2021 5:14:50 PM
+                                                                                                                           Page 1
+                                                  Confirmation Number: 212104
+        Case 2:23-cv-01391-JFM              Document 1         Filed 02/28/23        Page 18 of 57
+
+
+
+Dear Judge:
+
+After a workplace injury on April 8 2021 on a US Navy unmanned surface vessel in mobile Alabama, on
+June 8th 2021 my employment was wrongfully terminated by Naval Surface Warfare Center Philadelphia-
+NSWCPD, US Navy’s Naval Sea Systems Command for cause as listed in the attached termination letter. I
+believe the termination cause is false. I was bullied by managers and lead engineers, discriminated by
+managers and coworkers due to my pronunciation, sent on a work-related trip intentionally to cause
+physical and mental trauma, no doctors or medical services were offered and I was told to continue
+working and thus it was an attempt murder. And after reporting to the HR in January and February 2021
+about my experiences with manager and lead engineer as described in the attached letter to DOL, on
+June 8 2021 the management wrongfully terminated my employment. This employer paid no relocation,
+no hiring bonuses and two years’ probation with a term that disability will only be available 18 months
+after employment and they disabled in my view intentionally before the employment offer terms. I now
+think their intentions for offering this employment were not right from the beginning and they created
+unsafe job assignments with poor individual safety on the boat on April 8th 2021.
+
+When I drive my car, I am having rectal pain, pain in joints, back pain and neck pain and feel fatigue and
+tiredness. Long-distance drive causes rectal bleeding. I was scheduled for a rectal surgery on June 23
+that I have to cancel as I do not have health insurance as a result of job loss. Between this health
+condition I am forced to move to another city as I won’t have housing after July 31. On July 31 my
+apartment’s lease is expiring and I do not have an employment to renew the lease. I can not recover
+fully as a result of physical activities that I have been doing since April 8 (return to work on April 26) and
+now relocating between job loss. This employer has created lot of financial loss, mental and physical
+trauma for me.
+
+I am appealing to have
+
+    •   Termination letter false cause of unprofessional behavior removed from my records
+    •   Compensation for sudden job loss and new job search until I find an employment – Severance or
+        one year salary
+    •   Medical payment for workplace stress since October 2020 and injury on April 8 2021 and follow-
+        up issues compensation
+    •   Complete Relocation Expenses from and to home location to NY both ways
+
+Note My Mailing Address After July 31st 2021 will be
+
+97-37, 63rd Road Apt 3N
+
+Rego Park, NY 11374
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 19 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 20 of 57
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                          https://www.osha.gov/whistleblower/WBComplaint.html
+                          Case 2:23-cv-01391-JFM
+                    UNITED STATES
+                                                                                Document 1            Filed 02/28/23         Page 21 of 57
+                    DEPARTMENT OF LABOR
+
+
+     OSHA                                                                                                                                                         Menu
+
+
+
+                                   
+                                          SEARCH OSHA
+
+                      OSHA        STANDARDS            ENFORCEMENT TOPICS               HELP AND RESOURCES          Contact Us       FAQ
+
+                                                                                                                    A to Z Index      English
+
+                                                                                                                                      Español
+
+       Back to Whistleblower Protection Program           / OSHA Online Whistleblower                                                      Ver esta página en español
+     Complaint Form
+
+
+                                                OSHA ONLINE WHISTLEBLOWER COMPLAINT FORM
+                                                                                       Instructions
+
+
+                    US Department of Labor                                                                                         OMB # 1218-0236
+                    Occupational Safety and Health Administration
+                    Notice of Whistleblower Complaint
+
+
+
+                                                                 Have you suffered an "adverse action"?
+                                                                            At least one selection is required
+
+         To have a valid complaint, you must allege that your employer took at least one "adverse action" against you. An action is "adverse" if it negatively affected
+         your conditions of employment in any way (see examples below).
+
+         If yes, please click all that apply:
+
+            Termination / Layoff
+            Discipline
+            Demotion / Reduced Hours
+            Suspension
+            Denial of Benefits
+            Failure to Promote
+                                                Failure to Hire / Re-hire
+                                                Negative Performance Evaluation
+                                                Threat to Take any of the Above Actions
+                                                Harrassment / Intimidation
+                                                Other (please describe)
+                                                 Workplace bullying and attempt murder
+
+
+
+
+                                                       When did you suffer the most-recent adverse action?
+         Each whistleblower protection law that OSHA administers requires that complaints be filed within a certain number of days after the alleged adverse action.
+         The time periods vary from 30 days to 180 days, depending on the specific law (statute) that applies. For example, Section 11(c) of the OSH Act, which
+         covers workplace safety and health matters, requires that a complaint be filed within 30 days of the adverse action. Under certain extenuating
+         circumstances, however, OSHA may accept a complaint filed after the deadline has expired. Click here for a summary of the filing deadlines that apply to
+         each statute.
+
+
+
+1 of 7                                                                                                                                                  6/10/2021, 12:00 PM
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                        https://www.osha.gov/whistleblower/WBComplaint.html
+                              Case 2:23-cv-01391-JFM      Document
+                                                Date of Most-Recent      1 Action
+                                                                    Adverse   Filed  02/28/23
+                                                                                  (Required)                               Page 22 of 57
+                                                                              06 / 08 / 2021     Set
+
+
+                                                  (If you cannot remember the exact date, please enter the approximate date.)
+
+
+
+
+                        Why do you believe you suffered the adverse employment action(s)? (at least one required)
+         Please check all that apply:
+
+            Called / Filed complaint with OSHA
+            Called / Filed complaint with another government agency
+             US Department of Labor Worker Comp
+
+            Complained to management about unlawful conditions, conduct, or
+            practices
+            Testified or provided statement in a proceeding (e.g., government
+            inspection or investigation)
+            Because of your race, color, religion, sex (including pregnancy, gender
+            identity, and sexual orientation), national origin, age (40 or older),
+            disability or genetic information
+            Because you complained about failure to pay the minimum wage,
+            overtime pay, wage recordkeeping, child labor, or family and medical
+            leave requirements
+            Because you complained about migrant or seasonal worker protections,
+            lie detector tests, or worker protections in certain temporary guest
+            worker programs
+                                             Because you engaged in protected concerted activities (group action to
+                                             improve wages, benefits, and working conditions), union activities,
+                                             supported a union, or chose not to engage in union activities
+                                             Reported an injury, illness, or accident
+                                             Participated in safety and health activities
+                                             Refused to perform unsafe or illegal task
+                                             Other (please describe)
+                                                 Workplace bullying, wrongfully termination of employment
+                                                 and attempt murder
+
+                                                                                                             75 / 1000
+
+
+         What reason(s) did your employer give for the adverse action(s)?
+                     They blamed me for unprofessional behavior they conducted on me. In October 2020 upon request to witness a test the
+                                                                                                                                                    Is     911 / 1000
+                     manager called me at the shock and vibration test lab in Philadelphia and the lab manager indirectly humiliated me in front
+                                                                                                                                                    there
+                     of their contractors and employees. He said that there is a mop and bucket and I should start mopping his lab’s floor. I
+                                                                                                                                                    anything else that
+                     respectfully disregarded their unprofessional behavior however the lead engineer, Ms. Backes, assigned work to constantly
+                                                                                                                                                    that you would
+                     irritate and humiliate me year-round, in all her emails she listed to “clean up” spreadsheets reminding me of the treatment in
+                                                                                                                                                    like OSHA to
+                     the lab in October 2020. She did that while keeping the managers on copy and the managers did nothing to stop her
+                                                                                                                                                    know about what
+                     unprofessional behavior. They wrote letters accusing me for unprofessional behavior that they exercised as team year-round
+                                                                                                                                                    happened?
+                     and for unprofessional things that they did to and around me.
+
+                          My employment was terminated June 8 wrongfully because I contacted HR to report coworker misconducts, ship shock
+                                                                                                                                                           539 / 1000
+                          certification job title issues and misuse of company resources. I added the letters and emails from HR to the worker
+                          compensation claim number on the department of labor Ecomp website (some of them had privacy statements not to share,
+                          worker compensation Case number: 550061639. Date of Injury: 04/08/21 ) using my work laptop between May 2021 and
+                          June2021. Got fired in two weeks after adding the emails to the case number.
+
+                                                                                                                                                       When you
+                                                     suffered the adverse action, who did you work for?
+
+                    Company Name           Naval Surface Warfare Center Philadelphia, NAVSEA
+                       (Required)
+
+
+2 of 7                                                                                                                                                 6/10/2021, 12:00 PM
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                        https://www.osha.gov/whistleblower/WBComplaint.html
+                               Case
+         Is this a private or public     2:23-cv-01391-JFM
+                                     sector employer? (Required)          Document 1              Filed 02/28/23             Page 23 of 57
+            Private
+            Public
+              Federal
+              State, County, Municipal, or Territorial
+
+
+
+
+                                          When you suffered the adverse action, where was your worksite?
+                                                       (e.g., home office; official duty station; dispatch; home terminal)
+
+         Worksite Address when Alleged Retaliation Occurred (Street, City, State, Zip):
+
+                             Street:    5001 S Broad St, Bldg 29
+
+                                City:   Philadelphia
+
+                State: (Required)        Pennsylvania
+
+
+                                Zip:    19112
+
+
+
+
+3 of 7                                                                                                                                         6/10/2021, 12:00 PM
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                         https://www.osha.gov/whistleblower/WBComplaint.html
+                               Case 2:23-cv-01391-JFM                          Document 1           Filed 02/28/23        Page 24 of 57
+                                                                How can OSHA contact your employer?
+
+                 Employer Name (if         Naval Surface Warfare Center Philadelphia, NAVSEA
+              different from "Company
+                        Name" above):
+                                          Name and Title of Management Person (for contact purposes only)
+
+                               Name:       Keishla                                M.I.        Guzman
+
+                                 Title:    Human Resource Office
+
+                               Phone:      215-897-2998                            Ext
+
+         Name and Title of Your Supervisor:
+
+                               Name:       Jeffery                                M.I.        Gosch
+
+                                 Title:    Division Head
+
+         Employer Mailing Address (if different from worksite address):
+
+                               Street:     5001 S Broad St, Bldg 29
+
+                                  City:    Philadelphia
+
+                                State:      Pennsylvania
+
+
+                                  Zip:     19112
+
+                   Employer Phone:         ###-###-####                            Alt Phone: ###-###-####
+
+
+                      Employer Fax:        ###-###-####                            Alt Fax: ###-###-####
+
+
+                    Employer Email:
+
+                  Type of Business:        US Navy
+
+
+
+
+                                                                          How can OSHA contact you?
+                                                                          Please complete all required fields
+
+                Name (Required):           Priya                                  M.I.        Jaswal
+
+         Mailing Address (Street, City, State, Zip) (Required):
+
+                               Street:     1 Mac arthur Blvd S807
+
+                                  City:   Haddon Township
+
+                                State:      New Jersey
+
+
+                                  Zip:     08108
+
+         Telephone Numbers (include area code) (at least one required):
+
+                               Home:       347-345-6744
+
+                                Work:      ###-###-####                            Ext
+
+                                  Cell:    ###-###-####
+
+
+
+4 of 7                                                                                                                                          6/10/2021, 12:00 PM
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                        https://www.osha.gov/whistleblower/WBComplaint.html
+                              Case 2:23-cv-01391-JFM
+                                      No Telephone Available
+                                                                          Document 1              Filed 02/28/23            Page 25 of 57
+
+                      Email Address:     priyaccny2018@gmail.com
+
+         Other Contact Person?
+
+                              Name:      First Name                           M.I.          Last Name
+
+                              Phone:     ###-###-####
+
+               Preferred Method of        Select one...
+                          Contact:
+
+                    Preferred Time of     Select one...
+                             Contact:
+
+
+
+
+                                                                     Designated Representative
+         Do you have an authorized / designated representative (e.g., attorney, shop steward)?
+
+               No
+               Yes
+
+         Are you an authorized / designated representative (e.g., attorney, shop steward) that is filing on behalf of an employee?
+
+               No
+               Yes
+
+         If yes for either, please provide contact information for the authorized/designated representative:
+
+                              Name:      First Name                           M.I.          Last Name
+
+                                Title:   Title
+
+             Organization Name (if       Organization Name
+                            any):
+
+          Union Affiliation (if any):    Union Name
+
+         Address (Street, City, State, Zip Code):
+
+                              Street:    Street Address
+
+                                 City:   City
+
+                               State:     Select one...
+
+
+                                 Zip:    #####
+
+                        Phone (day):     ###-###-####                          Ext:
+
+                               Email:
+            By checking this box, I certify that the named employee has authorized me to act as their representative for purposes of this complaint.
+
+
+
+
+                                                                                Submission
+         Please review the information you have entered to ensure that it is accurate. You may change any answers as needed before submitting the form.
+
+5 of 7                                                                                                                                                 6/10/2021, 12:00 PM
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                       https://www.osha.gov/whistleblower/WBComplaint.html
+                           Case
+         NOTE: It is unlawful       2:23-cv-01391-JFM
+                              to make                               Document
+                                      any materially false, fictitious,            1 statement
+                                                                        or fraudulent   Filed to
+                                                                                               02/28/23       Page
+                                                                                                 an agency of the     26States.
+                                                                                                                  United  of 57Violations can be
+         punished by a fine or by imprisonment of not more than five years, or by both. See 18 U.S.C. 1001(a); 29 U.S.C. 666(g).
+
+         By clicking SUBMIT below, you certify that the information in this complaint is true and correct to the best of your knowledge and belief.
+         Please click "Submit" only once. Remember that you cannot file a whistleblower complaint with OSHA anonymously. If you file a
+         complaint, OSHA will contact you to discuss your complaint. If OSHA proceeds with an investigation, the employer will be notified of your
+         complaint.
+
+                                                    We suggest that you print and save this page for your records.
+
+                                                                          Print this Complaint
+
+
+
+
+                                                           Cancel, Return to www.whistleblowers.gov
+
+
+
+                                                                       Complaint Received!
+          Thank you! As of June 10, 2021 12:00 PM US Eastern Time, you have filed a whistleblower retaliation complaint with OSHA using our online filing system.
+
+                                                     Your complaint submission reference number is: ECN74946
+
+           No further action is necessary at this time. An OSHA representative will contact you using the contact information that you provided in your complaint.
+                                                       It is very important that you respond to OSHA's follow-up contact.
+
+                                                            We appreciate the opportunity to be of service to you.
+
+
+
+                                                                        How Did You Find Us?
+         How did you learn about OSHA's Whistleblower Protection Programs? (Please click all that apply)
+
+            DOL's website (www.dol.gov)
+            OSHA's website (www.osha.gov)
+            OSHA employee
+            Referred by another agency or organization
+             Name of Agency/Organization
+
+            Union
+            Coworker
+            Friend or Relative
+            Search engine (e.g., Google)
+            News article
+            Conference or Industry event
+            Other
+             Please describe
+
+
+                                                                                     Send
+
+
+
+
+                                                                         PRIVACY ACT STATEMENT
+
+     This form requests personal information that is relevant and necessary to determine whether and how to conduct an investigation. OSHA collects this information
+     in order to process complaints under its statutory and regulatory authority. Once a complaint is filed, the individual's name and information about the allegations of
+     retaliation will be disclosed to the employer. During the course of an OSHA investigation, information contained in an investigative case file may be disclosed to the
+     parties in order to resolve the complaint. During an investigation, information about the complaining party and the employer will not be released to the public
+     except to the extent allowed under the Freedom of Information Act (FOIA). However, once a case is closed, it is possible that information contained in the
+     complaint or a case file may be released to the public as required by the FOIA. Any such documents will be redacted as appropriate under the FOIA and the
+     Privacy Act.
+
+                                                               PAPERWORK REDUCTION ACT STATEMENT
+
+
+6 of 7                                                                                                                                                   6/10/2021, 12:00 PM
+Whistleblower Complaint Form | Occupational Safety and Health Admini...                                       https://www.osha.gov/whistleblower/WBComplaint.html
+                              Case
+     According to the Paperwork         2:23-cv-01391-JFM
+                                   Reduction Act, an Agency may not conductDocument         1 no Filed
+                                                                               or sponsor, and    persons 02/28/23           Page
+                                                                                                           are required to respond  to a27  of 57of information unless
+                                                                                                                                         collection
+     such collection displays a valid OMB control number. Public reporting burden for this voluntary collection of information is estimated to be one hour per response,
+     including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the
+     collection of information. Please send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for
+     reducing this burden to OSHA.DWPP@dol.gov or to the Directorate of Whistleblower Protection Programs, Department of Labor, Room N4624, 200 Constitution
+     Ave., NW, Washington, DC; 20210; Attn: Paperwork Reduction Act Comment. (This address is for comments only; do not send completed complaint forms to this
+     office.)
+
+                                                              OMB Approval # 1218-0236; Expires: 02-29-2024
+
+                                                                                                                                               OSHA 8-60.1. (Rev.06/17)
+
+
+
+
+                    UNITED STATES
+                    DEPARTMENT OF LABOR
+
+
+     Occupational Safety and Health Administration
+     200 Constitution Ave NW
+     Washington, DC 20210
+      800-321-6742 (OSHA)
+     TTY
+     www.OSHA.gov
+
+     FEDERAL GOVERNMENT                                      OCCUPATIONAL SAFETY AND HEALTH                          ABOUT THE SITE
+
+     White House                                             Frequently Asked Questions                              Freedom of Information Act
+     Severe Storm and Flood Recovery Assistance              A - Z Index                                             Privacy & Security Statement
+     Disaster Recovery Assistance                            Freedom of Information Act                              Disclaimers
+     DisasterAssistance.gov                                  Read the OSHA Newsletter                                Important Website Notices
+     USA.gov                                                 Subscribe to the OSHA Newsletter                        Plug-Ins Used by DOL
+     No Fear Act Data                                        OSHA Publications                                       Accessibility Statement
+     U.S. Office of Special Counsel                          Office of Inspector General
+
+
+
+
+7 of 7                                                                                                                                                 6/10/2021, 12:00 PM
+       Case 2:23-cv-01391-JFM           Document 1        Filed 02/28/23       Page 28 of 57
+
+
+
+Dear US Department of Labor,
+
+The NSWCPD code 333 hired me in August 2020 last year. Listed below are the reasons I believe the
+command and the department abused me between August 2020- present and tried to kill me on a work
+related USV ride on April 8 in Mobile Alabama for which I requested worker compensation.
+
+   1. In October 2020 upon request to witness a test the manager called me at the shock and
+      vibration test lab in Philadelphia and the lab manager indirectly humiliated me in front of their
+      contractors (from Lockheed Martine) and employees (from NSWCPD and NSWCCD). He said that
+      there is a mop and bucket and I should start mopping his lab’s floor. I respectfully disregarded
+      their unprofessional behavior however the lead engineer, Ms. Backes, assigned work to
+      constantly irritate and humiliate me year-round, in all her emails she listed to “clean up”
+      spreadsheets reminding me of the treatment in the lab in October 2020. She did that while
+      keeping the managers on copy and the managers did nothing to stop her unprofessional
+      behavior. They wrote letters accusing me for unprofessional behavior that they exercised as
+      team year-round and for unprofessional things that they did to and around me.
+   2. Both the hiring manager Rob. T and division head Jeff.G mentored me since last year. The lead
+      said the hiring manager Rob. T does not know anything about her job and she was assigning
+      opposite tasks compare to how the division head was suggesting on phone. E.G: - The division
+      head use to suggest to talk to ISEA to analyze the risks associated with the equipment. The lead
+      suggests to only self-analyze risk no need for discussion with anyone from other departments to
+      learn anything about the equipment or its operation. She spent more time charging the NWA
+      timesheet on a project to only work on her own without input from other groups or contractors.
+      I initially thought she wanted to be in charge of contact with external group. Later I saw her
+      questions to other groups were generic and vague- “What will be the impact of this equipment
+      failure on the mission of the ship?” The work and analysis that she should have done as an
+      engineer was asked as a question to ISEA at the end of few months of sitting on a project and a
+      shock certification was granted based on the response from ISEA and the fact that the
+      equipment wasn’t meeting test requirements. Neither the team nor the contractor use to
+      perform any analysis on the equipment or its design to understand what and why the
+      equipment failed the test. Example: - There was a project on 200Hz frequency converters on
+      DDG ship with circuit breaker failure during test on a ship that the lead and the senior shock
+      engineers were working on since last 15 years. Without working with the ISEA and contractor to
+      recommend how to fix the breaker design and associated failure before repeated retest of the
+      circuit breaker or reviewing the design change in the circuit breaker, the team was asking the
+      contractor to retest the equipment over and over again. I suggested to the lead that a computer
+      simulation or CAD analysis model could assist with analysis of the breaker design or identifying
+      root cause of the design failure prior to test in such situation. However, the lead and senior
+      engineers were more interested to ensure the project stays open for 15 years or long duration
+      so they get charge/NWA/timesheets to continue working instead of fixing the failures. Such
+      projects when tested may open opportunities for the team to travel to witness test etc. and
+      they do not want to fix anything and continue expanding the project to get their own salaries,
+      government travel and luxury trips to Washington DC for discussion with warrant holder or even
+      program office.
+   Case 2:23-cv-01391-JFM             Document 1         Filed 02/28/23       Page 29 of 57
+
+
+
+3. After establishing mentoring with Jeff.G the division head, I once found a note on a desk near
+   Christina’s desk where she asked me to sit that, Jeff.G was an engineer at Code 333 few years
+   ago and an old org chart listing him as code 333 employee. I thought some of the things he said
+   use to rime the bullying coworkers. He was very interested to maintain ship inspection jobs
+   within code 333 that Christina Backes was leading in luxury.
+4. The code 333 team and the lead, Christina, use to generate redundant and administrative tasks
+   like database editing without any quality source and charge over time on timesheet as a team.
+   NSDB and Eshock database for which the lead got recognition in press was such job. Code 333
+   was the owner of NSDB database and the lead had administration rights to edit and assign
+   editing rights of the database. She generated a task that she called validation of the NSDB
+   database. There was no source to validate the data. The entire shock engineering team was
+   spending large amount of over time marking in a spread sheet that the database has
+   information like test reports or not. I believe the ownership of the database was transfer to IT
+   and thus the code 333 group wasn’t letting go of the easy over time money from redundant
+   tasks.
+5. The lead once over the phone when I asked question about how she was analyzing the shock
+   risks, said that I have a non-native accent and thus she thinks I have hard time explaining myself.
+   She was comparing me with their department admin Karen. B, asking me why do I think Karen
+   writes short emails that are hard to interpret. She tried to humiliate me and make me feel bad
+   to stop me with seeking information about my job as certification engineer. As engineer I should
+   ask questions to learn about the job and the work assigned. She discouraged me to ask question
+   by saying discriminatory things about my pronunciation, emails and how I write. The manager
+   Jeff.D (who challenged my worker compensation) use to follow the lead engineer, Christina
+   Backes’s lead and write emails to the hr (forwarded to me by him to humiliate) that I am ESL and
+   thus unable to understand that he was not offering sick leave after the work place injury
+   because that are the options from his command and I have no sick leave as I am new. I think the
+   managers and the lead engineers together intentionally caused drama around me. Jeff.D also
+   suggested that I should discuss career development plan with AO instead of managers after
+   misguiding me about job performance and other opportunities at the command. The managers
+   like Jeff.D do not have technical skills, similar to the engineers at Code 333 to train or guide new
+   engineers. They rely on individuals that are manager’s pet or manager pleasures to promote and
+   fill lead and senior engineer positions. Jeff.G once told me that there is hierarchy and most
+   individual promoted to higher positions are internally to NSWCPD or other NSWC organizations.
+   They don’t hire individuals from outside for management or senior positions.
+6. The lead once said over the phone that they were thinking they will get more funding from the
+   command after hiring me. They did not receive anything and thus she has no work other than
+   excel sheet “clean up” tasks.
+7. After getting a cubical earlier this year in March 2021, I reported to the department AO that
+   someone left a large children ball in my cubicle along with some other odd items (energy drinks,
+   bottles etc.). Although, it could be the belonging of the person working previously, I have no
+   idea why those things are still in the cubicle. I was told to move the box with the ball etc. to the
+   department’s admin Christina Flagan’s cubicle after the AO contacted Jeff.
+8. The lead engineer, Ms. Christina Backes use to write funny and odd clichés and names like “Ey
+   Boya” in emails to irritate me, when reported to the division head and human resources, Jeff.G
+   Case 2:23-cv-01391-JFM             Document 1        Filed 02/28/23        Page 30 of 57
+
+
+
+    wrote letter of caution against me. Thus, I believe the engineers and lead were following
+    division head’s directions to cause drama and they forced me to write emails after irritating as
+    they were writing such emails themselves initially. And they took disciplinary actions against me
+    to terminate my employment.
+9. During the interview they told me that my job involves writing official letters to chief engineers
+    in Washington DC to request funding for ship shock certification. I found that the inspection
+    funding requested was not used properly by the code, the inspection data was of no use and
+    stored in individual cabinets to waste, they were abusing money during inspection trips, buying
+    personal use equipment and safety shoes after charging over time money during inspection and
+    they were suggesting me to do the same. I notified to the manager and the HR in January and
+    February of 2021 about the abuse of money and command resources. The hr. suggested that I
+    do not have proof and only listening to coworkers.
+10. I also suspect that the department and the command intentionally offered a job on an
+    unmanned surface ship in Mobile, Alabama on April 8 2021 to cause physical and mental
+    trauma. This is because I contacted the human resource representative in January and February
+    and reported the lead engineer’s behavior. I added the HR interview letters and the letters that I
+    shared with the hr. to the attached worker compensation Case number: 550061639. Date of
+    Injury: 04/08/21 to department of labor between May 2021 and June 2021.
+11. Today June 8 2021, they terminated my employment. The manager, Jeff Gosh, was my mentor
+    since October 2020, he intentionally caused drama and misguided me using help from code 333
+    employees. They as a team bullied me year-round and caused physical and mental trauma in
+    addition to making me unemployed. They wrongfully terminated my employment after false
+    accusations. After the health condition in the boat on April 8, they did not call doctor on time to
+    help and suggested to continue working. They can kill me if I appeal or get authorization from
+    regulatory agencies to return to work again. They negatively impacted my career, physical
+    health and mental health since August 2020.
+12. Today, June 8th 2021, during termination of employment, they called 911 or their command’s
+    police and further showed that they are fraudulent employer with serious funding issues and
+    need to get government funding to run their department and command that they can get rid of
+    anyone who comes into their way.
+13. The cause of the termination of employment is as manipulative and fake as they are as a
+    management and as a command.
+14. Matthew. K the manager for code 511 was asked to join the HR panel for hiring code 333
+    manager he discussed during interview in March 2021 and he took direction for Jeff D the BH
+    and Jeff G the division head to create my assignment around underway test as rotation
+    requirement. I told Jeff D and Jeff G in February 2021 that I am looking for a job on USV and
+    thought it was a strange coincidence that they hired USV control system manager from code 511
+    on hiring panel same time that I was looking to leave code 333 and department 30 to join dept
+    50.
+15. Although, there were multiple individuals on the boat on April 8 2021, I was the only person
+    who was first time onboard the boat and I was the only person who was tasked to close the
+    doors behind while walking in the engine room as I was following others. I requested the lead
+    engineer to visit the engine room on second day however he still took me to the engine room
+       Case 2:23-cv-01391-JFM              Document 1         Filed 02/28/23       Page 31 of 57
+
+
+
+        between vibration and noise twice after the boat began its journey on the first day on April 8
+        2021.
+    16. In the boat the lead told the captain who was giving safety briefing for unexpected situations
+        during the trip that he recommended me to take motion sickness medication before on board.
+        He made a false statement to the boat’s captain. I do not recall mention of motion sickness
+        medication in emails or verbally to take before the boat ride from the lead or anyone from the
+        code 511 group prior to April 8 after we were on the boat. On April 5, he said the ride could be
+        rough however he looked online the weather looks sunny in 70s the week we will be underway.
+        He said he was surprised that it was raining however he brought his rain gear and did not
+        advised me to bring mine prior to the boat ride. I was wet and feeling cold when I entered the
+        boat on April 8. In the morning, April 8 5:00am, I was asked to drive myself and the lead
+        engineer to the boat and the lead engineer did not brought his car to Austal USA. Early morning
+        at 5:00am, he was very rude in giving direction to the location of the boat and yelling to follow
+        even when mistakenly I drive in wrong lane or make wrong turn. I requested him that starting
+        April 9 we should drive separate cars however he said we will see that on April 9 and there are
+        parking issues for visitor without ID cards. He did not help me get my own ID card at Austal USA
+        even when I was assigned to be at Austal for the full month. I now think the lead may have
+        known prior to April 8 boat ride that I won’t be in the health condition to stay on the boat for
+        long.
+    17. Upon returning my visitor ID at the Austal USA ID office I saw a banner that “All employees
+        injured/sick at their company’s premises should visit doctor”. When I asked the lead that there
+        is a banner at the ID office at Austal USA to see a doctor if I get sick/injured while at their
+        company’s premises on April 8 and I feel fatigued and tired and my hands are hurting unable to
+        drive. The lead advised to rest on weekend and start working on Monday in spite of weakness
+        and fatigue that I told him I was suffering after the boat ride on April 8. I felt weakness in my
+        hands so much that I was not able to hold the steering wheel to drive my car on April 8. He said
+        it is normal to feel fatigued and tiredness and there is never a need to see a doctor. They initially
+        made me feel that I should not visit doctors and keep working. I should have fainted, fallen or
+        died if I have stayed on the boat for a week after April 8 2021. The manager Jeff D a week after
+        the boat ride advised that there is no need to see a doctor, he will approve sick leave but I do
+        not need to follow his advice not to see a doctor. I can see a doctor if I wish.
+    18. My PT doctor advised in May ask the managers to bring pictures of how I was holding the door
+        and applying pressure to the door and bending my head and knees/hip while on the boat on
+        April 8. He wanted to ensure he don’t make me do exercises to bend my hands or legs in wrong
+        manner to cause fracture or worsen my symptoms. I requested both managers Jeff D and
+        Matthew K and human resources Robin to arrange the pictures or videos from the underway
+        trip on April 8 2021. They never shared anything or responded to those email requests.
+    19. The Inspector General Audit happened for the Naval Surface Warfare Center for last year and
+        they in January/ February cleared the department with no issues or corrective actions. Thus, I
+        thought this is the command’s culture and their ways of working. But I still reported to HR in
+        January/February and they advised to contact union as they support the management.
+
+Please let me know if you can help. I am still feeling pain in my hands, knees, legs, my back and neck is
+bruised and I am having lot of rectal pain after the work-related trip on April 8 2021. I need time for
+recovery and finding employment.
+   Case 2:23-cv-01391-JFM            Document 1        Filed 02/28/23       Page 32 of 57
+
+
+
+
+    On April 8 2021, I was assigned temporary duty on an Unmanned Surface
+    Vessel, referred to as boat, in mobile bay, on sea in the ocean when this
+    incident happened.
+
+1) My hands, back bone pain and lower back pain is resulting from trying to close the engine
+   room door that was not closing due to high speed at which the boat was running and sitting
+   on the toilet seat in the boat when it was speeding without warning. The boat’s engine room
+   has a large latch door typically seen in military vessels to seal the compartment, water proof the
+   area and regulate pressure etc. When the boat was running at around 19knots, verified the
+   speed after reading radar screen in captain room, I was advised to visit the engine room to
+   review all machinery control systems, their functions and operation. The engine room’s door
+   was not able to shut close due to the high speed at which the boat was running. I was directed
+   to close the door by the senior engineer several times independently. I told him I was not able to
+   close it and I was asked to keep trying and use all force. The latch of the door was bigger than
+   my height and it covered the entire area of the door unlike the picture below where the latch is
+   small. I tried putting both hands and gripped the door tight to close it however due to the
+   increased speed of the boat the door pushed my body away as I forced it to close. I felt sever
+   hurt and bumps in my body. There was an extreme feeling for tiredness and fatigue. The engine
+   room has high level of noise and thus I was not able to speak loudly that I’m not able to close
+   the door but feel tired and fatigued but I still yelled. The senior engineer showed his concern
+   that I am not able to do simple things like closing doors, he tried closing the door and was not
+   successful either and he left the door open and asked me to continue following him in the noisy
+   engine room. Although, I wore the ear protection the engine noise was creating stress and
+   increasing my fatigue and tiredness. This happen few hours after the boat left the shore most
+   probably before the safety drill by captain (not sure about the time but it was between 6m to 8
+   am when the boat was still near the shore and I was not feeling healthy as the boat was
+   speeding. I also noticed that my grip was getting weak and my tiredness and fatigue was
+   increasing. I was informing the senior engineers that I am feeling fatigued and tired and they
+   were pushing me to continue walking on the speeding boat as it is normal in their view. I applied
+   too much force with my two hands thus my hands, fingers, finger bones, arm and elbow and
+   backbone is still hurting.
+       Case 2:23-cv-01391-JFM              Document 1         Filed 02/28/23        Page 33 of 57
+
+
+
+
+                      Latch
+
+
+
+
+Note: This is not the exact door on the USV, boat. The engine room door is similar in construction
+however its internal mechanism is open and thus the notches on the door could hurt if one is not careful
+opening the door on the actual USV.
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fstock-photo-hatch-
+uss-razorback-diesel-submarine-balao-class-was-built-portsmouth-naval-shipyard-kittery-maine-
+image53126952&psig=AOvVaw35m-
+h8zjs7qoIcvCQpCAsQ&ust=1619684921582000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCNi7kNb
+CoPACFQAAAAAdAAAAABAs
+
+After this early morning extreme fatigued and tiredness at every speedy and brake I was having more
+and more pain in the backbone and feeling more tired and fatigued throughout the day. When the boat
+entered the ocean current it started shaking sideways- right to left. Worsening my existing condition of
+fatigued and tiredness after trying to close the engine room door. I started throwing out which was
+analyzed by the senior engineers as motion sickness and normal. I wasn’t just feeling dizzy, if I have not
+sat down on a chair I should have fallen or fainted down. I spent rest of the time on the boat throwing
+out and lost control of bowel and urine discharge. In the toilet I wasn’t able to sit on the seat. I did not
+had strength to grab the toilet seat arm rest and thus was hugging the arm rest to ensure I do not fall.
+My head and legs were hitting constantly on the partition wall of the toilet worsening my fatigue and
+tiredness.
+       Case 2:23-cv-01391-JFM             Document 1         Filed 02/28/23       Page 34 of 57
+
+
+
+
+I built a sketch, attached for review, the rectangle was the toilet seat and the final location of my
+backbone, hands, legs, head when I was grabbing the toilet rest with my entire body to ensure I don’t
+fall off the toilet seat when I lost control of solid and liquid waste removal functions from external
+organs due to motion sickness. My entire body is twisted and painful not just backbone and hands. The
+tiredness and fatigue that I felt after that day on April 8 is not going away however it is reduced due to
+rest and the over-the-counter medication.
+
+My eyes and head were hurting the most on April 8 and I felt fatigued and tired and was sleeping on the
+chair of the boat when not vomiting or using toilet. My flashes and floaters in both eyes have been
+increased since April 8 trip however according to my eye specialist the boat ride has not cracked the
+buckles in my eyes to cause blindness as of yet and buckle looks not impacted after the trip. My entire
+body is hurting even today because of how I grabbed the toilet seat arm while sitting on the toilet in
+the boat and the work that I was directed to do to close the engine room door with force when it was
+shaking and I need rest. Because of the way my head, backbone, hands, arms, fingers, legs, thigh
+absorbed vibration that day on April 8, I think I am having pain and feeling uncomfortable sitting,
+standing, walking and even sleeping even today April 28 2021.
+
+    2) Prior to the trip at a meeting on Monday April 5 at the Philadelphia base building 1000, I was
+       advised by a team of senior engineers not to bring sweaters or coat on the boat as the weather
+       in mobile area is 70 degree and the trip, on the unmanned surface vessel, referred as the boat,
+       that the team was supporting since last two year won’t require protection. However, I recall a
+       conversation between the same senior engineering team earlier that the HVAC system on the
+       boat does not have a proper control system and it is like a residential AC. Hence, I brought a
+       sweater and coat. And I made the right choice as I felt cold and fever on the boat even after
+       wearing a sweater, I was still feeling cold and high fever when on the boat on April 8, I reported
+      Case 2:23-cv-01391-JFM            Document 1        Filed 02/28/23       Page 35 of 57
+
+
+
+
+      to the senior engineers that I feel cold and fever however nothing was offered to help. I was told
+      it is normal to feel sick and I will be alright resting on the weekends.
+
+
+
+I did not received medical care that I should have on board of the boat and as a
+result I suffered for last three weeks, since April 8, and still not sure if my join
+pains in hands, leg or backbone will go away after resting. I never had any issues
+around bones and joint pains in my life and I was left to suffer on the boat
+without medical care and only I know how hard it was to return on my own.
+I do not feel healthy to type letters as my fingers hurt, unable to sit on chair
+comfortably, unable to walk comfortably but I was asked by the management to
+return to work on light duty and thus I requested an MD doctor to write a note
+for management. I feel fatigued and tired and my bones are hurting still as listed
+in the notes to the doctor. I do not have sick leave to rest and still pushing
+myself to continue working. Getting sicker and developing new symptom every
+day.
+
+
+Due to COVID the doctor’s office has limited availability and I was only able to
+find CNPR as primary care. However, I requested her to find a doctor who can
+cosigned the medical documents.
+       Case 2:23-cv-01391-JFM           Document 1       Filed 02/28/23     Page 36 of 57
+
+
+
+
+                                     Job Title and related Issues
+Ship shock Certification Issues: -
+Certification of ship is a new term introduced 4 years ago by code 333 and similar groups in
+Washington DC. It was defined opposite to the industry definition of certification. Example:
+Type certification of aircraft where requirements that are met by test, analysis or both are used
+by regulatory agencies like FAA or FRA to grant certification. Shock Certification was trying to
+identify equipment and requirements not met during equipment certification and accepting the
+fact that that equipment is not certified and won’t be able to. Calling them shock certification, a
+fact that few equipment is not shock qualified (their requirements are not met). No analysis
+needed the program office hands a list of non-qualified equipment and you hand it back to the
+program office after sitting on the list for few months. Call it “shock certification.” The job
+involved no technical analysis and thus is political in nature. Risk assessment was the only
+output that was based on insufficient to no knowledge of the equipment or the ship
+component. No collaboration or attempt with anyone from the contractors to learn about the
+ship components. Since last year, I was never introduced with anyone internally called ISEA
+with knowledge or information to help analyze risks. A bunch of individuals with 20 year of
+work experience in test, code 333, performing risk assessment based on what they know. There
+is no training or need to know anything about the ship board equipment and I was confident
+that the leads like Christina Backes performing the risk assessments did not know or cared
+about the ship board equipment. There is no need of such risk documentation that are
+individual opinion based on no technical data because it is fake information stored in individual
+cabinets. I saw that the employees were only concerned about their employment, salaries and
+retirement. No need or technical knowledge of ship board equipment. They told me verbally,
+anything on a ship is a ship board equipment. In inspection, the team brings pictures of bags,
+personal belongings, book cases, tool boxes etc. without trying to figure if the items were left
+during docking. Inspections are means for employees to go on trips using government credit
+card and enjoy. Upon return they ensure they create documents by bringing pictures of
+anything they find on the ship to show that they work. Add medium or high-risk factor to risk
+assessments and keep negotiating with program office engineers that the they found “100s of
+high or medium risk ship on board equipment” and thus keep funding our inspection jobs and
+trips. Why do you need mechanical engineers to perform tasks like taking pictures of personal
+items? That work could be done by an auditor with high school education. This job was a waste
+of taxpayer money. And they had a team of 30 degreed mechanical engineers using
+government defense funding and making luxury trips to do work that could be done by
+individuals with half of their salary.
+One can hire all engineers for inspection job- “ship shock certification” in the world (Navy has
+500+ ships keep hiring) and give them the list or excel sheet to sit for few months and hand it
+back to program office and chief engineers who will grant “ship shock certification”. That is not
+a technical mechanical engineering position. Let’s work together to use the defense budget to
+       Case 2:23-cv-01391-JFM         Document 1       Filed 02/28/23      Page 37 of 57
+
+
+
+
+ensure we all get our salaries, promotions and make luxury and useless trips to Washington DC
+using government credit cards.
+On the USV project, on which I was injured at work April 8, I saw employees earning rewards on
+airline tickets, hotels, restaurants, charging over time to work on weekends (review stuff), they
+were planning to take retirement and go on vacation trips using the rewards earned at the end
+of the USV project.
+Not sure why treat me unfairly and making joke out of my life handing me mops and buckets
+upon hiring, when they screwed the defense budget for 20 years or even more (ship inspections
+were since forever). No one will audit them as they are the “government- US Navy”. They have
+cabinets filled with pictures of personal belongings of sailors to show that they collected lot of
+data from surveys and inspection.
+
+I asked simple question since last year. What is the technical engineering theory
+behind ship shock certification, shock qualification and vibration qualification?
+This is an engineering position (Mechanical Engineering) as listed in hiring and
+termination letter. What engineering theory is used by the ship shock
+certification group to evaluate the equipment that we know nothing about?
+Why don’t we learn about the ship board equipment and adopt new vibration
+and shock simulation technologies widely used by Department of
+Transportation for car industry for example car crash worthiness assessments.
+Simulations could bring cost savings reducing the expensive tests or test may be
+needed initially parallel to computer simulations. We are the only engineers US
+Navy have and rely on? How are the inspection helping US Navy to build or
+maintain strong fleet of ships? How are our inspections helping the sailors and
+making the fleet that they operate safer or reliable? I was a new Mechanical
+Engineer and I had a need to know what is this “shock certification and
+inspection” job that I am asked to perform. I was told by the lead that the team
+was concerned about computer models (it will take away their jobs most
+experienced engineers are not skilled in computer modeling and simulations,
+they graduated years ago from college and never used computer models). They
+did not had experience in computer simulation or cared about learning
+computer modeling as Christina Backes once stated. No response on the theory
+behind ship shock certification, shock qualification and vibration qualification
+other than termination letter and false accusation.
+                                                                                                                             P a g e |1
+         Case 2:23-cv-01391-JFM                       Document 1              Filed 02/28/23             Page 38 of 57
+
+
+
+                                   Notes to share with the doctor regarding medical condition
+
+April 8th 2021 – Underway trip at 5:30am onboard of the boat. Feeling very healthy. Smooth ride when the boat left the mobile bay
+docking area.
+Meals for the day: Around 4:30am at the hotel ate half pastry. At around 6:00am drink coffee on board, veggie patty and two slice of
+bread from the boat’s kitchen. Unable to eat full day due to bad health. 7pm – needed sugar based drink, feeling fatigue and
+sour/bitter taste – one small cup of apple juice on board of the boat.
+When the boat entered the ocean currents around noon it started speeding and when it stopped (brake application for test without
+announcement) I threw out. Started feeling cold and fever notified senior engineers about fatigue, fever and motion sickness.
+Repeatedly threw out 6 to 7 times for the day at nearly every stop, sour and bitter taste in mouth. There was dumpster on the deck
+outside designated throw-out area for everyone. Full day feeling fatigued, cold and fever. Was not able to walk and was getting hit
+by the tables, chairs, entry/exit doors, toilet door, bathroom sink while making my way to the throw-out area and toilet. Everything
+was shaking and vibrating when the boat speedup and stop. After drinking apple juice around late afternoon got energy to get back
+to the hotel. Severe headaches and eye pain sent email to Matt and Jeff requesting to remove from underway trips evening around
+Thursday, April 8, 2021 21:48. Slept right away.
+April 9th 2021 – Wakeup fatigued, low strength, bitter and sour taste buds, having hard time walking due to stiff body joints and
+severe pain in eyes and headaches. Took ibuprofen tablets.
+Pier Side trip at 8:30am onboard of the boat. Feeling much better than April 8 after taking the tablets.
+Meals for the day- 7am –half of the pastry, Apple Juice 9:00- Onboard of ship slice of bread and one hard boil egg, lunch - cookies
+and few spoons of rice and corn on board the boat. Ate nothing at night.
+Feeling only little fatigued however not interested to eat anything due to sour taste buds. Hot patch towels and shower to calm the
+fatigue and tiredness, mild back pain and stiffness, unable to grip objects fully, went to bed late.
+April 10th 2021 – Wakeup late again at the hotel hot patch towels and shower to calm the back stiffness. Feeling well drove to
+Pensacola around 10am. Feeling only little fatigued however not interested to eat anything due to sour taste buds.
+Meals for the day- After 1:30pm Pastry at the airport and tomato fries with lot of water. Snacks and cookies
+Reached apartment at 8:30pm. Ate nothing, took Advil ibuprofen tablets went to sleep.
+ April 11th 2021 – Wake up late around 12:30pm after hearing loud ringing in ears -sound of the engine and the fire drill. With
+severe head ache and eye pain. Back stiff, lower back pain, early period, very fatigued and tiredness, unable to grip objects, falling
+when trying to walk. Also, I got periods on Sunday and it is very high amount of bleeding than typically for first day and it is a week
+early. Since this morning my back bone is stiff and lower back is hurting. Call tele med doctor appointment, the doc does not think
+an X-ray of back will help as the pain I experienced is reducing after taking ibuprofen tables and he recommended to take the tablets
+three times a day until I feel well again. Put hot patches to calm the back.
+However, if the conditions are not improved in few days we will have to schedule lab test. He recommended complete bed rest until
+full recovery as he thinks the pain is due to vibrations and noise in the boat or hitting some object during the motion of the boat, it
+will heal eventually on its own in few days. He gave note until 4/13 (attached) for rest and follow up with primary care or teledoc if
+the pain does not go away in few days.
+Bought grocery. Sleeping most of the day and night.
+Meal for the day- few bottles of apple juice. Cooked frozen food. Ate food, Advil twice and Nyquil went to bed early.
+April 12th 2021 – Wake up late around 12:30am stiff back. Very fatigued and tiredness, unable to grip objects, slow when trying to
+walk, pain sitting, walking, sleeping in lower back, unable to see fluctuating vision in both eyes. Sleeping most of the day and night.
+Meal for the day- few bottles of apple juice. Cooked light food. Ate food, Advil twice a day and Nyquil went to bed early.
+April 13th 2021 – Wake up late around 12:30am stiff back. Very fatigued and tiredness, unable to grip objects, falling/shaking when
+trying to walk, pain sitting, walking, sleeping in lower back. Very low bleeding end of periods, unable to see fluctuating vision in both
+eyes. Sleeping most of the day and night.
+
+Meal for the day- cooked rice and few bottles of apple juice, snacks. Ate food, Advil twice a day and Nyquil went to bed early.
+
+April 14th 2021 – Wake up late around 9:30am stiff back. Some fatigued and tiredness, No bleeding, Digestion issues and stomach
+cramps. Feel tired and restless, some fluctuating vision in both eyes. Left eye high waviness and blurry vision. Sleeping most of the
+day and night.
+
+Meal for the day- Two slice of bread, tea, apple juice, snacks, 2 Advil, rice, yogurt and eggs.
+
+April 15th 2021 – Sleeping most of the day and night. Back bone stiff. Palm’s right-side pains when pressed against something to
+grab, the figures experience numbness and pain at joints while movement and typing. However able to type after adjusting and
+moving figures and palm rest location. Back hurts when changing clothing. Pain is inward from outside towards the backbone.
+When bent the pain is more severe than standing. Arms when moved to grab experience sever pain at joints. Legs hurt when
+walking so as ankle and foot joints. Having hard time and pain sitting in car, when the car vibrates the body experience discomfort.
+Unable to drive vehicle comfortably however managing to drive anyway, only driving short distances. Hot bath and hot pads calm
+the pain for a while. Hence taking hot sowers frequently since April 9th and adding bengay to muscle near back. It is difficult to reach
+back areas due to difficulty bending. When sitting the buttlock joints and bones feel pain, so adjusting sitting position frequently.
+Same issues during sleeping taking ibuprofen tables three times a day. When the tablet is not taken the pain is severe in head and
+joints. Hence whenever awake on pain relieving medication or hot pad/bath. Fatigued and tired resting and sleeping most of the day.
+Lower belly hurts when and after food intake and some burn urinating.
+
+April 16th 2021 – Ophthalmologist appointment. Sleeping most of the day and night. Sleeping most of the day and night. Back
+bone stiff. Palm’s right-side pains when pressed against something to grab, the figures experience numbness and pain at joints
+while movement and typing. However able to type after adjusting and moving figures and palm rest location. Back hurts when
+changing clothing. Pain is inward from outside towards the backbone. When bent the pain is more severe than standing. Arms when
+moved to grab experience sever pain at joints. Legs hurt when walking so as ankle and foot joints. Having hard time and pain sitting
+in car, when the car vibrates the body experience discomfort. Unable to drive vehicle comfortably however managing to drive
+                                                                                                                                  P a g e |2
+          Case 2:23-cv-01391-JFM                        Document 1               Filed 02/28/23              Page 39 of 57
+
+
+
+anyway, only driving short distances. Hot bath and hot pads calm the pain for a while. Hence taking hot sowers frequently since
+April 9th and adding bengay to muscle near back. It is difficult to reach back areas due to difficulty bending. When sitting the buttlock
+joints and bones feel pain, so adjusting sitting position frequently. Same issues during sleeping taking ibuprofen tables three times a
+day. When the tablet is not taken the pain is severe in head and joints. Hence whenever awake on pain relieving medication or hot
+pad/bath. Fatigued and tired resting and sleeping most of the day. Fatigued and tired resting and sleeping most of the day. Lower
+belly hurts when and after food intake and some burn urinating.
+
+April 17th- 21st 2021 –. Back bone stiff. Palm’s right-side pains when pressed against something to grab, the figures experience
+numbness and pain at joints while movement and typing. However able to type after adjusting and moving figures and palm rest
+location. Back hurts when changing clothing. Pain is inward from outside towards the backbone. When bent the pain is more severe
+than standing. Arms when moved to grab experience sever pain at joints. Legs hurt when walking so as ankle and foot joints.
+Having hard time and pain sitting in car, when the car vibrates the body experience discomfort. Unable to drive vehicle comfortably
+however managing to drive anyway, only driving short distances. Hot bath and hot pads calm the pain for a while. Hence taking hot
+sowers frequently since April 9th and adding bengay to muscle near back. It is difficult to reach back areas due to difficulty bending.
+When sitting the buttlock joints and bones feel pain, so adjusting sitting position frequently. The pain travel few inches down and the
+back leg bones are paining. Same issues during sleeping taking ibuprofen tables three times a day. When the tablet is not taken the
+pain is severe in head and joints. Hence whenever awake on pain relieving medication or hot pad/bath. Fatigued and tired resting
+and sleeping most of the day. Fatigued and tired resting and sleeping most of the day. Lower belly hurts when and after food intake
+and some burn urinating.
+
+April 20th 2021 –primary care appointment. Based on suggestions from Ophthalmologist and primary care and health conditions
+next week on April 22nd determine work start date or extend sick leave.
+
+April 22nd 2021 –Ultrasound Test After ultrasound test when I was driving to home from the clinic, stuck in traffic was in car for
+around an hour as result, I was feeling nausea however did not vomit. Late night was unable to sleep due to back pain and took
+Advil 200mg tablets around midnight.
+
+April 23 2021 - Took COVID Dose 2, 4/23/2021 left arm pain since morning after taking the vaccine. Wrist pain increased after
+driving more than 1 hour. I was feeling nausea when driving my car and body pain due to car vibration however did not vomit. Got
+out of the car and walked. Changing the medication to Bayer Asprin 500mg tablets. Discussed with Dr. via email.
+Sent a sketch to the Dr with description of the final position of my head, fingers, arm, backbone, legs when I was sitting in the toilet
+seat on the boat on April 8th. I forgot this on my first visit with the doctor.
+I recall how I was sitting on the toilet seat to ensure I don’t fall as the boat was rocking that day. Maybe I will describe the PT doctor
+next week. I think my body got bent and absorbed vibration from boat because of the way I grabbed the toilet seat arm rest to
+ensure I don’t fall off the toilet seat on the boat.
+ I built a sketch, attached for review, the rectangle was the toilet seat and the final location of my backbone, hands, legs, head when
+I was grabbing the toilet rest with my entire body to ensure I don’t fall off the toilet seat when I lost control of solid and liquid waste
+removal functions from external organs due to motion sickness. My entire body is twisted and painful not just backbone and hands.
+The tiredness and fatigue that I felt after that day on April 8 is not going away however it is reduced due to rest and the over-the-
+counter medication.
+My eyes and head were hurting the most on April 8 and I felt fatigued and tired and was sleeping on the chair of the boat when not
+vomiting or using toilet. My entire body is hurting because of how I grabbed the toilet seat arm while sitting on the toilet in the boat
+when it was shaking. Because of the way my head, backbone, hands, arms, fingers, legs, thigh absorbed vibration that day on April
+8, I think I am having pain and feeling uncomfortable sitting, standing, walking and even sleeping.
+April 24 2021 - I do not have Salonpas (lidocaine) anymore after today. Requested primary care if I can use bengay creme instead.
+That cream's effect stays for long time after application, it is more soothing than the Salonpas (lidocaine)pads. There is no pain
+relieved when I add Salonpas (lidocaine) to finger joints, knees or thigh. The pads only limit the motion of the finger and thus reduce
+the pain when I am using the fingers. Although, I used Salonpas (lidocaine) since last Sunday, I did not saw reduction in pain after
+application.
+Dr. suggested acetaminophen (brand name not necessary) 1000 mg every 8 hours as needed. Not recommend muscle relaxers.
+But it is ok to apply bengay.
+April 25 2021 - I took my first Tylenol 500 mg dose yesterday 4/24 at around 10am and 6pm in evening. This morning, 4/25, around
+3am, I woke up and vomited some liquid white and yellow.
+When the Tylenol acetaminophen 500 mg is taken for the first two hours my pain is still there. Than for around 4 hours I feel no pain
+and slowly the pain comes back.
+                                                     Current difficulties and area of pain
+
+Hands- When I grip something or press my palm around any object. I feel tinkle in the fingers that causes pain in the bones of the
+finger joint if the object is held the pain travels to the wrist and the arm and elbow starting paining. If the object is held for long like
+when I carry the purse the elbows kept paining and after a while I either want to drop the object or change it to another hand. I feel
+tired and fatigued for holding small objects and cannot carry heavy weight. When I am typing my back and my hands both hurt so I
+keep resting the fingers and palm and moving the body/back to continue completing typing tasks. When typing on phone while
+laying back or sitting on chair, I feel no blood supply in wrist and finger joints and severe pain and I keep changing my hand’s
+position to continue typing. At the end of typing I feel exhausted and tired and need rest.
+
+Legs- When I stand my feet sends a little pain initially up into legs and knee. The legs starting paining but I keep walking and after
+sometime get tired and fatigue. I do not want to sit because when the backbone is bent to sit the entire body pains and the bottom of
+thigh muscle used to sit were repeatedly bumped by the toilet seat on April 8 on the boat and there is an area that pains a lot while
+seating. I have to either find a position that does not pain or keep changing the seating position.
+                                                                                                                                P a g e |3
+          Case 2:23-cv-01391-JFM                       Document 1               Filed 02/28/23             Page 40 of 57
+
+
+
+Backbone- When sleeping the backbone hurts the most. It also hurts when changing clothes. Was unable to bend as the backbone
+was stiff now, after sitting in car and driving around, I can bend backbone but it pains a lot. I sometime feel it makes a little tick noise
+when I move my back sideways- left and right.
+
+When I sit in car- I can not bend easily and try to slide my legs and body slowly inside the car seat. My body pains when seated so
+I have to give myself sometime to let the pain absorb than start driving. I continuously feel pain when sitting in car even as a
+passenger. On April 8 and April 9, my pain was maximum and I suggested coworkers to drive the vehicle as I did not think I had
+control over steering wheel. I noticed on April 8 evening that my pain fades away when I take hot showers. I have been taking hot
+showers, adding hot towel layers on all painful parts to continue working and moving. Whenever I go somewhere I add my hands
+under hot water and if possible, add hot water towels around bottom to ease the pain in sitting and walking.
+
+When I do any work in home- I keep adding my hands under hot water and stand in front of AC or cold air to comfort the painful
+areas. I get tired too fast and still keep pushing myself to do laundry, buy grocery, cook, clean etc. As long as my hands stays under
+hot water, I can do most work. As soon as the hot water is removed, I start feeling more pain- fingers, joints, bones all started
+paining as a result. I take deep breath as I feel exhausted after doing little things around the home.
+
+When I walk- When the feet hit the ground initially after waking up, the pain starts developing, as my weight is on the feet while
+standing, I start feeling painful initially and tired eventually. But after some time, I get used to the pain and keep feeling tired and
+exhausted after making small walking trips. When I return from outside, I want to sleep right away. I keep pushing myself to walk
+and keep getting tired. But I sleep or lay in bed most day so I am not exhausted when I stay home. Only exhausted when I go out.
+When the left leg is pressed the pain is less so I tend to put most weight on left leg but get tired so I keep switching between legs
+and walking is uncomfortable.
+
+When I sit – The backbone hurts first than the thigh and seat bottom muscles get painful. The pain was higher on April 9 in
+comparison to today. However, the pain still travels around few inches inwards towards and the lower back is still a little painful.
+The knees hurt when pressed I am unable to bend the knees and sit on the knees. They hurt a lot when I try using them. Sitting
+while bending the knees is not possible.
+
+When I sleep- There are rest positions that are comfortable and I find them after lying on my bed. I usually sleep in one position
+without movement on bed so once I find a comfortable position I sleep without issues. Sometimes if the pain killer is not taken
+before sleep I wake up or unable to sleep thus need Tylenol, Advil, NyQuil or Aspirin to sleep comfortably since April 11th.
+
+Head and Eyes- I have headaches every morning when I wake up and have pain in eyes feel fatigued and tired and feel maximum
+pain in all bones, muscles and joints when I wake up every morning since April 9.
+
+During the day I feel exhausted and tired after doing simple household work like cooking, cleaning and laundry. I feel fatigued when
+grocery shopping, driving or riding vehicle as it vibrates, typing something, moving hands or legs repetitiously, pushing shopping
+carts or carrying bags. I need breaks and frequent rest after outdoor visit like to see doctor’s office, grocery shopping or walking.
+
+ April 30 –
+
+1) yesterday my left leg was painful around the thigh area and very uncomfortable walking. I noticed that after work around 5:00pm.
+2) I wake up just now around 1:30am with feeling of nausea and vomiting however didn’t vomiting yet. Yesterday I ate breakfast 4
+slices of bread and lunch around noon rice, chickpea, cabbage, four slices of bread, with salad. For dinner one banana and apple
+juice.
+3) my finger are hurting badly around the wrist and finger bone joints and feeling sever pain when trying to form fist, both left and
+right hands. More pain in right hands. Pain increase when typing on phone and using keyboard on computer. Unable to sleep due to
+finger pain and need to take Tylenol before bed as a result.
+4) At work this week so far I am attending online trainings and I can’t remember training material and have to retake the training over
+and over again. I am having hard time remembering new training material. Yesterday I took a training twice and still failed the final
+test and kept retaking the final test and reviewing the training material and by the end of day in 9 hours, I only completed 1 training.
+Note I use to complete similar training in 1 to 2 hours since last year.
+PT doctor recommended to request my manager to send video or pictures of the door on the boat that I wasn’t able to close. I sent
+an email to my manager to forward any information that could help understand how I was gripping the boat’s door and applying
+force in an attempt to force the door to close, it never closed. But my hands, finger and arm are hurting. I will let you know when the
+manager responds.
+I also don’t recall fully but when on boat on April 8 due to tiredness I sat on the floor of the engine room or maybe I was reviewing
+something not exactly sure that is when my knees were bent fully and were shaking due to engine room noise, vibration and motion
+of the boat. I am trying yoga to try to bend my knees and making slow progress. I will ask my manager to share any pictures of me
+sitting down bending my knees if possible to share with the doctors
+My right leg joint with body, right knee and right leg bones are so painful that I am unable to sleep. Took Tylenol yesterday evening
+and taking one now to sleep. The pain is hurting like the right leg got hit and severe. It is traveling inside the center of the lower back
+causing discomfort laying down on back and either side. If I try to sleep on left side the right leg is still hurting. I try to add my body
+weight on left when walking however was trying to add body weight on right since last few days. On a scale of 10 the pain in right
+leg not left right now is 10.
+ My left thigh is hurting more than knee and leg which has some stiffness not a severe pain.
+
+May 2 2021
+The X-Ray of the hip and knees is scheduled on Tuesday 5/4 morning. The bruise on the left knee is faded and the pain is lowered
+after repeated yoga that I started since last week. On 5/4 I also have appointment with hand and elbow specialist at Navy Yard, Dr
+Adam Strohl.
+                                                                                                                                P a g e |4
+          Case 2:23-cv-01391-JFM                       Document 1              Filed 02/28/23              Page 41 of 57
+
+
+
+ The right hand has tiny, now visible, red dots in the palm, near elbow on hands, on elbow, and on the back finger joint as shown in
+the picture attached. When pressed the area around the red dot pains severely, on a scale of 10 the pain is 6-7. And the pain travels
+from palm to elbow. I scheduled an appointment with hand and elbow specialist on Tuesday after the hip/leg X-ray. My fingers and
+finger joints are also itchy and unable to raise the hands up for long or raise the arms up as the entire hand pains after a while. Also
+when i try sleeping right side the shoulder causes a slight pain that in decreasing however it feels like a small nail poked inside the
+arm.
+ As shown in the thigh PDF, the right and the left thigh has dead tissues and little bruises that when pressed produce severe pain ,
+on a scale of 10 the pain is 6-7. When I try to sleep on right side the thigh pains and the hip develops severe pinch inside the hip
+body joint. Almost like a needle or nail is poked inside the right hip. The pain travels from hip to knee to ankles. The right side of the
+lower back starts aching after a while as a result. I have to switch the sleeping position right away. I can not bend to examine my
+legs on my own as my backbone does not bend well(not sure if there are tiny bruises or dots like what I found on right arm today).
+Last week when I contacted you the pain on the right leg was on the scale of 10. This morning it is reduced to 7 after two 1 hour
+each heat pad applications on Saturday. Also today, 5/2/2021 I walked pushing body weight on right leg. Initially it was very painful
+however eventually I did not felt a lot of pain. And hopefully tonight I will learn the condition of the hip’s pain when I will try to sleep
+on right side again for few hours. My lower back has some pain after walking which is not going away after the two heating pad
+applications.
+ I have no idea how my backbone and back looks like as I cannot see it or examine. It pains when I wrap my arm around to try to
+reach back, I have trouble changing clothes. When I wear tight clothes I feel a little tired and fatigued. I am wearing loose clothes
+since April 8.
+ When I sit in car my backbone hurts. I tried driving 20 miles round trip on Saturday. After first 10 miles I think my stomach was
+upset a bit. But I get off the car and walked ate food at restaurant and returned to my apartment. Bought a large heating pad on my
+way and using it since then to reduce pain in back. It is relaxing only for backbone, thigh, knees and legs. The heating pad is not
+effective on hands at all.
+
+May 2 2021
+Chest Pain after sliding into bed even after taking Tylenol 500 mg tablet at night. Unable to sleep on right side properly.
+After asleep, I felt that my body moved without me moving with a jerk, it broke the sleep, raised the heart beat and shook the body.
+
+May 3 2021 Note to Dr Close.
+
+Yesterday I walked 0.1miles and did lot of household activities all together- cooking, laundry, grocery shopping, driving. At night I
+was feeling some chest pain and tiredness. Right now, I am feeling lot of chest pain and my tiredness is not going away after sleep.
+My hands are still aching however the red dots faded compare to the pictures that I sent yesterday evening. The spots/dot on hand
+are visible when I do lot of activities and work. I feel tiredness and sleepy. Took the vitamin B12, iron tables and Tylenol after
+breakfast. I want to nap for a while before work.
+
+May 3 2021 Note to PT
+On Sunday I drove 20 miles, 10 miles one way and was feeling some discomfort in stomach after driving long distance and back
+pain. Bought heating pads on my way back and used it on weekends.
+ Saturday I walked 0.1miles and did lot of household activities all together- cooking, laundry, grocery shopping, driving. At night I
+was feeling some chest pain and tiredness. This morning, I was feeling lot of chest pain and my tiredness is not going away after
+sleep. My hands are still aching however the red dots faded compare to the pictures that I took yesterday evening attached for
+review. The spots/dot on hand are visible when I do lot of activities and work. I feel tiredness and sleepy after multitasking activities
+and small household work. Took the vitamin B12, iron tables and Tylenol after breakfast and few naps.
+May 3 2021
+
+When I wake up after a nap around 10am I felt half of my brain is numb or asleep. I told myself that side of brain was not seen hit by
+any object and should be healthy. Discussed with PT Doctor at the appointment. They advised to relax and calm your brain.
+
+May 4th 2021 note to Dr. Close
+
+I still have pain in knee and right hip. I feel needle poked in right hip when pressed after sleeping on right side. The pain is reducing
+however not stopped. When I do yoga, I am able to bend the knees and sit for some time better than last week when I was having
+hard time bending the knees. I am not sure what is causing joint pains in legs if the joints are healthy. When I was taking B-12
+injection last Friday the nurse was saying that my nerves may have stretched or have issues, as usually that causes pain if you
+experience excessive stretching in limbs. She wasn't sure thought. I am not sure what is causing fatigued and tiredness after slight
+household work, I multitask and complete all work very fast. I feel too slow and get tired very fast since I returned from the boat trip.
+Multitasking creates confusion and tiredness.
+
+May 5 2021
+
+PT Doctor was checking the neck area and I developed severe pain in one of the ears suddenly followed by a large floater in eye.
+The PT Doctor showed some relaxation exercise to try when the head and the ear pains.
+
+May 6 2021
+
+Got into period tingling pain in lower back too severe took Tylenol 500.
+
+May 7 note to Dr. Close.
+                                                                                                                              P a g e |5
+           Case 2:23-cv-01391-JFM                     Document 1               Filed 02/28/23             Page 42 of 57
+
+
+
+To be clear, after eye surgery in 2015, when I lost vision completely in left eye, I am concerned about my eye health and prefer to
+avoid activities that strain the eyes as a caution to protect the eyes. I also have some fear of ocean water when no land is in sight. I
+was not aware of the weather. And all these were contributing factors to my health on April 8 and not just the work.
+After work around 5pm May 7, I feel severe pain in knee and hip when sitting on the work chair the pain stays in the area around
+knee and hip and does not travel like it used to throughout the leg. There are tingling that results in pain (needles)in hands and
+elbow as well. Neck was tingling and needle pining pain in several area around neck. Feeling tired went to bed. After asleep, I felt
+that my body moved without me moving with a jerk, it broke the sleep, raised the heart beat and shook the body.
+May 8 2021
+
+Woke up with a severe pain in right hip as I was sleeping on right side somehow. Upon fully up, I realized my brain is sleepy and I
+cannot feel anything in my brain not even the pain. After few minutes the fore head started hurting and underneath the skull feeling
+tingles. Eyes are hurting and feel likes vision is lowered but fluctuating vision. The knees, both right and left, pains when folded
+tingling that results in needle pining pain but only the knee area is hurting pain does not travel to other part of legs. The hip pains
+like a needle pocking when sleeping on right side or when pressed or when legs are folded to sit. The left hip hurts less than right
+hip. The shoulders both right and left pains like needle pocking inside but the pain is not traveling into elbow like before. When
+typing the hands (finger, finger joint, area between finger used to type) tingle and pain. If the elbow is in contact with some surface
+like rested against something, it tingles and tiny needle pocking pain. Pain is not traveling down like before however it is still severe
+in the area of the pain. The neck is tingling and some areas in the right-side neck is paining constantly this morning as well.
+Drove around 50 miles (25 miles one way trip) around my apartment and my backbone and legs and hands are paining and tired
+however less than last week. Frequently got out of my car and made multiple stops throughout. Was tired around noon however
+continued short trips between shopping centers from Washington Township, NJ to Haddon Township, NJ until 5:30pm.
+Woke up few hours before midnight felt that the right arm moved in sleep without me moving it and paining badly. The arm felt
+needle pocking pain at joints- elbows, finger, shoulder. Unable to sleep as a result of pain for few hours.
+   May 9 2021
+
+Woke up early morning feeling tired and restless. Stayed home cooked food. At noon, went on a drive around 45 miles round trip
+made few stops at various outlets to rest. Having difficulty getting inside the car due to pain in fingers and difficulty holding the
+steering the car. Around 6:16pm left thigh is very painful unable to walk. Backbone and neck are feeling tired and fatigued after
+driving.
+
+May 10 2021
+
+Note to PCP
+A car drive 50 miles and some walk between 5/8-5/9 increased the red/black tissues on right thigh that I showed you at our last visit
+and created bruises from few inch above the knee, near the knee and near the leg and feet joint as shown in the pictures attached. I
+did not got hit but it is very uncomfortable to get in and out of car and walking. Sitting in car was very hard for full trip. After work
+every day my legs pain severely at joints knee and hip so as my fingers and elbow. The boat ride was a month ago and my body is
+not adjusting to car or any vibrating vehicles. I feel pain sitting in cabs as well.
+The Neurologist appointment is too difficult to schedule they only see individuals who suffer sever Strokes right away. I never had
+any. Can we see Dr.Jack from neurosurgery instead? The scheduling individuals were not able to find referral and thus were not
+able to book the appointment. Would you please add a referral? The Penn neurologist is also July 15th appointment.
+My left- and right-hand fingers are shaking and the hands are moving when I try to sleep. I added bam and massage the fingers
+however no improvement is seen. I try cutting vegetable this evening and unable to control the knife. The knife hits my fingers
+instead of cutting the veggie.
+
+May 11- New PT exercise to roll hips and lower back while legs are raised high on an exercise ball and bike.
+
+May 12 and 13- The lower back both right and left hurts like something is burning but still feel stretchy after adding heating pads
+lower the pain.
+
+May 14- Continued New PT exercise to roll hips and lower back while legs are raised high on an exercise ball and bike. Severe
+back pain unable to sit on work chair, sleep in either sides or on back. Took Tylenol 500mg before bed woke up around 12:00am
+unable to get back to sleep until 4am. Severe pain, needle pocking inside back, the pain travel in hip causing discomfort and fatigue.
+Feel very tired and fatigued when back and hip pains.
+
+May 15 –
+
+Hand Specialist Email
+My left fingertips when pressed are producing stretching and pain in the middle left front arm. I woke up this morning sleeping on the
+right side and the right shoulder and hands felt pins and needles in the compressed area. When driving my car, I noticed that when
+the hands are pressed against the steering wheel, it takes a while for the fingers to return to normal location/position. I feel
+numbness (when fingers are pressed), pain (when the fingers are moving) and stiffness (when fingers are stationary) in and
+between the fingers. I shake my hands when driving and doing household work to calm the fingers and hand pain when required.
+Attached are My Health Summary from Jefferson doctors - sports medicine, PCP, PT. I also updated the notes with daily health
+conditions until earlier this week that I share with my PCP and sports medicine specialist via email. Dr.Close, sport medicine
+specialist, recommended wearing wrist braces for less than 30 minutes to calm the pain in the hands, I will buy them soon.
+ PCP and Dr. Close Email
+Would you please tell PT to stop the exercise to roll hips and lower back while legs are raised high on an exercise ball and running
+the bike for few minutes? The PT is having me roll legs when the exercise ball is placed under legs as shown in figure A. I feel
+stretch in the legs, hips and knees while doing the exercise. Unable to sleep, sit or stand after few hours or days. Severe pain,
+needle pocking inside lower back above hips, the pain travel in hip causing discomfort and fatigue. Feel very tired and fatigued when
+                                                                                                                              P a g e |6
+           Case 2:23-cv-01391-JFM                     Document 1              Filed 02/28/23              Page 43 of 57
+
+
+
+back and hip pains like needle pointing. Plan to sleep full day only light household work on weekends taking Tylenol 500mg (took
+one at mid night yesterday and another one this morning), it only reduces the pain. I am also massaging the back, hip and knee with
+bengay and heating pads however after some time there is no relief and the pain return. Very severe 8 on a scale of 10. This
+exercise is bringing the back bone issues and difficulties while sleep, sitting or stand and lower back pain which got reduced since
+April 8. I literally took my office computer on sofa/futon this week as I am not able to sit on the office chair for more than 15 minutes
+after doing this exercise since May 11.
+I am having rectal bleeding since this afternoon and it is burning badly during stole discharge. I will add Miralax to current
+medication list. The lower back, hips, knees and the rectal bleeding is too much pain in the lower back area, please suggest the PT
+to reduce the hip/knee exercise. Went to emergency room cooper university trauma center.
+May 17 –
+
+PCP meeting – Health condition history discussion, current symptoms etc
+
+May 18 – Note to Dr. Close
+
+Yesterday when I visited doctor’s office, the nurse mistakenly compressed the left arm more than normal while measuring blood
+pressure, I felt sever pain in the left hand. My left brain was tingling and there was stretch on the back of my skull with severe pain in
+the skull. I saw a large floater in eyes and for a minute was extremely confused. Felt there was an urgent need to go to bathroom
+and the back lower side of the skull was really painful. Is that normal reaction to hand compression? I have been having pin and
+needles pain when I try sleeping on right side and felt tingles and numbness in right side of the brain when right arm and legs are
+compressed while sleeping. However, I never felt tingling in left side of the brain. I want to get well soon hopefully within a month.
+Look forward for the appointment in two weeks. Backpain issues
+
+May 19 –
+
+2010/2011- Cincinnati, Ohio- Minor Car Accident where my window glass was hit when I was trying to park my vehicle in my
+apartment's garage. I was driving and inside the car and felt severe neck pain and jerk in the body. I wasn't injured or had any
+physical issues. Saw PCP because of neck stiffness in a week and was diagnosed muscle spasm not related to car accident. I also
+recall I fell in bathroom tub when trying to exit as it was very slippery and hit my head on a razor. My left eyebrow was stitched by
+urgent care as the bleeding was no stop. That was treated by an urgent care facility in Springfield Ohio. Most probably muscle
+spasm were after this fall. I have no documents from PCP or urgent care. I do not know the name of my PCP either her office was
+located near the tri-county mall in Cincinnati. I never took after office visit summary from doctors sorry got no documents to share. I
+can try looking online this weekend if you want me find information about these minor accidents.
+   2012-2013 - I lived in Seattle Washington and visited Everett clinic in Everett Washington. When I left Seattle I had bleeding stole
+and rectal bleeding not too bad though.
+2014-2016- I lived in Pittsburgh, PA was diagnosed with Hemorrhoids and attached is one of my PCP reports. Frequent rectal
+bleeding.
+ 2015 I went to emergency room in San Francisco and had retinal detachment surgery. 2016 I left job for recovery from eye
+surgery. I am still in contact with the doctor who performed eye surgery. Dr. Dan Schwartz, 400 Parnassus Ave Sixth Floor, San
+Francisco, CA 94143
+ 2017-2020 - follow up with after eye surgery visit with Retina Associates of New York Dr. Paccione and PCP Mt. Sinai Hospital
+Nahel Galal (2015-2017) when lived in forest hills and Advantage Care Physician Hwasun Lee (2017-2019) when I lived in Rego
+Park, NY.
+ Most of my moves were job related or after eye surgery in 2015 I was blind for few months and having hard time doing work
+normally due to poor vision and needed help from family.
+Correction most probably the urgent care facility that stitched my head injury in 2010
+Doctors' Urgent Care Office
+360 Glensprings Dr, Springdale, OH 45246
+ They recommended me to find PCP and follow up. My PCP was located nearby the urgent care facility. I will search online not sure
+what the name of the doctor. I will email you this weekend after online search. I had United Health Care insurance through
+employer, may contact them to locate the information.
+I think the PCP who treated my head injury in 2010 was assigned by either Physician Associates of Kemper or Mercy Health - Tri-
+County Family Medicine. I am sorry, I have no documents from the visit to share. When I visited the Doctors' Urgent Care Office
+right after the head injury, I had no PCP. From what I recall, the urgent doctor cut hair on the entire right eyebrow and added
+multiple tiny stitches on the eye brows. He was saying the razor made many cuts and the bones were visible. He was concerned
+that I was driving with such wound. He also said that if the wound was few inches down, I should have lost eyes. I recall getting few
+second of unconsciousness and seeing a puddle of blood in the bath tub. The doctor at the urgent care was concerned that I should
+not have driven vehicle after such head injury and he did not let me leave the facility until it closed even after I had him talk to my
+parents who flew next day to help me after the fall. I also recall the doctor advised to visit emergency room after calling 911 in future
+instead of driving in such conditions. He recommended X-ray but let the primary care order the test instead. After few weeks of
+recovery the PCP advised that my wound healed and there is no pain and thus no need for radiation tests around eyes. In a year or
+after few months I had what she diagnosed muscle spasm in neck after I reported neck pain. She said it was not due to injury and
+advised to use Bengay over the counter. I have been using Bengay since then but I do not have muscle spasm frequently. I think
+the 2010, car accident where my head and neck felt sever jerk after the side mirror hitting the garage door was before the razor
+head injury in the bath tub. I am not exactly sure which injury happened first though.
+May 20 –
+
+I had an EMG test today. When I wake up in the middle of night with movement in my hands and body, my hands are moving with
+the same jerk that is felt how the highest voltage hand movement occurs during EMG. I also felt soothing and calm in both hands
+during the test when the electrodes were excited until the maximum voltage for the EMG test. That is so strange. But now my hands
+                                                                                                                                      P a g e |7
+           Case 2:23-cv-01391-JFM                         Document 1               Filed 02/28/23               Page 44 of 57
+
+
+
+are again paining as before the test. The technician who did the test suggested to discuss with Dr. that she thinks it could be
+possible that my hands are not getting the right blood supply if dipping the hands in hot or cold water is reducing my hand pain.
+
+Dr. Strohl,
+
+Both of my hands are reddish in color and I feel extremely tired, exhausted and fatigued. Hopefully this will get well by tomorrow
+morning.
+
+May 23 –
+
+PCP and Dr. Close
+I noticed something in hand, pressing the area under the bent finger as shown in the video attached creates reddish area (restricted
+region blood circulation) in the finger joints. The right-hand fingers have much more blood circulation when pressed than left hand
+fingers. The thumb has no similar difficulty. It is more clear when the area is pressed using other hand but attached is the best video I can take
+of my hands and will show the finger and joints at our next appointment.
+My knee has similar blood circulation when the knee is bent and nearby area is pressed but the nerves are blackish and the blood
+flow is not visible clearly.
+I have appointment with Dr. Strohl this week to discuss hands and shoulder EMG/NCS results and X-rays before appointment with
+Dr. Close on May 27.
+Dr. Strohl
+At the NCS/EMG test, I was looking at the results screen occasionally when the test was conducted on the hands. While reading an
+article online on NCS/EMG test results, I recall seeing some graphs during the test that look similar to the figure 3- neurogenic and
+figure 4- fasciculations. Although the individual who performed the test at the end advised me to talk to you to discuss the results,
+she said the results looked ok to her.
+It is very unusual that I feel weakness when I do regular household work and my hands get tired very fast, requiring frequent rest
+since the April 8 boat ride. Yesterday after cooking my hands were feeling fatigued after cleaning the grill pan and even lifting pans
+seems too difficult and exhausting. I wonder why I am not going back to normal strength and activity even after resting since April 8
+when the fatigue and tiredness was the maximum.
+I also noticed that pressing the area under the bent finger as shown in the video attached creates reddish area (restricted region
+blood circulation) in the finger joints. The right hand fingers has much more blood circulation than left hand fingers. The thumb has
+no similar difficulty. It is more clear when the area is pressed using other hand but attached is the best video I can take of my hands
+and will show the finger and joints at our next appointment.
+PCP and Dr. Close
+
+I was reading this article online and recall. A day before the trip on April 7, I woke up early and took flight to Pensacola and drove to
+Alabama. Then I worked late night from the hotel on April 7 and woke up early 3am on April 8 to be on the boat by 5:30am. I did not
+slept two days in row and maybe that made my condition worst on the boat on April 8.
+https://seapowermagazine.org/fatigue-at-sea-researching-how-lack-of-sleep-can-affect-sailors/
+I want to recover ASAP. I slept 2 weeks after the trip between April 11-26 and still feeling fatigued and tiredness after doing small
+house hold work. Not sure why.
+ May 25
+PCP
+The EMG/NCS for hands report attached for review. My nerves are in good health and won't require surgeries. I signed up for hands
+and shoulder center PT/OT session today and will followup all hand related visits there. The attached report also lists few exercise
+for hands that I will do every day.
+Thank you,
+May 27
+Dr. Goldstein, I am having severe pain in the rectal area and this morning I had stool discharge twice 4am and around 6am and
+having rectal bleeding again. Bleeding stopped after taking calmol for a week however the rectal area was bleeding from internally
+after stool discharge. My backbone is also in pain when pressed like when I sit or sleep. I feel lot of irritation and pain near lower
+backbone around rectal area since last week and even today.
+ The rectal area is in pain after stool discharge and the pain is not going away. Difficulty sitting as a result. I will continue taking
+Tylenol.The blood is wrapped around the stool that is discharged in the middle section of the stool. The stool is blood free initially
+and at the end which is uncommon as last week the blood was wrapped at the end of discharge and was dipping down after stool
+discharge. A picture of the blood in stool attached for review. I will continue taking the medication that you suggested.
+ Dr Close
+I am having severe pain in the rectal area and this morning I had stool discharge three times 4am and around 6am and 12:00pm
+having rectal bleeding again. Bleeding stopped after taking calmol for a week. however today the rectal area was bleeding from
+internally after stool discharge. My backbone is also in pain when pressed like when I sit or sleep. I feel lot of irritation and pain near
+lower backbone around rectal area since last week and even today.
+The rectal area is in pain after stool discharge and the pain is not going away. Difficulty sitting as a result. I will continue taking
+Tylenol.
+The blood is wrapped around the stool that is discharged in the middle section of the stool. The stool is blood free initially and at the
+end which is uncommon as last week the blood was wrapped at the end of discharge and was dipping down after stool discharge.
+ Dr. Goldstein,
+Around afternoon, I had another bowl movement and felt like something was hanging out from rectal area. At the appointment with
+Dr. Close from the pcp group at Navy Yard, I had a rectal exam. Dr. Close suggested it appears to be hemorrhoid. This evening I
+added suppository and some liquid is getting discharge from rectal area, it could be the melted suppository. I feel the size of the
+hemorrhoid is getting bigger and it is covering the rectal area. Not sure if I will be able to have bowl movement if the rectal area gets
+                                                                                                                                P a g e |8
+          Case 2:23-cv-01391-JFM                       Document 1              Filed 02/28/23              Page 45 of 57
+
+
+
+blocked. Should I stop by tomorrow evening to have a rectal exam? Let me know if you are available tomorrow. I never had this type
+of hemorrhoid before and worried.
+May 28
+Dr. Goldstein,
+ The external hemorrhoid is shrinking however it pains severe when trying to sit. I am feeling fatigued, tired and coughing/sneezing
+because of the pain. And it also feels like a skin part (I never had this type of hemorrhoid before) is getting rubbed at the exit of the
+rectal area. Very strange feeling.
+ May 29
+PCP and Dr. Close
+My mom stopped by for a visit and she was reviewing my back from neck to lower back area. She said there a bruises and dark skin
+area at some location that I feel severe pain since April 8 and took pictures. She advised to share with the doctor to have this
+reviewed. Attached for review.
+Dr. Strohl,
+My mom visited yesterday and planning to stay over the weekend. She reviewed my back from neck to lower back. She noticed
+some bruises and dark colored spot where I feel severe pain sometimes when sitting and sleeping. I recall you asked if neck was
+injured and I didn’t remember exactly but I didn’t saw or recall my neck getting hurt. I have bruises and dark color spots on neck
+which were not present before the work trip on April 8. The discoloration or bruises are more in right side of neck than left side of
+neck.
+Yesterday while on computer teleworking mistakenly, I sat in a position when my left hand and elbows got pressed. When the dark
+area of left palms are pressed, I feel pins and needles that travel from palm through elbows to upper arm. Having difficulty using left
+hand since yesterday.
+Pictures of my neck and back discoloration and bruising attached.
+Dr. Goldstein
+ My mom stopped by for a visit and she was reviewing my back from neck to lower back area. She said there a bruises and dark
+skin (discoloration) area at some location that I feel severe back-pain since April 8 and took pictures. Attached for review.
+ I am also attaching some information about an injury and resulting pain in the body that I had while working on a boat few months
+ago. The lower back area was under pain and my periods are also impacted since after returning from the trip. I was unable to eat
+well for a week after the underway trip. However I wasn't able to bend my back or neck to examine the stool. I do recall it was black
+and tiny segments for few days maybe a week after April 8.
+ My stool is still bleeding in the middle section like yesterday. Picture of the blood streaks in stool this morning- 5/29/2021.
+ Talk to you on June 2.
+May 31
+ I had rectal bleeding this morning again and severe pain during stool discharge. Blood in the stool image for review. Blood is
+wrapped in the middle section of the stool.
+ I also felt a little lower abdominal pain yesterday evening and this morning. It felt like the intestines were getting stretched inside the
+lower stomach area. The pain during bowl movement is also traveling inside the lower abdominal area. At least after an hour after
+bowel movement I feel extreme burning both in the rectal area and lower abdominal area. It goes away few hours after the bowel
+movement.
+Still adding calmol 4 suppositories and eating Miralax stool softener
+June 3
+PCP & Dr. Close
+My COVID both dose I took between the boat ride April 8. First dose on March 26 and second on April 23. Although I felt no pain
+after March 26. My pain was severe in left arm and hands after the second dose even after taking the high pain medication that I
+was taking during the week.
+June 4
+Dr. Goldstein
+My COVID both dose I took between the work-related boat ride April 8. First dose on March 26 and second on April 23. Although I
+felt no pain after March 26. My pain was severe in left arm and hands after the second dose even after taking Tylenol/Advil that I
+was taking during the week. COVID vaccine likely impact immune system. Yesterday I was feeling fatigued and tiredness when
+sitting due to severe rectal pain that was not going away after bowl movement. My periods also ended in two days and third day was
+some minor bleeding. I learned from my brother and mom today that lot of women are having small periods after Covid vaccine
+dose.
+ I took both of the Covid vaccine dose at the military base JBMDL 87 medical wing in NJ a week before the work related April 8 boat
+ride on March 26 and a week after the boat ride, dose two on April 23.
+I never had this type of rectal issues before where skin section is hanging out of the rectal area and was wondering if this could be
+attributed to the COVID vaccine dose and the fatigue and tiredness after the boat ride on April 8. I still feel the fatigue and tiredness
+doing small house hold tasks and rectal pain also causing more fatigue and tiredness. I never had this type of rectal pain
+before. Thought to share the Covid vaccine information.
+I noticed since April 8, I have bruises and develop new ones after minor physical activities.
+ On Monday I went berry picking with mom at nearby farm. I was sitting and standing a lot and my knees were hurting but I still
+continue. My left leg side has two bruises as shown in the attached picture, notice the discoloration near the nerves.
+ On June 7 I have an appointment with hematology specialist to review the blood test results and the bruising on neck, back and
+limbs- hand and legs.
+I wonder if there are issues around slow healing as I still feel fatigued and tiredness after the April 8 rough boat ride. The recovery
+seems to be very slow for some reason.
+ Hopefully the hematology report will be available before the colorectal procedure. I hope there are no bruising similar to neck, back
+and limb internally on the colorectal area that is causing pain and difficulty. Hopefully the procedure will help identify the issues with
+burning, bleeding and severe pain during stole discharge.
+June 5, 2021
+                                                                                                                               P a g e |9
+          Case 2:23-cv-01391-JFM                       Document 1              Filed 02/28/23              Page 46 of 57
+
+
+
+Feeling stiffness in fingers and tiredness in hand joints. Continuing putty and finger stretch exercises. Pain in the lower back area
+and rectal area. Unable to walk, sit, sleep, stool discharge comfortably. It feels like the intestines are getting pulled or stretched from
+inside while sitting and the pain do not stop after stool discharge. Feeling fatigued and tired. Knees are in pain when bent, hips feel
+needle and pin pointing toward rectal area. It feels like a tiny section of skin hanging outside from the rectal area however it is
+shrinking in size since last week. Had three stool discharges since this morning. Stool black in color, burning pain unable to empty
+bowel fully, stool stink like rotten meat or tissues since yesterday. Rectal pain won't go away after stool discharge. Noticed no
+bleeding in stool this morning.
+June 6 2021
+PCP & Dr. Close
+ I sent this note to Dr. Goldstein and thought to inform you as well. I had another round of bleeding during stool discharge this 6/6/21
+morning and evening. Pictures attached for review. The evening stool discharge had small amount of blood dripping from the rectal
+area. The toilet paper got some of the blood. I feel severe pain in lower back, hip and knee throughout the day independent to stool
+discharge. The pain increase and feel severe burning in rectal area during stool discharge. Some lower abdominal pain as well.
+Took Tylenol 500 twice yesterday and today as well. The pain lowers but when I sit in car, I start having the pain again. Adding
+suppository and taking Tylenol 500.
+ Note written Monday, April 12, 2021, 6:03:00 PM
+Cause of Injury: - Underway test on April 8th, we were on board OUSV1 that was traveling fast and was stopping suddenly in high
+ocean currents and we were sitting without seatbelts or announcements that the boat will come to top. I was throwing out due to
+motion sickness, shaking when walk and possible got hit by an object.
+My backbone is stiff and lower back hurt while, walking, sitting and sleeping. Severe headaches and eye pain. The pain goes away
+when I take ibuprofen tablets. My doctor advise to continue taking the tablets and resting to heal. This condition could be resulting
+from an object hitting the back causing discomfort. My last period was the week of March 29, I am period again since 4/11 and is
+heavily bleeding. I feel fatigued and tired.
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 47 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 48 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 49 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 50 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 51 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 52 of 57
+Case 2:23-cv-01391-JFM   Document 1   Filed 02/28/23   Page 53 of 57
+      Case 2:23-cv-01391-JFM          Document 1      Filed 02/28/23     Page 54 of 57
+
+
+
+
+             U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+                           Office of Federal Operations
+                                  P.O. Box 77960
+                             Washington, DC 20013
+
+                                       Priya Jaswal a/k/a
+                                         Lashawn C., 1
+                                           Petitioner,
+
+                                               v.
+
+                                      Carlos Del Toro,
+                                         Secretary,
+                                   Department of the Navy,
+                                          Agency.
+
+                                   Petition No. 2023000218
+
+                               MSPB No. PH-315H-21-0267-I-1
+
+                               DENIAL OF CONSIDERATION
+
+On October 14, 2022, Petitioner filed a petition with the Equal Employment Opportunity
+Commission (EEOC or Commission) asking for review of a final order issued by the Merit
+Systems Protection Board (MSPB) concerning her claim of discrimination in violation of Title
+VII of the Civil Rights Act of 1964 (Title VII), as amended, 42 U.S.C. § 2000e et seq. For the
+following reasons, we DENY consideration of the petition and shall REMAND the matter to the
+Agency for further processing.
+
+                                       BACKGROUND
+
+At the time of events giving rise to this complaint, Petitioner worked as a Mechanical Engineer,
+GS-0830-12, at the Naval Surface Warfare Center (NSWC), Philadelphia Division, in
+Philadelphia, Pennsylvania. She joined the Agency on August 3, 2020, subject to a two-year
+probationary period. Prior to the completion of her probationary period, the Agency removed
+Petitioner from federal service for allegedly engaging in repeated, inappropriate, and
+unprofessional conduct. See Initial Appeal File (IAF) at 5-6. The removal action became
+effective on June 8, 2021.
+
+On June 17, 2021, Petitioner challenged her removal by filing an appeal directly with the MSPB
+and argued that her termination was pretext for discrimination.
+
+
+
+1
+  This case has been randomly assigned a pseudonym which will replace Petitioner’s name when
+the decision is published to non-parties and the Commission’s website.
+       Case 2:23-cv-01391-JFM          Document 1        Filed 02/28/23     Page 55 of 57
+
+
+
+
+                                                 2                                     2023000218
+
+In so arguing, Petitioner claimed that during her time at the NSWC, “management and lead
+engineers” subjected her to discriminatory bullying by commenting on her “non-native” accent
+and discouraging her from asking questions by “saying discriminatory things about [her]
+pronunciation, emails, and how [she writes].” See IAF at 4 and 15-22. Petitioner also emphasized
+her history of rectal, joint, back, and neck pain and alleged that “management and lead
+engineers” harmed her by sending her “on a work-related trip intentionally to cause physical and
+mental trauma” and failing to call medical services when she suffered a medical incident on
+April 8, 2021. Id. Given the circumstances surrounding her removal, Petitioner maintained that
+her removal was improper. Id.
+
+On July 8, 2021, the assigned MSPB Administrative Judge (AJ) issued an initial decision
+dismissing Petitioner’s appeal for lack of jurisdiction as the probative record showed that
+Petitioner had been removed from federal service prior to the completion of her probationary
+period for post-appointment related reasons. The MSPB AJ’s decision became final on August
+12, 2021.
+
+Petitioner filed the instant petition with the Commission on October 14, 2022, seeking review of
+the MSPB’s decision. In support of her petition, Complainant largely reiterates the same
+arguments that she previously raised in her initial appeal. The Agency, however, vehemently
+opposes the petition and asserts that the Commission does not have jurisdiction over the matter,
+as Petitioner never alleged discrimination before the MSPB.
+
+                                  ANALYSIS AND FINDINGS
+
+EEOC Regulations provide that the Commission has jurisdiction over mixed case appeals and
+complaints on which the MSPB has issued a decision that makes determinations on allegations of
+discrimination. 29 C.F.R. § 1614.303 et seq. However, when the MSPB, as it did here, denies
+jurisdiction, the Commission has held that there is little point in continuing to view the matter as
+a “mixed case” as defined by 29 C.F.R. § 1614.302(a), because the MSPB did not address any
+matters within the Commission’s jurisdiction.
+
+We ultimately find that this matter should be processed as a “non-mixed” case, as our review of
+Petitioner’s initial appeal shows that she alleged, in relevant part, that the way management
+bullied her about her accent suggested that the Agency’s articulated reasons for removing her
+were pretext for discrimination based on national origin. Furthermore, our review of Petitioner’s
+initial appeal also shows that Petitioner alleged that prior to her removal the Agency harassed her
+by refusing her medical services and sending her on work related trips despite her history of pain
+to cause her physical and mental trauma. Given these allegations, we DENY consideration of the
+petition and shall administratively close it. On remand, the Agency shall process MSPB No. PH-
+315H-21-0267-I-1 as a non-mixed case. See e.g., Schmitt v. Dep’t of Transp., EEOC Appeal No.
+01902126 (July 9, 1990); Phillips v. Dep’t of the Army, EEOC Request No. 05900883 (Oct. 12,
+1990); and 29 C.F.R. § 1614.302(c)(2)(i) and (ii).
+       Case 2:23-cv-01391-JFM          Document 1        Filed 02/28/23     Page 56 of 57
+
+
+
+
+                                                 3                                     2023000218
+
+                                             ORDER
+
+Petitioner is advised that, by operation of 29 C.F.R. § 1614.302(b), the Agency, if it has not
+already done so, is required to process her allegations of discrimination. Because Petitioner filed
+a mixed-case appeal with the MSPB, the Agency, pursuant to 29 C.F.R. § 1614.105 et seq., shall
+notify Petitioner of her right to contact an EEO counselor within forty-five (45) days of receipt of
+this decision, and to file an EEO complaint, subject to 29 C.F.R § 1614.107. The date on which
+the Petitioner filed the appeal with the MSPB shall be deemed the date of initial contact with the
+EEO counselor.
+
+             IMPLEMENTATION OF THE COMMISSION’S DECISION (K0719)
+
+Under 29 C.F.R. § 1614.405(c) and §1614.502, compliance with the Commission’s corrective
+action is mandatory. Within seven (7) calendar days of the completion of each ordered
+corrective action, the Agency shall submit via the Federal Sector EEO Portal (FedSEP)
+supporting documents in the digital format required by the Commission, referencing the
+compliance docket number under which compliance was being monitored. Once all compliance
+is complete, the Agency shall submit via FedSEP a final compliance report in the digital format
+required by the Commission. See 29 C.F.R. § 1614.403(g). The Agency’s final report must
+contain supporting documentation when previously not uploaded, and the Agency must send a
+copy of all submissions to the Petitioner and his/her representative.
+
+If the Agency does not comply with the Commission’s order, the Petitioner may petition the
+Commission for enforcement of the order. 29 C.F.R. § 1614.503(a). The Petitioner also has the
+right to file a civil action to enforce compliance with the Commission’s order prior to or
+following an administrative petition for enforcement. See 29 C.F.R. §§ 1614.407, 1614.408, and
+29 C.F.R. § 1614.503(g). Alternatively, the Petitioner has the right to file a civil action on the
+underlying complaint in accordance with the paragraph below entitled “Right to File a Civil
+Action.” 29 C.F.R. §§ 1614.407 and 1614.408. A civil action for enforcement or a civil action
+on the underlying complaint is subject to the deadline stated in 42 U.S.C. 2000e-16(c) (1994 &
+Supp. IV 1999). If the Petitioner files a civil action, the administrative processing of the
+complaint, including any petition for enforcement, will be terminated. See 29 C.F.R.
+§ 1614.409.
+
+Failure by an agency to either file a compliance report or implement any of the orders set forth in
+this decision, without good cause shown, may result in the referral of this matter to the Office of
+Special Counsel pursuant to 29 C.F.R. § 1614.503(f) for enforcement by that agency.
+
+                 PETITIONER’S RIGHT TO FILE A CIVIL ACTION (W0610)
+
+This decision of the Commission is final, and there is no further right of administrative appeal
+from the Commission’s decision. You have the right to file a civil action in an appropriate
+United States District Court, based on the decision of the Merit Systems Protection Board,
+within thirty (30) calendar days of the date that you receive this decision.
+       Case 2:23-cv-01391-JFM            Document 1        Filed 02/28/23      Page 57 of 57
+
+
+
+
+                                                   4                                      2023000218
+
+If you file a civil action, you must name as the defendant in the complaint the person who is the
+official Agency head or department head, identifying that person by his or her full name and
+official title. Failure to do so may result in the dismissal of your case in court. “Agency” or
+“department” means the national organization, and not the local office, facility or department in
+which you work.
+
+                            RIGHT TO REQUEST COUNSEL (Z0815)
+
+If you want to file a civil action but cannot pay the fees, costs, or security to do so, you may
+request permission from the court to proceed with the civil action without paying these fees or
+costs. Similarly, if you cannot afford an attorney to represent you in the civil action, you may
+request the court to appoint an attorney for you. You must submit the requests for waiver of
+court costs or appointment of an attorney directly to the court, not the Commission. The
+court has the sole discretion to grant or deny these types of requests. Such requests do not alter
+the time limits for filing a civil action (please read the paragraph titled Petitioner’s Right to File a
+Civil Action for the specific time limits).
+
+FOR THE COMMISSION:
+
+
+______________________________                     Carlton M. Hadden’s signature
+Carlton M. Hadden, Director
+Office of Federal Operations
+
+
+January 26, 2023
+Date
+

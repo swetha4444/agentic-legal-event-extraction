@@ -1,0 +1,1051 @@
+Source URL: https://www.courtlistener.com/docket/60370910/1/porter-v-csl-behring-llc/
+Title: Complaint (Attorney) – #1 in PORTER v. CSL BEHRING LLC (E.D. Pa., 2:21-cv-04014) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 2:21-cv-04014-ER
+                                                      CIVILDocument
+                                                            COVER1SHEET
+                                                                    Filed 09/08/21 Page 1 of 48
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+                                                                                                               CSL Behring LLC
+          Cindee Porter
+                                                                                                               Kimberly Golden
+    (b)   County of Residence of First Listed Plaintiff                Delaware County                         County of Residence of First Listed Defendant              Montgomery County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+          Brian C. Farrell, Esq., Console Mattiacci Law, LLC
+          1525 Locust St., 9th Fl., Philadelphia, PA 19102 (215) 545-7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                     400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                               830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                      New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                       840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §12101, et seq.
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff was discriminated against because of her disability and retaliated against for requesting accommodations.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                               in excess of $75,000                        JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+09/08/2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                              Case 2:21-cv-04014-ER
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   09/08/21 Page 2 of 48
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                               Media, PA
+Address of Plaintiff: ______________________________________________________________________________________________
+                                            1020 1st Avenue, King of Prussia, PA 19406
+Address of Defendant: ____________________________________________________________________________________________
+                                                         1020 1st Avenue, King of Prussia, PA19406
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      09/08/2021
+DATE: __________________________________                     __________________________________________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+               Brian C. Farrell
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+     X        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+     X
+      09/08/2021
+DATE: __________________________________                     __________________________________________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+              Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 3 of 48
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+                                                  :                          CIVIL ACTION
+ Cindee Porter                                    :
+                       v.                         :
+                                                  :
+                                                  :                          NO.
+ CSL Behring LLC, et al.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+09/08/2021                                                          Plaintiff, Cindee Porter
+Date                               Attorney-at-law                       Attorney for
+ 215-545-7676                   215-405-2900                          farrell@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+            Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 4 of 48
+
+
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+               FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+________________________________
+                                   :
+CINDEE PORTER                      :
+                                   :   C.A. NO.:
+                        Plaintiff  :
+            v.                     :
+                                   :   JURY TRIAL DEMANDED
+                                   :
+CSL BEHRING LLC                    :
+                                   :
+and                                :
+                                   :
+KIMBERLY GOLDEN                    :
+                                   :
+                        Defendants :
+________________________________   :
+
+                                           COMPLAINT
+
+I.     PRELIMINARY STATEMENT
+
+       Plaintiff, Cindee Porter (“Plaintiff”), through her undersigned counsel, files this Civil
+
+Action Complaint against her former employer, Defendant CSL Behring LLC (“Defendant CSL”),
+
+and her former supervisor with Defendant CSL, Defendant Kimberly Golden (“Defendant
+
+Golden”) (collectively, “Defendants”). Plaintiff asserts discrimination and retaliation claims
+
+against Defendants under the Americans with Disabilities Act, as amended, 42 U.S.C. §12101, et
+
+seq., (“ADA”), and the Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq.
+
+(“PHRA”). Plaintiff seeks all available damages, including economic loss, compensatory, and
+
+punitive damages, together with all other relief under applicable federal and state law as this Court
+
+deems appropriate.
+
+II.    PARTIES
+
+       1.      Plaintiff, Cindee Porter (“Plaintiff”), is an individual and citizen of Pennsylvania,
+
+residing therein in Media, Pennsylvania.
+
+
+
+                                                 1
+            Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 5 of 48
+
+
+
+
+       2.      Defendant, CSL Behring LLC (“Defendant CSL”), is a Delaware corporation
+
+registered and licensed to do business in the Commonwealth of Pennsylvania, maintaining a
+
+principal place of business at 1020 1st Avenue, King of Prussia, Pennsylvania 19406.
+
+       3.      Defendant, Kimberly Golden (“Defendant Golden”), is an individual and Director
+
+– Human Resources Business Partner with Defendant CSL. Defendant Golden makes her principal
+
+place of business at 1020 1st Avenue, King of Prussia, Pennsylvania 19406.
+
+       4.      Defendant CSL is engaged in an industry affecting interstate commerce and
+
+regularly does business in the Commonwealth of Pennsylvania.
+
+       5.      At all times material to this action, Defendant CSL employed more than 15
+
+employees.
+
+       6.      At all times material to this action, Defendant CSL was an employer within the
+
+meaning of the ADA and PHRA.
+
+       7.      At all times material to this action, Plaintiff was an employee of Defendant CSL
+
+within the meaning of the ADA and PHRA.
+
+       8.      At all times material to this action, Defendant CSL acted by and through its
+
+authorized agents, servants, contractors, or employees acting within the course and scope of their
+
+employment with Defendant CSL and in furtherance of its business.
+
+III.   JURISDICTION AND VENUE
+
+       9.      The causes of action set forth in this Complaint arise under the ADA, as amended,
+
+42 U.S.C. §12101, et seq. (Count I-II); and the PHRA, 43 P.S. §951, et seq. (Counts III-V).
+
+       10.     The District Court has subject matter jurisdiction over Counts I-II (ADA) pursuant
+
+to 28 U.S.C. §1331.
+
+
+
+
+                                                2
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 6 of 48
+
+
+
+
+       11.     The District Court has supplemental jurisdiction over Counts III-V (PHRA)
+
+pursuant to 28 U.S.C. §1367.
+
+       12.     Defendants are subject to the personal jurisdiction of this Court because, among
+
+other things, the case arises out of or relates to the contacts of Defendants with the Commonwealth
+
+of Pennsylvania, and the contacts of Defendants are continuous and systematic such that
+
+Defendants are at home in the Commonwealth of Pennsylvania.
+
+       13.     Venue is proper under 28 U.S.C. § 1391(b).
+
+       14.     On or about October 18, 2019, Plaintiff dual filed a Charge of Discrimination with
+
+the Pennsylvania Human Relations Commission (“PHRC”) and the Equal Employment
+
+Opportunity Commission (“EEOC”), complaining of the acts of discrimination and retaliation
+
+alleged herein. Attached hereto, incorporated herein, and marked as Exhibit “A” is a true and
+
+correct copy of the PHRC Charge of Discrimination, with minor redactions for purposes of
+
+electronic filing of confidential and personal identifying information.
+
+       15.     On or about February 20, 2020, Plaintiff dual filed an amended PHRC Charge of
+
+Discrimination with the PHRC and EEOC. Attached hereto, incorporated herein, and marked as
+
+Exhibit “B” is a true of correct copy of Plaintiff’s amended PHRC Charge of Discrimination, with
+
+minor redactions for purposes of electronic filing of confidential and personal identifying
+
+information.
+
+       16.     On or about June 11, 2021, the EEOC issued to Plaintiff a Dismissal and Notice of
+
+Right to Sue. Attached hereto and marked as Exhibit “C” is a true and correct copy of that Notice,
+
+with minor redactions for purposes of electronic filing of confidential and personal identifying
+
+information.
+
+
+
+
+                                                 3
+           Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 7 of 48
+
+
+
+
+         17.    Plaintiff has complied with all administrative requirements for the institution of this
+
+civil action.
+
+IV.      FACTUAL ALLEGATIONS SUPPORTING CLAIMS
+
+         18.    Plaintiff was employed by Defendant CSL from on or about September 5, 2018
+
+until on or about October 4, 2019.
+
+         19.    During her employment, Plaintiff held the position of Senior Human Resources
+
+Business Partner within Defendant CSL’s Global Research and Development organization.
+
+         20.    In this role, Plaintiff reported to Defendant Golden, Director – Human Resources
+
+Business Partner. Defendant Golden reported to Andrea Resch (“Resch”), Senior Director –
+
+Human Resources Department.
+
+         21.    On or about February 12, 2019, Plaintiff received a positive mid-year performance
+
+review from Defendant Golden.
+
+         22.    On or about March 30, 2019, Plaintiff fell and broke her right wrist.
+
+         23.    Plaintiff’s broken wrist rendered her disabled under the ADA and PHRA because
+
+it substantially impaired one or more of her major life activities and/or caused her to be regarded
+
+as disabled by Defendants.
+
+         24.    On or about March 31, 2019, Plaintiff informed Defendant Golden of her broken
+
+wrist.
+
+         25.    On or about April 1, 2019, Plaintiff saw an orthopedic doctor and had her right arm
+
+placed in a cast. The orthopedic doctor informed Plaintiff that he would decide whether surgery
+
+was necessary at Plaintiff’s follow-up appointment two weeks later.
+
+
+
+
+                                                  4
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 8 of 48
+
+
+
+
+        26.   On or about April 2, 2019, Plaintiff requested and was granted a reasonable
+
+accommodation in the form of permission to work from home until her follow-up appointment
+
+with her orthopedic doctor.
+
+        27.   Following the injury, Plaintiff experienced continued physical strain resulting from
+
+her broken wrist. Plaintiff repeatedly informed Defendant Golden of the same.
+
+        28.   On or about April 8, 2019, Defendant Golden unjustly criticized Plaintiff’s
+
+performance for the first time during a telephone call. Further, Defendant Golden unfairly
+
+questioned the validity of Plaintiff’s accommodation request, telling Plaintiff that she knew of
+
+“another employee” who had fallen and broken both wrists, had casts, and returned to the office
+
+without a problem.
+
+        29.   Later that day, after speaking with her orthopedic doctor, Plaintiff informed
+
+Defendant Golden that, due to continued physical strain from working, typing, and writing with
+
+her left hand, her doctor recommended that she take a medical leave of absence until her follow-
+
+up medical appointment on April 15, 2019.
+
+        30.   Ultimately, Plaintiff remained out of work on a medical leave of absence from April
+
+9, 2019 until May 6, 2019.
+
+        31.   During that time, Defendant Golden repeatedly pressured Plaintiff to return to
+
+work.
+
+        32.   On or about May 3, 2019, following an appointment with her orthopedic doctor,
+
+Plaintiff informed Defendant Golden that she was medically cleared to return to work beginning
+
+on May 6, 2019.
+
+        33.   Upon her return to work on May 6, 2019, Plaintiff provided Defendant Golden with
+
+a medical note from her orthopedic doctor requesting that Defendant CSL continue to grant her
+
+
+
+
+                                               5
+            Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 9 of 48
+
+
+
+
+the accommodation of permission to work from home. Plaintiff requested that this accommodation
+
+remain in place until her doctor could reassess her condition on June 3, 2019.
+
+        34.     While Defendants granted this request, they nonetheless continued to retaliate and
+
+discriminate against Plaintiff on the basis of her disability and prior accommodation requests.
+
+        35.     For example, later in the day on May 6, 2019, Defendant Golden assigned Plaintiff
+
+a deluge of new projects and tasks, emphasizing “the amount of work” that she had to do during
+
+Plaintiff’s medical leave of absence.
+
+        36.     Defendant Golden also told Plaintiff on May 6, 2019 that Plaintiff would no longer
+
+be permitted to travel Amsterdam for a previously scheduled work trip. According to Defendant
+
+Golden, she “did not know” when Plaintiff had intended to return to work, and that with all of the
+
+work Plaintiff was returning to, Defendant Golden “figured the trip to Amsterdam would have
+
+slipped to the bottom” of Plaintiff’s priorities.
+
+        37.     Defendant Golden also began to exclude Plaintiff from information and
+
+communications related to and necessary for Plaintiff to do her job.
+
+        38.     Additionally, during a May 24, 2019 telephone call, Defendant Golden:
+
+        •       unjustly criticized Plaintiff’s performance in a hostile and dismissive manner;
+
+        •       questioned Plaintiff’s attitude and whether Plaintiff was truly “engaged” with her
+
+                work and assignments;
+
+        •       instructed Plaintiff to return to work at the office before her June 3, 2019 doctor’s
+
+                appointment; and
+
+        •       brazenly accused Plaintiff of exacerbating the nature of her disability.
+
+        39.     On or about June 3, 2019, Plaintiff informed Defendant Golden that her orthopedic
+
+doctor removed her cast that day, and that she intended to return to work in the office the next day.
+
+
+
+                                                    6
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 10 of 48
+
+
+
+
+       40.     On or about June 4, 2019, Plaintiff returned to work at Defendant CSL’s
+
+headquarters in King of Prussia after receiving medical clearance from her doctor to do so.
+
+       41.     Following Plaintiff’s return to the office, Defendant Golden continued her
+
+campaign of discrimination and retaliation against Plaintiff.
+
+       42.     For example, on or about July 23, 2019, in a meeting with Defendant Golden and
+
+Trina Hendri (“Hendri”), Senior Director -- Human Resources, Defendants placed Plaintiff on a
+
+Performance Improvement Plan (“PIP”).
+
+       43.     Plaintiff’s performance did not warrant a PIP.
+
+       44.     Defendants’ stated reason for Plaintiff’s PIP was “performance deficiencies.”
+
+       45.     The PIP was the first written documentation that Plaintiff received indicating her
+
+performance was deficient.
+
+       46.     The PIP contained false statements and mischaracterizations of Plaintiff’s
+
+performance.
+
+       47.     According to Defendants, Plaintiff’s PIP was scheduled to last 60 days, or until on
+
+or about September 23, 2019.
+
+       48.     Defendant CSL skipped the first step of its progressive discipline process by
+
+placing Plaintiff on a PIP.
+
+       49.     Defendants placed Plaintiff on a PIP because of her disability and/or requests for
+
+reasonable accommodations.
+
+       50.     Defendants did not assist Plaintiff in achieving the objectives set forth in the PIP
+
+and failed to provide feedback on her progress.
+
+       51.     Thereafter, on or about September 4, 2019, in a meeting with Defendant Golden,
+
+Plaintiff received an unjustified negative annual performance review.
+
+
+
+
+                                                  7
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 11 of 48
+
+
+
+
+        52.        Plaintiff’s performance did not warrant a negative annual performance review.
+
+        53.        Plaintiff received a negative annual performance review because of her disability
+
+and/or requests for reasonable accommodations.
+
+        54.        One week later, on or about September 11, 2019, in her written response to the
+
+negative year-end performance review, Plaintiff complained of disability discrimination and
+
+retaliation for requesting reasonable accommodations.
+
+        55.        Specifically, Plaintiff wrote:
+
+               •   “I can only conclude that my negative year-end performance review is because of
+
+                   my recent injury (due to breaking my arm on March 30, 2019), my medical leave
+
+                   of absence from April 10, 2019 to May 5, 2019, and my accommodation of working
+
+                   from home between May 6, 2019 and June 4, 2019.”
+
+               •   “Coupled with the several examples of being pressured to return to work and go
+
+                   beyond my doctor’s recommendations, I am concerned about the retaliation I
+
+                   experienced as a result of my injury and medical leave.”
+
+               •   “I do not believe that I would have received a Performance Improvement Plan or a
+
+                   negative year-end performance review if I had not had an injury, been out on
+
+                   medical leave, or requested an accommodation.”
+
+        56.        Defendants did not respond to Plaintiff’s written complaint of discrimination and
+
+retaliation.
+
+        57.        Defendants failed to investigate Plaintiff’s written complaint of discrimination and
+
+retaliation.
+
+        58.        Defendants failed to remedy the disability discrimination and retaliation
+
+complained of by Plaintiff in her written complaint.
+
+
+
+
+                                                    8
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 12 of 48
+
+
+
+
+       59.     Thereafter, on September 20 and 22, 2019, Plaintiff twice complained to Resch of
+
+disability discrimination and retaliation for seeking reasonable accommodations.
+
+       60.     Resch did not adequately respond to Plaintiff’s complaints.
+
+       61.     On or about September 26, 2019, in a meeting with Defendant Golden and Resch,
+
+Defendants terminated Plaintiff’s employment, effective October 4, 2019. Defendants’ stated
+
+reason was that Plaintiff had not made enough progress under the PIP.
+
+       62.     Defendants’ stated reason for Plaintiff’s termination is a pretext for disability
+
+discrimination and/or retaliation for requesting reasonable accommodation and/or retaliation for
+
+complaining of the same.
+
+       63.     Defendants reassigned Plaintiff’s job duties to less-qualified nondisabled and/or
+
+noncomplaining employees and/or employees who had not requested accommodations.
+
+       64.     Defendants terminated Plaintiff’s employment because of her disability and/or
+
+requests for accommodations and/or complaints about same.
+
+       65.     Following her termination, on October 17, 2019, Plaintiff applied for an open
+
+position with Defendant CSL with the title of Senior Manager, Talent Development. Based on her
+
+review of the job description, Plaintiff determined that she was qualified for this role.
+
+       66.     On or about February 7, 2020, Plaintiff learned that Defendants had hired another
+
+candidate (Erica Brim) for the open Senior Manager, Talent Development position.
+
+       67.     Upon information and belief, Plaintiff was more qualified than Erica Brim for the
+
+open Senior Manager, Talent Development position.
+
+       68.     Defendants failed to hire Plaintiff for this position because of her disability and/or
+
+requests for accommodations and/or complaints about same.
+
+
+
+
+                                                  9
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 13 of 48
+
+
+
+
+        69.     Defendants’ disability discriminatory and retaliatory conduct toward Plaintiff has
+
+caused her emotional distress.
+
+        70.     Defendants’ comments and conduct evidence a bias against disabled employees
+
+and/or employees that seek accommodations and/or employees that engage in protected activity.
+
+        71.     Defendant Golden aided and abetted Defendant CSL in discriminating and
+
+retaliating against Plaintiff as set forth in the paragraphs above.
+
+                                         COUNT I – ADA
+                                      (Disparate Treatment)
+                            Plaintiff v. Defendant CSL Behring LLC
+
+        72.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        73.     Plaintiff’s disability was a substantial, motivating, and/or determinative factor in
+
+connection with Defendant CSL’s treatment of her.
+
+        74.     By committing the foregoing acts of discrimination against Plaintiff, including,
+
+without limitation, terminating her employment and failing to hire her into an open position,
+
+Defendant CSL has violated the ADA.
+
+        75.     As a direct and proximate result of Defendant CSL’s violation of the ADA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        76.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant CSL’s discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        77.     Defendant CSL acted intentionally, and with malice and/or reckless indifference to
+
+Plaintiff’s rights, and its conduct warrants the imposition of punitive damages.
+
+
+
+
+                                                  10
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 14 of 48
+
+
+
+
+                                            COUNT II – ADA
+                                              (Retaliation)
+                               Plaintiff v. Defendant CSL Behring LLC
+
+        78.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        79.     Plaintiff’s requests for accommodation and/or complaints of discrimination and
+
+retaliation were a substantial, motivating, and/or determinative factor in connection with
+
+Defendant CSL’s treatment of her.
+
+        80.     By committing the foregoing acts of and retaliation against Plaintiff, including,
+
+without limitation, terminating her employment and failing to hire her into an open position,
+
+Defendant CSL has violated the ADA.
+
+        81.     As a direct and proximate result of Defendant CSL’s violation of the ADA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        82.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant CSL’s retaliatory acts unless and until this Court grants
+
+the relief requested herein.
+
+        83.     Defendant CSL acted intentionally, and with malice and/or reckless indifference to
+
+Plaintiff’s rights, and its conduct warrants the imposition of punitive damages.
+
+                                          COUNT III - PHRA
+                                         (Disparate Treatment)
+                               Plaintiff v. Defendant CSL Behring LLC
+
+        84.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        85.     Plaintiff’s disability was a substantial, motivating, and/or determinative factor in
+
+connection with Defendant CSL’s treatment of her.
+
+
+
+
+                                                 11
+           Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 15 of 48
+
+
+
+
+         86.    By committing the foregoing acts of discrimination against Plaintiff, including,
+
+without limitation, terminating her employment and failing to hire her into an open position,
+
+Defendant CSL has violated the PHRA.
+
+         87.    As a direct and proximate result of Defendant CSL’s violation of the PHRA,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’ fees and
+
+costs.
+
+         88.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant CSL’s discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+                                        COUNT IV - PHRA
+                                           (Retaliation)
+                            Plaintiff v. Defendant CSL Behring LLC
+
+         89.    Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+         90.    Plaintiff’s requests for accommodation and/or complaints of discrimination and
+
+retaliation were a substantial, motivating, and/or determinative factor in connection with
+
+Defendant CSL’s treatment of her.
+
+         91.    By committing the foregoing acts of and retaliation against Plaintiff, including,
+
+without limitation, terminating her employment and failing to hire her into an open position,
+
+Defendant CSL has violated the PHRA.
+
+         92.    As a direct and proximate result of Defendant CSL’s violation of the PHRA,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’ fees and
+
+costs.
+
+
+
+
+                                                12
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 16 of 48
+
+
+
+
+        93.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant CSL’s retaliatory acts unless and until this Court grants
+
+the relief requested herein.
+
+                                          COUNT V - PHRA
+                                         (Aiding and Abetting)
+                               Plaintiff v. Defendant Kimberly Golden
+
+        94.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        95.     Defendant Golden willfully and knowingly aided, abetted, incited, compelled
+
+and/or coerced Defendant CSL in the discrimination and retaliation to which Plaintiff was
+
+subjected.
+
+        96.     Defendant Golden knowingly gave substantial assistance and/or encouragement to
+
+the unlawful acts of discrimination and retaliation of Defendant CSL towards Plaintiff.
+
+        97.     Defendant Golden, by committing the foregoing acts of discrimination and
+
+retaliation, has violated the PHRA.
+
+        98.     Said violations were intentional and willful.
+
+        99.     As a direct and proximate result of Defendant Golden’s violations of the PHRA,
+
+Plaintiff has sustained the injuries, damages and losses set forth herein.
+
+        100.    Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant Golden’s discriminatory and retaliatory acts unless and
+
+until the Court grants the relief requested herein.
+
+                                              RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendants’ unlawful conduct, and specifically prays that this Court grant her the following relief
+
+
+
+
+                                                 13
+          Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 17 of 48
+
+
+
+
+by:
+
+       (a)     declaring the acts and practices complained of herein to be in violation of the ADA;
+
+       (b)     declaring the acts and practices complained of herein to be in violation of PHRA;
+
+       (c)     enjoining and permanently restraining the violations alleged herein;
+
+       (d)     entering judgment against Defendants and in favor of Plaintiff in an amount to be
+
+determined;
+
+       (e)     awarding compensatory damages to make Plaintiff whole for all lost earnings,
+
+earning capacity and benefits, past and future, which Plaintiff has suffered or may suffer as a result
+
+of Defendants’ unlawful conduct;
+
+       (f)     awarding compensatory damages to Plaintiff for past and future pain and suffering,
+
+emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff has
+
+suffered or may suffer as a result of Defendants’ unlawful conduct;
+
+       (g)     awarding punitive damages to Plaintiff;
+
+       (h)     awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+reasonable attorneys’ fees; and
+
+       (i)     granting such other and further relief as this Court may deem just, proper, or
+
+equitable including other equitable and injunctive relief providing restitution for past violations
+
+and preventing future violations.
+
+                                    JURY TRIAL DEMAND
+
+       Plaintiff demands a trial by jury.
+
+                                                      CONSOLE MATTIACCI LAW, LLC
+
+                                                      By: /s/ Brian C. Farrell
+                                                      Brian C. Farrell, Esquire
+                                                      PA ID No. 319145
+                                                      Console Mattiacci Law, LLC
+
+
+
+                                                 14
+         Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 18 of 48
+
+
+
+
+                                           1525 Locust Street, Ninth Floor
+                                           Philadelphia, PA 19102
+                                           (215) 545-7676
+                                           (215) 565-2851 (fax)
+                                           farrell@consolelaw.com
+                                           Attorney for Plaintiff, Cindee Porter
+Date: September 8, 2021
+
+
+
+
+                                      15
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 19 of 48
+
+
+
+
+             Exhibit “A”
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 20 of 48
+
+
+
+
+         redacted
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 21 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 22 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 23 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 24 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 25 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 26 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 27 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 28 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 29 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 30 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 31 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 32 of 48
+
+
+
+
+                            redacted
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 33 of 48
+
+
+
+
+             Exhibit “B”
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 34 of 48
+
+
+
+
+             redacted
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 35 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 36 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 37 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 38 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 39 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 40 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 41 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 42 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 43 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 44 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 45 of 48
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 46 of 48
+
+
+
+
+                            redacted
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 47 of 48
+
+
+
+
+             Exhibit “C”
+Case 2:21-cv-04014-ER Document 1 Filed 09/08/21 Page 48 of 48
+

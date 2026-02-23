@@ -1,0 +1,414 @@
+Source URL: https://www.courtlistener.com/docket/63152476/1/gregory-v-city-of-philadelphia/
+Title: Complaint (Attorney) – #1 in GREGORY v. CITY OF PHILADELPHIA (E.D. Pa., 2:22-cv-00929) – CourtListener.com
+
+           Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 1 of 8
+
+
+
+                             UNITED STATES DISTRICT COURT
+                           EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                              :
+ SHOLONDA GREGORY,                                            :
+                                                              :
+                                                 Plaintiff,   :      C.A. No.:        2:22-cv-00929
+                                                              :
+         v.                                                   :
+                                                              :
+ CITY OF PHILADELPHIA                                         :
+ (Dept. of Prisons);                                          :
+                                                      and     :
+ BLANCHE CARNEY,                                              :
+ Commissioner, Dept. of Prisons;                              :
+                                                      and     :
+ TERRENCE CLARK,                                              :
+ Deputy Commissioner, Dept. of Prisons;                       :
+                                                      and     :
+ XAVIER BEAUFORT,                                             :
+ Deputy Commissioner, Dept. of Prisons;                       :
+                                                      and     :
+ NORMAN WILLIAMS,                                             :
+ Deputy Warden, Dept. of Prisons;                             :
+                                                      and     :
+ JAMES SMITH,                                                 :
+  Captain, Dept. of Prisons;                                  :
+                                                      and     :
+ IVAN MARSHALL,                                               :
+  Director, Office of Professional Compliance,                :
+  Dept. of Prisons,                                           :
+                                                              :
+                                             Defendants.      :
+                                                              :
+
+                                              COMPLAINT
+
+        Plaintiff, Sholonda Gregory, by and through her undersigned attorneys, files the within
+
+Complaint pursuant to 42 U.S.C. §1983 for violations of Plaintiff’s First Amendment right to free
+
+speech and to petition the government for the redress of grievances; and pursuant to the Pennsylvania
+
+Whistleblower Protection Law, 43 P.S. §1421 et seq. (the “Whistleblower Law”). Plaintiff further alleges
+
+she suffered retaliation for refusing to cooperate in Defendants’ contempt of this Court’s Orders in
+
+the matter of Remick, et al. v. City of Philadelphia, et al., No: 2:20-cv-01959-BMS (Schiller, J.).
+             Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 2 of 8
+
+
+
+I.      PARTIES, JURISDICTION & VENUE
+
+        1.       Plaintiff Sholonda Gregory, is an adult individual, domiciled at 2944 Reed St.,
+
+Philadelphia, PA 19146 She was, at times material, a correctional Sergeant, promoted to correctional
+
+Lieutenant on June 28, 2021 and demoted back to correctional Sergeant on December 10, 2021. The
+
+demotion occurred after Plaintiff sent Exhibit A, October 5, 2021 whistleblower letter (see infra).
+
+        2.       Defendant City of Philadelphia is the legal entity subject to jurisdiction of this Court.
+
+The Department of Prisons is the department in the City of Philadelphia relevant to this Complaint.
+
+(Herein “Defendant” or the “City” or “Prisons”).
+
+        3.       Defendant Blanche Carney is the Commissioner of Prisons. She is sued in her official
+
+capacity.
+
+        4.       Defendant Terence Clark is Deputy Commissioner of Prisons. He is sued in his
+
+official capacity.
+
+        5.       Defendant Xavier Beaufort is Deputy Commissioner of Prisons. He is sued in his
+
+official capacity.
+
+        6.       Defendant Norman Williams is Deputy Warden at the Philadelphia Industrial
+
+Correctional Center (“PICC”), one of the jails on the Prisons Campus where Plaintiff was assigned
+
+after her promotion to Lieutenant. Defendant Williams is sued in his official capacity.
+
+        7.       Defendant James Smith is a Captain at PICC. He is sued in his official capacity.
+
+        8.       Defendant Ivan Marshall is the Director of Prisons’ Office of Professional
+
+Compliance. He is sued in his official capacity.
+
+        9.       This Court has federal question jurisdiction over Plaintiff’s claims under 42 U.S.C.
+
+§1983 (“§1983”) for violations of her First Amendment right to report horrific human rights abuses
+
+taking place in Prisons at this time.
+
+        10.      This Court also has federal question jurisdiction to enforce its orders in Remick.
+
+
+                                                    2
+          Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 3 of 8
+
+
+
+       11.     This Court has supplemental jurisdiction over Plaintiff’s Whistleblower Law claims.
+
+       12.     Venue is appropriate in this Court involving the conduct of the City of Philadelphia.
+
+       13.     This action is timely filed within two years of the retaliation she experienced for
+
+speaking about matters of public concern.
+
+       14.     This action is timely filed within 180 days of the retaliatory actions that followed
+
+Plaintiff’s report of wrongdoing pursuant to the Whistleblower Law.
+
+II.    FACTS
+
+       15.     Plaintiff Sholonda Gregory has worked at Philadelphia Prisons for over twenty-three
+
+years. She worked her way up to Sergeant and, on June 28, 2021, was promoted to Lieutenant. In her
+
+two-plus-decades of experience as a correctional officer, jails were properly staffed with adequate
+
+correctional officers. Everything was run on a set schedule. Inmates were in general population and
+
+were able to shower, exercise, use the law library, access social workers, the chaplain, perform their
+
+jobs in the kitchen, or cleaning or laundry, or in the receiving room, they had visitors on a regular
+
+basis. They had more communication with children and families. It was jail, but the conditions were
+
+humane and the prisons ran on a fair routine.
+
+       16.     In or about May 2016, long before COVID was an issue, Commissioner Carney
+
+drastically cut the budget for regular prisons operations and diverted funds to Corizon Health; GD
+
+Correctional Food Services; U.S. Facilities, Centurion Detention Health Services and other outside
+
+vendors at the expense of investments in the staff and infrastructure needed to assure good order and
+
+humane conditions at Prisons.
+
+       17.     Commissioner Carney closed two jails – the Detention Center and the House of
+
+Corrections; more prisoners were packed into smaller space. The census was up when she closed the
+
+jails. Officers were forced to change shifts and a mass resignation began at that time. Strains on the
+
+system became apparent.
+
+
+                                                  3
+           Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 4 of 8
+
+
+
+        18.      COVID caused these strains to crack. General populations were all shut down.
+
+Lockdown was the norm. Prisons failed to provide PPE and correctional officers became sick with
+
+COVID at alarming rates. The lack of staff meant that inmates were left in lockdown for outrageous
+
+periods of time. Inmates were unable to shower. They were unable to exercise. They were deprived
+
+access to the law library. Prison jobs were not worked. Inmates were unable to communicate with
+
+their families. They became unruly and violent. The inmates learned how to break locks on their cells
+
+and wreaked havoc on the prisons floor. Plaintiff brought this and other matters to Defendants’
+
+attention in a letter dated October 5, 2021. Exhibit A (incorporated herein by reference).
+
+        19.      The violence resulting from inmates free of their cells on a regular basis, with far less
+
+than adequate staff to control them, was horrifying. Officers were unable to keep prisoners in cells.
+
+Inmates found access to materials they could use to make weapons. Inadequate staffing meant that
+
+unarmed guards (or armed only with pepper spray) had to face inmates with homemade knives.
+
+        20.      The conditions led to riots. Plaintiff recall there were at least three riots in 2021 in
+
+three different facilities. Commissioner Carney told the public the officers were engaged in drills and
+
+she covered up the riots.
+
+        21.      Inmates filed a class action lawsuit in the United States District Court for the Eastern
+
+District of Pennsylvania, Remick, et al. v. City of Philadelphia, et al., No: 2:20-cv-01959-BMS (Schiller, J.).
+
+An injunction was issued that required Prisons to provide yard time, etc.
+
+        22.      Plaintiff was told to falsify time out of cell records to deceive this Court in the Remick
+
+case. Plaintiff refused.
+
+        23.      Plaintiff witnessed that hundreds of inmates were placed in solitary confinement for
+
+excessive times (another civil rights violation). As a newly promoted Lieutenant, Plaintiff took the
+
+responsibility to document the inmates in solitary confinement and determine whether they should
+
+continue to be held there. She was shocked to learn of inmates in solitary for about a year. When she
+
+
+                                                      4
+           Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 5 of 8
+
+
+
+attempted to document and rectify this situation, Plaintiff was told to stand down and that this was
+
+none of her business. Defendant Williams gave this order to Plaintiff.
+
+        24.     Plaintiff witnessed firsthand, and with intimate knowledge of how the Prisons worked,
+
+that the system had completely broken down.
+
+        25.     After witnessing many events that shocked the conscience, Plaintiff wrote Exhibit A.
+
+This letter was sent to the Mayor; Judge Schiller; City Councilmembers; the ACLU; DA Krasner; the
+
+Office of Inspector General; and lead counsel for Plaintiffs in the Remick matter.
+
+        26.     Defendants Carney; Clark; Beaufort; Williams; Smith; and Marshall all knew of Exhibit
+
+A contemporaneous to its submission by Plaintiff.
+
+        27.     In response to Exhibit A, Defendants retaliated against Plaintiff. On December 10,
+
+2021, she lost her promotion to Lieutenant.
+
+        28.     The stated reasons for revoking the promotion are pretextual and were concocted after
+
+Exhibit A was delivered.
+
+        29.     Defendant Smith admitted that Defendant Williams demanded that Plaintiff be
+
+demoted. Another captain, Gerald Simmons, told Plaintiff that Defendants intended to demote her.
+
+        30.     After her demotion, Plaintiff was transferred to another facility and was humiliated.
+
+She has suffered, and continues to suffer, great distress from the misconduct of Defendant.
+
+        31.     As a direct and proximate result of Defendant’s conduct, Plaintiff suffered severe
+
+injuries, which include but are not limited to:
+
+                    a)   Lost wages;
+                    b)   Lost back pay;
+                    c)   Lost future wages;
+                    d)   Lost benefits;
+                    e)   Embarrassment and humiliation;
+                    f)   severe emotional distress; and
+                    g)   other damages as described in further detail in this pleading and as will become
+                         evident through the course of discovery.
+
+
+
+                                                    5
+            Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 6 of 8
+
+
+
+III.      CAUSES OF ACTION
+
+          COUNT I:      Retaliation (Enforceable Pursuant to §1983)
+
+          32.   Repeats and realleges paragraphs 1-31 as if set forth at length herein.
+
+          33.   Plaintiff is a public employee.
+
+          34.   Plaintiff engaged in constitutionally protected conduct.
+
+          35.   Defendant engaged in retaliatory action sufficient to deter a reasonable person of
+
+ordinary firmness from exercising his constitutionally protected rights.
+
+          36.   There is a causal link between the constitutionally protected conduct and the retaliatory
+
+action.
+
+          37.   Plaintiff’s speech about widespread human rights abuses in Prisons was as a citizen on
+
+a matter of public concern.
+
+          38.   Plaintiff’s communications about human rights abuses in Prisons was a petition to the
+
+government for the redress of grievances.
+
+          39.   Defendant was not justified in treating Plaintiff differently from any other member of
+
+the general public.
+
+          40.   As a direct and proximate result of Defendant’s retaliatory conduct, Plaintiff suffered
+
+injuries as set forth above and incorporated herein by reference.
+
+WHEREFORE, Plaintiff demands Judgment against Defendants for all equitable and monetary relief
+
+available under the applicable laws and such other relief as this Court deems just and proper.
+
+          COUNT II: Contempt of Court in the Remick Matter.
+
+          41.   Repeats and realleges paragraphs 1-40 as if set forth at length herein.
+
+          42.   Defendants submitted false reports of time out of cell and other matters required by
+
+the consent order in the Remick matter.
+
+          43.   Plaintiff refused to participate in submitting false statements.
+
+
+                                                    6
+           Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 7 of 8
+
+
+
+        44.     As a direct and proximate result of Plaintiff’s refusal to participate in the contemptuous
+
+conduct of Defendant, Plaintiff suffered injury.
+
+        45.     This Court has the inherent power to enforce its own orders and to remedy any harm
+
+caused to others by a party’s contempt of a court order.
+
+        46.     As a direct and proximate result of Defendant’s misconduct, Plaintiff suffered injuries
+
+as set forth above and incorporated herein by reference.
+
+WHEREFORE, Plaintiff demands Judgment against Defendants for all equitable and monetary relief
+
+available under the applicable laws and such other relief as this Court deems just and proper.
+
+        COUNT III: Pennsylvania Whistleblower Law
+
+        47.     Repeats and realleges paragraphs 1-46 as if set forth at length herein.
+
+        48.     Plaintiff is an “employee” as defined by the Whistleblower law.
+
+        49.     Defendants engaged in retaliatory action sufficient to deter a reasonable person of
+
+ordinary firmness from whistleblowing gross misconduct.
+
+        50.     There is a causal link between Plaintiff’s whistleblowing and the retaliatory action.
+
+        51.     Defendant was not justified in treating Plaintiff differently from any other member of
+
+the general public.
+
+        52.     As a direct and proximate result of Defendant’s retaliatory conduct, Plaintiff suffered
+
+injuries as set forth above and incorporated herein by reference.
+
+WHEREFORE, Plaintiff demands Judgment against Defendants for all equitable and monetary relief
+
+available under the applicable laws and such other relief as this Court deems just and proper.
+
+        COUNT IV: Common Law Whistleblower Retaliation
+
+        53.     Repeats and realleges paragraphs 1-52 as if set forth at length herein.
+
+        54.     The conduct of Defendants was so obviously against the public health, safety, morals
+
+or welfare that there is virtually unanimity of opinion with regard to it.
+
+
+                                                    7
+          Case 2:22-cv-00929-BMS Document 1 Filed 03/11/22 Page 8 of 8
+
+
+
+       55.     There is a causal link between Plaintiff’s whistleblowing and the retaliatory action.
+
+       56.     As a direct and proximate result of Defendants’ retaliatory conduct, Plaintiff suffered
+
+injuries as set forth above and incorporated herein by reference.
+
+WHEREFORE, Plaintiff demands Judgment against Defendants for all equitable and monetary relief
+
+available under the applicable laws and such other relief as this Court deems just and proper.
+
+
+
+                                               Respectfully submitted,
+
+                                               CREECH & CREECH LLC
+
+
+
+                                               TIMOTHY P. CREECH
+                                               1835 Market St., Suite 2626
+                                               Philadelphia, PA 19103
+                                               (215) 575-7618; Fax: (215) 575-7688
+                                               Timothy@creechandcreech.com
+
+DATED:         March 11, 2022
+
+
+
+
+                                                  8
+

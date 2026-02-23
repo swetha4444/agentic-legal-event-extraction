@@ -1,0 +1,820 @@
+Source URL: https://www.courtlistener.com/docket/59853217/1/gallelli-v-reliance-standard-life-insurance-company/
+Title: Complaint (Attorney) – #1 in GALLELLI v. RELIANCE STANDARD LIFE INSURANCE COMPANY (E.D. Pa., 2:21-cv-01902) – CourtListener.com
+
+JS 44 (Rev. 04/21)                   Case 2:21-cv-01902-JS
+                                                      CIVILDocument
+                                                            COVER1SHEET
+                                                                    Filed 04/26/21 Page 1 of 15
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                          DEFENDANTS
+          Kathleen Gallelli                                                                                Reliance Standard Life Insurance Company
+    (b)   County of Residence of First Listed Plaintiff            Philadelphia                            County of Residence of First Listed Defendant              Philadelphia
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                           NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                      THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                              Attorneys (If Known)
+      Laura C. Mattiacci, Esq., Console Mattiacci Law, LLC,
+      1525 Locust Street, 9th Floor, Phila., PA 19102;
+      215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)  III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                        (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                ✖ 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                            (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                       of Business In This State
+
+    2   U.S. Government                  4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                            (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                  Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                    Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                     Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                         310 Airplane                    365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                     315 Airplane Product                Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument               Liability                  367 Health Care/                                                     INTELLECTUAL                    400 State Reapportionment
+    150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment           Slander                        Personal Injury                                                820 Copyrights                    430 Banks and Banking
+    151 Medicare Act                   330 Federal Employers’              Product Liability                                              830 Patent                        450 Commerce
+    152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                              835 Patent - Abbreviated          460 Deportation
+         Student Loans                 340 Marine                          Injury Product                                                     New Drug Application          470 Racketeer Influenced and
+         (Excludes Veterans)           345 Marine Product                  Liability                                                      840 Trademark                         Corrupt Organizations
+    153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                       LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+        of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud               710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+    160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                     Product Liability           380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability     360 Other Personal                  Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                          Injury                      385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                       362 Personal Injury -               Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                           Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                    441 Voting                      463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖ 442 Employment                  510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                  443 Housing/                        Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability             Accommodations              530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                           Employment                  Other:                        462 Naturalization Application                                             Agency Decision
+                                       446 Amer. w/Disabilities -      540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                           Other                       550 Civil Rights                  Actions                                                                State Statutes
+                                       448 Education                   555 Prison Condition
+                                                                       560 Civil Detainee -
+                                                                           Conditions of
+                                                                           Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                              (specify)                 Transfer                          Direct File
+                                         Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                         29 U.S.C. § 621, et seq. (”ADEA”), 43 P.S. §951, et seq. (“PHRA”), Phila. Code § 9-1100, et seq. (“PFPO”).
+VI. CAUSE OF ACTION                      Brief description of cause:
+                                         Plaintiffs brings this claim for age discrimination.
+VII. REQUESTED IN                             CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                               UNDER RULE 23, F.R.Cv.P.                               In excess of $75,000                        JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                             (See instructions):
+      IF ANY                                                         JUDGE                                                                DOCKET NUMBER
+DATE                                                                   SIGNATURE OF ATTORNEY OF RECORD
+4/26/2021                                                              /s/ Laura C. Mattiacci
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                              Case 2:21-cv-01902-JS  Document
+                                                UNITED           1 Filed
+                                                       STATES DISTRICT   04/26/21 Page 2 of 15
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                        Philadelphia, PA 19145
+Address of Plaintiff: ______________________________________________________________________________________________
+                                        1700 Market Street, #1200, Philadelphia, PA 19103
+Address of Defendant: ____________________________________________________________________________________________
+                                                     1700 Market Street, #1200, Philadelphia, PA 19103
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /      is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+       04/26/2021
+DATE: __________________________________                     ________________V/DXUD&0DWWLDFFL__________                                89643
+                                                                                                                                  ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+             Laura C. Mattiacci
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+       
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+             Relief other than monetary damages is sought.
+
+
+      04/26/2021
+DATE: __________________________________                     _______________V/DXUD&0DWWLDFFL_______                                  89643
+                                                                                                                            ___________________________________
+                                                                                 Attorney-at-Law / Pro Se Plaintiff                                  Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+       Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 3 of 15
+
+
+
+
+      Kathleen Gallelli
+
+      Reliance Standard Life Insurance
+      Company
+
+
+
+
+                                                                                          X
+
+
+4/26/2021                         /s/ Laura C. Mattiacci   Plaintiff, Kathleen Gallelli
+
+
+215-545-7676                     215-565-2852              mattiacci@consolelaw.com
+           Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 4 of 15
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT FOR
+                       THE EASTERN DISTRICT OF PENNSYLVANIA
+
+________________________________
+                                                          :
+KATHLEEN GALLELLI                                         :
+Philadelphia, PA 19145                                    :        CIVIL ACTION NO.
+                                                          :
+                                       Plaintiff,         :
+                                                          :
+                     v.                                   :
+                                                          :
+RELIANCE STANDARD LIFE                                    :
+INSURANCE COMPANY                                         :
+1700 Market Street #1200                                  :        JURY TRIAL DEMANDED
+Philadelphia, PA 19103                                    :
+                                                          :
+                                                          :
+                        Defendant.                        :
+________________________________                          :
+
+                                                COMPLAINT
+
+I.         INTRODUCTION
+
+           Plaintiff was terminated by Defendant at the age of fifty-nine (59) after she
+
+complained of age discrimination. Plaintiff is a Human Resources (“HR”) professional
+
+with over twenty-five (25) years of experience, and she last held the position of Talent
+
+Acquisition Partner at Defendant. Defendant consistently rated Plaintiff’s performance as
+
+“Fully Satisfactory” or “Commendable” and she had no disciplinary issues until her sixty
+
+(60) 1 years old supervisor was pushed out because of his age, and Plaintiff started reporting
+
+to Patrick Wicks (“Wicks”), age thirty-eight (38). Wicks treated Plaintiff in a hostile and
+
+dismissive manner. Shortly after Plaintiff objected to an age-based comment made by one
+
+of Wicks’ substantially younger direct reports, Plaintiff was placed on an unwarranted
+
+Performance Improvement Plan (“PIP”). Plaintiff complained verbally and in writing of
+
+
+1
+    All allegations as to ages of individuals other than Plaintiff are made to the best of Plaintiff’s knowledge.
+       Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 5 of 15
+
+
+
+
+age discrimination. Despite being told by her supervisors that she was successfully
+
+complying with the terms of the PIP, Defendant terminated Plaintiff’s employment and
+
+hired a twenty-seven (27) years old, less qualified, employee to replace her. The
+
+termination has had a devastating impact on Plaintiff, financially and emotionally.
+
+       Plaintiff now brings claims pursuant to the Age Discrimination in Employment Act,
+
+as amended, 29 U.S.C. § 621, et seq. (”ADEA”), the Pennsylvania Human Relations Act,
+
+as amended, 43 P.S. §951, et seq. (“PHRA”), and the Philadelphia Fair Practices
+
+Ordinance, as amended, Phila. Code § 9-1100, et seq. (“PFPO”). Plaintiff seeks injunctive
+
+and declarative relief, damages, including economic, compensatory, liquidated, and
+
+punitive damages, attorneys’ fees and costs and all other relief this Court deems
+
+appropriate.
+
+II.    PARTIES
+
+       1.      Plaintiff, Kathleen Gallelli, is an individual and a citizen of the
+
+ Commonwealth of Pennsylvania. She resides in Philadelphia, Pennsylvania.
+
+       2.      Plaintiff was born in April 1959 and was age fifty-nine (59) when Defendant
+
+ terminated her employment.
+
+       3.      Defendant, Reliance Standard Life Insurance Company, is an Illinois
+
+ corporation that is registered and authorized to do business in the Commonwealth of
+
+ Pennsylvania with a principal place of business and administrative office located at 1700
+
+ Market Street, Suite 1200, Philadelphia, PA 19103.
+
+       4.      Defendant is engaged in an industry affecting interstate commerce and
+
+ regularly does business in the Commonwealth of Pennsylvania.
+
+       5.      At all times material hereto, Plaintiff worked out of Defendant’s former
+
+
+
+
+                                            2
+       Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 6 of 15
+
+
+
+
+ principal place of business and administrative office at 2001 Market Street, Suite 1500,
+
+ Philadelphia, PA 19103.
+
+       6.      At all times material hereto, Defendant employed more than twenty (20)
+
+ employees.
+
+       7.      At all times material hereto, Defendant acted by and through its authorized
+
+ agents, servants, workmen, and/or employees acting within the course and scope of their
+
+ employment with Defendant and in furtherance of Defendant’s business.
+
+       8.      At all times material hereto, Defendant acted as an employer within the
+
+ meaning of the statutes which form the basis of this matter.
+
+       9.      At all times material hereto, Plaintiff was an employee of Defendant within
+
+ the meaning of the statutes which form the basis of this matter.
+
+III.   JURISDICTION AND VENUE
+
+       10.     The causes of action which form the basis of this matter arise under the
+
+ ADEA, the PHRA, and the PFPO.
+
+       11.     The District Court has jurisdiction over Count I (ADEA) pursuant to 28
+
+ U.S.C. §1331.
+
+       12.     The District Court has jurisdiction over Count II (PHRA) pursuant to 28
+
+ U.S.C. §1367.
+
+       13.     The District Court has jurisdiction over Count III (PFPO) pursuant to 28
+
+ U.S.C. §1367.
+
+       14.     Venue is proper in the District Court under 28 U.S.C. §1391(b).
+
+       15.     On or about March 28, 2019, Plaintiff filed a Complaint of Discrimination
+
+ with the Pennsylvania Human Relations Commission (“PHRC”) complaining of acts of
+
+
+
+
+                                             3
+      Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 7 of 15
+
+
+
+
+discrimination and retaliation alleged herein. The Complaint was cross-filed with the
+
+Equal Employment Opportunity Commission (“EEOC”). Attached hereto, incorporated
+
+herein and marked as Exhibit “1” is a true and correct copy of the PHRC Complaint of
+
+Discrimination (with personal identifying information redacted).
+
+      16.     On or about June 4, 2019, Plaintiff filed an Amended Complaint of
+
+Discrimination with the PHRC complaining of acts of discrimination and retaliation
+
+alleged herein. The Amended Complaint was cross-filed with the EEOC. Attached hereto,
+
+incorporated herein and marked as Exhibit “2” is a true and correct copy of the Amended
+
+PHRC Complaint of Discrimination (with personal identifying information redacted).
+
+      17.     On or about February 1, 2021, the EEOC issued to Plaintiff a Notice of
+
+Right to Sue. Attached hereto, incorporated herein and marked as Exhibit “3” is a true and
+
+correct copy of that Notice (with minor redactions for purposes of electronic filing of
+
+confidential/identifying information).
+
+      18.     Plaintiff is filing this complaint within ninety (90) days of her receipt of this
+
+Notice.
+
+      19.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.   FACTUAL ALLEGATIONS
+
+      20.     Plaintiff was hired by Defendant on or about September 2, 2014.
+
+      21.     Plaintiff consistently performed her job duties in a highly competent
+
+manner.
+
+      22.     Plaintiff last held the position of Talent Acquisition Partner.
+
+      23.     Plaintiff last reported to Patrick Wicks (38), Director, Talent Acquisition.
+
+
+
+
+                                             4
+      Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 8 of 15
+
+
+
+
+Wicks (38) reported to Robin Harris (49), Senior Vice President of Human Resources.
+
+Harris (49) reported to Christopher Fazzini (56), President and Chief Executive Officer.
+
+      24.      Before Plaintiff began reporting to Wicks (38), Plaintiff had been reporting
+
+to Paul Champi (59), Assistant Vice President, Human Resources.
+
+      25.      In or about August 2017, Defendant pushed out Champi (59).
+
+      26.      In or about November 2017, Plaintiff began reporting to Wicks (38).
+
+      27.      Plaintiff was the oldest employee reporting to Wicks (38).
+
+      28.      Wicks (38) had no role in Plaintiff being hired.
+
+      29.      Before Plaintiff began reporting to Wicks (38), Plaintiff had no performance
+
+or disciplinary issues and no indication that she was underperforming or that her job was
+
+in jeopardy.
+
+      30.      Before Plaintiff began reporting to Wicks (38), she received positive
+
+performance reviews.
+
+      31.      In April 2018, Wicks (38) told Plaintiff that she should look for a position
+
+outside of the Human Resources Department.
+
+      32.      In September 2018, Defendant hired Kelly Johnson (24), Talent Acquisition
+
+Specialist, reporting to Wicks (38).
+
+      33.      Defendant treated Plaintiff worse, and in a more hostile and dismissive
+
+manner, than the younger employees, including Johnson (24).
+
+      34.      In or about mid-November 2018, Plaintiff heard Johnson comment that
+
+another employee was “older than dirt.” Plaintiff objected to Johnson’s comment, and
+
+told Johnson (24) that she could not state that an employee is “older than dirt.”
+
+      35.      Employees of Defendant used the word “old” when discussing employees
+
+
+
+
+                                            5
+      Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 9 of 15
+
+
+
+
+and their ages.
+
+       36.        On November 27, 2018, in a meeting with Wicks (38) and Viola Lazzar
+
+(61), Senior Human Resources Business Partner, Defendant placed Plaintiff on a PIP.
+
+       37.        The PIP was scheduled to run for two (2) months.
+
+       38.        Before the PIP meeting, Plaintiff had no indication that Defendant allegedly
+
+found her performance deficient.
+
+       39.        Defendant unjustly criticized Plaintiff’s behavior and performance.
+
+       40.        Plaintiff was reprimanded for telling Johnson (24) that she could not state
+
+that an employee was “older than dirt.”
+
+       41.        Plaintiff complained that Johnson (24) should not state that an employee
+
+was “older than dirt,” since it was obviously an age-based comment.
+
+       42.        Johnson (24) was praised, and Plaintiff was told that Johnson (24) was a
+
+welcomed addition to the department.
+
+       43.        Plaintiff complained that Defendant was treating Johnson (24) much better
+
+than Plaintiff.
+
+       44.        Plaintiff was Wicks’ only direct report who was placed on a PIP on
+
+November 27, 2018.
+
+       45.        Defendant failed to provide Plaintiff with any explanation as to how her
+
+performance was allegedly worse than that of younger and noncomplaining employees
+
+who were not placed on a PIP.
+
+       46.        Plaintiff complied with the terms of the PIP.
+
+       47.        On December 3, 2018, Plaintiff provided to Wicks (38) her written rebuttal
+
+to the PIP.
+
+
+
+
+                                               6
+      Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 10 of 15
+
+
+
+
+       48.    In Plaintiff’s written rebuttal, she complained of age discrimination.
+
+       49.    Plaintiff complained that she “find it offensive that the word ‘old’ is
+
+frequently used when discussing people and referring to their ages.” Plaintiff complained
+
+that, “[a]s an example,” she “was told, ‘he is older than dirt.’”
+
+       50.    Wicks (38) refused to discuss Plaintiff’s rebuttal, including her age
+
+discrimination complaints, with her.
+
+       51.    Defendant did not investigate Plaintiff’s complaints of age discrimination.
+
+       52.    Defendant failed to remedy or prevent the age discrimination against
+
+Plaintiff.
+
+       53.    In or about early January 2019, Plaintiff was told by Harris (49) that it had
+
+been a while since she had studied and attended school. Plaintiff understood this comment,
+
+and the tone in which it was said, to be evidence of an age bias.
+
+       54.    Plaintiff was held to a more stringent standard than the younger employees
+
+at Defendant were held.
+
+       55.    On or about January 26, 2019, Plaintiff’s PIP ended.
+
+       56.    On March 6, 2019, in a meeting with Wicks (38) and Lazzar, Plaintiff’s
+
+performance was criticized and Plaintiff was treated in a hostile and demeaning manner.
+
+       57.    On March 6, 2019, in a second meeting with Wicks (38) and Lazzar,
+
+Defendant terminated Plaintiff’s employment, effective immediately.
+
+       58.    Defendant presented Plaintiff with two (2) options: resign; or be terminated.
+
+       59.    The stated reason for Plaintiff’s termination was that “this [wa]s not the
+
+position for [her].”
+
+       60.    Plaintiff was Wick’s only direct report terminated on March 6, 2019.
+
+
+
+
+                                             7
+       Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 11 of 15
+
+
+
+
+       61.     Defendant retained all employees directly reporting to Wicks (38), all of
+
+whom were substantially younger: Johnson (24), Talent Acquisition Specialist; Kathleen
+
+McAvoy (25), Human Resources Assistant; and Ronda Hill (45), Receptionist. Plaintiff
+
+was more qualified to perform these employees’ positions.
+
+       62.     Defendant replaced Plaintiff with Kem Ukogu (28), Corporate Functions
+
+and Diversity Acquisition Specialist. Plaintiff was more qualified to perform her position
+
+and job duties than the substantially younger employee with whom Defendant replaced
+
+her.
+
+       63.     Defendant’s stated reason for Plaintiff’s termination is pretext.
+
+       64.     Plaintiff’s age was a motivating and/or determinative factor in connection
+
+with Defendants’ discriminatory and retaliatory treatment of Plaintiff, including without
+
+limitation placing her on an unwarranted PIP and terminating her employment.
+
+       65.     Plaintiff’s opposition to and complaints of age discrimination were
+
+motivating and/or determinative factors in connection with Defendant’s retaliatory
+
+treatment of Plaintiff, including without limitation, placing her on an unwarranted PIP and
+
+terminating her employment.
+
+       66.     As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendant, Plaintiff has in the past incurred, and may in the future incur, a loss
+
+of earnings and/or earning capacity, loss of benefits, pain and suffering, embarrassment,
+
+humiliation, loss of self-esteem, mental anguish, and loss of life’s pleasures, the full extent
+
+of which is not known at this time.
+
+       67.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+
+
+
+                                              8
+     Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 12 of 15
+
+
+
+
+and until this Court grants the relief requested herein.
+
+                                   COUNT I – ADEA
+
+      68.     Plaintiff incorporates by reference the foregoing paragraphs of this
+
+Complaint, as if fully set forth herein.
+
+      69.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant has violated the ADEA.
+
+      70.     Defendant’s violations of the ADEA were intentional and willful under the
+
+circumstances, warranting the imposition of liquidated damages.
+
+      71.     As a direct and proximate result of Defendants’ violation of the ADEA,
+
+Plaintiff has suffered the injuries, damages, and losses set forth herein.
+
+      72.     Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein.
+
+      73.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+      74.     No previous application has been made for the relief requested herein.
+
+                                   COUNT II – PHRA
+
+      75.     Plaintiff incorporates by reference the foregoing paragraphs of this
+
+Complaint, as if fully set forth herein.
+
+      76.     Defendant, by the above improper and discriminatory and retaliatory acts,
+
+has violated the PHRA.
+
+      77.     Defendant’s violations of the PHRA were intentional and willful.
+
+      78.     As a direct and proximate result of Defendant’s violation of the PHRA,
+
+
+
+
+                                              9
+     Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 13 of 15
+
+
+
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein.
+
+      79.     Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein.
+
+      80.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+      81.     No previous application has been made for the relief requested herein.
+
+                                   COUNT III – PFPO
+
+      82.     Plaintiff incorporates by reference the foregoing paragraphs of this
+
+Complaint, as if fully set forth herein.
+
+      83.     Defendant, by the above improper and discriminatory and retaliatory acts,
+
+has violated the PFPO.
+
+      84.     Defendant’s violations of the PFPO were intentional and willful, warranting
+
+the imposition of punitive damages.
+
+      85.     As a direct and proximate result of Defendant’s violation of the PFPO,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein.
+
+      86.      Plaintiff is entitled to all costs and attorneys’ fees incurred as a result of the
+
+unlawful behavior complained of herein
+
+      87.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+      88.     No previous application has been made for the relief requested herein.
+
+
+
+
+                                              10
+      Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 14 of 15
+
+
+
+
+                                           RELIEF
+
+       WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in
+
+favor of Plaintiff and against Defendant:
+
+                   (a)   declaring the acts and practices complained of herein to be in
+
+violation of the ADEA;
+
+                   (b)   declaring the acts and practices complained of herein to be in
+
+violation of the PHRA;
+
+                   (c)   declaring the acts and practices complained of herein to be in
+
+violation of the PFPO;
+
+                   (d)   enjoining and permanently restraining the violations alleged herein;
+
+                   (e)   entering judgment against the Defendant and in favor of the Plaintiff
+
+in an amount to be determined;
+
+                   (f)   awarding compensatory damages to make the Plaintiff whole for all
+
+lost earnings, earning capacity and benefits, past and future, which Plaintiff has suffered or
+
+may suffer as a result of Defendant’s improper conduct;
+
+                   (g)   awarding compensatory damages to Plaintiff for past and future pain
+
+and suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures,
+
+which Plaintiff has suffered or may suffer as a result of Defendant’s improper conduct;
+
+                   (h)   awarding liquidated damages to Plaintiff;
+
+                   (i)   awarding punitive damages to Plaintiff;
+
+                   (j)   awarding Plaintiff the costs of this action, together with reasonable
+
+attorney’s fees;
+
+
+
+
+                                              11
+      Case 2:21-cv-01902-JS Document 1 Filed 04/26/21 Page 15 of 15
+
+
+
+
+               (k)      awarding Plaintiff such other damages as are appropriate under the
+
+ADEA, PHRA and PFPO; and
+
+               (l)      granting such other and further relief as this Court deems
+
+appropriate.
+
+
+
+
+                                      CONSOLE MATTIACCI LAW, LLC
+
+Dated: April 26, 2021                 BY:    _/s/ Laura C. Mattiacci________
+                                             Laura C. Mattiacci, Esquire
+                                             1525 Locust Street, 9th Floor
+                                             Philadelphia, PA 19102
+                                             Telephone: (856) 854-4000
+                                             Facsimile: (215) 565-2852
+                                             mattiacci@consolelaw.com
+
+                                             Attorney for Plaintiff
+                                             Kathleen Gallelli
+
+
+
+
+                                            12
+

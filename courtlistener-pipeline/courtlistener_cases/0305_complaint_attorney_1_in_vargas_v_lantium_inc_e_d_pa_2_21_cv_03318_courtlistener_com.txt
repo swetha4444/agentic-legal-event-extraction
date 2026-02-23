@@ -1,0 +1,704 @@
+Source URL: https://www.courtlistener.com/docket/60083371/1/vargas-v-lantium-inc/
+Title: Complaint (Attorney) – #1 in VARGAS v. LANTIUM, INC. (E.D. Pa., 2:21-cv-03318) – CourtListener.com
+
+JS 44 (Rev. 10/20)                  Case 2:21-cv-03318-CDJ
+                                                      CIVILDocument
+                                                            COVER 1SHEET
+                                                                     Filed 07/26/21 Page 1 of 13
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+          KRYSTAL VARGAS                                                                                       LANTIUM, INC.
+    (b)   County of Residence of First Listed Plaintiff                CAMDEN                                  County of Residence of First Listed Defendant                                 MONTGOMERY
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+
+          Sidney L. Gold, Esquire - Sidney L. Gold & Assoc., P.C.
+          1835 Market St., Ste. 515, Phila, PA 19103 215-569-1999
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                           and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF          DEF                                              PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State          ✖ 1            1           Incorporated or Principal Place         4     4
+                                                                                                                                                                  of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2              2      Incorporated and Principal Place                5        5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                                  of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3              3      Foreign Nation                                  6        6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                          BANKRUPTCY                                   OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158                            375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                                   376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                                       3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                                  410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                 820 Copyrights                                  430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                               830 Patent                                      450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                               835 Patent - Abbreviated                        460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                      New Drug Application                        470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                       840 Trademark                                       Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets                        480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                  Act of 2016                                     (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                               485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                                      Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                                 490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)                             850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                               Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                               890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                                 891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                               893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                                895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff                            Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                               896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party                              899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                                     Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                                            Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                                 950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                               State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                                8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                                 Litigation -
+                                                                                                                                  (specify)                 Transfer                                     Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             TITLE VII, PHRA
+VI. CAUSE OF ACTION                          Brief description of cause:
+
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                               150,000 IN EXCESS                                JURY DEMAND:                           ✖   Yes       No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+                                                                                                                                               Digitally signed by Sidney L. Gold, Esquire
+07/26/2021                                                                  Sidney L. Gold, Esquire                                            Date: 2021.07.26 14:32:07 -04'00'
+
+
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                                         MAG. JUDGE
+JS 44 Reverse (Rev. 10/20)   Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 2 of 13
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statue.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+                             Case 2:21-cv-03318-CDJ
+                                                UNITEDDocument   1 Filed
+                                                      STATES DISTRICT    07/26/21 Page 3 of 13
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                       6555 Maple Avenue, Pennsauken, New Jersey 08109
+Address of Plaintiff: ______________________________________________________________________________________________
+                                     721 Arbor Way, Suite 25, Blue Bell, Pennsylvania 19422
+Address of Defendant: ____________________________________________________________________________________________
+                                                   721 Arbor Way, Suite 25, Blue Bell, Pennsylvania 19422
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      07/26/2021
+DATE: __________________________________
+                                                                          /s/ Sidney L. Gold, Esq.
+                                                             __________________________________________                                     21374
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+     SIDNEY L. GOLD, ESQUIRE counsel of record or pro se plaintiff, do hereby certify:
+I, ____________________________________________,
+
+      ✔       Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     ✔        Relief other than monetary damages is sought.
+
+
+      07/26/2021
+DATE: __________________________________
+                                                                                /s/ Sidney L. Gold, Esq.
+                                                             __________________________________________                                     21374
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+             Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 4 of 13
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+    KRYSTAL VARGAS                                :                          CIVIL ACTION
+                                                  :
+                       v.                         :
+    LANTIUM, INC.                                 :
+                                                  :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( )
+                                                                                                      ✔
+
+
+
+
+07/26/2021                         /s/ Sidney L. Gold, Esq.        PLAINTIFF
+Date                                Attorney-at-law                    Attorney for
+(215) 569-1999                  (215) 569-3870                        sgold@discrimlaw.net
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+           Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 5 of 13
+
+                              Civil Justice Expense and Delay Reduction Plan
+                             Section 1:03 - Assignment to a Management Track
+
+    (a)          The clerk of court will assign cases to tracks (a) through (d) based on the initial pleading.
+
+    (b)           In all cases not appropriate for assignment by the clerk of court to tracks (a) through (d), the
+plaintiff shall submit to the clerk of court and serve with the complaint on all defendants a case management
+track designation form specifying that the plaintiff believes the case requires Standard Management or
+Special Management. In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on the
+plaintiff and all other parties, a case management track designation form specifying the track to which that
+defendant believes the case should be assigned.
+    (c)         The court may, on its own initiative or upon the request of any party, change the track
+assignment of any case at any time.
+
+     (d)         Nothing in this Plan is intended to abrogate or limit a judicial officer's authority in any case
+pending before that judicial officer, to direct pretrial and trial proceedings that are more stringent than those
+of the Plan and that are designed to accomplish cost and delay reduction.
+     (e)        Nothing in this Plan is intended to supersede Local Civil Rules 40.1 and 72.1, or the
+procedure for random assignment of Habeas Corpus and Social Security cases referred to magistrate judges
+of the court.
+
+                            SPECIAL MANAGEMENT CASE ASSIGNMENTS
+                             (See §1.02 (e) Management Track Definitions of the
+                              Civil Justice Expense and Delay Reduction Plan)
+
+     Special Management cases will usually include that class of cases commonly referred to as "complex
+litigation" as that term has been used in the Manuals for Complex Litigation. The first manual was prepared
+in 1969 and the Manual for Complex Litigation Second, MCL 2d was prepared in 1985. This term is
+intended to include cases that present unusual problems and require extraordinary treatment. See §0.1 of the
+first manual. Cases may require special or intense management by the court due to one or more of the
+following factors: (1) large number of parties; (2) large number of claims or defenses; (3) complex factual
+issues; (4) large volume of evidence; (5) problems locating or preserving evidence; (6) extensive discovery;
+(7) exceptionally long time needed to prepare for disposition; (8) decision needed within an exceptionally
+short time; and (9) need to decide preliminary issues before final disposition. It may include two or more
+related cases. Complex litigation typically includes such cases as antitrust cases; cases involving a large
+number of parties or an unincorporated association of large membership; cases involving requests for
+injunctive relief affecting the operation of large business entities; patent cases; copyright and trademark
+cases; common disaster cases such as those arising from aircraft crashes or marine disasters; actions brought
+by individual stockholders; stockholder's derivative and stockholder's representative actions; class actions or
+potential class actions; and other civil (and criminal) cases involving unusual multiplicity or complexity of
+factual issues. See §0.22 of the first Manual for Complex Litigation and Manual for Complex Litigation
+Second, Chapter 33.
+            Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 6 of 13
+
+
+
+
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+KRYSTAL VARGAS,                                :
+                                               :
+                         Plaintiff,            :
+                                               :
+                v.                             :       CIVIL ACTION NO.__________
+                                               :
+LANTIUM, INC.,                                 :
+                                               :
+                         Defendant.            :
+                                               :
+
+                               COMPLAINT AND JURY DEMAND
+
+I.     PRELIMINARY STATEMENT:
+
+       1.            This is an action for an award of damages, attorneys’ fees and other relief on
+
+behalf of the Plaintiff, Krystal Vargas (“Plaintiff Vargas”), a former employee of the Defendant,
+
+Lantium, Inc. (“Defendant”), who has been harmed by the Defendant’s discriminatory and
+
+retaliatory employment practices.
+
+       2.       This action is brought under Title VII of the Civil Rights Act of 1964, 42 U.S.C.
+
+§2000(e), et seq., as amended by the Civil Rights Act of 1991 (“Title VII”) and the Pennsylvania
+
+Human Relations Act (“PHRA”), 43 P.S. §951 et seq.
+
+II.    JURISDICTION AND VENUE:
+
+       3.       The jurisdiction of this Court is invoked, and venue is proper in this judicial
+
+district, pursuant to 28 U.S.C. §§1331 and 1391, as Plaintiff Vargas’ claims are substantively
+
+based on Title VII.
+
+       4.       The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C.
+
+§1367 to consider Plaintiff Vargas’ claims arising under the PHRA.
+
+
+
+
+                                                   1
+               Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 7 of 13
+
+
+
+
+          5.       All conditions precedent to the institution of this suit have been fulfilled and
+
+Plaintiff Vargas has satisfied all other jurisdictional prerequisites to the maintenance of this
+
+action. On May 11, 2021, a Notice of Right to Sue was issued by the Equal Employment
+
+Opportunity Commission and this action has been filed within ninety (90) days of receipt of said
+
+notice.
+
+III.      PARTIES:
+
+          6.       Plaintiff, Krystal Vargas (“Plaintiff Vargas”), is an adult individual and citizen of
+
+the State of New Jersey, residing therein at 6555 Maple Avenue, Pennsauken, New Jersey 08109.
+
+          7.         Defendant, Lantium, Inc. (“Defendant”), is a corporation duly organized and
+
+existing under the laws of the Commonwealth of Pennsylvania, maintaining a place of business
+
+therein located at 721 Arbor Way, Suite 25, Blue Bell, Pennsylvania 19422.
+
+          8.      At all times relevant hereto, Defendant was acting through its agents, servants, and
+
+employees, who were acting within the scope of their authority, course of employment, and
+
+under the direct control of the Defendant.
+
+          9.       At all times material herein, the Defendant has been a “person” and “employer” as
+
+defined by Title VII and the PHRA, and has been, and is, subject to the provisions of each said
+
+Act.
+
+IV.       STATEMENT OF FACTS:
+
+          10.      Plaintiff Vargas, a Hispanic female, was employed by the Defendant from on or
+
+about May 1, 2017 until on or about May 8, 2020, the date of her unlawful termination.
+
+          11.      Upon commencing employment with the Defendant, Plaintiff Vargas held the
+
+position of Office Manager. In or about August of 2017, as a result of her exemplary work
+
+performance, Plaintiff Vargas earned a promotion to the position of Human Resources and
+
+
+
+                                                     2
+          Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 8 of 13
+
+
+
+
+Finance Manager. At all times relevant hereto, Plaintiff Vargas maintained an excellent job
+
+performance rating in said capacities.
+
+        12.    Following her promotion, in addition to her assigned duties as Human Resources
+
+and Finance Manager, Plaintiff Vargas was also required to continue to perform the job functions
+
+of the Office Manager position. Additionally, Plaintiff Vargas took charge of various duties
+
+outside the scope of her position, such as planning a fundraising event for a non-profit at the
+
+request of Joel Goins (“Goins”), Chief Executive Officer.
+
+        13.    As such, on or about January 6, 2020, Plaintiff Vargas met with Goins and Jeff
+
+Middleton (“Middleton”), Founder and Co-Owner, and requested a salary increase of ten
+
+thousand ($10,000) per annum based on her achievements in her multiple positions. Goins and
+
+Middleton assured Plaintiff Vargas that she was “invaluable” and was a “tremendous asset to the
+
+company.” They promised to consider Plaintiff Vargas’s request for a salary increase and
+
+advised her that they would make a decision by the end of the month.
+
+        14.    Thereafter, on or about March 25, 2020, Plaintiff Vargas learned that Defendant
+
+had offered William Kobersy (“Kobersy”), Project Manager, a similarly-situated Caucasian male
+
+employee, a twenty-five thousand ($25,000) per annum salary increase. Importantly, as of said
+
+date, Defendant had failed to address Plaintiff Vargas’ request for a salary increase.
+
+        15.    Accordingly, on or about March 25, 2020, Plaintiff Vargas sent Goins and
+
+Middleton a follow up email seeking clarification regarding her request for a salary increase. In
+
+response, Goins confirmed that Kobersy had, in fact, received the aforesaid salary increase.
+
+Rather than address Plaintiff Vargas’ concerns, however, Goins chastised Plaintiff Vargas for
+
+discussing salary information with another employee and directed her to refrain from doing so in
+
+the future.
+
+
+
+                                                 3
+          Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 9 of 13
+
+
+
+
+       16.     Shortly thereafter, on or about April 1, 2020, Plaintiff Vargas registered a formal
+
+complaint of sex and race discrimination with Goins and Middleton. Plaintiff Vargas specifically
+
+provided two news articles regarding disparate compensation for Hispanic women and expressed
+
+her desire to be treated equally.
+
+       17.     In response, on or about April 3, 2020, Defendant’s legal counsel contacted
+
+Plaintiff Vargas to discuss her aforesaid complaint. Plaintiff Vargas sent an email to Goins and
+
+Middleton expressing her concern that she would be retaliated against for raising concerns of
+
+discrimination in the workplace, to which Goins responded by encouraging her to cooperate with
+
+counsel’s investigation.
+
+       18.     As such, on or about April 6, 2020, Plaintiff Vargas spoke with Defendant’s
+
+counsel via telephone, during which she reiterated her belief that Defendant was compensating
+
+her at a rate of pay less than that of her similarly situated male and Caucasian colleagues.
+
+However, on or about April 20, 2020, legal counsel advised Plaintiff Vargas that the
+
+“investigation” rendered no findings of discrimination.
+
+       19.     On or about May 8, 2020, in a blatant act of retaliation, Defendant abruptly
+
+terminated Plaintiff Vargas’ employment. In support thereof, Goins claimed that Plaintiff
+
+Vargas’ termination was because she was not a “good fit” for the company. Significantly,
+
+Plaintiff Vargas had worked for Defendant for over three (3) years with no performance issues
+
+prior to her complaint of discrimination.
+
+       20.     Plaintiff Vargas believes and avers that no legitimate business reason exists for
+
+the termination of her employment, and that the Defendant actually terminated her employment
+
+on the basis of her sex (female) and race (Hispanic), and/or in retaliation for her opposition to
+
+unlawful discrimination in the workplace.
+
+
+
+                                                4
+         Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 10 of 13
+
+
+
+
+                                            COUNT I
+              (Title VII - Race Discrimination, Sex Discrimination, Retaliation)
+                                 Plaintiff Vargas v. Defendant
+
+       21.     Plaintiff Vargas incorporates by reference paragraphs 1 through 20 of this
+
+Complaint as though fully set forth at length herein.
+
+       22.     The actions of the Defendant, through its agents, servants and employees, in
+
+subjecting Plaintiff Vargas to discrimination based on her race (Hispanic) and sex (female), and
+
+in retaliating against her for opposing discrimination in the workplace, constituted violations of
+
+Title VII.
+
+       23.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by Defendant in violation of Title VII, Plaintiff Vargas has
+
+sustained permanent and irreparable harm, which caused her to sustain a loss of earnings, plus
+
+the value of certain benefits, plus loss of future earning power, plus back pay, front pay, and
+
+interest due thereon.
+
+       24.     As further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by Defendant in violation of Title VII, Plaintiff Vargas
+
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                        COUNT II
+               (PHRA - Race Discrimination, Sex Discrimination, Retaliation)
+                              Plaintiff Vargas v. Defendant
+
+       25.     Plaintiff Vargas incorporates by reference paragraphs 1 through 24 of this
+
+Complaint as though fully set forth at length herein.
+
+       26.     The actions of the Defendant, through its agents, servants and employees, in
+
+subjecting Plaintiff Vargas to discrimination based on her race (Hispanic) and sex (female), and
+
+
+
+
+                                                 5
+         Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 11 of 13
+
+
+
+
+in retaliating against her for opposing discrimination in the workplace, constituted violations of
+
+the PHRA.
+
+       27.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by Defendant in violation of the PHRA, Plaintiff Vargas has
+
+sustained permanent and irreparable harm, which caused her to sustain a loss of earnings, plus
+
+the value of certain benefits, plus loss of future earning power, plus back pay, front pay, and
+
+interest due thereon.
+
+       28.     As further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by Defendant in violation of the PHRA, Plaintiff Vargas
+
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                    PRAYER FOR RELIEF
+
+       29.     Plaintiff Vargas incorporates by reference paragraphs 1 through 28 of this
+
+Complaint as though fully set forth at length herein.
+
+       WHEREFORE, Plaintiff Vargas requests that this Court enter judgment in her favor and
+
+against the Defendant, and order that:
+
+       a.      Defendant compensate Plaintiff Vargas with a rate of pay and other benefits and
+
+emoluments of employment to which she would have been entitled had she not been subjected to
+
+unlawful discrimination;
+
+       b.      Defendant compensate Plaintiff Vargas with an award of front pay, if appropriate;
+
+       c.      Defendant pay to Plaintiff Vargas punitive damages, compensatory damages for
+
+future pecuniary losses, pain, suffering, inconvenience, mental anguish, loss of enjoyment of life
+
+and other nonpecuniary losses as allowable;
+
+
+
+
+                                                 6
+         Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 12 of 13
+
+
+
+
+       d.     Defendant pay to Plaintiff Vargas pre and post judgment interest, costs of suit and
+
+attorney and expert witness fees as allowed by law;
+
+       e.     The Court award such other relief as is deemed just and proper.
+
+                                       JURY DEMAND
+
+       Plaintiff Vargas demands trial by jury.
+
+
+                                                      SIDNEY L. GOLD & ASSOC., P.C.
+
+                                             By:      /s/ Sidney L. Gold, Esquire
+                                                      SIDNEY L. GOLD, ESQUIRE
+                                                      I.D. No.: 21374
+                                                      1835 Market Street, Suite 515
+                                                      Philadelphia, PA 19103
+                                                      (215) 569-1999
+                                                      Attorneys for Plaintiff
+
+DATED: July 26, 2021
+
+
+
+
+                                                 7
+         Case 2:21-cv-03318-CDJ Document 1 Filed 07/26/21 Page 13 of 13
+
+
+
+
+                                        VERIFICATION
+
+        I hereby verify that the statements contained in this Complaint are true and correct to the
+
+best of my knowledge, information and belief. I understand that false statements herein are
+
+made subject to the penalties of Title 18 Pa. C.S.A. §4904, relating to unsworn falsification to
+
+authorities.
+
+
+
+
+                                                     Krystal Vargas
+DATE: Jul 6, 2021                                    __________________________________
+                                                     Krystal Vargas (Jul 6, 2021 14:32 EDT)
+
+                                                     KRYSTAL VARGAS, PLAINTIFF
+

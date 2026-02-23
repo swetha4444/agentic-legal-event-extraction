@@ -1,0 +1,633 @@
+Source URL: https://www.courtlistener.com/docket/70220509/1/pierre-v-keurig-dr-pepper-inc/
+Title: Complaint (Attorney) – #1 in PIERRE v. KEURIG DR PEPPER INC. (E.D. Pa., 5:25-cv-02352) – CourtListener.com
+
+         Case 5:25-cv-02352-JLS                Document 1          Filed 05/08/25          Page 1 of 13
+
+
+
+
+                           UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+____________________________________
+JIMMY PIERRE                          :
+724 Franklin Street, Apt 3R           :
+Reading, PA 19602                     :     CIVIL ACTION
+                                      :
+               Plaintiff,             :     CASE NO.: _______________
+                                      :
+        v.                            :     JURY TRIAL DEMANDED
+                                      :
+KEURIG DR PEPPER INC.                 :
+d/b/a KDP                             :
+7350 Industrial Boulevard             :
+Allentown, PA 18106                   :
+        and                           :
+MOTT’S LLP                            :
+6425 Hall of Fame Lane                :
+Frisco, TX 75034                      :
+                                      :
+               Defendants.            :
+                                      :
+
+                                      CIVIL ACTION COMPLAINT
+
+         Plaintiff, Jimmy Pierre (hereinafter referred to as “Plaintiff” unless indicated otherwise),
+
+hereby complains as follows against Defendants and avers as follows:
+
+                                              INTRODUCTION
+
+         1.       Plaintiff initiates the instant action to redress violations by Keurig Dr Pepper Inc.,
+
+d/b/a KDP and Mott’s LLP (hereinafter collectively referred to as “Defendants” unless indicated
+
+otherwise) of Title VII of the Civil Rights Act of 1964 (“Title VII – 42 U.S.C. §§ 2000d et. seq.),
+
+Section 1981 of the Civil Rights Act of 1866 (“Section 1981” – 42 U.S.C. § 1981) and the
+
+Pennsylvania Human Relations Act (“PHRA”).1 Plaintiff asserts herein that he was not promoted
+
+
+
+1
+ Plaintiff’s claims under the PHRA are referenced herein for notice purposes. He is required to wait one full year
+before initiating a lawsuit from date of dual-filing with the EEOC. Plaintiff must however file his lawsuit in advance
+of same because of the date of issuance of his federal right-to-sue-letter under the ADA. Plaintiff’s PHRA claims
+will mirror identically his federal claims under the ADA.
+         Case 5:25-cv-02352-JLS           Document 1        Filed 05/08/25       Page 2 of 13
+
+
+
+
+and was terminated from Defendants, because of his race, national origin and/or in retaliation for
+
+his complaints of discrimination.
+
+                                   JURISDICTION AND VENUE
+
+        2.       This Court, in accordance with 28 U.S.C. 1331, has jurisdiction over Plaintiff’s
+
+claims because this civil action arises under a law of the United States.
+
+        3.       This Court may properly maintain personal jurisdiction over Defendants because
+
+Defendants’ contacts with this state and this judicial district are sufficient for the exercise of
+
+jurisdiction over Defendants to comply with traditional notions of fair play and substantial
+
+justice, satisfying the standard set forth by the United States Supreme Court in International
+
+Shoe Co. v. Washington, 326 U.S. 310 (1945) and its progeny.
+
+        4.       Pursuant to 28 U.S.C. § 1391(b)(1) and (b)(2), venue is properly laid in this
+
+district because all of the acts and/or omissions giving rise to the claims set forth herein occurred
+
+in this judicial district.
+
+        5.       Plaintiff is proceeding herein (in part) under Title VII and has properly exhausted
+
+his administrative remedies by timely filing a Charge of Discrimination with the Equal
+
+Employment Opportunity Commission (“EEOC”) and by filing the instant lawsuit within ninety
+
+(90) days of receiving a notice of dismissal and/or right to sue letter from the EEOC.
+
+                                               PARTIES
+
+        6.       The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        7.       Plaintiff is an adult individual, with an address as set forth in the caption.
+
+        8.       Defendant Keurig Dr Pepper Inc., d/b/a KDP (“KDP,” if referred to individually)
+
+is a beverage and coffeemaker conglomerate which operates over 125 brands.
+
+
+
+
+                                                    2
+         Case 5:25-cv-02352-JLS              Document 1         Filed 05/08/25         Page 3 of 13
+
+
+
+
+        9.       Mott’s LLP (“Mott’s,” if referred to individually) is a subsidiary of KDP.
+
+Defendants represented in their Position Statement to the EEOC that Mott’s employed Plaintiff. 2
+
+        10.       While Defendants admit that Mott’s was Plaintiff’s employer, Plaintiff was also
+
+treated in all functional respects like a KDP employee. KDP appeared on Plaintiff's pay and tax
+
+documentation; Plaintiff received a KDP handbook; Plaintiff was required to follow KDP
+
+policies and procedures; Plaintiff corresponded and complained to Human Resources personnel
+
+with a KDP email address; and Plaintiff’s termination documentation was set forth on a KDP
+
+disciplinary form.
+
+        11.      Defendants’ management had the ability to manage Plaintiff, discipline Plaintiff,
+
+give directives to Plaintiff, and make decisions regarding Plaintiff’s employment. Plaintiff was
+
+permitted to address his work concerns with Defendants’ management and was obligated to
+
+follow the policies of Defendants. Thus, for the foregoing reasons, Defendants may be treated as
+
+a single and/or joint employer for purposes of the instant action.
+
+        12.      Upon information and belief, because of their interrelation of operations, common
+
+ownership or management, centralized control of labor relations, common ownership or financial
+
+controls, and other factors, Defendants are sufficiently interrelated and integrated in their
+
+activities, labor relations, ownership and management that they may be treated as a single and/or
+
+joint employer for purposes of the instant action.
+
+        13.      At all times relevant herein, Defendants acted by and through their agents,
+
+servants and employees, each of whom acted at all times relevant herein in the course and scope
+
+of their employment with and for Defendants.
+
+2
+  Although Mott’s was not expressly named in Plaintiff’s EEOC Charge, Plaintiff is permitted to proceed herein
+against Mott’s, since Mott’s received notice of the Charge, and it has a shared commonality of interest with KDP.
+See Glus v. G.C. Murphy Co., 629 F.2d 248, 251 (3d Cir. 1980), vacated on other grounds sub nom., Retail,
+Wholesale & Dept. Store Union v. G.C. Murphy Co., 451 U.S. 935, 101 S.Ct. 2013, 68 L.Ed.2d 321 (1981); see also
+Kinnally v. Bell of Pennsylvania, 748 F.Supp. 1136, 1140 (E.D.Pa. 1990).
+
+
+                                                       3
+        Case 5:25-cv-02352-JLS          Document 1         Filed 05/08/25     Page 4 of 13
+
+
+
+
+                                  FACTUAL BACKGROUND
+
+        14.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        15.    Plaintiff is a black (Haitian-born) male.
+
+        16.    Plaintiff was hired by Defendants effective on or about March 22, 2022; and in
+
+total, was employed by Defendants more than 2.5 years (until termination on or about November
+
+14, 2024).
+
+        17.    At all relevant times herein, Plaintiff was employed within Defendants’
+
+warehouse and distribution center located at 7350 Industrial Boulevard, Allentown, PA 18106.
+
+        18.    During this timeframe, Plaintiff was employed by Defendants as a laborer and
+
+performed a variety of duties (at times during Plaintiff’s tenure he was assigned to work as a
+
+sleever, car upper, jones packer, multi packer and tray packer). Plaintiff was very versatile in his
+
+knowledge and ability to operate machinery or equipment.
+
+        19.    Plaintiff’s direct supervisor was Darren Hilmes (“Hilmes”). Hilmes is Caucasian
+
+and supervised Plaintiff for his last approximate year of employment.
+
+        20.    Hilmes was supervised by a manager named David (possibly David Armendariz
+
+based upon online research, but David’s last name is unknown). Nonetheless, Plaintiff’s
+
+management hierarchy was non-black (as was overall management within Defendants in
+
+general).
+
+        21.    As of termination, Plaintiff’s specific job title was Production Tech II, and was
+
+considered to work within Defendants’ Operations Department (in Allentown, Pennsylvania).
+
+        22.    Plaintiff held the same job title (Production Tech II) from hire through
+
+termination (a period, as aforesaid, of almost 3 years). In this role as of termination, Plaintiff was
+
+
+
+
+                                                  4
+       Case 5:25-cv-02352-JLS           Document 1       Filed 05/08/25     Page 5 of 13
+
+
+
+
+earning $27.03 per hour and worked 40-plus hours regularly as a full-time employee (offering or
+
+accepting overtime when feasible).
+
+       23.      Based upon Plaintiff’s communications with his coworkers, they formed the
+
+opinion that black employees were treated discriminatorily in many ways and often were
+
+subjected to harsher discipline than non-black employees (in several work areas / departments).
+
+By way of a few examples specific to Plaintiff:
+
+             a) Hilmes would yell or speak in a condescending manner to Plaintiff,
+                and treated Plaintiff as if he were stupid or dense. It was not
+                counseling. It was not disciplinary. It was not because Hilmes was
+                mad at something Plaintiff did or did not do. It was the way he
+                chose to communicate to Plaintiff and treat him like an (abused)
+                child or someone that he did not care for, unlike how he directed
+                non-black employees; and
+
+             b) Plaintiff speaks with a heavy or discernable accent, as he is
+                Haitian. But Plaintiff speaks English fluently. Hilmes would feign
+                not being able to understand Plaintiff; told him to repeat things;
+                and was dismissive by saying things like, well “whatever you are
+                saying,” do this or do that (while telling Plaintiff something) … as
+                if Plaintiff was speaking a different language or broken English.
+                Hilmes was visibly annoyed when Plaintiff spoke, which Plaintiff
+                attributed based upon his gestures and commentary to Plaintiff’s
+                accent. Hilmes was point-blank discriminatory.
+
+       24.      Plaintiff tolerated what he perceived to be a discriminatory atmosphere towards
+
+black employees in general in the workplace for a long time. Plaintiff tried to proverbially keep
+
+his head down and just work hard, hoping to continually prove himself and not make any waves.
+
+       25.      But Plaintiff admittedly became dissatisfied to the point where, in his last
+
+approximate eight (8) months of employment, Plaintiff did vocalize concerns of discrimination.
+
+       26.      The proverbial straw that was breaking the camel’s back and prompting Plaintiff
+
+to complain was his sentiment and feeling that he would not ever be moved up in Defendants’
+
+company for discriminatory reasons, as more fully explained infra.
+
+
+
+
+                                                  5
+        Case 5:25-cv-02352-JLS         Document 1       Filed 05/08/25      Page 6 of 13
+
+
+
+
+       27.     Plaintiff had aspirations (in the future) to work for Defendants as a lead,
+
+supervisor or manager, as he is very technical, very conscientious, very hard working, and
+
+worked just about any shift or any hours helpful to the business. But Plaintiff was being kept as a
+
+Production Tech II (and could not even obtain a standard promotion which far less qualified
+
+employees were receiving).
+
+       28.     Meanwhile, others with less tenure or who Plaintiff even mentored or trained
+
+were given elevations to higher positions, such as Production Tech III. They were non-black and
+
+non-Haitian.
+
+       29.     One female employee informed Plaintiff that she did not even want the
+
+promotion, but she was told that she was being given the elevation (initiated by management).
+
+       30.     Others were promoted who only had limited operational understanding of 1-3
+
+machines or work areas. Plaintiff had on the other hand became very skilled on least 5 machines
+
+and work stations / areas. Yet, Plaintiff was bypassed for promotions.
+
+       31.     As a result of being frustrated that even keeping Plaintiff’s head down and just
+
+being a great employee would accomplish nothing (as to upward mobility) in an already
+
+discriminatory atmosphere, Plaintiff felt compelled to complain of discrimination in the hope
+
+that he would be reconsidered for job promotions and to make the work environment more
+
+equitable.
+
+       32.     By the spring of 2024, Plaintiff started speaking with Hilmes on several
+
+occasions. Plaintiff: (a) asked why he was bypassed for promotions; (b) why others with less
+
+experience, skill or time at Defendants were getting elevated; and (c) mentioned his concerns
+
+that he felt held back or was being bypassed because, “I am black” and “I am Haitian.”
+
+
+
+
+                                                6
+       Case 5:25-cv-02352-JLS          Document 1      Filed 05/08/25         Page 7 of 13
+
+
+
+
+       33.    Plaintiff approximates that from the Spring of 2024 through his termination, he
+
+probably had about ten (10) discussions with management / human resources wherein Plaintiff
+
+stated that he felt “discriminated,” mistreated for being “black,” or mistreated for being
+
+“Haitian.”
+
+       34.    Plaintiff complained to Hilmes; his manager (Dave); and a human resources
+
+person (Monique Veras) who only stated to Plaintiff that she would speak with Hilmes about
+
+Plaintiff’s concerns. Plaintiff’s concerns about discriminatory treatment spanned the Spring
+
+through his termination from employment.
+
+       35.    Plaintiff believes and therefore avers that he was denied many promotions
+
+because of his race and/or national origin and/or complaints about discrimination. Defendants
+
+freely assigned elevations without job postings or the need to even apply. Plaintiff was denied
+
+such entitlements or promotions for a very long time, including during his last year (on many
+
+occasions).
+
+       36.    Plaintiff was then abruptly terminated on or about November 14, 2024 after
+
+having raised numerous complaints of discrimination. Plaintiff’s management terminated him on
+
+or about November 14, 2024, and gave him a “Corrective Action” letter which stated that
+
+Plaintiff was purportedly terminated for allegedly not handling something properly as a
+
+“Sleever” on 11/8/24.
+
+       37.    In reality, Defendants’ stated reason for Plaintiff’s termination was pretextual.
+
+Plaintiff: received no prior discipline; was terminated with no discussion or opportunity to
+
+respond; was blamed for a performance matter that was not even his responsibility or fault; and
+
+in close temporal proximity to his most recent complaint of discrimination.
+
+
+
+
+                                                7
+        Case 5:25-cv-02352-JLS             Document 1         Filed 05/08/25       Page 8 of 13
+
+
+
+
+        38.      Plaintiff believes and therefore avers that he was subjected to a hostile work
+
+environment; denied promotions; and terminated from Defendants under pretextual
+
+circumstances in violation of Title VII, Section 1981 and the PHRA for discriminatory reasons
+
+based on his race and/or national origin and/or complaints of discrimination.
+
+                                               Count I
+                Violations of Title VII of the Civil Rights Act of 1964 (“Title VII”)
+                          ([1] Race/Color/National Origin Discrimination;
+                        [2] Hostile Work Environment; and [3] Retaliation)
+
+        39.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        40.      During Plaintiff’s employment with Defendants, he was subjected to harassment
+
+and discrimination through disparate treatment because of his race/national origin.
+
+        41.      Plaintiff raised concerns about the discriminatory treatment he was subjected to
+
+on many occasions, but his complaints were never properly addressed.
+
+        42.      Plaintiff was denied promotional opportunities and was abruptly terminated under
+
+false and pretextual circumstances as discussed herein on or about November 14, 2024.
+
+        43.      In the interest(s) of absolute clarity, Plaintiff asserts that:
+
+              a) He was subjected to a hostile work environment on account of his race and/or
+                 national origin (and later due to complaints of discrimination);
+
+              b) He was denied opportunities for promotion because of his race and/or national
+                 origin (and later due to his complaints of discrimination); and
+
+              c) He was terminated because of his race and/or national origin and/or complaints of
+                 discrimination.
+
+        44.      Plaintiff believes and therefore avers that his race, color and/or national origin
+
+were motivating/determinative factors in Defendants’ decision(s) to take the aforementioned
+
+adverse actions against him.
+
+
+
+
+                                                     8
+        Case 5:25-cv-02352-JLS          Document 1       Filed 05/08/25      Page 9 of 13
+
+
+
+
+        45.    These actions constitute discrimination and retaliation in violation of Title VII.
+
+                                           Count II
+                            Violations of 42 U.S.C. Section 1981
+        ([1] Race Discrimination; [2] Hostile Work Environment; and [3] Retaliation)
+
+        46.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        47.    During Plaintiff’s employment with Defendants, he was subjected to harassment
+
+and discrimination through disparate treatment because of his race and/or ethnic characteristics.
+
+        48.    Plaintiff raised concerns about the discriminatory treatment he was subjected to
+
+on many occasions, but his complaints were never properly addressed.
+
+        49.    Plaintiff was abruptly terminated under false and pretextual circumstances as
+
+discussed herein on or about November 14, 2024.
+
+        50.    Plaintiff believes and therefore avers that his race, color, and complaints of
+
+discrimination were determinative factors in Defendants’ decision(s) to take the adverse actions
+
+against him as outlined in Count I of this Complaint.
+
+        51.    These actions constitute discrimination and retaliation under Section 1981.
+
+        WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+        A.     Defendants are to be prohibited from continuing to maintain their illegal policy,
+
+practice or custom of discriminating against employees and are to be ordered to promulgate an
+
+effective policy against such discrimination/retaliation and to adhere thereto;
+
+        B.     Defendants are to compensate Plaintiff, reimburse Plaintiff and make Plaintiff
+
+whole for any and all pay and benefits Plaintiff would have received had it not been for
+
+Defendants’ illegal actions, including but not limited to past lost earnings, future lost earnings,
+
+salary, pay increases, bonuses, medical and other benefits, training, promotions, pension, and
+
+seniority. Plaintiff should be accorded those benefits illegally withheld (if determined that there
+
+
+                                                 9
+       Case 5:25-cv-02352-JLS          Document 1       Filed 05/08/25      Page 10 of 13
+
+
+
+
+are such benefits) from the date he first suffered discrimination at the hands of Defendants until
+
+the date of verdict;
+
+       C.      Plaintiff is to be awarded punitive and liquidated damages (in accordance with the
+
+Statutes he is suing under), as permitted by applicable law, to punish Defendants for their willful,
+
+deliberate, malicious and outrageous conduct and to deter Defendants or other employers from
+
+engaging in such misconduct in the future;
+
+       D.      Plaintiff is to be accorded damages for emotional distress and/or pain and
+
+suffering and any and all other equitable and legal relief as the Court deems just, proper and
+
+appropriate (as permitted under the Statutes he is suing under);
+
+       E.      Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+legal fees as provided by applicable federal and state law;
+
+       F.      Any verdict in favor of Plaintiff is to be molded by the Court to maximize the
+
+financial recovery available to Plaintiff in light of the caps on certain damages set forth in
+
+applicable federal law; and
+
+       G.      Plaintiff’s claims are to receive a trial by jury to the extent allowed by applicable
+
+law. Plaintiff has also endorsed this demand on the caption of this Complaint in accordance with
+
+Federal Rule of Civil Procedure 38(b).
+
+                                                     Respectfully submitted,
+
+                                                     KARPF, KARPF, & CERUTTI, P.C.
+
+
+                                              By:
+                                                     Ari R. Karpf, Esquire
+                                                     8 Interplex Drive, Suite 210
+                                                     Feasterville-Trevose, PA 19053
+                                                     (215) 639-0801
+                                                     Attorneys for Plaintiff
+Dated: May 8, 2025
+
+
+                                                10
+      Case 5:25-cv-02352-JLS         Document 1   Filed 05/08/25      Page 11 of 13
+
+
+
+
+Jimmy Pierre
+
+
+Keurig Dr Pepper Inc. d/b/a KDP, et al.
+
+
+
+
+                                                                                      ñ
+
+
+ 5/8/2025                                                          mä~áåíáÑÑ
+
+
+ONRJSPVJMUMN                    ONRJSPVJQVTM                  ~â~êéÑ]â~êéÑJä~ïKÅçã
+     Case 5:25-cv-02352-JLS       Document 1   Filed 05/08/25   Page 12 of 13
+
+
+
+                      aÉÑÉåÇ~åíë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+
+
+
+
+                                                ñ
+
+
+
+
+=ñ
+
+
+
+
+                                                                 ñ
+                              ñ
+
+
+
+
+ñ
+                            Case 5:25-cv-02352-JLS                          Document 1     Filed 05/08/25   Page 13 of 13
+
+
+
+
+    PIERRE, JIMMY                                                                        KEURIG DR PEPPER INC. D/B/A KDP, ET AL.
+                                                            Berks                                                  Lehigh
+
+
+
+^êá=oK=h~êéÑI=bëèKX=h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KI=U=fåíÉêéäÉñ=aêáîÉI=pìáíÉ=ONMI=
+cÉ~ëíÉêîáääÉJqêÉîçëÉI=m^=NVMRPX=ONRJSPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+
+
+                                   u
+
+
+
+
+                                 X
+
+
+
+
+u
+
+
+
+                                       Title VII (42USC2000); Section 1981 (42USC1981)
+
+                                       Violations of Title VII, Section 1981 and the PHRA.
+
+                                                                                                                            u
+
+
+
+
+          5/8/2025
+

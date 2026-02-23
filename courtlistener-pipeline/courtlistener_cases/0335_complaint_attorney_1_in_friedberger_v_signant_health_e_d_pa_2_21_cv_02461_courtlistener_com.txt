@@ -1,0 +1,925 @@
+Source URL: https://www.courtlistener.com/docket/59947057/1/friedberger-v-signant-health/
+Title: Complaint (Attorney) – #1 in FRIEDBERGER v. SIGNANT HEALTH (E.D. Pa., 2:21-cv-02461) – CourtListener.com
+
+JS 44 (Rev. 10/20)                           Case 2:21-cv-02461 Document
+                                                             CIVIL COVER 1 SHEET
+                                                                           Filed 05/28/21 Page 1 of 33
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                             DEFENDANTS
+          GRETCHEN FRIEDBERGER                                                                                SIGNANT HEALTH
+    (b)   County of Residence of First Listed Plaintiff                CHESTER                                County of Residence of First Listed Defendant              WAYNE
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                 Attorneys (If Known)
+      Lane J. Schiff , Esquire
+      Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+      Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)  III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                           (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                          of Business In This State
+
+    2   U.S. Government                      4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                                     Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                        Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY             625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -            of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability        690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                    400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                              830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                              835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                      840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                      LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud              710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending             Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal           720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage              Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage          740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability        751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                            Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS            790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:               791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee               Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                             870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                           or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                       871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                       462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other         465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                 Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+      Proceeding             State Court                                Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                                 (specify)                  Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq. (“Title VII”); 43 P.S. §951, et seq. (“PHRA”).
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff brings this action against her former employer for sex discrimination and hostile work environment.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                              excess of $75,000                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                               DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+May 28, 2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                   JUDGE                           MAG. JUDGE
+                                 Case 2:21-cv-02461  Document
+                                                 UNITED         1 FiledCOURT
+                                                        STATES DISTRICT 05/28/21 Page 2 of 33
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                        Coatesville, PA
+Address of Plaintiff: ______________________________________________________________________________________________
+                                       575 East Swedesford, PA, Suite 200, Wayne, PA 19087
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      5/28/21
+DATE: __________________________________                     __________________________________________
+                                                                       ___
+                                                                        _____
+                                                                           ____
+                                                                              ____
+                                                                              ___
+                                                                              __ ________
+                                                                                       ___                                                 314179
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law
+                                                                            orn
+                                                                             rnney
+                                                                                ey-at-La
+                                                                                      L w / Pro SSe Plaintiff                                 Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+          Lane J. Schiff, Esquire
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      5/28/21
+DATE:__________________________________                     __________________________________________
+                                                                        __
+                                                                         ___
+                                                                           _____________                                                   314179
+                                                                                                                               __________________________________
+                                                                         Attorney-at-Law
+                                                                              ney-a
+                                                                                  at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+               Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 3 of 33
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+          GRETCHEN FRIEDBERGER                                                CIVIL ACTION
+                            PLAINTIFF,
+                       v.
+  SIGNANT HEALTH
+                                                                             NO.
+                                DEFENDANT.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                                 ( )
+(b) Social Security- Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                    ( )
+(c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53.2.         ( )
+(d) Asbestos- Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                             ( )
+(e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                                ( )
+(f) Standard Management- Cases that do not fall into any one of the other tracks.                     ( X)
+
+ May 28, 2021
+                                                                        Plaintiff, Gretchen Friedberger
+Date                               Attori�                               Attorney for
+   (215) 545-7676                 (215) 565-2859                      schiff@consolelaw.com
+
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 4 of 33
+
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT FOR
+                    THE EASTERN DISTRICT OF PENNSYLVANIA
+_________________________________________
+                                          :
+GRETCHEN FRIEDBERGER                      :
+Coatesville, PA 19320                     :
+                                          :    CIVIL ACTION NO.
+                          Plaintiff,      :
+                                          :
+              v.                          :    JURY TRIAL DEMANDED
+                                          :
+SIGNANT HEALTH                            :
+575 East Swedesford Road, Suite 200       :
+Wayne, PA 19087                           :
+                          Defendant.      :
+_________________________________________ :
+
+                                          COMPLAINT
+
+   I. INTRODUCTION
+
+         Plaintiff, Gretchen Friedberger, brings this action against her former employer, Signant
+
+Heath, as a result of the invidious sex discrimination and hostile work environment to which she
+
+was subjected. Defendant’s discriminatory conduct violated Title VII of the Civil Rights Act of
+
+1964, as amended, 42 U.S.C. §2000e, et seq. (“Title VII”), and the Pennsylvania Human
+
+Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”). Plaintiff seeks all damages,
+
+including economic loss, compensatory damages, punitive damages, attorneys’ fees and costs,
+
+and all other relief this Court deems appropriate.
+
+   II.        PARTIES
+
+         1.     Plaintiff, Gretchen Friedberger, is a female individual, residing in Coatesville,
+
+Pennsylvania.
+
+         2.     Defendant Signant Health (“Defendant”) is a corporation, maintaining a place of
+
+business located 575 East Swedesford Road, Suite 200, Wayne, PA 19087.
+
+         3.     At all times material hereto, Defendant acted by and through their authorized
+                 Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 5 of 33
+
+
+
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendant and in furtherance of Defendant’s business.
+
+           4.      At all times material hereto, Defendant acted as an employer of Plaintiff within
+
+the meaning of the statutes that form the basis of this matter.
+
+           5.      At all times material hereto, Plaintiff was an employee of Defendant within the
+
+meaning of the statutes that form the basis of this matter.
+
+    III.         JURISDICTION AND VENUE
+
+           6.      The causes of action that form the basis of this matter arise under Title VII and
+
+the PHRA.
+
+           7.      The District Court has jurisdiction over Count I (Title VII) pursuant to 28 U.S.C.
+
+§1331.
+
+           8.      The District Court has supplemental jurisdiction over Count II (PHRA) pursuant
+
+to 28 U.S.C. §1367.
+
+           9.      Venue is proper in the District Court under 28 U.S.C. §1391 because a substantial
+
+part of the events or omissions giving rise to the claim occurred within this District.
+
+           10.     On or about July 24, 2019 Plaintiff filed a Complaint with the Pennsylvania
+
+Human Relations Commission (“PHRC”), complaining of acts of discrimination and harassment
+
+alleged herein. This complaint was cross-filed with the Equal Employment Opportunity
+
+Commission (“EEOC”). Attached hereto, incorporated herein and marked as “Exhibit A” is a
+
+true and correct copy of the PHRC Complaint (with personal identifying information redacted). 1
+
+           11.     On or about March 3, 2021, the EEOC issued to Plaintiff a Notice of Right to Sue.
+
+
+1
+ On or about July 29, 2020, Plaintiff filed a Second Complaint with the PHRC, which was cross-filed with the
+EEOC. Plaintiff plans to amend this Complaint to add additional causes of action under the PHRA and Title VII, and
+a claim under the Americans with Disabilities Act, as amended, 42 U.S.C. §12101, et seq. (“ADA”).
+
+
+                                                        2
+                Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 6 of 33
+
+
+
+
+Attached hereto, incorporated herein and marked as “Exhibit B” is a true and correct copy of that
+
+notice.
+
+          12.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+   IV.          FACTUAL ALLEGATIONS
+
+          13.     Plaintiff commenced her employment with Defendant on or about June 3, 2013.
+
+          14.     Plaintiff was employed as a Clinical Data Manager and consistently performed
+
+her job duties in an excellent manner.
+
+          15.     Shortly after Plaintiff commenced employment, Antonio Hernandez (male),
+
+Clinical Lead, sexually assaulted Plaintiff.
+
+          16.     Hernandez put his hands on Plaintiff’s legs, knees, and upper thigh. Plaintiff
+
+rejected his advances and pushed his hands away from her.
+
+          17.     Hernandez thereafter slid his hands up and down Plaintiff’s back, stomach, and
+
+the sides of her body. Plaintiff continued to push his hands away from her.
+
+          18.     Hernandez forcefully reached his hand between Plaintiff’s legs and grabbed
+
+Plaintiff’s vagina. Plaintiff immediately elbowed Hernandez away, turned around, told him to
+
+stop, and walked away from him.           Hernandez followed Plaintiff until she reached a more
+
+crowded area.
+
+          19.     Hernandez thereafter again put his hands on Plaintiff’s legs. Plaintiff again pushed
+
+him away.
+
+          20.     Plaintiff subsequently complained of sex discrimination to her then supervisor,
+
+Sharon Gaughan, then Senior Clinical Manager, regarding Hernandez’ conduct.
+
+          21.     Defendant failed to take appropriate corrective and remedial action in response to
+
+
+
+                                                   3
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 7 of 33
+
+
+
+
+Plaintiff’s complaint. No investigation was conducted, and Hernandez remained employed with
+
+Defendant.
+
+       22.        After Plaintiff’s initial complaint, Plaintiff’s next Supervisor, Cynthia McNamara,
+
+Director, Client Services, overheard Plaintiff telling another employee that Hernandez had
+
+previously sexually assaulted her.
+
+       23.        McNamara told Plaintiff that she was required to go to Human Resources with the
+
+information and that it was unfortunate that Plaintiff did not tell her supervisor at the time of the
+
+incident. Plaintiff stated that she had complained to her supervisor, Gaughan, following the
+
+sexual assault by Hernandez.
+
+       24.        Following McNamara’s direction, Plaintiff thereafter complained to Mary Ann
+
+Flasinsky, Head of Human Resources, regarding Hernandez’ unlawful behavior.
+
+       25.        Plaintiff additionally complained that multiple female employees told Plaintiff
+
+that Hernandez had engaged in unwanted sex-based conduct towards them, and that she was
+
+afraid Hernandez would continue to engage in unlawful behavior towards women.
+
+       26.        Plaintiff informed Flasinsky that she wanted her complaints written down so that
+
+if Hernandez acted unlawfully towards any female employees in the future there would be a
+
+written record.
+
+       27.        Defendant failed to take appropriate remedial and corrective action in response to
+
+Plaintiff’s complaint. No investigation was conducted, and Hernandez remained employed with
+
+Defendant.
+
+       28.        In or about May 2018, Plaintiff complained to Clinton Creasy, Executive
+
+Director, Legal and Regulatory Affairs of sex discrimination in connection with Hernandez’
+
+conduct.     Creasy instructed Plaintiff to speak with Teresa Ford, Senior Human Resources
+
+
+
+                                                   4
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 8 of 33
+
+
+
+
+Generalist.
+
+        29.    Plaintiff thereafter complained to Ford of sex discrimination in connection with
+
+Hernandez’ conduct.
+
+        30.    Ford informed Plaintiff that, despite Plaintiff’s previous request to document her
+
+complaint, no documentation existed in Plaintiff’s file referencing her prior complaints about
+
+Hernandez and that Defendant additionally had no record of any complaints made against
+
+Hernandez.
+
+        31.    On or about May 1, 2018, Plaintiff began reporting to Keith Aumiller (male),
+
+Director, Technical Delivery.
+
+        32.    Aumiller subjected Plaintiff to sex-based discrimination and a hostile work
+
+environment.
+
+        33.    Aumiller treated Plaintiff in a more hostile and dismissive manner than he treated
+
+male employees.
+
+        34.    Aumiller ignored and excluded Plaintiff from work activities.            Aumiller
+
+additionally deferred to and recognized the input of male employees over Plaintiff.
+
+        35.    Aumiller provided greater assistance to male employees than he provided to
+
+Plaintiff.
+
+        36.    Aumiller assigned increased job duties and responsibilities to Joseph McCusker
+
+(male), Project Manager, Technical Delivery. Plaintiff was more qualified and experienced to
+
+handle increased job duties and responsibilities than McCusker.
+
+        37.    Aumiller referred to Plaintiff as a “chic.”
+
+        38.    Aumiller inquired as to whether Plaintiff had read the book “Nice Girls Don’t Get
+
+the Corner Office?” because he believed it applied to her.
+
+
+
+                                                 5
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 9 of 33
+
+
+
+
+        39.    Aumiller told Plaintiff on multiple occasions that she had an attitude.
+
+        40.    Aumiller told Plaintiff on multiple occasions that she needed to keep her mouth
+
+shut.
+
+        41.    Aumiller stated to Plaintiff that every man he has known who dated a Puerto
+
+Rican woman has been attacked by that woman with a knife.
+
+        42.    In or about December 2018, Defendant failed to promote Plaintiff to Associate
+
+Director. Defendant instead promoted McCusker.
+
+        43.    Plaintiff was more qualified and experienced for the Associate Director position
+
+than McCusker.
+
+        44.    In or about January 2019, Plaintiff was excluded from the interviewing and hiring
+
+process of an employee who was assigned to report to Plaintiff. Plaintiff received no explanation
+
+as to why she was excluded from the interviewing and hiring process for her direct report.
+
+        45.    In or about February 2019, Aumiller instructed Plaintiff to take over managing an
+
+additional team, since Christopher Dunn (male), Director of Data Sciences, had resigned.
+
+        46.    Plaintiff remarked to Aumiller that Dunn had been paid substantially more than
+
+she despite her new increased job duties and responsibilities. Aumiller became visibly angry,
+
+and increasingly hostile and aggressive toward Plaintiff.
+
+        47.    Aumiller threatened that Plaintiff better watch what she said and unjustly
+
+criticized her performance. Aumiller stated that Plaintiff’s position was too much for Plaintiff
+
+and threatened that he had demoted people in the past.
+
+        48.    Numerous coworkers have told Plaintiff that they believe that Aumiller treats her
+
+less favorably because she is a woman and/or that Aumiller discriminates against women,
+
+including without limitation, Jonathen Rajabi, Clinical Data Management SQL Programmer,
+
+
+
+                                                 6
+             Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 10 of 33
+
+
+
+
+Jeffery Taylor, Clinical Data Manager, Jordan Mark Barbone, Clinical Data Scientist, Elizabeth
+
+Renne, Project Manager, Marie Boursiquot, Clinical Data Manager, Holly Gratkowski, Director,
+
+Client Services, and Alexanda Botezatu, Associate Director Clinical Data Management.
+
+       49.     On or about February 8, 2019, Plaintiff complained to Colleen Meanix, Associate
+
+Director of Human Resources, of sex discrimination regarding Aumiller’s conduct.
+
+       50.     On or about February 12, 2019, Plaintiff filed an internal sex discrimination
+
+complaint against Aumiller with Ford.
+
+       51.     Plaintiff followed-up with Ford on multiple occasions seeking an update
+
+regarding her complaint but received no substantive response.
+
+       52.     On or about March 5, 2019, Ford informed Plaintiff that she had not yet started
+
+her investigation into Plaintiff’s complaint and that Milissa Ronayne, Director, Management
+
+Development and Tools, would be handling Plaintiff’s complaint going forward.
+
+       53.     On or about March 19, 2019, Plaintiff contacted Ronayne for an update regarding
+
+her complaint. Ronayne stated that John T. Clements, Senior Human Resources Generalist,
+
+would be handling Plaintiff’s complaint going forward.
+
+       54.     On numerous occasions thereafter, Plaintiff contacted Clements regarding the
+
+status of her complaint. Clements responded that he had been busy and had not yet looked at
+
+Plaintiff’s complaint or investigated Plaintiff’s allegations.
+
+       55.     Plaintiff complained to Clements that she was continuing to be discriminated
+
+against by Aumiller.
+
+       56.     Defendant failed to take appropriate remedial and corrective action in response to
+
+Plaintiff’s complaint.
+
+       57.     Aumiller continued to subject Plaintiff to sex discrimination and a hostile work
+
+
+
+                                                  7
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 11 of 33
+
+
+
+
+environment.
+
+       58.      As a result of the sex discrimination to which Plaintiff was subjected, Plaintiff
+
+took a medical leave of absence beginning on or about May 10, 2019.
+
+       59.      Plaintiff has not received any further communication from Defendant regarding
+
+her sex discrimination complaints.
+
+       60.      Plaintiff was never informed of the result of any alleged investigation into her
+
+complaints.
+
+       61.      Defendant has an underrepresentation of female employees in high-level
+
+positions.
+
+       62.      Defendant’s Scientific Leadership is comprised of eight (8) male employees and
+
+one (1) female employee.
+
+       63.      Defendant’s Corporate Leadership is comprised of eight (8) male employees and
+
+four (4) female employees.
+
+       64.      Plaintiff’s sex was a determinative and motivating factor in the discriminatory
+
+treatment outlined herein, including, without limitation, failing to promote her in or about
+
+December of 2018 to the position of Associate Director and subjecting her to a hostile work
+
+environment.
+
+       65.      Defendant failed to prevent or address the discriminatory conduct referred to
+
+herein and further failed to take corrective and/or remedial measures to make the workplace free
+
+of discriminatory conduct.
+
+       66.      Plaintiff was subjected to severe and/or pervasive conduct that interfered with her
+
+ability to perform her job duties and was not welcomed by Plaintiff, thereby creating a hostile
+
+work environment.
+
+
+
+                                                 8
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 12 of 33
+
+
+
+
+        67.     The conduct to which Plaintiff was subjected was so severe and/or pervasive that
+
+a reasonable person in Plaintiff’s position would find the work environment to be hostile and/or
+
+abusive.
+
+        68.     Plaintiff’s sex was a motivating and determinative factor in the hostile work
+
+environment to which she was subjected.
+
+        69.     As a direct and proximate result of the discriminatory conduct of Defendant,
+
+Plaintiff has in the past incurred, and may in the future incur, a loss of earnings and/or earning
+
+capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem,
+
+mental anguish, and loss of life’s pleasures.
+
+        70.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of the unlawful behavior complained of herein unless and until this
+
+Court grants the relief requested herein.
+
+                                     COUNT I – TITLE VII
+
+        71.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        72.     By committing the foregoing acts of discrimination against Plaintiff, Defendant
+
+violated Title VII.
+
+        73.     Defendant acted willfully and intentionally and with malice and/or reckless
+
+indifference to Plaintiff’s protected rights, thereby warranting the imposition of punitive
+
+damages.
+
+        74.     As a direct and proximate result of Defendant’s violation of Title VII, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        75.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+
+
+                                                9
+              Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 13 of 33
+
+
+
+
+monetary damages as a result of Defendant’s discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        76.     No previous application has been made for the relief requested herein.
+
+                                       COUNT II – PHRA
+
+        77.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        78.     By committing the foregoing acts of discrimination, Defendant violated the
+
+PHRA.
+
+        79.     As a direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+        80.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        81.     No previous application has been made for the relief requested herein.
+
+                                             RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s unlawful conduct, and specifically prays that this Court grant the following relief to
+
+Plaintiff by:
+
+       (a) declaring the acts and practices complained of herein to be in violation of Title VII;
+
+       (b) declaring the acts and practices complained of herein to be in violation of the PHRA;
+
+       (c) enjoining and permanently restraining the violations alleged herein;
+
+       (d) entering judgment against Defendant and in favor of Plaintiff in an amount to be
+
+
+
+                                                 10
+       Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 14 of 33
+
+
+
+
+     determined;
+
+  (e) awarding damages to make Plaintiff whole for all lost earnings, earning capacity and
+
+     benefits, past and future, which Plaintiff has suffered or may suffer as a result of
+
+     Defendant’s unlawful conduct;
+
+  (f) awarding back pay and front pay;
+
+  (g) awarding compensatory damages to Plaintiff for past and future pain and suffering,
+
+     emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which
+
+     Plaintiff has suffered or may suffer as a result of Defendant’s unlawful conduct;
+
+  (h) awarding punitive damages to Plaintiff;
+
+  (i) awarding Plaintiff such other damages and relief as is appropriate under Title VII and
+
+     the PHRA;
+
+  (j) awarding Plaintiff the costs of suit, expert fees and other disbursements, and attorneys’
+
+     fees; and
+
+  (k) granting such other and further relief as this Court may deem just, proper, or equitable
+
+     including other equitable and injunctive relief providing restitution for past violations
+
+     and preventing future violations.
+
+
+
+                                                 CONSOLE MATTIACCI LAW, LLC
+
+
+Dated: May 28, 2021                      By:            _______________________
+                                                        Lane J, Schiff, Esquire
+                                                        1525 Locust St., 9th Floor
+                                                        Philadelphia, PA 19102
+                                                        (215) 545-7676
+
+                                                        Attorney for Plaintiff,
+                                                        Gretchen Friedberger
+
+
+
+                                            11
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 15 of 33
+
+
+
+
+EXHIBIT A
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 16 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 17 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 18 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 19 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 20 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 21 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 22 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 23 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 24 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 25 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 26 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 27 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 28 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 29 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 30 of 33
+Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 31 of 33
+
+
+
+
+EXHIBIT B
+                             Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 32 of 33
+ EEOC Form 161-B (11/16)                  U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                         NOTICE OF RIGHT TO SUE (ISSUED ON REQUEST)
+To:     Gretchen Friedberger                                                          From:    Philadelphia District Office
+       REDACTED                                                                                801 Market Street
+        Coatesville, PA 19320                                                                  Suite 1000
+                                                                                               Philadelphia, PA 19107
+
+
+
+
+                  On behalf of person(s) aggrieved whose identity is
+                  CONFIDENTIAL (29 CFR §1601.7(a))
+
+ EEOC Charge No.                                         EEOC Representative                                           Telephone No.
+
+                                                         Kurt Jung,
+ 17F-2020-60275                                          State, Local and Tribal Program Manager                       (267) 589-9749
+                                                                                   (See also the additional information enclosed with this form.)
+NOTICE TO THE PERSON AGGRIEVED:
+Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act (ADA), or the Genetic Information Nondiscrimination
+Act (GINA): This is your Notice of Right to Sue, issued under Title VII, the ADA or GINA based on the above-numbered charge. It has
+been issued at your request. Your lawsuit under Title VII, the ADA or GINA must be filed in a federal or state court WITHIN 90 DAYS
+of your receipt of this notice; or your right to sue based on this charge will be lost. (The time limit for filing suit based on a claim under
+state law may be different.)
+
+        X         More than 180 days have passed since the filing of this charge.
+
+                  Less than 180 days have passed since the filing of this charge, but I have determined that it is unlikely that the EEOC will
+                  be able to complete its administrative processing within 180 days from the filing of this charge.
+        X         The EEOC is terminating its processing of this charge.
+
+                  The EEOC will continue to process this charge.
+Age Discrimination in Employment Act (ADEA): You may sue under the ADEA at any time from 60 days after the charge was filed until
+90 days after you receive notice that we have completed action on the charge. In this regard, the paragraph marked below applies to
+your case:
+                  The EEOC is closing your case. Therefore, your lawsuit under the ADEA must be filed in federal or state court WITHIN
+                  90 DAYS of your receipt of this Notice. Otherwise, your right to sue based on the above-numbered charge will be lost.
+
+                  The EEOC is continuing its handling of your ADEA case. However, if 60 days have passed since the filing of the charge,
+                  you may file suit in federal or state court under the ADEA at this time.
+
+Equal Pay Act (EPA): You already have the right to sue under the EPA (filing an EEOC charge is not required.) EPA suits must be brought
+in federal or state court within 2 years (3 years for willful violations) of the alleged EPA underpayment. This means that backpay due for
+any violations that occurred more than 2 years (3 years) before you file suit may not be collectible.
+
+If you file suit, based on this charge, please send a copy of your court complaint to this office.
+
+                                                                          On behalf of the Commission
+
+
+
+
+                                                                                                                              3/3/2021
+
+ Enclosures(s)                                                         Jamie R. Williamson,                                   (Date Mailed)
+                                                                         District Director
+ cc:           Lane Schiff Esq.
+               (Charging Party Attorney)
+
+               Signant Health
+               Christina M. Michael Esq.
+               (Respondent Attorney)
+                 Case 2:21-cv-02461 Document 1 Filed 05/28/21 Page 33 of 33
+
+
+
+cc:   (Sent by e-mail only: schiff@consolelaw.com; cmichael@fisherphillips.com)
+
+      Lane Schiff Esq.
+      Console Mattiacci Law
+      1525 Locust Street
+      Philadelphia, PA 19102
+      schiff@consolelaw.com
+
+
+      Christina M. Michael Esq.
+      Fisher & Phillips, LLP
+      Two Logan Square
+      Philadelphia, PA 19104
+      cmichael@fisherphillips.com
+

@@ -1,0 +1,771 @@
+Source URL: https://www.courtlistener.com/docket/60114980/1/crawford-v-eresearchtechnology-inc/
+Title: Complaint (Attorney) – #1 in CRAWFORD v. ERESEARCHTECHNOLOGY, INC. (E.D. Pa., 2:21-cv-03514) – CourtListener.com
+
+JS 44 (Rev. 10/20)                 Case 2:21-cv-03514-GAM
+                                                     CIVILDocument
+                                                          COVER 1SHEET
+                                                                   Filed 08/06/21 Page 1 of 24
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+          William Crawford                                                                                     eResearchTechnology, Inc.
+    (b)   County of Residence of First Listed Plaintiff                Burlington County                       County of Residence of First Listed Defendant              Philadelphia County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+          Brian C. Farrell, Esq., Console Mattiacci Law, LLC
+          1525 Locust St., 9th Fl., Philadelphia, PA 19102 (215) 545-7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                     400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                               830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                      New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                       840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             29 U.S.C. §621, et seq.
+VI. CAUSE OF ACTION                          Brief description of cause:
+                                             Plaintiff was discriminated against because of his age.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                               in excess of $75,000                        JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+08/06/2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                            Case 2:21-cv-03514-GAM
+                                               UNITED Document   1 Filed
+                                                      STATES DISTRICT    08/06/21 Page 2 of 24
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                          Medford, NJ 08055
+Address of Plaintiff: ______________________________________________________________________________________________
+                                      1818 Market Street, Suite 100, Philadelphia, PA 19103
+Address of Defendant: ____________________________________________________________________________________________
+                                                   1818 Market Street, Suite 100, Philadelphia, PA 19103
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      08/06/2021
+DATE: __________________________________                     __________________________________________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+               Brian C. Farrell
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X        exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     X        Relief other than monetary damages is sought.
+
+
+      08/06/2021
+DATE: __________________________________                     __________________________________________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+             Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 3 of 24
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+                                                  :                          CIVIL ACTION
+ William Crawford                                 :
+                       v.                         :
+                                                  :
+                                                  :                          NO.
+ eResearchTechnology, Inc.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+08/06/2021                                                          Plaintiff, William Crawford
+Date                               Attorney-at-law                       Attorney for
+ 215-545-7676                   215-405-2900                          farrell@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+            Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 4 of 24
+
+
+
+
+                 IN THE UNITED STATES DISTRICT COURT FOR
+                  THE EASTERN DISTRICT OF PENNSYLVANIA
+________________________________
+                                      :
+William Crawford                      :
+                                      : CIVIL ACTION NO.
+                           Plaintiff, :
+                                      :
+            v.                        :
+                                      :
+eResearchTechnology, Inc.;            :
+                                      : JURY TRIAL DEMANDED
+                           Defendant. :
+________________________________      :
+
+                                          COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff William Crawford (“Plaintiff”) brings this civil action against Defendant
+
+eResearchTechnology, Inc. (“Defendant” or “ERT”), his former employer, for violations of the
+
+Age Discrimination in Employment Act, 29 U.S.C. §621, et seq. (“ADEA”), the Pennsylvania
+
+Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”), and the Philadelphia Fair
+
+Practices Ordinance, as amended, Phila. Code §9-1100, et seq. (“PFPO”). Plaintiff seeks damages,
+
+including economic, compensatory, punitive, liquidated, attorneys’ fees, and all other relief that
+
+this Court deems appropriate.
+
+II.    PARTIES
+
+       1.       Plaintiff William Crawford is a U.S. citizen and resident of the state of New Jersey,
+
+residing therein in Medford, NJ 08055.
+
+       2.       Plaintiff was born in 1956 and is currently sixty-five (65) years old. Plaintiff was
+
+sixty-three (63) years old at the time Defendant terminated his employment.
+
+       3.       Defendant eResearchTechnology, Inc., is a corporation organized and existing
+
+under the laws of Delaware, with its principal place of business at 1818 Market Street, Suite 100,
+
+                                                  1
+            Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 5 of 24
+
+
+
+
+Philadelphia, PA 19103.
+
+       4.       ERT is engaged in an industry affecting interstate commerce and regularly does
+
+business in the Commonwealth of Pennsylvania.
+
+       5.       At all relevant times, ERT employed more than twenty (20) employees.
+
+       6.       At all relevant times, ERT acted by and through its authorized agents and/or
+
+employees, each of whom acted within the course and scope of their authority and employment
+
+with ERT.
+
+       7.       At all relevant times, ERT acted as an employer within the meaning of the statutes
+
+which form the basis of this matter.
+
+       8.       At all relevant times, Plaintiff was an employee of ERT within the meaning of the
+
+statutes which form the basis of this matter.
+
+       9.       At the time ERT terminated Plaintiff’s employment, Plaintiff worked out of ERT’s
+
+Philadelphia headquarters at 1818 Market Street.
+
+III.   JURISDICTION AND VENUE
+
+       10.      The causes of action which form the basis of this matter arise under the ADEA, 29
+
+U.S.C. §621, et seq., the PHRA, 43 P.S. §951, et seq., and the PFPO, Phila. Code §9-1100, et seq.
+
+       11.      The District Court has jurisdiction over Count I (ADEA) pursuant to 29 U.S.C.
+
+§626(c) and 28 U.S.C. §1331.
+
+       12.      The District Court has jurisdiction over Count II (PHRA) and Count III (PFPO)
+
+pursuant to 28 U.S.C. §1367.
+
+       13.      The District Court also has jurisdiction over all Counts (ADEA, PHRA, PFPO)
+
+pursuant to 28 U.S.C. §1332 because the amount in controversy exceeds the sum or value of
+
+$75,000, exclusive of interests and costs, and there exists complete diversity of citizenship, as
+
+
+
+                                                2
+            Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 6 of 24
+
+
+
+
+Plaintiff is a citizen of the state of New Jersey and ERT is not a citizen of the state of New Jersey.
+
+        14.     Venue is proper in the District Court under 28 U.S.C. §1391(b).
+
+        15.     On or about September 18, 2019, Plaintiff filed a Charge of Discrimination with
+
+the Pennsylvania Human Relations Commission (“PHRC”), complaining of acts of discrimination
+
+alleged herein. This Charge was cross-filed with the United States Equal Employment Opportunity
+
+Commission (“EEOC”). Attached hereto, incorporated herein and marked as Exhibit “1” is a true
+
+and correct copy of the PHRC Charge of Discrimination, with personal identifying information
+
+redacted.
+
+        16.     On or about May 18, 2021, the EEOC issued to Plaintiff a Dismissal and Notice of
+
+Rights. Attached hereto, incorporated herein and marked as Exhibit “2” is a true and correct copy
+
+of that notice, with personal identifying information redacted.
+
+        17.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.     FACTUAL ALLEGATIONS
+
+        18.     ERT is a global data and technology company that specializes in providing clinical
+
+services and customizable medical devices to companies in the biopharmaceutical and healthcare
+
+industries.
+
+        19.     Plaintiff was a long-time employee for ERT, with his career spanning over 38 years.
+
+ERT hired Plaintiff on December 30, 1980 and ultimately terminated his employment on July 24,
+
+2019.
+
+        20.     At all relevant times, Plaintiff held the position of Director, Quality Control &
+
+Process Implementation in ERT’s Cardiology Department. Plaintiff’s performance in this role was
+
+consistently excellent.
+
+
+
+                                                  3
+         Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 7 of 24
+
+
+
+
+       21.     In or about July 2018, ERT assigned Plaintiff to a new supervisor: Andrew
+
+Fitzgibbon (“Fitzgibbon”). At that time, Fitzgibbon was approximately 47 years old and held the
+
+job title of Vice President of Clinical Data Operations. Fitzgibbon reported to Robert Shambaugh
+
+(“Shambaugh”), Executive Vice President of Operations Delivery and Fulfillment.
+
+       22.     Plaintiff (63) was the oldest employee reporting directly to Fitzgibbon.
+
+       23.     On July 24, 2019, during a meeting, Fitzgibbon abruptly terminated Plaintiff’s
+
+employment, effective that day.
+
+       24.     Plaintiff was blindsided by the news of his termination. Prior to July 24, 2019,
+
+Plaintiff had no indication that his job was in jeopardy.
+
+       25.     Fitzgibbon’s stated reason for Plaintiff’s termination was “position elimination” as
+
+part of a company-wide reduction in force.
+
+       26.     During the termination meeting, Fitzgibbon told Plaintiff that he could retire in lieu
+
+of termination. Plaintiff refused Fitzgibbon’s offer of a forced retirement.
+
+       27.     ERT retained substantially younger employees similarly situated to Plaintiff in
+
+connection with the July 24, 2019 reduction in force, including, but not limited to, Andrew Gilbert
+
+(age 42), Director of Data Coordination; Andres Escalon (age 45), Director of Clinical Outcomes;
+
+and James Sowash (age 47), Director of Respiratory Operations. These employees worked
+
+alongside Plaintiff in ERT’s Cardiology Department and also reported directly to Fitzgibbon at the
+
+time of the reduction in force.
+
+       28.     Plaintiff was the only employee reporting to Fitzgibbon who had his employment
+
+terminated in connection with the July 24, 2019 reduction in force.
+
+       29.     Plaintiff was the only employee in ERT’s Cardiology Department terminated in
+
+connection with the July 24, 2019 reduction in force.
+
+
+
+                                                 4
+         Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 8 of 24
+
+
+
+
+       30.      ERT reassigned Plaintiff’s job duties and direct reports to a substantially younger,
+
+less qualified, and less experienced employee: James Sowash (age 47).
+
+       31.      ERT presented Plaintiff with a “Separation Agreement and General Release” in
+
+connection with the July 24, 2019, which Plaintiff did not sign.
+
+       32.      The Separation Agreement and General Release contained certain informational
+
+disclosures and demographic information for the July 24, 2019 reduction in force as required by
+
+the Older Workers Benefit Protection Act (“OWBPA”).
+
+       33.      In the document entitled “Older Workers Benefit Protection Act Disclosure Notice”
+
+(“OWBPA Notice”), ERT set forth the “job titles and ages . . . of all employees within the
+
+Decisional Unit who were selected for termination and those who were not selected for
+
+termination.”
+
+       34.      The OWBPA Notice indicated that ERT terminated twelve (12) total employees in
+
+the “Decisional Unit” for the July 24, 2019 reduction in force, including Plaintiff. Ten of those
+
+employees were age 40 or over.
+
+       35.      The OWBPA Notice also indicated that ERT retained 215 employees under age 40
+
+in the Decisional Unit.
+
+       36.      ERT’s stated reason for Plaintiff’s termination was a pretext for unlawful age
+
+discrimination.
+
+       37.      ERT terminated Plaintiff’s employment because of his age (63).
+
+       38.      On or about August 7, 2019, following his termination, Plaintiff learned that one of
+
+his former colleagues in ERT’s Cardiology Department—Jorja Tozer (age 60)—would be
+
+resigning from her position as a Director of Cardiac Operations, effective September 6, 2019.
+
+       39.      Plaintiff was qualified to perform Tozer’s position of Director of Cardiac
+
+
+
+                                                 5
+         Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 9 of 24
+
+
+
+
+Operations, having performed that role previously during his employment with ERT.
+
+        40.    After hearing the news of Tozer’s impending resignation, Plaintiff applied for the
+
+position of Director of Cardiac Operations with ERT.
+
+        41.    Specifically, on August 14, 2019, Plaintiff emailed the following message to
+
+Fitzgibbon, Joanne Tanhauser, Senior Director, Strategic Business Partner, and Michele
+
+Buonopane, Vice President and Chief Human Resources Officer:
+
+               “I have just heard that Jorja Tozer is retiring as of September 6. As
+               you know, I was not ready to end my position as QC Director
+               therefore, would like to be considered for the job. Because I
+               previously held this position, I am fully aware and capable of the
+               responsibilities entailed. Please consider this my request to apply
+               for the open Operations Director position. I look forward to hearing
+               from you.”
+
+        42.    On September 5, 2019, Plaintiff received an email from Sarah Robinson, Senior
+
+Director, Strategic Human Resources Business Partner, that stated the following: “Apologies for
+
+the delay in responding to your email. After careful consideration we have decided not to backfill
+
+Jorja’s role and as a result will not be replacing the position.”
+
+        43.    Robinson’s stated reason for rejecting Plaintiff’s application was a pretext for
+
+unlawful age discrimination.
+
+        44.    ERT failed to hire Plaintiff into the Director of Operations position due to his age
+
+(63).
+
+        45.    Upon information and belief, ERT ultimately assigned Tozer’s job duties and direct
+
+reports to two substantially younger, less qualified, and less experienced employees: Nisha Patel
+
+(age 40), Cardiac Safety Manager, and Emily Roan (age 32), Lead Cardiac Safety Specialist.
+
+        46.    As a direct and proximate result of the discriminatory conduct of ERT, Plaintiff has
+
+in the past incurred, and may in the future incur, a loss of earnings and/or earning capacity, loss of
+
+
+
+                                                  6
+         Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 10 of 24
+
+
+
+
+benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem, mental anguish, and
+
+loss of life’s pleasures, the full extent of which is not known at this time.
+
+        47.     ERT acted with malice and/or reckless indifference to Plaintiff’s protected rights.
+
+        48.     The conduct of ERT, as set forth above, was outrageous under the circumstances
+
+and warrants the imposition of punitive damages.
+
+                                      COUNT I – ADEA
+                              (Disparate Treatment Based on Age)
+                                     Plaintiff v. Defendant
+
+        49.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        50.     ERT intentionally discriminated against Plaintiff based on his age.
+
+        51.     By committing the foregoing acts of age discrimination against Plaintiff, including,
+
+without limitation, terminating Plaintiff employment and rejecting his application/failing to hire
+
+him into the Director of Cardiac Operations position, ERT has violated the ADEA.
+
+        52.      As a direct and proximate result of ERT’s violation of the ADEA, Plaintiff has
+
+suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs. Plaintiff
+
+is now suffering and will continue to suffer irreparable injury and monetary damages as a result of
+
+ERT’s discriminatory acts unless and until this Court grants the relief requested herein.
+
+        53.     ERT’s violations of the ADEA were intentional and willful under the circumstances
+
+and warrant the imposition of liquidated damages.
+
+                                      COUNT II - PHRA
+                              (Disparate Treatment Based on Age)
+                                     Plaintiff v. Defendant
+
+        54.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+
+
+                                                  7
+         Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 11 of 24
+
+
+
+
+        55.     ERT intentionally discriminated against Plaintiff based on his age.
+
+        56.     By committing the foregoing acts of age discrimination against Plaintiff, including,
+
+without limitation, terminating Plaintiff employment and rejecting his application/failing to hire
+
+him into the Director of Cardiac Operations position, ERT has violated the PHRA.
+
+        57.      As a direct and proximate result of ERT’s violation of the PHRA, Plaintiff has
+
+suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs. Plaintiff
+
+is now suffering and will continue to suffer irreparable injury and monetary damages as a result of
+
+ERT’s discriminatory acts unless and until this Court grants the relief requested herein.
+
+                                      COUNT IV - PFPO
+                              (Disparate Treatment Based on Age)
+                                     Plaintiff v. Defendant
+
+        58.     Plaintiff incorporates the foregoing allegations of this Complaint as if set forth
+
+herein in their entirety.
+
+        59.     ERT intentionally discriminated against Plaintiff based on his age.
+
+        60.     By committing the foregoing acts of age discrimination against Plaintiff, including,
+
+without limitation, terminating Plaintiff employment and rejecting his application/failing to hire
+
+him into the Director of Cardiac Operations position, ERT has violated the PFPO.
+
+        61.      As a direct and proximate result of ERT’s violation of the PFPO, Plaintiff has
+
+suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs. Plaintiff
+
+is now suffering and will continue to suffer irreparable injury and monetary damages as a result of
+
+ERT’s discriminatory acts unless and until this Court grants the relief requested herein.
+
+        62.     ERT acted intentionally, and with malice and/or reckless indifference to Plaintiff’s
+
+rights, and its conduct warrants the imposition of punitive damages under the PFPO.
+
+
+
+
+                                                  8
+         Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 12 of 24
+
+
+
+
+                                              RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s unlawful conduct, and specifically prays that this Court grant him the following relief
+
+by:
+
+       (a)     declaring the acts and practices complained of herein to be in violation of the
+
+ADEA;
+
+       (b)     declaring the acts and practices complained of herein to be in violation of PHRA;
+
+       (c)     declaring the acts and practices complained of herein to be in violation of the PFPO;
+
+       (d)     enjoining and permanently restraining the violations alleged herein;
+
+       (e)     entering judgment against Defendant and in favor of Plaintiff in an amount to be
+
+determined;
+
+       (f)     awarding compensatory damages to make Plaintiff whole for all lost earnings,
+
+earning capacity and benefits, past and future, which Plaintiff has suffered or may suffer as a result
+
+of Defendant’s unlawful conduct;
+
+       (g)     awarding compensatory damages to Plaintiff for past and future pain and suffering,
+
+emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which Plaintiff has
+
+suffered or may suffer as a result of Defendant’s unlawful conduct;
+
+       (h)     awarding punitive damages to Plaintiff;
+
+       (i)     awarding liquidated damages to Plaintiff under the ADEA;
+
+       (j)     awarding Plaintiff such other damages as are appropriate under the ADEA, PHRA,
+
+and PFPO;
+
+       (k)     awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+reasonable attorneys’ fees; and
+
+
+
+                                                  9
+        Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 13 of 24
+
+
+
+
+       (l)     granting such other and further relief as this Court may deem just, proper, or
+
+equitable including other equitable and injunctive relief providing restitution for past violations
+
+and preventing future violations.
+
+                                    JURY TRIAL DEMAND
+
+       Plaintiff demands a trial by jury.
+
+
+                                                CONSOLE MATTIACCI LAW, LLC
+
+                                            By: /s/ Brian C. Farrell
+                                                Brian C. Farrell, Esquire
+                                                Console Mattiacci Law, LLC
+                                                1525 Locust Street, Ninth Floor
+                                                Philadelphia, PA 19102
+                                                (215) 545-7676
+                                                (215) 565-2851 (fax)
+                                                farrell@consolelaw.com
+                                                Attorney for Plaintiff, William Crawford
+Date: August 6, 2021
+
+
+
+
+                                                  10
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 14 of 24
+
+
+
+
+                  Exhibit “1”
+  Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 15 of 24
+
+
+
+
+redacted
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 16 of 24
+
+
+
+
+                       redacted
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 17 of 24
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 18 of 24
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 19 of 24
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 20 of 24
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 21 of 24
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 22 of 24
+
+
+
+
+                             redacted
+Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 23 of 24
+
+
+
+
+                  Exhibit “2”
+           Case 2:21-cv-03514-GAM Document 1 Filed 08/06/21 Page 24 of 24
+
+
+
+
+redacted
+

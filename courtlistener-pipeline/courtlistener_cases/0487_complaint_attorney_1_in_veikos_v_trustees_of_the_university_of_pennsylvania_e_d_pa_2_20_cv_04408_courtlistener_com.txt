@@ -1,0 +1,2315 @@
+Source URL: https://www.courtlistener.com/docket/18420439/1/veikos-v-trustees-of-the-university-of-pennsylvania/
+Title: Complaint (Attorney) – #1 in VEIKOS v. TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA (E.D. Pa., 2:20-cv-04408) – CourtListener.com
+
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 1 of 65
+
+
+
+
+9/9/2020
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 2 of 65
+             Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 3 of 65
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+     CATHRINE VEIKOS                              :                           CIVIL ACTION
+                                                  :
+                        v.                        :
+     TRUSTEES OF THE UNIVERSITY                   :
+                                                  :                          NO.
+     OF PENNSYLVANIA
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+ 9/9/2020                                                             Plaintiff
+Date                               Attorney-at-law                       Attorney for
+ (215) 545-7676
+                                 (215) 501-5957                        uebler@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+          Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 4 of 65
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                :
+ CATHRINE VEIKOS,                               :
+                                                :
+                                   Plaintiff,   :
+                                                :
+         v.                                     : CIVIL ACTION NO.
+                                                :
+                                                :
+                                                :
+ TRUSTEES OF THE UNIVERSITY                     :
+ OF PENNSYLVANIA,                               : JURY TRIAL DEMANDED
+                                                :
+                                Defendant.      :
+                                                :
+
+                                           COMPLAINT
+
+       Plaintiff, Cathrine Veikos (“Plaintiff”), by and through her counsel, files this Complaint
+
+and asserts claims of discrimination based on gender and familial status and retaliation against
+
+the Trustees of the University of Pennsylvania (“Defendant” or “Penn”).
+
+                                         INTRODUCTION
+
+       Penn, one of the country’s premier educational institutions with an annual budget of over
+
+$11 billion, likes to pride itself on its diversity and efforts to support women faculty. Despite its
+
+outward branding, Penn blatantly violated Cathrine Veikos’ civil rights by enabling a male
+
+Department Chair to sabotage her academic career because he resented her for taking advantage
+
+of a supposedly “family friendly” policy following the birth of her son.
+
+       When Professor Veikos complained to her Dean and other members of the administration
+
+about the Department Chair’s misconduct, Penn circled the wagons, tried to dissuade her from
+
+enforcing her civil rights, and refused to investigate her allegations. When Professor Veikos
+
+refused to be silenced in the face of the discriminatory and retaliatory denial of her tenure
+             Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 5 of 65
+
+
+
+
+application, Penn conducted a “re-evaluation” of her tenure case that was plagued by retaliatory
+
+bias.
+
+        At the same time Penn advertised its commitment to the diversity of the University’s
+
+faculty by gender and its adoption of “family friendly” policies to retain faculty with caregiving
+
+responsibilities, Penn deliberately engaged in discriminatory and retaliatory conduct that ruined
+
+Professor Veikos’ career in academia. Professor Veikos brings this lawsuit to hold Penn
+
+accountable for its intentional and willful discrimination against her because of her gender
+
+(female) and familial status (mother), and for retaliating against her when she attempted to
+
+protect her rights and salvage her career.
+
+                                   JURISDICTION AND VENUE
+
+        1.       This discrimination case is authorized and instituted pursuant to Title VII of the
+
+Civil Rights Act of 1964 ("Title VII"), 42 U.S.C. § 2000e, et seq., as amended.
+
+        2.       This Court has original jurisdiction pursuant to 28 U.S.C. § 1331.
+
+        3.       Pursuant to 28 U.S.C. § 1367, this Court has supplemental jurisdiction with
+
+respect to Plaintiff’s claims for gender discrimination and retaliation under the Pennsylvania
+
+Human Relations Act (“PHRA”), as amended, 43 P.S. § 951, et seq., and for gender and familial
+
+status discrimination and retaliation under the Philadelphia Fair Practices Ordinance (“PFPO”),
+
+Phila. Code § 9-1101, et seq.
+
+        4.       This case is not subject to compulsory arbitration because Plaintiff seeks
+
+injunctive relief and the amount in controversy exceeds the jurisdictional amount for arbitration
+
+of One Hundred Fifty Thousand Dollars ($150,000), exclusive of interest and costs.
+
+        5.       Plaintiff has exhausted her administrative remedies, having timely filed
+
+complaints of gender discrimination and retaliation with the Equal Employment Opportunity
+
+
+
+                                                   2
+            Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 6 of 65
+
+
+
+
+Commission (“EEOC”), and complaints of gender and familial status discrimination and
+
+retaliation with the Philadelphia Commission on Human Relations (“PCHR”).
+
+       6.       The first administrative filings alleging gender and familial status discrimination
+
+and retaliation were filed in October 2011 (EEOC No. 17-G-2012-0083C; PCHR No.
+
+E12026008). The second administrative filings alleging gender and familial status discrimination
+
+and retaliation were filed in October 2012 (EEOC No. 17-G-2013-0035C; PCHR No.
+
+E12116127).
+
+       7.       Plaintiff also notified the Pennsylvania Human Relations Commission (“PHRC”)
+
+of the administrative filings at the EEOC and PCHR in order to exhaust her administrative
+
+remedies under the PHRA.
+
+       8.       The PCHR issued its Dismissal and Notice of Rights on June 26, 2020.
+
+       9.       Venue is properly invoked pursuant to 29 U.S.C. § 1391(b) because the actions
+
+complained of herein occurred within the jurisdictional limit of this Court.
+
+                                             PARTIES
+
+       10.      Cathrine Veikos is a female citizen of the United States who currently resides in
+
+Oakland, California.
+
+       11.      The Trustees of the University of Pennsylvania, operating as the University of
+
+Pennsylvania, is a private educational institution comprised of twelve (12) schools, including
+
+Design, Communications, Arts & Sciences, among others.
+
+       12.      Penn is located in Philadelphia, PA 19106.
+
+       13.      At all times relevant to this Complaint, Penn was an employer within the meaning
+
+of Title VII, the PHRA, and the PFPO.
+
+
+
+
+                                                  3
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 7 of 65
+
+
+
+
+       14.     At all times relevant to this Complaint, Professor Veikos was an employee of
+
+Penn within the meaning of Title VII, the PHRA, and the PFPO.
+
+                                  FACTUAL ALLEGATIONS
+
+Professor Veikos’ Distinguished Career Prior to Joining the Penn Faculty
+
+       15.     Professor Veikos received her Bachelor’s degree in Architecture from Barnard
+
+College in 1985.
+
+       16.     Professor Veikos received her Master of Architecture degree from the Harvard
+
+University Graduate School of Design in 1989.
+
+       17.     Following her graduation, Professor Veikos had a successful professional design
+
+practice, which received positive recognition in both publications and exhibitions.
+
+       18.     Prior to joining the faculty at Penn, Professor Veikos taught at Harvard
+
+University in Boston, the Parsons School of Design in Paris, Tulane University in New Orleans,
+
+and the Illinois Institute of Technology in Chicago. She was also a Cass Gilbert Visiting
+
+Professor at the University of Minnesota’s College of Architecture and Landscape Architecture.
+
+       19.     Professor Veikos’ area of expertise is in Visual Studies in Architecture, which
+
+considers architecture and design work in the cultural context of art and emerging technologies.
+
+       20.     Professor Veikos joined Penn’s Faculty in the Department of Architecture within
+
+the School of Design in 1999.
+
+School of Design’s Tenure Procedures and Related Policies
+
+       21.     The various schools at Penn each have their own set of policies and procedures
+
+relating to the tenure and promotion process.
+
+       22.     The School of Design’s process for tenure includes a review by the candidate’s
+
+Department as well as a school-specific Personnel Committee.
+
+
+
+                                                4
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 8 of 65
+
+
+
+
+          23.   By policy, the School of Design expects its tenured faculty to be thought leaders
+
+in their fields, to have an identifiable area of work in which they are creating new knowledge and
+
+visions, and to be working in fields that their department and school consider important for the
+
+future.
+
+          24.   Tenure-track Assistant Professors are in a “probationary” period for seven (7)
+
+years, and the tenure review often takes place during the sixth year of the probationary period.
+
+This allows for a “terminal year” on faculty in the event the candidate is not granted tenure.
+
+          25.   The tenure review process includes a process by which the Department solicits
+
+recommendations from external “consultants” or “reviewers,” who are generally faculty
+
+members at other institutions in the same field as the candidate.
+
+          26.   Penn’s Guidelines for Selection of External Consultants during the tenure
+
+promotion process identify the purpose of the consultants. According to the Guidelines, external
+
+consultants are expected to provide an unbiased and impartial assessment of a candidate’s
+
+scholarship, reputation and standing in a specific field.
+
+          27.   In evaluating a case for tenure, the standing faculty of the Department considers
+
+the candidate’s dossier and the external review letters, and then meets to discuss and vote on the
+
+case. The Chair of the Department is responsible to oversee the entire tenure process, and then
+
+communicate the Department vote to the Personnel Committee.
+
+          28.   The Personnel Committee, which consists of five (5) members of the various
+
+Departments within a particular School, reviews the candidate’s full dossier with input from the
+
+Department Chair. The Personnel Committee then votes on the case and communicates its
+
+decision to the Dean.
+
+
+
+
+                                                  5
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 9 of 65
+
+
+
+
+       29.     The Dean then reviews the case and decides whether to seek approval for the
+
+promotion from the Provost’s office. The School of Design’s policies expressly grant discretion
+
+to the Dean to forward recommendations for tenure to the Provost that did not receive a positive
+
+endorsement of the Personnel Committee.
+
+Penn’s Adoption of Career-Family Balance Initiatives
+
+       30.     In the mid-1990s, Penn considered and approved various family-related policies,
+
+including a policy to allow the extension of the tenure probationary period for junior faculty who
+
+give birth. Over the years, Penn reviewed and updated the policy.
+
+       31.     Penn adopted the policy to make it clear that the tenure clock “stopped,” and
+
+academic production was not expected during that year.
+
+       32.     As of February 2006, Penn approved a revised Policy on Extension of the
+
+Probationary Periods that Apply to Granting of Tenure or Promotion to Associate Professor,
+
+which allowed male and female tenure track professors to seek a one-year extension of the
+
+probationary period following the birth of a child into the faculty member’s household if the
+
+faculty member is the primary or co-equal parental caregiver.
+
+       33.     As part of that policy, the letters soliciting evaluations from external reviewers are
+
+to explicitly state that the candidate has taken an extension pursuant to the policy, and that Penn
+
+would evaluate the productivity of each candidate who has been granted an extension as if he or
+
+she had been in probationary status for the normal duration, so that the candidate is not penalized
+
+for having received the extension.
+
+Penn’s Recognition of the Gender Imbalance in Faculty and its Purported Investment Improving
+The Presence and Experiences of Women Faculty
+
+       34.     As reflected in its various Progress Reports on Gender Equity, Penn purports to be
+
+committed to increasing the presence and improving the experience of women faculty.
+
+                                                 6
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 10 of 65
+
+
+
+
+          35.   With respect to women faculty in 2011, the year in which Professor Veikos was
+
+considered for tenure, Penn reported that the proportion of women faculty at Penn was 30.7%.
+
+As reported by Penn, within the School of Design, 57% of Assistant Professors (non-tenured)
+
+were women, but only 15.4% of Full Professors were women. In the same year, Penn reported
+
+that 50% of Assistant Professors (non-tenured) in the Department of Architecture were women,
+
+but only 20% of Full Professors (1 out of 5) were women. These statistics clearly demonstrate
+
+that the low percentage of tenured faculty was not a “pipeline” problem.
+
+          36.   At the time it evaluated Professor Veikos’ tenure case, Penn’s President, Provost,
+
+and the rest of the University’s Administrators were fully aware of the gender imbalance in the
+
+tenured faculty, as well as the federal, state, and local laws prohibiting discrimination on the
+
+basis of gender and/or family status in evaluating tenure.
+
+Department of Architecture’s Preferential Treatment of Male Professors Prior to Professor
+Veikos’ Consideration for Tenure
+
+          37.   In 1999, Penn’s Department of Architecture had one open tenure track position,
+
+for which Professor Veikos applied and interviewed.
+
+          38.   At that time, Gary Hack (male) served as Dean for the School of Design, Richard
+
+Wesley (male) was Chair of the Department, and William Braham (male) was Chair of the
+
+Selection Committee.
+
+          39.   The Department of Architecture Faculty narrowed its search for the open tenure
+
+track position to three candidates: Cathrine Veikos; Ali Rahim (male); and Branko Kolarevic
+
+(male).
+
+          40.   Despite the Faculty’s preference to hire Professor Veikos into the tenure track
+
+position, Dean Hack and his male colleagues extended tenure track offers to both of the male
+
+candidates (Ali Rahim and Branko Kolarevic), but not to Professor Veikos. Penn made two
+
+                                                  7
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 11 of 65
+
+
+
+
+offers for tenure track positions to the two male candidates, even though there had been only one
+
+position posted.
+
+       41.     Instead, Professor Wesley, as Department Chair, offered Professor Veikos an
+
+appointment as a Full-Time Lecturer, which she accepted.
+
+       42.     At the time David Leatherbarrow (male) applied for tenure in the Department of
+
+Architecture, his tenure dossier included a number of published articles and two books that were
+
+under contract, but as yet unpublished. Penn approved Professor Leatherbarrow’s tenure
+
+application.
+
+       43.     Penn recruited Detlef Mertins (male) from another institution to serve as Chair of
+
+the Architecture Department. Penn reviewed his tenure application the same year he joined the
+
+Faculty. At the time, Professor Mertins’ only sole-authored published book was an introduction
+
+to a translated work. Penn approved Professor Mertins’ tenure application.
+
+       44.     At the time Annette Fierro (female) submitted her tenure application, her tenure
+
+dossier included one published book. Penn approved Professor Fierro’s tenure application.
+
+       45.     At the time William Braham (male) submitted his tenure application, his tenure
+
+dossier included only his Ph.D. thesis, which was an introduction to a translated work. Penn
+
+approved Professor Braham’s tenure application.
+
+       46.     The Department of Architecture first considered Ali Rahim (male) for tenure in
+
+the sixth year of his probationary period. Upon information and belief, the Faculty did not
+
+support Professor Rahim for tenure, but the Dean, Gary Hack, and former Chair, Richard
+
+Wesley, and the Chair, Detlef Mertins all strongly supported his candidacy.
+
+
+
+
+                                                8
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 12 of 65
+
+
+
+
+       47.     Upon information and belief, with the support of his male mentors within the
+
+Department and University administration, Professor Rahim withdrew his tenure application
+
+rather than risk a denial of his tenure application.
+
+       48.     Upon information and belief, Richard Wesley characterized the situation with
+
+Professor Rahim as follows: We are not going to ruin a young man’s career over this.
+
+       49.     Thereafter, Penn allowed Professor Rahim to leave the University for a year
+
+during which he taught as a Visiting Professor at another institution.
+
+       50.     During the year Professor Rahim taught away from Penn, the Department
+
+considered his tenure application and the Faculty vote was split. Nevertheless, the Chair of the
+
+Department, Professor Mertins (male), strongly advocated for Professor Rahim to the Personnel
+
+Committee, where again the vote was split.
+
+       51.     Despite a split vote for Professor Rahim’s tenure case at the Personnel
+
+Committee, Dean Hack enthusiastically supported Professor Rahim to the Provost.
+
+       52.     Penn approved Professor Rahim’s tenure application.
+
+       53.     A female student in Professor Rahim’s studio experienced sexual harassment
+
+from other students in the class. Later, Professor Wesley hired her to teach in the undergraduate
+
+program. When her undergraduate students were told that the only reason she was hired to teach
+
+was because she had an affair with Professor Wesley, the female lecturer requested a meeting
+
+with Professor Wesley and Professor Mertins.
+
+       54.     In that meeting with the male professors, the female lecturer requested that they
+
+ask the student who defamed her to publicly apologize and that Professor Wesley take steps to
+
+put an end to the false rumor. Instead, the male professors told the female lecturer that she should
+
+
+
+
+                                                  9
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 13 of 65
+
+
+
+
+be “flattered,” that these types of rumors were “common” and “inconsequential,” and that she
+
+should not take the issue further or it would “ruin” her career.
+
+       55.     The actions of Professor Braham, who became Interim Chair of the Department
+
+when Professor Mertins went on medical leave, were also motivated by gender bias. For
+
+example, Professor Braham assigned more significant administrative duties to female faculty
+
+members, including Professor Veikos as set forth herein, but not the men.
+
+       56.     In addition, when Professor Veikos became aware that a male faculty member had
+
+copied a syllabus from one of her courses, Professor Braham dismissed her concerns and made
+
+little effort to address the male faculty member’s inappropriate conduct.
+
+       57.     Another time, a female student approached Professor Veikos about concerns
+
+about working with a male partner with whom she had been assigned to work in one of her
+
+studios. The student had already spoken to Professor Braham, but he had not taken any steps to
+
+address the female student’s concerns. When Professor Veikos asked Professor Braham about
+
+the situation, Professor Braham claimed that he had the situation in hand and that the student
+
+who complained was being “hysterical.”
+
+       58.     In 2009, Penn offered workshops on the subject of unconscious bias in selection
+
+decisions to its various schools, including the School of Design.
+
+       59.     In 2010, Vice Provost for Faculty, Lynn Hollen Lees, conducted training sessions
+
+on how to conduct effective faculty searches for the members of search committees. In one such
+
+training session, Vice Provost Lees confirmed that unconscious bias adversely affected the
+
+consideration of female candidates, and she recommended that decision makers become familiar
+
+with research on bias and take steps to conduct structured, evidence-based reviews of candidates.
+
+
+
+
+                                                 10
+        Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 14 of 65
+
+
+
+
+       60.     At a Department of Architecture Faculty meeting on December 1, 2010, Professor
+
+Ali Malkawi (male) presented on the status of a search for a new Assistant Professor in
+
+Environmental Building Design. In that context, Professor Fierro raised the issue of unconscious
+
+bias in hiring, and referenced the University’s communications on the subject.
+
+       61.     In response, several male Professors in the Department became very defensive,
+
+indicating that there was no way they could be biased based on gender because there was
+
+(supposedly) no way to tell the gender of the candidates from the search materials. Professor
+
+Witold Rybczynski (male) said the concept of unconscious bias was “bullshit.”
+
+       62.     The Minutes of the Department meeting, distributed by Professor Braham, include
+
+the following summary of the discussion: “The concept of Objective Bias [sic] was raised but
+
+discounted by the committee, especially in terms of gender, because [we] did not have this
+
+information to be biased by.”
+
+Professor Veikos’ Tenure Probationary Period and Qualifications for Tenure
+
+       63.     Penn appointed Professor Veikos as an Assistant Professor on a tenure track on
+
+July 1, 2003 for a four (4) year term. In accordance with Penn’s policies, Professor Veikos
+
+anticipated her application for tenure would be reviewed during the 2008/2009 academic year.
+
+       64.     Professor Veikos sought approval to travel with students to Brazil during the
+
+2004/2005 academic year in order further her research in support of the publications that would
+
+be required for tenure. At the time, Professor Veikos had been awarded a Rotch Traveling Studio
+
+Scholarship to support field research in Brazil during the 2004/2005 academic year.
+
+       65.     Professor Mertins (male), as Chair of the Department, denied her request. Instead,
+
+Professor Veikos was forced to delay her trip to Brazil to the following year.
+
+
+
+
+                                               11
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 15 of 65
+
+
+
+
+        66.    In May 2006, Penn confirmed Professor Veikos’ reappointment as Assistant
+
+Professor for three (3) years, effective July 1, 2007.
+
+        67.    In anticipation of the birth of her son, Professor Veikos sought and received a
+
+50% reduction in her teaching obligations for the 2006/2007 academic year, which meant that
+
+she would continue her duties throughout the year, except that she would not be required to teach
+
+during the Fall Semester 2006.
+
+        68.    Without Professor Veikos’ consent, Professor Braham and Dean Hack nominated
+
+her to partner with Drexel University in its bid to host the Annual Meeting of the Association of
+
+Collegiate Schools of Architecture (ACSA) to be held in March 2007. Dean Hack did not inform
+
+Professor Veikos of the situation until the bid was accepted. Although he gave Professor Veikos
+
+the opportunity to refuse this academic service duty, which required significant time and effort,
+
+he framed the situation as a reasonable substitute for her reduced teaching obligations. Professor
+
+Veikos agreed to complete the additional work.
+
+        69.    Professor Veikos gave birth to her son, Alexander, on September 28, 2006. She
+
+resumed her full duties, including a full teaching schedule, for the Spring semester.
+
+        70.    In Spring 2007, Professor Veikos applied for and received a one-year extension of
+
+her tenure probationary period pursuant to Penn’s “family-friendly” policies.
+
+        71.    At that time, Professor Veikos was working on a book project that included an
+
+extensive Appendix in which she was translating a prior work by Lina Bo Bardi, a female
+
+Brazilian architect. Given the timing of the birth of her son, the scope of the project, and her goal
+
+to have at least one book published prior to the end of her probationary period, Professor Veikos
+
+decided to shift her focus to publishing an introductory essay to the translated work as a separate
+
+book.
+
+
+
+                                                 12
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 16 of 65
+
+
+
+
+        72.    Professor Veikos made her decision in consultation with Faculty mentors,
+
+including David Leatherbarrow, who expressly supported her decision to focus on publishing the
+
+introductory essay and translation first as a separate book, rather than an appendix to her other
+
+book.
+
+        73.    Professor Leatherbarrow also confirmed at the time that publication of the
+
+translation with an introductory essay, rather than an original work, would not negatively impact
+
+Professor Veikos’ tenure review, since Penn granted tenure to Professor Mertins (male) on one
+
+published translation as well.
+
+        74.    In Fall 2007, Professor Braham scheduled Professor Veikos’ “junior research
+
+leave,” which was a leave from teaching to conduct research required for her tenure publications.
+
+In light of Professor Veikos’ extension of her probationary period, this leave should have been
+
+delayed by one year. However, Professor Braham never consulted with Professor Veikos about
+
+the timing of the research leave; he just went ahead and did not schedule her to teach that
+
+semester.
+
+        75.    On October 1, 2008, Marilyn Jordan Taylor (female), an urban design practitioner
+
+with no academic experience, was appointed Dean of the School of Design, replacing Gary
+
+Hack.
+
+        76.    In the 2009/2010 academic year, Professor Veikos had the opportunity to apply
+
+for tenure even though she had one year left in her probationary period. At that time, in
+
+consultation with both Department Faculty and the Dean, Professor Veikos decided that she
+
+would postpone her tenure application to the following academic year to ensure that she would
+
+be able to include a publishing contract for her first book, Lina Bo Bardi: The Theory of
+
+Architectural Practice, in her tenure dossier.
+
+
+
+                                                 13
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 17 of 65
+
+
+
+
+       77.     Professor Veikos and her Faculty mentors also discussed a preference to postpone
+
+the tenure review to the next year in order to allow the newly appointed Dean to become familiar
+
+with her responsibilities and role in connection with tenure cases.
+
+       78.     At around the same time, Dean Taylor appointed Professor Veikos to the Search
+
+Committee for a new Chair of the Department, corroborating the Dean’s perception that
+
+Professor Veikos had a role in determining the direction of the Department moving forward. In
+
+that conversation, Dean Taylor advised Professor Veikos that she had “nothing to worry about”
+
+with respect to her case for tenure.
+
+       79.     At the time of her review, Professor Veikos clearly met the criteria for tenure at
+
+Penn. By then, Professor Veikos had published numerous peer-reviewed articles and papers in
+
+the field of Visual Studies. Professor Veikos was also widely recognized in academia across the
+
+country as a result of her publications and presentations, her Rotch Traveling Scholarship
+
+Award, Cass Gilbert Fellowships, Graham Foundation for the Advancement of the Arts Award,
+
+Alice Paul Research Fellowship, and other prestigious research grants and awards.
+
+       80.     Professor Veikos’ status as a thought leader in the field of Visual Studies was
+
+clearly demonstrated through all of her writing, her invited workshops and lectures, and through
+
+her numerous former students and mentees who were actively teaching her ideas at universities
+
+around the world.
+
+       81.     With regard to Professor Veikos’ forthcoming Bo Bardi book, Professor
+
+Leatherbarrow opined that it would be an “important book for some time in the future” and be
+
+“followed by others of similar significance.” As to Professor Veikos’ scholarship, Professor
+
+Leatherbarrow characterized it as “original and significant.”
+
+
+
+
+                                                14
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 18 of 65
+
+
+
+
+       82.     Similarly, Kenneth Frampton, Ware Professor of Architecture at Columbia
+
+University, who also recommended Professor Veikos’ book for publication, praised the range
+
+and subject matter of her writing.
+
+Braham’s Discriminatory Handling of Professor Veikos’ Tenure Application
+
+       Braham’s Intentional Sabotage of the External Review Process
+
+       83.     As interim Chair of the Department of Architecture, Professor Braham had the
+
+authority and responsibility to oversee Professor Veikos’ tenure application process, lead the
+
+faculty discussion, record the Department vote, and make the case before the Personnel
+
+Committee.
+
+       84.     Professor Braham’s responsibilities also included submitting the dossier on the
+
+candidate in accordance with University and School of Design procedures and ensuring the
+
+appropriateness of external reviewers and the quality of the reviews conducted by the faculty and
+
+any ad hoc committees.
+
+       85.     Throughout the process, Professor Braham led Professor Veikos to believe that he
+
+supported her candidacy for tenure, and was committed to managing the process effectively.
+
+       86.     However, rather than facilitating Professor Veikos’ tenure review in a
+
+professional and objective manner, Professor Braham purposely sabotaged her application
+
+because of her gender and her familial status, particularly the fact that she had taken advantage
+
+of Penn’s policy to extend her tenure probationary period following the birth of her son.
+
+       87.     Professor Braham initiated his facilitation of Professor Veikos’ tenure review in
+
+December 2010, by sending her a draft letter to be sent to external reviewers that referred to her
+
+with male pronouns.
+
+
+
+
+                                                15
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 19 of 65
+
+
+
+
+        88.     This was the same month that the men in the Department of Architecture declared
+
+the topic of unconscious gender bias to be “bullshit.”
+
+        89.     Professor Braham had an affirmative obligation to frame Professor Veikos’ area
+
+of expertise as Visual Studies, and to select external reviewers who were well positioned to opine
+
+on her candidacy in that area. Instead, Professor Braham’s communications about the scope of
+
+Professor Veikos’ expertise were limited to the work of Bo Bardi, and he did not fulfill his
+
+obligations with respect to his selection of external reviewers.
+
+        90.     Aside from his own inappropriate selection of reviewers, Professor Braham
+
+violated Penn’s policy relating to Professor Veikos’ ability to select reviewers.
+
+        91.     The School of Design’s rules permit the tenure candidate to select up to three of
+
+the external reviewers. In Professor Veikos’ case, however, Professor Braham only allowed her
+
+to choose two names.
+
+        92.     Rather than allow Professor Veikos to make a third selection, Professor Braham
+
+actually required her to select a reviewer whose work was ideologically opposed to her own. The
+
+selection of such a reviewer was inappropriate regardless of whether it was on the University’s
+
+list or Professor Veikos’ list.
+
+        93.     In the letters soliciting the opinions of the external reviewers, Professor Braham
+
+also violated Penn policy by not including the required language about Professor Veikos’
+
+extension of her probationary period.
+
+        94.     By doing so, Professor Braham invited a biased assessment from reviewers who
+
+would inaccurately assume Professor Veikos had an extra year in which to produce material for
+
+her tenure dossier, an outcome Penn’s policy was expressly designed to avoid.
+
+
+
+
+                                                 16
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 20 of 65
+
+
+
+
+       95.     Professor Braham also rushed the external review process so that the external
+
+reviewers were not even aware that Professor Veikos’ book had been accepted for publication by
+
+Routledge, Taylor & Francis Group, a well-regarded scholarly press.
+
+       96.     Specifically, Professor Braham knew that Professor Veikos was expecting
+
+confirmation of a publication contract for her book in early 2011, which was ultimately received
+
+on March 24, 2011.
+
+       97.     However, Professor Braham set the deadline for the responses from the external
+
+reviewers in early March 2011, without notice or confirmation that the publishing contract for
+
+Professor Veikos’ book was expected to and/or had been secured.
+
+       98.     Presumably to hide his misconduct, Professor Braham repeatedly told Professor
+
+Veikos that he would communicate the status of her book to the reviewers, even though he did
+
+not.
+
+       99.     Not surprisingly, Professor Braham’s discriminatory efforts to present Professor
+
+Veikos in a negative light by making ill-advised reviewer selection decisions, leaving out the fact
+
+that her probationary period was extended by one year, and hiding the fact that her book had
+
+been accepted for publication, among others, were successful.
+
+       100.    Although many letters from external reviewers were extremely positive, several
+
+of the letters contained negative opinions about Professor Veikos’ tenure candidacy that were
+
+clearly and improperly based on incorrect information about Professor Veikos’ status and the
+
+contents of her dossier.
+
+       101.    As Professor Veikos had feared, the external reviewer that Professor Braham
+
+forced Professor Veikos to include in her list wrote a very negative letter questioning her
+
+scholarship.
+
+
+
+                                                17
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 21 of 65
+
+
+
+
+       Braham’s Intentional Sabotage of the Faculty Voting Process
+
+       102.    Prior to the Faculty vote on Professor Veikos’ tenure case, Professor Braham
+
+solicited letters from the Faculty.
+
+       103.    Professors Leatherbarrow and Fierro both submitted letters strongly supporting
+
+Professor Veikos’ tenure case.
+
+       104.    The School of Design’s procedure for utilizing an Ad Hoc Committee for tenure
+
+reviews expressly contemplates that a senior faculty member who is knowledgeable about the
+
+candidate’s field will conduct a careful reading of the dossier and offer a written appreciation of
+
+it for the benefit of the various groups of internal reviewers (faculty, personnel committee, dean,
+
+and university committees).
+
+       105.    In violation of this procedure, Professor Braham selected Professor Rahim and
+
+Professor Weiss for the Ad Hoc Committee. Neither Professor Rahim nor Professor Weiss had a
+
+sufficient understanding of Visual Studies to serve on the Ad Hoc Committee.
+
+       106.    Moreover, both Professors Rahim and Weiss had been tenured on their design
+
+work, rather than their scholarship, and their letter about Professor Veikos’ candidacy improperly
+
+assessed her design work, rather than her scholarship in Visual Studies.
+
+       107.    Upon information and belief, Professor Braham selected Professor Rahim to serve
+
+on the Ad Hoc Committee with knowledge that he opposed Professor Veikos’ candidacy.
+
+       108.    In addition to being improperly focused on Professor Veikos’ design work as
+
+opposed to her scholarly achievements in Visual Studies, Professors Rahim and Weiss were
+
+improperly evaluating her candidacy based on the “quantity” of her work (which they described
+
+as “limited”), rather than its quality, which was the purpose of the Ad Hoc Committee.
+
+
+
+
+                                                18
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 22 of 65
+
+
+
+
+       109.    This improper focus was exacerbated by the fact that Professors Rahim and Weiss
+
+inaccurately identified the start of Professor Veikos’ probationary period to be 2002, instead of
+
+2003, which suggests they were evaluating her work as if she had an additional year for
+
+production.
+
+       110.    On April 6, 2011, six (6) of the eight (8) members of the tenured Faculty in the
+
+Department of Architecture met to discuss and cast their votes for Professor Veikos’ tenure
+
+application. Present in the room were: William Braham; Annette Fierro; David Leatherbarrow;
+
+Frank Matero; Ali Rahim; and Witold Rybczynski. Ali Malkawi and Marion Weiss were not
+
+present.
+
+       111.    As interim Chair, Professor Braham collected the paper ballots and announced the
+
+vote as five (5) in favor and one (1) against. The tally at the meeting included a vote in favor
+
+from Professor Braham.
+
+       Braham’s Intentional Sabotage of the Personnel Committee Process
+
+       112.    Despite the overwhelmingly positive support Professor Veikos received from the
+
+tenured Faculty, Professor Braham intentionally sought to defeat her tenure candidacy in his
+
+presentation of her case to the Personnel Committee.
+
+       113.    In violation of past procedures in the Department of Architecture, Professor
+
+Braham did not circulate a draft of his letter to the Personnel Committee about Professor Veikos’
+
+candidacy prior to submitting it.
+
+       114.    In that letter, forwarded to the Personnel Committee on April 6, 2011, Professor
+
+Braham represented that the Department vote was four (4) in favor and two (2) against, with his
+
+vote changed from how it was communicated in the Faculty meeting.
+
+
+
+
+                                                19
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 23 of 65
+
+
+
+
+        115.   In the same letter to the Personnel Committee, Professor Braham also explicitly
+
+advocated against Professor Veikos’ tenure promotion, supposedly because he could not
+
+“dismiss” the negative feedback from the external reviewers relating to the quantity of her
+
+scholarly production, a false perception that he had purposely created.
+
+        116.   Specifically, Professor Braham highlighted excerpts from the external consultants,
+
+who “lauded the scholarship, but questioned whether there was a sufficient quantity of work,”
+
+and who “found the total body of work less substantial than expected.”
+
+        117.   Knowing that the opinions of the external reviewers were based on an inaccurate
+
+perception of Professor Veikos’ publication record, which he caused, Professor Braham
+
+encouraged the Personnel Committee to accept the assessments of those external reviewers over
+
+the overwhelmingly positive support from the Faculty vote.
+
+        118.   In addition, in violation of the intent of Penn’s policy relating to the extension of
+
+the tenure probationary period for birth of a child, Professor Braham wrote: Professor Veikos
+
+was “reappointed in 2006, and then the following year was granted an additional year in her
+
+tenure-probation period because of the birth of her son” (emphasis added).
+
+        119.   Throughout his advocacy against Professor Veikos to the Personnel Committee,
+
+Professor Braham focused on the purported inadequacy of the volume of her published work, but
+
+never questioned the quality of her scholarship.
+
+        120.   The School of Design Personnel Committee met on April 8, 2011 to consider
+
+Professor Veikos’ tenure application. At the meeting, Professor Braham actively advocated
+
+against tenure. The Personnel Committee voted against tenure by a vote of zero (0) for and four
+
+(4) against.
+
+
+
+
+                                                   20
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 24 of 65
+
+
+
+
+       121.    In subsequent discussions with Professor Veikos about the Personnel
+
+Committee’s consideration of her tenure case, Professor Braham told her that the external
+
+reviewers had questioned her decision to focus on publishing the Bo Bardi translation as her first
+
+book separate from her broader project.
+
+       122.    In that context, Professor Veikos reminded Professor Braham that she made that
+
+decision in consultation with Faculty mentors, with the expectation that publishing the first book
+
+would be sufficient for tenure, and he had done the same thing. In response, Professor Braham
+
+claimed the shift was because she was “having trouble with the first book” after her son was
+
+born, and told her: “Look, you can’t argue it both ways. Either you finished what you expected to
+
+finish or you have an excuse for not finishing.”
+
+       123.    Professor Braham’s conduct and statements evidence his resentment and
+
+animosity against Professor Veikos because of her efforts to combine her caregiving
+
+responsibilities as a parent with her efforts to achieve tenure at Penn.
+
+       124.    In an effort to hide his biases, Professor Braham told Professor Veikos that there
+
+was a “split vote” on her case within the Faculty, and never acknowledged that he had advocated
+
+against her candidacy to the Personnel Committee.
+
+Penn’s Willful Abdication Of Its Responsibility To Address Braham’s Discriminatory Actions
+Resulted In The Discriminatory Denial Of Professor Veikos’ Tenure Application
+
+       The Perfunctory Reconsideration By The Personnel Committee
+
+       125.     On April 18, 2011, Dean Taylor and Professor Leatherbarrow met with Professor
+
+Veikos to advise her that the Personnel Committee had voted against her promotion to Associate
+
+Professor with tenure.
+
+
+
+
+                                                   21
+        Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 25 of 65
+
+
+
+
+       126.    Dean Taylor was clearly surprised at the outcome, and agreed to give Professor
+
+Veikos an opportunity to bring additional information to the attention of the Personnel
+
+Committee for reconsideration.
+
+       127.    At that time, Professor Veikos was unaware of the many ways in which Professor
+
+Braham had intentionally sabotaged her tenure case.
+
+       128.    Despite the unexpected outcome of the initial Personnel Committee vote, Dean
+
+Taylor took no steps to review Professor Braham’s conduct with respect to Professor Veikos’
+
+tenure case for evidence of mishandling or bias.
+
+       129.    In addition, Dean Taylor took no steps to ensure that the reconsideration of
+
+Professor Veikos’ tenure case at the Personnel Committee was anything more than perfunctory.
+
+       130.    On Thursday, April 21, 2011, Professor Braham asked Professor Veikos to submit
+
+any additional materials for consideration by the Personnel Committee no later than the next day,
+
+April 22, 2011 (Good Friday), with the expectation that another vote would be taken at the
+
+Personnel Committee’s next scheduled meeting on Monday, April 25, 2011, the day after Easter.
+
+       131.    The next day, April 22, 2011, Professor Veikos was advised that the Department’s
+
+offices were closing at 1:30 pm, and all new materials had to be submitted by that time.
+
+       132.    Despite the short deadline, Professor Veikos submitted a letter to the Personnel
+
+Committee in which she highlighted her concern that the external reviewers may not have been
+
+aware that her manuscript for Lina Bo Bardi: The Theory of Architectural Practice had been
+
+accepted for publication. Among other accomplishments, Professor Veikos also confirmed that
+
+the proposal for her second book, The Sense of Surface: Lina Bo Bardi’s Drawings and
+
+Buildings, was favorably evaluated by Ashgate Publishing Company’s Commissioning Editor,
+
+Visual Studies, and was being circulated to reviewers for publication.
+
+
+
+                                               22
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 26 of 65
+
+
+
+
+       133.    In the meantime, Professor Fierro became aware that Professor Braham had
+
+changed how his vote at the Faculty meeting was reflected in his initial letter to the Personnel
+
+Committee. At Professor Fierro’s insistence, Professor Braham revised his April 6, 2011 letter to
+
+show the Faculty vote as five (5) in favor and one (1) against.
+
+       134.    When the Personnel Committee met again on April 25, 2011, Professor Braham
+
+again attended the meeting and again advocated against the promotion, even though he told
+
+Professor Veikos that he would have no role in the reconsideration process.
+
+       135.    In refusing to approve Professor Veikos’ application for tenure with a vote of two
+
+(2) for and three (3) against, the Personnel Committee again referenced the “concerns” of the
+
+external reviewers about the quantity of her published work.
+
+       136.    Despite their focus on quantity of production, the Personnel Committee took no
+
+steps to investigate Professor Veikos’ concerns that the external reviewers were not aware of the
+
+publication contract for her book.
+
+       Penn Administration’s Failure to Investigate And Rectify Braham’s Discriminatory Bias
+
+       137.    Soon after the Personnel Committee’s second vote against her tenure case,
+
+Professor Veikos began to question Professor Braham’s handling of the process. For example,
+
+Professor Veikos asked Dean Taylor whether it was possible that the external reviewers had not
+
+been informed of the publication contract for her first book. Dean Taylor did not have a
+
+response.
+
+       138.    On May 4, 2011, Professor Veikos met with Dean Taylor to appeal to her to bring
+
+her tenure application to the Provost with a positive recommendation in light of the strength of
+
+her qualifications, and the mishandling of the process.
+
+
+
+
+                                                23
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 27 of 65
+
+
+
+
+       139.    A few days later, Professor Veikos confirmed her request in writing, and
+
+referenced the section of the School of Design policies that expressly permits the Dean to
+
+forward recommendations for tenure to the Provost that did not receive a positive endorsement of
+
+the personnel committee.
+
+       140.    Professor Veikos also met with Penn’s Ombudsman, Joan Goodman (female), to
+
+seek assistance to review the tenure process. At the suggestion of Professor Goodman, Professor
+
+Veikos requested to see a copy of Professor Braham’s letter to the external reviewers and
+
+learned for the first time that it violated Penn’s policy by excluding the required language about
+
+the extension of her probationary period.
+
+       141.    Unbeknownst to Professor Veikos, Penn sent e-mails to each of the nine external
+
+reviewers who opined on Professor Veikos’ tenure case in early May 2011 to advise them that
+
+information about the Policy on the Extension of the Probationary Periods had been mistakenly
+
+excluded from her dossier.
+
+       142.    Penn asked that each of the external reviewers reply within less than a week to
+
+confirm whether the Policy’s application to Professor Veikos’ tenure case changed their opinions
+
+about her candidacy.
+
+       143.    The process of asking the external reviewers to confirm whether this new
+
+information impacted their opinions within less than one week, at the busiest time of the
+
+academic year, was completely inadequate to remedy the significant policy violation.
+
+       144.    By the required deadline, one external reviewer confirmed that the new
+
+information improved her impression of Professor Veikos’ productivity. .
+
+       145.    By that point, Professor Goodman had suggested that Professor Veikos consult
+
+with Bethany Wiggin, a candidate for tenure in the School of Arts & Sciences, Department of
+
+
+
+                                                24
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 28 of 65
+
+
+
+
+Germanic Languages and Literatures. As with Professor Veikos, Penn had also violated the
+
+Policy on the Extension of the Probationary Periods in Professor Wiggin’s tenure process..
+
+        146.    As was the case with Professor Veikos, Professor Wiggin received a positive vote
+
+for tenure from the Faculty in her Department, but the Personnel Committee vote was against
+
+and contained negative references to her pace of production.
+
+        147.    On May 12, 2011, with support from Professor Goodman, Professor Veikos wrote
+
+to Lynn Hollen Lees, Vice Provost for Faculty, about the inadequacy of Penn’s efforts to rectify
+
+its violation of the Policy on the Extension of Probationary Periods. Professor Veikos
+
+specifically requested a new tenure review in the next academic year, and an extension of her
+
+employment during the period of review.
+
+        148.    At that time, Professor Veikos was still not yet aware of the other significant ways
+
+in which Professor Braham had intentionally sabotaged her tenure candidacy because Penn
+
+restricted her access to her tenure file.
+
+        149.    On May 13, 2011, the Personnel Committee met to consider the responses from
+
+the external reviewers about whether information about Penn’s Policy on the Extension of
+
+Probationary Periods would change their opinions.
+
+        150.    In her letter confirming the substance of that meeting addressed to Dean Taylor,
+
+the Chair of the Personnel Committee stated that eight (8) of the external reviewers said the
+
+additional information did not affect their previous opinions. However, she made no mention of
+
+the reviewer who confirmed the information positively impacted her view of Professor Veikos’
+
+productivity.
+
+
+
+
+                                                 25
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 29 of 65
+
+
+
+
+          151.   The Personnel Committee Chair’s May 13, 2011 letter also inaccurately asserted
+
+that Professor Veikos’ probationary period had been extended to nine (9) years, when it had been
+
+extended only once to eight (8) years.
+
+          152.   On May 17, 2011, Vice Provost Lees responded to Professor Veikos’ complaint
+
+about the processing of her tenure case. In that letter, Vice Provost Lees claimed that sending
+
+follow up letters to the external reviewers about the failure to include the provisions required by
+
+Penn’s Policy was a “sufficient remedy for the omission in the original letters.”
+
+          153.   Vice Provost Lees also asserted that Penn requires tenured faculty to be “thought
+
+leaders in their field,” and that issues of “quantity of production are secondary to judgments of
+
+quality and intellectual eminence.”
+
+          154.   Vice Provost Lee’s comments about the supposed reason for the Personnel
+
+Committee’s negative vote directly contradicted Professor Braham’s explanations that it was
+
+Professor Veikos’ quantity of production, and not the quality of her scholarship, that precluded
+
+tenure.
+
+          155.   Professor Veikos also confided in Professor Fierro about what had transpired. In
+
+those communications, Professor Veikos learned of Professor Braham’s mishandling of how the
+
+Faculty vote was reported to the Personnel Committee.
+
+          156.   During the time she was consulting with Penn’s Ombudsman about her case,
+
+Professor Veikos also contacted David Brownlee (male), the Chair of the Faculty Grievance
+
+Committee, about her options.
+
+          157.   Both Professor Veikos and Professor Fierro appealed to Professor Brownlee to
+
+support a Grievance Committee review of the situation, and to consider continuing Professor
+
+
+
+
+                                                 26
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 30 of 65
+
+
+
+
+Veikos’ employment to allow for the tenure review process to be conducted again in a fair and
+
+unbiased way.
+
+        158.     By letter dated May 27, 2011, Dean Taylor acknowledged Professor Veikos’
+
+requests for a re-review of her tenure case, confirmed that conversations were continuing, and
+
+also reminded Professor Veikos that her employment at Penn was scheduled to end effective
+
+June 30, 2011.
+
+        159.     In the Spring 2011, soon after learning of the negative Personnel Committee vote,
+
+Professor Wesley asked to meet with Professor Veikos. During their discussion, Professor
+
+Wesley told Professor Veikos that she should feel “lucky” because she had a “good run.”
+
+Professor Wesley discouraged her from advocating to Dean Taylor to take her tenure case to the
+
+Provost in order to avoid a formal denial. That way, according to Professor Wesley, Professor
+
+Veikos could leave “gracefully” and no one would ever know she had been denied tenure.
+
+        160.     On June 8, 2011, Professor Veikos met with Professor Brownlee to talk about the
+
+grievance process. During that discussion, Professor Brownlee attempted to talk Professor
+
+Veikos out of filing a grievance, and instead to take advantage of the “good will” she had in
+
+order to find some resolution short of a re-review of her tenure case. Professor Brownlee
+
+indicated that Penn was considering an offer for Professor Veikos to stay in some capacity to
+
+stabilize her financially.
+
+        161.     Professor Brownlee also told Professor Veikos that he had not yet decided
+
+whether he would find adequate grounds for a grievance in her case, even though her situation fit
+
+squarely into the grievance requirements, which includes actions that are: (1) arbitrary and
+
+capricious; (2) discriminatory with regard to gender; and/or (3) not in compliance with
+
+University procedures or regulations.
+
+
+
+                                                 27
+        Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 31 of 65
+
+
+
+
+       162.    During the same conversation, Professor Brownlee questioned whether Penn’s
+
+Policy on the Extension of Probationary Periods was even helpful to working mothers.
+
+According to Professor Brownlee, all of the men who had taken advantage of the policy obtained
+
+tenure, but only a small percentage of women who had taken the extension obtained tenure.
+
+       163.    Later the same day, Professor Veikos met with Dean Taylor about her options.
+
+Professor Veikos communicated to Dean Taylor that the only way to remedy the significant
+
+procedural errors was to allow a re-review in the normal cycle the following year, which would
+
+include her continued employment during the re-review period. At that point, Professor Veikos’
+
+employment was scheduled to terminate on June 30, 2011.
+
+       164.    Professor Veikos also made Dean Taylor aware that she was considering filing a
+
+formal grievance. In response, Dean Taylor asked her to consider how she wanted to spend her
+
+next year at Penn – productively, or in a long and drawn out grievance procedure.
+
+       165.    Dean Taylor advised Professor Veikos during the same discussion that she,
+
+Professor Braham, and Professor Brownlee had all communicated together and decided that the
+
+missing paragraph in the external review letters did not have any negative impact on her tenure
+
+candidacy.
+
+       166.    In their discussion, Dean Taylor repeatedly told Professor Veikos that she had
+
+gotten an “extra” year to compile her tenure dossier, which was not only false but represented a
+
+complete distortion of Penn’s policies.
+
+       167.    Dean Taylor offered to “remedy” the situation by extending Professor Veikos’
+
+employment for one year with the title of “Distinguished Fellow,” so that she would have time to
+
+look for another job. When Professor Veikos asked her to confirm the offer in writing, Dean
+
+Taylor said she was giving “her word.”
+
+
+
+                                               28
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 32 of 65
+
+
+
+
+       168.    At that point, no one from Penn had taken any steps to reasonably investigate
+
+Professor Veikos’ concerns about Professor Braham’s misconduct in connection with her tenure
+
+process.
+
+       169.    Instead, Professor Wesley again sought out Professor Veikos, and while
+
+purporting to empathize with her situation, discouraged her from pursuing a grievance. Professor
+
+Wesley told Professor Veikos there was no one to blame with respect to her tenure denial, and
+
+“things just happen.”
+
+Professor Veikos’ Complaint of Discrimination and Penn’s Retaliatory Response
+
+       170.    By letter dated June 15, 2011, Professor Veikos thanked the Dean for her offer to
+
+continue her employment for one year so that she could conduct a job search, but reiterated her
+
+request to move her application for promotion to Associate Professor with tenure to the Provost
+
+despite the Personnel Committee’s negative vote.
+
+       171.    In the same letter, Professor Veikos conveyed her intent to file a grievance with
+
+the Faculty Grievance Committee, outlined the reasons for her complaint at length, and asked for
+
+a written explanation of the reasons her tenure application was denied.
+
+       172.    Professor Veikos expressly asserted her concerns that Professor Braham had
+
+treated her differently than male candidates in the tenure process because of her gender and/or
+
+because she had requested an extension of her probationary period when her son was born. She
+
+also outlined a series of other incidents suggesting that Professor Braham and other male leaders
+
+in the Department of Architecture were biased against women.
+
+       173.    On the same date, Professor Veikos’ attorney wrote to Penn’s President, Amy
+
+Gutmann, seeking a full review of the situation before her client’s employment terminated at the
+
+end of the month.
+
+
+
+                                                29
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 33 of 65
+
+
+
+
+       174.       On the evening of June 30, 2011, Dean Taylor sent Professor Veikos a letter to set
+
+forth the reasons her tenure case was not approved. Specifically, Dean Taylor claimed that Penn
+
+denied tenure to Professor Veikos because: (1) the quality of her work was seen as “weak” by
+
+several reviewers and faculty members; (2) her productivity did not meet expectations for
+
+promotion, making the assessment in full awareness of the extension of her probationary period
+
+for one year; and (3) there was little evidence presented that she was a thought leader in her field
+
+and discipline.
+
+       175.       In her June 30, 2011 letter, Dean Taylor also advised Professor Veikos that her
+
+employment at Penn terminated effective that day, and she made no mention of her prior offer to
+
+continue her employment for the upcoming academic year.
+
+       176.       Professor Veikos was as qualified, if not more qualified, than the male professors
+
+with and without caregiving responsibilities who were granted tenure in the Department of
+
+Architecture.
+
+       177.       The reasons stated by Penn in Dean Taylor’s letter for denying tenure to Professor
+
+Veikos were false and just pretext for gender and familial status discrimination and retaliation.
+
+       178.       Despite taking the position that Penn’s School of Design had done nothing wrong
+
+with the processing of Professor Veikos’ tenure case, Dean Taylor advised Professor Veikos that
+
+they had decided to conduct a “re-evaluation” of her case for tenure and promotion. Dean Taylor
+
+stated that the re-evaluation process would begin “immediately,” but provided no other details of
+
+the process.
+
+       179.       The next day, July 1, 2011, Professor Veikos met with Professor Leatherbarrow at
+
+length about her status. Professor Leatherbarrow confirmed that the Dean had chosen not to
+
+move her tenure case forward to the Provost, so the re-evaluation was the only path to tenure.
+
+
+
+                                                  30
+           Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 34 of 65
+
+
+
+
+       180.    As the new interim Chair of the Department, Professor Leatherbarrow would be
+
+responsible for the re-evaluation process. In his meeting with Professor Veikos on July 1, 2011,
+
+Professor Leatherbarrow said he could not predict the outcome, but assured his colleague that he
+
+would handle it fairly, and he would argue in favor of tenure.
+
+       181.    Later that day (July 1, 2011), Professor Veikos contacted Dean Taylor to discuss
+
+the procedures for the re-evaluation, and to find out whether her offer of continued employment
+
+was still available. Dean Taylor was very upset, and advised Professor Veikos that her actions
+
+had “changed the tone of the conversation,” that they were where they were because of her letter,
+
+that the conversation had really changed since she had “gotten a lawyer,” and the re-review
+
+would “remove any hint of bias” from the case.
+
+       182.    Upon information and belief, and in contrast to Professor Veikos’ situation, Penn
+
+approved Professor Bethany Wiggin’s application for tenure after the Ombudsman, Joan
+
+Goodman, became aware that the Personnel Committee’s negative decision in her case was
+
+likely impacted by her Department’s violation of the Policy on the Extension of Probationary
+
+Periods.
+
+       183.    Upon information and belief, Professor Wiggin did not submit a complaint of
+
+discrimination to Rebecca Bushnell, Dean of the School of Arts & Sciences, and Dean Bushnell
+
+supported her case for tenure.
+
+       184.    In Professor Veikos’ case, Dean Taylor refused to take her tenure case forward to
+
+the Provost, and Penn refused to approve her promotion, in retaliation for her complaint of
+
+discrimination.
+
+       185.    Penn and Dean Taylor withdrew the prior offer to continue Professor Veikos’
+
+employment for one year in retaliation for her complaint of discrimination.
+
+
+
+                                                 31
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 35 of 65
+
+
+
+
+Penn’s Discriminatory and Retaliatory Re-Review of Professor Veikos’ Tenure Case
+
+       186.       Penn’s offer to conduct a “re-evaluation” of Professor Veikos’ tenure application
+
+was nothing more than a misguided attempt to insulate itself from her legitimate claims of
+
+discrimination arising out of the initial tenure review process.
+
+       187.       Penn’s handling of the re-evaluation process was tainted by blatant retaliation
+
+from the start.
+
+       188.       In her initial communication about the “re-evaluation” of Professor Veikos’
+
+tenure case, Dean Taylor suggested that the only thing that needed to be completed to move
+
+forward was for Professor Veikos to submit three new names for external reviewers.
+
+       189.       At that time, Penn made no attempts to correct the numerous mistakes made
+
+during the first tenure review process, as outlined in Professor Veikos’ June 15, 2011 letter to
+
+Dean Taylor.
+
+       190.       By letter dated July 22, 2011, Dean Taylor provided Professor Veikos
+
+“clarification” of the procedures relating to the re-evaluation, supposedly so that Penn could
+
+move forward with the process in a “timely” manner. The letter identified deadlines for
+
+Professor Veikos to submit updated dossier materials based on a target date of August 15, 2011
+
+to send the tenure file to the external reviewers. Dean Taylor also advised Professor Veikos that
+
+she was expected to vacate her office by August 22, 2011.
+
+       191.       Dean Taylor demanded that Professor Veikos meet these deadlines with respect to
+
+her tenure dossier with knowledge that Professor Veikos’ book publication deadline was also
+
+August 15, 2011. Dean Taylor’s purposeful interference with Professor Veikos’ publishing
+
+obligations was motivated by retaliatory bias.
+
+
+
+
+                                                   32
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 36 of 65
+
+
+
+
+       192.    In response, Professor Veikos requested additional time to have the dossier
+
+materials updated to address the prior errors and omissions, as well as to have them
+
+professionally bound and printed. She also asked if she could continue to have access to her
+
+office and the University’s resources during the re-evaluation process, which was critical to her
+
+ability to meet her publication deadlines. Finally, Professor Veikos asked Dean Taylor to
+
+reconsider her prior offer to extend her employment, if not for the full year, then during the re-
+
+evaluation process.
+
+       193.    Despite being faced with unreasonable and retaliatory demands and deadlines,
+
+Professor Veikos met all requirements imposed by Penn with respect to the re-evaluation of her
+
+tenure case.
+
+       194.    By letter dated August 8, 2011, at Dean Taylor’s request, Professor Veikos
+
+identified the errors and omissions contained in the package of her dossier materials when they
+
+were presented to the external reviewers during the initial tenure application process.
+
+       195.    Professor Veikos submitted the corrected versions of her dossier on August 15,
+
+2011 (the digital dossier to be printed and bound), and on August 18, 2011 (in three hard copy
+
+volumes).
+
+       196.    Despite the rushed deadline for submission, and Dean Taylor’s representation that
+
+the dossier would be sent to external reviewers in August, Professor Leatherbarrow contacted
+
+Professor Veikos in mid-September to request additional changes to her Curriculum Vitae,
+
+confirming that the deadlines imposed by Penn were both arbitrary and retaliatory.
+
+       197.    Specifically, Penn asked Professor Veikos to: (1) change her dates of
+
+employment at Penn to reflect that her employment ended; (2) change her role with regard to
+
+Ph.D. Dissertations from “Supervision” to “Advising”; (3) change the references from “External
+
+
+
+                                                 33
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 37 of 65
+
+
+
+
+Examiner” to “Visiting Critic” at other Universities; (4) divide the list of her publications to
+
+identify “Manuscripts” (to be published) separately from “Books” (already published); and (5)
+
+list “Articles in Peer-Reviewed Journals- Manuscripts” and “Articles in Peer-Reviewed Journals”
+
+separately.
+
+       198.    Professor Veikos made the requested changes to her Curriculum Vitae, even
+
+though the prior version was consistent with the Curriculum Vitae that Professor Rahim (male)
+
+had submitted in support of his application for his further promotion to Full Professor (for
+
+example, listing his manuscripts approved for publication under the “Books” heading with a
+
+notation that they were “forthcoming,” not separately under a separate heading for
+
+“Manuscripts”).
+
+       199.    Penn did not send Professor Veikos’ dossier to the external reviewers until
+
+October 31, 2011, and requested that responses be submitted by December 5, 2011. This time, at
+
+least, the letter contained the language about the extension of Professor Veikos’ probationary
+
+period as required by Penn Policy.
+
+       200.    Upon information and belief, the letters solicited from external reviewers during
+
+the re-evaluation process were primarily “neutral” with respect to Professor Veikos’ candidacy
+
+for tenure. Such an outcome was expected in light of Penn’s insistence that Professor Veikos
+
+highlight on her Curriculum Vitae that she was no longer working at Penn. Few external
+
+consultants would risk their reputation by strongly advocating for tenure in such a situation
+
+regardless of how impressed they were by the candidate’s credentials.
+
+       201.    Despite Professor Veikos’ objection to the prior selection of Professors Rahim
+
+and Weiss to serve on the Ad Hoc Committee for her tenure review, Professor Leatherbarrow
+
+asked them to serve in the same role for the re-evaluation process.
+
+
+
+                                                 34
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 38 of 65
+
+
+
+
+        202.   In the “new” letter from this Ad Hoc Committee, which was almost identical to
+
+the letter they submitted in connection with the first review, Professors Rahim and Weiss failed
+
+to correct even the most obvious errors that were identified by Professor Veikos in her letter to
+
+Dean Taylor on June 15, 2011, including their inaccurate identification of the start of her
+
+probationary period as 2002, rather than 2003.
+
+        203.   By letter dated January 20, 2012, Professor Fierro, submitted a letter in
+
+unqualified support of Professor Veikos’ tenure case as she had in the first review.
+
+        204.   On February 1, 2012, Frank Matero (male), one of the Full Professors in the
+
+Department, sent an e-mail to Professor Leatherbarrow opposing Professor Veikos’ application
+
+for tenure, although he would not be available to participate in the Department vote.
+
+        205.   Upon information and belief, it is against the School of Design’s tenure
+
+procedures for a Professor to vote or opine on a tenure file if he or she is not present for the
+
+Department discussion and formal vote.
+
+        206.   Professor Matero had previously voted in favor of Professor Veikos’ tenure case,
+
+and his strong opposition to her application in the re-review process was motivated by retaliatory
+
+bias.
+
+        207.   On February 1, 2012, seven of the eight members of the tenured Faculty of the
+
+Department of Architecture met to discuss and vote on the re-evaluation of Professor Veikos’
+
+case for tenure. The Faculty voted: two (2) in favor of tenure, and five (5) against.
+
+        208.   Professor Leatherbarrow, who had unequivocally supported Professor Veikos’
+
+tenure case the first time, changed his vote, and recommended against promotion.
+
+        209.   In addition to Professors Braham, Matero and Leatherbarrow, at least one other
+
+Professor changed his or her vote to against promotion. Since nothing else had changed with
+
+
+
+                                                 35
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 39 of 65
+
+
+
+
+respect to Professor Veikos’ tenure file that would warrant a negative vote, other than her filing
+
+of discrimination complaints, the new negative Faculty votes were clearly motivated by
+
+retaliation.
+
+        210.   The Personnel Committee met on February 29, 2012, to reconsider Professor
+
+Veikos’ case for tenure, and voted two (2) in favor of tenure and three (3) against.
+
+        211.   The Personnel Committee’s decision was significantly influenced by the
+
+Department’s negative vote and retaliatory bias, including that of the interim Chair, David
+
+Leatherbarrow, and Frank Matero, who also served on the Personnel Committee.
+
+        212.   At the time of the re-evaluation for tenure, Professor Veikos was as qualified, if
+
+not more qualified, than male Professors with and without caregiving responsibilities whose
+
+applications for tenure were granted.
+
+        213.   Penn denied Professor Veikos’ tenure application following the re-evaluation
+
+process because of her gender (female), familial status (mother), and in retaliation for her
+
+complaints of discrimination.
+
+        214.   Penn did not advise Professor Veikos of the tenure denial following the re-
+
+evaluation until May 7, 2012, almost two months after the Personnel Committee’s letter was
+
+delivered to the Dean, even though the Guidelines issued by the American Association of
+
+University Professors (AAUP) advise against such communications beyond March 15, or April
+
+15 at the latest, of any academic year.
+
+        215.   On Monday, May 21, 2012, Professor Veikos went to Penn to collect some of her
+
+personal belongings, which she understood had been placed in storage when the Dean insisted
+
+that she vacate her office due to the limited availability of office space. When she arrived on
+
+
+
+
+                                                36
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 40 of 65
+
+
+
+
+campus, Professor Veikos was led to her former office, which was set up exactly how she had
+
+left it the prior August, and had never been used.
+
+       216.    While on campus, Professor Veikos ran into Professor Matero, who
+
+disingenuously claimed, despite his advocacy against her tenure application: “I am sorry
+
+Cathrine, I did everything I could. It’s a tragedy.”
+
+The Devastating Impact of Penn’s Illegal Actions On Professor Veikos’ Career and Well-Being
+
+       217.    Following Penn’s notice dated June 30, 2011 that it had denied her tenure
+
+application, and her employment was terminated effective that day, Professor Veikos’ world was
+
+turned upside down.
+
+       218.    As a result of Penn’s discriminatory and retaliatory conduct, Professor Veikos
+
+experienced devastating upheaval to her life and the emotional distress that went with it.
+
+       219.    As the primary financial support for her family, Professor Veikos knew she had to
+
+quickly find new employment. At the time, her son was about to turn five (5) years old.
+
+       220.    Professor Veikos was also facing the deadlines for her book, which needed to be
+
+met by August 15, 2011, and additional deadlines thereafter, if she wanted to keep on the
+
+publishing schedule. Yet, she had no longer had financial or administrative support or even space
+
+to continue her work.
+
+       221.    As a result of Penn’s discriminatory and retaliatory conduct, the publication of
+
+Professor Veikos’ first book was delayed, and she was forced to abandon her goal of publishing
+
+her second book.
+
+       222.    Professor Veikos was able to secure employment at California College of the Arts
+
+(CCA) as a Visiting Architect for the 2011/2012 academic year. Although it was a relief to find
+
+
+
+
+                                                 37
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 41 of 65
+
+
+
+
+employment, the new position required Professor Veikos to uproot her son from a stable
+
+community environment and move across the country.
+
+       223.    As a result of Penn’s discriminatory and retaliatory conduct, Professor Veikos
+
+was forced to live apart from her aging parents who lived on the East Coast in order to provide
+
+financial support for her family.
+
+       224.    As a result of Penn’s discriminatory and retaliatory conduct, Professor Veikos
+
+suffered embarrassment, humiliation, mental anguish, and a complete derailment of her career in
+
+academia.
+
+       225.    As a result of Penn’s discriminatory and retaliatory conduct, Professor Veikos has
+
+suffered, and continues to suffer, a loss of earnings and/or earning capacity, and significant
+
+reputational harm.
+
+       226.    Penn’s discriminatory and retaliatory actions were willful and implemented with
+
+malice and/or a reckless disregard for Professor Veikos’ civil rights and warrant the imposition
+
+of punitive damages.
+
+Plaintiff’s Administrative Filings and The PCHR’s Cause Findings
+
+       227.    The PCHR, the administrative agency in Philadelphia authorized to enforce the
+
+Philadelphia Fair Practices Ordinance, conducted an extensive investigation of Professor Veikos’
+
+complaints of discrimination and retaliation, including interviews of multiple witnesses and a
+
+review of thousands of pages of documents.
+
+       228.    The PCHR issued its Findings of the Investigation on December 31, 2019, in
+
+which it concluded: (1) The evidence shows [Penn’s] denial of tenure to [Professor Veikos] in
+
+the instant matters more than likely occurred because of [her] gender (female) and her familial
+
+status (mother); and (2) The evidence shows [Penn’s] denial of an extension of [Professor
+
+
+
+                                                 38
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 42 of 65
+
+
+
+
+Veikos’] employment more than likely occurred because of her involvement in a legally
+
+protected anti-discrimination activity. A true and correct copy of the PCHR Findings of the
+
+Investigation are attached as Exhibit A.
+
+                                             COUNT I
+                              Gender Discrimination in violation of
+                             Title VII of the Civil Rights Act of 1964
+
+        229.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        230.    Defendant violated Title VII by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure because of her gender.
+
+                                          COUNT II
+                            Gender Discrimination in violation of the
+                              Pennsylvania Human Relations Act
+
+        231.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        232.    Defendant violated the PHRA by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure because of her gender.
+
+                                          COUNT III
+                            Gender Discrimination in violation of the
+                             Philadelphia Fair Practices Ordinance
+
+        233.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        234.    Defendant violated the PFPO by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure because of her gender.
+
+
+
+
+                                                39
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 43 of 65
+
+
+
+
+                                            COUNT IV
+                          Familial Status Discrimination in violation of the
+                               Philadelphia Fair Practices Ordinance
+
+        235.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        236.    Defendant violated the PFPO by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure because of her familial status (mother).
+
+                                              COUNT V
+                                     Retaliation in violation of
+                              Title VII of the Civil Rights Act of 1964
+
+        237.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        238.    Defendant violated Title VII by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure and by withdrawing the offer of continued
+
+employment as a Distinguished Fellow in retaliation for her good faith complaints of
+
+discrimination.
+
+                                           COUNT VI
+                                  Retaliation in violation of the
+                                Pennsylvania Human Relations Act
+
+        239.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        240.    Defendant violated the PHRA by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure and by withdrawing the offer of continued
+
+employment as a Distinguished Fellow in retaliation for her good faith complaints of
+
+discrimination.
+
+
+
+
+                                                 40
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 44 of 65
+
+
+
+
+                                            COUNT VII
+                                   Retaliation in violation of the
+                               Philadelphia Fair Practices Ordinance
+
+        241.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        242.    Defendant violated the PFPO by denying Professor Veikos’ applications for
+
+promotion to Associate Professor with tenure and by withdrawing the offer of continued
+
+employment as a Distinguished Fellow in retaliation for her good faith complaints of
+
+discrimination.
+
+                                       PRAYER FOR RELIEF
+
+        WHEREFORE, Plaintiff, Cathrine Veikos, respectfully requests that this Court enter
+
+judgment in favor of Plaintiff and against Defendant as follows:
+
+        A.      Declaring the acts and practices complained of herein to be a violation of the Title
+
+VII of the Civil Rights Act of 1964;
+
+        B.      Declaring the acts and practices complained of herein to be a violation of the
+
+Pennsylvania Human Relations Act;
+
+        C.      Declaring the acts and practices complained of herein to be a violation of the
+
+Philadelphia Fair Practices Ordinance;
+
+        D.      Awarding to Plaintiff injunctive relief by ordering Penn to reinstate her to the
+
+position of Associate Professor of Architecture and grant her tenure as soon as practicable;
+
+        E.      Awarding to Plaintiff compensation for all past and future pecuniary losses
+
+resulting from Defendant’s illegal actions, including but not limited to lost earnings, lost
+
+earnings growth potential, all compensation and benefits lost due to the actions of Defendant, all
+
+
+
+
+                                                 41
+         Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 45 of 65
+
+
+
+
+out-of-pocket losses, as well as an award of front pay if employment with Defendant in the
+
+position of Associate Professor of Architecture with tenure is not possible;
+
+        F.     Awarding to Plaintiff compensatory damages for all past and future non-
+
+pecuniary damages resulting from Defendant’s illegal actions, including emotional distress,
+
+mental anguish, humiliation, and reputational harm;
+
+        G.     Awarding to Plaintiff punitive damages for Defendant’s malicious and reckless
+
+conduct as described herein;
+
+        H.     Awarding to Plaintiff all costs of this action, together with reasonable attorneys’
+
+fees;
+
+        I.     Awarding to Plaintiff prejudgment interest;
+
+        J.     Awarding to Plaintiff the sum necessary to make up for any adverse tax
+
+consequences incurred by her as result of any judgment entered in this matter; and
+
+        K.     Awarding to Plaintiff such additional relief as the Court deems just and proper
+
+under the circumstances.
+
+                                   JURY TRIAL DEMANDED
+
+        Plaintiff hereby requests a jury trial on each of the Counts in this Complaint.
+
+
+
+                                              CONSOLE MATTIACCI LAW, LLC
+
+
+                                              s/ Julie A. Uebler
+                                              Julie A. Uebler, Esquire (ID No. 71297)
+                                              1525 Locust Street, 9th Floor
+                                              Philadelphia, PA 19102
+                                              (215) 545-7676 (Voice)
+                                              (215) 501-5957 (Fax)
+                                              uebler@consolelaw.com
+
+                                              Attorneys for Plaintiff
+                                              Cathrine Veikos
+                                                 42
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 46 of 65
+
+
+
+
+  EXHIBIT A
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 47 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 48 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 49 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 50 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 51 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 52 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 53 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 54 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 55 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 56 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 57 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 58 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 59 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 60 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 61 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 62 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 63 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 64 of 65
+Case 2:20-cv-04408-JDW Document 1 Filed 09/09/20 Page 65 of 65
+

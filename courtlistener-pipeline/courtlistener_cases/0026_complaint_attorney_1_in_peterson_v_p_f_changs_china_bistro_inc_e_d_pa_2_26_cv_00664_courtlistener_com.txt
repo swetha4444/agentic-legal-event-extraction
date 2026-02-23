@@ -1,0 +1,783 @@
+Source URL: https://www.courtlistener.com/docket/72221483/1/peterson-v-pf-changs-china-bistro-inc/
+Title: Complaint (Attorney) – #1 in PETERSON v. P.F. CHANGS CHINA BISTRO, INC. (E.D. Pa., 2:26-cv-00664) – CourtListener.com
+
+JS 44 (Rev. 04/21)                 Case 2:26-cv-00664CIVIL
+                                                        Document
+                                                           COVER 1 SHEET
+                                                                    Filed 02/02/26                                                          Page 1 of 17
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                        DEFENDANTS
+         TIA PETERSON                                                                                    P.F. CHANGS CHINA BISTRO, INC.
+   (b) County of Residence of First Listed Plaintiff             MONTGOMERY                              County of Residence of First Listed Defendant              MONTGOMERY
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                         NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                    THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+
+         Sidney L. Gold, Esquire - The Gold Law Firm, P.C.
+         1835 Market St., Ste. 515, Phila, PA 19103 215-569-1999
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                      (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                     of Business In This State
+
+  2    U.S. Government                 4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                  Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                   Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY              PERSONAL INJURY                  625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                365 Personal Injury -                 of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product             Product Liability            690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability              367 Health Care/                                                         INTELLECTUAL                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &            Pharmaceutical                                                     PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                    Personal Injury                                                    820 Copyrights                    430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’          Product Liability                                                  830 Patent                        450 Commerce
+  152 Recovery of Defaulted               Liability              368 Asbestos Personal                                                  835 Patent - Abbreviated          460 Deportation
+       Student Loans                 340 Marine                      Injury Product                                                         New Drug Application          470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product              Liability                                                          840 Trademark                         Corrupt Organizations
+  153 Recovery of Overpayment             Liability             PERSONAL PROPERTY                           LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle           370 Other Fraud                   710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle           371 Truth in Lending                  Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability       380 Other Personal                720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal              Property Damage                   Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                  385 Property Damage               740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -           Product Liability             751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS             PRISONER PETITIONS                 790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights      Habeas Corpus:                    791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                  463 Alien Detainee                    Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment              510 Motions to Vacate                                                  870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                    Sentence                                                               or Defendant)                 896 Arbitration
+  245 Tort Product Liability             Accommodations          530 General                                                            871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -  535 Death Penalty                     IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment              Other:                            462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -  540 Mandamus & Other              465 Other Immigration                                                  950 Constitutionality of
+                                         Other                   550 Civil Rights                      Actions                                                                State Statutes
+                                     448 Education               555 Prison Condition
+                                                                 560 Civil Detainee -
+                                                                     Conditions of
+                                                                     Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+    Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                            (specify)                 Transfer                          Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                       TITLE VII, ADA, FMLA, PHRA
+VI. CAUSE OF ACTION Brief description of cause:
+
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                               150,000 IN EXCESS                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+02/02/2026                                                           /S/ SIDNEY L. GOLD, ESQUIRE
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+JS 44 Reverse (Rev. 04/21)   Case 2:26-cv-00664                  Document 1             Filed 02/02/26            Page 2 of 17
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statute.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+10/2024                         Case 2:26-cv-00664                     Document 1                 Filed 02/02/26             Page 3 of 17
+                                                          UNITED STATES DISTRICT COURT
+                                                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+                                                  10 Town Center Drive, Collegeville, Pennsylvania 19426
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+           1.    Does this case involve property included in an earlier numbered suit?                                                                   Yes
+
+           2.    Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                   Yes
+
+           3.    Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                      Yes
+
+           4.    Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                    Yes
+                 individual?
+
+           5.    Is this case related to an earlier numbered suit even though none of the above categories apply?                                        Yes
+                 If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is /    is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+           A.    Federal Question Cases:                                                                 B. Diversity Jurisdiction Cases:
+
+                 1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                 2.  FELA                                                                   2. Airplane Personal Injury
+                 3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                 4.  Antitrust                                                              4. Marine Personal Injury
+                 5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                 6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                 7.  Copyright/Trademark                                                    7. Products Liability
+                 8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                 9.  Labor-Management Relations                                                _____________________
+                 10. Civil Rights
+                 11. Habeas Corpus
+                 12. Securities Cases
+                 13. Social Security Review Cases
+                 14. Qui Tam Cases
+                 15. Cases Seeking Systemic Relief *see certification below*
+                 16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does /     does not have implications
+      beyond the parties before the court and       does /     does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                   ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+Case 2:26-cv-00664   Document 1   Filed 02/02/26   Page 4 of 17
+Case 2:26-cv-00664   Document 1   Filed 02/02/26   Page 5 of 17
+            Case 2:26-cv-00664        Document 1       Filed 02/02/26     Page 6 of 17
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+TIA PETERSON,                                  :
+                        Plaintiff,             :
+                                               :
+               v.                              :       CIVIL ACTION NO.__________
+                                               :
+P.F. CHANGS CHINA BISTRO, INC.,                :
+                Defendant.                     :
+                                               :
+
+
+                              COMPLAINT AND JURY DEMAND
+
+I.     PRELIMINARY STATEMENT:
+
+       1.           This is an action for an award of damages, attorneys’ fees, and other relief on
+
+behalf of the Plaintiff, Tia Peterson (“Plaintiff”), a former employee of the Defendant, P.F.
+
+Changs China Bistro, Inc. (“Defendant”), who has been harmed by the Defendant’s
+
+discriminatory and retaliatory employment practices.
+
+       2.       This action is brought under Title VII of the Civil Rights Act of 1964, 42 U.S.C.
+
+§2000(e), et seq., as amended by the Civil Rights Act of 1991 (“Title VII”), the Americans with
+
+Disabilities Act, 42 U.S.C. §12101, et seq. (“ADA”), the Family and Medical Leave Act, 29
+
+U.S.C. §2601 et seq. (“FMLA”), and the Pennsylvania Human Relations Act, 43 P.S. §951 et
+
+seq. (“PHRA”).
+
+II.    JURISDICTION AND VENUE:
+
+       3.      The jurisdiction of this Court is invoked, and venue is proper in this district,
+
+pursuant to 28 U.S.C. §§1331 and 1391, as Plaintiff’s claims are substantively based on Title
+
+VII, the ADA, and the FMLA.
+
+       4.      The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C.
+
+§1367 to consider Plaintiff’s claims arising under the PHRA.
+
+
+                                                   1
+              Case 2:26-cv-00664       Document 1       Filed 02/02/26     Page 7 of 17
+
+
+
+
+         5.      All conditions precedent to the institution of this suit have been fulfilled and
+
+Plaintiff has satisfied all other jurisdictional prerequisites to the maintenance of this action. On
+
+November 19, 2025, a Notice of Right to Sue was issued by the Equal Employment Opportunity
+
+Commission and this action has been filed within ninety (90) days of receipt of said notice.
+
+III.     PARTIES:
+
+         6.      Plaintiff, Tia Peterson (“Plaintiff”), is an adult individual and citizen of the
+
+Commonwealth of Pennsylvania, residing therein at 110 Goddard Blvd., Apt. 519, King of
+
+Prussia, Pennsylvania 19406.
+
+         7.      Defendant, P.F. Changs China Bistro, Inc. (“Defendant”), is a corporation duly
+
+organized and existing under the laws of the State of Arizona, maintaining a place of business
+
+within the Commonwealth of Pennsylvania at 10 Town Center Drive, Collegeville, Pennsylvania
+
+19426.
+
+         8.      At all times relevant hereto, the Defendant was acting through its agents, servants,
+
+and employees, who were acting within the scope of their authority, course of employment, and
+
+under the direct control of the Defendant.
+
+         9.      At all times material herein, the Defendant has been a “person” and “employer” as
+
+defined by Title VII, the ADA, the FMLA, and the PHRA, and has been, and is, subject to the
+
+provisions of each said Act.
+
+IV.      STATEMENT OF FACTS:
+
+         10.     Plaintiff was employed by the Defendant from on or about January 11, 2023, until
+
+April 20, 2024, the date of her termination.
+
+         11.     Throughout her employment with the Defendant, Plaintiff held the position of
+
+Front of House Manager, and at all times maintained a satisfactory job performance in said role.
+
+
+
+                                                   2
+           Case 2:26-cv-00664        Document 1        Filed 02/02/26      Page 8 of 17
+
+
+
+
+        12.    Shortly after Plaintiff’s hire, Maria Fimowicz (“Fimowicz”), Operating Partner,
+
+warned Plaintiff that Darryl Mighty (“Mighty”), Chef, had a history of abusing his managerial
+
+position to subject female subordinates to sexually harassing behavior. Fimowicz further
+
+disclosed that she had previously declined to promote Mighty to the role of Executive Chef due
+
+to his sexually inappropriate behavior with female employees.
+
+        13.    In or around early March 2023, Mighty began expressing romantic interest in
+
+Plaintiff and making unwanted sexual and romantic advances toward her.
+
+        14.    By way of example, Mighty began inviting Plaintiff to spend time with him
+
+outside of the workplace to “hang out” and “get to know each other better.” Plaintiff rejected his
+
+invitations.
+
+        15.    Additionally, Mighty made lewd gestures toward Plaintiff at work, including
+
+rubbing his nipples over his clothing while gazing at Plaintiff in a sexually suggestive manner.
+
+Plaintiff repeatedly rejected Mighty’s advances and verbally opposed this behavior.
+
+        16.    Eventually, Mighty began retaliating against Plaintiff for rebuffing his advances
+
+by screaming at her in front of coworkers and refusing to engage with Plaintiff in a work-related
+
+capacity, thereby creating significant difficulty in performing her job duties.
+
+        17.    As such, in or around mid-March 2023, Plaintiff registered a complaint of sexual
+
+harassment and retaliation with Stephen Hallett (“Hallett”), Market Partner. Hallett assured
+
+Plaintiff that he and Klaudia Jakubiak (“Jakubiak”), Human Resources Partner, would
+
+investigate her allegations.
+
+        18.    However, Defendant failed to interview Plaintiff as part of any alleged
+
+investigation or otherwise take appropriate remedial action.
+
+
+
+
+                                                  3
+           Case 2:26-cv-00664        Document 1       Filed 02/02/26      Page 9 of 17
+
+
+
+
+        19.     Instead, on or about March 23, 2023, Defendant retaliatorily demoted Plaintiff
+
+from the position of Senior Manager to the position of Front of House Manager.
+
+        20.     Moreover, Mighty continued to subject Plaintiff to retaliation, both for her
+
+rejection of his advances and her complaint of sexual harassment against him. Mighty’s conduct
+
+continued throughout the following months, unabated and unaddressed by Defendant.
+
+        21.     As a result of the discriminatory and retaliatory conduct to which she was being
+
+subjected, on or about August 10, 2023, Plaintiff experienced an onset of symptoms of mental
+
+distress, culminating in an anxiety attack.
+
+        22.     On the same date, Plaintiff sought medical treatment in connection with her
+
+symptoms. Following an evaluation, Plaintiff was diagnosed with generalized anxiety disorder
+
+and depressive disorder. Said medical conditions constitute disabilities within the meanings of
+
+the Americans with Disabilities Act (“ADA”) and the Pennsylvania Human Relations Act
+
+(“PHRA”) in that they substantially impair one or more of Plaintiff’s major life activities.
+
+        23.     Thereafter, Plaintiff disclosed her disabilities to Lindsey Green (“Green”), Talent
+
+Acquisition Partner, and provided medical documentation substantiating the same. Additionally,
+
+Plaintiff requested to take a medical leave of absence from August 17, 2023, until September 5,
+
+2023, to manage the symptoms of her disabilities at the recommendation of her physician.
+
+Defendant approved said request.
+
+        24.     While on medical leave, Plaintiff contacted Defendant and requested to
+
+temporarily reduce her work schedule to three (3) days per week upon her return to work.
+
+Plaintiff made said request at the direction of her physician as a reasonable accommodation for
+
+her disabilities.
+
+
+
+
+                                                 4
+          Case 2:26-cv-00664          Document 1    Filed 02/02/26      Page 10 of 17
+
+
+
+
+       25.     However, Defendant rejected Plaintiff’s request for a reasonable accommodation
+
+and required that she return to work on a full-time basis on September 5, 2023.
+
+       26.     On or about November 17, 2023, Plaintiff was diagnosed with an upper
+
+respiratory infection and influenza. Plaintiff informed Defendant of her diagnoses and requested
+
+three days of medical leave at the direction of her treating physician. Plaintiff supplied
+
+documentation from her physician in support of her request.
+
+       27.     Thereafter, Plaintiff requested additional time off until December 1, 2023, and
+
+used paid time off to extend her recovery period, as recovery from her illnesses was taking
+
+longer than expected.
+
+       28.     In or around late November 2023, prior to her anticipated return to work, Plaintiff
+
+began to experience worsening symptoms associated with her disabilities. As such, Plaintiff
+
+requested additional medical leave from December 1, 2023, until January 22, 2024, as a
+
+reasonable accommodation.
+
+       29.     Despite Plaintiff’s eligibility for job-protected leave under the Family and
+
+Medical Leave Act (“FMLA”) effective January 11, 2024, Defendant failed to advise Plaintiff of
+
+her rights under said Act.
+
+       30.     Due to worsening symptoms, Plaintiff’s treating physician recommended that she
+
+undergo uterine fibroid embolization as surgical intervention to treat her disabilities. As such,
+
+Plaintiff requested an extension of her medical leave until March 11, 2024, to undergo surgery
+
+and subsequently recover.
+
+       31.     Due to complications during her recovery from the procedure, on or about March
+
+7, 2024, Plaintiff requested to extend her medical leave until March 14, 2024, as a reasonable
+
+accommodation for her disabilities.
+
+
+
+                                                5
+          Case 2:26-cv-00664        Document 1       Filed 02/02/26      Page 11 of 17
+
+
+
+
+       32.     Thereafter, on or about March 8, 2024, Plaintiff learned that Defendant had
+
+awarded Mighty a promotion to the role of Executive Chef. In this capacity, Defendant
+
+effectively expanded Mighty’s power over the terms and conditions of Plaintiff’s employment.
+
+       33.     On the same date, Plaintiff registered another complaint of sexual harassment and
+
+retaliation with Kate McConnell (“McConnell”), Human Resources Representative. Plaintiff
+
+explained that she was fearful of retribution by Mighty in his elevated role and requested that
+
+Defendant implement measures to prevent further retaliation by Mighty.
+
+       34.     Thereafter, McConnell shared Plaintiff’s concerns with Maria Ramson
+
+(“Ramson”), Senior Human Resources Business Partner. Plaintiff spoke with Ramson and
+
+reiterated her fear of retribution by Mighty upon her anticipated return to work.
+
+       35.     Failing to receive a substantive response, on or about March 28, 2024, Plaintiff
+
+again raised her concerns with Ramson via email and requested that Defendant take remedial
+
+measures on her behalf.
+
+       36.     Shortly thereafter, on or about March 31, 2024, Plaintiff informed Ramson that
+
+she had contacted the Equal Employment Opportunity Commission (“EEOC”) to initiate claims
+
+against Defendant for workplace discrimination and retaliation.
+
+       37.     On or about April 16, 2024, Ramson notified Plaintiff that her allegations of
+
+sexual harassment and retaliation were investigated and deemed unsubstantiated. As evidence of
+
+the inadequacies of said “investigation,” Defendant failed to so much as interview Plaintiff.
+
+       38.     As such, Defendant failed and refused to take any corrective action to rectify the
+
+overtly retaliatory and hostile work environment to which Plaintiff had been subjected, thereby
+
+allowing Mighty’s known harassment to continue unabated.
+
+
+
+
+                                                 6
+          Case 2:26-cv-00664           Document 1    Filed 02/02/26      Page 12 of 17
+
+
+
+
+       39.     On or about April 20, 2024, Defendant terminated Plaintiff’s employment,
+
+allegedly for failure to return to work.
+
+       40.     Plaintiff believes and avers that Defendant’s articulated reason for her termination
+
+is pretextual and that her employment was actually terminated based on her actual and/or
+
+perceived disabilities and/or record of impairment and/or in retaliation for requesting reasonable
+
+accommodations for her disabilities and/or opposing discrimination in the workplace.
+
+                                         COUNT I
+          (Title VII – Hostile Work Environment, Sexual Harassment, Retaliation)
+                                   Plaintiff v. Defendant
+
+       41.     Plaintiff incorporates by reference paragraphs 1 through 40 of this Complaint as
+
+though fully set forth at length herein.
+
+       42.     The actions of the Defendant, through its agents, servants, and employees, in
+
+subjecting Plaintiff to a hostile work environment through various instances of sexual
+
+harassment, and retaliation for opposing unlawful sexual harassment in the workplace,
+
+constituted violations of Title VII.
+
+       43.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of Title VII, Plaintiff has
+
+sustained permanent and irreparable harm, resulting in the termination of her employment, which
+
+caused her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future
+
+earning power, plus back pay, front pay, and interest due thereon.
+
+       44.     As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of Title VII, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+
+
+
+                                                7
+          Case 2:26-cv-00664         Document 1        Filed 02/02/26   Page 13 of 17
+
+
+
+
+                                        COUNT II
+          (ADA – Disability Discrimination, Failure to Accommodate, Retaliation)
+                                   Plaintiff v. Defendant
+
+       45.     Plaintiff incorporates by reference paragraphs 1 through 44 of this Complaint as
+
+though fully set forth at length herein.
+
+       46.     The actions of the Defendant, through its agents, servants, and employees, in
+
+subjecting Plaintiff to discrimination based on her actual and/or perceived disabilities and/or
+
+record of impairment, failing to accommodate Plaintiff, and retaliating against Plaintiff for
+
+requesting reasonable accommodations for her disabilities and opposing unlawful discrimination
+
+in the workplace, constituted violations of the ADA.
+
+       47.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the ADA, Plaintiff sustained
+
+permanent and irreparable harm, resulting in the termination of her employment, which caused
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, and front pay and interest due thereon.
+
+       48.     As a further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the ADA, Plaintiff suffered
+
+severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                            COUNT III
+                                      (FMLA – Interference)
+                                       Plaintiff v. Defendant
+
+       49.     Plaintiff incorporates by reference paragraphs 1 through 48 of this Complaint as
+
+though fully set forth at length herein.
+
+
+
+
+                                                 8
+          Case 2:26-cv-00664          Document 1          Filed 02/02/26   Page 14 of 17
+
+
+
+
+        50.     The actions of the Defendant, through its agents, servants, and employees, in
+
+interfering with Plaintiff’s ability to exercise her rights under the FMLA, constituted a violation
+
+of the FMLA.
+
+        51.     The aforesaid actions of the Defendant were willful, malicious, wanton, in bad
+
+faith, and in reckless disregard of Plaintiff’s rights.
+
+        52.     As a direct result of the unlawful actions of the Defendant, as aforesaid, Plaintiff
+
+has suffered a loss of earnings, plus the value of certain benefits, plus loss of future earning
+
+power, plus back pay, front pay and interest due thereon.
+
+                                          COUNT IV
+                  (PHRA – Hostile Work Environment, Sexual Harassment,
+               Disability Discrimination, Failure to Accommodate, Retaliation)
+                                    Plaintiff v. Defendant
+
+        53.     Plaintiff incorporates by reference paragraphs 1 through 52 of this Complaint as
+
+though fully set forth at length herein.
+
+        54.     The actions of the Defendant, through its agents, servants, and employees, in
+
+subjecting Plaintiff to a hostile work environment through various instances of sexual
+
+harassment, discrimination based on her actual and/or perceived disabilities and/or record of
+
+impairment, failing to accommodate her disabilities, and retaliating against her for requesting
+
+reasonable accommodations for her disabilities and opposing unlawful sexual harassment and
+
+discrimination in the workplace, constituted violations of the PHRA.
+
+        55.     As a direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff has
+
+sustained permanent and irreparable harm, resulting in the termination of her employment, which
+
+caused her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future
+
+earning power, plus back pay, front pay, and interest due thereon.
+
+
+                                                    9
+            Case 2:26-cv-00664       Document 1       Filed 02/02/26    Page 15 of 17
+
+
+
+
+       56.      As further direct result of the aforesaid unlawful discriminatory and retaliatory
+
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff has
+
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+                                     PRAYER FOR RELIEF
+
+       57.      Plaintiff incorporates by reference paragraphs 1 through 56 of this Complaint as
+
+though fully set forth at length herein.
+
+       WHEREFORE, Plaintiff requests that this Court enter judgment in her favor and against
+
+the Defendant, and order that:
+
+       a.       Defendant compensate Plaintiff with a rate of pay and other benefits and
+
+emoluments of employment to which she would have been entitled had she not been subjected to
+
+unlawful discrimination and retaliation;
+
+       b.       Defendant compensate Plaintiff with an award of front pay, if appropriate;
+
+       c.       Defendant pay to Plaintiff punitive damages, liquidated damages, compensatory
+
+damages for future pecuniary losses, pain, suffering, inconvenience, mental anguish, loss of
+
+enjoyment of life and other nonpecuniary losses as allowable;
+
+       d.       Defendant pay to Plaintiff pre- and post-judgment interest, costs of suit and
+
+attorney and expert witness fees as allowed by law;
+
+       e.       The Court award such other relief as is deemed just and proper.
+
+
+
+
+                                                10
+         Case 2:26-cv-00664      Document 1      Filed 02/02/26    Page 16 of 17
+
+
+
+
+                                       JURY DEMAND
+
+    Plaintiff demands trial by jury.
+
+
+                                                 THE GOLD LAW FIRM, P.C.
+
+                                          By:    /s/ Sidney L. Gold, Esquire
+                                                 SIDNEY L. GOLD, ESQUIRE
+                                                 I.D. No.: 21374
+                                                 1835 Market Street, Suite 515
+                                                 Philadelphia, PA 19103
+                                                 (215) 569-1999
+                                                 Attorney for Plaintiff
+
+DATED:    February 2, 2026
+
+
+
+
+                                            11
+          Case 2:26-cv-00664        Document 1        Filed 02/02/26     Page 17 of 17
+
+
+
+
+                                        VERIFICATION
+
+        I hereby verify that the statements contained in this Complaint are true and correct to the
+
+best of my knowledge, information and belief. I understand that false statements herein are
+
+made subject to the penalties of Title 18 Pa. C.S.A. §4904, relating to unsworn falsification to
+
+authorities.
+
+
+
+
+DATE:                                                _________________________________
+                                                     TIA PETERSON, PLAINTIFF
+

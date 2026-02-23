@@ -1,0 +1,657 @@
+Source URL: https://www.courtlistener.com/docket/64859558/1/united-states-v-southeastern-pennsylvania-transportation-authority/
+Title: Complaint (IFP or Government Plaintiff) – #1 in United States v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY (E.D. Pa., 2:22-cv-03004) – CourtListener.com
+
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 1 of 13
+
+
+
+
+                        UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+_________________________________
+                                  )
+UNITED STATES OF AMERICA,         )
+                                  )
+                  Plaintiff,      )
+                                  )                   Civil Action No. ________________
+      v.                          )
+                                  )
+SOUTHEASTERN PENNSYLVANIA )
+TRANSPORTATION AUTHORITY,         )                   JURY TRIAL DEMANDED
+                                  )
+                  Defendant.      )
+_________________________________ )
+
+                                          COMPLAINT
+
+Plaintiff, the United States of America (“United States”), alleges:
+
+        1.     This action is brought on behalf of the United States to enforce the provisions of
+
+Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq. (“Title VII”).
+
+        2.     All conditions precedent to the filing of suit have been satisfied.
+
+                                JURISDICTION AND VENUE
+
+        3.     This Court has jurisdiction of the action under 42 U.S.C. § 2000e-5(f) and 28
+
+U.S.C. § 1331 and § 1345. Venue is proper in this judicial district under 42 U.S.C. § 2000e-
+
+5(f)(3) because this is the district where the unlawful employment practice is alleged to have
+
+been committed.
+
+                                            PARTIES
+
+        4.     Plaintiff is the United States of America.
+
+        5.     Defendant Southeastern Pennsylvania Transportation Authority (“SEPTA”) is one
+
+of the largest transportation systems in the United States and employs over 9,000 individuals.
+
+SEPTA has a transit police department which is responsible for policing the entire regional
+            Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 2 of 13
+
+
+
+
+SEPTA system covering five Pennsylvania counties and three states (Pennsylvania, Delaware,
+
+and New Jersey).
+
+        6.      SEPTA is a corporate, governmental body, and a political subdivision of the
+
+Commonwealth of Pennsylvania.
+
+        7.      SEPTA is a “person” within the meaning of 42 U.S.C. § 2000e(a), and an
+
+“employer” within the meaning of 42 U.S.C. § 2000e(b).
+
+                             STATEMENT OF EEOC CHARGES
+
+       8.       On or about October 21, 2019, the Equal Employment Opportunity Commission
+
+(“EEOC”) received timely charges of discrimination filed by Jon Randolph (“Randolph”)
+
+(EEOC Charge No. 530-2020-00485), Nathan D’Ettorre (“D’Ettorre”) (EEOC Charge No. 530-
+
+2020-00484), and Anthony Lederer (“Lederer”) (EEOC Charge No. 530-2020-00487), against
+
+the Southeastern Pennsylvania Transportation Authority (“SEPTA”). On or about January 24,
+
+2020, the EEOC received a timely second charge of discrimination filed by Randolph (EEOC
+
+Charge No. 530-2020-01951). In their charges, Randolph, D’Ettorre, and Lederer (collectively,
+
+“Charging Parties”) alleged, inter alia, that Bryan McCauley (“McCauley”), their supervisor,
+
+subjected them to a hostile work environment which included harassment based on race and
+
+religion and included physical threats and assaults. Further, they alleged that, after reporting the
+
+harassment, they suffered retaliation by being threatened with discipline and polygraphs, were
+
+admonished by the Chief of Police for putting SEPTA’s reputation at risk, and endured greater
+
+scrutiny with threatened investigations against them.
+
+        9.      Pursuant to Section 706 of Title VII, 42 U.S.C. § 2000e-5, the EEOC investigated
+
+all the charges and found reasonable cause to believe that the Charging Parties were subjected to
+
+
+                                                  2
+            Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 3 of 13
+
+
+
+
+unlawful harassment by SEPTA based on race and religion, creating a hostile work environment
+
+for the Charging Parties, and that SEPTA retaliated against them for filing complaints of
+
+harassment and discrimination in violation of Title VII.
+
+           10.   After unsuccessfully attempting to achieve a voluntary resolution of each of the
+
+charges through conciliation with SEPTA, the EEOC referred the charges to the Department of
+
+Justice.
+
+                                   FACTUAL ALLEGATIONS
+
+           11.   At all times relevant to this action, Randolph, Lederer, and D’Ettorre were
+
+“employees” of SEPTA within the meaning of 42 U.S.C. § 2000e(f).
+
+           12.   Randolph is African-American and Muslim.
+
+           13.   Lederer and D’Ettorre are Caucasian. Lederer and D’Ettorre are not Muslim.
+
+           14.   SEPTA hired Randolph in approximately September 2016 as a Transit Police
+
+officer. He served as a patrol officer until approximately December 2018, when he was selected
+
+to join a Special Investigation Unit (“SIU2”) as a detective. He served in that unit from
+
+approximately December 2018 through October 2019. In late October 2019, Randolph was
+
+transferred out of the SIU2 unit and has served as a patrol officer for SEPTA since that time.
+
+           15.   SEPTA hired D’Ettorre in approximately September 2016 as a Transit Police
+
+Officer and he served as a patrol officer until approximately December 2018. In approximately
+
+December 2018, he was selected to join the SIU2 as a detective. He served as a detective in the
+
+SIU2 until approximately October 2019, when he was transferred out of the unit and assigned
+
+back to patrol and later was assigned to a Special Operations Response Team. D’Ettorre left
+
+SEPTA’s employment in or around March 2022.
+
+
+                                                  3
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 4 of 13
+
+
+
+
+       16.     SEPTA hired Lederer in approximately September 2016 as a Transit Police
+
+Officer and he served as a patrol officer until approximately July 2019. In July 2019, he was
+
+selected to join the SIU2 as a detective. He served as a detective in the SIU2 until approximately
+
+October 2019 when he was transferred out of the unit and assigned back to patrol. He was later
+
+assigned to the Criminal Investigations Unit as a detective. Lederer left SEPTA’s employment
+
+in or around May 2022.
+
+       17.     Bryan McCauley was hired by former Police Chief Thomas Nestel as a Transit
+
+Police Officer for SEPTA on approximately September 14, 2015. McCauley served in the
+
+Special Investigation Unit at SEPTA beginning in January 2017.
+
+       18.     Chief Nestel previously worked with McCauley when Nestel was police chief of
+
+another district and hired McCauley at SEPTA, even though he was aware that McCauley
+
+resigned from that police district a few years earlier for a terminable offense.
+
+       19.     McCauley supervised Randolph, Lederer, and D’Ettorre while they served as
+
+detectives in the SIU2. As their supervisor, he controlled their schedules, approved or denied
+
+overtime and their leave, controlled their lunch breaks, and approved and denied training. He
+
+directed their daily assignments and dictated their presence in and/or outside of the office,
+
+requiring them to remain together and rarely allowing any of them to leave the group. He was
+
+given the authority to recommend an officer’s assignment to and transfer out of the SIU2 unit.
+
+       20.     Chief Nestel became the Chief of Police of SEPTA on approximately August 20,
+
+2012. He was the direct supervisor of Bryan McCauley when McCauley served as a supervisor
+
+in the SIU2 unit over Randolph, Lederer, and D’Ettorre. Chief Nestel granted McCauley his
+
+supervisory duties over Randolph, Lederer, and D’Ettorre. Chief Nestel instructed Randolph,
+
+
+                                                  4
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 5 of 13
+
+
+
+
+Lederer, and D’Ettorre that they were to report directly to McCauley and follow his orders.
+
+Chief Nestel left SEPTA’s employment in or around July 5, 2022.
+
+   A.         McCauley Subjected Randolph, Lederer, and D’Ettorre to a Hostile Work
+              Environment based on Race and Religion, Which Included Physical Threats and
+              Assault
+
+        21.      McCauley harassed Randolph during Randolph’s entire employment within the
+
+SIU2 under McCauley’s supervision. The harassment was based on Randolph’s race and religion
+
+and included both verbal harassment and physical threats and assault.
+
+        22.      McCauley harassed Lederer and D’Ettorre during their entire employment within
+
+the SIU2 under McCauley’s supervision. The harassment was based on Randolph’s race and
+
+religion and included physical threats and assault directed at each of them.
+
+        23.      In April 2019, McCauley printed an Instagram story in which the “N” word was
+
+used several times. He read the post multiple times to Randolph and D’Ettorre, hung it above his
+
+desk, and declared that it was the “squad’s mission statement.” He later told Lederer about this
+
+and defended his actions.
+
+        24.      In July 2019, and in the months following, McCauley several times made racist
+
+jokes in front of all three officers about black employees, including Randolph, liking fried
+
+chicken. Lederer and D’Ettorre were present and witnessed McCauley making these comments
+
+to, and in front of, Randolph.
+
+        25.      McCauley made several racially derogatory statements to Randolph, including
+
+racially charged comments about black women, and on another occasion, McCauley referred to
+
+an African-American Marine officer whose last name was Green, as Dark Green Marine.
+
+
+
+
+                                                 5
+          Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 6 of 13
+
+
+
+
+        26.    McCauley also made racially derogatory comments in front of Randolph, Lederer,
+
+and D’Ettorre, including comments that a SEPTA officer couldn’t be taken seriously because he
+
+wore dreadlocks. McCauley also used the N-word when referencing an individual, and made
+
+other racially derogatory comments in the workplace, including several times referring to the
+
+Black Lives Matter movement as a terrorist group.
+
+        27.    McCauley, knowing Randolph is Muslim, targeted his religion, making frequent
+
+discriminatory statements about Muslims.
+
+        28.    Several times, McCauley played ISIS beheading videos, showing them to
+
+Randolph and suggesting that Muslims are terrorists. On another occasion, while driving by a
+
+Ramadan celebration in a park, McCauley made negative comments to Randolph about the
+
+gathering.
+
+        29.    McCauley commented, with Randolph, Lederer, and D’Ettorre all present, that
+
+Muslim women should not be allowed to wear a hijab and made similar comments with all three
+
+present every time he saw a Muslim person dressed in traditional clothing.
+
+        30.    McCauley regularly physically threatened Randolph, Lederer, and D’Ettorre and
+
+physically assaulted all three.
+
+        31.    On several occasions, McCauley pointed his loaded firearm at Randolph, Lederer,
+
+and D’Ettorre. On one occasion, he pointed the firearm at D’Ettorre and said, “Nathan, today
+
+might be the day.” McCauley also aimed a live taser at D’Ettorre, pointed the red laser dots on
+
+his chest and chased him with it multiple times, ignoring D’Ettorre’s protests to stop. Several
+
+times a week, McCauley stabbed D’Ettorre with a plant, at times drawing blood. He threw
+
+objects at D’Ettorre, including scissors, a radio, handcuffs, wire cutters, a wrench, metal shears,
+
+
+                                                 6
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 7 of 13
+
+
+
+
+and a chair, and would explain he was aiming for D’Ettorre’s head. At random times, McCauley
+
+would kick D’Ettorre. Most of these incidents occurred while Randolph, Lederer, and D’Ettorre
+
+were all present together.
+
+        32.    On one occasion, while holding a hunting knife, McCauley aggressively walked
+
+towards Lederer, holding the knife inches from his stomach, and said, “What if I just stabbed you
+
+with this right now?” He also threatened D’Ettorre with the knife, simulating stabbing him, and
+
+said, “Wouldn’t it be something if I stabbed you.” Randolph, Lederer, and D’Ettorre were all
+
+present during these incidents. With Randolph and Lederer present, he told D’Ettorre, “If there
+
+was ever an active shooter situation I would shoot you in the head and make it appear as if the
+
+shooter did it.” In a text that was sent to both Randolph and D’Ettorre, McCauley stated, “When
+
+my psych issues kick in u gotta be prepared. I’m one of those guys that’s gonna kill your whole
+
+family, burn down your neighbors [sic] house and let you live.”
+
+        33.    SEPTA’s Police Board of Inquiry (“PBI”), which is responsible for determining
+
+policy violations, including complaints of race and religious harassment like those made by
+
+Randolph, Lederer, and D’Ettorre against McCauley, found that McCauley used his position in
+
+scheduling assignments, overtime, granting time off and other tasks, “as weapons” to create a
+
+hostile work environment. It found that McCauley subjected Randolph, Lederer, and D’Ettorre
+
+to a hostile work environment, which included harassment based on race, religion, and physical
+
+and mental abuse and intimidation. It further held that “there was evidence to support a pattern
+
+of behavior of making racially disparaging comments especially against African Americans.” It
+
+referred to McCauley’s actions as “appalling.”
+
+
+
+
+                                                 7
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 8 of 13
+
+
+
+
+   B.      Randolph, Lederer, and D’Ettorre Feared Reporting McCauley While They
+           Were Under His Supervision
+
+        34.    McCauley threatened Randolph, Lederer, and D’Ettorre on an almost daily basis
+
+to ensure they did not report him. McCauley made clear to Randolph, Lederer, and D’Ettorre that
+
+he was close to the Chief and threatened their careers. For example, McCauley threatened, “I’ll
+
+make sure you’re dead to the Chief.” He also said, “Even if you try to make complaints, I’ll
+
+make sure your career is over.” Referring to his direct line to the Chief, McCauley said, “One
+
+call, one button, one touch [and you’re done].”
+
+        35.    McCauley followed through on his threat and recommended that Lederer and
+
+D’Ettorre be transferred out of the SIU2 as detectives and return back to patrol. Both Lederer and
+
+D’Ettorre were then transferred to patrol.
+
+        36.    After Randolph, Lederer, and D’Ettorre were no longer under McCauley’s
+
+supervision, they immediately reported the harassment to SEPTA’s Internal Affairs.
+
+        37.    SEPTA’s PBI found that it was reasonable that Randolph, Lederer, and D’Ettorre
+
+waited until they were no longer under McCauley’s supervision to report the harassment to
+
+SEPTA’s Internal Affairs. Specifically, it concluded, “This Board recognizes that there was a
+
+reasonable perception of fear of retaliation by their immediate supervisor.”
+
+        38.    Upon finding that McCauley subjected Randolph, Lederer, and D’Ettorre to a
+
+hostile work environment, the PBI recommended McCauley’s termination.
+
+        39.    Chief Nestel instead allowed McCauley to resign, and no discipline was
+
+administered against McCauley.
+
+
+
+
+                                                  8
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 9 of 13
+
+
+
+
+   C.         Randolph, Lederer, and D’Ettorre Were Retaliated Against for Making
+              Complaints of Race and Religious Harassment Against McCauley
+
+        40.      On approximately October 25, 2019, Randolph, Lederer, and D’Ettorre filed
+
+complaints of harassment against McCauley.
+
+        41.      SEPTA retaliated against Randolph, Lederer and D’Ettorre because they filed
+
+harassment complaints. During the investigation of their harassment complaints, they were
+
+threatened with polygraph exams, they were threatened with discipline in relation to their reports
+
+of harassment, they were admonished in writing by the Chief for putting the reputation of
+
+SEPTA at risk, and he ordered discipline be administered against them, overruling the
+
+determination by the PBI that no such discipline should issue. Randolph, Lederer, and D’Ettorre
+
+were also subjected to retaliation and intimidation when their work was unduly scrutinized.
+
+Lederer was further retaliated against by SEPTA when it threatened him with termination for an
+
+offense not subject to such severe discipline, and included such allegations on his official records
+
+which were not supported by the facts.
+
+        42.      Randolph, Lederer, and D’Ettorre suffered emotional distress from the hostile
+
+work environment and retaliation.
+
+                                     TITLE VII VIOLATIONS
+
+                                              COUNT I
+                                  Title VII, 42 U.S.C. § 2000e-2(a)
+                                    (Hostile Work Environment)
+
+        43.      Plaintiff realleges and incorporates by reference the allegations set forth in
+
+paragraphs 11-42 above.
+
+
+
+
+                                                   9
+        Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 10 of 13
+
+
+
+
+       44.     Randolph was subjected to a hostile work environment including harassment
+
+based on race (African-American) and religion (Muslim) by his supervisor, McCauley, in
+
+violation of Title VII, 42 U.S.C. § 2000e-2(a).
+
+       45.     Lederer and D’Ettorre were subjected to a hostile work environment in violation
+
+of 42 U.S.C. § 2000e-2(a). They are persons aggrieved under Title VII and were within the “zone
+
+of interest” of the hostile work environment. They were targeted by McCauley and were not
+
+accidental victims or mere bystanders; they suffered injury.
+
+       46.     The harassment and hostile work environment included both verbal and physical
+
+harassment and assault directed at Randolph, Lederer, and D’Ettorre.
+
+       47.     The harassment was severe and pervasive; detrimentally affected Randolph,
+
+Lederer, and D’Ettorre; and created an objectively hostile or abusive work environment that a
+
+reasonable person would find hostile or abusive, and which Randolph, Lederer, and D’Ettorre
+
+perceived to be abusive.
+
+       48.     SEPTA is vicariously liable because McCauley acted as Randolph, Lederer, and
+
+D’Ettorre’s supervisor and had the authority to assign work, set hours, was empowered by
+
+SEPTA to take tangible employment actions, and among other things, controlled the daily work
+
+assignments of Randolph, Lederer, and D’Ettorre.
+
+       49.     Randolph, Lederer, and D’Ettorre did not unreasonably fail to take advantage of
+
+any preventive or corrective opportunities provided by the employer or to otherwise avoid harm.
+
+
+
+
+                                                  10
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 11 of 13
+
+
+
+
+                                             COUNT II
+                                 Title VII, 42 U.S.C. § 2000e-3(a)
+                                            (Retaliation)
+
+       50.     Plaintiff realleges and incorporates by reference the allegations set forth in
+
+paragraphs 11-42 above.
+
+       51.     Randolph, Lederer, and D’Ettorre engaged in protected activity when they
+
+complained about harassment based on race and religion.
+
+       52.     In retaliation for their complaints, SEPTA threatened all three with polygraph
+
+exams and discipline. Further, they were admonished by the Chief, and the Chief ordered
+
+discipline against all three, overruling the determination by the PBI that no such discipline
+
+should issue. They were also subjected to intimidation and scrutiny with regard to their work.
+
+Lederer was additionally threatened with termination for a non-terminable offense.
+
+       53.     There was a causal connection between Randolph, Lederer, and D’Ettorre’s
+
+complaints and the materially adverse actions taken against them.
+
+       54.     The retaliation endured by Randolph, Lederer, and D’Ettorre would dissuade a
+
+reasonable employee from making complaints of harassment.
+
+       55.     SEPTA retaliated against Randolph, Lederer, and D’Ettorre for engaging in
+
+protected activity in violation of Title VII, 42 U.S.C. § 2000e-3(a).
+
+                                    PRAYER FOR RELIEF
+
+       WHEREFORE, the United States prays that the Court grant the following relief:
+
+        (a)    Enjoin Defendant from causing, creating, or condoning a hostile work
+
+environment;
+
+
+
+
+                                                 11
+         Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 12 of 13
+
+
+
+
+       (b)     Order Defendant to develop and implement appropriate and effective measures
+
+designed to prevent and correct harassment, including, but not limited to, policies and training
+
+for employees and managers;
+
+       (c)     Order Defendant to develop appropriate and effective measures to receive
+
+complaints of discrimination and harassment, as well as a process for investigating such
+
+complaints;
+
+       (d)     Order Defendant to develop appropriate and effective corrective measures for
+
+addressing complaints of harassment and discrimination that have been substantiated;
+
+       (e)     Order Defendant to develop appropriate and effective measures to ensure that
+
+employees who file complaints of harassment and discrimination are not retaliated against;
+
+       (d)     Award compensatory damages to Randolph, Lederer, and D’Ettorre to fully
+
+compensate them for their injuries, pain and suffering caused by Defendant’s discriminatory
+
+conduct, pursuant to and within the statutory limitations of Section 102 of the Civil Rights Act of
+
+1991, 42 U.S.C. § 1981a;
+
+       (e)     Award any additional equitable relief necessary to make the victims whole; and
+
+       (f)     Award such additional relief as justice may require, together with the United
+
+States’ costs and disbursements in this action.
+
+                                        JURY DEMAND
+
+       The United States hereby demands a trial by jury of all issues so triable pursuant to Rule
+
+38 of the Federal Rules of Civil Procedure and Section 102 of the Civil Rights Act of 1991,
+
+42 U.S.C. § 1981(a).
+
+
+
+
+                                                  12
+        Case 2:22-cv-03004-KSM Document 1 Filed 08/01/22 Page 13 of 13
+
+
+
+
+Dated: August 1, 2022
+
+                                           Respectfully submitted,
+
+                                           KRISTEN CLARKE
+                                           Assistant Attorney General
+                                           Civil Rights Division
+
+                                    BY:
+                                           KAREN D. WOODARD
+                                           Chief, Employment Litigation Section
+                                           Civil Rights Division
+                                           United States Department of Justice
+
+                                           /s/ Lori Kisch____________________
+                                           LORI B. KISCH (DC Bar No. 491282)
+                                           Special Litigation Counsel
+                                           Employment Litigation Section
+                                           Civil Rights Division
+                                           United States Department of Justice
+                                           150 M Street, N.E.
+                                           Washington, D.C. 20530
+                                           (202) 305-4422
+                                           (202) 514-1105 (fax)
+                                           Lori.Kisch@usdoj.gov
+
+                                           /s/ Young Choi___________________
+                                           YOUNG CHOI (CA Bar No. 327027)
+                                           Trial Attorney
+                                           Employment Litigation Section
+                                           Civil Rights Division
+                                           United States Department of Justice
+                                           150 M Street, N.E.
+                                           Washington, D.C. 20530
+                                           Young.Choi@usdoj.gov
+
+                                           Attorneys for The United States of America
+
+
+
+
+                                      13
+

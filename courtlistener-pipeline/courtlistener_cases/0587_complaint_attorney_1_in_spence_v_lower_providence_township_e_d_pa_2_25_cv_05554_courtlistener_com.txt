@@ -1,0 +1,1324 @@
+Source URL: https://www.courtlistener.com/docket/71468706/1/spence-v-lower-providence-township/
+Title: Complaint (Attorney) – #1 in SPENCE v. LOWER PROVIDENCE TOWNSHIP (E.D. Pa., 2:25-cv-05554) – CourtListener.com
+
+JS 44 (Rev. 10/20)
+
+Case 2:25-Cv-05554~7\AqgCengv ER Syepep/26/25
+
+Page 1 of 35
+
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+
+purpose of initiating the civil docket sheet.
+
+(SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS
+
+Brooke Spence
+
+(b) County of Residence of First Listed Plaintiff
+
+Montgomery County
+
+DEFENDANTS
+
+(EXCEPT IN U.S. PLAINTIFF CASES)
+
+(c) Attorneys (Firm Name, Address, and Telephone Number)
+Carén N. Gurmankin, Esq., Console Mattiacci Law,
+
+1525 Locust Street, 9th FI., Philadelphia, PA 19102
+
+NOTE:
+
+Attorneys (if Known)
+
+County of Residence of First Listed Defendant
+
+Lower Providence Township
+
+Montgomery County
+
+(IN U.S. PLAINTIFF CASES ONLY)
+
+INLAND CONDEMNATION CASES, USE THE LOCATION OF
+THE TRACT OF LAND INVOLVED.
+
+II. BASIS OF JURISDICTION (Place an “X”’ in One Box Only)
+
+[x]3 Federal Question
+(U.S. Government Not a Party)
+
+CT 1 US. Government
+Plaintiff
+
+CT 2 U.S. Government
+Defendant
+
+CT 4 Diversity
+(Indicate Citizenship of Parties in Item III)
+
+(For Diversity Cases Only)
+
+IW. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+
+and One Box for Defendant)
+
+PTF DEF PTF DEF
+Citizen of This State C 1 C 1 Incorporated or Principal Place CT 4 C 4
+of Business In This State
+Citizen of Another State C 2 C 2 Incorporated and Principal Place CT 5 C 5
+of Business In Another State
+Citizen or Subject of a LC] 3 LC] 3 Foreign Nation CT 6 LC] 6
+
+Foreign Country
+
+IV. NATURE OF SUIT (Place an “X” in One Box Only)
+
+Click here for: Nature of Suit Code Descriptions.
+
+| CONTRACT TORTS FORFEITURE/PENALTY BANKRUPTCY OTHER STATUTES |
+110 Insurance PERSONAL INJURY PERSONAL INJURY | | 625 Drug Related Seizure 422 Appeal 28 USC 158 375 False Claims Act
+120 Marine 310 Airplane C 365 Personal Injury - of Property 21 USC 881 423 Withdrawal 376 Qui Tam (31 USC
+130 Miller Act 315 Airplane Product Product Liability | 690 Other 28 USC 157 3729(a))
+140 Negotiable Instrument Liability LC] 367 Health Care/ 400 State Reapportionment
+[ | 150 Recovery of Overpayment 320 Assault, Libel & Pharmaceutical PROPERTY RIGHTS 410 Antitrust
+& Enforcement of Judgment Slander Personal Injury 820 Copyrights 430 Banks and Banking
+151 Medicare Act 330 Federal Employers’ Product Liability 830 Patent |_| 450 Commerce
+152 Recovery of Defaulted Liability LC] 368 Asbestos Personal 835 Patent - Abbreviated r_| 460 Deportation
+Student Loans 340 Marine Injury Product New Drug Application [__} 470 Racketeer Influenced and
+(Excludes Veterans) 345 Marine Product Liability 840 Trademark Corrupt Organizations
+CT 153 Recovery of Overpayment Liability PERSONAL PROPERTY LABOR | 880 Defend Trade Secrets T | 480 Consumer Credit
+of Veteran’s Benefits 350 Motor Vehicle 370 Other Fraud 710 Fair Labor Standards Act of 2016 (15 USC 1681 or 1692)
+] 160 Stockholders’ Suits 355 Motor Vehicle 371 Truth in Lending Act T | 485 Telephone Consumer
+[| 190 Other Contract Product Liability CL] 380 Other Personal | | 720 Labor/Management SOCIAL SECURITY Protection Act
+| ]195 Contract Product Liability 360 Other Personal Property Damage Relations 861 HIA (1395ff) 490 Cable/Sat TV
+| 196 Franchise Injury LC] 385 Property Damage 740 Railway Labor Act 862 Black Lung (923) 850 Securities/Commodities/
+362 Personal Injury - Product Liability 751 Family and Medical 863 DIWC/DIWW (405(g)) Exchange
+Medical Malpractice Leave Act 864 SSID Title XVI r | 890 Other Statutory Actions
+REAL PROPERTY CIVIL RIGHTS PRISONER PETITIONS 790 Other Labor Litigation |_| 865 RSI (405(g)) || 891 Agricultural Acts
+[|_| 210 Land Condemnation 440 Other Civil Rights Habeas Corpus: |_|791 Employee Retirement | | 893 Environmental Matters
+[| 220 Foreclosure 441 Voting | | 463 Alien Detainee Income Security Act FEDERAL TAX SUITS 895 Freedom of Information
+| 230 Rent Lease & Ejectment x | 442 Employment i | 510 Motions to Vacate | | 870 Taxes (U.S. Plaintiff Act
+240 Torts to Land 443 Housing/ Sentence or Defendant) 896 Arbitration
+| 245 Tort Product Liability Accommodations | | 530 General T | 871 IRS—Third Party - 899 Administrative Procedure
+[| 290 All Other Real Property 445 Amer. w/Disabilities - | 535 Death Penalty IMMIGRATION 26 USC 7609 Act/Review or Appeal of
+Employment Other: 462 Naturalization Application Agency Decision
+446 Amer. w/Disabilities - 540 Mandamus & Other 465 Other Immigration T | 950 Constitutionality of
+Other 550 Civil Rights Actions State Statutes
+448 Education 555 Prison Condition
+560 Civil Detainee -
+Conditions of
+Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+
+1 Original
+Proceeding
+
+2 Removed from
+State Court
+
+3
+
+Remanded from
+Appellate Court
+
+Ci4 Reinstated or CO 5 Transferred from
+Another District
+
+(specify)
+
+Reopened
+
+Transfer
+
+6 Multidistrict
+Litigation -
+
+8 Multidistrict
+Litigation -
+Direct File
+
+VI. CAUSE OF ACTION
+
+Cite the U.S. Civil Statute under which you are filing (De not cite jurisdictional statutes unless diversity):
+42 US.C. §2000e, et seq.; 42 U.S.C. §1983, et seq.
+
+Brief description of cause:
+Plaintiff was discriminated against because of her sex.
+
+VII. REQUESTED IN [] CHECK IF THIS IS ACLASS ACTION | DEMAND $ CHECK YES only if demanded in complaint:
+
+COMPLAINT: UNDER RULE 23, F.R.Cv.P. in excess of $75,000 JURY DEMAND: Klyves [No
+VIII. RELATED CASK(S)
+
+(See instructions):
+IF ANY JUDGE DOCKET NUMBER
+e
+DATE SIGNATURE ATTORNEY CORD
+09/26/2025 (anu ~
+FOR OFFICE USE ONLY 4
+RECEIPT # AMOUNT APPL YING IFP JUDGE MAG. JUDGE
+
+10/2024 Case 2:25-cv-05554 Document1i Filed 09/26/25 Page 2 of 35
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DESIGNATION FORM
+
+Place of Accident, Incident, or Transaction: Eagleville, PA
+
+RELATED CASE IF ANY: Case Number: Judge:
+
+1. Does this case involve property included in an earlier numbered suit? Yes
+
+2. Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit? Yes
+
+3. Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit? Yes L_|
+
+4. Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same Yes L_|
+individual?
+
+5. Is this case related to an earlier numbered suit even though none of the above categories apply? Yes L]
+
+If yes, attach an explanation.
+
+I certify that, to the best of my knowledge and belief, the within case 1 is / [5] is not related to any pending or previously terminated
+action in this court.
+
+Civil Litigation Categories
+
+A. Federal Question Cases: B. Diversity Jurisdiction Cases:
+
+CI 1. Indemnity Contract, Marine Contract, and All Other Contracts) L141. Insurance Contract and Other Contracts
+L] 2. FELA CI 2. Airplane Personal Injury
+
+LJ 3. Jones Act-Personal Injury LI 3. Assault, Defamation
+
+CI] 4. Antitrust LJ 4. Marine Personal Injury
+
+LI 5. Wage and Hour Class Action/Collective Action LJ 5. Motor Vehicle Personal Injury
+
+LI] 6. Patent [1 6. Other Personal Injury (Please specify):
+LI 7. Copyright/Trademark LI 7. Products Liability
+
+CLI g Employment C1 8. All Other Diversity Cases: (Please specify)
+LI 9. Labor-Management Relations
+
+10. Civil Rights
+
+C1] 11. Habeas Corpus
+
+L] 12. Securities Cases
+
+CI] 13. Social Security Review Cases
+
+LI 14, Qui Tam Cases
+
+[_] 15. Cases Seeking Systemic Relief *see certification below*
+
+[_] 16. All Other Federal Question Cases. (Please specify):
+
+I certify that, to the best of my knowledge and belief, that the remedy sought in this case L_] does / does not have implications
+beyond the parties before the court and [_] does / [x] does not seek to bar or mandate statewide or nationwide enforcement of a state or
+federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+judgment and/or any form of injunctive relief.
+
+ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+I certify that, to the best of my knowledge and belief:
+Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+
+money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+[| None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+
+Case 2:25-cv-05554 Documenti Filed 09/26/25 Page 3of 35
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+CASE MANAGEMENT TRACK DESIGNATION FORM
+
+Brooke Spence CIVIL ACTION
+
+Vv.
+
+Lower Providence Township NO
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus — Cases brought under 28 U.S.C. § 2241 through § 2255. ( )
+
+(b) Social Security — Cases requesting review of a decision of the Secretary of Health
+and Human Services denying plaintiff Social Security Benefits. ( )
+
+(c) Arbitration — Cases required to be designated for arbitration under Local Civil Rule 53.2. ( )
+
+(d) Asbestos — Cases involving claims for personal injury or property damage from
+exposure to asbestos. ( )
+
+(e) Special Management — Cases that do not fall into tracks (a) through (d) that are
+commonly referred to as complex and that need special or intense management by
+the court. (See reverse side of this form for a detailed explanation of special
+
+management cases.) ( )
+(f) Standard Management — Cases that do not fall into any one of the other tracks. (x)
+09/26/2025 CAaur YLD Plaintiff, Brooke Spence
+Date AttorneYAat-law Attorney for
+215-545-7676 215-405-2900 gurmankin@consolelaw.com
+Telephone FAX Number E-Mail Address
+
+(Civ. 660) 10/02
+Case 2:25-cv-05554 Documenti1 Filed 09/26/25 Page 4of 35
+
+IN THE UNITED STATES DISTRICT COURT FOR
+THE EASTERN DISTRICT OF PENNSYLVANIA
+
+BROOKE SPENCE :
+Bridgeport, PA 19405 : CIVIL ACTION NO.
+
+Plaintiff,
+Vv.
+LOWER PROVIDENCE TOWNSHIP
+100 Parklane Drive
+Eagleville, PA 19403
+JURY TRIAL DEMANDED
+
+Defendant
+
+COMPLAINT
+
+L INTRODUCTION
+
+Plaintiff, Brooke Spence, brings this action against her former employer, Lower
+Providence Township (“Defendant”). Defendant’s male employees subjected her to
+gross and degrading sexist and sexual comments and conduct. After Plaintiff complained
+about the same, Defendant, while failing to take remedial and/or corrective action against
+the male employees, retaliated against her, culminating in her termination. Defendant’s
+sex discriminatory and retaliatory conduct violated Title VII of the Civil Rights Act of
+1964, as amended, 42 U.S.C. §2000e, ef seg. (“Title VII’); and, the Pennsylvania Human
+Relations Act, as amended, 43 P.S. §951, et seg. (““PHRA”). Defendant’s conduct has
+also deprived Plaintiff of her constitutional rights of the Equal Protection Clause of the
+
+Constitution in violation of 42 U.S.C. §1983 (“Section 1983”).
+Case 2:25-cv-05554 Documenti Filed 09/26/25 Page 5of 35
+
+IL PARTIES
+
+1. Plaintiff, Brooke Spence, is an individual and a citizen of the
+Commonwealth of Pennsylvania.
+
+2. Plaintiff is female.
+
+3. Defendant, Lower Providence Township, 1s a political subdivision of the
+Commonwealth of Pennsylvania, with its principal office located at 100 Parklane Drive,
+Eagleville, PA 19403.
+
+4. Defendant is engaged in an industry affecting interstate commerce and
+
+regularly do business in the Commonwealth of Pennsylvania.
+
+5. At all times material hereto, Defendant employed more than fifteen (15)
+employees.
+6. At all times material hereto, Defendant’s policies, customs, and practices
+
+in its Police Department were discriminatory towards females.
+
+7. At all times material hereto, Defendant instituted, acquiesced in, ratified
+and/or took action against Plaintiff and other females.
+
+8. At all times material hereto, Defendant acted by and through its authorized
+agents, servants, workmen, and/or employees acting within the course and scope of their
+employment with Defendant and in furtherance of Defendant’s business.
+
+9. At all times material hereto, Defendant acted as an employer within the
+meanings of Title VII, and the PHRA.
+
+10. At all times material hereto, Plaintiff was an employee of Defendant
+within the meanings of Title VII and the PHRA,.
+
+11. At all times material hereto, Defendant acted under color of state law.
+Case 2:25-cv-05554 Documenti Filed 09/26/25 Page 6of 35
+
+. JURISDICTION AND VENUE
+
+12. The causes of action which form the basis of this matter arise under Title
+VII, Section 1983, and the PHRA.
+
+13. The District Court has jurisdiction over Count I (Title VI) pursuant to 42
+U.S.C. §2000e-5 and 28 U.S.C. §1331.
+
+14. The District Court has jurisdiction over Count II (Section 1983) pursuant
+to 28 U.S.C. §1331 and 28 U.S.C. §1333.
+
+15. The District Court has supplemental jurisdiction over Count III (PHRA)
+pursuant to 28 U.S.C. §1367.
+
+16. Venue is proper in the District Court under 28 U.S.C. §1391(b) and 42
+U.S.C. §2000(e)-5(f).
+
+17. On or about April 29, 2024, Plaintiff filed a Complaint of Discrimination
+with the Pennsylvania Human Relations Commission (“PHRC’”), complaining of acts of
+discrimination and retaliation alleged herein. This Charge was cross-filed with the Equal
+Employment Opportunity Commission (“EEOC”). Attached hereto, incorporated herein
+and marked as Exhibit “1” is a true and correct copy of the PHRC Complaint of
+Discrimination (with personal identifying information redacted).
+
+18. On or about July 1, 2025, the Department of Justice issued to Plaintiff a
+Notice of Right to Sue for her Complaints of Discrimination. Attached hereto,
+incorporated herein and marked as Exhibit “2” is a true and correct copy of the notice.
+
+19. Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+Case 2:25-cv-05554 Documenti Filed 09/26/25 Page 7 of 35
+
+IV. FACTUAL ALLEGATIONS
+
+20. Plaintiff became employed with Defendant on or about February 7, 2022.
+
+21. As of the time of her termination, Plaintiff reported to Ryan Singleton
+(male), Sergeant. Singleton reported to William Hopkins (male), Lieutenant. Hopkins
+reported to Michael Jackson (male), Chief of Police.
+
+22. When Plaintiff was hired, she was one of two female Police Officers.
+
+23. In or around June 2022, Defendant hired Melanie Faddis (female), Police
+Officer.
+
+24. At all times material hereto, Plaintiff performed her duties in a highly
+competent manner, including that which is set forth below.
+
+25. During Plaintiff's employment, Defendant engaged in policies, practices,
+and/or customs to treat males more favorably than similarly situated female employees.
+Evidence of the same is set forth here, and includes, but is not limited to, engaging in
+sexually harassing conduct towards female employees, subjecting female employees to a
+hostile work environment, retaliating against females who bring forward complaints of
+sex discrimination and sexual harassment, and failing to take remedial and/or corrective
+action regarding sex discriminatory conduct, including sexual harassment and a hostile
+work environment.
+
+26. Throughout Plaintiff's employment, and as set forth herein, Defendant has
+discriminated against Plaintiff, and other female employees, based on sex.
+
+27. Matthew Barber (male), Police Officer, made sexist and sexual comments
+including the following:
+
+(a) That women should not be police officers.
+Case 2:25-cv-05554 Documenti Filed 09/26/25 Page 8 of 35
+
+(b) That he tried to get his wife drunk so that she would sleep with him
+in their family’s minivan.
+
+(c) That his wife was a “bitch” when she did not sleep with him in
+their family’s minivan.
+
+(d) That, in connection with a report by a woman that she was raped
+and assaulted, he did not believe the woman and suggested that she probably just liked to
+have sex in a rough manner.
+
+(e) That, in connection with the woman’s report of rape and assault, he
+would only document the same and would not look into it further or arrest the man who
+had been accused of rape.
+
+(f) That he would show respect only to those women that fit his
+definition of “attractive”.
+
+(g) That he was going to be “single” one night, which Plaintiff
+understood him to be expressing that his family was away and that he wanted to get
+together with Plaintiff romantically and/or sexually.
+
+(h) That women who were thin were attractive.
+
+(i) That Plaintiff was “fat”.
+
+(j) That, when a woman had a miscarriage, it was probably her fault
+and that she was overreacting about the pain of a miscarriage.
+
+(k) That Plaintiff did not know how to be a police officer, to Plaintiffs
+colleagues.
+
+(1) That Plaintiff was a “rookie”, to members of the public when
+
+Plaintiff went on calls.
+Case 2:25-cv-05554 Documenti Filed 09/26/25 Page 9 of 35
+
+(m) That Plaintiff was incapable of handling her job duties as a police
+officer, to Plaintiffs colleagues.
+
+(n) That Plaintiff would not make it past Defendant’s probation period
+to become a full-time employee of the Police Department.
+
+28.  Barber’s sex-based conduct towards Plaintiff, including in front of their
+colleagues, was such that other employees of Defendant told her that they believed, based
+upon the same, that he wanted a romantic and/or sexual relationship with her.
+
+29. Robert Heim (male), Police Officer, made sexist and sexual comments
+including the following:
+
+(a) Asking Plaintiff if she was single or whether her “baby daddy”
+moved in with her.
+
+(b) Asking Plaintiff whether her child’s father was involved in her life
+or her child’s life and whether he paid child support.
+
+(c) That women could not claim to be single mothers if the child’s
+father was involved and present at times.
+
+(d) That women should stay home with their children.
+
+30. | Male employees made inappropriate comments about womens’ bodies and
+womens’ rights in the context of a discussion about Roe v. Wade, the abortion rights
+case.
+
+31. During that discussion about abortion, Plaintiff pointed out that, as the
+only female in the room, she was uncomfortable with the male employees’ comments
+about womens’ bodies and rights and asked that they stop.
+
+32. Even after Plaintiff asked the male employees to stop making
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 10 of 35
+
+inappropriate comments about womens’ bodies and womens’ rights in the context of
+abortion, they continued doing so.
+
+33. Even after Plaintiff asked that male employees end the discussion about
+abortion, and womens’ bodies and rights’ in the context of the same, James Crawford
+(male), Sergeant, commented that men “had no rights” in connection with a woman’s
+decision to have an abortion and that men should be able to make women keep the baby.
+
+34. Melanie Faddis told Plaintiff that Matthew Kuhnert (male), Sergeant, said
+that he did not want a “fucking female” on his shift.
+
+35.  Faddis told Plaintiff that she was being discriminated against based on her
+Sex.
+
+36. — Faddis told Plaintiff that she believed, and was told, that male employees
+made false and negative comments about both of them in an attempt to pit the female
+employees against each other.
+
+37. Sergeant Crawford and Chief Jackson were present for, and witnessed,
+many of the sexist and sexual comments that male employees made to me and in front of
+me.
+
+38. Sergeant Crawford and Chief Jackson did not say anything to the male
+employees making sexual and sexist conduct at the time that the comments were made.
+
+39. The male employees’ hostile and sex discriminatory conduct was such that
+other employees told Plaintiff that they noticed that she was being targeted and treated
+worse than her colleagues.
+
+40. —_ In or around late 2022, Sergeant Crawford asked Plaintiff if she wanted
+
+him to speak to Barber about his conduct, including the comments that he had been
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 11 of 35
+
+making to her, as he could see that they were making Plaintiff uncomfortable.
+
+Al. Corporal Justin Hubert (male) told Plaintiff that she should talk to Barber
+about his conduct as it was clear to him that the same was impacting her negatively.
+
+42. Corporal Hubert also told Plaintiff that he would talk to Barber.
+
+43. To Plaintiff's information and belief, no one at Defendant, including
+Sergeant Crawford or Corporal Hubert, took any remedial and/or corrective action
+regarding Barber and other male employees’ sexist and sexual comments.
+
+44. | When male employees made sexist and/or sexual comments, Plaintiff
+made it clear to them that she did not welcome their conduct and that she was offended
+by the same.
+
+45. After Plaintiff made it clear that she did not welcome, and was offended
+by, the sex discriminatory conduct to which she was subjected, Defendant retaliated
+
+against her, including that which is set forth herein.
+
+46. Plaintiff's male managers/supervisors unjustly criticized her performance.
+47. Male managers/supervisors ignored Plaintiff.
+48. | Male managers/supervisors excluded Plaintiff from communications
+
+related to her job duties.
+
+49. On or about November 29, 2022, Hopkins informed Plaintiff that
+Defendant was transferring her to a different squad effective January 16, 2023.
+
+50. _Defendant’s transfer of Plaintiff to the new squad meant that she was
+removed from working with her mentor, Corporal Hubert, to whom she had been
+reporting for approximately one year.
+
+51. In or about January 2023, Plaintiff's new supervisor in her new squad,
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 12 of 35
+
+Sergeant Ryan Singleton (male), confirmed that those in leadership positions were well
+aware of Barber’s sex discriminatory conduct towards her.
+
+52. Sergeant Singleton told Plaintiff that she “could have had Barber by the
+balls”.
+
+53. Sergeant Singleton unjustly and harshly criticized Plaintiff for her reports
+that she submitted.
+
+54. Sergeant Singleton told Plaintiff that Lieutenant Hopkins was not happy
+with the quality of her reports.
+
+55. Prior to being transferred to Sergeant Singleton’s squad, Plaintiff rarely
+received criticism regarding her reports.
+
+56. Sergeant Singleton unjustly and harshly criticized Plaintiff's performance,
+including that she needed to increase her productivity and that she managed her time
+poorly.
+
+57. On or about August 28, 2023, Lieutenant Hopkins told Plaintiff that, based
+on Sergeant Singleton’s evaluation, Defendant was not passing her from probation, and
+that her probation period would be extended.
+
+58. Plaintiff was not given a date by which time her probation period would
+end.
+
+59. On or about September 1, 2023, Chief Jackson told Plaintiff that
+Defendant had extended her probation period so that it could help make her a better
+officer for the Police Department.
+
+60. Chief Jackson also asked Plaintiff if she had been looking for work outside
+
+of Defendant. Plaintiff told Chief Jackson that she had not been looking for outside
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 13 of 35
+
+work, and that she planned to continue working at Defendant.
+
+61. On or about October 16, 2023, Sergeant Singleton asked Plaintiff if she
+“wanted to play a game”. Sergeant Singleton then told Plaintiff that he took traffic cones
+and placed them throughout Plaintiff's patrol area for her to find.
+
+62. When Plaintiff asked Sergeant Singleton if she was in trouble and to
+understand why she was being told to do this exercise, he told her that the same was to
+break up the monotony.
+
+63. To Plaintiff's information and belief, no one else at Defendant was asked
+to do this kind of exercise. Also to Plaintiffs information and belief, there was no work-
+related reason to have her engage in that exercise.
+
+64. On or about October 23, 2023, Defendant terminated Melanie Faddis’
+employment. Defendant falsely stated that Faddis had resigned her employment.
+
+65. Prior to the separation of her employment, Faddis had told Plaintiff that
+Defendant had subjected her to sex discriminatory conduct.
+
+66. With Faddis’ separation, Plaintiff was one of only two law enforcement
+officers at Defendant to her knowledge and belief.
+
+67. On or about November 14, 2023, Plaintiff was informed that Defendant
+had failed to issue her a pay increase to which she had been entitled and that she had been
+in effect in early February 2023.
+
+68. Onor about November 24, 2023, Sergeant Singleton informed Plaintiff
+that someone had informed him that she did not know how to take apart her duty weapon.
+
+69, Sergeant Singleton refused to tell Plaintiff the name of the person who had
+
+allegedly reported that she did not know how to take apart her duty weapon.
+
+10
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 14 of 35
+
+70. Plaintiff had been carrying her duty weapon since she started in the Police
+Department. Plaintiff had passed multiple qualifications and firearm classes.
+
+71. Despite Plaintiff's history and qualifications, Sergeant Singleton instructed
+her to take apart and put back together her duty weapon three times in front of him and
+only then did he sign a document that he had watched her do so.
+
+72. On or about November 29, 2023, Plaintiff was on a scheduled vacation
+day when Chief Jackson called her and told her to come by to discuss her latest
+evaluation.
+
+73. When Plaintiff met with Chief Jackson and Lieutenant Hopkins, Chief
+Jackson told her that Defendant was terminating her employment, effective immediately.
+
+74. Plaintiff was told that the reason for her termination was that she was not a
+“good fit” and that “it’s just not working”.
+
+75. Plaintiff was presented with a pre-written letter of resignation and
+pressured to sign the same at her termination meeting.
+
+76. Lieutenant Hopkins told Plaintiff that he was aware that Plaintiff did not
+“care” about the Police Department, but that her resigning would “look better” for the
+Department, and that it would help her in getting another job.
+
+77. Plaintiff initially refused to sign Defendant’s pre-written resignation letter
+as she had not resigned her employment.
+
+78. After Plaintiff refused to sign Defendant’s pre-written resignation letter,
+Defendant pressured her to sign the same, including threatening that she would not
+receive unemployment compensation benefits if she did not sign.
+
+79. Based on Defendant’s pressure, Plaintiff signed the pre-written resignation
+
+11
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 15 of 35
+
+letter.
+
+80. Following Plaintiff's termination, she asked Lieutenant Hopkins to send
+her the certifications that she had earned during her employment with Defendant, as she
+would need the same for a new potential position.
+
+81. Plaintiff had to reach out multiple times to get a complete response from
+Lieutenant Hopkins about her certifications, and, to date, has still not received all of the
+information that she requested. At least some of the information that Lieutenant Hopkins
+did provide to Plaintiff regarding her certifications was incorrect.
+
+82. Following Plaintiffs termination, to her information and belief, Sergeant
+Mark Stead (male), said that he was glad that she was gone because Defendant did not
+need “another fucking female” around.
+
+83. Plaintiff's sex was a motivating and/or determinative factor in Defendant’s
+discriminatory treatment of Plaintiff, including the hostile work environment to which
+Plaintiff was subjected, Defendant’s transfer of Plaintiff, and Plaintiffs termination.
+
+84. __ Plaintiff’s complaining of sex discrimination was a motivating and/or
+determinative factor in Defendants’ retaliatory treatment of Plaintiff, including the hostile
+work environment to which Plaintiff was subjected, Defendant’s transfer of Plaintiff, and
+Plaintiffs termination.
+
+85. Defendant failed to prevent or address the discriminatory and retaliatory
+conduct referred to herein and further failed to take corrective and remedial measures to
+make the workplace free of discriminatory and retaliatory conduct.
+
+86. _Defendant’s actions referred to herein have established a policy and
+
+pattern of acceptance and tolerance of discrimination and harassment against women.
+
+12
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 16 of 35
+
+87. The retaliatory actions taken against Plaintiff after she complained of
+discriminatory conduct would have discouraged a reasonable employee from
+complaining of discrimination.
+
+88. The discriminatory and retaliatory conduct of Defendant, as alleged
+herein, was severe and/or pervasive enough to make a reasonable person believe that the
+conditions of employment had been altered and that a hostile work environment existed,
+and made Plaintiff believe that the conditions of employment had been altered and that a
+hostile work environment existed.
+
+89, As a direct and proximate result of the discriminatory and retaliatory
+conduct of Defendant, Plaintiff has in the past incurred, and may in the future incur, a
+loss of earnings and/or earning capacity, loss of benefits, pain and suffering,
+embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of life’s
+pleasures, the full extent of which is not known at this time.
+
+90. Defendant acted with malice, reckless indifference, and/or
+deliberate indifference to Plaintiffs protected rights.
+
+COUNT I - Title VII
+
+91. Plaintiff incorporates herein by reference paragraphs 1 through 90 above,
+as if set forth herein in their entirety.
+
+92. By committing the foregoing acts of discrimination and retaliation against
+Plaintiff, Defendant has violated Title VII.
+
+93. As a direct and proximate result of Defendant’s violation of Title VII,
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+13
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 17 of 35
+
+94. _ Plaintiffis now suffering and will continue to suffer irreparable injury and
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+and until this Court grants the relief requested herein.
+
+95. | No previous application has been made for the relief requested herein.
+
+COUNT II — Section 1983
+
+96. Plaintiff incorporates herein by reference paragraphs 1 through 95 above,
+as if set forth herein in their entirety.
+
+97. Defendant’s discriminatory and retaliatory conduct, as set forth herein,
+deprived Plaintiff of equal protection under the law as guaranteed by the Fourteenth
+Amendment of the United States Constitution.
+
+98. Defendant’s violation of the constitution included policies, practices,
+and/or customs to treat female employees in Defendant’s Police Department less
+favorably than male employees, which was committed, directed, implemented, and/or
+ratified by officials of Defendant in supervisory capacities with policymaking and
+decision-making authority.
+
+99. Asa direct and proximate result of Defendant’s acts and conduct which
+caused and continue to cause Plaintiff to be denied equal protection under the law,
+Plaintiff has suffered and will suffer those injuries, damages, and losses alleged herein
+and has incurred and will incurred attorneys’ fees.
+
+100. The wrongful acts and conduct of Defendant were done with deliberate
+
+indifference to the statutory and constitutional rights of Plaintiff.
+
+14
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 18 of 35
+
+COUNT Ul - PHRA
+
+101. Plaintiff incorporates herein by reference paragraphs 1 through 100 above,
+as if set forth herein in their entirety.
+
+102. Defendant, by the above improper and discriminatory and retaliatory acts,
+has violated the PHRA.
+
+103. Said violations were intentional and willful.
+
+104.  Asadirect and proximate result of Defendant’s violation of the PHRA,
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+attorney’s fees and costs.
+
+105. Plaintiffis now suffering and will continue to suffer irreparable injuries
+and monetary damages as a result of Defendant’s discriminatory and retaliatory acts
+unless and until the Court grants the relief requested herein.
+
+106. No previous application has been made for the relief requested herein.
+
+RELIEF
+
+WHEREFORE, Plaintiff seeks damages and legal and equitable relief in
+connection with Defendant’s improper conduct, and specifically prays that the Court
+grant the following relief to the Plaintiff by:
+
+(a) declaring the acts and practices complained of herein to be
+in violation of Title VII;
+
+(b) declaring the acts and practices complained of herein to be
+in violation of Section 1983;
+
+(c) declaring the acts and practices complained of herein to be
+
+in violation of the PHRA;
+
+15
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 19 of 35
+
+(d) enjoining and permanently restraining the violations alleged
+herein;
+
+(e) entering judgment against Defendant and in favor of the Plaintiff in
+an amount to be determined;
+
+(f) awarding compensatory damages to make the Plaintiff whole for
+all lost earnings, earning capacity and benefits, past and future, which Plaintiff has
+suffered or may suffer as a result of Defendants’ improper conduct;
+
+(g) awarding compensatory damages to Plaintiff for past and future
+pain and suffering, emotional upset, mental anguish, humiliation, and loss of life’s
+pleasures, which Plaintiff has suffered or may suffer as a result of Defendant’s improper
+conduct;
+
+(h) awarding Plaintiff such other damages as are appropriate under
+Title VII, Section 1983, and the PHRA;
+
+(i) awarding Plaintiff the costs of suit, expert fees and other
+
+disbursements, and reasonable attorney’s fees; and,
+
+16
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 20 of 35
+
+(j) granting such other and further relief as this Court may deem just,
+proper, or equitable including other equitable and injunctive relief providing restitution
+
+for past violations and preventing future violations.
+
+CONSOLE MATTIACCI LAW
+
+Dated: September 26, 2025 BY: (Aur QLD
+
+Caren N. Guryfankin (205900)
+1525 Locust St., 9" Floor
+Philadelphia, PA 19102
+
+(215) 545-7676
+
+(215) 565-2853 (fax)
+
+Attorney for Plaintiff,
+Brooke Spence
+
+17
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 21 of 35
+
+Exhibit 1
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 22 of 35
+
+COMMONWEALTH OF PENNSYLVANIA
+GOVERNOR’S OFFICE
+
+PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+Brooke Spence,
+
+Complainant
+V. PHRC Case No. 202317131
+
+Lower Providence Township; Lower EEOC No. 17F202460659
+Providence Township Police Department,
+
+Respondent
+
+COMPLAINT
+JURISDICTION
+1. pusdiction is pursuant to the Pennsylvania Human Relations Act 43 P.S. §§ 951-
+PARTIES
+
+2. The Complainant herein is:
+
+Brooke Spence
+
+Bridgeport, PA 19405
+3. The Respondent herein is:
+
+Lower Providence Township; Lower Providence Township Police Department
+100 Parklane Drive
+Eagleville, PA 19403
+PI FIV Sree
+
+Rages of 1] LULZ4SUS925 101s fre
+
+Case 2:25-cv-05554 “Document 1 Filed 09/26/25 ~ Page 23 of 35
+
+COMMONWEALTH OF PENNSYLVANIA
+GOVERNOR'S OFFICE
+PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+COMPLAINT
+
+COMPLAINANT:
+
+BROOKE SPENCE Docket No.
+V. :
+
+RESPONDENTS:
+
+LOWER PROVIDENCE TOWNSHIP
+
+and
+
+LOWER PROVIDENCE TOWNSHIP
+POLICE DEPARTMENT
+
+1. The Complainant herein is:
+
+Name: Brooke Spence
+
+Address:
+Bridgeport, PA 19405
+
+1. The Respondents herein are:
+
+Names: Lower Providence Township: Lower Providence Township Police
+Department
+
+Address: 100 Parklane Drive
+Eagleville, PA 19403
+
+2. |. Brooke Spence, the Complainant herein, allege that | was subjected to unlawful
+discrimination because of my sex (female) and retaliation because of my engaging in protected
+
+activity, as set forth below.
+-U4-29 lo 1/49 cu! 12 1uyoucouG
+
+rane yA 8e '2:25-cv-05554 “Document 1 Filed 09/26/25 Page 24 of 35
+
+Discrimination and Retaliation
+
+A. Lspecifically allege:
+
+fl] | began my employment with Respondents on February 7, 2022.
+
+{2} I last held the position of Police Officer.
+
+[3] I consistently performed my job duties in a highly competent manner.
+[4] | last reported to Ryan Singleton (male), Sergeant. Singleton reported to
+
+William Hopkins (male), Lieutenant. Hopkins reported to Michael Jackson (male), Chief of
+
+Police.
+
+[5] Before reporting to Singleton, | reported to James Craw ford (male),
+Sergeant.
+
+[6] When | was hired, | was one (1) of two (2) female Police Officer
+
+employees, out of approximately thirty (30) Police Officer employees, reporting to Jackson.
+
+{7] On June 17, 2022, Respondents hired Melanie Faddis (female), Police
+Officer.
+
+|8] | was treated differently and worse, and in a inore hostile and dismissive
+manner, than male employees were treated.
+
+[9] Matthew Barber (male). Police Officer, commented that women should
+not be police officers.
+
+[10] Barber commented that | did not know how to be a police officer.
+
+[1}] Barber commented that | was incapable of handling my job duties.
+
+[12] Barber commented that | would not make it out of probation.
+
+PMI ING@HIVy Serae
+Page Uo of] 2UC9-U9-29 10:17; 74 12199092690
+
+Case 2:25-cv-05554 “Boctment 1 Filed 09/26/25 Page 25 of 35
+
+[13] Barber commented that he tried to get his wife drunk so that she would
+sleep with him, which | understood him to mean have sex with him, in their minivan, and called
+her a “bitch” for not doing the same.
+
+[14] Barber commented to me that he was going to be single that night, and
+through his facial expression and body language toward me, | understood that he wanted to have
+
+sex with me. | refused his advances.
+
+[15] Barber commented that | was “fat.”
+[16] Barber commented that women who were thin were attractive.
+{17} Barber commented that he would only show respect to women that fit his
+
+criteria of attractive.
+
+[18] Barber commented. in a rape situation, that the woman who had reported
+being raped probably just liked to have sex in a rough manner. Barber stated that he was only
+going to document the report of rape and not look into it any further or arrest the man who had
+been reported as raping the woman.
+
+[19] Barber commented, regarding a miscarriage situation, that it was probably
+the woman’s fault that she had a miscarriage, and that she was overreacting about the pain.
+
+{20} Robert Heim (male), Corporal, asked me if | was single or if my “baby
+
+daddy” moved with me.
+
+{21} Heim asked me what ] meant when I said | was a single mother.
+[22] Heim asked me if my child's father was involved in my life or my child’s
+
+life and whether he paid child support.
+
+[23] Heim commented that women could not claim to be single mothers if the
+
+child’s father was involved and present at times.
+
+rrom. wancy Dlace
+Fag¢e..Ub of 1 2025-04-29 101/49 ED 69259.
+
+ase 2:25-cv-05554 “Bocument 1 Filed 09/26/25 ‘Page 26 of 35
+
+{24} Heim commented that women should stay home with their children.
+
+{25] Crawford commented that. regarding abortion, he did not find it “fair” that
+the man had “no rights” and that men should be able to make women keep the baby.
+
+{26} Faddis told me that Matthew Kuhnert (male), Sergeant, stated that he did
+not want a “fucking female” on his shift.
+
+[27] Faddis and | discussed the sex discrimination to which we were subjected
+at Respondents.
+
+{28] Faddis and | discussed that male employee made false and negative
+comments to us about the other in attempt to pit the female employees against each other.
+
+[29} Employees commented to me that they noticed how | was being targeted
+and treated worse.
+
+[50] Jackson and Crawford were present for and witnessed sex-based
+
+comments to which I was subjected but took no action in response to remedy or prevent the
+
+same.
+
+{3t] | objected to the sex-based comments and conduct.
+
+{32] | made it known that | did not want to engage in the sex-based
+commentary.
+
+[33] | rebuffed the sex-based overtures.
+
+{34] | was held to a higher, more stringent standard than male employees were
+held.
+
+[35] My performance was unjustly criticized,
+
+[36] My probationary period was extended.
+
+{37] I never passed the probationary period.
+
+From: Nancy Giac
+rayo.vrut evervutrco 10 1/ AOC le WVU cZOVN
+
+Case 2:25-cv-05554 “Document? Filed 09/26/25 “Page 27 of 35
+
+[38] | was ignored.
+
+[39] { was excluded from communications related to my job duties.
+[40] Male employees were interacted with in a more collegial manner.
+[41] Respondent did not have a designated female bathroom but had a
+
+designated male bathroom.
+
+[42] On November 29, 2022, in a meeting with Hopkins. Respondents
+transterred me to a diflerent squad, eflective January 16,2023. The stated reason was that [ had
+not been placed with a Sergeant who | could learn the best from.
+
+[43} The transfer to a different squad moved me away from my assigned,
+
+yearlong mentor, Justin Hubert (male), Corporal.
+
+[44] Respondents replaced me with Kyle Hirsch (male). Police Officer.
+[45} On January 16, 2023. | began reporting to Singleton.
+[46] On February |7, 2023, in a meeting with Singleton, | complained of sex
+
+discrimination in connection with how | was treated. | described the sex-based comments made
+to me by male emplovees, including Barber. Singleton stated that the “higherups” were aware of
+how Barber was treating me, and that I “could have had Barber by the balls.”
+
+{47} On October 23, 2023, Respondents terminated Faddis’s employment and
+falsely stated that she resigned.
+
+[48] On November 29, 2023, in a meeting with Jackson and Hopkins,
+Respondents terminated my employment, effective immediately. The stated reason was that |
+was not a good fit. [| was instructed and pressured to sign a resignation letter on the spot. |
+complained of the sex discrimination to which | was subjected by male employees, including
+
+Barber. Jackson stated that none of what | told them changed their decision.
+
+rrom. Nancy OIlac
+rays.vou tt ever yTne? (Uf tI letuveuveuvy
+
+Case 2:25-cv-05554 “Document 1 Filed 09/26/25 ~~ Page 28 of 35
+
+[49] | heard that, after | was terminated, Mark Stead (male), Sergeant,
+commented that he was glad | was gone because Respondents did not need “another fucking
+female” around.
+
+{S0] When I was terminated. | was one (1) of two (2) female Police Officer
+employees, out of approximately thirty (30) Police Officer employees, reporting to Jackson.
+
+[Sl] { received no explanation, including the selection criteria, as to why [ was
+
+terminated and male and noncomplaining employees were retained.
+
+[52] | was not placed on any progressive discipline before being terminated.
+[53] 1 was the only employee who was terminated on November 29, 2023.
+[54] Respondents terminated my employment because of my sex and/or my
+
+engaging in protected activity.
+
+[55] Respondents subjected me to a hostile work environment because of my
+sex and/or my engaging in protected activity.
+
+[56] | had no opportunity to remain employed with Respondents.
+
+[57] Respondents assigned my job duties and responsibilities to
+noncomplaining and/or male employees. | was more qualified to perform my job duties and
+responsibilities than the noncomplaining. male employees to whom my job duties and
+responsibilities were assigned.
+
+[58] Respondents retained all other employees reporting to Jackson when I was
+terminated—all of whom were noncomplaining and/or male.
+
+[59] Respondents retained noncomplaining, male employees in positions for
+
+Which | was more qualified when I was terminated.
+
+DIMI Ieaniwy Wray
+rage: uy or LI 2UZ49-U4-2Z9 10:1/:49 ED | 96928:
+
+ase 2:25-cv-05554 “Document? Filed 09/26/25 ‘“Page 29 of 35
+
+[60] Other female and/or complaining employees have been terminated and/or
+pushed out and/or subjected to a hostile work environment at Respondents.
+[61] Respondents failed to remedy or prevent the sex discrimination and
+
+retaliation to which | was subjected.
+
+{62} Respondents failed to investigate my sex discrimination complaints.
+[63] Respondents’ sex discriminatory and retaliatory conduct toward me has
+
+caused me emotional distress.
+
+[64] Respondents’ comments and conduct evidence a bias against female
+and/or complaining employees.
+
+[65] 1 bring this Complaint as a class and pattern or practice Complaint
+on behalf of myself and any and all current or former similarly situated employees of
+Respondents who are female, and have been discriminated against based on sex, in
+connection with compensation, hostile work environment, hiring, promotion, demotion,
+training, leadership opportunities, transfer, and/or termination.
+
+B. Respondents have discriminated against me because of my sex (female) and
+retaliated against me because of my engaging in protected activity. in violation of Title VII of the
+Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e. ef seg. (“Title VIP"), and the
+Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seg. (*PHRA”).
+
+3. The allegations in Paragraph 3 hereof constitute unlawful discriminatory practices
+in Violation of:
+
+x. Pennsylvania Human Relations Act (Act of October 27, 1955, P.L.
+
+744, as amended) Section 5 Subsection(s): _ (2); (d)
+
+Section 5.1 Subsection(s)
+
+From: Nancy Glac
+rays. ivulti serene IMs MO (2 lUUNUUZLZOUG
+
+Case 2:25-cv-05554 “Document1 Filed 09/26/25 “Page 30 of 35
+
+Section 5.2 Subsection(s)
+
+Pennsylvania Fair Educational Opportunities Act (Act of July 17, 1961.
+
+P.L. 766, as amended) Section 4 Subsection(s)
+
+4. Other action based upon the aforesaid allegations has been instituted by the
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+
+X This charge will be referred to the EEOC for the purpose of dual
+filing.
+5. The Complainant seeks that Respondent be required to:
+
+(a) Make the Complainant whole.
+
+(b) Eliminate all unlawful discriminatory practice(s) and procedure(s).
+
+(c) Remedy the discriminatory effect of past practice(s) and procedure(s).
+
+(d) Take further affirmative action necessary and appropriate to remedy the violation
+complained of herein.
+
+(c) Provide such further relief as the Commission deems necessary and appropriate.
+
+rrom. Nancy Wiac
+ever cod 191/49 CU
+
+Document 1
+
+rays. tiurte
+
+Case 2:25-cv-05554
+
+‘Filed 09/26/25
+
+pert nem a eh
+
+seebsy osteiy HAL Shee sere
+
+ie EEEED EROS SY
+
+anthaurities,
+
+i337 het we
+VRS ERT LAS TE
+SMS. wobatsiey, bes ti
+
+14 1VU0UZOVN
+
+Page 31 of 35
+
+rrom: wancy Giac
+
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 32 of 35
+
+Exhibit 2
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 33 of 35
+
+From: DOJ Civil Rights - Do Not Reply <civilrightsdonotreply@mail.civilrights.usdoj.gov>
+
+Sent: Tuesday, July 1, 2025 1:34 PM
+To: Emily R. Derstine Friesen <DerstineFriesen@consolelaw.com>
+Subject: Response: Your Civil Rights Division Report - 631727-LKM from the Employment Litigation
+
+Section
+
+(oN V/LUgF ales [eRe ler= 10)
+
+631727-LKM
+
+NOTICE OF RIGHT TO SUE WITHIN 90 DAYS
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 34 of 35
+
+Jul 1, 2025
+
+Brooke Spence
+
+Gurmankin@consolelaw.com
+
+Re: — Brooke Spence v. Lower Providence Township: Lower Provide, et al.,
+EEOC Charge No. 17F-2024-60659
+
+Dear Brooke Spence,
+
+You are receiving this notice because you filed the above charge(s) with the Equal
+Employment Opportunity Commission (EEOC), and you or your attorney specifically
+requested this notice.
+
+Because either 180 days have passed since you filed the above charge(s), or because the
+EEOC has determined that it will not be able to conclude its administrative process within
+180 days of the date it assumed jurisdiction of the charge(s), you are hereby notified that
+you have the right to file a lawsuit commencing a civil action based on the charge(s)
+under the following statute(s):
+
+@ Title Vil of the Civil Rights Act of 1964, 42 USC. 42 U.S.C. § 2000e, et seq.
+
+If you decide to file a lawsuit under the statute(s) identified above, you must file it in
+
+the appropriate court within 90 days of receiving this Notice. This Notice should
+not be taken to mean that the Department of Justice has made a judgment as to whether
+your charge is meritorious. If you haven’t already, you may want to consult with a
+private attorney of your own choosing and expense.
+
+If you have questions or wish to inspect the investigative file pertaining to this matter,
+please address your inquiry to the following EEOC office: Philadelphia District Office.
+Contact information for this office can be located at https://www.eeoc.gov/field-
+
+office/philadelphia/location.
+
+Sincerely,
+
+Complaint Referral Unit
+Employment Litigation Section
+Civil Rights Division
+
+CC: Gurmankin@consolelaw.com, DerstineFriesen@consolelaw.com,
+aadair@dmvlawfirm.com, Damon. Johnson@EEOC. gov
+
+Contact
+
+civilrights.justice.gov M4 U.S. & (202) 514-
+Department of 3847
+
+Justice 1-855-856-
+Civil Rights 1247 (toll-
+Case 2:25-cv-05554 Documenti- Filed 09/26/25 Page 35 of 35
+
+Division free)
+
+950 Telephone
+Pennsylvania Device for
+Avenue, NW the Deaf
+Washington, (TTY) (202)
+D.C. 20530- 514-0716
+0001

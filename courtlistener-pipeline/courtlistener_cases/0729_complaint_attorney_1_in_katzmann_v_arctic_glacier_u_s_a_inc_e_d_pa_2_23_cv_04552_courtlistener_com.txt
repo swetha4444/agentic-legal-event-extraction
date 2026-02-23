@@ -1,0 +1,676 @@
+Source URL: https://www.courtlistener.com/docket/68017909/1/katzmann-v-arctic-glacier-usa-inc/
+Title: Complaint (Attorney) – #1 in KATZMANN v. ARCTIC GLACIER U.S.A., INC. (E.D. Pa., 2:23-cv-04552) – CourtListener.com
+
+JS 44 (Rev. 10/20)              Case 2:23-cv-04552-TJS
+                                                    CIVILDocument
+                                                          COVER1SHEET
+                                                                  Filed 11/17/23                                                                  Page 1 of 12
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                       DEFENDANTS
+         RACHEL KATZMANN                                                                                ARCTIC GLACIER U.S.A., INC.
+   (b) County of Residence of First Listed Plaintiff             Philadelphia                           County of Residence of First Listed Defendant              Montgomery
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                               (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                        NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                   THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       Mary Kramer, Esq.; Murphy Law Group, LLC; Eight Penn
+       Center, Suite 2000, 1628 John F. Kennedy Blvd.,               Stephanie Kaplan
+       Philadelphia, PA 19103; 267-273-1054
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                     (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                    of Business In This State
+
+  2    U.S. Government                 4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                               Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                 Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                  Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY             625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                    365 Personal Injury -            of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product                Product Liability        690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability                  367 Health Care/                                                                                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                        Personal Injury                                                820 Copyrights                   430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’              Product Liability                                              830 Patent                       450 Commerce
+  152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                              835 Patent - Abbreviated         460 Deportation
+       Student Loans                 340 Marine                          Injury Product                                                     New Drug Application         470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product                  Liability                                                      840 Trademark                        Corrupt Organizations
+  153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                      LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud              710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending             Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability           380 Other Personal           720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal                  Property Damage              Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                      385 Property Damage          740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -               Product Liability        751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                          Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS            790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:               791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                      463 Alien Detainee               Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment                  510 Motions to Vacate                                             870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                        Sentence                                                           or Defendant)                896 Arbitration
+  245 Tort Product Liability             Accommodations              530 General                                                       871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment                  Other:                       462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -      540 Mandamus & Other         465 Other Immigration                                                  950 Constitutionality of
+                                         Other                       550 Civil Rights                 Actions                                                                State Statutes
+                                     448 Education                   555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+    Proceeding             State Court                            Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                           (specify)                  Transfer                         Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                       42 U.S.C. § 12101, et seq.
+VI. CAUSE OF ACTION Brief description of cause:
+                                       DISCRIMINATION AND RETALIATION
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                                                                          JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                               DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+Nov 17, 2023                                                         /s/ Mary Kramer
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                   JUDGE                           MAG. JUDGE
+                          Case 2:23-cv-04552-TJS   Document
+                                              UNITED           1 Filed
+                                                     STATES DISTRICT    11/17/23
+                                                                     COURT                                                                 Page 2 of 12
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                 216 W Mount Pleasant Avenue, Philadelphia, PA 19119.
+Address of Plaintiff: ______________________________________________________________________________________________
+                                   One Bala Plaza, Suite 622, Bala Cynwyd, PA 19004
+Address of Defendant: ____________________________________________________________________________________________
+                                                One Bala Plaza, Suite 622, Bala Cynwyd, PA 19004
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                               Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                                  Yes                 No
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                                 Yes                 No
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                                    Yes                 No
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                                 Yes                 No
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /      is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.                                                      Digitally signed by: Mary Kramer
+
+
+
+           11/17/2023
+DATE: __________________________________
+                                                             Mary    Kramer            DN: CN = Mary Kramer email =
+                                                                                       mkramer@phillyemploymentlawyer.com C = US O =
+
+                                                                             Must sign here
+                                                                                       Murphy Law Group, LLC
+                                                             __________________________________________
+                                                                                       Date: 2023.11.17 15:35:35 -05'00'
+                                                                                                                                                     324078
+                                                                                                                                        ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                      Attorney I.D. # (if applicable)
+
+
+CIVIL: !#)$%& $ / (* +*& %$-&'+,. +*)."
+
+A.            Federal Question Cases:                                                         B.         Diversity Jurisdiction Cases:
+
+!      1.     Indemnity Contract, Marine Contract, and All Other Contracts                    !          1.         Insurance Contract and Other Contracts
+!      2.     FELA                                                                            !          2.         Airplane Personal Injury
+!      3.     Jones Act-Personal Injury                                                       !          3.         Assault, Defamation
+!      4.     Antitrust                                                                       !          4.         Marine Personal Injury
+!      5.     Patent                                                                          !          5.         Motor Vehicle Personal Injury
+!      6.     Labor-Management Relations                                                      !          6.         Other Personal Injury (Please specify): _____________________
+!      7.     Civil Rights                                                                    !          7.         Products Liability
+!      8.     Habeas Corpus                                                                   !          8.         Products Liability – Asbestos
+!      9.     Securities Act(s) Cases                                                         !          9.         All other Diversity Cases
+!      10.    Social Security Review Cases                                                                          (Please specify): ____________________________________________
+!      11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (The effect of this certification is to remove the case from eligibility for arbitration.)
+
+              Mary Kramer, Esq.
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+       !      Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+       !      Relief other than monetary damages is sought.
+                                                                                        Digitally signed by: Mary Kramer
+
+                                                                Mary Kramer             DN: CN = Mary Kramer email =
+
+
+           11/17/2023
+DATE: __________________________________
+                                                                                        mkramer@phillyemploymentlawyer.com C =
+                                                                                        US O = Murphy Law Group, LLC
+                                                                           Sign here if applicable
+                                                             __________________________________________
+                                                                                        Date: 2023.11.17 15:35:52 -05'00'
+                                                                                                                                                     324078
+                                                                                                                                        ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                     Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (5/2018)
+         Case 2:23-cv-04552-TJS                Document 1           Filed 11/17/23   Page 3 of 12
+
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+---------------------------------------------------------------
+RACHEL KATZMANN                                                 :
+216 W Mount Pleasant Avenue                                     :
+Philadelphia, PA 19119                                          :
+                                                                :      Civil Action No.: _______________
+                                    Plaintiff,                  :
+                                                                :
+                  v.                                            :
+                                                                :      JURY TRIAL DEMANDED
+ARCTIC GLACIER U.S.A., INC.                                     :
+One Bala Plaza, Suite 622                                       :
+Bala Cynwyd, PA 19004                                           :
+                                                                :
+                                    Defendant.                  :
+---------------------------------------------------------------
+
+                                     COMPLAINT – CIVIL ACTION
+
+         Plaintiff, Rachel Katzmann (“Plaintiff”), by and through her undersigned counsel, for her
+
+Complaint against Arctic Glacier U.S.A., Inc. (“Defendant”), alleges as follows:
+
+                                               INTRODUCTION
+
+         1.       Plaintiff initiates this action contending Defendant violated the American with
+
+Disabilities Act (“ADA”), 42 U.S.C. § 12101, et seq., by failing to provide reasonable
+
+accommodations to Plaintiff; failing to engage in the interactive process; and terminating Plaintiff
+
+because of her actual and/or perceived disability, because Defendant regarded her as being
+
+disabled, for her past record of impairment, and in retaliation for requesting a reasonable
+
+accommodation in connection thereto, in violation of the ADA.1
+
+
+
+
+1
+ Plaintiff intends to amend this Complaint to add claims under the Pennsylvania Human Relations
+Act (“PHRA”), 43 P.S. § 951, et seq., upon administrative exhaustion.
+                                                          1
+          Case 2:23-cv-04552-TJS         Document 1     Filed 11/17/23      Page 4 of 12
+
+
+
+
+                                            PARTIES
+
+          2.   Plaintiff is a citizen of the United States and Pennsylvania and currently maintains
+
+a residence at 216 W Mount Pleasant Avenue, Philadelphia, PA 19119.
+
+          3.   Upon information and belief, Defendant is a for-profit company organized and
+
+existing under the laws of the State of Delaware with a registered office address and places of
+
+business located at One Bala Plaza, Suite 622, Bala Cynwyd, PA 19004.
+
+                                 JURISDICTION AND VENUE
+
+          4.   Paragraphs 1 through 3 are hereby incorporated by reference as though the same
+
+were fully set forth at length herein.
+
+          5.   On or about November 23, 2022, Plaintiff filed a Charge of Discrimination with
+
+the United States Equal Employment Opportunity Commission (“EEOC”), which was dual-filed
+
+with the Pennsylvania Human Relations Commission (“PHRC”), thereby satisfying the
+
+requirements of 42 U.S.C. § 2000e5(b) and (e). Plaintiff’s EEOC charge was docketed as EEOC
+
+Charge No. 530-2023-01412. Plaintiff’s EEOC charge was filed within one-hundred and eighty
+
+(180) days of the unlawful employment practice.
+
+          6.   By correspondence dated August 25, 2023, Plaintiff received a Notice of Right to
+
+Sue from the EEOC regarding her Charge, advising her that she had ninety (90) days to file suit
+
+against Defendant.
+
+          7.   Plaintiff filed the instant action within the statutory time frame applicable to her
+
+claims.
+
+          8.   Plaintiff has therefore exhausted her administrative remedies and has complied with
+
+all conditions precedent to maintaining this action.
+
+
+
+
+                                                 2
+        Case 2:23-cv-04552-TJS           Document 1         Filed 11/17/23      Page 5 of 12
+
+
+
+
+        9.      This action is authorized and initiated pursuant to the American with Disabilities
+
+Act (“ADA”), 42 U.S.C. § 12101, et seq.
+
+        10.     This Court has jurisdiction over this matter pursuant to 28 U.S.C. §§ 1331 and 1343
+
+as well as it is a civil rights action arising under the laws of the United States.
+
+        11.     The venue in this district is proper pursuant to 28 U.S.C. § 1391(b), as Defendant
+
+resides in this judicial district and does business herein, and the unlawful practices of which
+
+Plaintiff is complaining were committed in this judicial district.
+
+                                   FACTUAL ALLEGATIONS
+
+        12.     Paragraphs 1 through 11 are hereby incorporated by reference as though the same
+
+were fully set forth at length herein.
+
+        13.     Plaintiff began her employment with Defendant on or about April 5, 2021, as a
+
+Contractor; Plaintiff was later hired for full-time employment on or about September 19, 2021, in
+
+the position of Talent Acquisition Specialist.
+
+        14.     As a Talent Acquisition Specialist, Plaintiff worked directly for Defendant’s Vice
+
+President of Recruiting and Talent Development, Thomas Gasque (“Mr. Gasque”), and provided
+
+him with any assistance he required.
+
+        15.     In her position, Plaintiff also managed contract recruiters and personally handled
+
+recruiting.
+
+        16.     Notably, Mr. Gasque frequently asked Plaintiff to work outside of normal business
+
+hours and beyond her assigned responsibilities.
+
+        17.     However, Plaintiff always completed the assignments from Mr. Gasque without
+
+complaint, as well as without receiving any additional compensation.
+
+
+
+
+                                                   3
+        Case 2:23-cv-04552-TJS          Document 1        Filed 11/17/23    Page 6 of 12
+
+
+
+
+       18.     In or around February 2022, due to a workload that was overburdened by Mr.
+
+Gasque’s frequent requests, which Plaintiff handled on top of her responsibilities as a Talent
+
+Acquisition Specialist, Plaintiff’s health began to decline.
+
+       19.     Specifically, Plaintiff had previously been diagnosed with anxiety disorder, which
+
+resulted in a sleep disorder, both of which constitute disabilities within the meaning of the ADA
+
+and PHRA in that they severely limit one or more major life activities.
+
+       20.     As a result of her disabilities, which were exacerbated due to her work conditions,
+
+Plaintiff emailed Mr. Gasque on May 18, 2022, to explicitly request a reasonable accommodation;
+
+Plaintiff’s request focused on her needs related to her anxiety disorder.
+
+       21.     Specifically, Plaintiff requested the following: a clear set of core hours during
+
+which Plaintiff would need to be available and at her computer; a clarified system for requesting
+
+time off or needing to take time off when unexpectedly ill; a scheduled daily check-in phone call
+
+between Mr. Gasque and Plaintiff; and a weekly written task list, similar to the structure used by
+
+the Zendesk ticketing system.
+
+       22.     It should be noted that these accommodations would not have imposed an undue
+
+hardship on Defendant as they required neither significant difficulty or expense.
+
+       23.     Also on or about May 18, 2022, Plaintiff shared her request for a reasonable
+
+accommodation with Defendant’s then Human Resources Business Partner, Jacky Syberg (“Ms.
+
+Syberg”).
+
+       24.     On or about May 19, 2022, Ms. Syberg thanked Plaintiff for letting her know and
+
+confirmed that she had spoken with Mr. Gasque the day before and that he had given her “a heads
+
+up,” which acknowledged that Defendant was fully aware of Plaintiff’s request.
+
+
+
+
+                                                  4
+        Case 2:23-cv-04552-TJS         Document 1        Filed 11/17/23      Page 7 of 12
+
+
+
+
+       25.     Additionally, Mr. Gasque informed Plaintiff that Defendant’s Vice President of
+
+Payroll, Benefits, HRIS, and Compensation, Judy O’Brien (“Ms. O’Brien”), would reach out to
+
+her to provide information on what would be needed to start the ADA process.
+
+       26.     Plaintiff did not hear from Ms. O’Brien until on or about May 23, 2022, at
+
+approximately 10:27 AM, at which time Ms. O’Brien provided Plaintiff with a number to call to
+
+discuss accommodations.
+
+       27.     That same day, May 23, 2022, Plaintiff requested a meeting with Mr. Gasque and
+
+Defendant’s Chief Human Resources Officer, Elise Doyle (“Ms. Doyle”), to discuss her request
+
+for accommodations.
+
+       28.     However, this meeting was instead used for Ms. Doyle to surprise Plaintiff with
+
+alleged deficiencies in her job performance.
+
+       29.     Defendant’s issues with Plaintiff’s performance were not revealed to her until after
+
+she requested a reasonable accommodation for her disabilities.
+
+       30.     Following this meeting, Plaintiff was given a “Final Written Warning,” which
+
+outlined the alleged faults with her job performance.
+
+       31.     Again, this warning was not given to Plaintiff until after her request for an
+
+accommodation was made.
+
+       32.     Given the fact that Plaintiff was the person to schedule this meeting for the purpose
+
+of discussing her accommodation request, Plaintiff was understandably caught off guard when
+
+presented with an attack on her job performance.
+
+       33.     During the on or about May 23, 2022, meeting, Ms. Doyle took it upon herself to
+
+explain to Plaintiff her understanding of the purpose of the ADA.
+
+
+
+
+                                                 5
+        Case 2:23-cv-04552-TJS           Document 1     Filed 11/17/23      Page 8 of 12
+
+
+
+
+        34.     Indeed, Ms. Doyle advised that, in her understanding, the ADA is meant for
+
+individuals with limited physical ability who might need a reasonable accommodation, such as a
+
+wheelchair.
+
+        35.     Moreover, Ms. Doyle went on to tell Plaintiff that she did not understand why she,
+
+in her position as Talent Acquisition Specialist, needed the specific accommodations she asked
+
+for.
+
+        36.     Lastly, Ms. Doyle explicitly told Plaintiff that she felt that the accommodations
+
+Plaintiff requested were unreasonable.
+
+        37.     Following the meeting, on or about June 2, 2022, Ms. Doyle emailed Plaintiff to
+
+remind her that it was the company’s busy season and there was a need for weekly meetings to
+
+identify “hot areas to recruit.”
+
+        38.     Furthermore, Ms. Doyle told Plaintiff that they needed to “focus [her] priorities”
+
+after each meeting.
+
+        39.     By doing so, Ms. Doyle went on to twist the comments made by Plaintiff about her
+
+disabilities and her need for a reasonable accommodation, and what the accommodation would be.
+
+        40.     Egregiously, Ms. Doyle made a point of mentioning raises that Plaintiff had
+
+previously received, with the implication that she did not think they were deserved, and that they
+
+surely were not deserved now that Plaintiff had asked for an accommodation.
+
+        41.     Then, on or about June 10, 2022, Plaintiff was informed that her employment with
+
+Defendant was being terminated due to job performance.
+
+        42.     However, when considering that Plaintiff had received a raise in March 2022, and
+
+a second raise in April 2022, a termination based on job performance does not appear likely, even
+
+
+
+
+                                                6
+        Case 2:23-cv-04552-TJS           Document 1       Filed 11/17/23      Page 9 of 12
+
+
+
+
+more so when considering Plaintiff never received any type of formal written warning for job
+
+performance prior to her May 18, 2022, request for a reasonable accommodation.
+
+        43.     As such, Defendant failed to reasonably accommodate Plaintiff’s disabilities and
+
+failed to engage in the interactive process to determine such reasonable accommodations.
+
+        44.     It is believed and therefore averred Defendant terminated Plaintiff’s employment
+
+because of her actual and/or perceived disabilities, because Defendant regarded her as being
+
+disabled, for her past record of impairment, and in retaliation for her request(s) for an
+
+accommodation in connection thereto, in violation of the ADA.
+
+        45.     As a result of Defendant’s deliberate, willful, malicious, and unlawful actions,
+
+Plaintiff has suffered damages, including, but not limited to, loss of employment, promotion
+
+benefits, earnings and earnings potential, loss of potential benefits, and other economic damages,
+
+and has also suffered mental anguish, emotional pain and suffering, emotional distress,
+
+humiliation, and damage to reputation.
+
+                                        COUNT I
+                          AMERICANS WITH DISABILITIES ACT
+                                 42 U.S.C. § 12101, et seq.
+                          DISCRIMINATION AND RETALIATION
+
+        46.     Paragraphs 1 through 45 are hereby incorporated by reference as though the same
+
+were fully set forth at length herein.
+
+        47.     At all times relevant hereto, Plaintiff was an employee within the meaning of the
+
+Americans with Disabilities Act (“ADA”), 42 U.S.C. § 12101, et seq.
+
+        48.     Pursuant to the ADA, Plaintiff is a qualified individual with one or more
+
+disabilities.
+
+        49.     Plaintiff’s anxiety and sleep disorders substantially limited her ability to engage in
+
+one or more major life activities for an extended period of time.
+
+                                                  7
+        Case 2:23-cv-04552-TJS           Document 1        Filed 11/17/23      Page 10 of 12
+
+
+
+
+        50.     Defendant was aware of Plaintiff’s disabilities and/or regarded Plaintiff as being
+
+disabled.
+
+        51.     Despite her disabilities, Plaintiff would have been able to perform the essential
+
+functions of her job, with or without a reasonable accommodation.
+
+        52.     By reasons of the foregoing, Defendant, through its agents, officers, servants,
+
+and/or employees, has violated the ADA by failing to engage in the interactive process to
+
+determine and consider reasonable accommodations for Plaintiff, by failing to provide reasonable
+
+accommodations to Plaintiff, and by terminating Plaintiff’s employment because of her actual
+
+and/or perceived disabilities, because Defendant regarded her as being disabled, for her past record
+
+of impairment, and/or for her request(s) for reasonable accommodations in connection to her
+
+disabilities.
+
+        53.     As a result of Defendant’s deliberate, unlawful, and malicious actions as set forth
+
+above, Plaintiff has suffered loss of employment, earnings, raises, other significant economic
+
+benefits, emotional pain and suffering, emotional distress, damage to reputation, and humiliation.
+
+        WHEREFORE, as a result of the unlawful conduct of Defendant, Plaintiff respectfully
+
+requests that this Court enter judgment in her favor and against Defendant, and grant her the
+
+maximum relief allowed by law, including, but not limited to:
+
+        A.      Back wages, front pay, and bonuses in an amount to be determined at trial, but not
+
+    less than one hundred and fifty thousand dollars ($150,000.00);
+
+        B.      Punitive, compensatory, and/or exemplary damages in an amount to be determined
+
+    at trial, but sufficient to punish Defendant for its intentional, negligent, willful, wanton, and/or
+
+    malicious conduct;
+
+
+
+
+                                                   8
+      Case 2:23-cv-04552-TJS          Document 1         Filed 11/17/23       Page 11 of 12
+
+
+
+
+      C.      Plaintiff’s costs, disbursements, and attorney’s fees incurred in prosecuting this
+
+   matter;
+
+      D.      Pre-judgment interest in an appropriate amount;
+
+      E.      Such other and further relief as is just and equitable under the circumstances; and
+
+      F.      Any verdict in favor of Plaintiff is to be molded by the Court to maximize the
+
+   financial recovery available to Plaintiff in light of the caps on certain damages set forth by
+
+   applicable federal law.
+
+                                        JURY DEMAND
+
+      Plaintiff hereby demands a trial by jury as to all issues so triable.
+
+
+
+
+                                             Respectfully submitted,
+
+                                             MURPHY LAW GROUP, LLC
+
+                                     By:     /s/ Mary Kramer, Esq.
+                                             Mary Kramer, Esq.
+                                             1628 John F. Kennedy Blvd., Suite 2000
+                                             Philadelphia, PA 19103
+                                             Phone: (267) 273-1054
+                                             Fax: (215) 525-0210
+                                             mkramer@phillyemploymentlawyer.com
+                                             Counsel for Plaintiff
+Dated: November 17, 2023
+
+
+
+
+                                                 9
+       Case 2:23-cv-04552-TJS          Document 1        Filed 11/17/23    Page 12 of 12
+
+
+
+
+                            DEMAND TO PRESERVE EVIDENCE
+
+       The Defendant is hereby demanded to preserve all physical and electronic information
+
+pertaining in any way to Plaintiff’s employment, to her potential claims and her claims to damages,
+
+to any defenses to same, including, but not limited to electronic data storage, employment files,
+
+files, memos, job descriptions, text messages, e-mails, spreadsheets, images, cache memory,
+
+payroll records, paystubs, time records, timesheets, and any other information and/or data which
+
+may be relevant to any claim or defense in this litigation.
+
+
+
+
+                                                 10
+

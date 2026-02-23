@@ -1,0 +1,972 @@
+Source URL: https://www.courtlistener.com/docket/16664643/1/mammen-md-mph-v-thomas-jefferson-university/
+Title: Complaint (Attorney) – #1 in MAMMEN, M.D., M.P.H. v. THOMAS JEFFERSON UNIVERSITY (E.D. Pa., 2:20-cv-00127) – CourtListener.com
+
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 1 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 2 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 3 of 45
+        Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 4 of 45
+
+
+
+
+                 IN THE UNITED STATES DISTRICT COURT FOR
+                  THE EASTERN DISTRICT OF PENNSYLVANIA
+
+____________________________________
+                                      :
+PRIYA E. MAMMEN, M.D., M.P.H.         :
+Philadelphia, PA 19147                :       CIVIL ACTION NO.
+                       Plaintiff,     :
+                                      :
+            v.                        :
+                                      :
+THOMAS JEFFERSON UNIVERSITY,          :
+11th and Walnut Street                :
+Philadelphia, PA 19107                :       JURY TRIAL DEMANDED
+                                      :
+and                                   :
+                                      :
+SIDNEY KIMMEL MEDICAL                 :
+COLLEGE                               :
+1025 Walnut Street                    :
+Philadelphia, PA 19107                :
+                                      :
+and                                   :
+                                      :
+JEFFERSON UNIVERSITY                  :
+PHYSICIANS                            :
+1025 Walnut Street                    :
+Philadelphia, PA 19107                :
+                                      :
+and                                   :
+                                      :
+THOMAS JEFFERSON UNIVERSITY           :
+HOSPITALS, INC.,                      :
+111 S. 11th Street                    :
+Philadelphia, PA 19107                :
+                                      :
+                        Defendants.   :
+___________________________________   :
+
+
+
+
+                                          1
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 5 of 45
+
+
+
+
+                                          COMPLAINT
+
+I.     INTRODUCTION
+       Dr. Priya Mammen, M.D., M.P.H. (“Plaintiff”) brings claims against her former
+
+employers, Thomas Jefferson University, Sidney Kimmel Medical College, Jefferson University
+
+Physicians and Thomas Jefferson University Hospitals, Inc. (collectively, “Defendants”) for sex
+
+discrimination and retaliation after her wrongful termination on January 31, 2019. Dr. Mammen
+
+is a nationally recognized emergency room physician and academic specializing in opioid
+
+addiction and the related impact on community/emergency medicine and other public health
+
+related issues. Despite her exemplary record of performance, Dr. Mammen was subjected to a
+
+hostile work environment and paid disparately compared to male physicians in her department,
+
+Emergency Medicine. When Dr. Mammen complained on behalf of herself and other female
+
+physicians experiencing similar treatment, she was retaliated against by Defendants and ultimately
+
+notified that her contract would not be renewed, telling Plaintiff she was not a “good fit.” When
+
+Plaintiff sought employment within Defendants’ organization outside of the Department of
+
+Emergency Medicine, Defendants failed to hire her, with Defendants’ taking active steps to ensure
+
+that Plaintiff’s efforts to find employment were “blocked.” Plaintiff now brings claims under Title
+
+VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000e, et seq. (“Title VII”), the
+
+Family Medical Leave Act, 29 U.S.C. §2601, et seq. (“FMLA”), the Pennsylvania Human
+
+Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”) and the Philadelphia Fair Practices
+
+Ordinance, Phila. Code §9-1101, et seq. (“PFPO”). Plaintiff seeks damages, including back-pay,
+
+front-pay, compensatory, liquidated and punitive damages, in addition to costs and attorneys’ fees
+
+and all other relief that this Court deems appropriate.
+
+
+                                                 2
+            Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 6 of 45
+
+
+
+
+II.        PARTIES
+
+      1.        Plaintiff, Priya E. Mammen, is an individual and a citizen of the Commonwealth of
+
+Pennsylvania. She resides in Philadelphia, Pennsylvania.
+
+      2.        Plaintiff is female.
+
+      3.        Defendant Thomas Jefferson University (“Defendant TJU”) is a private university
+
+organized under the laws of the Commonwealth of Pennsylvania. Defendant TJU has a
+
+headquarters and/or a principal place of business at 11th and Walnut Street, Philadelphia, PA
+
+19107.
+
+      4.        Defendant Sidney Kimmel Medical College (“Defendant SKMC”) is an operating
+
+unit of Defendant TJU and houses Defendant TJU’s medical college. Defendant SKMC maintains
+
+a principal place of business across a thirteen-acre campus within Philadelphia’s Center City,
+
+including administrative offices at 1025 Walnut Street, Philadelphia, PA 19107.
+
+      5.        At all times material hereto, Plaintiff was an “employee” of Defendants TJU and
+
+SKMC within the meaning of the statutes which form the basis of this matter.
+
+      6.        At all times material hereto, Defendants TJU and SKMC acted as “employer[s]”
+
+within the meaning of the statues which form the basis of the matter.
+
+      7.        At all times material hereto, Defendants TJU and SKMC employed more than
+
+fifteen (15) individuals.
+
+      8.        Defendants TJU and SKMC are engaged in an industry affecting interstate
+
+commerce, and, at all relevant times, have regularly conducted business in the Commonwealth of
+
+Pennsylvania.
+
+
+
+                                                3
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 7 of 45
+
+
+
+
+    9.         Defendant Jefferson University Physicians (“Defendant JUP”) is a Pennsylvania
+
+corporation with its headquarters and/or a principal place of business located at 1025 Walnut
+
+Street, Philadelphia, PA 19107.
+
+    10.        Defendant JUP is the physician practice group for Defendant TJU and part of
+
+“Jefferson Health.”
+
+    11.        At all times material hereto, Plaintiff was an “employee” of Defendant JUP within
+
+the meaning of the statutes which form the basis of this matter.
+
+    12.        At all times material hereto, Defendant JUP acted as an “employer” within the
+
+meaning of the statues which form the basis of the matter.
+
+    13.        At all times material hereto, Defendant JUP employed more than fifteen (15)
+
+individuals.
+
+    14.        Defendant JUP is engaged in an industry affecting interstate commerce, and, at all
+
+relevant times, has regularly conducted business in the Commonwealth of Pennsylvania.
+
+    15.        Defendant Thomas Jefferson University Hospitals, Inc. (“Defendant TJUH”) is a
+
+Pennsylvania corporation with its headquarters and/or a principal place of business located at 111
+
+S. 11th Street, Philadelphia, PA 19107.
+
+    16.        At all times material hereto, Plaintiff was an “employee” of Defendant TJUH within
+
+the meaning of the statues which form the basis of this matter.
+
+    17.        At all times material hereto, Defendant TJUH acted as an “employer” within the
+
+meaning of the statutes which form the basis of this matter.
+
+    18.        At all times material hereto, Defendant TJUH employed more than fifteen (15)
+
+individuals.
+
+                                                4
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 8 of 45
+
+
+
+
+    19.        Defendant TJUH is engaged in an industry affecting interstate commerce, and, at
+
+all relevant times, has regularly conducted business in the Commonwealth of Pennsylvania.
+
+    20.        Defendant TJUH held itself out as Plaintiff’s employer. By way of example, during
+
+her employment, Plaintiff’s email signature line included, “Priya Mammen, M.D., MPH, Clinical
+
+Assistant Professor, Department of Emergency Medicine, Sidney Kimmel Medical College,
+
+Thomas Jefferson University Hospital.”
+
+    21.        In addition, Plaintiff appeared on Defendant TJUH’s Facebook page under the
+
+heading of “Meet our Staff” and Defendant TJUH promoted Plaintiff and her work as
+
+demonstrative of the care provided by TJUH to its patients across its various social media
+
+platforms including Twitter, Facebook and YouTube.
+
+    22.        The Defendants do business, collectively and individually, under the marketing or
+
+“doing business as” name “Jefferson Health.”
+
+    23.        At all times material hereto, Defendants have acted as a single employer, joint
+
+employers, and/or alter egos.
+
+    24.        The operations of Defendants are substantively consolidated.
+
+    25.        By way of example of Defendants’ consolidated operations:
+
+                                a. www.jeffersonhealth.org/index.html, or “Jefferson Health’s”
+
+                                   website contains information about all Defendants as part of a
+
+                                   single, overall enterprise and links to various aspects of
+
+                                   Defendant’s collective business; and,
+
+                                b. Dr. Stephen K. Klasko (“Klasko”) serves in a leadership position
+
+                                   over all Defendants. For example and without limitation, Klasko
+
+                                                  5
+              Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 9 of 45
+
+
+
+
+                                   serves as President of Defendant TJU and CEO of “Jefferson
+
+                                   Health”; and,
+
+                               c. The August, 2019 “We are Jefferson Enterprise Booklet” refers
+
+                                   to and describes each of Defendants as being part of a single
+
+                                   enterprise.
+
+       26.       At all times material hereto, Plaintiff worked out of multiple locations operated by
+
+Defendants across Philadelphia, PA.
+
+       27.       At all times material hereto, the Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with the Defendants and in furtherance of the Defendants’ business.
+
+III.         JURISDICTION AND VENUE
+
+       28.       The causes of action which form the basis of this matter arise under Title VII, the
+
+FMLA, the PHRA and the PFPO.
+
+       29.       The District Court has jurisdiction over Count I (Title VII) and Count II (FMLA)
+
+pursuant to 28 U.S.C. §1331.
+
+       30.       The District Court has supplemental jurisdiction over Counts III (PHRA) and IV
+
+(PFPO) pursuant to 28 U.S.C. §1367.
+
+       31.       Venue is proper in this District Court under 28 U.S.C. §1391(b).
+
+       32.       On or about July 26, 2018, Plaintiff filed a Complaint with the Pennsylvania Human
+
+Relations Commission (“PHRC”) complaining of the acts of discrimination and retaliation alleged
+
+herein (“Charge”). The Charge was cross-filed with the Equal Employment Opportunity
+
+
+                                                   6
+            Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 10 of 45
+
+
+
+
+Commission (“EEOC”). Attached hereto, incorporated herein, and marked as Exhibit “1” is a true
+
+and correct copy of the Charge filed with the PHRC (with personal identifying information
+
+redacted).
+
+      33.       On or about March 6, 2019, Plaintiff filed an Amended or Second Complaint with
+
+the Pennsylvania Human Relations Commission (“PHRC”) complaining of the acts of
+
+discrimination and retaliation alleged herein (“Second Charge”). The Second Charge was cross-
+
+filed with the EEOC. Attached hereto, incorporated herein, and marked as Exhibit “2” is a true and
+
+correct copy of the Amended Charge filed with the PHRC (with personal identifying information
+
+redacted).
+
+      34.       On or about October 9, 2019, the EEOC issued to Plaintiff a Notice of Right to Sue.
+
+Attached hereto and marked as Exhibit “3” is a true and correct copy of the Notice (with personal
+
+identifying information redacted).
+
+      35.       Plaintiff has   fully complied       with   all   administrative prerequisites   for
+
+commencement of this action.
+
+IV.     FACTUAL ALLEGATIONS
+
+      36.       Plaintiff began working for Defendants on or about August 25, 2012 as Clinical
+
+Assistant Professor.
+
+      37.       Throughout her employment, Plaintiff received consistently positive remarks on
+
+her Annual Departmental Reviews, was in good standing with the Department and Defendants’
+
+various institutions, was a member of Core Faculty for resident education, was appointed to the
+
+Department of Emergency Medicine Promotions Committee and was appointed to the Director’s
+
+Council.
+                                                 7
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 11 of 45
+
+
+
+
+    38.       By January 1, 2016, Plaintiff held the position of Emergency Physician, Clinical
+
+Assistant Professor, Director of Public Health Programs in the Department of Emergency
+
+Medicine in Sidney Kimmel Medical College at Thomas Jefferson University Hospital
+
+(“Emergency Physician”).
+
+    39.       Plaintiff reported to Theodore Christopher (“Christopher”) (male), Professor and
+
+Chair Department of Emergency Medicine and Bernard Lopez (“Lopez”) (male), Associate Dean
+
+of Diversity and Inclusion and Associate Provost, Diversity and Community Engagement and
+
+Executive Vice Chair, Department of Emergency Medicine.
+
+    40.       As Emergency Physician, Plaintiff was responsible for providing acute care clinical
+
+services in the Thomas Jefferson University Hospital and the Methodist Hospital Division
+
+Emergency Departments, overseeing Physician Assistants working in the Fast Track area of the
+
+Emergency Departments, and, supervising and overseeing resident physicians in training in the
+
+Emergency Departments. In addition, Plaintiff was responsible for teaching medical students and
+
+resident physicians clinical medicine at the bedside and through lectures and clinical skills labs.
+
+Plaintiff was also required to engage in academic pursuits, including scholarly activity such as
+
+research and publication.
+
+    41.       At all times material hereto, Plaintiff was the second longest serving, female
+
+clinician reporting to Christopher.
+
+    42.       Defendants’ had an underrepresentation of female employees in the Department of
+
+Emergency Medicine, particularly in high-ranking or leadership positions. By way of example,
+
+and without limitation, all Vice Chairs in the Department of Emergency Medicine were male.
+
+
+
+                                                8
+           Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 12 of 45
+
+
+
+
+     43.       Defendants treated Plaintiff and other female physicians less favorably than male
+
+physicians in the Department of Emergency Medicine were treated. For example, and without
+
+limitation, Plaintiff and other female physicians were routinely assigned less desirable shifts and
+
+longer working hours than male physicians were assigned.
+
+     44.       On or about February 4, 2016, Plaintiff told both Karen Novielli (“Novielli”)
+
+(female), Vice Provost and Vice Dean, Faculty Affairs and Professional Development and
+
+Christopher that she wanted to be promoted to Associate Clinical Professor, non-tenure track with
+
+the goal of later obtaining a tenure-track promotion.
+
+     45.       Novielli told Plaintiff she met the criteria for the non-tenure track promotion and
+
+had a positive “regional reputation.”
+
+     46.       Christopher told Plaintiff he would write a letter of support on Plaintiff’s behalf.
+
+The letter from Christopher was required for Plaintiff to be promoted.
+
+     47.       On April 14, 2016, Plaintiff met with Christopher, Lopez and Timothy Sullivan
+
+(“Sullivan”) (male), Administrator to discuss Defendants’ failure to effectuate a salary increase
+
+that Defendants had promised to her several months prior.
+
+     48.       Plaintiff provided Defendants with information about her work and academic
+
+activities and told Christopher, Lopez and Sullivan that she was not being compensated fairly for
+
+her efforts.
+
+     49.       During the meeting, Christopher acknowledged that Plaintiff met the
+
+criteria/credentialing requirements for her to be promoted.
+
+     50.       An increase in salary was part of promotion within Defendants’ organization.
+
+
+
+                                                9
+           Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 13 of 45
+
+
+
+
+    51.        Defendants did not take any steps to address Plaintiff’s concerns about her
+
+compensation in connection with the breadth, scope and quality of her work.
+
+     52.       On April 22, 2016, in an email to Karen Novielli (“Novielli”) (female), Vice
+
+Provost and Vice Dean, Faculty Affairs and Professional Development, Plaintiff complained of
+
+sex discrimination on behalf of herself and other female physicians.
+
+     53.       In the email, Plaintiff asked for clarification on Defendants’ compensation plan, the
+
+lack of support she was receiving from her department generally and in connection with
+
+promotion and stated that she felt that “women such as myself are being discouraged from
+
+academic pursuits and herded toward a purely clinical career as a result of a formula that equates
+
+our worth highly to the quantity of our patient care.”
+
+     54.       To the best of Plaintiff’s knowledge, Defendants did not conduct any investigation
+
+into Plaintiff’s complaint of sex discrimination.
+
+     55.       On or about June 27, 2016, Plaintiff learned that Christopher failed to provide a
+
+letter from the Department of Emergency Medicine in support of the promotion for Plaintiff
+
+despite his assurance that he would do so.
+
+     56.       Christopher told Plaintiff that it was his secretary’s fault that a letter was not
+
+submitted.
+
+     57.       At the same time, Plaintiff learned that even if she was promoted despite
+
+Christopher’s untimely letter, she would not receive the standard increase in salary associated
+
+with promotion. Instead, she was told that it would take a year for her salary increase to be
+
+effective.
+
+
+
+                                                10
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 14 of 45
+
+
+
+
+    58.       To the best of Plaintiff’s knowledge, male physicians who were promoted were not
+
+required to wait a year for the associated salary increase to take effect.
+
+    59.       Defendants stated reasons for refusing to increase Plaintiff’s salary with promotion
+
+was that it was “not in the budget” and the fact that the Christopher’s letter supporting her
+
+promotion was submitted “too late” for the salary increase to take effective contemporaneously
+
+with her promotion.
+
+    60.       On or about December 23, 2016, Plaintiff, in an email, to Christopher, Lopez,
+
+Sullivan and Frederick Randolph (“Randolph”) (male), Vice Chair of Clinical Operations,
+
+complained of sex discrimination.
+
+    61.       Plaintiff’s email stated, “For hard-working women, its [sic] not the rigors of the
+
+work or the pay that makes a difference, but the perception of fairness and a good working
+
+environment with colleagues you respect and who treat you the same… Enticing women is one
+
+thing—keeping women is another.”
+
+    62.       On or about March 28, 2017, Plaintiff learned that Defendants’ Board voted to
+
+promote her to Clinical Associate Professor.
+
+    63.       She did not receive an increase in pay upon her promotion.
+
+    64.       On or about May 9, 2017, in a meeting with Christopher and Sullivan, Plaintiff
+
+complained of sex discrimination on behalf of herself and other female physicians in connection
+
+with the grueling scheduling she was given by Defendants, without limitation, and the related
+
+impact on her health.
+
+    65.       During the meeting, Sullivan stated, “I’m so sick of everyone always complaining
+
+about how women have it worse.”
+
+                                                 11
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 15 of 45
+
+
+
+
+    66.         In response, Christopher told Plaintiff that she was ungrateful and “never” says
+
+thank you.
+
+    67.         On or about July 18, 2017, Lopez made a presentation to the faculty detailing
+
+Defendants’ ranks of female faculty hired since January, 2017. In response, during the related
+
+discussion, Plaintiff stated that Defendants had an underrepresentation of female faculty, female
+
+physicians were given undesirable shifts at a greater rate than male physicians and that her
+
+department loses female doctors at a greater rate than it loses male doctors amid the disparate
+
+treatment of female physicians.
+
+    68.         On or about January 30, 2018, Christopher and Lopez told Plaintiff that Defendants
+
+would not renew her contract and her employment would be terminated at the end of her existing
+
+contract, one year later on January 31, 2019.
+
+    69.         Prior to the meeting with Christopher and Lopez, Plaintiff had no indication that
+
+her job was in jeopardy.
+
+    70.         Defendants stated reason for Plaintiff’s termination was that she is not “a good fit.”
+
+Further, Lopez and Christopher told Plaintiff she was not “happy” and would “never be happy.”
+
+    71.         Plaintiff asked Christopher and Lopez to clarify the reasons for her termination and
+
+they refused.
+
+    72.         Following her notice of termination, but while she was still employed by
+
+Defendants on or about March 19, 2018, Plaintiff told Novielli that she was treated differently
+
+than male physicians, for example, when she communicates in a direct manner she is criticized,
+
+but when male physicians communicate in the same manner, it is often praised and not criticized.
+
+
+
+                                                 12
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 16 of 45
+
+
+
+
+    73.        Plaintiff observed Defendants fail to promote and/or push out other female
+
+physicians during her employment.
+
+    74.       On or about August 31, 2018, Plaintiff notified Defendants that she had filed a
+
+complaint with the PHRC alleging sex discrimination and retaliation for her complaints of same
+
+by Defendants.
+
+    75.       Defendants continued to discriminate and retaliate against Plaintiff, including,
+
+without limitation by: assigning her more overtime hours and undesirable overtime shifts; failing
+
+to credit her for time spent working on a federal grant that was awarded to Defendants as a result
+
+of Plaintiff’s work; and, removing files related to Plaintiff’s work and for which she was
+
+responsible from their usual location. Defendants refused to tell Plaintiff what happened to the
+
+files. Defendants’ actions with the files made Plaintiff vulnerable to allegations that she was not
+
+complying with IRB policy or preserving patient confidentiality.
+
+    76.       Amid the above treatment, Plaintiff told Christopher, Lopez, Novielli and Cherise
+
+Long (“Long”) (female), Human Resources Representative that Defendants were retaliating
+
+against her for filing a complaint with the PHRC.
+
+    77.       On or about October 30, 2018, Plaintiff applied for a Faculty Position in Population
+
+Health Research for Defendants.
+
+    78.       Plaintiff was qualified for the position.
+
+    79.       Plaintiff was not hired for the position.
+
+    80.       Plaintiff later learned that Defendants’ human resources “vetted” her application
+
+and did not pass it along to the hiring manager for the position.
+
+
+
+                                                13
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 17 of 45
+
+
+
+
+    81.       As the retaliatory and discriminatory conduct of Defendants continued, Plaintiff
+
+required medical leave/FMLA leave beginning on or about November 23, 2018 as she was
+
+experiencing stress, anxiety and depression resulting from Defendants’ conduct.
+
+    82.       Plaintiff was approved for FMLA leave.
+
+    83.       While she was on medical leave, Defendants told Plaintiff that she would be
+
+prohibited in the future from serving as a faculty advisor despite student requests that she serve
+
+as their faculty advisor and ordered to tell students that she could not advise them.
+
+    84.       At or around the same time, while she remained out of work on medical leave,
+
+Defendants continued to communicate criticism to Plaintiff about her work performance and ask
+
+her to perform work while on medical leave.
+
+    85.       Plaintiff complained that Defendants were failing to comply with the terms of her
+
+medical leave and continuing to retaliate against her for her complaints of sex discrimination.
+
+    86.       Plaintiff returned from medical leave on January 2, 2019.
+
+    87.       On or about January 16, 2019, Gerald Wydro (“Wydro”) (male), Chair, Department
+
+of Emergency Medicine, Aria—Jefferson Health, asked Plaintiff if she would be interested in
+
+working for him within Defendants’ organization, albeit in a different capacity and in a different
+
+Emergency Department.
+
+    88.       Plaintiff agreed, sent Wydro her resume and met with him in person for an interview
+
+on February 11, 2019.
+
+    89.       On or about the next day, Wydro told Plaintiff that Christopher had called Wydro
+
+and told him that any effort by Wydro to hire Plaintiff would be “blocked.” Wydro further told
+
+
+
+                                                14
+          Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 18 of 45
+
+
+
+
+Plaintiff that after the conversation with Christopher, he understood that Defendants had blocked
+
+her from ever working within Defendants’ health system again.
+
+    90.        On or about January 29, 2019, Defendants told Plaintiff she would not, despite an
+
+earlier agreement, be retained as a consultant to continue to work on a $586,000 grant that Plaintiff
+
+developed, proposed and secured for Defendants from the Department of Labor.
+
+    91.       Plaintiff’s employment was terminated, effective January 31, 2019.
+
+    92.       Following her termination, Plaintiff was contacted by the acting Dean and Program
+
+Director of Defendants’ Population Health Program who wanted to create a position for Plaintiff
+
+to oversee Defendants’ MD-MPH program.
+
+    93.       Ultimately, Plaintiff did not receive the position and was told that the decision not
+
+to hire her or create the position came “from higher powers.”
+
+    94.       Plaintiff’s sex was a motivating and/or determinative factor in Defendants’
+
+discriminatory treatment of Plaintiff, including without limitation, in connection with the hostile
+
+work environment to which she was subjected, her disparate pay, her termination, and
+
+Defendants’ failure to hire Plaintiff.
+
+    95.       Plaintiffs’ complaining of discrimination and retaliation was a motivating and/or
+
+determinative factor in Defendants’ discriminatory and retaliatory treatment of Plaintiff,
+
+including without limitation, in connection with the hostile work environment to which she was
+
+subjected, her disparate pay, her termination, and Defendants’ failure to hire Plaintiff.
+
+    96.       The Defendants failed to prevent or address the discriminatory and retaliatory
+
+conduct referred to herein and further failed to take corrective and remedial measures to make the
+
+workplace free of discriminatory and retaliatory conduct.
+
+                                                15
+           Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 19 of 45
+
+
+
+
+     97.       The retaliatory actions taken against Plaintiff after she complained of
+
+discriminatory conduct would have discouraged a reasonable employee from complaining about
+
+discrimination.
+
+     98.       The discriminatory and retaliatory conduct of the Defendants, as alleged herein,
+
+was severe and/or pervasive enough to make a reasonable person believe that the conditions of
+
+employment had been altered and that a hostile work environment existed, and made Plaintiff
+
+believe that the conditions of employment had been altered and that a hostile work environment
+
+existed.
+
+     99.       The Defendants acted with malice and/or reckless indifference to Plaintiff’s
+
+protected rights.
+
+     100.      The conduct of the Defendants, as set forth above, was outrageous under the
+
+circumstances and warrants the imposition of punitive damages against the Defendants.
+
+     101.      Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+     102.      No previous application has been made for the relief requested herein.
+
+                                    COUNT I—TITLE VII
+
+     103.      Plaintiff incorporates herein by reference paragraphs 1 through 102 above, as if set
+
+forth herein in their entirety.
+
+     104.      By committing the foregoing acts of discrimination and retaliation against Plaintiff,
+
+the Defendants have violated Title VII.
+
+
+                                                 16
+         Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 20 of 45
+
+
+
+
+     105.       The Defendants acted intentionally, and with malice and/or reckless indifference to
+
+Plaintiff’s rights, and its conduct warrants the imposition of punitive damages.
+
+      106.      As a direct and proximate result of the Defendants’ violation of Title VII, Plaintiff
+
+has suffered the losses set forth herein and has incurred attorneys’ fees and costs.
+
+      107.      Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of the Defendants’ retaliatory acts unless and until this Court grants
+
+the relief requested herein.
+
+      108.      No previous application has been made for the relief requested herein.
+
+                                        COUNT II—FMLA
+
+     109.       Plaintiff incorporates by reference paragraphs 1 through 108 of this Complaint as
+
+if fully set forth in their entirety.
+
+     110.       By committing the foregoing acts against Plaintiff, Defendants have violated the
+
+FMLA.
+
+     111.       Defendants’ conduct was retaliatory and/or interfered, restrained and/or denied the
+
+exercise of Plaintiff’s rights to FMLA leave.
+
+     112.       Said violations were not in good faith, and Defendants did not have reasonable
+
+grounds to believe that the foregoing acts were not in violation of the FMLA.
+
+     113.       The imposition of liquidated damages is warranted.
+
+     114.       As a direct and proximate result of Defendants’ violations of the FMLA, Plaintiff
+
+has suffered damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+
+
+
+                                                 17
+            Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 21 of 45
+
+
+
+
+         115.   Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+ monetary damages as a result of Defendant’s violations of the FMLA unless this Court grants the
+
+ relief requested herein.
+
+         116.   No previous application has been made for the relief requested herein.
+
+                                       COUNT III—PHRA
+
+         117.   Plaintiff incorporates herein by reference paragraphs 1 through 116 above, as if set
+
+forth herein in their entirety.
+
+         118.   The Defendants, by the above improper and discriminatory acts, have violated the
+
+PHRA.
+
+         119.   Said violations were intentional and willful.
+
+         120.   As a direct and proximate result of the Defendants’ violation of the PHRA, Plaintiff
+
+has sustained the injuries, damages and losses set forth herein and has incurred attorneys’ fees and
+
+costs.
+
+         121.   Plaintiff is now suffering and will continue to suffer irreparable injuries and
+
+monetary damages as a result of the Defendants’ discriminatory acts unless and until the Court
+
+grants the relief requested herein.
+
+         122.   No previous application has been made for the relief requested herein.
+                                       COUNT IV—PFPO
+
+         123.   Plaintiff incorporates herein by reference paragraphs 1 through 122 above, as if set
+
+forth herein in their entirety.
+
+         124.   By committing the foregoing acts of discrimination against Plaintiff, Defendants
+
+have violated the PFPO.
+
+                                                 18
+           Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 22 of 45
+
+
+
+
+         125.      Defendants acted willfully and intentionally, and with malice and/or reckless
+
+indifference to Plaintiff’s rights, thereby warranting the imposition of punitive damages.
+
+         126.      As a direct and proximate result of Defendants’ violation of the PFPO, Plaintiff has
+
+sustained the injuries, damages and losses set forth herein and has incurred attorneys’ fees and
+
+costs.
+
+         127.      Plaintiff is now suffering and will continue to suffer the irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory, retaliatory and unlawful acts unless
+
+and until this Court grants the relief requested herein.
+
+         128.      No previous application has been made for the relief requested herein.
+
+                                                  RELIEF
+
+         WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendants’ improper conduct, and specifically prays that the Court grant the following relief to
+
+the Plaintiff by:
+
+                (a) declaring the acts and practices complained of herein to be in violation of Title VII;
+
+                (b) declaring the acts and practices complained of herein to be in violation of the
+
+         FMLA;
+
+                (c) declaring the acts and practices complained of herein to be in violation of the
+
+         PHRA;
+
+                (d) declaring the acts and practices complained of herein to be in violation of the PFPO;
+
+                (e) enjoining and permanently restraining the violations alleged herein;
+
+                (f) entering judgment against the Defendants and in favor of the Plaintiff in an amount
+
+         to be determined;
+                                                     19
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 23 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 24 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 25 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 26 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 27 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 28 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 29 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 30 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 31 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 32 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 33 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 34 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 35 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 36 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 37 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 38 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 39 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 40 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 41 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 42 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 43 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 44 of 45
+Case 2:20-cv-00127-WB Document 1 Filed 01/07/20 Page 45 of 45
+

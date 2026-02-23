@@ -1,0 +1,973 @@
+Source URL: https://www.courtlistener.com/docket/59687606/1/tattar-v-ikea-north-america-services-llc/
+Title: Complaint (Attorney) – #1 in TATTAR v. IKEA NORTH AMERICA SERVICES, LLC (E.D. Pa., 2:21-cv-00907) – CourtListener.com
+
+           Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 1 of 19
+
+
+
+
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+_____________________________________
+ELEANOR LISLE TATTAR                  :
+                                      :
+                   Plaintiff,         :                               CIVIL ACTION
+                                      :
+      v.                              :
+                                      :
+IKEA NORTH AMERICA                    :                               NO.
+SERVICES, LLC                         :
+                                      :
+                                      :                               JURY TRIAL DEMANDED
+                   Defendant.         :
+_____________________________________ :
+
+                                               COMPLAINT
+
+        Plaintiff, Eleanor Lisle Tattar (“Tattar” ), by and through her undersigned attorneys,
+
+brings this Complaint against her former employer, IKEA North America Services, LLC
+
+(“IKEA”), for its violation of: (1) Title VII of the Civil Rights Act of 1964, 42 U.S.C. §§ 2000e,
+
+et seq., as amended (“Title VII”);1 (2) the Equal Pay Act (“EPA”), 29 U.S.C. § 206(d); and (3)
+
+the Fair Labor Standards Act (“FLSA”), 29 U.S.C. § 215(a)(3). IKEA (1) paid Tattar less than a
+
+similarly situated male employee; (2) discriminated against Tattar because of her sex during her
+
+employment; and (3) terminated Tattar’s employment on the basis of her sex and in retaliation
+
+for her opposition to IKEA’s discriminatory practices. IKEA’s wrongful conduct violated the
+
+law and has caused and is causing Tattar substantial loss, pain, and suffering.
+
+                                                  PARTIES
+
+    1. Tattar is a citizen of the Commonwealth of Pennsylvania and currently resides at 106
+
+Woods Lane, Wayne, Pennsylvania 19087.
+
+
+1
+ Tattar reserves her right to amend this Complaint to include claims under the Pennsylvania Human Relations Act,
+43 P.S. §§951, et seq. (“PHRA”) after the PHRC’s one year period of exclusive jurisdiction over Tattar’s PHRA
+claims expires.
+                                                      -1-
+            Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 2 of 19
+
+
+
+
+   2. IKEA is a multinational Swedish company that designs and sells ready-to-assemble
+
+furniture, home accessories, and other goods. At all times relevant hereto, IKEA maintained a
+
+principal place of business in this District at 420 Alan Wood Road, Conshohocken,
+
+Pennsylvania, 19428. IKEA also maintains its North American corporate headquarters at this
+
+location.
+
+   3. Tattar worked for IKEA in its Conshohocken corporate headquarters from on or about
+
+November 13, 2017 until IKEA terminated her employment on July 14, 2020.
+
+   4. At all times relevant hereto, IKEA had more than 15 employees and was/is an
+
+“employer” as defined by Title VII.
+
+   5. At all times relevant hereto, IKEA acted or failed to act by and through its authorized
+
+agents and/or employees, each of whom acted within the course and scope of their authority and
+
+employment with IKEA.
+
+                               JURISDICTION AND VENUE
+
+   6. On August 31, 2020, Tattar filed a Charge of Discrimination with the United States Equal
+
+Employment Opportunity Commission (“EEOC”), which was dually filed with the Pennsylvania
+
+Human Relations Commission (“PHRC”), thereby satisfying the requirements of 42 U.S.C. §
+
+2000e-5. Tattar’s EEOC Charge was docketed as EEOC Charge No. 530-2020-05465. Tattar’s
+
+EEOC Charge was filed within one hundred eighty (180) days of her unlawful termination.
+
+   7. Tattar filed an Amended Charge of Discrimination (“Amended Charge”) on November
+
+25, 2020. Tattar also provided IKEA’s counsel with a courtesy copy of the Amended Charge
+
+that same day.
+
+   8. IKEA submitted a Position Statement with the EEOC on December 22, 2020.
+
+
+
+                                              -2-
+          Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 3 of 19
+
+
+
+
+    9. On February 1, 2021, the EEOC issued Tattar a Notice of Right to Sue, advising her that
+
+she had ninety (90) days to file suit against IKEA.
+
+    10. Tattar has exhausted her federal administrative remedies and has complied with all
+
+conditions precedent to maintaining this action.
+
+    11. This Court has original jurisdiction over this matter pursuant to 28 U.S.C. §§ 1331 and
+
+1343.
+
+    12. Tattar reserves her right to amend this Complaint to include state law claims pursuant to
+
+the Pennsylvania Human Relations Act (“PHRA”), 43 P.S. § 951, et seq., when those claims
+
+become ripe. At such time, the Court will have supplemental jurisdiction over Tattar’s state law
+
+claims pursuant to 28 U.S.C. §1367 because those claims arise out of the same nucleus of
+
+operative facts as Tattar’s claims under Title VII, the EPA, and the FLSA.
+
+    13. Venue in this district is proper pursuant to 28 U.S.C. § 1391(b), as the parties reside in
+
+this judicial district and the events giving rise to this action occurred in this judicial district.
+
+                                    FACTUAL BACKGROUND
+
+    I.      Tattar Joins IKEA and Excels Professionally.
+
+    14. In the fall of 2017, IKEA recruited Tattar to join its Human Resources department as a
+
+Recruiting Manager. At the time, Tattar was employed with Aramark Corporation as a Director,
+
+Talent Acquisition – Healthcare and Higher Education. Tattar joined IKEA on November 13,
+
+2017.
+
+    15. As a Recruiting Manager, Tattar earned an annual salary of $140,000 plus bonus. She
+
+was also entitled to participate in IKEA’s benefits programs, including among other things, a
+
+health care plan, a 401(k) plan, and IKEA’s TACK loyalty program.
+
+
+
+                                                   -3-
+              Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 4 of 19
+
+
+
+
+       16. In October 2018, less than one year after she joined IKEA, and due to her exceptional
+
+performance, IKEA offered Tattar a promotion to the role of interim Vice President, Talent
+
+Acquisition Manager, reporting directly to Simon Lowes (“Lowes”), IKEA’s North America
+
+Country Human Resources Manager (“CHRO”). 2 In conjunction with this offer, IKEA increased
+
+Tattar’s salary to $154,000 plus bonus and benefits.
+
+       17. In March 2019, IKEA offered Tattar another promotion to the role of Deputy People &
+
+Culture Manager, reporting directly to Lowes. The anticipated start date for this role was June 1,
+
+2019. The increased salary associated with this position was $179,280 plus bonus and benefits.
+
+Unlike her other roles at IKEA, this position would make Tattar eligible for the One IKEA
+
+Bonus program, a discretionary bonus based upon her location performance. In addition, as a
+
+member of the IKEA North America country management team, Tattar would be eligible to
+
+participate in IKEA’s Supplemental Retirement Accumulation Plan (“SRAP”), which would
+
+allow her to voluntarily defer a portion of her salary or her One IKEA Bonus to a future date.
+
+Furthermore, IKEA would automatically contribute 10% of her annual base salary into the plan
+
+on her behalf.
+
+       18. However, before Tattar formally began this new role, IKEA withdrew the offer and
+
+decided to leave the role unfilled because, upon information and belief, another candidate for the
+
+role accused IKEA of discrimination in hiring, and IKEA was concerned about litigation from
+
+that employee. IKEA subsequently completed a global reorganization and offered Tattar the role
+
+of Vice President, Talent Management.
+
+
+
+
+2
+    CHRO is the title IKEA uses to refer to the head of human resources in a particular country.
+                                                          -4-
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 5 of 19
+
+
+
+
+   19. In the role of Vice President, Talent Management, Tattar was responsible for four
+
+different teams, nine direct reports, and 70 indirect reports. Tattar’s salary was $185,000 plus
+
+bonus.
+
+   20. Notably, before he left the company, the male employee whose job included the same
+
+common core of duties as Tattar’s Talent Management role earned significantly more than
+
+Tattar. This gender-based pay disparity was not unusual at IKEA.
+
+   21. Tattar’s job was to lead large-scale change, drive accountability, lead all Talent functions,
+
+and be an effective leader. As with the prior roles she held at IKEA, Tattar excelled, receiving
+
+an “Exceeds Expectations” on her annual performance review for every year she worked at the
+
+company.
+
+   22. Also in 2019, IKEA invited Tattar to participate in a highly selective six-month global
+
+leadership program based in Copenhagen, Denmark titled, “Fit for Transformation.” Tattar was
+
+one of the youngest participants in the program and one of only three participants, out of fifteen,
+
+who were not country CHROs. The IKEA leadership in place at that time both in the United
+
+States and at the global headquarters in Sweden made it clear to Tattar that she had been invited
+
+to participate in the program because she was being groomed for a larger role.
+
+   23. However, as she advanced, Tattar had numerous interactions with IKEA executives that
+
+exemplified a culture at the company that discriminates against women, pays them less than their
+
+male counterparts, attempts to force them into stereotypical gender roles, castigates them for
+
+speaking out against discriminatory employment practices, and demands results-oriented leaders,
+
+but penalizes women, like Tattar, who attempt to drive performance.
+
+
+
+
+                                               -5-
+          Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 6 of 19
+
+
+
+
+   II.     IKEA Discriminates Against Tattar and Pressures Her To Become a Female
+           Archetype.
+
+   24. Tattar is an educated, competent, results-driven professional. A key component of her
+
+job as Talent Manager was to hold people accountable for their work and their interpersonal
+
+interactions, and, if necessary, to counsel employees to either improve or leave the company.
+
+She did this by being fair and straightforward and by having honest conversations with her team
+
+and colleagues.
+
+   25. However, during her employment with IKEA, Tattar was repeatedly told to be “softer,”
+
+“more vulnerable,” and instructed to “show more empathy.”
+
+   26. On more than one occasion after attending meetings with IKEA’s North America CEO,
+
+Javier Quinones (“Quinones”), he told her that she had not smiled enough during the meeting
+
+and instructed her to “smile more.”
+
+   27. These comments were discriminatory and demeaning to a woman holding a leadership
+
+role with the company. However, they were not unusual for Quinones. For example, in a talent
+
+review meeting to discuss the promotion of a female employee from Store Manager to a
+
+Regional Vice President role, Quinones referred to the employee as “an old lady” to demonstrate
+
+his lack of support for her promotion.
+
+   III.    IKEA Pays Tattar, And Other Women, Less Than Their Male Counterparts.
+
+   28. In her role as Vice President, Talent Manager, Tattar was paid approximately 20% less
+
+than the male employee, Rich D’Amico, whose job included the same common core of duties as
+
+Tattar’s Talent Management role.
+
+   29. When Tattar inquired why IKEA did not pay her an equivalent salary and why it refused
+
+to increase her salary to match Mr. D’Amico’s, IKEA did not dispute that it had paid Mr.
+
+
+                                              -6-
+          Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 7 of 19
+
+
+
+
+D’Amico more than it paid her. Rather IKEA told Tattar that if it paid her an equivalent salary,
+
+it would violate IKEA’s compensation guidelines because it would constitute a raise in excess of
+
+20%. This arbitrary policy resulted in Tattar earning less than male counterparts.
+
+   30. Notably, Tattar was not the only woman at IKEA to receive a discriminatory salary on
+
+the basis of her sex.
+
+   31. In or around 2019, IKEA retained an outside consulting firm to investigate its salary
+
+practices and the firm found multiple instances of gender and race-based pay disparities across
+
+the company.
+
+   32. Despite the results of the study, when Tattar, in her role as Talent Manager, attempted to
+
+address the inequitable salaries paid to other female employees, her efforts were often rebuffed.
+
+   33. For example, Quinones refused to increase the salary of North America COO Leontyne
+
+Green Sykes (“Green Sykes”) despite the fact that the outside firm had identified her as a female
+
+employee who was paid less than her similarly situated male counterparts.
+
+   34. Quinones also sought to diminish Ms. Green Sykes by promoting a male employee,
+
+Pedro Abrue (“Abrue”), with whom Quinones had worked in Europe, to share the North
+
+America COO role with her, essentially demoting Green Sykes by reducing her job functions
+
+and devaluing her in the eyes of her peers.
+
+   35. Ms. Green Sykes is no longer employed with IKEA. Tattar does not know whether her
+
+departure was voluntary or whether she was forced out of the company as Tattar was.
+
+   36. Quinones also declined to hire a qualified female candidate for an executive level role
+
+because to do so would have resulted in the female candidate receiving a salary that was 10%
+
+higher than his own. Quinones opted to hire a male candidate instead - at a salary that also
+
+exceeded his own.
+
+                                               -7-
+            Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 8 of 19
+
+
+
+
+   37. In another example, neither Quinones nor IKEA as a whole expressed salary constraints
+
+when they promoted Phillip Wellington (“Wellington”), an IKEA store manager in Chicago,
+
+Illinois, to the position of North America CHRO in early 2020, after Lowes left the company.
+
+   38. Despite the fact that Wellington did not meet even a fraction of the key qualifications for
+
+the CHRO position, Quinones chose to hire Wellington and give him a 35% salary increase to
+
+take a position for which other, more qualified, female applicants were rejected.
+
+   39. IKEA’s hiring policy dictated that, if a candidate did not meet the minimum technical
+
+requirements of the position, the candidate should not be considered for the role.
+
+   40. However, when Tattar raised concerns to Byron Clayton (“Clayton”), IKEA’s Global
+
+Retail Human Resources executive, that Quinones wanted to hire Wellington rather than much
+
+stronger female candidates, and that Wellington did not meet the identified qualifications for the
+
+job, Clayton told her, in essence, to keep quiet and that it was more important to “put someone
+
+Javi likes” in the position versus someone who was qualified for the role. In fact, Clayton
+
+instructed Tattar to speak with Wellington in order for her to “get comfortable with Phil” as her
+
+“leader.”
+
+   IV.       IKEA Protects a Sexist and Racist Employee, Retaliates Against Tattar, and
+             Terminates Her Employment.
+
+   41. In the late fall of 2019 and the first half of 2020, Tattar performance-counseled a male
+
+employee named Rick Carsley (“Carsley”), whom she had hired and who reported directly to
+
+her.
+
+   42. Carsley consistently underperformed. He failed to meet the key expectations for his
+
+position and neglected to follow IKEA processes and policies.
+
+
+
+
+                                               -8-
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 9 of 19
+
+
+
+
+   43. Carsley’s behavior was also problematic and violated of IKEA’s Code of Conduct. In
+
+separate instances, and by way of example only, Carsley (1) belittled a female employee to her
+
+colleagues and former colleagues while drunk at a party; (2) compared IKEA’s hiring practices
+
+to seducing a woman and spoke demeaningly about both on an industry podcast; and (3)
+
+engaged in overtly racist behavior. Specifically, in December 2019, Carsley put empty wrapped
+
+“presents” on the desks of two African American IKEA employees and signed the “presents”
+
+under the name of his white male peer.
+
+   44. A number of Tattar’s direct reports and colleagues complained to her about Carsley’s
+
+behavior and his work performance, and several indicated that he had made sexist comments and
+
+gestures, had engaged in racist behavior, and that they felt uncomfortable working with him.
+
+   45. As Talent Manager, Carsley’s direct supervisor, and someone in a leadership role, it was
+
+incumbent upon Tattar to counsel Carsley concerning his behavior and his faulty performance,
+
+and to impress upon him the seriousness of his transgressions.
+
+   46. Tattar discussed Carsley’s sexist and racist conduct with Wellington, her direct
+
+supervisor, on more than one occasion. She also discussed Carsley’s poor work performance
+
+with Wellington and other peers during IKEA Talent Review meetings.
+
+   47. Tattar also consulted verbally, via email, and via Microsoft Teams, with two Human
+
+Resources business partners about Carsley’s behavior and his progressive discipline: (1) Kim
+
+Taglieber (“Taglieber”), Director, Corporate Human Resources (Service Office - People &
+
+Culture Manager); and (2) Taglieber’s direct report, Amy Vernon (“Vernon”), Corporate Human
+
+Resources (Service Office - People & Culture Business Partner).
+
+   48. With the support of her Human Resources partners, Tattar attempted to counsel Carsley
+
+on multiple occasions over the course of approximately five months. When Carsley’s
+
+                                              -9-
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 10 of 19
+
+
+
+
+performance and conduct did not improve, Tattar placed Carsley on Final Corrective Action in
+
+April/May 2020.
+
+   49. IKEA has three levels of Corrective Action: Written Corrective Action, Final Corrective
+
+Action, and Termination. Tattar and Taglieber had multiple conversations about whether
+
+Carsley’s Corrective Action should be a Written or Final Corrective Action. Taglieber indicated
+
+to Tattar that she was supportive of either. Vernon indicated to Tattar that Carsley’s behavior on
+
+the podcast was reason enough for termination.
+
+   50. Tattar understands that, after she placed Carsley on Final Corrective Action, he
+
+complained to IKEA about her alleged unfair treatment of him (a complaint that IKEA has
+
+refused to provide to Tattar).
+
+   51. On June 2, 2020, Wellington abruptly placed Tattar on a forced leave of absence while
+
+IKEA investigated the “allegations” against her.
+
+   52. IKEA separated Tattar from her job for six weeks, during which time it instructed her
+
+colleagues to refrain from speaking with her, and refused to provide her with any information
+
+regarding the allegations against her.
+
+   53. This extended leave of absence caused significant damage to Tattar’s professional
+
+reputation.
+
+   54. IKEA’s actions also caused Tattar significant physical and emotional stress and
+
+exacerbated her pre-existing post-partum depression, a condition about which she made
+
+Wellington, her team, and multiple other IKEA employees, aware.
+
+   55. When Tattar reached out to Wellington during her enforced leave and requested
+
+information regarding the mental health resources available to her as an IKEA employee,
+
+
+
+                                              - 10 -
+          Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 11 of 19
+
+
+
+
+Wellington ignored her requests for help, and IKEA as an organization failed to accommodate
+
+her.3
+
+    56. The stress and anxiety caused by her leave of absence and the accusations against her
+
+were so severe that, after Tattar experienced multiple panic attacks and, one night, was vomiting
+
+all evening, her husband insisted that she have an emergency medical visit.
+
+    57. Although IKEA made a show of fairly “investigating” the claims against her, including
+
+asking her which IKEA employees she thought the investigator should speak with about her
+
+qualities as an employee and a supervisor, the investigator did not speak with all of the
+
+employees Tattar identified, demonstrating the pretext and retaliatory nature of the process.
+
+    58. After six-weeks of so-called “investigation,” IKEA terminated Tattar’s employment on
+
+July 14, 2020, and fabricated reasons to justify it.
+
+    59. In the Corrective Action that Wellington issued to Tattar in connection with her
+
+termination, IKEA accused Tattar of falsifying Vernon’s signature on Carsley’s Final Corrective
+
+Action and asserted that she did not consult with Human Resources on Carsley’s progressive
+
+discipline – neither of which is true.
+
+    60. Tattar conferred extensively with Taglieber and Vernon concerning Carsley’s troubling
+
+behavior and underperformance, and Taglieber (Vernon’s supervisor) supported the issuance of
+
+either a Written or Final Corrective Action to Carsley.
+
+
+
+
+3
+  Wellington also refused to provide Tattar with access to her personnel file in violation of the Pennsylvania
+Personnel File Inspection Act, 43 Pa. Stat. Ann. §§ 1321-1324. Tattar sent an email to Wellington on June 8, 2020,
+while still an IKEA employee, requesting access to her full personnel file. Wellington responded via email on June
+10, 2020, and stated, “I will not be producing any documents.” It was only when counsel for Tattar requested access
+to the file that IKEA produced a portion of it six weeks later. IKEA persists in its refusal to produce anything
+associated with the complaint against Tattar and the investigation.
+
+                                                      - 11 -
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 12 of 19
+
+
+
+
+   61. Tattar never falsified Vernon’s signature on the Corrective Action, nor would she have
+
+done so. On the copy of Carsley’s Final Corrective Action that IKEA’s own investigator
+
+provided to Tattar during the internal review, Vernon’s signature line and her document review
+
+date are blank. Tattar only indicated where Vernon should sign the document after review, a
+
+common clerical courtesy; she never signed on Vernon’s behalf.
+
+   62. By falsely accusing Tattar of forgery and other misconduct to “justify” her termination,
+
+IKEA made its retaliatory animus plain.
+
+   63. Tattar’s Corrective Action also accused her of “targeting” Carsley after “he made certain
+
+comments” about a female colleague. By targeting, IKEA means counseling Carsley regarding
+
+his sexist and racist behavior and poor work performance, a key component of Tattar’s job.
+
+   64. The Corrective Action issued to Tattar demonstrates that IKEA’s primary concern was
+
+protecting a sexist and racist employee over a female leader who attempted to correct his
+
+improper behavior.
+
+   65. The rest of the Corrective Action criticizes Tattar for doing exactly what she was hired to
+
+do and what she was praised for in her annual reviews: driving accountability and increasing
+
+employee performance.
+
+   66. Notably, IKEA never counselled Tattar during her employment concerning this
+
+supposedly problematic behavior nor did it give her any written warnings or progressive
+
+discipline.
+
+   67. IKEA’s post hoc criticisms underscore IKEA’s hostility to the fact Tattar was a woman
+
+in a leadership position who did not fit into IKEA’s idea of what a female employee should be:
+
+soft, vulnerable, and always smiling.
+
+
+
+                                              - 12 -
+          Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 13 of 19
+
+
+
+
+   68. Incredibly, after IKEA terminated Tattar’s employment, it also fired two of the
+
+employees who had complained to Tattar, and to Human Resources, about Carsley’s behavior.
+
+   69. Tattar refused to be silent. She refused to stand by as IKEA discriminated against her
+
+and other women in words and deeds, attempting to force her to adhere to stereotypical gender
+
+norms and paying her and other women less than their male counterparts.
+
+   70. She did her job and excelled at it, including counseling a sexist and racist subordinate to
+
+correct his behavior or face termination.
+
+   71. For this, IKEA terminated her and two employees who also complained.
+
+   72. IKEA’s actions were discriminatory and retaliatory in violation of federal law.
+
+   73. As a direct result of IKEA’s deliberate, unlawful, outrageous and malicious actions,
+
+Tattar has suffered and continues to suffer severe emotional distress, anxiety, depression,
+
+humiliation, a loss of life’s pleasures, the loss of self-esteem, damage to her professional status
+
+and reputation, and a painful diminution of her ability to provide herself with the earned rewards
+
+of excellence in her chosen profession. She will continue to suffer the same into the future.
+
+   74. By discriminating against Tattar, retaliating against her for engaging in protected
+
+activity, and terminating her employment, IKEA engaged in intentional and extremely
+
+outrageous conduct, and/or acted recklessly in deliberate disregard of a high degree of
+
+probability that emotional distress would follow, and proximately caused Tattar’s severe
+
+emotional and physical distress.
+
+   75. Tattar will continue to suffer injury and monetary damages because of the IKEA’s
+
+discriminatory and retaliatory conduct unless and until this Court grants the relief requested
+
+herein.
+
+
+
+                                                - 13 -
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 14 of 19
+
+
+
+
+                                      COUNT I
+                   TITLE VII OF THE CIVIL RIGHTS ACT OF 1964
+                              42 U.S.C.S. § 2000e, et seq.
+               SEX DISCRIMINATION AND WRONGFUL TERMINATION
+
+    76. Paragraphs 1 through 75 are hereby incorporated by reference, as though the same were
+
+fully set forth herein.
+
+    77. Title VII provides that it is an unlawful employment practice for an employer to
+
+“discharge any individual or otherwise to discriminate against any individual with respect to his
+
+compensation, terms, conditions, or privileges or employment, because of such individual’s race,
+
+color, religion, sex, or national origin….” 42 U.S.C. § 2000e-2(a)(1).
+
+    78. IKEA is an employer within the meaning of Title VII because it employed at least fifteen
+
+(15) employees throughout its various locations at all times material hereto.
+
+    79. Tattar is a female and therefore a member of a protected class.
+
+    80. At the time of her unlawful termination, Tattar was qualified for her position and had
+
+received “exceeds expectations” on each of her annual performance reviews.
+
+    81. IKEA discriminated against Tattar because of her sex by making sexist comments to her,
+
+pushing her to conform to stereotypical gender norms, and paying her less than her male
+
+counterpart.
+
+    82. In violation of Title VII, IKEA took tangible employment action against Tattar in the
+
+form of an enforced leave of absence and, ultimately, termination because of her sex.
+
+    83. IKEA acted with malice and reckless indifference to Tattar’s civil rights and emotional
+
+and physical wellbeing.
+
+    84. Because of IKEA’s deliberate, unlawful, wanton, and malicious actions as set forth
+
+above, Tattar suffered damages in the form of, inter alia, loss of past and future wages and
+
+
+                                              - 14 -
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 15 of 19
+
+
+
+
+compensation, physical and emotional distress, damages to reputation, personal humiliation, and
+
+loss of life’s enjoyment.
+
+                                     COUNT II
+                   TITLE VII OF THE CIVIL RIGHTS ACT OF 1964
+                              42 U.S.C. § 2000e, et seq.
+            SEX DISCRIMINATION (DISCRIMINATORY COMPENSATION)
+
+    85. Paragraphs 1 through 84 are hereby incorporated by reference, as though the same were
+
+fully set forth herein.
+
+    86. Title VII provides that it is an unlawful an employer to adopt a “discriminatory
+
+compensation decision or other practice” or to subject an individual to a “discriminatory
+
+compensation decision.” 42 U.S.C. § 2000e-5(e)(2).
+
+    87. IKEA is an employer within the meaning of Title VII because it employed at least fifteen
+
+(15) employees throughout its various locations at all times material hereto.
+
+    88. Tattar is a female and therefore a member of a protected class.
+
+    89. While employed by IKEA, IKEA paid Tattar approximately 20% less than a similarly
+
+situated male employee.
+
+    90. By discriminating against Tattar through unequal pay, IKEA violated Title VII.
+
+    91. Because of IKEA’s deliberate, unlawful, wanton, and malicious actions as set forth
+
+above, Tattar suffered damages in the form of, inter alia, loss of past and future wages and
+
+compensation, physical and emotional distress, damages to reputation, personal humiliation, and
+
+loss of life’s enjoyment.
+
+                                        COUNT III
+                      TITLE VII OF THE CIVIL RIGHTS ACT OF 1964
+                                 42 U.S.C.S. § 2000e, et seq.
+                      RETALIATION (WRONGFUL TERMINATION)
+
+
+
+                                              - 15 -
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 16 of 19
+
+
+
+
+    92. Paragraphs 1 through 91 are hereby incorporated by reference, as though the same were
+
+fully set forth herein.
+
+    93. Title VII provides that it is an unlawful employment practice for an employer to
+
+“discriminate against any of his employees… because he has opposed any practice made an
+
+unlawful employment practice by this title (42 UCSC §§2000e-2000e-17)…” 42. U.S.C.
+
+§2000e-3(a).
+
+    94. IKEA is an employer within the meaning of Title VII because it employed at least fifteen
+
+(15) employees throughout its various locations at all times material hereto.
+
+    95. Tattar is a female and therefore a member of a protected class.
+
+    96. While Tattar was employed with IKEA, she opposed IKEA’s, and its employee’s,
+
+discriminatory conduct, including (1) opposing IKEA’s gender discriminatory pay practices; and
+
+(2) opposing a male employee’s sexist and racist conduct, including placing him on Final
+
+Corrective Action.
+
+    97. Tattar’s opposition to this discriminatory conduct was clear and unequivocal.
+
+    98. In violation of Title VII, IKEA took tangible employment action against Tattar in the
+
+form of an enforced leave of absence and, ultimately, termination in retaliation for the actions
+
+described herein.
+
+    99. IKEA acted with malice and reckless indifference to Tattar’s civil rights and emotional
+
+and physical wellbeing.
+
+   100. Because of IKEA’s deliberate, unlawful, wanton, and malicious actions as set forth
+
+above, Tattar suffered damages in the form of, inter alia, loss of past and future wages and
+
+compensation, physical and emotional distress, damages to reputation, personal humiliation, and
+
+loss of life’s enjoyment.
+
+                                               - 16 -
+         Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 17 of 19
+
+
+
+
+                                     COUNT IV
+                               EQUAL PAY ACT OF 1963
+                                  29 U.S.C. § 206(d)
+                           UNEQUAL PAY BASED ON GENDER
+
+   101. Paragraphs 1 through 100 are hereby incorporated by reference, as though the same were
+
+fully set forth herein.
+
+   102. The Equal Pay Act of 1963 provides that it is unlawful for an employer to discriminate
+
+between employees who perform equal work under similar working conditions on the basis of
+
+their gender. 29 U.S.C. §206(d)(1).
+
+   103. While employed by IKEA, IKEA paid Tattar approximately 20% less than her male
+
+comparator.
+
+   104. Because of IKEA’s actions as set forth above, Tattar suffered damages in the form of,
+
+inter alia, loss of past and future wages and compensation, physical and emotional distress,
+
+damages to reputation, personal humiliation, and loss of life’s enjoyment.
+
+
+                                         COUNT V
+                              FAIR LABOR STANDARDS ACT
+                                    29 U.S.C. § 215(a)(3)
+                                      RETALIATION
+
+   105. Paragraphs 1 through 104 are hereby incorporated by reference, as though the same were
+
+fully set forth herein.
+
+   106. The Fair Labor Standards Act provides that it is unlawful for any person to discharge or
+
+discriminate against an employee because the employee has filed a complaint related to the Act.
+
+29 U.S.C. § 215(a)(3).
+
+   107. The FLSA’s antiretaliation provision is applicable to Equal Pay Act retaliation claims.
+
+
+
+
+                                              - 17 -
+           Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 18 of 19
+
+
+
+
+  108. While employed by IKEA, IKEA paid Tattar approximately 20% less than her male
+
+comparator.
+
+  109. While employed by IKEA, Tattar witnessed other female employees receive less pay
+
+than their similarly situated male counterparts.
+
+  110. After Tattar raised both her own and others’ gender-based pay inequities with IKEA
+
+senior management, IKEA retaliated against her and terminated her employment.
+
+  111. Because of IKEA’s deliberate, unlawful, wanton, and malicious actions as set forth
+
+above, Tattar suffered damages in the form of, inter alia, loss of past and future wages and
+
+compensation, physical and emotional distress, damages to reputation, personal humiliation, and
+
+loss of life’s enjoyment.
+
+          WHEREFORE, as a result of IKEA’s unlawful conduct, Tattar respectfully requests
+
+that this Court enter judgment in her favor and against IKEA and grant the maximum relief
+
+allowed by law, including, but not limited to:
+
+          A.    Back wages and front pay, in an amount to be determined at trial, but no less than
+
+One Million Dollars ($1,000,000.00);
+
+          B.    Punitive, compensatory, and/or exemplary damages in an amount to be
+
+determined at trial, but sufficient to punish IKEA for its intentional, negligent, willful, wanton,
+
+and/or malicious conduct;
+
+          C.    Tattar’s costs, disbursements, and attorney’s fees incurred in prosecuting this
+
+action;
+
+          D.    Pre-judgement interest in an appropriate amount; and
+
+          E.    Such other and further relief as is just and equitable under the circumstances.
+
+
+
+                                                 - 18 -
+        Case 2:21-cv-00907-CFK Document 1 Filed 02/26/21 Page 19 of 19
+
+
+
+
+                                        JURY DEMAND
+
+       Tattar herby demands a trial by jury as to all issues so triable.
+
+
+                                              Respectfully submitted,
+
+
+
+                                          By: /s/ Rachael Luken Carp
+                                             Michael J. Fortunato, Esquire (PA Bar No. 58917)
+                                             Rachael Luken Carp, Esquire (PA Bar No. 201585)
+                                             Rubin, Fortunato & Harbison P.C.
+                                             10 S. Leopard Road
+                                             Paoli, PA 19301
+                                             T: 610-408-2005/2010
+                                             F: 610-854-4305/4329
+                                             mfortunato@rubinfortunato.com
+                                             rcarp@rubinfortunato.com
+                                             Attorneys for Plaintiff, Eleanor Lisle Tattar
+
+Dated: February 26, 2021
+
+
+
+
+                                               - 19 -
+

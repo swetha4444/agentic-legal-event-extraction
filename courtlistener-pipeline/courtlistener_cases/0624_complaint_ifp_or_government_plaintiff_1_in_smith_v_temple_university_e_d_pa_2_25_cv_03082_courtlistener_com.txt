@@ -1,0 +1,571 @@
+Source URL: https://www.courtlistener.com/docket/70556923/1/smith-v-temple-university/
+Title: Complaint (IFP or Government Plaintiff) – #1 in SMITH v. TEMPLE UNIVERSITY (E.D. Pa., 2:25-cv-03082) – CourtListener.com
+
+Case 2:25-cv-03082   Document 1   Filed 06/17/25   Page 1 of 14
+10/2024                           Case 2:25-cv-03082                   Document 1                 Filed 06/17/25             Page 2 of 14
+                                                           UNITED STATES DISTRICT COURT
+                                                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+              1.   Does this case involve property included in an earlier numbered suit?                                                                 Yes
+
+              2.   Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                 Yes
+
+              3.   Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                    Yes
+
+              4.   Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                  Yes
+                   individual?
+
+              5.   Is this case related to an earlier numbered suit even though none of the above categories apply?                                      Yes
+                   If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is /    is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+              A.   Federal Question Cases:                                                               B. Diversity Jurisdiction Cases:
+
+                   1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                   2.  FELA                                                                   2. Airplane Personal Injury
+                   3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                   4.  Antitrust                                                              4. Marine Personal Injury
+                   5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                   6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                   7.  Copyright/Trademark                                                    7. Products Liability
+                   8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                   9.  Labor-Management Relations                                                _____________________
+              X    10. Civil Rights
+                   11. Habeas Corpus
+                   12. Securities Cases
+                   13. Social Security Review Cases
+                   14. Qui Tam Cases
+                   15. Cases Seeking Systemic Relief *see certification below*
+                   16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does /     does not have implications
+      beyond the parties before the court and       does /     does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                    ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+          X     Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                   None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+Case 2:25-cv-03082   Document 1   Filed 06/17/25   Page 3 of 14
+            Case 2:25-cv-03082        Document 1       Filed 06/17/25      Page 4 of 14
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+ _______________________________________
+ AARON X. SMITH                                :
+ 2114 E. Chelten Avenue                        :       CIVIL ACTION
+ Philadelphia, PA 19138                        :       COMPLAINT AND JURY TRIAL DEMAND
+                        Plaintiff,             :
+                                               :
+                                               :
+                                               :
+                        V.
+                                               :
+                                               :
+ TEMPLE UNIVERSITY                             :
+ 1801 N. Broad Street                          :                                              :
+ Philadelphia, PA 19120                        :
+                                               :
+                                Defendant.     :
+ __________________________________________________________________________________
+
+                                  COMPLAINT
+_____________________________________________________________________________
+
+
+ I.     INTRODUCTION
+
+       Plaintiff, Aaron X. Smith (“Plaintiff”), brings this action against Defendant Temple
+
+University (“Defendant”) pursuant to Title VII of the Civil Rights Act of 1964, as amended, 42
+
+U.S.C. § 2000e, et seq. (“Title VII”), the Pennsylvania Human Relations Act, as amended 43 P.S.
+
+§951, et seq. (“PHRA”), and the Philadelphia Fair Practices Ordinance, Phila Code §9-1101, et seq.
+
+(“PFPO”). Plaintiff was employed by Defendant as a tenure-track professor since 2018. From 2022
+
+until recently, Plaintiff filed several grievances and complaints demanding an investigation into the
+
+discriminatory practices within the College of Liberal Arts. In 2023—in the midst of completing
+
+the tenure process, Plaintiff was falsely accused of academic misconduct, received threatening
+
+
+
+
+                                                   1
+             Case 2:25-cv-03082 Document 1 Filed 06/17/25 Page 5 of 14
+letters of reprimand from the Dean for the College of Liberal Arts—Mr. Richard Deeg.
+
+Subsequently, Plaintiff’s tenure-track contract was unlawfully converted into a one-year terminal,
+
+non-renewal contract. Plaintiff seeks, without limitation, all appropriate relief including front-pay,
+
+compensatory damages for pain and suffering, liquidated damages, punitive damages, and
+
+attorneys’ fees and costs.
+
+
+
+ II.      PARTIES
+
+       1. Plaintiff, Dr. Aaron X. Smith, is an individual and a citizen of the Commonwealth of
+
+          Pennsylvania.
+
+       2. He resides in Philadelphia, PA.
+
+       3. Defendant Temple University is a Pennsylvania Public University located at 1801 N. Broad
+
+          Street, Philadelphia, PA 19122.
+
+       4. At all times material hereto, Plaintiff worked for Defendant via an employment contract.
+
+       5. At all times material hereto, Defendant employed more than fifteen (15) employees.
+
+       6. At all times material hereto, Defendant acted by and through its authorized agents, servants,
+
+          workmen, and/or employees acting within the course and scope of their employment with
+
+          Defendant and in furtherance of Defendant’s business.
+
+       7. At all times material hereto, Defendant acted as the employer within the meaning of the
+
+          statute(s) which form the basis of this matter.
+
+       8. At all times material hereto, Plaintiff was an employee of Defendant within the meaning
+
+          of the statute(s) which form the basis of this matter.
+
+  III.      JURISDICTION AND VENUE
+
+       9. The causes of action which form the basis of this matter arise under Title VII (Count I),
+
+          PHRA (Count II) and PFPO (Count III).
+
+       10. The District Court has jurisdiction over Count I pursuant to 28 U.S.C. §1331.
+
+
+                                                    2
+         Case 2:25-cv-03082        Document 1       Filed 06/17/25      Page 6 of 14
+
+
+
+
+  11. The District Court has supplemental jurisdiction over Counts II (PHRA) and Count III
+
+      (PFPO) pursuant to 28 U.S.C. §1367
+
+  12. Venue is proper in the District Court under 28 U.S.C.§139(b).
+
+  13. On or about March 7, 2025, Plaintiff filed a Complaint with the Equal Employment
+
+      Opportunity Commission (“EEOC”) and cross filed with the Philadelphia Commission on
+
+      Human Relations complaining of the acts of discrimination and retaliation alleged herein.
+
+      Attached hereto and incorporated herein and marked as Exhibit “1” is a true and correct
+
+      copy of the EEOC Complaint.
+
+  14. On or about March 19, 2025, the EEOC issued to Plaintiff a Notice of Rights for Plaintiff’s
+
+      EEOC Charge. Attached hereto and marked as Exhibit “2” is a true and correct copy of
+
+      that notice.
+
+  15. Plaintiff has fully complied with all administrative preregisters for the commencement of
+
+      this action.
+
+  16. At all relevant times during the administrative process, Defendant was on notice of
+
+      Plaintiff’s claims and facts underpinning same.
+
+  17. Defendant participated in the administrative process.
+
+
+
+IV.    FACTUAL ALLEGATIONS
+  18. Plaintiff was hired by Defendant in 2018 as a tenure-track Professor to teach in the College
+
+      of Liberal Arts via the Department of Africology and African American Studies.
+
+  19. From 2018 through 2022, the Chair of the Department was Dr. Molefi Asante.
+
+  20. While Plaintiff reported to the Chair of the Department all final decisions surrounding
+
+      Plaintiff’s employment were supervised and decided by Richard Deeg, the Dean (“Dean
+
+      Deeg”) for the College of Liberal Arts.
+
+
+                                                3
+      Case 2:25-cv-03082         Document 1       Filed 06/17/25      Page 7 of 14
+
+
+
+
+21. On February 9, 2022, Plaintiff’s contract was renewed for two additional years (July 1,
+
+   2022-June 30, 2024) with publishing and scholarship conditions not normally required for
+
+   tenure review.
+
+22. No non-African American tenure track professors within the College of Liberal Arts, were
+
+   given a renewal contract with publishing and scholarship conditions outside of the normal
+
+   and standard terms.
+
+23. In the Summer/Fall 2022, Dean Deeg promoted Dr. Ama Mazama to Chair of the
+
+   Department of Africology and African American Studies.
+
+24. During the first week as Chair, Dr. Mazama removed Plaintiff and all other African
+
+   American men from their special positions overseeing special programs for undergraduate
+
+   and graduate students.
+
+25. Plaintiff complained to the College of Liberal Arts as to the legitimacy of actions taken by
+
+   the Chair and supported by Dean Deeg.
+
+26. On November 18, 2022, Defendant responded to the complaints of discrimination by
+
+   assigning an outside law firm—Buchanan Ingersoll & Rooney, PC (the “Investigators”) to
+
+   ‘conduct an independent investigation’ into the allegations made by Plaintiff, and other
+
+   staff and some students.
+
+27. The investigation was limited only to one department within the College of Liberal Arts—
+
+   the Department of Africology and African American Studies and was not broadened to
+
+   investigate the complaints of racial discrimination against the College of Liberal Arts under
+
+   the leadership of Dean Deeg.
+
+28. Because some of the allegations of discrimination were made against Dean Deeg and the
+
+   College of Liberal Arts, Former Compliance Chief Alejandro Diaz indicated in writing to
+
+
+
+                                             4
+      Case 2:25-cv-03082         Document 1       Filed 06/17/25      Page 8 of 14
+
+
+
+   the Dean, reiterating that he was to refrain from retaliating against Plaintiff and other
+
+   members of the Department for any reason.
+
+29. The final report indicating no findings of discrimination was dated July 26, 2023 (“July 26,
+
+   2023, Report”) and would serve as Defendant’s response to all future complaints of
+
+   discrimination alleged by Plaintiff, and the template for future internal and external
+
+   investigations relating to Plaintiff’s complaints or grievances.
+
+30. Despite the warning from the Chief Compliance Office, In retaliation to Plaintiff’s filing a
+
+   grievance and a complaint of discrimination, Dean Richard Deeg sent a notice dated
+
+   October 2023, indicating his intent to reprimand Plaintiff.
+
+31. The July 26, 2023, Report did not include information about the legitimacy of the Dean’s
+
+   separate and outside investigation of Plaintiff for the purpose of reprimand and whether or
+
+   not this practice occurs within or against the other departments under the Dean’s leadership
+
+   of the College of Liberal Arts.
+
+32. On February 16, 2023, Plaintiff received a letter from the Interim Vice President for
+
+   Research, Steven Nappi indicating that an Inquiry Committee would be formed to
+
+   investigate allegations made against Plaintiff of academic dishonesty and misconduct.
+
+33. Although, Plaintiff unsuccessfully sought information on this investigation, and per the
+
+   August 2023 report, the investigatory committee found no academic dishonesty or
+
+   misconduct, Plaintiff would not receive notification of such findings until May 4, 2024—
+
+   209 days since the initial accusation.
+
+34. Defendant through its agents, employees, etc. deliberately did not disclose information to
+
+   Plaintiff until May 4, 2024, which included an April 4, 2023, memo (never received by
+
+   Plaintiff) issued by Provost Greg Mandel indicating that an Inquiry Committee was not to
+
+
+
+                                             5
+      Case 2:25-cv-03082         Document 1       Filed 06/17/25      Page 9 of 14
+
+
+
+   be formed “because {an} investigation is not warranted because there is no reasonable
+
+   basis for concluding that the allegations fall within the definition of research
+
+   misconduct.”
+
+35. Not only was the Allegations of Plagiarism Inquiry Committee reconvened, but the Inquiry
+
+   Committee never investigated how a privately submitted article to a journal (April 2022)
+
+   and withdrawn before the peer-review process (June 2022) was never made available to
+
+   anyone other than the accepting editor (Dr. Ama Mazama) could be the source of an
+
+   investigation that would interfere with Plaintiff’s ability to continue pursuing the tenure
+
+   process with dignity.
+
+36. No non-African American tenure track professors within the College of Liberal Arts,
+
+   experienced this level of misguided scrutiny, accusations of dishonesty and hostility,
+
+   discrimination, or retaliation during the tenure process.
+
+37. In February 2023, Dean Deeg rejected the recommendation of the Personnel Committee of
+
+   the Department of Africology and African American Studies and accepted a non-renewal
+
+   recommendation from Chair—Dr. Mazama-unrelated to any conditions in the 2022-2024
+
+   contract.
+
+38. Throughout the grievance process, Defendant presented no evidence indicating that other
+
+   tenure track professors (who are not African American) teaching and pursuing tenure
+
+   within the College of Liberal Arts, were given a one-year terminal contract—ending their
+
+   tenure-track process for similar reasons indicated.
+
+39. On October 17, 2024, Plaintiff received an email from Dean Deeg that Plaintiff would not
+
+   be assigned to teach any classes although he was under contract to do so.
+
+40. Plaintiff was not given any reasons justifying the Dean’s decision.
+
+
+
+                                             6
+         Case 2:25-cv-03082        Document 1       Filed 06/17/25      Page 10 of 14
+
+
+
+
+   41. No non-African American tenure track professors within the College of Liberal Arts, was
+
+      given notice without reason that they would not be permitted to teach any courses during
+
+      the semester.
+
+   42. During the month of October 2024, Plaintiff requested an external investigation to
+
+      determine if any similar situated individual(s) of a different race working as a tenure-track
+
+      professor within the College of Liberal Arts incurred the same adverse actions.
+
+   43. Defendant granted the external investigation but redirected the investigation once again to
+
+      be restricted only to the Department of Africology and African American Studies and did
+
+      not require the investigation to examine how other non-African American tenure track
+
+      professors were treated in other schools within the College of Liberal Arts under the
+
+      leadership of Dean Deeg.
+
+   44. Additionally, the findings (made available May 15, 2025) only echoed the July 26, 2023,
+
+      report. In that, there was no indication that the investigator was provided documentation of
+
+      Dean Deeg’s intent to reprimand Plaintiff and/or the documentation of the documents that
+
+      supported Plaintiff’s claim of false allegations, harassment and hostility.
+
+   45. More importantly, it can be inferred that Defendant did not provide the investigator the
+
+      relevant information of the October 2024 arbitration findings that would raise a reasonable
+
+      interference that Plaintiff was being discriminated against.
+
+
+
+COUNT I-TITLE VII (Discrimination, Retaliation, and Hostile Work Environment)
+   46. Plaintiff incorporates herein by reference the above paragraphs, as if set forth herein in
+      their entirety.
+   47. By committing the foregoing acts of discrimination and retaliation against Plaintiff,
+      Defendant violated Title VII, without limitation, in connection with the following adverse
+      acts:
+
+                                                7
+         Case 2:25-cv-03082          Document 1        Filed 06/17/25     Page 11 of 14
+
+
+
+
+          a. Subjecting Plaintiff to racial discrimination
+          b. Subjecting Plaintiff to a hostile work environment
+          c. Termination of his employment contract
+   48. Defendant acted intentionally, and with malice and/or reckless indifference to Plaintiff’s
+      rights, and its conduct warrants the imposition of punitive damages.
+   49. As a direct and proximate result of Defendant’s violation of Title VII, Plaintiff has suffered
+      the damages and losses set forth herein and has incurred attorney’s fees and costs.
+   50. Plaintiff is now suffering and will continue to suffer irreparable injury and monetary
+      damages as a result of Defendant’s discriminatory and retaliatory acts unless and until this
+      Court grants the relief request herein.
+   51. No previous application has been made for this relief requested herein.
+
+
+COUNT II-PHRA (Discrimination, Retaliation, Hostile Work Environment)
+   52. Plaintiff incorporates herein by reference the above paragraphs, as if set forth herein in
+      their entirety.
+   53. By committing the foregoing acts of discrimination and retaliation against Plaintiff,
+      Defendant has violated PHRA, without limitation, in connection with the following adverse
+      acts:
+          a. Subjecting Plaintiff to racial discrimination
+          b. Subjecting Plaintiff to a hostile work environment
+          c. Termination of his employment contract
+   54. Said violations were intentional and willful.
+   55. As a direct and proximate result of the Defendant’s violation of the PHRA, Plaintiff has
+      sustained the injuries, damages and losses set forth and has incurred attorneys’ fees and
+      costs.
+   56. Plaintiff is now suffering and will continue to suffer irreparable injuries and monetary
+      damages as a result of the Defendant’s discriminatory acts unless and until the Court grants
+      the relief requested herein.
+   57. Defendant acted intentionally, and with malice and/or reckless indifference to Plaintiff’s
+      rights, and its conduct warrants the imposition of punitive damages.
+
+
+
+
+                                                 8
+         Case 2:25-cv-03082          Document 1        Filed 06/17/25   Page 12 of 14
+
+
+
+
+   58. As a direct and proximate result of Defendant’s violation of PHRA, Plaintiff has suffered
+      the damages and losses set forth herein and has incurred attorney’s fees and costs.
+   59. Plaintiff is now suffering and will continue to suffer irreparable injury and monetary
+      damages as a result of Defendant’s discriminatory and retaliatory acts unless and until this
+      Court grants the relief request herein.
+   60. No previous application has been made for this relief requested herein.
+
+
+COUNT III-PFPO (Discrimination, Retaliation, Hostile Work Environment)
+   61. Plaintiff incorporates herein by reference the above paragraphs, as if set forth herein in
+      their entirety.
+   62. By committing the foregoing acts of discrimination and retaliation against Plaintiff,
+      Defendant has violated PFPO, without limitation, in connection with the following adverse
+      acts:
+          a. Subjecting Plaintiff to racial discrimination
+          b. Subjecting Plaintiff to a hostile work environment
+          c. Termination of his employment contract
+   63. Said violations were intentional and willful.
+   64. As a direct and proximate result of the Defendant’s’ violation of the PFPO, Plaintiff has
+      sustained the injuries, damages and losses set forth and has incurred attorneys’ fees and
+      costs.
+   65. Plaintiff is now suffering and will continue to suffer irreparable injuries and monetary
+      damages as a result of the Defendant’s discriminatory acts unless and until the Court grants
+      the relief requested herein.
+   66. Defendant acted intentionally, and with malice and/or reckless indifference to Plaintiff’s
+      rights, and its conduct warrants the imposition of punitive damages.
+   67. As a direct and proximate result of Defendant’s violation of PFPO, Plaintiff has suffered
+      the damages and losses set forth herein and has incurred attorney’s fees and costs.
+   68. Plaintiff is now suffering and will continue to suffer irreparable injury and monetary
+      damages as a result of Defendant’s discriminatory and retaliatory acts unless and until this
+      Court grants the relief request herein.
+   69. No previous application has been made for this relief requested herein.
+
+
+                                                9
+         Case 2:25-cv-03082        Document 1        Filed 06/17/25       Page 13 of 14
+
+
+
+
+                                                RELIEF
+       WHEREFORE, Plaintiff respectfully requests that this Court enter judgment in favor of
+       Plaintiff and against Defendant:
+              (a) declaring the acts and practices complained of herein to be a violation of Title
+                  VII.
+              (b) declaring the acts and practices complained of herein to be in violation of the
+                  PHRA.
+              (c) declaring the acts and practices complained of herein to be in violation of the
+                  PFPO.
+              (d) entering judgment against Defendant and in favor of Plaintiff in an amount to
+                  be determined.
+              (e) enjoing and restraining permanently the violation alleged herein.
+              (f) awarding compensatory damages to Plaintiff to make Plaintiff whole for all
+                  past and future lost earnings, benefits, and earning capacity, which Plaintiff
+                  has suffered and will continue to suffer as a result of Defendant’s
+                  discriminatory, retaliatory, and unlawful misconduct.
+              (g) awarding compensatory damages to Plaintiff for past and future emotional
+                  upset mental anguish, humiliation.
+              (h) awarding Plaintiff liquidated damages.
+              (i) awarding Plaintiff cost of this action, together with reasonable attorney’s fees.
+              (j) awarding punitive damages to Plaintiff.
+              (k) awarding Plaintiff such other damages as are appropriate under Title VII,
+                  PHRA and the PFPO.
+              (l) granting such other and further relief as this Court deems appropriate.
+
+
+
+Dated: June 15, 2025,                                The Law Office of Dana Y. King, LLC
+                                                     BY: /s/ Dana Y. King
+                                                     Dana Y. King, Esq. (329476)
+                                                     1515 Market Street, Suite 1200
+                                                     Philadelphia, PA 19102
+
+                                                10
+Case 2:25-cv-03082   Document 1    Filed 06/17/25     Page 14 of 14
+
+
+
+
+                                   610-773-9820
+                                   Attorney for Plaintiff, Aaron X. Smith
+
+
+
+
+                              11
+

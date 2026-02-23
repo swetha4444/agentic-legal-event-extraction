@@ -1,0 +1,971 @@
+Source URL: https://www.courtlistener.com/docket/67532616/1/1/us-equal-employment-opportunity-commission-v-bobs-discount-furniture/
+Title: Memorandum in Support of Application for Order to Show Cause – #1, Att. #1 in U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION v. BOB'S DISCOUNT FURNITURE, LLC (E.D. Pa., 2:23-cv-02461) – CourtListener.com
+
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 1 of 18
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+U.S. EQUAL EMPLOYMENT                )
+OPPORTUNITY COMMISSION,              )
+                                     )
+            Petitioner,              )              Civil Action No.
+                                     )
+      v.                             )
+                                     )
+BOB’S DISCOUNT FURNITURE, LLC, )
+                                     )
+            Respondent.              )
+_____________________________________)
+
+ MEMORANDUM IN SUPPORT OF APPLICATION FOR ORDER TO SHOW CAUSE
+     WHY ADMINISTRATIVE SUBPOENA SHOULD NOT BE ENFORCED
+
+       This case is before the Court on the application of the U.S. Equal Employment Opportunity
+
+Commission (“EEOC” or the “Commission”) for an order to show cause why an administrative
+
+subpoena should not be enforced. EEOC is currently conducting an investigation to determine
+
+whether Bob's Discount Furniture (“Company” or “Respondent”) has engaged in age
+
+discrimination in its company-wide layoffs and subsequent recall of employees in violation of the
+
+Age Discrimination in Employment Act of 1967, as amended, 29 U.S.C. §§ 621-34 (“ADEA”).
+
+The original impetus for the investigation was a charge of discrimination filed by a former
+
+Respondent employee under the ADEA alleging discrimination in Respondent’s failure to recall
+
+him from layoff in 2020, and pursuant to the Commission’s broad statutory authority to investigate
+
+employers on its own initiative independent of any charge allegations, EEOC subsequently
+
+broadened the focus of the investigation to encompass Respondent’s layoff and recall practices
+
+during and since September 1, 2019. In the course of its investigation, EEOC issued a subpoena
+
+seeking evidence relating to its investigation. Respondent has refused to produce a substantial
+
+portion of the requested evidence despite its affirmative duty under federal law to make such
+
+
+
+                                                1
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 2 of 18
+
+
+
+
+evidence available to the Commission upon demand, and that refusal has delayed and hampered
+
+the investigation. Accordingly, EEOC applies to this Court for an order compelling Respondent’s
+
+production of the relevant evidence in adherence to its duties under federal law.
+
+                                I. FACTUAL BACKGROUND
+
+       Charging Party William Gumhold filed a charge of discrimination with EEOC on April 7,
+
+2021, alleging that the Company subjected him to discrimination because of his age in violation
+
+of the ADEA. He specifically alleged that he and other older workers over the age of 65 had been
+
+discharged because of their ages as part of Respondent’s reduction-in-force during the COVID-19
+
+pandemic in 2020. See Exhibit A (Declaration of Karen McDonough, Deputy District Director) at
+
+¶ 4.a. & Attachment 1. EEOC subsequently served Respondent with notice of the charge and
+
+commenced investigation of whether the ADEA had been violated. See Exb. A at ¶ 4.c. &
+
+Attachment 3. On June 21, 2021, Respondent submitted a position statement denying age
+
+discrimination, stating that it furloughed and ultimately terminated Charging Party and hundreds
+
+of other employees in a nationwide reduction-in-force (“RIF” or “layoff”) necessitated by a
+
+business downturn during the pandemic. Id. at ¶ 4.c. & Attachment 4. In defense of the charge,
+
+Respondent cited its interpretation of nation-wide layoff statistics. Id. at Attachment 4, pg. 5 &
+
+n.2.
+
+       As part of its investigation of the parties’ contentions, including Respondent’s assertions
+
+concerning its nationwide RIF, and EEOC’s authority to evaluate employer ADEA compliance on
+
+its own initiative, on November 24, 2021, EEOC requested that Respondent produce certain
+
+relevant evidence by December 30, 2021. Id. at ¶ 4.e.& Attachment 5.
+
+       EEOC granted two extensions to Respondent, who submitted its response to some of
+
+EEOC’s requests on February 7, 2022 but failed to voluntarily produce requested information,
+
+
+
+                                                2
+             Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 3 of 18
+
+
+
+
+which includes: a data compilation identifying information about all persons who worked at any
+
+Respondent location nationwide from September 1, 2019 to November 24, 2024 and their layoff
+
+and recall status; all documents and communications regarding all processes and selection criteria
+
+for layoffs and/or Reduction(s) in Force; and all information and documents related to and
+
+describing the ranking system and key performance indicators used to inform and/or determine all
+
+Reductions in Force from September 1, 2019 to November 24, 2021. Id. at ¶ 4.f. & Attachment 6.
+
+        As a result, on February 15, 2023, the Director of the Philadelphia District Office issued
+
+and served upon Respondent a subpoena for the evidence identified above. Id. at ¶ 4.g. &
+
+Attachment 7. The subpoena directed Respondent to produce the evidence by March 1, 2022, and
+
+EEOC granted Respondent’s request for an extension to March 31, 2022. Id. at ¶ 4.i. Respondent
+
+provided some material to EEOC on March 31, 2022, April 27, 2022, May 2, 2022, and May 13,
+
+2022, but has failed to provide the following subpoenaed evidence:
+
+        (1) a report and transcription of company-wide employee data setting forth various
+
+identifying information regarding persons who were employed by Respondent for the time period
+
+September 1, 2019 to February 15, 2022 and information concerning their RIF and recall status,
+
+id. at ¶ 5.a.1;
+
+        (2) categories of relevant employee information that were previously requested but that
+
+Respondent refused to produce: middle initials; residence address information; job titles and work
+
+locations at time of hire; identification of whether the person was laid off between September 1,
+
+
+
+1
+  Respondent provided only employee information for Charging Party Gumhold’s Whitehall, PA store
+location in response to EEOC’s November 24, 2021 Request for Information. In response to EEOC’s
+February 15, 2022 Subpoena, Respondent stated in its April 27, 2022 Letter to EEOC that Charging Party’s
+region is limited to seven stores in Connecticut, one in Massachusetts, four in New York, and seven in
+Pennsylvania, and it provided information for Sales Associates only in those stores, despite EEOC’s
+requests for information for employees in all positions at all locations.
+
+
+                                                   3
+            Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 4 of 18
+
+
+
+
+2019 to February 15, 2022; any numerical or ranking assigned to the person for purposes of layoff
+
+or call back from layoff; job title at time of termination resulting from failure to call back from
+
+layoff; work location at time of termination resulting from failure to call back from layoff; job title
+
+at time of termination for any reason other than failure to call back from layoff (if applicable);
+
+work location at time of termination for any reason other than failure to call back from layoff (if
+
+applicable); social security number; present job title (if applicable); and present work location (if
+
+applicable), id. at ¶ 5.b. & Attachment 11;
+
+        (3) communications and instructions provided to Respondent employees about all
+
+processes and selection criteria for layoffs and/or reductions in force and for recalling employees
+
+from layoffs and/or reductions in force that Respondent has not already produced, id. at ¶ 5.c. 2;
+
+and
+
+        (4) information and documents relating to and describing the ranking system and key
+
+performance indicators used to inform and/or determine all reduction(s) in force, id. at ¶ 5.d.
+
+        To date, Respondent has failed to comply with the subpoena.
+
+                                          II. ARGUMENT
+
+        Respondent has no valid defense for failing to fully comply with the EEOC’s subpoena.
+
+EEOC subpoena-enforcement proceedings are summary in nature and involve only limited judicial
+
+review. EEOC v. Karuk Tribe Hous. Auth., 260 F.3d 1071, 1076 (9th Cir. 2001); EEOC v.
+
+Lockheed Martin Corp., 116 F.3d 110, 113 (4th Cir. 1997); EEOC v. Tire Kingdom, Inc., 80 F.3d
+
+449, 450 (11th Cir. 1996); see also Univ. of Med. & Dentistry of New Jersey v. Corrigan, 347 F.3d
+
+57, 64 (3d Cir. 2003) (“[J]udicial review of administrative subpoenas is ‘strictly limited.’")
+
+
+2
+ Respondent produced documents labeled BDF-Gumhold_00078-00115 on May 13, 2021 without formally
+stating to which requests they were responding, if any. Upon examination, these documents do not describe
+the instructions given to decision-makers concerning the RIF, the procedures to be used, or the selection
+criteria to be employed.
+
+                                                   4
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 5 of 18
+
+
+
+
+(citation omitted). To successfully petition a court to enforce an administrative subpoena, the
+
+Commission needs only to show that 1) the agency’s investigation has a legitimate purpose; 2) the
+
+evidence sought is relevant to that purpose; 3) the agency does not already possess the evidence
+
+requested; 4) the agency has complied with relevant administrative requirements; and 5) the
+
+demand is not “unreasonably broad or burdensome.” EEOC v. Kronos, Inc. (Kronos I), 620 F.3d
+
+287, 296 at n.4 (3d Cir. 2010) (citing Corrigan, 347 F.3d at 64); see also Wash. Suburban Sanitary
+
+Comm’n, 631 F.3d 174, 180 (4th Cir. 2011); Karuk Tribe, 260 F.3d at 1076; Lockheed Martin, 116
+
+F.3d at 113; Tire Kingdom, 80 F.3d at 450; EEOC v. Quad/Graphics, Inc., 63 F.3d 642, 645 (7th
+
+Cir. 1995). Once this showing has been made, a court will enforce the subpoena unless the
+
+Respondent can prove that the subpoena is unduly burdensome. See McLane Co. v. EEOC, 581
+
+U.S. 72, 77 (2017); Corrigan, 347 F.3d at 64; Quad/Graphics, 63 F.3d at 645; EEOC v. Am. &
+
+Efird Mills, Inc., 964 F.2d 300, 303 (4th Cir. 1992). As the following discussion illustrates,
+
+Respondent has no basis to challenge the validity of the subpoena, and, therefore, the subpoena
+
+should be enforced.
+
+               A. The investigation is valid and within the agency’s authority.
+
+       First, Congress has authorized EEOC to conduct compliance investigations under the
+
+ADEA. 29 U.S.C. § 626(a). Congress conferred broad investigatory powers upon the Commission
+
+in furtherance of its investigatory responsibilities, granting the EEOC the right to obtain access to
+
+records “relating to any matter under investigation.” 15 U.S.C. § 49 (incorporated in Section 9 of
+
+the Fair Labor Standards Act (FLSA), as amended, 29 U.S.C. § 209, and, through that section, in
+
+Section 7(a) of the ADEA, 29 U.S.C. § 626(a)).
+
+       Notably, while EEOC is investigating a pending charge of discrimination alleging class-
+
+wide age discrimination in layoffs and recall, EEOC’s ADEA investigation is not constrained by
+
+
+
+                                                 5
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 6 of 18
+
+
+
+
+the nature and scope of those allegations. The ADEA authorizes EEOC to conduct an investigation
+
+of whether any covered employer is in compliance with the ADEA without the need for any charge
+
+of discrimination. See 29 U.S.C. § 626(a) (incorporating Sections 9 and 11 of the Fair Labor
+
+Standards Act, 29 U.S.C. §§ 209 & 211); 29 C.F.R. § 1626.4 (citing Sections 6 and 7 of the
+
+ADEA).
+
+       Both the ADEA and Equal Pay Act (“EPA”) incorporate provisions of the FLSA,
+
+conferring upon EEOC the same authority granted to the U.S. Department of Labor (“DOL”), see
+
+29 U.S.C. § 626(b); Mount Lemmon Fire Dist. v. Guido, 139 S. Ct. 22, 26 (2018), authority that is
+
+broader than EEOC’s Title VII investigative authority, 42 U.S.C. § 2000e et seq. Unlike under
+
+Title VII, EEOC’s authority to investigate whether there have been ADEA and EPA violations is
+
+not constrained by the need for a valid charge. See 29 C.F.R. § 1620.30 (EPA); § 1626 (ADEA);
+
+see also EEOC v. Sidley Austin Brown & Wood, 315 F.3d 696, 701 (7th Cir. 2002) (EEOC’s
+
+authority under ADEA not circumscribed by charges filed); EEOC v. Merrill Lynch, Pierce,
+
+Fenner & Smith, 677 F. Supp. 918, 928 (N.D. Ill. 1987) (discussing broad scope of EEOC’s
+
+authority under EPA).
+
+       Section 11(a) of the FLSA, as incorporated by Section 7(a) of the ADEA, provides EEOC
+
+with the following authority:
+
+       [To] investigate and gather data regarding the wages, hours, and other conditions
+       and practices of employment[,] . . . enter and inspect such places and such records
+       (and make such transcriptions thereof), question such employees, and investigate
+       such facts, conditions, practices, or matters as [the agency] may deem necessary or
+       appropriate to determine whether any person has violated any provision of this
+       chapter, or which may aid in the enforcement of the provisions of this chapter.
+
+29 U.S.C. § 211(a) (incorporated by reference in 29 U.S.C. § 626(a)).
+
+       Thus, like DOL’s Wage and Hour Division, EEOC is authorized to investigate employers
+
+to evaluate whether they are in compliance with the ADEA without a charge, complaint or any
+
+                                               6
+            Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 7 of 18
+
+
+
+
+particularized suspicion that the law is being violated. See id; 29 C.F.R. § 1626.15(a); 29 C.F.R. §
+
+1627.6 (“All records required by this part to be kept shall be made available for inspection and
+
+transcription by authorized representatives of the Commission [. . .]”); United States v. Morton
+
+Salt Co., 338 U.S. 632, 642-43 (1950) (stating FTC “can investigate merely on suspicion that the
+
+law is being violated, or even just because it wants assurance that it is not.”); Okla. Press Publ’g
+
+Co. v. Walling, 327 U.S. 186, 208-09 (1946); Merrill Lynch, 677 F. Supp. at 927-28.
+
+       The investigation seeks to determine if Respondent has engaged in age discrimination; such
+
+an investigation has a legitimate purpose within the agency’s statutory authority, and thus, the first
+
+prong of the test has been satisfied.
+
+               B. The information sought is relevant to the investigation.
+
+       Next, the information sought by the subpoena is relevant to the Commission’s
+
+investigation. The concept of relevancy during an EEOC investigation is broader than relevancy
+
+during litigation. By incorporation, Section 7(a) of the ADEA grants the EEOC access to records
+
+“relating to any matter under investigation.” 15 U.S.C. § 49 (incorporated in Section 9 of the Fair
+
+Labor Standards Act (FLSA), as amended, 29 U.S.C. § 209, and, through that section, in Section
+
+7(a) of the ADEA, 29 U.S.C. § 626(a)). The statute grants the EEOC “broad investigatory
+
+authority, independent of the proper filing of an employee charge.” Am. & Efird Mills, 964 F.2d
+
+at 303. When reviewing this broad investigatory authority, courts will enforce an administrative
+
+subpoena “if the material subpoenaed touches a matter under investigation.” EEOC v. Elrod, 674
+
+F.2d 601, 613 (7th Cir. 1982) (citation and internal quotation marks omitted); see also Kronos I,
+
+620 F.3d at 296 (citing EEOC v. Shell Oil Co., 466 U.S. 54, 68–69 (1984)) (holding, with regard
+
+to the ADA, that “The relevance requirement is not particularly onerous. Courts have given broad
+
+
+
+
+                                                  7
+            Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 8 of 18
+
+
+
+
+construction to the term ‘relevant’ and have traditionally allowed the EEOC access to any material
+
+that ‘might cast light on the allegations against the employer.’”).
+
+        It is undeniable that the requested information “touches a matter under investigation,”
+
+Elrod, 674 F.2d at 613. EEOC requested information regarding Respondent employees,
+
+encompassing both terminations (including the reductions-in-force) and hiring (i.e., any persons
+
+who may have replaced workers subject to RIF). Respondent has refused to produce such data for
+
+any regions other than the single region where Charging Party Gumhold worked. Respondent has
+
+also unilaterally restricted its production to only persons in Sales Associate positions in 2020,
+
+disregarding EEOC’s request for evidence production concerning employees in all positions
+
+during the time period September 1, 2019 to February 15, 2022.
+
+        The requested information, including the identity, dates of birth, and contact information
+
+of such employees clearly touches the issue under investigation – whether Respondent subjected
+
+workers to age discrimination in its RIF, recall and replacement hiring practices. Information about
+
+employee terminations, recalls, positions held, birthdates and similar employee data required by
+
+Subpoena Request No. 8 will enable statistical analyses of Respondent’s RIF and recall patterns
+
+to determine whether there were age-based disparities in those practices.3 Such statistical evidence
+
+is highly relevant to an investigation of whether an employer is engaged in age-discriminatory lay-
+
+off and recall practices, as well as various other forms of discrimination practice. See, e.g.,
+
+Seasonwein v. First Montauk Sec. Corp., 189 F. App'x 106, 110 (3d Cir. 2006) (holding in age
+
+discrimination case that “[c]ourts have long recognized that statistical evidence can be used in
+
+
+
+3
+   Indeed, Respondent itself conceded the relevancy of its nationwide employee data to EEOC’s
+investigation, placing that evidence at issue when it cited to the data, including the age of employees and
+the incidence of layoffs, in its Position Statement submitted to EEOC during the investigation. Attachment
+4.
+
+                                                    8
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 9 of 18
+
+
+
+
+disparate treatment as well as disparate impact cases”) (citations omitted); Hormann v. NW Sign
+
+Indus., Inc., No. CIV.A. 08-CV-3913JEI, 2009 WL 2751027, at *3 (D.N.J. Aug. 26, 2009)
+
+(analyzing and finding employee reduction-in-force age data evidence sufficient to raise a jury
+
+question on whether the employer retained sufficiently younger employees in disparate treatment
+
+age discrimination case). Request No. 8 will also provide the Commission with the identities and
+
+contact information of persons with relevant knowledge of whether Respondent has engaged in
+
+age-discriminatory RIF, recall and related replacement hiring practices, such as witnesses who
+
+were affected by the RIF, those unaffected by the RIF, those who were or were not recalled from
+
+the RIF, and those who witnessed or implemented the RIF and recalls. Request No. 8 also
+
+encompasses information about employees chosen for hire in the affected jobs after the RIF, and
+
+information about the age composition of that cohort of workers and the jobs for which they were
+
+hired, which is highly probative of whether Respondent’s motivation for its RIF decisions and
+
+recall decisions, i.e., whether it engaged in a practice of replacing older workers subject to RIF
+
+with younger workers.
+
+       EEOC has also requested production of the records described supra, including
+
+communications and instructions provided to Respondent employees about processes and selection
+
+criteria for layoffs and/or reductions-in-force; processes and selection criteria for recalling
+
+employees from layoffs and/or reductions-in-force; and information and documents relating to and
+
+describing the ranking system and key performance indicators used to inform and/or determine all
+
+reduction(s) in force. Id. at Attachment 7, Requests No. 10 & 11. EEOC’s Requests No. 10 and
+
+11 are tailored to obtain evidence to determine whether the Respondent has unlawfully discharged
+
+older workers from the company. The content of such information obviously touches the heart of
+
+Respondent’s layoffs and how the alleged employment practice may have been implemented. See,
+
+
+
+                                                9
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 10 of 18
+
+
+
+
+e.g., Smith v. City of Jackson, Miss., 544 U.S. 228, 241 (2005) (noting in a disparate impact case
+
+the need to identify the specific employment test, requirement, or practice at issue that leads to the
+
+statistical disparity based on age); First Montauk Sec. Corp., 189 F. App'x at 109 (placing
+
+employer’s explanations of how it determined which workers would be selected for layoff at issue
+
+in disparate impact analysis).
+
+       As discussed above, although the requested evidence is relevant to the charge of
+
+discrimination that originally triggered EEOC’s investigation, Respondent has no legal basis to
+
+challenge the subpoena as irrelevant to that charge, as EEOC is authorized by statute to investigate
+
+all aspects of Respondent’s ADEA compliance regardless of whether any charge has been filed or
+
+whether there is any reason to believe the ADEA has been violated. See discussion supra pp. 6-7,
+
+7-8.
+
+       That authority, untethered to any charge-filing requirement, necessarily grants EEOC
+
+authority to define the relevant temporal scope of an ADEA investigation. And even where a
+
+charge is required for EEOC to conduct an investigation, such as a Title VII proceeding, the federal
+
+courts have consistently acknowledged EEOC’s discretion and authority to obtain evidence for
+
+multi-year periods far lengthier than that at issue in this case. See, e.g., Kronos I, 620 F.3d at 299
+
+(holding that “[t]he District Court also too narrowly circumscribed the subpoena when it instituted
+
+the temporal limitation of January 1, 2006 through May 31, 2007” because in part “[e]vidence
+
+related to the employment practice under investigation prior to and after [the] charge [of
+
+discrimination] provides valuable context that may assist the EEOC in determining whether
+
+discrimination occurred.”); EEOC v. Randstad, 685 F.3d 433, 451 (4th Cir. 2012) (concluding that
+
+“the thirteen-office, five-year scope of the subpoena was not an unreasonable exercise of the
+
+EEOC’s discretion”); EEOC v. Roadway Express, Inc., 261 F.3d 634, 641-42 (6th Cir. 2001)
+
+
+
+                                                 10
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 11 of 18
+
+
+
+
+(allowing EEOC to seek information for a time period beyond that specifically alleged in the
+
+charge, including information after the filing of the charge); EEOC v. Ford Motor Credit Co., 26
+
+F.3d 44, 47-48 (6th Cir. 1994) (appellate court enforced EEOC subpoena for documents going
+
+back 12½ years as to charging party; limited documents regarding all other employees to three
+
+years and 300 days before charge; older documents regarding all employees could be requested
+
+later if initial investigation established their relevance).
+
+        In the instant case, EEOC has limited the temporal scope of the subpoena to an
+
+approximately two-and-a-half-year period from September 1, 2019 to February 15, 2022, which
+
+encompasses Respondent’s layoff and recall period and a reasonable timeframe pre- and post-
+
+dating that period. Evidence for that timeframe will enable the Commission to identify the age
+
+composition of Respondent’s employees affected by its layoff and recall, as well as the age
+
+composition of its workforce before and after the layoff and hiring patterns after its layoff. Such
+
+evidence is plainly relevant to investigation of whether Respondent has complied with the ADEA.
+
+        Thus, Respondent’s decisions to unilaterally provide a narrower scope of information than
+
+EEOC requested were improper. For example, Respondent first unilaterally produced only
+
+employee information for Charging Party’s Whitehall, PA store in response to EEOC’s RFI, and
+
+omitted several data fields that EEOC requested. Then, after noting Respondent’s deficient
+
+response and subpoenaing the nationwide employee information, Respondent unilaterally decided
+
+to provide only employee information in Charging Party’s region and provided only information
+
+for Sales Associates instead of employees in all positions, and provided only information for 2020,
+
+not the period requested by EEOC, which also includes part of 2019, 2021, and 2022. Respondent’s
+
+conduct flagrantly disregards EEOC’s authority and discretion about the conduct of the
+
+investigation. As the Supreme Court stated in University of Pennsylvania v. EEOC, “‘[A]n alleged
+
+
+
+                                                   11
+          Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 12 of 18
+
+
+
+
+perpetrator of discrimination cannot be allowed to pick and choose the evidence which may be
+
+necessary for an agency investigation.’” 493 U.S. 182, 193 (1990) (quoting EEOC v. Franklin &
+
+Marshall Coll., 775 F.2d 110, 116 (3d Cir. 1985)).
+
+       In that regard, EEOC notes that even in the absence of any subpoena, under the ADEA and
+
+EEOC record-keeping regulations promulgated pursuant thereto, Respondent has an affirmative
+
+legal duty to produce to EEOC, upon demand, the categories of evidence requested in this matter.
+
+The ADEA provides that the Commission has authority to “make investigations and require the
+
+keeping of records necessary or appropriate for the administration of [the ADEA] in accordance
+
+with the powers and procedures provided in sections 209 and 211 of [the Fair Labor Standards Act
+
+(FLSA), 29 U.S.C. §§ 209 & 211].” 29 U.S.C. § 626(a).
+
+       In furtherance of the Commission’s ADEA investigatory authority, Section 11(c) of the
+
+FLSA, also incorporated by Section 7(a) of the ADEA, provides that every employer covered by
+
+the statute (1) “shall make, keep, and preserve” records of its employees’ wages, hours, and other
+
+conditions and practices of employment; and (2) “shall make such reports therefrom to the
+
+Administrator as [it] shall prescribe by regulation or order as necessary or appropriate for the
+
+enforcement of the provisions of this chapter or the regulations or orders thereunder.” 29 U.S.C. §
+
+211(c) (incorporated by reference in 29 U.S.C. § 626(a)).
+
+       EEOC’s ADEA record-keeping, inspection and reporting regulations at Part 1627 were
+
+promulgated pursuant to the Commission’s Section 7(a) authority. 29 C.F.R. § 1627.1. EEOC’s
+
+regulations at 29 C.F.R. § 1627.1-1627.11 set forth the ADEA record keeping requirements, which
+
+include but are not limited to (1) making and keeping three years of payroll or other records for
+
+each employee which contain: Name; Address; Date of birth; Occupation; Rate of pay, and
+
+Compensation earned each week; and (2) retaining employment or personnel records made,
+
+
+
+                                                12
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 13 of 18
+
+
+
+
+obtained or used in the regular course of business, including records “related to” “layoff” and
+
+“discharge,” for at least one year or until final disposition of the Section 7 proceeding to which
+
+they relate. 29 C.F.R. § 1627.1-1627.11. The regulatory language is clear that any records an
+
+employer is required to maintain or preserve under the ADEA/FLSA “shall be available for
+
+inspection and transcription by [EEOC] or a duly authorized and designated representative.” 29
+
+C.F.R. § 1627.6. The scope of any ADEA records request need only be reasonably relevant to
+
+examining whether the Act has been violated in any manner. See, e.g., Morton Salt Co., 338 U.S.
+
+at 652; Okla. Press,, 327 U.S. at 208; Detweiler Bros., 157 F.2d at 843.
+
+       EEOC may also require an employer to compile transcriptions and make reports of
+
+information set forth in any records that it is required to maintain under the ADEA/FLSA. See 29
+
+U.S.C. § 211(c) (“Every employer . . . shall make such reports therefrom to [EEOC] as [it] shall
+
+prescribe by regulation or order as necessary or appropriate for the enforcement of the provisions
+
+of this chapter . . .”); 29 C.F.R. § 1627.7 (Entities subject to the Act “shall make such extension,
+
+recomputation or transcriptions of his records and shall submit such reports concerning actions
+
+taken and limitations and classifications of individuals set forth in records as the Commission or
+
+its authorized representative may request in writing.”); see also 29 C.F.R. §§ 516.7 & 516.8; 29
+
+C.F.R. § 1620.30(a); 29 C.F.R. § 1620.32(a) (similar regulations allowing transcription of records
+
+under the FLSA and EPA). Each employer “shall make such extension, recomputation, or
+
+transcription of the records” and “shall submit to [EEOC] such reports concerning persons
+
+employed and the wages, hours, and other conditions and practices of employment set forth in the
+
+records as [EEOC] or a duly authorized and designated representative may request in writing.”
+
+EEOC office directors and their designees are authorized to require submission of reports,
+
+
+
+
+                                                13
+            Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 14 of 18
+
+
+
+
+recomputations and transcriptions of records under 29 C.F.R. § 1627.7. 29 C.F.R. § 1626.15(a)(4)
+
+& (e).
+
+         EEOC is authorized by ADEA Section 7(a) to institute actions to compel access to records
+
+and submission of reports under the aforementioned record-keeping and reporting regulations. See
+
+29 U.S.C. § 626(a) (incorporating by reference authority conferred by 29 U.S.C. §§ 211(c) & 217).
+
+The federal courts have long-held that EEOC and DOL possess authority to compel such access
+
+and reporting and obtain injunctions of employer non-compliance under the materially identical
+
+EPA and FLSA regulations. See Merrill Lynch, 677 F. Supp. at 920-21, 932 (granting summary
+
+judgment to EEOC in EPA case brought under 29 U.S.C §§ 211(c) & 217 of the FLSA, ordering
+
+employer to produce a report of equal pay-related information requested by EEOC Acting District
+
+Director); Walsh v. Elder Resource Mgmt., Inc., No. 2:19-CV-00546-CCW, 2022 WL 3134085,
+
+at *14 (W.D. Pa. Aug. 5, 2022) (finding employer failure to reorganize records and aggregate
+
+information requested by DOL violated Part 516 recordkeeping requirements); Reich v. RPT PRN,
+
+LLC, No. SA CV96–485–AHS (EEX), 1996 WL 728159, at *5 (C.D. Cal. Oct. 30, 1996) (holding
+
+failure of defendant to produce payroll and time records pursuant to DOL written request
+
+constituted violation of FLSA Section 11(c) and regulation at 29 C.F.R. § 516.7 requiring
+
+employer to grant DOL access to records), aff'd sub nom., Herman v. RPT PRN, LLC, 172 F.3d 56
+
+(9th Cir. 1999); Marshall v. New Floridian Hotel, Inc., No. 77-1028-Civ, 1979 WL 1991, at *10,
+
+12 (S.D. Fla. Aug. 29, 1979) (enjoining employer failure to grant access to wage and hour records
+
+under 29 C.F.R. § 516.7(b)).
+
+         Respondent has failed to produce evidence described, supra. These requests are subject to
+
+Respondent’s transcription duty under Section 1627.7 and reporting and record-keeping duties
+
+under Section 1627.3 and to which EEOC is entitled to access under Section 1627.6.
+
+
+
+                                                14
+              Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 15 of 18
+
+
+
+
+          Thus, the information is relevant to the investigation, Respondent has a pre-existing legal
+
+duty to produce it to EEOC upon request, and therefore, the subpoena should be enforced.
+
+                   C. Respondent has not produced and EEOC does not already possess the
+                   evidence requested.
+
+          EEOC has not already received the evidence it seeks in the subpoena and does not
+
+otherwise possess the evidence sought in the subpoena. See Exb. A at ¶ 5. Accordingly, EEOC has
+
+demonstrated this element is satisfied.
+
+                   D. The Commission has fulfilled all procedural requirements.
+
+          Next, the ADEA does not set forth any special procedures that the EEOC must follow
+
+before it may issue a subpoena or seek judicial enforcement of such a subpoena. “[T]he EEOC’s
+
+role in combating age discrimination is not dependent on the filing of a charge; the agency may
+
+receive information concerning alleged violations of the ADEA ‘from any source,’ and it has
+
+independent authority to investigate age discrimination.” Gilmer v. Interstate/Johnson Lane Corp.,
+
+500 U.S. 20, 28 (1991). See also Sidley Austin Brown & Wood, 315 F.3d at 701 (unlike Title VII,
+
+existence of a charge not required under ADEA); Tire Kingdom, 80 F.3d at 451-52 & n.2 (11th
+
+Cir. 1996) (same); Am. & Efird Mills, 964 F.2d at 304 (same); 29 C.F.R. § 1626.4 (stating that the
+
+Commission may conduct investigations “on its own initiative”); 29 C.F.R. § 1626.13 (“Because
+
+the Commission has independent investigative authority, see § 1626.4, it may continue any
+
+investigation and may secure relief for all affected persons notwithstanding a request by a charging
+
+party to withdraw a charge.”).
+
+          Moreover, the subpoena complies with the EEOC’s regulation governing the issuance and
+
+contents of ADEA subpoenas, 29 C.F.R. § 1626.16(b).4 The subpoena was issued by an
+
+
+
+4
+    29 C.F.R. § 1626.16(b) provides, in relevant part:
+
+
+                                                         15
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 16 of 18
+
+
+
+
+appropriate authority and contains all the information specified in the regulation. See Exb. A at ¶
+
+4.g. & Attachment 7. This element is, therefore, satisfied.
+
+                  E. EEOC’s subpoena is not unreasonably broad and compliance with the
+                  subpoena will not impose an undue burden on Respondent.
+
+       The subpoena must be enforced unless Respondent demonstrates that the subpoena is
+
+unreasonably broad or compliance with the subpoena would threaten the normal operation of the
+
+business. See Kronos I, 620 F.3d at 296, n.4; Quad/Graphics, Inc., 63 F.3d at 648; Randstad, 685
+
+F.3d at 442. Accord EEOC v. Citicorp Diners Club, Inc., 985 F.2d 1036, 1040 (10th Cir. 1993);
+
+EEOC v. Maryland Cup Corp., 785 F.2d 471, 476-79 (4th Cir. 1986); EEOC v. Sunoco, Inc. (R &
+
+M), No. CIV.A. 08-MC-145, 2009 WL 197555, at *6 (E.D. Pa. Jan. 26, 2009); cf. EEOC v. Ford
+
+Motor Credit Co., 26 F.3d 44, 47 (6th Cir. 1994) (without explicitly addressing the standard for
+
+burdensomeness, court stated a balancing test—“Essentially, this court’s task is to weigh the likely
+
+relevance of the requested material to the investigation against the burden to Ford of producing
+
+the material.”—in a case in which the court was focused on the relevant time period for EEOC’s
+
+investigation).
+
+       Respondent carries a “difficult burden” in this regard. EEOC v. United Air Lines, Inc., 287
+
+F.3d 643, 653 (7th Cir. 2002). “There is a presumption in favor of requiring an employer’s
+
+compliance with a subpoena when the Commission inquires into legitimate matters of public
+
+interest.” EEOC v. Konica Minolta Bus. Solutions U.S.A., Inc., 639 F.3d 366, 371 (7th Cir. 2011).
+
+And conclusory allegations that it would be burdensome to respond to the subpoena are not
+
+sufficient to meet the Respondent’s burden. Id.; United Air Lines, 287 F.3d at 653.
+
+
+       The power to issue subpoenas has been delegated by the Commission, pursuant to section 6(a) of
+       the Act, to the General Counsel, the District Directors, . . . or their designees. The subpoena shall
+       state the name, address and title of the issuer, identify the person or evidence subpoenaed, the name
+       of the person to whom the subpoena is returnable, the date, time and place that testimony is to be
+       given or that documents are to be provided or access provided.
+
+                                                   16
+           Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 17 of 18
+
+
+
+
+        The federal courts have routinely rejected claims of undue burden in circumstances more
+
+compelling than those presented here.
+
+        For instance, in EEOC v. Maryland Cup Corp., 785 F.2d 471 (4th Cir. 1986), the Fourth
+
+Circuit held that it was not unduly burdensome to require the company to spend $75,000 to compile
+
+information given that the employer did not show that this cost was burdensome in light of normal
+
+operating costs or that gathering the information would threaten operations. Id. at 479.
+
+        Similarly, in EEOC v. Citicorp Diners Club, Inc., 985 F.2d 1036 (10th Cir. 1993), the
+
+Tenth Circuit rejected an assertion by the employer that compliance with the subpoena was unduly
+
+burdensome because it would take two full-time employees six months. Id. at 1040.
+
+        EEOC’s requests in the instant case are not burdensome. Indeed, Respondent has cited in
+
+summary fashion its own nationwide reduction-in-force data and has provided some of the
+
+requested data for one region of its operations, suggesting that the company must have such
+
+information readily available. See Exb. A at Attachment 4. Further, Respondent has produced a
+
+list of the data fields used within its store payroll and personnel data software vendor, Workday,
+
+suggesting that Respondent possesses data fields responsive to EEOC’s requests that can be
+
+exported for production. Id. at Attachment 9, Response to Request No. 12. Finally, Respondent
+
+has significant financial resources, as it is considered one of the top ten largest U.S. furniture chains
+
+with 169 locations in 24 states and over $2 billion in annual sales.5 Respondent has the burden to
+
+establish that compliance would entail an unreasonable burden, and it cannot do so.
+
+
+
+
+5
+  https://www.mybobs.com/stores (Last visited May 23, 2023); https://blog.mybobs.com/bobs-discount-
+furniture-recognized-as-top-10-u-s-furniture-store-for-third-consecutive-year/ (Last visited May 23, 2023);
+https://blog.mybobs.com/bobs-discount-furniture-appoints-william-g-bill-barton-as-ceo/ (Last visited May
+23, 2023); https://blog.mybobs.com/bobs-discount-furniture-career-exploration-day-with-urban-league-of-
+greater-hartford/ (Last visited May 23, 2023).
+
+                                                    17
+          Case 2:23-cv-02461 Document 1-1 Filed 06/27/23 Page 18 of 18
+
+
+
+
+                                     III. CONCLUSION
+
+       For the foregoing reasons, the Court should enforce the subject administrative subpoena.
+
+The subpoena seeks evidence relevant to an investigation well-within EEOC’s statutory authority
+
+under the ADEA, and Respondent cannot establish that complying with the subpoena would be
+
+unduly burdensome. Accordingly, EEOC respectfully requests that the Court enter the
+
+accompanying proposed Order to Show Cause, and after giving Respondent an opportunity to be
+
+heard, enter an order enforcing the subpoena.
+
+                                            Respectfully submitted,
+
+                                            s/ Ronald L. Phillips
+                                            RONALD L. PHILLIPS
+                                            ASSISTANT REGIONAL ATTORNEY
+                                            Ohio I.D. # 0070263
+                                            (410) 801-6714
+                                            ronald.phillips@eeoc.gov
+
+                                            s/ Casey M. Shea
+                                            CASEY M. SHEA
+                                            SENIOR TRIAL ATTORNEY
+                                            MD Bar No. 1706200165
+                                            (Pro Hac Vice Application pending)
+                                            (410) 801-6728
+                                            casey.shea@eeoc.gov
+
+                                            EEOC – Baltimore Field Office
+                                            George H. Fallon Federal Building
+                                            31 Hopkins Plaza, Suite 1432
+                                            Baltimore, Maryland 21201
+                                            (443) 992-7880 (facsimile)
+
+                                            Counsel for Petitioner U.S. Equal Employment
+                                            Opportunity Commission
+
+
+
+
+                                                18
+

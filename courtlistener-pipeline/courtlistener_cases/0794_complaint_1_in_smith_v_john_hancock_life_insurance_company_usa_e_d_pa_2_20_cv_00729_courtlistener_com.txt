@@ -1,0 +1,910 @@
+Source URL: https://www.courtlistener.com/docket/16830786/1/smith-v-john-hancock-life-insurance-company-usa/
+Title: Complaint – #1 in SMITH v. JOHN HANCOCK LIFE INSURANCE COMPANY USA (E.D. Pa., 2:20-cv-00729) – CourtListener.com
+
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 1 of 18
+CIVIL COVER SHEET
+
+JS 44 (Rev 06/17)
+
+The JS 44 civil cover sheet and the information cont
+
+ained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (Sei INSTRUCTIONS ON NENT PAGI OF THIS FORM)
+
+I. (a) PLAINTIFFS
+ELLA SMITH
+
+(b) County of Residence of First Listed Plaintit?
+
+PHILADELPHIA
+
+(EXCEPT IN U.S. PLAINT IED CASES)
+
+c) Attorneys (Miri Name. Address, and Telephone Number)
+Si
+
+ney L. Gold, Esquire
+
+Sidney L. Gold & Assoc.,
+
+P.C.
+
+1835 Market St., Suite 515 Phila., PA 19103 215-569-1999
+
+DEFENDANTS
+
+NOTE:
+
+Attorneys (/f Known)
+
+County of Residence of First Listed Defendant
+
+JOHN HANCOCK LIFE INSURANCE COMPANY USA
+
+SUFFOLK
+
+(IN U.S. PLAINTIF LE CASES ONLY)
+
+IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+THE TRACT OF LAND INVOLVED
+
+II. BASIS OF JURISDICTION (Place an “X" in One Box Only)
+
+01. US, Government
+Plainu ft
+O02 US Government
+
+Defendant
+
+A3
+
+Federal Question
+
+(tS. Government Not a Party)
+
+0 4 Diversity
+
+(Indicate Citizenship of Parties in trent HL)
+
+(For Diversity Cases Only)
+
+II. CITIZENSHIP OF PRINCIPAL PARTIES (Place an "N" in One Box for Plaintiff
+
+and One Box for Defemtant)
+
+PTF DEF PTF DEF
+Citizen of This State xX 1 QO | Incorporated or Principal Place gao4 o4
+of Business In This State
+Citizen of Another State a2 QO 2 Incorporated and Principal Place O5 &s
+of Business In Another State
+Citizen or Subject ofa 03 O 3 Foreign Nation go6 O6
+
+Foreign Country
+
+IV. NATURE OF SUIT (Mace an".
+
+Ni One Box Cn
+
+Click here for: Nature o
+far
+
+Suit Code Deseriptions
+
+L_ CONTRACT TORTS FORFEITURE/PENALTY BANKRUPTCY OTHER STATUTES
+7 110 Insurance PERSONAL INJURY PERSONAL INJURY | 625 Drug Related Seizure O 422 Appeal 28 USC 158 0) 375 False Claims Act
+120 Marine O 310 Airplane O 365 Personal Injury - of Property 21 USC 881 [0 423 Withdrawal O 376 Qui Tam (31 USC
+C) 130 Miller Act © 315 Airplane Product Product Liability O 690 Other 28 USC 157 3729(a))
+OF 140 Negotiable Instrument Liability 0 367 Health Care/ 0 400 State Reapportionment
+1 150 Recovery of Overpayment | 320 Assault. Libel & Pharmaceutical PROPERTY RIGHTS GC 410 Antitrust
+& Enforcement of Judgment Slander Personal Injury OD 820 Copyrights O 430 Banks and Banking
+O [Si Medicare Act G 330 Federal Employers” Product Liability O 830 Patent O 450 Commerce
+152 Recovery of Defaulted Liability C1 368 Asbestos Personal O 835 Patent - Abbreviated 1 460 Deportation
+Student Loans O 340 Marine Injury Product New Drug Application {0 470 Racketeer Influenced and
+(Excludes Veterans) 0) 345 Marine Product Liability O 840 Trademark Cortupt Organizations
+O 153 Recovery of Overpayment Liability PERSONAL PROPERTY LABOR SOCIAL SECURITY 10 480 Consumer Credit
+of Veteran's Benefits 0 350 Motor Vehicle O 370 Other Fraud O 710 Fair Labor Standards O 861 HIA (139571) O 490 Cable/Sat TV
+O 160 Stockholders’ Suits 0 355 Motor Vehicle O 371 Truth in Lending Act 0 862 Black Lung (923) 01 850 Securities/Commodities/
+0 190 Other Contract Product Liability O 380 Other Personal 0 720 Labor/Management 0 863 DIWC/DIWW (405(p)) Exchange
+1 195 Contract Product Liability | 360 Other Personal Property Damage Relations C1 864 SSID Title XVI O 890 Other Statutory Actions
+1 196 Franchise Injury O 385 Property Damage O 740 Railway Labor Act 0 865 RSI (405(g)) GO 891 Agricultural Acts
+0 362 Personal Injury - Product Liability O 751 Family and Medical CG 893 Environmental Matters
+Medical Malpractice Leave Act O 895 Freedom of Informauon
+I REAL PROPERTY CIVIL RIGHTS PRISONER PETITIONS |] 790 Other Labor Litigation FEDERAL TAX SULTS Act
+O 210 Land Condemnation O 440 Other Civil Rights Habeas Corpus: 791 Employee Retirement 870 Taxes (U.S. Plaintiff 0 896 Arbitration
+O 220 Foreclosure 0 441 Voting 463 Alien Detainee Income Security Act or Defendant) 7 899 Administrative Procedure
+230 Rent Lease & Ejectment (X 442 Employment 510 Motions to Vacate O 871 IRS—Third Party Act/Review or Appeal of
+J 240 Torts to Land © 443 Housing/ Sentence 26 USC 7609 Agency Decision
+O 245 Tort Product Liability Accommodations 530 General OF 950 Constitutionality of
+O 290 All Other Real Property © 445 Amer. w/Disabilities = 535 Death Penalty IMMIGRATION State Statutes
+
+Employment
+
+446 Amer. w/Disabilities -
+Other
+
+O 448 Education
+
+Other:
+
+540 Mandamus & Other
+
+$50 Civil Rights
+
+555 Prison Condition
+
+560 Civil Detainee -
+Conditions of
+Confinement
+
+ODOO00 00 00
+
+O 462 Naturalization Application
+465 Other Immigration
+Actions
+
+V. ORIGIN (Place an "X" in One Box Only)
+
+MI Original
+
+Proceeding
+
+O 2 Removed from
+State Court
+
+Oo 3
+
+Remanded from o4
+
+Appellate Court
+
+Reinstated or © 5 Transferred from o6 Multidistri
+Reopened Another District Litigation -
+(specif) Transfer
+
+O 8 Multidistrict
+Litigation -
+Direct File
+
+ct
+
+VI. CAUSE OF ACTION
+
+Cite the U.S. Civil Statute under which you are filing (Do aor cite jurisdictional statutes untess diversity):
+
+ADA, EMLA, PHRA
+
+Brief description of cause:
+
+VII. REQUESTED IN
+COMPLAINT:
+
+{J} CHECK IF THIS
+
+IS A CLASS ACTION
+
+UNDER RULE 23, F_R.Cv.P
+
+DEMAND $
+
+150,000.00 \nexeess
+
+CHECK YES only i
+JURY DEMAND:
+
+f demanded in complaint:
+Yes ONo
+
+VIII, RELATED CASE(S)
+
+IF ANY
+
+(Sve instructions):
+
+JUDGE __ DOCKET NUMBER -
+DATE “A SIGNATURE OF ATTORNEY OF RECORD
+02/07/2020 / / SIDNEY L. GOLD, ESQUIRE
+FOR OFFICE USE ONLY é
+RECEIPT # AMOUNT APPLYING IFP JUDGE MAG. JUDGE
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 2 of 18
+
+JS 44 Reverse (Rev. 06/17)
+
+INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974. is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)  Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and
+then the official, giving both name and title.
+
+(b) County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+
+(c) Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, Jist them on an attachment, noting
+in this section "(see attachment)".
+
+I. Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States. an amendment
+to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party. the U.S. plaintiff or defendant code takes
+precedence. and box | or 2 should be marked.
+Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332. where parties are citizens of different states. When Box 4 is checked. the
+citizenship of the different parties must be checked. (See Section HI below; NOTE: federal question actions take precedence over diversity
+cases.)
+
+III. Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+section for each principal party.
+
+IV. Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+that is most applicable. Click here for: Natuée of Suit Code Deseriptions.
+
+V. Origin. Place an "X" in one of the seven boxes.
+Original Proceedings. (1) Cases which originate in the United States district courts.
+Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+When the petition for removal is granted, check this box.
+Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+date.
+Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing dale.
+Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+multidistrict litigation transfers.
+Multidistrict Litigation — Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+Section 1407.
+Multidistrict Litigation — Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+changes in statue.
+
+Vi. Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service
+
+VII. Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+
+Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIIE. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 3 of 18
+
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DESIGNATION FORM
+
+(to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+Address of Plaintiff: 6234 Pine Street, Philadelphia, PA 19143
+
+Address of Defendant: 200 Clarendon Street, Boston, MA 02116
+6234 Pine Street, Philadelphia, PA 19143
+
+Place of Accident, Incident or Transaction: |
+
+RELATED CASE, IF ANY:
+
+Case Number: _ Judge: Date Terminated;
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+|, Is this case related to property included in an earlier numbered suit pending or within one year Yes [| nol ¥|
+previously terminated action in this court?
+
+N
+
+Does this case involve the same issue of fact or grow out of the same transaction as a prior suit Yes [| No
+pending or within one year previously terminated action in this court?
+
+3. Does this case involve the validity or infringement ofa patent already tn suit or any earlier Yes [| No
+numbered case pending or within one year previously terminated action of this court?
+
+4, — Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights Yes | | No
+case filed by the same individual?
+
+| certify that, to my knowledge, the within case (7 is / [e] is not related to any case now pending or within one year previously terminated action in
+
+this court except as noted above.
+02/07/2020 hy Sidney L. Gold, Esq. 21374
+
+DATE:
+
+Attorney-at-Law / Pro Se Plaintiff Attorney 1D. # (if applicable)
+
+CIVIL: (Place a \¥ in one category only)
+
+A. Federal Question Cases: B. Diversity Jurisdiction Cases:
+[] 1. Indemnity Contract, Marine Contract, and All Other Contracts LJ] 1}. Insurance Contract and Other Contracts
+[] 2. FELA [] 2. Airplane Personal Injury
+[] 3. Jones Act-Personal Injury CL] 3. Assault, Defamation
+[) 4. Antitrust [] 4. Marine Personal Injury
+[] §$. Patent [] 5. Motor Vehicle Personal Injury
+[] 6. Labor-Management Relations [] 6. Other Personal Injury (Please specify):
+7. Civil Rights [] 7. Products Liability
+L] 8. Habeas Corpus [] 8. Products Liability —- Asbestos
+[] 9%. Securities Act(s) Cases [] 9. All other Diversity Cases
+[-] 10. Social Security Review Cases (Please specif): _
+L] It. Allother Federal Question Cases
+(Please specify)
+
+ARBITRATION CERTIFICATION
+(The effect of this certification is to remove the case from eligibility for arbitration)
+
+SIDNEY L. GOLD, ESQUIRE
+
+I . counsel of record or pro se plaintiff, do hereby certify
+
+| Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+exceed the sum of $150.000.00 exclusive of interest and costs:
+
+Relief other than monetary damages is sought.
+
+DATE
+
+02/07/2020 haul Sidney L. Gold, Esq. 21374
+
+a “ 7 Aitomey-at-Law / Pro Se Plaintiff alHorney 1D. 4 (ifapplicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F R.C P38
+
+Civ 609 (5 2018)
+
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 4 of 18
+
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DESIGNATION FORM
+
+(to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+Address of Plaintiff: 6234 Pine Street, Philadelphia, PA 19143
+
+Address of Defendant: 200 Clarendon Street, Boston, MA 02116
+6234 Pine Street, Philadelphia, PA 19143
+
+Place of Accident, Incident or Transaction:
+
+RELATED CASE, IF ANY:
+
+Case Number: _ Judge: __ Date Terminated: _
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1, Is this case related to property included in an earlier numbered suit pending or within one year Yes [| Nol ¥/|
+previously terminated action in this court?
+
+2. Does this case involve the same issue of fact or grow out of the same transaction as a prior suit Yes [| No
+pending or within one year previously terminated action in this court?
+
+Does this case involve the validity or infringement of a patent already in suit or any earlier Yes [| No
+numbered case pending or within one year previously terminated action of this court?
+
+4, Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights Yes [ ] No
+case filed by the same individual?
+
+wl
+
+I certify that, to my knowledge, the within case [J] is / [2] is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+02/07/2020 Mi sicney L. Gold, Esq. 21374
+
+Attorney-at-Law / Pro Se Plaintiff Attorney LD. # (if applicable)
+
+DATE:
+
+CIVIL: (Place a V in one category only)
+
+A, Federal Question Cases: B. Diversity Jurisdiction Cases:
+CL] 1. Indemnity Contract, Marine Contract, and All Other Contracts [] |. Insurance Contract and Other Contracts
+[] 2. FELA [] 2. Airplane Personal Injury
+L] 3. Jones Act-Personal Injury [1 3. Assault, Defamation
+L] 4. Antitrust [] 4. Marine Personal Injury
+[] 5. Patent [-] 5. Motor Vehicle Personal Injury
+L.] 6. Labor-Management Relations [.] 6. Other Personal Injury (Please specify):
+7. Civil Rights [] 7. Products Liability
+(] 8. Habeas Corpus [] 8. Products Liability — Asbestos
+L] 9. Securities Act(s) Cases [.] 9. All other Diversity Cases
+[.] 10. Social Security Review Cases (Please specify): _
+[] 11. Allother Federal Question Cases
+(Please specify): _
+
+ARBITRATION CERTIFICATION
+(The effect of this certification is to remove the case from eligibility for arbitration.)
+
+| SIDNEY L. GOLD, ESQUIRE
+
+. counsel of record or pro se plaintiff, do hereby certify
+
+Pursuant to Local Civil Rule 53.2. § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+exceed the sum of $150,000.00 exclusive of interest and costs:
+
+Relief other than monetary damages is sought.
+
+02/07/2020 /'-1sf sidney L. Gold, Esq. 21374
+
+Attorney-at-Law / Pro Se Plaintiff Attorney 1.D. # (if applicable)
+
+DATE:
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F. RC P38
+
+Cre 609 (5 2018)
+
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 5 of 18
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+CASE MANAGEMENT TRACK DESIGNATION FORM
+
+ELLA SMITH : CIVIL ACTION
+
+Vv
+
+JOHN HANCOCK LIFE INSURANCE
+
+COMPANY USA NO
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+
+(a) Habeas Corpus — Cases brought under 28 U.S.C. § 2241 through § 2255. ( )
+(b) Social Security — Cases requesting review of a decision of the Secretary of Health
+
+and Human Services denying plaintiff Social Security Benefits. ( )
+(c) Arbitration — Cases required to be designated for arbitration under Local Civil Rule 53.2. (_ )
+(d) Asbestos — Cases involving claims for personal injury or property damage from
+
+exposure to asbestos. ( )
+(e) Special Management — Cases that do not fall into tracks (a) through (d) that are
+
+commonly referred to as complex and that need special or intense management by
+
+the court. (See reverse side of this form for a detailed explanation of special
+
+management cases.) ( )
+(f) Standard Management — Cases that do not fall into any one of the other tracks. (2)
+02/07/2020 tise Sidney L. Gold, Esq. PLAINTIFF
+Date Y  Attorney-at-law Attorney for
+(215) 569-1999 (215) 569-3870 sgold@discrimlaw.net
+Telephone FAX Number E-Mail Address
+
+(Civ. 660) 10/02
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 6 of 18
+
+Civil Justice Expense and Delay Reduction Plan
+Section 1:03 - Assignment to a Management Track
+
+(a) The clerk of court will assign cases to tracks (a) through (d) based on the initial pleading.
+
+(b) In all cases not appropriate for assignment by the clerk of court to tracks (a) through (d), the
+plaintiff shall submit to the clerk of court and serve with the complaint on all defendants a case management
+track designation form specifying that the plaintiff believes the case requires Standard Management or
+Special Management. In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on the
+plaintiff and all other parties, a case management track designation form specifying the track to which that
+defendant believes the case should be assigned.
+
+(c) The court may, on its own initiative or upon the request of any party, change the track
+assignment of any case at any time.
+
+(d) Nothing in this Plan is intended to abrogate or limit a judicial officer's authority in any case
+pending before that judicial officer, to direct pretrial and trial proceedings that are more stringent than those
+of the Plan and that are designed to accomplish cost and delay reduction.
+
+(e) Nothing in this Plan is intended to supersede Local Civil Rules 40.1 and 72.1, or the
+procedure for random assignment of Habeas Corpus and Social Security cases referred to magistrate judges
+of the court.
+
+SPECIAL MANAGEMENT CASE ASSIGNMENTS
+(See §1.02 (e) Management Track Definitions of the
+Civil Justice Expense and Delay Reduction Plan)
+
+Special Management cases will usually include that class of cases commonly referred to as "complex
+litigation” as that term has been used in the Manuals for Complex Litigation. The first manual was prepared
+in 1969 and the Manual for Complex Litigation Second, MCL 2d was prepared in 1985. This term is
+intended to include cases that present unusual problems and require extraordinary treatment. See §0.| of the
+first manual. Cases may require special or intense management by the court due to one or more of the
+following factors: (1) large number of parties; (2) large number of claims or defenses; (3) complex factual
+issues; (4) large volume of evidence; (5) problems locating or preserving evidence; (6) extensive discovery;
+(7) exceptionally long time needed to prepare for disposition; (8) decision needed within an exceptionally
+short time; and (9) need to decide preliminary issues before final disposition. It may include two or more
+related cases. Complex litigation typically includes such cases as antitrust cases; cases involving a large
+number of parties or an unincorporated association of large membership; cases involving requests for
+injunctive relief affecting the operation of large business entities; patent cases; copyright and trademark
+cases: common disaster cases such as those arising from aircraft crashes or marine disasters; actions brought
+by individual stockholders; stockholder's derivative and stockholder's representative actions; class actions or
+potential class actions; and other civil (and criminal) cases involving unusual multiplicity or complexity of
+factual issues. See $0.22 of the first Manual for Complex Litigation and Manual for Complex Litigation
+Second, Chapter 33.
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 7 of 18
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+ELLA SMITH,
+Plaintiff,
+v. CIVIL ACTION NO.
+
+JOHN HANCOCK LIFE INSURANCE
+COMPANY USA,
+Defendant.
+
+COMPLAINT AND JURY DEMAND
+
+L PRELIMINARY STATEMENT:
+
+1. This is an action for an award of damages, attorneys’ fees and other relief on
+behalf of Plaintiff, Ella Smith (“Plaintiff Smith”), a former employee of Defendant, John
+Hancock Life Insurance Company, USA (“Defendant”), who was harmed by Defendant’s
+discriminatory and retaliatory employment practices.
+
+2. This action is brought under the Americans with Disabilities Act (“ADA”), 42
+U.S.C. §12101 et seq., Family and Medical Leave Act (“FMLA”), 29 U.S.C. §2601, et seq., and
+the Pennsylvania Human Relations Act (“PHRA”), 43 P.S. §951] et seq.
+
+I. JURISDICTION AND VENUE:
+
+3. The jurisdiction of this Court is invoked, and venue is proper in this district,
+pursuant to 28 U.S.C. §§1331 and 1391 as Plaintiff Smith’s claims are substantively based on the
+ADA and FMLA.
+
+4. The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C.
+§1367 to consider Plaintiff Smith’s claims arising under the PHRA.
+
+5. All conditions precedent to the institution of this suit have been fulfilled and
+
+Plaintiff Smith has satisfied all other jurisdictional prerequisites to the maintenance of this
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 8 of 18
+
+action. On November 12, 2019, a Notice of Right to Sue was issued by the Equal Employment
+Opportunity Commission (“EEOC”) and this action has been filed within ninety (90) days of
+receipt of said notice.
+
+Ui. PARTIES:
+
+6. Plaintiff, Ella Smith (“Plaintiff Smith”), is an adult individual and citizen of the
+Commonwealth of Pennsylvania, residing therein at 6234 Pine Street, Philadelphia, Pennsylvania
+19143.
+
+7. Defendant, John Hancock Life Insurance Company, USA (“Defendant”), is a
+corporation duly organized and existing under the laws of the Commonwealth of Massachusetts,
+maintaining a place of business therein at 200 Clarendon Street, Boston, Massachusetts 02116.
+
+8. At all times relevant hereto, Defendant was acting through its agents, servants, and
+employees, who were acting within the scope of their authority, course of employment, and
+under the direct control of the Defendant.
+
+9. At all times material herein, Defendant has been a “person” and “employer” as
+defined by the ADA, FMLA, and PHRA, and has been, and 1s, subject to the provisions of each
+said Act.
+
+10. At all times relevant hereto, Plaintiff Smith was an “eligible employee” as defined
+
+under the FMLA and was entitled to the protection of the provisions of said Act.
+
+IV. STATEMENT OF FACTS:
+
+11. Plaintiff Smith was employed by the Defendant from on or about May 22, 2017
+
+until on or about March 6, 2019, the date of her unlawful termination.
+
+No
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 9 of 18
+
+12. Throughout her employment, Plaintiff Smith held the position of Strategic
+Relationship Regional Manager. In said role, Plaintiff Smith was responsible for developing
+strategic relationships with advisors and sponsors, achieving retirement plan retention, and
+contributing to growth in revenue and assets.
+
+13. By way of background, Plaintiff Smith suffers from Sickle Cell Disease. Said
+medical condition constitutes a disability within the meanings of the Americans with Disabilities
+Act (“ADA”) and the Pennsylvania Human Relations Act (“PHRA”) in that it substantially limits
+one or more of Plaintiff Smith’s major life activities, including, but not limited to, normal cell
+development and cell function.
+
+14. Shortly after her hire, Plaintiff Smith disclosed her disability to Charles Reichelt
+(“Reichelt”), Regional Vice President of Sales, and Brittney Gould (“Gould”), Vice President,
+Strategic Relationship Manager. Plaintiff Smith also routinely disclosed her disability to her
+clients, which enabled her to serve them in the most effective manner possible. Plaintiff Smith’s
+clients often expressed appreciation for her transparency.
+
+15. In or about September of 2017, Plaintiff Smith experienced debilitating symptoms
+associated with her disability, specifically, sickle cell crisis, which necessitated that she utilize
+medical leave for approximately two weeks.
+
+16. On or about May 21, 2018, the Defendant hired Jennifer White (“White”) for the
+position of Divisional Vice President, and Plaintiff Smith began reporting directly to White.
+
+17. On or about May 25, 2018, while participating in a training, Plaintiff Smith
+experienced another sickle cell crisis, which necessitated that she utilize medical leave until on
+
+or about July 24, 2018.
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 10 of 18
+
+18. Prior to her return to work, Plaintiff Smith informed Defendant that her physician
+recommended that she refrain from traveling until August 24, 2018 and requested the same as a
+reasonable accommodation for her disability.
+
+19. | Upon Plaintiff Smith’s return to work from medical leave, the Defendant, through
+its agents, servants, and employees, including, but not limited to, White began subjecting
+Plaintiff Smith to discrimination based on her actual and/or perceived disability and/or record of
+impairment and retaliation for requesting a reasonable accommodation for her disability.
+
+20. By way of example, Plaintiff Smith returned to work only to discover that her
+access to Defendant’s network systems was denied, thereby preventing her from working on her
+business plan.
+
+21. By way of further example, White questioned Plaintiff Smith’s ability to assume
+additional responsibilities and adequately engage with her advisors based solely upon her
+erroneous perceptions of Plaintiff Smith as a disabled individual. Specifically, White continually
+claimed that Plaintiff Smith failed to “take ownership” of her advisors, despite the proven falsity
+of said allegation and the documented satisfaction of Plaintiff Smith’s advisors.
+
+22.  Onor about August 21, 2018, Plaintiff Smith learned of alleged delinquency fees
+assessed on her company credit card incurred during her medical leave. Plaintiff Smith
+immediately contacted Procurement Client Support to resolve the matter, who suggested that
+Plaintiff Smith discuss waiver of the fees with her manager. White, however, refused to waive
+said fees and instead used the opportunity to berate Plaintiff Smith for the issuance of the fees, a
+matter over which Plaintiff Smith had no control.
+
+23. As further discrimination, during a one-on-one meeting on September 27, 2018,
+
+White unjustifiably criticized Plaintiff Smith’s work performance during the first (Q1) and
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 11 of 18
+
+second (Q2) quarters of the 2018 fiscal year and expressed her intention to document their
+conversation as a “performance issue.” Significantly, White did not supervise Plaintiff Smith
+during said quarters, Plaintiff Smith’s book of business was reorganized during the same time
+frame, and Plaintiff Smith also required time off during said quarters due to her disability.
+
+24. During the same meeting, White vaguely alluded to negative feedback with
+respect to Plaintiff Smith’s performance, yet declined to identify any specific complaints.
+Plaintiff Smith suggested that White speak with Reichelt, Gould, and Bob Blumburg,
+(“Blumberg”), Interim Divisional Vice President, with respect to her performance, as said
+individuals could verify her history of success, but White declined without explanation.
+
+25. The following day, on or about September 28, 2017, White issued to Plaintiff
+Smith an unjustified performance improvement plan (“PIP”).
+
+26. In response thereto, Plaintiff Smith discussed her concerns with the issuance of
+the PIP with John Fitzgerald (“Fitzgerald”), Senior Vice President, White’s direct supervisor,
+and requested that he intervene. In response, Fitzgerald flatly declined to discuss the same with
+White.
+
+27. Thereafter, on or about October 8, 2018, Plaintiff Smith participated in a
+telephonic meeting with White, Fitzgerald, and Tricia Hayes (“Hayes”), Human Resources
+Representative, to discuss the PIP, during which Plaintiff Smith provided specific information
+and evidence to negate the allegations of poor performance contained therein. Nonetheless,
+Hayes informed Plaintiff Smith that the PIP would remain in effect. Moreover, White continued
+to criticize Plaintiff Smith for her numbers in Q1 and Q2, despite the aforesaid reorganization
+
+and Plaintiff Smith’s medical leave.
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 12 of 18
+
+28. The following day, on or about October 9, 2018, White sent an email to Plaintiff
+Smith which drastically mischaracterized Plaintiff Smith’s statements and conduct during the
+meeting the day prior. Plaintiff Smith responded by clarifying several points and correcting
+misstatements.
+
+DO). Shortly thereafter, on or about October 16, 2018, White unjustifiably accused
+Plaintiff Smith of falsifying mileage on a reimbursement request. Only after Plaintiff Smith sent
+clarifying information, to which White already had access, was said reimbursement request
+approved. White did not similarly interrogate Plaintiff Smith’s colleagues with respect to their
+reimbursement requests.
+
+30. On or about October 31, 2018, Plaintiff Smith suffered a sickle cell crisis which
+resulted in a four (4) day hospitalization. Plaintiff Smith’s physician attributed the exacerbation
+of the symptoms associated with her disability to the stress she was experiencing as a result of
+White’s discriminatory treatment at work.
+
+31. Asaresult of the continued harassment to which she was being subjected, on or
+about November 27, 2018, Plaintiff Smith spoke with Scott Francolini (“Francolini”’), Senior
+Vice President, and requested reassignment to a new manager. During said conversation,
+Plaintiff Smith detailed her mounting anxiety due to White’s discriminatory conduct and the
+aggravating effects thereof on her disability. Nonetheless, Francolini denied Plaintiff Smith’s
+request for reassignment.
+
+32. | Onor about December 19, 2018, Plaintiff Smith participated in a one-on-one
+meeting with White to discuss Plaintiff Smith’s performance and vision for the following year.
+
+During said meeting, White again raised the issue of the credit card delinquency fees during
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 13 of 18
+
+Plaintiff Smith’s medical leave and questioned whether Plaintiff Smith was “all in,” thereby
+questioning Plaintiff Smith’s dedication and ability due to her disability.
+
+33. The following week, on or about December 27, 2018, White sent an email to
+Plaintiff Smith which grossly mischaracterized their conversation on December 19, 2018.
+Accordingly, Plaintiff Smith responded by correcting the misrepresentations contained therein.
+
+34. Moreover, on or about December 28, 2018, Plaintiff Smith registered a formal
+complaint of disability discrimination with both White and Defendant’s Human Resources
+department.
+
+35. Shortly thereafter, on or about January 3, 2019, Plaintiff Smith spoke with John
+Dorey (“Dorey”), Human Resources Representative, during which she reiterated her complaint
+of discrimination and cited specific instances of White’s discriminatory conduct. Plaintiff Smith
+specifically informed Dorey of White’s commentary regarding the duration of Plaintiff Smith’s
+medical leave, White’s unnecessary focus on long past delinquency fees, White’s attempts to
+undermine Plaintiff Smith’s efforts and micromanage her job duties, and the issuance of the
+retaliatory PIP. Plaintiff Smith further expressed her belief that White was attempting to paper
+her file to justify her termination.
+
+36. In response, however, Dorey vigorously defended White’s conduct, flatly advised
+that Plaintiff Smith’s PIP would not be revoked, and stated that White’s assessment of Plaintiff
+Smith’s job performance was all that mattered. Ultimately, Dorey failed to conduct an
+investigation into Plaintiff Smith’s allegations of discrimination or take any remedial action.
+
+37. In a further act of discrimination, on or about February 5, 2019, White sent
+Plaintiff Smith a confrontational email accusing her of various deficiencies. As such, on or about
+
+February 10, 2019, Plaintiff Smith registered another complaint of discrimination with Reichelt
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 14 of 18
+
+and requested reassignment to a new manager. However, Reichelt was unsuccessful in his
+attempt to address Plaintiff Smith’s concerns and request.
+
+38. On or about February 26, 2019, Plaintiff Smith learned that her Q4 numbers as
+reported in Defendant’s CRM system did not reflect her actual activity. As such, Plaintiff Smith
+contacted Colleen Casey (“Casey”), Director of Business Intelligence, in an effort to ensure the
+accurate reflection of her numbers. However, Casey merely directed Plaintiff Smith to White.
+
+39. As further discrimination and retaliation, on or about March 1, 2019, White issued
+Plaintiff Smith an “improvement required” rating on her year-end performance evaluation.
+Plaintiff Smith responded to the same by pointing out inaccuracies and expressing her belief that
+said document constituted a further attempt to justify her unlawful termination.
+
+40. Shortly thereafter, on or about March 6, 2019, the Defendant terminated Plaintiff
+Smith’s employment, allegedly for failing to meet with a customer, without providing any
+evidence to support said allegation.
+
+41. Plaintiff Smith believes and avers that the Defendant’s articulated reason for her
+termination is pretextual and that she was actually terminated based on her actual and/or
+perceived disability and/or record of impairment and/or in retaliation for requesting a reasonable
+accommodation for her disability and opposing unlawful discrimination in the workplace.
+
+COUNT I
+
+(ADA - Disability Discrimination, Retaliation)
+Plaintiff Smith v. the Defendant
+
+42. Plaintiff Smith incorporates by reference paragraphs | through 41 of this
+Complaint as though fully set forth at length herein.
+43. The actions of the Defendant, through its agents, servants and employees, in
+
+subjecting Plaintiff Smith to discrimination on the basis of her actual and/or perceived disability
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 15 of 18
+
+and/or record of impairment, and retaliating against Plaintiff Smith for requesting a reasonable
+accommodation for her disability and opposing unlawful discrimination in the workplace,
+constituted violations of the ADA.
+
+44. Asadirect result of the aforesaid unlawful discriminatory and retaliatory
+employment practices engaged in by the Defendant in violation of the ADA, Plaintiff Smith
+sustained permanent and irreparable harm, resulting in the loss of her employment, which caused
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+power, plus back pay, and front pay and interest due thereon.
+
+45. Asa further direct result of the aforesaid unlawful discriminatory and retaliatory
+employment practices engaged in by the Defendant in violation of the ADA, Plaintiff Smith
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+COUNT I
+
+(PHRA - Disability Discrimination, Retaliation)
+Plaintiff Smith v. the Defendant
+
+46. Plaintiff Smith incorporates by reference paragraphs | through 45 of this
+Complaint as though fully set forth at length herein.
+
+47. The actions of the Defendant, through its agents, servants and employees, in
+subjecting Plaintiff Smith to discrimination on the basis of her actual and/or perceived disability
+and/or record of impairment, and retaliating against Plaintiff Smith for requesting a reasonable
+accommodation for her disability and opposing unlawful discrimination in the workplace,
+constituted violations of the PHRA.
+
+48. Asadirect result of the aforesaid unlawful discriminatory and retaliatory
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff Smith
+
+sustained permanent and irreparable harm, resulting in the loss of her employment, which caused
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 16 of 18
+
+her to sustain a loss of earnings, plus the value of certain benefits, plus loss of future earning
+power, plus back pay, and front pay and interest due thereon.
+
+49. Asa further direct result of the aforesaid unlawful discriminatory and retaliatory
+employment practices engaged in by the Defendant in violation of the PHRA, Plaintiff Smith
+suffered severe emotional distress, embarrassment, humiliation, and loss of self-esteem.
+
+COUNT
+
+(FMLA Retaliation)
+Plaintiff Smith v. the Defendant
+
+50. Plaintiff Smith incorporates by reference paragraphs | through 49 of this
+Complaint as though fully set forth at length herein.
+
+51. The actions of the Defendant, in retaliating against Plaintiff Smith for exercising
+her rights under the FMLA, as described herein above, violated the FMLA.
+
+§2. The aforesaid actions of the Defendant were willful, malicious, wanton, in
+bad faith and in reckless disregard of Plaintiff Smith’s rights.
+
+53. As a direct result of the willful, wanton, reckless, careless and negligent
+acts of the Defendant, as aforesaid, Plaintiff Smith has suffered a loss of earnings, plus the value
+of certain benefits, plus loss of future earning power, plus back pay, front pay and interest due
+
+thereon.
+
+PRAYER FOR RELIEF
+
+54. Plaintiff Smith incorporates by reference paragraphs 1 through 53 of this Complaint
+as though fully set forth at length herein.
+WHEREFORE, Plaintiff Smith requests that this Court enter judgment in her favor and
+
+against the Defendant, and Order that:
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 17 of 18
+
+a. Defendant compensate Plaintiff Smith with a rate of pay and other benefits and
+emoluments of employment to which she would have been entitled had she not been subjected to
+unlawful discrimination;
+
+b. Defendant compensate Plaintiff Smith with an award of front pay, if appropriate;
+
+C. Defendants pay to Plaintiff Smith punitive damages, liquidated damages,
+compensatory damages for future pecuniary losses, pain, suffering, inconvenience, mental
+anguish, loss of enjoyment of life, and other nonpecuniary losses as allowable;
+
+d. Defendants pay to Plaintiff Smith pre and post judgment interest, costs of suit and
+attorney and expert witness fees as allowed by law;
+
+e. The Court award such other relief as is deemed just and proper.
+
+JURY DEMAND
+
+Plaintiff Smith demands trial by jury.
+
+SIDNEY L. GOLD & ASSOC.,, P.C.
+
+By: /s/ Sidney L. Gold, Esquire
+SIDNEY L. GOLD, ESQUIRE
+LD. No.: 21374
+1835 Market Street, Suite 515
+Philadelphia, PA 19103
+(215) 569-1999
+Attorneys for Plaintiff
+
+DATED: February 7, 2020
+Case 2:20-cv-00729-JMG Document1 Filed 02/07/20 Page 18 of 18
+
+VERIFICATION
+
+I hereby verify that the statements contained in this Complaint are true and correct to the
+best of my knowledge, information and belief. I understand that false statements herein are
+
+made subject to the penalties of Title 18 Pa. C.S.A. §4904, relating to rn falsitication to
+
+authorities.
+
+DATE: 2.6.20
+
+ELLA SMITH, PLAINTJA®

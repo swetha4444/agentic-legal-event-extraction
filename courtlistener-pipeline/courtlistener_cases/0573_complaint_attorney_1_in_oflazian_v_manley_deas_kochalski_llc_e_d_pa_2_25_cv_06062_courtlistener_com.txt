@@ -1,0 +1,823 @@
+Source URL: https://www.courtlistener.com/docket/71735436/1/oflazian-v-manley-deas-kochalski-llc/
+Title: Complaint (Attorney) – #1 in OFLAZIAN v. MANLEY, DEAS & KOCHALSKI, LLC (E.D. Pa., 2:25-cv-06062) – CourtListener.com
+
+JS 44 (Rev. 10/20)            Case 2:25-cv-06062-GAM
+                                                  CIVILDocument
+                                                        COVER1SHEET
+                                                                Filed 10/23/25                                                                                        Page 1 of 21
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                                        DEFENDANTS
+                                                                                                                        MANLEY, DEAS & KOCHALSKI, LLC
+                ALYK OFLAZIAN
+    (b) County of Residence of First Listed Plaintiff                   Montgomery                                       County of Residence of First Listed Defendant                    Philadelphia
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                               (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                                         NOTE:       IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                                     THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       Lane J. Schiff , Esquire
+       Console Mattiacci Law LLC, 1525 Locust Street, 9th Floor
+       Philadelphia, PA 19102 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                                    (For Diversity Cases Only)                                          and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                            PTF              DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                              Citizen of This State            1                1      Incorporated or Principal Place         4     4
+                                                                                                                                                                         of Business In This State
+
+    2   U.S. Government                      4   Diversity                                                    Citizen of Another State                2           2    Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                                         of Business In Another State
+
+                                                                                                              Citizen or Subject of a                 3           3    Foreign Nation                             6         6
+                                                                                                                Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                     Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                     TORTS                                    FORFEITURE/PENALTY                            BANKRUPTCY                        OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                      PERSONAL INJURY                     625 Drug Related Seizure                  422 Appeal 28 USC 158              375 False Claims Act
+    120 Marine                           310 Airplane                        365 Personal Injury -                    of Property 21 USC 881                423 Withdrawal                     376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                    Product Liability                690 Other                                     28 USC 157                         3729(a))
+    140 Negotiable Instrument                 Liability                      367 Health Care/                                                                                                  400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                    Pharmaceutical                                                           PROPERTY RIGHTS                      410 Antitrust
+        & Enforcement of Judgment             Slander                            Personal Injury                                                           820 Copyrights                      430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                  Product Liability                                                         830 Patent                          450 Commerce
+    152 Recovery of Defaulted                 Liability                      368 Asbestos Personal                                                         835 Patent - Abbreviated            460 Deportation
+         Student Loans                   340 Marine                              Injury Product                                                                New Drug Application            470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                      Liability                                                                 840 Trademark                           Corrupt Organizations
+    153 Recovery of Overpayment               Liability                     PERSONAL PROPERTY                              LABOR                           880 Defend Trade Secrets            480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                   370 Other Fraud                      710 Fair Labor Standards                     Act of 2016                         (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                   371 Truth in Lending                     Act                                                                      485 Telephone Consumer
+    190 Other Contract                       Product Liability               380 Other Personal                   720 Labor/Management                      SOCIAL SECURITY                        Protection Act
+    195 Contract Product Liability       360 Other Personal                      Property Damage                      Relations                             861 HIA (1395ff)                   490 Cable/Sat TV
+    196 Franchise                            Injury                          385 Property Damage                  740 Railway Labor Act                     862 Black Lung (923)               850 Securities/Commodities/
+                                         362 Personal Injury -                   Product Liability                751 Family and Medical                    863 DIWC/DIWW (405(g))                 Exchange
+                                             Medical Malpractice                                                      Leave Act                             864 SSID Title XVI                 890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                     PRISONER PETITIONS                    790 Other Labor Litigation                865 RSI (405(g))                   891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights              Habeas Corpus:                       791 Employee Retirement                                                      893 Environmental Matters
+    220 Foreclosure                      441 Voting                          463 Alien Detainee                       Income Security Act                  FEDERAL TAX SUITS                   895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                      510 Motions to Vacate                                                         870 Taxes (U.S. Plaintiff               Act
+    240 Torts to Land                    443 Housing/                            Sentence                                                                       or Defendant)                  896 Arbitration
+    245 Tort Product Liability               Accommodations                  530 General                                                                   871 IRS—Third Party                 899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -          535 Death Penalty                        IMMIGRATION                               26 USC 7609                        Act/Review or Appeal of
+                                             Employment                      Other:                               462 Naturalization Application                                                   Agency Decision
+                                         446 Amer. w/Disabilities -          540 Mandamus & Other                 465 Other Immigration                                                        950 Constitutionality of
+                                             Other                           550 Civil Rights                         Actions                                                                      State Statutes
+                                         448 Education                       555 Prison Condition
+                                                                             560 Civil Detainee -
+                                                                                 Conditions of
+                                                                                 Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                           3    Remanded from                     4 Reinstated or              5 Transferred from
+                                                                                                                                                        6 Multidistrict                                   8 Multidistrict
+      Proceeding             State Court                                 Appellate Court                     Reopened                     Another District  Litigation -                                    Litigation -
+                                                                                                                                          (specify)         Transfer                                        Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. § 2000e, et seq. (“Title VII”); 42 U.S.C. § 12101, et seq. (“ADA”); 43 P.S. § 951, et seq. (“PHRA”) 29 U.S.C. §2601, et seq. (“FMLA”)
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff brings this action against her former employer for sex, pregnancy, and disability discrimination and retaliation.
+
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                                 DEMAND $                                         CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                                        excess of $75,000                                JURY DEMAND:                  ✖   Yes         No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                              JUDGE                                                                             DOCKET NUMBER
+DATE                                                                          SIGNATURE OF ATTORNEY OF RECORD
+October 23, 2025
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                           APPLYING IFP                                         JUDGE                                   MAG. JUDGE
+10/2024                       Case 2:25-cv-06062-GAM                       Document 1                 Filed 10/23/25             Page 2 of 21
+                                                           UNITED STATES DISTRICT COURT
+                                                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                               DESIGNATION FORM
+
+          Place of Accident, Incident, or Transaction:__Huntingdon Valley, PA 19006________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+              1.   Does this case involve property included in an earlier numbered suit?                                                                Yes
+
+              2.   Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                Yes
+
+              3.   Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                   Yes
+
+              4.   Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                 Yes
+                   individual?
+
+              5.   Is this case related to an earlier numbered suit even though none of the above categories apply?                                     Yes
+                   If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is / x is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+              A.   Federal Question Cases:                                                              B. Diversity Jurisdiction Cases:
+
+                   1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                   2.  FELA                                                                   2. Airplane Personal Injury
+                   3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                   4.  Antitrust                                                              4. Marine Personal Injury
+                   5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                   6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                   7.  Copyright/Trademark                                                    7. Products Liability
+                   8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                   9.  Labor-Management Relations                                                _____________________
+              x    10. Civil Rights
+                   11. Habeas Corpus
+                   12. Securities Cases
+                   13. Social Security Review Cases
+                   14. Qui Tam Cases
+                   15. Cases Seeking Systemic Relief *see certification below*
+                   16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does / x does not have implications
+      beyond the parties before the court and       does /  x  does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                    ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+          x
+                Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                   None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+       Case 2:25-cv-06062-GAM                 Document 1   Filed 10/23/25        Page 3 of 21
+
+
+                          IN THE UNITED STATES DISTRICT COURT
+                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                      CASE MANAGEMENT TRACK DESIGNATION FORM
+          ALYK OFLAZIAN                                                       CIVIL ACTION
+                                PLAINTIFF,
+
+        MANLEY, DEAS & KOCHALSKI, LLC
+                                                                              NO.
+                               DEFENDANT.
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See§ 1 :03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus- Cases brought under 28 U.S.C.§ 2241 through§ 2255.                                ( )
+(b) Social Security- Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+(c) Arbitration- Cases required to be designated for arbitration under Local Civil Rule 53.2.        ( )
+(d) Asbestos- Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+(e) Special Management- Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+(f) Standard Management- Cases that do not fall into any one of the other tracks.                    ( X)
+
+October 23, 2025
+                                                                        Plaintiff, Alyk Oflazian
+Date                                    Attori�                          Attorney for
+   (215) 545-7676                       (215) 565-2859                schiff@consolelaw.com
+
+
+Telephone                                FAX Number                      E-Mail Address
+
+
+(Civ. 660) 10/02
+        Case 2:25-cv-06062-GAM                Document 1         Filed 10/23/25         Page 4 of 21
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT FOR
+                        THE EASTERN DISTRICT OF PENNSYLVANIA
+
+____________________________________
+ALYK OFLAZIAN                          :
+Huntingdon Valley, PA 19006            :                    CIVIL ACTION NO.
+                                       :
+                            Plaintiff, :                    JURY TRIAL DEMANDED
+              v.                       :
+                                       :
+                                       :
+                                       :
+MANLEY, DEAS & KOCHALSKI, LLC :
+1515 Market Street, Suite 830          :
+Philadelphia, PA 19102                 :
+                                       :
+                            Defendant. :
+_____________________________________
+                                               COMPLAINT
+
+I.      INTRODUCTION
+
+        Plaintiff, Alyk Oflazian, brings this action against her former employer, Manley, Deas, &
+
+Kochalski, LLC (“Defendant”). Defendant discriminated against Plaintiff based on her sex,
+
+sex/pregnancy (including related medical condition), and disability and retaliated against her for
+
+seeking/requesting a reasonable accommodation for her disability, in violation of Title VII of the
+
+Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq. (“Title VII”), the Americans with
+
+Disabilities Act, as amended, 42 U.S.C. § 12101, et seq. (“ADA”), and the Pennsylvania Human
+
+Relations Act, as amended, 43 P.S. § 951, et seq. (“PHRA”), 1 Plaintiff further brings this action
+
+pursuant to the Family Medical Leave Act, as amended, 29 U.S.C. §2601, et seq. (“FMLA”) for
+
+unlawful discrimination, retaliation, and leave interference. Plaintiff seeks all damages allowed
+
+under the law.
+
+
+1
+ Plaintiff intends to amend her Complaint one (1) year after the filing of her Charge with the Equal Employment
+Opportunity Commission to assert claims under the Philadelphia Fair Practices Ordinance, as amended, Phila. Code
+§ 9-1101, et seq. (“PFPO”).
+             Case 2:25-cv-06062-GAM         Document 1        Filed 10/23/25      Page 5 of 21
+
+
+
+
+II.          PARTIES
+
+             1.    Plaintiff, Alyk Oflazian, is an individual and a citizen of the Commonwealth of
+
+Pennsylvania.
+
+             2.    Plaintiff is a woman.
+
+             3.    Defendant Manley, Deas & Kochalski, LLC is a limited liability company with a
+
+place of business at 1515 Market Street, Suite 830, Philadelphia, PA 19102.
+
+             4.    At all times material hereto, Defendant employed more than fifty (50) employees.
+
+             5.    At all times material hereto, Defendant acted by and through its authorized agents
+
+and/or employees acting within the course and scope of their employment with Defendant and in
+
+furtherance of Defendant’s business.
+
+             6.    At all times material hereto, Defendant acted as an employer within the meaning
+
+of the statutes which form the basis of this matter.
+
+             7.    At all times material hereto, Plaintiff was an employee of Defendant within the
+
+meaning of the statutes which form the basis of this matter.
+
+      III.         JURISDICTION AND VENUE
+
+             8.    The causes of action that form the basis of this matter arise under Title VII, the
+
+ADA, FMLA, and the PHRA.
+
+             9.    The District Court has jurisdiction over Count I (Title VII), Count II (ADA), an
+
+Count III (FMLA) pursuant to 28 U.S.C. §1331.
+
+             10.   The District Court has jurisdiction over Count IV (PHRA) pursuant to 28 U.S.C.
+
+§1367.
+
+             11.   Venue is proper in the District Court pursuant to 28 U.S.C. §1391(b).
+
+             12.   On or about December 11, 2024, Plaintiff filed a Complaint with the Equal
+
+
+
+
+                                                     2
+          Case 2:25-cv-06062-GAM          Document 1       Filed 10/23/25       Page 6 of 21
+
+
+
+
+Employment Opportunity Commission (“EEOC”), and cross filed with the Pennsylvania Human
+
+Relations Commission (“PHRC”). Attached hereto, incorporated herein, and marked as Exhibit
+
+“A” is a true and correct copy of the EEOC Charge (with personal identifying information
+
+redacted).
+
+          13.   On or about July 26, 2025, the EEOC issued Plaintiff a Determination and Notice
+
+of Rights. Attached hereto and marked as Exhibit “B” is a true and correct copy of this notice
+
+(with minor redactions for purposes of electronic filing of confidential/identifying information).
+
+          14.   Plaintiff is filing this complaint within ninety (90) days from her receipt of this
+
+notice.
+
+          15.   Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+   IV.          FACTUAL ALLEGATIONS
+
+          16.   Plaintiff commenced her employment with Defendant in or about September of
+
+2021.
+
+          17.   Plaintiff held the position of Attorney.
+
+          18.   Defendant is a law firm, and Plaintiff worked within its Bankruptcy Practice
+
+Group.
+
+          19.   Plaintiff consistently performed her job duties in a positive manner and received
+
+positive feedback.
+
+          20.   Plaintiff last reported to Adam Hall (male), Director of Practice for Defendant’s
+
+Bankruptcy Practice Group. Hall reported to Theodore K. Manley, Principal and Chief Executive
+
+Officer.
+
+          21.   At the time of Plaintiff’s termination, the following employees, besides herself,
+
+
+
+
+                                                  3
+         Case 2:25-cv-06062-GAM                  Document 1           Filed 10/23/25          Page 7 of 21
+
+
+
+
+worked in Defendant’s Bankruptcy Practice Group and reported to Hall: (1) Stephen Franks
+
+(male), Attorney; (2) Steven Patterson (male), Attorney; (3) Todd Ruchman (male), Attorney;
+
+and (4) Jane Doe 2 (female), Attorney.
+
+         22.      In February 2023, Plaintiff gave birth to her third child. She took a leave of
+
+absence until June of 2023.
+
+         23.      Following her return to work, Defendant increased Plaintiff’s workload.
+
+         24.      In or about February of 2024, Plaintiff became pregnant with her fourth child.
+
+         25.      In or about late April 2024, Plaintiff suffered an incomplete spontaneous abortion
+
+(also known as an incomplete miscarriage).
+
+         26.      Plaintiff’s medical condition was a disability under the law in that it substantially
+
+impaired one or more of Plaintiff’s major life activities.
+
+         27.      On or about July 13, 2024, Plaintiff started feeling sharp pelvic pain as a result of
+
+her medical condition. Plaintiff thereafter spoke with her doctor and was advised that she needed
+
+to have surgery (Electronic Uterine Aspiration) in connection with her medical condition.
+
+         28.      On or about July 15, 2024, Plaintiff emailed Hall and Amy Vallance, Executive
+
+Director of Human Resources, “[a]s I mentioned to you a couple weeks ago, I was having
+
+personal health issues. I had lost a lot of blood due to a miscarriage and am still going through it.
+
+Can you please send me the FMLA forms?”
+
+         29.      On that same say, Erin Bauer, Human Resources Manager, responded to Plaintiff,
+
+“[y]ou do not qualify for FMLA or a personal leave since you would be unable to work due to a
+
+medical condition.” She further told Plaintiff that she might qualify for disability leave and
+
+provided her with information as to how to apply.
+
+
+2
+ Due to the sensitive nature of the allegations pertaining to this attorney, Plaintiff is using a pseudonym to identify
+her. Defendant is, however, aware of the identity of this individual.
+
+
+                                                           4
+        Case 2:25-cv-06062-GAM             Document 1      Filed 10/23/25      Page 8 of 21
+
+
+
+
+          30.   Plaintiff applied for short term disability on that date, which was approved, and
+
+went out on a medical leave of absence from on or about July 17, 2024 through September 2,
+
+2024.
+
+          31.   This was a reasonable accommodation for Plaintiff’s medical condition.
+
+          32.   On or about August 30, 2024, Plaintiff emailed Hall and Joyce Scanlon, Human
+
+Resources Specialist, “I’m planning on returning on 9/3/24 at this time. I may need to take time
+
+again but for now I think I’ll be okay.”
+
+          33.   Plaintiff returned to work on September 3, 2024.
+
+          34.   On or about September 6, 2024, Benjamin Ogg, Executive Director of Legal &
+
+Compliance, asked whether Plaintiff had booked a hotel room in connection with Defendant’s
+
+annual attorney summit which was to occur in Ohio on October 13, 2024.
+
+          35.   Plaintiff responded to Hall “I don’t know if I can go to this so I did not request a
+
+room. Without getting into all the details, my doctors are taking a wait-and-see approach to see if
+
+I need another operation done. I was told I should know more in the next 2-3 weeks.”
+
+          36.   On or about September 9, 2024, Hall sent Plaintiff an email outlining the
+
+expectations and requirements for working hours and meeting attendance, even though
+
+Defendant never previously alleged Plaintiff had an issue with these before.
+
+          37.   On or about September 9, 2024, Plaintiff told Hall that “I was going through and
+
+still am going through an active miscarriage” and that “I am actually really struggling re-
+
+adjusting.”
+
+          38.   On or about September 15, 2024, Plaintiff received a positive annual performance
+
+review.
+
+          39.   On or about October 4, 2024, Defendant terminated Plaintiff’s employment,
+
+
+
+
+                                                  5
+       Case 2:25-cv-06062-GAM               Document 1       Filed 10/23/25   Page 9 of 21
+
+
+
+
+effective immediately. Defendant alleged that Plaintiff was being terminated due to a position
+
+elimination.
+
+       40.     Jane Doe was the only other attorney terminated by Defendant. Jane Doe has a
+
+medical condition that she has openly disclosed to Defendant.
+
+       41.     Defendant retained three (3) less qualified similarly situated male employees who,
+
+to Plaintiff’s knowledge, did not have medical conditions.
+
+       42.     Plaintiff’s sex was a motivating and determinative factor in Defendant’s decision
+
+to terminate her employment.
+
+       43.     Plaintiff’s sex/pregnancy (including without limitation related medical condition)
+
+was a motivating and determinative factor in Defendant’s decision to terminate her employment.
+
+       44.     Plaintiff’s actual and/or perceived disability and/or record of impairment was a
+
+motivating and determinative factor in Defendant’s decision to terminate her employment.
+
+       45.     Plaintiff’s request(s) for a reasonable accommodation was a motivating and
+
+determinative factor in Defendant’s decision to terminate her employment.
+
+       46.     Plaintiff’s medical leave was a motivating and determinative factor in
+
+Defendant’s decision to terminate her employment.
+
+       47.     As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendant, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of
+
+self-esteem, mental anguish, and loss of life’s pleasures.
+
+       48.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of the unlawful behavior complained of herein unless and until this
+
+Court grants the relief requested herein.
+
+
+
+
+                                                  6
+       Case 2:25-cv-06062-GAM            Document 1        Filed 10/23/25      Page 10 of 21
+
+
+
+
+        49.     Plaintiff has incurred and is entitled to all costs and reasonable attorneys’ fees
+
+incurred as a result of the unlawful behavior complained of herein.
+
+                                       COUNT I – Title VII
+
+        50.     Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+        51.     By committing the foregoing acts of discrimination against Plaintiff, Defendant
+
+violated Title VII.
+
+        52.     Defendant acted with malice and/or a reckless indifference to Plaintiff’s rights,
+
+thereby warranting the imposition of punitive damages.
+
+        53.     As a direct and proximate result of Defendant’s violations of Title VII, Plaintiff
+
+has suffered the injuries, damages, and losses set forth herein.
+
+        54.     No previous application has been made for the relief requested herein.
+
+                                         COUNT II– ADA
+
+        55.     Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+        56.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant violated the ADA.
+
+        57.     Defendant acted with malice and/or a reckless indifference to Plaintiff’s rights,
+
+thereby warranting the imposition of punitive damages.
+
+        58.     As a direct and proximate result of Defendant’s violation of the ADA, Plaintiff
+
+has suffered the injuries, damages, and losses set forth herein.
+
+        59.     No previous application has been made for the relief requested herein.
+
+
+
+
+                                                  7
+       Case 2:25-cv-06062-GAM           Document 1        Filed 10/23/25      Page 11 of 21
+
+
+
+
+                                       COUNT III - FMLA
+
+        60.     Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+        61.     By committing the foregoing acts against Plaintiff, Defendant violated the FMLA.
+
+        62.     By informing Plaintiff she did not qualify for FMLA leave, Defendant interfered
+
+with Plaintiff’s ability to use protected leave under the FMLA.
+
+        63.     Defendant, by terminating Plaintiff after she took a protected leave of absence,
+
+discriminated and retaliated against Plaintiff and violated the FMLA.
+
+        64.     Defendant’s actions were willful.
+
+        65.     The imposition of liquidated damages is warranted.
+
+        66.     As a direct and proximate result of Defendant’s violations of the FMLA, Plaintiff
+
+has suffered the damages and losses set forth herein.
+
+        67.     No previous application has been made for the relief requested herein.
+
+                                       COUNT IV – PHRA
+
+        68.     Plaintiff incorporates herein by reference the paragraphs above, as if set forth
+
+herein in their entirety.
+
+        69.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant violated the PHRA.
+
+        70.     As a direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein.
+
+        71.     No previous application has been made for the relief requested herein.
+
+
+
+
+                                                  8
+       Case 2:25-cv-06062-GAM          Document 1       Filed 10/23/25      Page 12 of 21
+
+
+
+
+                                            RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s improper conduct, and specifically prays that the Court grant the following relief to
+
+the Plaintiff by:
+
+                (a)   declaring the acts and practices complained of herein to be in violation of
+
+Title VII;
+
+                (b)   declaring the acts and practices complained of herein to be in violation of
+
+the ADA;
+
+                (c)   declaring the acts and practices complained of herein to be in violation of
+
+the FMLA;
+
+                (d)   declaring the acts and practices complained of herein to be in violation of
+
+the PHRA;
+
+                (e)   enjoining and permanently restraining the violations alleged herein;
+
+                (f)   entering judgment against Defendant and in favor of the Plaintiff in an
+
+amount to be determined;
+
+                (g)   awarding Plaintiff back pay and front pay;
+
+                (h)   awarding compensatory damages to Plaintiff for past and future pain and
+
+suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures, which
+
+Plaintiff has suffered or may suffer as a result of Defendant’s improper conduct;
+
+                (i)   awarding Plaintiff liquidated damages;
+
+                (j)   awarding Plaintiff punitive damages;
+
+                (k)   awarding Plaintiff interest;
+
+
+
+
+                                                9
+      Case 2:25-cv-06062-GAM           Document 1       Filed 10/23/25      Page 13 of 21
+
+
+
+
+                (l)   awarding Plaintiff such other damages as are appropriate under the Title
+
+VII, the ADA, FMLA, and the PHRA;
+
+                (m)   awarding Plaintiff the costs of suit, expert fees and other disbursements,
+
+                (n)   awarding Plaintiff reasonable attorneys’ fees; and,
+
+                (n)   granting such other and further relief as this Court may deem just, proper,
+
+or equitable.
+
+
+
+                                             CONSOLE MATTIACCI LAW, LLC
+
+Dated: October 23, 2025              BY:     ____________________________
+                                             Lane Schiff, Esquire
+                                             1525 Locust St., 9th Floor
+                                             Philadelphia, PA 19102
+                                             (215) 545-7676
+
+                                             Attorney for Plaintiff,
+                                             Alyk Oflazian
+
+
+
+
+                                               10
+Case 2:25-cv-06062-GAM   Document 1   Filed 10/23/25   Page 14 of 21
+
+
+
+
+   EXHIBIT A
+           Case 2:25-cv-06062-GAM   Document 1   Filed 10/23/25    Page 15 of 21
+
+
+
+
+                                          REDACTED
+
+                                                                  REDACTED
+REDACTED
+
+
+
+
+                            REDACTED
+Case 2:25-cv-06062-GAM   Document 1   Filed 10/23/25   Page 16 of 21
+Case 2:25-cv-06062-GAM   Document 1   Filed 10/23/25   Page 17 of 21
+
+
+
+
+                                                           REDACTED
+      REDACTED
+Case 2:25-cv-06062-GAM   Document 1   Filed 10/23/25   Page 18 of 21
+Case 2:25-cv-06062-GAM   Document 1   Filed 10/23/25   Page 19 of 21
+
+
+
+
+   EXHIBIT B
+           Case 2:25-cv-06062-GAM             Document 1        Filed 10/23/25       Page 20 of 21
+
+
+            U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+                                                                                          Philadelphia District Office
+                                                                                            801 Market St, Suite 1000
+                                                                                               Philadelphia, PA 19107
+                                                                                                       (267) 589-9700
+                                                                                              Website: www.eeoc.gov
+
+
+                       DETERMINATION AND NOTICE OF RIGHTS
+                        (This Notice replaces EEOC FORMS 161, 161-A & 161-B)
+
+                                            Issued On: 07/26/2025
+    To: Alyk Oflazian
+REDACTED
+R
+
+        Huntingdon Valley, PA 19006
+    Charge No: 530-2025-02092
+    EEOC      Representative        and Legal Unit
+    telephone number:
+                                          (267) 589-9707
+
+
+
+                           DETERMINATION AND NOTICE OF RIGHTS
+
+    The EEOC issues the following determination: The EEOC will not proceed further with its
+    investigation and makes no determination about whether further investigation would establish
+    violations of the statute. This does not mean the claims have no merit. This determination does not
+    certify that the respondent is in compliance with the statutes. The EEOC makes no finding as to
+    the merits of any other issues that might be construed as having been raised by this charge.
+
+                                  NOTICE OF YOUR RIGHT TO SUE
+
+    This is official notice that the EEOC has dismissed your charge and has issued you notice of your
+    right to sue the respondent(s) on this charge. If you choose to file a lawsuit against the
+    respondent(s) on this charge under federal law in federal or state court, your lawsuit must be filed
+    WITHIN 90 DAYS of your receipt of                              notice of dismissal. You should keep a
+    record of the date you received the                      notice of dismissal. Your right to sue based on
+    this charge will be lost if you do not file a lawsuit in court within 90 days. (The time limit for filing
+    a lawsuit based on a claim under state law may be different.)
+
+    If you file a lawsuit based on this charge, please sign-in to the EEOC Public Portal and upload the
+    court complaint to charge 530-2025-02092
+
+                                                    On behalf of the Commission,
+
+                                                    Digitally Signed By:Karen McDonough
+                                                    07/26/2025
+                                                    Karen McDonough
+                                                    Deputy Director
+      Case 2:25-cv-06062-GAM            Document 1   Filed 10/23/25   Page 21 of 21
+
+
+Cc:
+Jacklyn Ford
+Vorys, Sater, Seymour & Pease, LLP
+52 E GAY ST
+Columbus, OH 43215
+
+NA NA
+2318 Stahl Road
+Huntingdon Valley, PA 19006
+
+Lane J Schiff Esq.
+CONSOLE MATTIACCI LAW
+1525 Locust Street, 9th Floor
+Philadelphia, PA 19102
+
+
+Please retain this Notice for your records.
+

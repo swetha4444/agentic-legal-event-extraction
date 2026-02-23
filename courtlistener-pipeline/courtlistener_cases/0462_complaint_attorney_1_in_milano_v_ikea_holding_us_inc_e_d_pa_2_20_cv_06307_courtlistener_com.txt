@@ -1,0 +1,1154 @@
+Source URL: https://www.courtlistener.com/docket/18745940/1/milano-v-ikea-holding-us-inc/
+Title: Complaint (Attorney) – #1 in MILANO v. IKEA HOLDING US, INC. (E.D. Pa., 2:20-cv-06307) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 2:20-cv-06307-AB
+                                                      CIVILDocument
+                                                            COVER1SHEET
+                                                                    Filed 12/15/20 Page 1 of 21
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                          DEFENDANTS
+       Debra Milano                                                                                         ,.($+ROGLQJ86,QFGED,.($,.($865HWDLO//&GE
+                                                                                                            D,.($DQG,.($1RUWK$PHULFD6HUYLFHV//&GED,.($
+    (b)   County of Residence of First Listed Plaintiff             Bergen                                 County of Residence of First Listed Defendant              Montgomery
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                           NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                      THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                              Attorneys (If Known)
+           %ULDQ&)DUUHOO(VTXLUH&RQVROH0DWWLDFFL/DZ//&                                      3DXO/DQFDVWHU$GDPV(VTXLUH2JOHWUHH'HDNLQV1DVK6PRDN 
+           /RFXVW6WUHHWWK)ORRU3KLODGHOSKLD3$                                    6WHZDUW3&0DUNHW6WUHHW6XLWH3KLODGHOSKLD3$
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                       III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                        (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                            (U.S. Government Not a Party)                      Citizen of This State            1        Y 1      Incorporated or Principal Place         4     4
+                                                                                                                                                       of Business In This State
+
+    2   U.S. Government               ✖ 4    Diversity                                            Citizen of Another State          ✖ 2          2   Incorporated and Principal Place           5         5
+          Defendant                            (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                  Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                    Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                     Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                TORTS                            FORFEITURE/PENALTY                          BANKRUPTCY                    OTHER STATUTES
+    110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                         310 Airplane                    365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                     315 Airplane Product                Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument               Liability                  367 Health Care/                                                                                     400 State Reapportionment
+    150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment           Slander                        Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                   330 Federal Employers’              Product Liability                                               830 Patent                       450 Commerce
+    152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+         Student Loans                 340 Marine                          Injury Product                                                      New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)           345 Marine Product                  Liability                                                       840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                     Product Liability           380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability     360 Other Personal                  Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                          Injury                      385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                       362 Personal Injury -               Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                           Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                    441 Voting                      463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖ 442 Employment                  510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                  443 Housing/                        Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability             Accommodations              530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                           Employment                  Other:                        462 Naturalization Application                                             Agency Decision
+                                       446 Amer. w/Disabilities -      540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                           Other                       550 Civil Rights                  Actions                                                                State Statutes
+                                       448 Education                   555 Prison Condition
+                                                                       560 Civil Detainee -
+                                                                           Conditions of
+                                                                           Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                              (specify)                 Transfer                          Direct File
+                                         Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                          28 U.S.C. § 1332
+VI. CAUSE OF ACTION                      Brief description of cause:
+                                          Plaintiff brings this action for unlawful age discrimination under N.J.S.A. 10:5-1, et seq. (“NJLAD”).
+VII. REQUESTED IN                             CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                               UNDER RULE 23, F.R.Cv.P.                               In excess of $150,000                       JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                             (See instructions):
+      IF ANY                                                         JUDGE          Honorable Anita B. Brody                              DOCKET NUMBER 18-599; 19-723; 19-1286; 20-5556
+DATE                                                                   SIGNATURE OF ATTORNEY OF RECORD
+12/15/2020
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+              Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 2 of 21
+                         IN THE UNITED STATES DISTRICT COURT
+                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+                                                    :                        CIVIL ACTION
+         'HEUD0LODQR                               :
+                         v.                         :
+         ,.($+2/',1*86,1&GED,.($HWDO
+                                                    :
+                                                    :                        NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( [)
+
+
+                                                              3ODLQWLII'HEUD0LODQR
+Date                                 Attorney-at-law                     Attorney for
+                                                IDUUHOO#FRQVROHODZFRP
+
+Telephone                            FAX Number                          E-Mail Address
+
+
+(Civ. 660) 10/02
+                              Case 2:20-cv-06307-AB
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT   12/15/20 Page 3 of 21
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                               Ridgefield, NJ 07657
+Address of Plaintiff: ______________________________________________________________________________________________
+                                                $ODQ:RRG5RDG&RQVKRKRFNHQ3$
+Address of Defendant: ____________________________________________________________________________________________
+                                                                       &RQVKRKRFNHQ3$
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: 599;19-723;19-1286
+             ______________________________
+                                                                          Honorable Anita B. Brody
+                                                                Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes   ✔                   No
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case          ●   is /     is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+        12//2020
+DATE:__________________________________                      _________________BBBBBBBBBB______________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+               Brian C. Farrell
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+     [;       Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+     [
+     ;        Relief other than monetary damages is sought.
+
+
+       12//2020
+DATE:__________________________________                      _______________BBBBBBBBBBBB______________                                    319145
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+          Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 4 of 21
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+__________________________________________
+DEBRA MILANO                               :
+                                          :
+                  Plaintiff               :
+                                          :                 CIVIL ACTION NO. ___
+                                          :
+       v.                                 :                 JURY TRIAL DEMANDED
+                                          :
+                                          :
+IKEA HOLDING US, INC.                     :
+  d/b/a IKEA                              :
+                                          :
+IKEA US RETAIL, LLC                       :
+ d/b/a IKEA                               :
+                                          :
+             and                          :
+                                          :
+IKEA NORTH AMERICA SERVICES, LLC          :
+  d/b/a IKEA                              :
+                                          :
+                  Defendants              :
+                                          :
+__________________________________________:
+
+                                         COMPLAINT
+
+I.     PRELIMINARY STATEMENT.
+
+       Plaintiff, Debra Milano (“Plaintiff Milano”), brings this age discrimination action against
+
+her employer, IKEA Holding US, Inc. d/b/a IKEA, IKEA US Retail, LLC d/b/a IKEA, and
+
+IKEA North America Services, LLC d/b/a IKEA (collectively, “IKEA US” or “Defendants”).
+
+       The IKEA Group is a multinational company that openly expresses a preference in favor
+
+of young employees as the company’s future leaders, including in its operations in the United
+
+States. IKEA US openly and publicly violates US law prohibiting age discrimination, has a
+
+corporate culture of age discrimination, and has engaged in a company-wide pattern and practice
+
+of age discrimination against its older employees, including Plaintiff Milano.
+
+
+                                                1
+              Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 5 of 21
+
+
+
+
+         Plaintiff Milano is a current employee of IKEA US who has been adversely affected by
+
+IKEA US’s pattern and practice of age discrimination. She has repeatedly applied for open and
+
+available positions for which she has been well qualified, and repeatedly rejected in favor of
+
+substantially younger applicants. Plaintiff Milano has opted in to join two of the ADEA
+
+representative collective actions against IKEA now pending in this Court. In this lawsuit,
+
+Plaintiff Milano asserts claims under state law with respect to rejections for promotion that are,
+
+upon information and belief, the basis for her eligibility to participate as an opt-in plaintiff in
+
+those cases.
+
+         Plaintiff Milano seeks injunctive and declaratory relief against IKEA US to address its
+
+age discriminatory policies and practices, as well as damages against IKEA US for harm she has
+
+suffered as a result of the age discrimination alleged herein.
+
+II.      PARTIES.
+
+         1.      Plaintiff, Debra Milano, is an individual and citizen of the state of New Jersey,
+
+residing therein in Ridgefield, New Jersey, 07657.
+
+         2.      Plaintiff Milano was born in September 1956, and is currently 64 years old.
+
+         3.      Plaintiff Milano is a current IKEA US employee who works at the IKEA store
+
+located in Paramus, New Jersey.
+
+         4.      In addition to bringing the instant action against IKEA US, Plaintiff Milano has
+
+filed a Consent to Join as an opt-in plaintiff in Paine v. IKEA Holding US, Inc., et al. (E.D. Pa.
+
+2:19-cv-00723 (AB)), and Antonelli v. IKEA Holding US, Inc., et al. (E.D. Pa. 2:19-cv-01286
+
+(AB)).
+
+         5.      “IKEA” is a multinational company that presents and promotes itself publicly as a
+
+centrally controlled entity known as the “IKEA Group.”
+
+
+
+                                                   2
+            Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 6 of 21
+
+
+
+
+       6.       The IKEA Group operates in the United States through various owned and
+
+controlled subsidiary entities all of which do business as and present themselves as “IKEA,”
+
+including, without limitation, Defendants IKEA Holding US, Inc., IKEA US Retail, LLC, and
+
+IKEA North America Services, LLC.
+
+       7.       Defendant IKEA Holding US, Inc. is a Delaware corporation with headquarters
+
+and a principal place of business located in Conshohocken, Pennsylvania.
+
+       8.       Defendant IKEA Holding US, Inc., through its subsidiary entities, owns defendant
+
+IKEA US Retail, LLC, and its subsidiary, IKEA North America Services, LLC.
+
+       9.       Defendant IKEA US Retail, LLC is a limited liability company with headquarters
+
+and a principal place of business located in Conshohocken, Pennsylvania.
+
+       10.      Defendant IKEA North America Services, LLC is a limited liability company
+
+with headquarters and a principal place of business located in Conshohocken, Pennsylvania.
+
+       11.      Defendant IKEA North America Services, LLC is a subsidiary of Defendant
+
+IKEA US Retail, LLC. IKEA US Retail, LLC’s sole member is IKEA Property, Inc. IKEA
+
+Property, Inc. is a Delaware corporation with a principal place of business in Conshohocken,
+
+Pennsylvania.
+
+       12.      Defendants share common ownership, management, human resources and
+
+employment policies.
+
+       13.      The IKEA Group, through its various owned and controlled subsidiary
+
+companies, including Defendants, holds itself out to the public and its employees in the United
+
+States as one company.
+
+       14.      IKEA US is interconnected such that the entities that comprise it are considered a
+
+“single” and/or “integrated” employer, and/or “joint” employer.
+
+
+
+                                                 3
+             Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 7 of 21
+
+
+
+
+       15.      Defendants are alter-egos of each other, IKEA US and/or the IKEA Group.
+
+       16.      Defendants are interconnected such that each entity, individually or collectively,
+
+contributed to, caused and/or is responsible for the age discrimination alleged herein.
+
+       17.      IKEA US employs over 15,000 people.
+
+       18.      At all times material hereto, Defendants, individually and/or collectively, have
+
+been engaged in an industry affecting interstate commerce and have acted as an “employer”
+
+within the meaning of the New Jersey Law Against Discrimination, as amended, N.J.S.A. 10:5-1,
+
+et seq. (“NJLAD”).
+
+       19.      At all times material hereto, Defendants, individually and/or collectively,
+
+employed more than twenty (20) people.
+
+       20.      At all times material hereto, Defendants, individually and/or collectively, acted by
+
+and through their authorized agents, servants, and/or employees within the course and scope of
+
+their employment with Defendants and in furtherance of the business of Defendants.
+
+       21.      At all times material hereto, Plaintiff Milano has been an employee of
+
+Defendants, individually and/or collectively, within the meaning of the NJLAD.
+
+III.   JURISDICTION AND VENUE.
+
+       22.      Plaintiff Milano alleges causes of action arising under the NJLAD.
+
+       23.      The amount in controversy exceeds the sum or value of $75,000, exclusive of
+
+interest and costs.
+
+       24.      The District Court has jurisdiction over Plaintiff Milano’s claims pursuant to 28
+
+U.S.C. §1332 because Plaintiff Milano is a citizen of the state of New Jersey and each defendant
+
+is not, and the amount in controversy exceeds the sum or value of $75,000, exclusive of interest
+
+and costs.
+
+
+
+                                                 4
+           Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 8 of 21
+
+
+
+
+       25.     The District Court has personal jurisdiction over Defendant IKEA US Retail, LLC
+
+because, inter alia, Defendant IKEA US Retail, LLC maintains its headquarters and/or a
+
+principal place of business in Pennsylvania, maintains systematic and continuous activity such
+
+that it is at home in Pennsylvania, the actions giving rise and/or related to this suit occurred in
+
+Pennsylvania, and/or it has consented to the jurisdiction of this Court through, among other
+
+things, its appointment of an authorized agent in Pennsylvania to accept service of process.
+
+       26.     The District Court has personal jurisdiction over Defendant IKEA North America
+
+Services, LLC because, inter alia, Defendant IKEA North America Services, LLC maintains its
+
+headquarters and/or a principal place of business in Pennsylvania, maintains systematic and
+
+continuous activity such that it is at home in Pennsylvania, the actions giving rise and/or related
+
+to this suit occurred in Pennsylvania, and/or it has consented to the jurisdiction of this Court
+
+through, among other things, its appointment of an authorized agent in Pennsylvania to accept
+
+service of process.
+
+       27.     The District Court has personal jurisdiction over Defendant IKEA Holding US,
+
+Inc. because, inter alia, Defendant IKEA Holding US, Inc. maintains its headquarters and/or a
+
+principal place of business in Pennsylvania, maintains systematic and continuous activity such
+
+that it is at home in Pennsylvania, the actions giving rise and/or related to this suit occurred in
+
+Pennsylvania, and/or it has consented to the jurisdiction of this Court through, among other
+
+things, its appointment of an authorized agent in Pennsylvania to accept service of process.
+
+       28.     Venue is proper under 28 U.S.C. § 1391(b) because, without limitation,
+
+Defendants are residents in this judicial district and/or a substantial part of the events giving rise
+
+to Plaintiff Milano’s claims occurred in this judicial district.
+
+
+
+
+                                                   5
+          Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 9 of 21
+
+
+
+
+IV.     FACTUAL ALLEGATIONS SUPPORTING CLAIMS.
+
+                       IKEA US’s Policy of Favoring Younger Employees
+                       and its Pattern and Practice of Age Discrimination
+
+        29.     The IKEA Group is a multinational company that has a corporate culture of age
+
+bias.
+
+        30.     The IKEA Group openly expresses a preference in favor of young employees as
+
+the future leaders of the company.
+
+        31.     The IKEA Group has, among other things, directed IKEA US to set age-biased
+
+personnel goals for management level employees.
+
+        32.     The IKEA Group has, among other things, directed IKEA US to consider age in
+
+its employment decisions.
+
+        33.     The IKEA Group has, among other things, directed IKEA US to prefer younger
+
+individuals in management positions.
+
+        34.     The IKEA Group owns and controls IKEA US.
+
+        35.     IKEA US maintains headquarters that are located in Conshohocken,
+
+Pennsylvania.
+
+        36.     IKEA US refers to its U.S. headquarters as the “Service Office.”
+
+        37.     Upon information and belief, the Service Office is staffed by employees who
+
+receive their W-2 forms from defendant North America Services, LLC, but whose areas of
+
+responsibility cover the entirety of IKEA US.
+
+        38.     IKEA US utilizes centralized human resources and employment policies and
+
+strategies that are promulgated in and disseminated from the Service Office in Conshohocken,
+
+Pennsylvania.
+
+
+
+
+                                                6
+             Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 10 of 21
+
+
+
+
+       39.       IKEA US’s centralized human resources, personnel and employment policies and
+
+strategies are implemented in connection with the job application/selection for promotion
+
+process through, among things, the involvement of its internal recruiters. Among other things,
+
+the recruiters pre-screen applicants, interview candidates, make recommendations, and finally
+
+approve successful candidates for promotion.
+
+       40.       Upon information and belief, IKEA US asks all employees to indicate their
+
+willingness to relocate, and the recruiters consider same in screening applicants for all positions.
+
+       41.       Upon information and belief, IKEA US has a practice of closing and then re-
+
+posting job opportunities under a different requisition number and with relocation support in an
+
+effort to attract younger candidates.
+
+       42.       Upon information and belief, IKEA US has a practice of closing and then re-
+
+posting job opportunities under a different requisition number without relocation support in an
+
+effort to dissuade older candidates.
+
+       43.       IKEA US has a corporate culture of age bias.
+
+       44.       IKEA US has had in place a goal to create a younger management base.
+
+       45.       IKEA US has had in place a long-term strategy of having young people in
+
+management positions.
+
+       46.       IKEA US has had in place a policy to favor young employees in management
+
+positions.
+
+       47.       IKEA US openly expresses a preference in favor of young employees as the
+
+future leaders of the company.
+
+       48.       IKEA US has set age-biased personnel goals for management level employees.
+
+
+
+
+                                                 7
+             Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 11 of 21
+
+
+
+
+       49.       IKEA US considers age in its employment decisions and favors younger
+
+employees when making promotions decisions and selecting individuals for management
+
+positions.
+
+       50.       Age bias from the top-down infuses and infects the employment decision-making
+
+process throughout the entirety of IKEA US.
+
+       51.       IKEA US has engaged in systemic age discrimination against its older employees.
+
+       52.       IKEA US has engaged in a pattern and practice of age discrimination. Without
+
+limitation:
+
+                 a. IKEA US has had in place long term goals to have a younger management
+                    base and a certain number of younger individuals in management level
+                    positions. Every IKEA US store was directed that if it lost a member of its
+                    Store Steering Group, it was to fill the position with someone younger than
+                    35. Specific goals of having a certain number of younger employees in
+                    management positions were stated in writing by the US Strategic Human
+                    Resources Committee and communicated to every store throughout the United
+                    States. The goals have been spoken of and communicated in different ways,
+                    such as in terms of “age distribution goals,” “succession,” “potential” or
+                    “diversity.”
+
+                 b. IKEA US has tracked, monitored and reported on its age-biased personnel
+                    goals.
+                 c. IKEA US has had in place a long-term strategy for recruiting and promoting
+                    younger people into management positions.
+
+                 d. IKEA US has had in place leadership development programs as part of a
+                    strategy to advance young employees into management positions.
+
+                 e. IKEA US has had in place a policy of identifying the “potential” of its
+                    employees as a proxy to assess promotability in an age-biased manner.
+
+                 f. IKEA US has undertaken recruiting efforts aimed at recruiting young
+                    individuals into management positions.
+
+                 g. IKEA US has implemented “reorganization” efforts, including one entitled
+                    “Organization for Growth” (a/k/a “04G”), to eliminate older employees from
+                    management positions by, without limitation, terminating them, demoting
+                    them, or effectively forcing them out.
+
+                                                 8
+Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 12 of 21
+
+
+
+
+    h. IKEA US has had a promotions policy and/or practice that calls for the
+       consideration of data on internal applicants for management positions,
+       including their age.
+
+    i. IKEA US has had a job selection process by which older qualified applicants
+       seeking promotion are rejected without due consideration.
+
+    j. IKEA US has had a job selection process by which older qualified applicants
+       seeking promotion are precluded from consideration in favor of younger
+       applicants.
+
+    k. IKEA US subjects internal (generally older) applicants to requirements not
+       imposed upon external (generally younger) applicants.
+
+    l. IKEA US managers openly express age bias in favor of younger employees.
+
+    m. IKEA US fails to remediate complaints of age discrimination, and thus
+       promotes a culture in which discrimination against older employees is
+       tolerated and encouraged.
+
+    n. IKEA US has had in place programs explicitly aimed at promoting “young”
+       talent and/or “young” potentials.
+
+    o. IKEA US has expressly stated to all of its employees – including decision-
+       makers, applicants, potential applicants, and those charged with complying
+       with its stated anti-discrimination policies – that it is “looking for young
+       talents.”
+
+    p. IKEA US openly flouts the ADEA by, without limitation, publicizing
+       advertisements expressing a preference for “young” candidates, such as for its
+       “Global Young Potentials Program.”
+
+    q. IKEA US considers willingness to relocate when screening candidates for all
+       positions, including those that would not entail relocation, with the intention
+       of discouraging applications from and/or eliminating from consideration its
+       older employees. Further, to the extent that a relocation requirement does not
+       discourage or eliminate older applicants, IKEA US may rescind offers of
+       domestic relocation assistance to dissuade older applicants. Similarly, IKEA
+       US will close a position, and repost it to offer relocation assistance in order to
+       attract younger candidates.
+
+    r. IKEA US conducts sham interviews of older employees to provide a cover or
+       plausible deniability for age discrimination.
+
+    s. IKEA US has engaged in deceptive practices to try to conceal the effects of its
+       age discrimination. For example, and without limitation, managers select
+
+
+                                      9
+          Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 13 of 21
+
+
+
+
+                   younger employees for positions that are not officially posted and recorded in
+                   the company’s data, and the company sometimes “closes” certain job postings
+                   and then “re-posts” them under different requisition numbers.
+
+               t. IKEA US has engaged in deceptive practices to try to avoid the consequences
+                  of its age discrimination. For example, and without limitation, through O4G,
+                  employees were assigned “new” roles within the company. These “new” roles
+                  guaranteed base pay protection for IKEA employees through December 31,
+                  2018. However, following December 31, 2018, if the “new” assigned position
+                  came with a lower pay grade, the employees pay would then be reduced
+                  accordingly. Upon information and belief, this was a scheme intended to harm
+                  older employees by removing them from management positions while lulling
+                  and/or deceiving them into foregoing their rights to pursue age discrimination
+                  claims past the 300-day federal charge filing deadlines.
+
+               u. IKEA US instructs its Human Resources and recruiting managers to consider
+                  age in making employment decisions.
+
+               v. IKEA US, under the guise of “diversity,” sets goals to have younger
+                  employees in management positions and/or promotes age “balance” in the
+                  workforce.
+
+               w. IKEA US intentionally fails to promote older employees because of their age.
+
+               x. IKEA US fails to promote older employees because of their age.
+
+       53.     Since February 12, 2018, several current or former employees of IKEA US have
+
+filed age discrimination lawsuits against Defendants in the United States District Courts,
+
+alleging, among other things, that IKEA operating in the US considers age in its employment
+
+decisions and acts upon its openly expressed preference in favor of younger employees to the
+
+detriment of its older employees. The captions of these lawsuits are as follows:
+
+               a. Donofrio v. IKEA US Retail, LLC (E.D. Pa. No. 2:18-cv-00599-AB) (Feb. 12,
+                  2018);
+
+               b. Parker v. IKEA North America Services, LLC (E.D. Pa. 2:18-cv-03261-AB)
+                  (Aug. 1, 2018);
+
+               c. Gorbeck v. IKEA North America Services, LLC, et al. (E.D. Pa. 2:18-cv-
+                  00599-AB) (Aug. 27, 2018);
+
+
+
+                                                10
+         Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 14 of 21
+
+
+
+
+                 d. Nasci v. IKEA North America Services, LLC (W.D. Pa. 2:18-cv-01643-CB)
+                    (Dec. 10, 2018);
+
+                 e. Paine v. IKEA Holding US, Inc., et al. (E.D. Pa. 2:19-cv-00723 -AB)(Feb. 21,
+                    2019);
+
+                 f. Antonelli, Jr. v. IKEA Holding US, Inc., et al. (E.D. Pa. 2:19-cv-01286-AB)
+                    (March 27, 2019); and
+
+                 g. Branson, et al. v. IKEA Holding US, Inc., et al. (E.D. Pa. 2:20-cv-05556-
+                    AB)(Nov. 6, 2020).
+
+       54.       The Donofrio, Antonelli, and Paine cases are ADEA representative collective
+
+actions that have been conditionally certified by this Court and are now pending.
+
+       55.       In its May 15, 2019 memorandum accompanying its order to conditionally certify
+
+Donofrio (2:18-cv-00599 at ECF 70), the Court stated, among other things:
+
+
+             •   “Donofrio has put forth testimonial evidence that IKEA employees that were
+                 tasked with promotion decision-making were aware of and took into
+                 consideration what they perceived to be a broad organizational preference for the
+                 promotion of young employees to management positions.” Id. at p. 6.
+
+             •   “Donofrio also presents evidence that IKEA tracked the ages of its management
+                 personnel beginning in 2012 and continuing thereafter.” Id. at p. 7.
+
+             •   “…Donofrio presents evidence to substantiate his allegation that IKEA had a
+                 potentially discriminatory ‘succession planning’ policy in relation to promotion
+                 decision-making.” Id.
+
+             •   “Donofrio also presents evidence that IKEA used ‘potential’ ratings as a proxy
+                 for age-based assessments of promotability.” Id. at p. 8.
+
+             •   “…Donofrio presents evidence that IKEA’s policies had a nationwide scope…”
+                 Id.
+       56.       IKEA US has taken no steps to address its age discriminatory policies and
+
+practices as alleged and substantiated in Donofrio or otherwise.
+
+       57.       IKEA US has continued its age discriminatory policies and practices as alleged
+
+and substantiated in Donofrio or otherwise.
+
+                                                 11
+          Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 15 of 21
+
+
+
+
+       58.     For example, and without limitation, IKEA US has not changed its “Promotions
+
+& Transfer” policy; IKEA US continues to express a broad organizational preference for the
+
+promotion of young employees into management position that decision-makers are aware of and
+
+consider in selection decisions; IKEA US continues to track the ages of its management
+
+personnel; IKEA US continues to engage in age discriminatory succession planning with the
+
+intention of building a “bench” or “pipeline” of young employees as future leaders; IKEA US
+
+continues to use “potential” as a proxy for age-biased assessments of promotability; IKEA US
+
+continues its efforts to attract young candidates by, for example, advertising on its Intranet that it
+
+is looking for “fresh” talent; and IKEA US continues to unlawfully consider age in its
+
+employment decisions under the guise of “diversity.”
+
+       59.     IKEA US’s employment policies and/or practices are infected with age bias from
+
+the top down and infuse all aspects of its employment decisions.
+
+       60.     IKEA US’s policies infected with age bias, its corporate culture of age bias, its
+
+open expression of considering age in employment decisions, and/or its openly expressed
+
+preference for developing and/or selecting younger employees as its future leaders, affect the
+
+employment decisions made by IKEA US and adversely affects IKEA US’s older employees,
+
+including Plaintiff Milano.
+
+       61.     Since the time periods at issue in Donofrio, Antonelli and Paine, IKEA US has
+
+continued to engage in a pattern and practice of age discrimination, including its general and
+
+pervasive corporate policy of preferring young candidates for promotion, that has adversely
+
+affected its older employees, including Plaintiff Milano.
+
+       62.     Since the time periods at issue in Donofrio, Antonelli and Paine, IKEA US has
+
+rejected for promotion older employees, including Plaintiff Milano, because of their age.
+
+
+
+                                                  12
+          Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 16 of 21
+
+
+
+
+       63.     Since the time periods at issue in Donofrio, Antonelli and Paine, IKEA US has
+
+intentionally discriminated against Plaintiff Milano because of her age.
+
+       64.     In the alternative, since the time periods at issue in Donofrio, Antonelli and Paine,
+
+to the extent that Defendants’ facially neutral employment policies and practices have not been
+
+used by Defendants to discriminate intentionally, the continued use of one or more of each has
+
+resulted in a disparate impact against older employees, including Plaintiff Milano, as follows:
+
+               a. Upon information and belief, Defendants’ assessment and identification of
+                  the potential of its employees has resulted in a statistically significant
+                  disparity in the promotion rates of its older employees.
+
+               b. Upon information and belief, Defendants’ policies regarding relocation have
+                  resulted in a statistically significant disparity in the promotion rates of its
+                  older employees.
+
+
+                                         Plaintiff Debra Milano
+
+       65.     IKEA US hired Plaintiff Milano on or about June 21, 2003, as a Sales Co-worker
+
+to work in Defendants’ Paramus, New Jersey store.
+
+       66.     Throughout her employment with IKEA US, Plaintiff Milano has consistently
+
+demonstrated positive performance and has performed her duties in a highly competent manner.
+
+For example, and without limitation, she has received positive performance reviews and has been
+
+awarded with merit-based pay increases consistently since 2010.
+
+       67.     Defendants’ pattern and practice of age discrimination, including its general and
+
+pervasive corporate policy of preferring younger candidates for promotion, has adversely
+
+affected Plaintiff Milano’s advancement in the company.
+
+       68.     Plaintiff Milano several times applied for promotion to positions for which she
+
+was qualified but has been rejected because of her age. Without limitation:
+
+
+
+                                                13
+           Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 17 of 21
+
+
+
+
+               a. In or about February 2018, Plaintiff Milano, at age 61, applied for promotion to
+                  the Active Selling Leader position in the Paramus, New Jersey store.
+                  Notwithstanding her qualifications, Defendants rejected Plaintiff Milano’s
+                  application and selected for the position Noel Diaz (age 27).
+
+               b. In or about February 2019, Plaintiff Milano, at age 62, applied for promotion to
+                  two open and available Leader positions in Defendants’ Paramus, New Jersey
+                  store. Defendants rejected Plaintiff Milano’s application and selected for the
+                  positions two substantially younger applicants.
+
+         69.      Upon information and belief, Defendants’ rejection of Plaintiff Milano for
+
+promotion to one or more of the positions identified in Paragraph 68 is the basis for Plaintiff
+
+Milano’s eligibility to participate as an opt-in plaintiff in Paine v. IKEA Holding US, Inc., et al.
+
+(E.D. Pa. 2:19-cv-00723 (AB)), and Antonelli v. IKEA Holding US, Inc. (E.D. Pa. 2:19-cv-01286
+
+(AB)).
+
+         70.      Plaintiff Milano’s claims with respect to Defendants’ rejection in 2019 of her
+
+application for the open and available positions in Paramus, as set forth herein, are timely under
+
+the NJLAD.
+
+         71.      In this lawsuit, Plaintiff Milano seeks all remedies available to her under the
+
+NJLAD for Defendants’ 2019 rejections of her applications that are not otherwise available to
+
+her as an opt-in plaintiff in the representative collective actions.
+
+         72.      Defendants have not addressed or remediated IKEA’s age discrimination as
+
+alleged in the representative actions lawsuits brought against the company. On the contrary,
+
+IKEA US has continued its pattern and practice of age discrimination, including its policy of
+
+preferring younger candidates for promotion, to the detriment of Plaintiff Milano.
+
+         73.      Plaintiff Milano was qualified for the 2019 Team Leader positions for which she
+
+applied.
+
+
+
+
+                                                   14
+             Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 18 of 21
+
+
+
+
+       74.       In or about February 2019, Plaintiff Milano was interviewed over the phone and
+
+was told to wait to hear back from IKEA for an in-person interview for the Team Leader
+
+positions.
+
+       75.       Plaintiff Milano understood this directive to mean that she would be advanced
+
+through the hiring process to an in-person interview.
+
+       76.       IKEA did not conduct an in-person interview with Plaintiff Milano for either of
+
+the Team Leader positions.
+
+       77.       In or about February 2019, Plaintiff Milano learned that she had been rejected for
+
+the Team Leader positions.
+
+       78.       IKEA US selected for the Team Leader positions Janel Lugo (age 23) and Nicole
+
+Lobell (age 25).
+
+       79.       Plaintiff Milano was at least as, if not more, qualified than Ms. Lugo because of,
+
+without limitation, Plaintiff Milano’s nearly fifteen (15) years of experience working with IKEA
+
+at the Paramus, New Jersey store.
+
+       80.       Plaintiff Milano was at least as, if not more, qualified than Ms. Lobell because of,
+
+without limitation, her experience.
+
+       81.       Defendants failed to promote Plaintiff Milano to the Team Leader positions
+
+because of her age.
+
+       82.       As a direct and proximate result of the age discriminatory and unlawful conduct
+
+of Defendants in failing to promote and rejecting Plaintiff Milano in 2019 for the Team Leader
+
+positions, Plaintiff Milano has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earnings capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of
+
+
+
+
+                                                  15
+             Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 19 of 21
+
+
+
+
+self-esteem, mental anguish, and loss of life’s pleasures, the full extent of which is not known at
+
+this time.
+
+        83.      Defendants’ conduct in failing to promote and rejecting Plaintiff Milano for the
+
+Team Leader positions was especially egregious.
+
+        84.      Members of upper management of Defendants had actual participation in, or
+
+willful indifference to, the unlawful acts of age discrimination alleged herein.
+
+                                  COUNT I -
+                    PLAINTIFF MILANO AGAINST DEFENDANTS
+               FOR AGE DISCRIMINATION IN VIOLATION OF THE NJLAD
+        85.      Plaintiff Milano incorporates by reference paragraphs 1 through 84 of the
+
+Complaint as if fully set forth herein.
+
+        86.      Defendants, by their age discriminatory and unlawful conduct in failing to
+
+promote and rejecting Plaintiff Milano for each of the Team Leader positions, have violated the
+
+New Jersey Law Against Discrimination, as amended, N.J.S.A. 10:5-1, et seq.
+
+        87.      Defendants’ conduct warrants the imposition of punitive damages.
+
+        88.      Plaintiff Milano has in the past incurred, and may in the future incur, a loss of
+
+earnings and/or earnings capacity, loss of benefits, pain and suffering, embarrassment,
+
+humiliation, loss of self-esteem, mental anguish, and loss of life’s pleasures, the full extent of
+
+which is not known at this time.
+
+        89.      Plaintiff Milano is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and unlawful acts unless and until
+
+this Court grants the relief requested herein.
+
+
+
+
+                                                  16
+           Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 20 of 21
+
+
+
+
+                                             RELIEF
+
+         WHEREFORE, Plaintiff, Debra Milano, respectfully requests that this Court enter
+
+judgment in her favor and against Defendants, IKEA Holding US, Inc. d/b/a IKEA, IKEA US
+
+Retail, LLC d/b/a IKEA, and IKEA North America Services, LLC d/b/a IKEA, and issue an
+
+Order:
+
+                a.     declaring the acts, policies and practices complained of to be a violation of
+
+                       the New Jersey Law Against Discrimination, as amended, N.J.S.A. 10:5-1,
+
+                       et seq.;
+
+                b.     enjoining and restraining permanently the violations alleged herein;
+
+                c.     awarding compensatory damages to Plaintiff Milano to make her whole
+
+                       for all past and future lost earnings, benefits, earnings capacity and other
+
+                       injuries which Plaintiff Milano has suffered and will continue to suffer as
+
+                       a result of Defendants’ discriminatory conduct;
+
+                d.     awarding compensatory damages to Plaintiff Milano to make her whole
+
+                       for all past and future pain and suffering, emotional distress,
+
+                       embarrassment, humiliation, loss of self-esteem, mental anguish, and loss
+
+                       of life’s pleasures that she has suffered and will continue to suffer as a
+
+                       result of Defendants’ age discriminatory conduct;
+
+                e.     awarding punitive damages to Plaintiff Milano and against Defendants;
+
+                f.     awarding to Plaintiff Milano the costs of this action, together with
+
+                       reasonable attorney’s fees;
+
+                g.     awarding Plaintiff Milano such other damages as are appropriate under the
+
+                       anti-discrimination law at issue herein;
+
+
+                                                 17
+        Case 2:20-cv-06307-AB Document 1 Filed 12/15/20 Page 21 of 21
+
+
+
+
+             h.     granting such other and further relief as this Court deems appropriate.
+
+                                                  CONSOLE MATTIACCI LAW, LLC
+
+                                   BY:            /s/ Brian C. Farrell
+                                                  Stephen G. Console
+                                                  Laura C. Mattiacci
+                                                  Susan M. Saint-Antoine
+                                                  Brian C. Farrell
+                                                  Julie A. Uebler
+                                                  Colin A. Saltry
+                                                  1525 Locust Street, 9th Floor
+                                                  Philadelphia, PA 19102
+                                                  (215) 545-7676; (215) 565-2855 (fax)
+                                                  console@consolelaw.com
+                                                  mattiacci@consolelaw.com
+                                                  santanto@consolelaw.com
+                                                  farrell@consolelaw.com
+                                                  uebler@consolelaw.com
+                                                  saltry@consolelaw.com
+                                                  Attorneys for Plaintiff, Debra Milano
+Dated: December 15, 2020
+
+
+
+
+                                             18
+

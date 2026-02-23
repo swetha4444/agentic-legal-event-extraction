@@ -1,0 +1,1067 @@
+Source URL: https://www.courtlistener.com/docket/59683567/1/wolf-v-temple-university/
+Title: Complaint (Attorney) – #1 in WOLF v. TEMPLE UNIVERSITY (E.D. Pa., 2:21-cv-00866) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 2:21-cv-00866-WB
+                                                       CIVILDocument
+                                                             COVER1SHEET
+                                                                     Filed 02/25/21 Page 1 of 35
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+
+    Betsy Wolf                                                                                                 Temple University
+    (b)   County of Residence of First Listed Plaintiff                Montgomery                              County of Residence of First Listed Defendant              Philadelphia
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Caren N. Gurmankin, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                      365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product                  Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                     400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                          Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’                Product Liability                                               830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                            Injury Product                                                      New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product                    Liability                                                       840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability             380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal                    Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                        385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -                 Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                        463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment                    510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                          Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability               Accommodations                530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment                    Other:                        462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -        540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                             Other                         550 Civil Rights                  Actions                                                                State Statutes
+                                         448 Education                     555 Prison Condition
+                                                                           560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000, et seq., 29 U.S.C. § 623 et seq.
+VI. CAUSE OF ACTION                          Brief description of cause: Plaintiff was discriminated against based on her age, and retaliated against based on her complaints about
+                                                                         discrimination.
+VII. REQUESTED IN                                CHECK IF THIS IS A CLASS ACTION                   DEMAND $                            CHECK YES only if demanded in complaint:
+     COMPLAINT:                                  UNDER RULE 23, F.R.Cv.P.                       in excess of $75,000                   JURY DEMAND:            X Yes        No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+        2/25/2021
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                              Case 2:21-cv-00866-WB
+                                                UNITEDDocument   1 Filed
+                                                       STATES DISTRICT    02/25/21 Page 2 of 35
+                                                                       COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                         Elkins Park, PA 19027
+Address of Plaintiff: ______________________________________________________________________________________________
+                                           1801 N. Broad Street, Philadelphia, PA 19127
+Address of Defendant: ____________________________________________________________________________________________
+                                                        1801 N. Broad Street, Philadelphia, PA 19127
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      02/25/2021
+DATE: __________________________________                     __________________________________________
+                                                                    __
+                                                                     ___
+                                                                      _ __
+                                                                        _ ___________________________                                      205900
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / P
+                                                                                           Pro
+                                                                                             ro Se Plaintiff                                  Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+           Caren N. Gurmankin
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X        exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+      X
+
+      02/25/2021
+DATE: __________________________________                     __________________________________________
+                                                                   ___
+                                                                    ___
+                                                                      ___
+                                                                       ____
+                                                                         _______________
+                                                                                      ______________
+                                                                                                  _____                                    205900
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law
+                                                                                       w/P
+                                                                                         Pro
+                                                                                           ro Se Plaintiff                                Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+              Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 3 of 35
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+  BETSY WOLF                                      :                          CIVIL ACTION
+                                                  :
+                       v.                         :
+                                                  :
+   TEMPLE UNIVERSITY                              :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+02/25/2021                                                          Plaintiff, Betsy Wolf
+Date                               Attorney-at-law                       Attorney for
+ 215-545-7676                   215-405-2900                          gurmankin@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 4 of 35
+
+
+
+
+                IN THE UNITED STATES DISTRICT COURT FOR
+                 THE EASTERN DISTRICT OF PENNSYLVANIA
+
+________________________________
+                                              :
+BETSY WOLF                                    :
+Elkins Park, PA 19027                         :      CIVIL ACTION NO.
+                                              :
+                              Plaintiff,      :
+                                              :
+               v.                             :
+                                              :
+TEMPLE UNIVERSITY                             :
+1801 N. Broad Street                          :      JURY TRIAL DEMANDED
+Philadelphia, PA 19127                        :
+                                              :
+                                              :
+                        Defendant.            :
+________________________________              :
+
+                                      COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Betsy Wolf, brings this action against her former employer, Temple
+
+University (“Defendant”). Despite Plaintiff’s positive performance history over thirteen
+
+(13) years of employment, Defendant terminated her employment when she was sixty
+
+seven (67) years old and one of the oldest employees in her department. Defendant also
+
+terminated Plaintiff, who is Jewish, after she complained that Defendant failed to take
+
+appropriate action when she was targeted by someone putting a swastika by her office.
+
+After Plaintiff was terminated, and complained regarding Defendant’s improper conduct,
+
+Defendant further discriminated and retaliated against her by failing to hire her back into
+
+open positions for which she was qualified.
+
+       Defendant’s discriminatory and retaliatory conduct was in violation of Title VII
+
+of the Civil Rights Act of 1964, as amended, 42 U.S.C. §2000, et seq. (“Title VII”), the
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 5 of 35
+
+
+
+
+Age Discrimination in Employment Act, as amended, 29 U.S.C. § 623 et seq. (”ADEA”),
+
+the Pennsylvania Human Relations Act, as amended, 43 P.S. §951, et seq. (“PHRA”), and
+
+the Philadelphia Fair Practices Ordinance, as amended, Phila. Code § 9-1100, et seq.
+
+(“PFPO”).
+
+II.    PARTIES
+
+       1.      Plaintiff, Betsy Wolf, is an individual and a citizen of the
+
+Commonwealth of Pennsylvania.
+
+       2.      Plaintiff was sixty seven (67) years old at the time that Defendant
+
+terminated her employment in June 2018.
+
+       3.      Defendant, Temple University, is incorporated in Pennsylvania, with a
+
+principal place of business at 1801 N. Broad Street, Philadelphia, PA 5000 South Broad
+
+Street, Philadelphia, PA 19127.
+
+       4.      Defendant is engaged in an industry affecting interstate commerce and
+
+regularly does business in the Commonwealth of Pennsylvania.
+
+       5.      At all times material hereto, Defendant employed more than twenty (20)
+
+employees.
+
+       6.      At all times material hereto, Defendant acted by and through its authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendant and in furtherance of Defendant’s business.
+
+       7.      At all times material hereto, Defendant acted as an employer within the
+
+meaning of the statutes which form the basis of this matter.
+
+       8.      At all times material hereto, Plaintiff was an employee of Defendant
+
+within the meaning of the statutes which form the basis of this matter.
+
+
+
+
+                                             2
+       Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 6 of 35
+
+
+
+
+III.   JURISDICTION AND VENUE
+
+       9.       The causes of action which form the basis of this matter arise under Title
+
+VII, the ADEA, the PHRA, and the PFPO.
+
+       10.      The District Court has jurisdiction over Count I (Title VII) pursuant to 42
+
+U.S.C. §2000e-5 and 28 U.S.C. §1331.
+
+       11.      The District Court has jurisdiction over Count II (ADEA) pursuant to 29
+
+U.S.C. §626(c) and 28 U.S.C. §1331.
+
+       12.      The District Court has jurisdiction over Count III (PHRA) pursuant to 28
+
+U.S.C. §1367.
+
+       13.      The District Court has jurisdiction over Count IV (PFPO) pursuant to 28
+
+U.S.C. §1367.
+
+       14.      Venue is proper in the District Court under 28 U.S.C. §1391(b).
+
+       15.      On or about December 3, 2018, Plaintiff filed a Complaint of
+
+Discrimination with the Pennsylvania Human Relations Commission (“PHRC”),
+
+complaining of acts of discrimination and retaliation alleged herein. The Complaint was
+
+cross-filed with the Equal Employment Opportunity Commission (“EEOC”). Attached
+
+hereto, incorporated herein and marked as Exhibit “1” is a true and correct copy of the
+
+PHRC Complaint of Discrimination (with personal identifying information redacted).
+
+       16.      On January 21, 2020, Plaintiff filed a second Complaint with the PHRC,
+
+and cross-filed the same with the EEOC. Attached hereto, incorporated herein and
+
+marked 8as Exhibit “2” is a true and correct copy of the second Complaint of
+
+Discrimination (with personal identifying information redacted).
+
+       17.      On or about December 15, 2020, the EEOC issued to Plaintiff a Dismissal
+
+
+
+
+                                             3
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 7 of 35
+
+
+
+
+and Notice of Rights for her Complaints of Discrimination. Attached hereto,
+
+incorporated herein and marked as Exhibit “3” is a true and correct copy of that notice
+
+(with personal identifying information redacted).
+
+       18.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+       19.     Plaintiff started working at Defendant’s School of Medicine in about
+
+March 2005.
+
+       20.     In around December 2015, Plaintiff was promoted into the position of
+
+Senior Administrator, Family and Community Medicine. She held that position up until
+
+her termination in June 2018.
+
+       21.     Around the time that Plaintiff was promoted into the position of Senior
+
+Administrator, Family and Community Medicine, she started reporting to Lisa Fino,
+
+Chief Operating Officer and Thomas Kupp, Executive Director. Both Fino and Kupp
+
+reported to Larry Kaiser, Dean of School of Medicine.
+
+       22.     At all times material hereto, Plaintiff performed her job responsibilities in
+
+a highly competent manner.
+
+       23.     On or about November 16, 2017, Plaintiff arrived at work to find a
+
+swastika drawn on the wall next to her office door, right below her nameplate.
+
+       24.     As Plaintiff, who is Jewish, was well aware, the swastika was used as a
+
+symbol of the Nazi Party and is a renowned and virulent representation of anti-Semitism.
+
+       25.     Plaintiff was extremely shocked and upset by the sight of the swastika,
+
+such that Fino sent her home for the day.
+
+
+
+
+                                             4
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 8 of 35
+
+
+
+
+       26.     On November 17, 2017, Plaintiff, assuming that Defendant had filed a
+
+report with the Philadelphia Police Department regarding the swastika, requested a copy
+
+of the same. Defendant’s response was the incident was just “vandalism” and that it had
+
+not, and would not be, notifying the Philadelphia Police Department of the same.
+
+       27.     On that same day, Defendant contacted Plaintiff to let her know that it was
+
+sorry about the “unacceptable discrimination” to which she had been subjected in
+
+connection with the swastika, that Defendant’s Associate Vice President of Diversity had
+
+been notified, and that Plaintiff could utilize Defendant’s Employee Assistance Program
+
+if she needed to do so.
+
+       28.     Approximately five (5) days later, Defendant’s Police Department
+
+contacted Plaintiff to review the details of the incident with her.
+
+       29.     To Plaintiff’s information and belief, Defendant interviewed only one
+
+other employee in her department, other than Plaintiff, in connection with the swastika
+
+incident.
+
+       30.     In or around November 2017, Plaintiff contacted the Anti-Defamation
+
+League (“ADL”) in connection with Defendant’s failure to take remedial and/or
+
+corrective action regarding the swastika. The ADL informed Plaintiff that it had advised
+
+Defendant regarding Plaintiff’s complaints about Defendant’s failure to respond
+
+appropriately to the swastika.
+
+       31.     On or about December 4, 2017, Plaintiff complained to Defendant about
+
+the religious discrimination to which she was subjected in connection with both the
+
+swastika and Defendant’s failure to take the incident seriously.
+
+       32.     Plaintiff specifically complained that she had been targeted as a Jewish
+
+
+
+
+                                              5
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 9 of 35
+
+
+
+
+employee, that Defendant did not address the situation as the hate crime that it was but,
+
+rather, described it as mere “vandalism”, and that Defendant failed to address the issue
+
+with the staff at Defendant’s School of Medicine where Plaintiff worked or with
+
+Defendant’s community about the same.
+
+       33.     Plaintiff further advised Defendant that she had contacted the ADL in
+
+connection with Defendant’s failure to address the incident properly.
+
+       34.     Defendant did not respond to Plaintiff’s complaints at that time.
+
+       35.     On or about December 12, 2017, Defendant represented that it would look
+
+into installing surveillance cameras in the lobby of Plaintiff’s building.
+
+       36.     Defendant also said that it would meet individually with Plaintiff and the
+
+other employees in her department regarding the incident involving the swastika
+
+       37.     To Plaintiff’s knowledge, Defendant did not install surveillance cameras
+
+in the lobby of her building, or even follow up with Plaintiff regarding its representation
+
+that it would look into doing so, and it did not meet individually with employees in
+
+Plaintiff’s department about the swastika incident.
+
+       38.     Shortly thereafter, Plaintiff complained to Defendant’s President, Richard
+
+Englert, that Defendant had failed to respond appropriately in connection with the
+
+swastika that she found outside her office, including that it had not taken the incident
+
+seriously and, in particular, that it had not taken steps to address the anti-Semitic nature
+
+of the incident.
+
+       39.     Plaintiff specifically included in her complaint that Defendant had pushed
+
+the swastika incident “under the rug”, that its response to the same was “lackluster”, and
+
+that it seemed more important for Defendant to avoid bad press than to keep its own
+
+
+
+
+                                              6
+        Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 10 of 35
+
+
+
+
+community safe from racial and ethnic threats and to educate the community about hate
+
+crimes such as this one.
+
+         40.    Defendant’s response to Plaintiff’s complaints involved only President
+
+Englert letting Plaintiff know that he had been unaware of Plaintiff’s experience and that
+
+he was sorry about the same.
+
+         41.    No one at Defendant followed up with Plaintiff regarding the swastika or
+
+her complaints regarding Defendant’s failure to take appropriate action regarding the
+
+same.
+
+         42.    On or about June 7, 2018, Defendant terminated Plaintiff’s employment.
+
+         43.    Defendant told Plaintiff that the reason for her termination was that her
+
+position was eliminated.
+
+         44.    When Plaintiff asked whether her termination was due to her age, as she
+
+was one of the oldest employees in her department and one of the oldest Senior
+
+Administrators in Defendant’s School of Medicine, she was told only that Defendant had
+
+talked to its lawyers who had approved the decision to terminate her employment, and
+
+that it was a budgetary issue.
+
+         45.    In the year prior to Plaintiff’s termination, Kupp had asked her about her
+
+retirement plans. He said that he was asking in order to be able to plan for the future.
+
+         46.    In response to Kupp’s question about retirement, Plaintiff said that she did
+
+not have plans to retire at that time.
+
+         47.    Defendant’s stated reason for Plaintiff’s termination, that her position was
+
+eliminated because of budgetary issues, was pretextual.
+
+         48.    Plaintiff was aware that, shortly before her termination, Defendant had
+
+
+
+
+                                              7
+     Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 11 of 35
+
+
+
+
+promoted a substantially younger, less qualified employee into the same position that
+
+Plaintiff held, that of Senior Administrator, within Defendant’s School of Medicine in
+
+which Plaintiff worked.
+
+       49.     In or around November 2018, Defendant posted an open position of Senior
+
+Administrator within its School of Medicine.
+
+       50.     Plaintiff applied for the open position of Senior Administrator that
+
+Defendant posted in around November 2018.
+
+       51.     Plaintiff was qualified for the position of Senior Administrator for which
+
+she applied in November 2018.
+
+       52.     Other than confirming that Plaintiff’s application was received, Defendant
+
+did not respond to Plaintiff’s application for the Senior Administrator position for which
+
+she applied in November 2018.
+
+       53.     Defendant did not hire, or even interview, Plaintiff for the Senior
+
+Administrator position for which she applied in November 2018.
+
+       54.     Defendant did not provide Plaintiff with a reason as to why it failed to hire
+
+her into the Senior Administrator position for which she applied in November 2018.
+
+       55.     Plaintiff filed her Complaint with the PHRC on December 3, 2018.
+
+Defendant was advised of her filing her PHRC Complaint on that same day.
+
+       56.     On or about December 11, 2018, Plaintiff applied for two (2) open Senior
+
+Administrator positions that Defendant posted.
+
+       57.     Plaintiff was qualified for both Senior Administrator positions to which
+
+she applied in around December 2018.
+
+       58.     Other than confirming that Plaintiff’s application was received, Defendant
+
+
+
+
+                                             8
+     Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 12 of 35
+
+
+
+
+did not respond to Plaintiff’s applications for the Senior Administrator positions for
+
+which she applied in December 2018.
+
+       59.     Defendant did not hire, or even interview, Plaintiff for the Senior
+
+Administrator positions for which she applied in December 2018.
+
+       60.     Defendant did not provide Plaintiff with a reason as to why it failed to hire
+
+her into the Senior Administrator positions for which she applied in December 2018.
+
+       61.     In or around November 2019, Plaintiff applied for an open Senior
+
+Administrator position that Defendant posted.
+
+       62.     Other than confirming that Plaintiff’s application was received, Defendant
+
+did not respond to Plaintiff’s application for the Senior Administrator positions for which
+
+she applied in November 2019.
+
+       63.     Defendant did not hire, or even interview, Plaintiff for the Senior
+
+Administrator position for which she applied in November 2019.
+
+       64.     Defendant did not provide Plaintiff with a reason as to why it failed to hire
+
+her into the Senior Administrator positions for which she applied in November 2019.
+
+       65.     Plaintiff’s age was a motivating and/or determinative factor in connection
+
+with Defendant’s discriminatory treatment of Plaintiff, including terminating her
+
+employment and failing to hire her into open positions.
+
+       66.     Plaintiff’s complaints of discrimination were motivating and/or
+
+determinative factors in connection with Defendant’s retaliatory conduct to which
+
+Plaintiff was subjected, including terminating her employment and failing to hire her into
+
+open positions.
+
+       67.     The retaliatory actions taken against Plaintiff after she complained of
+
+
+
+
+                                             9
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 13 of 35
+
+
+
+
+discriminatory conduct would have discouraged a reasonable employee from
+
+complaining of discrimination.
+
+        68.       As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendant, Plaintiff has in the past incurred, and may in the future incur, a
+
+loss of earnings and/or earning capacity, loss of benefits, pain and suffering,
+
+embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of life’s
+
+pleasures, the full extent of which is not known at this time.
+
+                                    COUNT I – TITLE VII
+
+        69.       Plaintiff incorporates herein by reference paragraphs 1 through 68 above,
+
+as if set forth herein in their entirety.
+
+        70.       By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant has violated Title VII.
+
+        71.       Said violations were done with malice and/or reckless indifference, and
+
+warrant the imposition of punitive damages.
+
+        72.       As a direct and proximate result of Defendant’s violation of Title VII,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+        73.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+        74.       No previous application has been made for the relief requested herein.
+
+
+
+
+                                               10
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 14 of 35
+
+
+
+
+                                      COUNT II - ADEA
+
+        75.       Plaintiff incorporates herein by reference paragraphs 1 through 74 above,
+
+as if set forth herein in their entirety.
+
+        76.       By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant has violated the ADEA.
+
+        77.       Said violations were willful and warrant the imposition of liquidated
+
+damages.
+
+        78.       Said violations warrant the imposition of punitive damages.
+
+        79.       As a direct and proximate result of Defendant’s violation of the ADEA,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorney’s
+
+fees and costs.
+
+        80.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+        81.       No previous application has been made for the relief requested herein.
+
+                                      COUNT III - PHRA
+
+        82.       Plaintiff incorporates herein by reference paragraphs 1 through 81 above,
+
+as if set forth herein in their entirety.
+
+        83.       Defendant, by the above improper and discriminatory acts, have violated
+
+the PHRA.
+
+        84.       Said violations were intentional and willful.
+
+
+
+
+                                               11
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 15 of 35
+
+
+
+
+          85.   As a direct and proximate result of Defendant’s violation of the PHRA,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+
+attorney’s fees and costs.
+
+          86.   Plaintiff is now suffering and will continue to suffer irreparable injuries
+
+and monetary damages as a result of Defendant’s discriminatory and retaliatory acts
+
+unless and until the Court grants the relief requested herein.
+
+          87.   No previous application has been made for the relief requested
+
+herein.
+
+                                      COUNT IV - PFPO
+
+          88.   Plaintiff incorporates herein by reference paragraphs 1 through 87 above,
+
+as if set forth herein in their entirety.
+
+          89.   Defendant, by the above improper and discriminatory and retaliatory acts,
+
+has violated the PFPO.
+
+          90.   Said violations were intentional and willful.
+
+          91.   As a direct and proximate result of Defendant’s violation of the PFPO,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+
+attorney’s fees and costs.
+
+          92.   Plaintiff is now suffering and will continue to suffer irreparable injuries
+
+and monetary damages as a result of Defendant’s discriminatory and retaliatory acts
+
+unless and until the Court grants the relief requested herein.
+
+          93.   No previous application has been made for the relief requested herein.
+
+
+
+
+                                             12
+      Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 16 of 35
+
+
+
+
+                                            RELIEF
+
+          WHEREFORE, Plaintiff seeks damages and legal and equitable relief in
+
+connection with Defendant’s improper conduct, and specifically prays that the Court
+
+grant the following relief to the Plaintiff by:
+
+                 (a)      declaring the acts and practices complained of herein to be in
+
+violation of Title VII;
+
+                 (b)      declaring the acts and practices complained of herein to be in
+
+violation of the ADEA;
+
+                 (c)      declaring the acts and practices complained of herein to be in
+
+violation of the PHRA;
+
+                 (d)      declaring the acts and practices complained of herein to be in
+
+violation of the PFPO;
+
+                 (e)      enjoining and permanently restraining the violations alleged
+
+herein;
+
+                 (f)      entering judgment against the Defendant and in favor of the
+
+Plaintiff in an amount to be determined;
+
+                 (g)      awarding compensatory damages to make the Plaintiff whole for
+
+all lost earnings, earning capacity and benefits, past and future, which Plaintiff has
+
+suffered or may suffer as a result of Defendant’s improper conduct;
+
+                 (h)      awarding compensatory damages to Plaintiff for past and future
+
+pain and suffering, emotional upset, mental anguish, humiliation, and loss of life’s
+
+pleasures, which Plaintiff has suffered or may suffer as a result of Defendant’s improper
+
+conduct;
+
+
+
+
+                                               13
+     Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 17 of 35
+
+
+
+
+               (i)     awarding punitive damages to Plaintiff under Title VII;
+
+               (j)     awarding liquidated damages to Plaintiff under the ADEA;
+
+               (k)     awarding punitive damages to Plaintiff under the ADEA;
+
+               (l)     awarding Plaintiff such other damages as are appropriate under the
+
+Title VII, the ADEA, the PHRA, and the PFPO;
+
+               (m)     awarding Plaintiff the costs of suit, expert fees and other
+
+disbursements, and reasonable attorneys’ fees; and,
+
+               (n)     granting such other and further relief as this Court may deem just,
+
+proper, or equitable including other equitable and injunctive relief providing restitution
+
+for past violations and preventing future violations.
+
+
+
+                                              CONSOLE MATTIACCI LAW, LLC
+
+Dated: February 25, 2021              BY:     /s/ Caren N. Gurmankin_________
+                                              Caren N. Gurmankin, Esq. (205900)
+                                              1525 Locust St., 9th Floor
+                                              Philadelphia, PA 19102
+                                              (215) 545-7676
+                                              (215) 565-2853 (fax)
+
+                                              Attorney for Plaintiff,
+                                              Betsy Wolf
+
+
+
+
+                                             14
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 18 of 35
+
+
+
+
+                 Exhibit “1”
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 19 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 20 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 21 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 22 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 23 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 24 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 25 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 26 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 27 of 35
+
+
+
+
+                 Exhibit “2”
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 28 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 29 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 30 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 31 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 32 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 33 of 35
+Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 34 of 35
+
+
+
+
+                 Exhibit “3”
+                       Case 2:21-cv-00866-WB Document 1 Filed 02/25/21 Page 35 of 35
+ EEOC Form 161-B (11/2020)                U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                         NOTICE OF RIGHT TO SUE (ISSUED ON REQUEST)
+To:     Betsy Wolf                                                                    From:    Philadelphia District Office
+                                                                                               801 Market Street
+        Elkins Park, PA 19027                                                                  Suite 1000
+                                                                                               Philadelphia, PA 19107
+
+                  On behalf of person(s) aggrieved whose identity is
+                  CONFIDENTIAL (29 CFR §1601.7(a))
+
+ EEOC Charge No.                                         EEOC Representative                                           Telephone No.
+
+                                                         Kurt Jung
+ 17F-2020-60156                                          State, Local & Tribal Program Manager                         (267) 589-9749
+                                                                                   (See also the additional information enclosed with this form.)
+NOTICE TO THE PERSON AGGRIEVED:
+Title VII of the Civil Rights Act of 1964, the Americans with Disabilities Act (ADA), or the Genetic Information Nondiscrimination
+Act (GINA): This is your Notice of Right to Sue, issued under Title VII, the ADA or GINA based on the above-numbered charge. It has
+been issued at your request. Your lawsuit under Title VII, the ADA or GINA must be filed in a federal or state court WITHIN 90 DAYS
+of your receipt of this notice; or your right to sue based on this charge will be lost. (The time limit for filing suit based on a claim under
+state law may be different.)
+
+        X         More than 180 days have passed since the filing of this charge.
+
+                  Less than 180 days have passed since the filing of this charge, but I have determined that it is unlikely that the EEOC will
+                  be able to complete its administrative processing within 180 days from the filing of this charge.
+        X         The EEOC is terminating its processing of this charge.
+
+                  The EEOC will continue to process this charge.
+
+Age Discrimination in Employment Act (ADEA): You may sue under the ADEA at any time from 60 days after the charge was filed until
+90 days after you receive notice that we have completed action on the charge. In this regard, the paragraph marked below applies to
+your case:
+        X         The EEOC is closing your case. Therefore, your lawsuit under the ADEA must be filed in federal or state court WITHIN
+                  90 DAYS of your receipt of this Notice. Otherwise, your right to sue based on the above-numbered charge will be lost.
+
+                  The EEOC is continuing its handling of your ADEA case. However, if 60 days have passed since the filing of the charge,
+                  you may file suit in federal or state court under the ADEA at this time.
+
+Equal Pay Act (EPA): You already have the right to sue under the EPA (filing an EEOC charge is not required.) EPA suits must be brought
+in federal or state court within 2 years (3 years for willful violations) of the alleged EPA underpayment. This means that backpay due for
+any violations that occurred more than 2 years (3 years) before you file suit may not be collectible.
+
+If you file suit, based on this charge, please send a copy of your court complaint to this office.
+
+                                                                         On behalf of the Commission
+
+
+
+                                                                                                                            12/15/2020
+ Enclosures(s)                                                         Jamie R. Williamson                                   (Date Issued)
+                                                                         District Director
+
+ cc:          TEMPLE UNIVERSITY
+
+              Caren Gurmankin, Esq.                                                   Julia M. Melle
+              Console Mattiacci Law                                                   Assistant University Counsel
+              1525 Locust Street, 9th Floor                                           Temple University
+              Philadelphia, PA 19102                                                  300 Sullivan Hall
+              gurmankin@consolelaw.com                                                1330 Polett Walk
+              buccieri@consolelaw.com                                                 Philadelphia, PA 19122
+                                                                                      jmelle@temple.edu
+

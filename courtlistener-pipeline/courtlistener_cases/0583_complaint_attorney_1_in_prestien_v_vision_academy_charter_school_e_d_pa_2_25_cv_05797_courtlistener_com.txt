@@ -1,0 +1,410 @@
+Source URL: https://www.courtlistener.com/docket/71582457/1/prestien-v-vision-academy-charter-school/
+Title: Complaint (Attorney) – #1 in PRESTIEN v. VISION ACADEMY CHARTER SCHOOL (E.D. Pa., 2:25-cv-05797) – CourtListener.com
+
+          Case 2:25-cv-05797-CFK                 Document 1           Filed 10/08/25          Page 1 of 8
+
+
+
+
+‭UNITED STATES DISTRICT COURT‬
+ ‭EASTERN DISTRICT OF PENNSYLVANIA‬
+                                       ‭:‬
+  ‭JENNIFER PRESTIEN,‬                  ‭:‬
+                                         ‭:‬                     ‭Civil Action No.‬
+                        ‭Plaintiff,‬      ‭:‬
+                                           ‭:‬                   ‭PLAINTIFF REQUESTS A‬
+   ‭-vs-‬                                   ‭:‬                   ‭TRIAL BY JURY‬
+                                             ‭:‬
+    ‭VISION ACADEMY CHARTER SCHOOL‬‭:‬
+     ‭and ADAM KENZ,‬‭individually‬‭;‬        ‭:‬
+                                               ‭:‬               ‭COMPLAINT‬
+                         ‭Defendants.‬          ‭:‬
+                                                 ‭:‬
+
+
+
+         ‭Plaintiff,‬ ‭JENNIFER‬ ‭PRESTIEN‬ ‭(“Plaintiff”‬ ‭and/or‬‭“Ms.‬‭Prestien”)‬‭by‬‭and‬‭through‬‭her‬
+
+‭undersigned‬ ‭counsel‬ ‭hereby‬ ‭files‬ ‭this‬ ‭Civil‬ ‭Action‬ ‭Complaint‬ ‭against‬ ‭Defendants‬ ‭VISION‬
+
+‭ACADEMY‬ ‭CHARTER‬ ‭SCHOOL‬‭and‬‭ADAM‬‭KENZ,‬‭individually‬‭,‬‭and‬‭upon‬‭information‬‭and‬
+
+‭belief avers the following:‬
+
+                                           ‭NATURE OF THE CASE‬
+
+         ‭Plaintiff‬‭complains‬‭of‬‭interference‬‭with‬‭and‬‭retaliation‬‭for‬‭exercising‬‭her‬‭rights‬‭under‬‭the‬
+
+‭Family‬ ‭and‬ ‭Medical‬ ‭Leave‬ ‭Act‬ ‭of‬ ‭1993,‬ ‭as‬ ‭codified,‬ ‭29‬ ‭U.S.C.‬ ‭§‬ ‭2601‬ ‭et‬‭seq‬‭.‬‭(“FMLA”)‬‭and‬
+
+‭seeks damages to redress injuries Plaintiff suffered as a result of Defendants’ conduct.‬
+
+
+
+                                       ‭JURISDICTION AND VENUE‬
+
+    ‭1.‬ ‭This‬ ‭action‬ ‭involves‬ ‭a‬‭question‬‭of‬‭federal‬‭law‬‭under‬‭the‬‭Family‬‭and‬‭Medical‬‭Leave‬‭Act‬
+
+‭of 1993, as codified, 29 U.S.C. § 2601‬‭et seq‬‭. (“FMLA”).‬
+
+    ‭2.‬ ‭Venue‬ ‭is‬ ‭proper‬ ‭in‬ ‭the‬ ‭Eastern‬ ‭District‬ ‭of‬ ‭Pennsylvania‬ ‭as‬ ‭Plaintiff‬ ‭was‬ ‭employed‬ ‭by‬
+
+‭Defendants‬ ‭and‬ ‭worked‬ ‭in‬ ‭the‬ ‭county‬ ‭of‬ ‭Delaware‬ ‭within‬‭the‬‭Commonwealth‬‭of‬‭Pennsylvania‬
+
+‭where the violations of the FMLA occurred.‬
+
+                                                           ‭1‬
+         Case 2:25-cv-05797-CFK                 Document 1          Filed 10/08/25         Page 2 of 8
+
+
+
+
+                                                     ‭PARTIES‬
+
+    ‭3.‬ ‭Plaintiff‬ ‭JENNIFER‬ ‭PRESTIEN‬ ‭(“Plaintiff”‬ ‭or‬ ‭“PRESTIEN”)‬ ‭is‬ ‭an‬ ‭adult‬ ‭individual‬
+
+‭female who resides in the Commonwealth of Pennsylvania.‬
+
+    ‭4.‬ ‭Defendant‬‭VISION‬‭ACADEMY‬‭CHARTER‬‭SCHOOL‬‭(“Defendant”‬‭and/or‬‭“VISION”)‬
+
+‭is‬ ‭a‬ ‭domestic‬‭nonprofit‬‭corporation‬‭created‬‭under‬‭and‬‭authorized‬‭to‬‭do‬‭business‬‭pursuant‬‭to‬‭the‬
+
+‭laws of the Commonwealth of Pennsylvania.‬
+
+    ‭5.‬ ‭At‬ ‭all‬ ‭times‬ ‭material,‬ ‭Defendant‬ ‭VISION‬ ‭operated‬ ‭and‬ ‭continues‬ ‭to‬ ‭operate‬ ‭a‬ ‭charter‬
+
+‭school‬ ‭in‬ ‭the‬ ‭county‬ ‭of‬ ‭Delaware,‬ ‭located‬ ‭at‬ ‭153‬ ‭Penn‬‭Boulevard,‬‭East‬‭Lansdowne,‬‭PA‬‭19050‬
+
+‭(“the school.”)‬
+
+    ‭6.‬ ‭At all times material, Defendant VISION employed Plaintiff at the school.‬
+
+    ‭7.‬ ‭At all times material, Plaintiff was qualified for her position with Defendant VISION.‬
+
+    ‭8.‬ ‭At‬ ‭all‬ ‭times‬ ‭relevant‬ ‭to‬ ‭this‬ ‭complaint,‬ ‭Defendant‬ ‭VISION‬ ‭employed‬ ‭more‬ ‭than‬ ‭fifty‬
+
+‭people‬‭within‬‭50‬‭miles‬‭of‬‭153‬‭Penn‬‭Boulevard,‬‭East‬‭Lansdowne,‬‭PA‬‭19050‬‭and‬‭were‬‭subject‬‭to‬
+
+‭federal statutes including the FMLA.‬
+
+    ‭9.‬ ‭Defendant‬‭ADAM‬‭KENZ‬‭(“KENZ”)‬‭is‬‭an‬‭individual‬‭male‬‭who‬‭was‬‭and‬‭is‬‭employed‬‭by‬
+
+‭Defendant VISION as Chief Executive Officer.‬
+
+    ‭10.‬‭At all times material, Defendant KENZ held supervisory authority over Plaintiff.‬
+
+    ‭11.‬‭Defendant‬‭KENZ‬‭is‬‭considered‬‭an‬‭“employer”‬‭under‬‭the‬‭FMLA‬‭as‬‭set‬‭forth‬‭in‬‭29‬‭U.S.C.‬
+
+‭§‬‭2611(4)(A)(ii)(I)‬‭and‬‭is‬‭therefore‬‭subject‬‭to‬‭individual‬‭liability‬‭separate‬‭from‬‭and‬‭in‬‭addition‬‭to‬
+
+‭Defendant VISION.‬
+
+
+
+                                               ‭MATERIAL FACTS‬
+
+
+
+
+                                                         ‭2‬
+             Case 2:25-cv-05797-CFK              Document 1            Filed 10/08/25          Page 3 of 8
+
+
+
+
+    ‭12.‬‭Around January 2023, Plaintiff began working for Defendant VISION as an ELA‬
+
+‭Content Specialist.‬
+
+    ‭13.‬‭At all times, Plaintiff excelled in her position and fulfilled the terms and conditions of her‬
+
+‭employment.‬
+
+    ‭14.‬‭Demonstrating‬‭such,‬‭Plaintiff‬‭was‬‭promoted‬‭to‬‭Director‬‭of‬‭Curriculum‬‭and‬‭Instruction‬‭for‬
+
+‭the 2023-2024 school year.‬
+
+    ‭15.‬‭As‬ ‭a‬‭member‬‭of‬‭the‬‭school’s‬‭leadership‬‭team,‬‭Plaintiff‬‭ensured‬‭that‬‭her‬‭voice‬‭was‬‭heard‬
+
+‭to‬ ‭advocate‬ ‭for‬ ‭all‬ ‭of‬ ‭the‬ ‭school’s‬‭students,‬‭especially‬‭the‬‭school’s‬‭numerous‬‭minority‬‭students‬
+
+‭whom‬ ‭she‬ ‭felt‬ ‭were‬ ‭often‬ ‭subjected‬ ‭to‬ ‭discriminatory‬ ‭actions,‬‭as‬‭well‬‭as‬‭for‬‭certain‬‭coworkers‬
+
+‭who were also targeted.‬
+
+    ‭16.‬‭While‬ ‭Plaintiff‬ ‭did‬ ‭her‬ ‭best‬ ‭to‬ ‭advocate‬ ‭for‬ ‭the‬ ‭school’s‬ ‭students,‬ ‭her‬ ‭actions‬
+
+‭unfortunately‬ ‭led‬ ‭to‬‭repeated‬‭targeting‬‭and‬‭harassment‬‭perpetrated‬‭against‬‭her‬‭by‬‭several‬‭of‬‭her‬
+
+‭coworkers‬ ‭who‬ ‭were‬ ‭unhappy‬ ‭with‬ ‭her‬ ‭advocacy‬ ‭both‬ ‭for‬ ‭her‬ ‭students‬ ‭and‬ ‭her‬ ‭fellow‬ ‭staff‬
+
+‭members‬ ‭who‬ ‭were‬ ‭subjected‬ ‭to‬ ‭discriminatory‬ ‭and‬ ‭inappropriate‬ ‭treatment‬ ‭by‬ ‭those‬ ‭same‬
+
+‭coworkers.‬
+
+    ‭17.‬‭Around‬‭October‬‭2023,‬‭Plaintiff’s‬‭eighteen‬‭year‬‭old‬‭daughter‬‭was‬‭also‬‭hired‬‭by‬‭Defendant‬
+
+‭Vision at the same location (the school) as a Personal Care Assistant.‬
+
+    ‭18.‬‭Plaintiff’s‬ ‭daughter‬ ‭suffered‬ ‭from‬ ‭mental‬ ‭health‬ ‭concerns‬ ‭both‬ ‭prior‬ ‭to‬ ‭and‬ ‭during‬ ‭her‬
+
+‭employment with Vision, which were disclosed to the school.‬
+
+    ‭19.‬‭Unfortunately,‬‭due‬‭to‬‭Plaintiff’s‬‭daughter’s‬‭relation‬‭to‬‭Plaintiff,‬‭the‬‭same‬‭coworkers‬‭who‬
+
+‭regularly‬ ‭targeted‬ ‭Plaintiff‬ ‭began‬ ‭to‬ ‭also‬ ‭target‬ ‭Plaintiff’s‬ ‭daughter‬ ‭for‬ ‭harassment‬ ‭and‬ ‭verbal‬
+
+‭assault.‬
+
+
+
+
+                                                           ‭3‬
+          Case 2:25-cv-05797-CFK                  Document 1           Filed 10/08/25          Page 4 of 8
+
+
+
+
+    ‭20.‬‭In‬‭January‬‭2024,‬‭the‬‭harassment‬‭of‬‭Plaintiff’s‬‭daughter‬‭dramatically‬‭escalated,‬‭leading‬‭to‬
+
+‭Plaintiff’s‬ ‭daughter‬ ‭needing‬ ‭to‬ ‭file‬ ‭a‬ ‭formal‬ ‭police‬ ‭report‬ ‭after‬ ‭being‬ ‭threatened‬ ‭and‬ ‭verbally‬
+
+‭assaulted‬‭by‬‭a‬‭coworker,‬‭who‬‭admitted‬‭to‬‭harassing‬‭Plaintiff’s‬‭daughter‬‭due‬‭to‬‭her‬‭mental‬‭health‬
+
+‭condition.‬
+
+    ‭21.‬‭Plaintiff’s‬ ‭daughter‬ ‭ended‬ ‭up‬ ‭resigning‬ ‭as‬ ‭a‬ ‭result‬ ‭of‬ ‭the‬ ‭constant‬ ‭harassment‬ ‭and‬ ‭the‬
+
+‭school’s apparent disinterest in any type of remediation or appropriate action.‬
+
+    ‭22.‬‭Plaintiff‬ ‭accordingly‬ ‭expressed‬ ‭her‬ ‭concerns‬ ‭to‬ ‭Defendant‬ ‭Kenz‬ ‭about‬ ‭the‬ ‭constant‬
+
+‭harassment‬‭directed‬‭at‬‭both‬‭herself‬‭and‬‭her‬‭daughter,‬‭but‬‭Defendant‬‭Kenz‬‭appeared‬‭uninterested‬
+
+‭in taking any action.‬
+
+    ‭23.‬‭Even‬ ‭after‬ ‭Plaintiff’s‬ ‭daughter‬ ‭left‬ ‭the‬ ‭school’s‬ ‭employment,‬ ‭the‬ ‭harassment‬ ‭continued‬
+
+‭when‬‭those‬‭same‬‭coworkers‬‭would‬‭see‬‭Plaintiff’s‬‭daughter‬‭when‬‭she‬‭would‬‭pick‬‭up‬‭or‬‭drop‬‭off‬
+
+‭Plaintiff from the school.‬
+
+    ‭24.‬‭Unfortunately,‬ ‭Plaintiff’s‬ ‭daughter’s‬ ‭mental‬ ‭health‬ ‭condition‬ ‭worsened‬ ‭following‬ ‭her‬
+
+‭resignation, leading to her suicide attempt in March 2024.‬
+
+    ‭25.‬‭As‬‭a‬‭result,‬‭later‬‭in‬‭March‬‭2024,‬‭Plaintiff‬‭advised‬‭Defendants‬‭that‬‭she‬‭would‬‭be‬‭applying‬
+
+‭for‬ ‭leave‬ ‭under‬ ‭the‬ ‭Family‬ ‭and‬ ‭Medical‬ ‭Leave‬ ‭Act‬ ‭(“FMLA”)‬ ‭due‬ ‭to‬ ‭her‬ ‭own‬ ‭mental‬ ‭health‬
+
+‭concerns and those connected with caring for her daughter’s serious condition.‬
+
+    ‭26.‬‭Plaintiff‬ ‭was‬ ‭fully‬ ‭eligible‬ ‭for‬‭leave‬‭under‬‭the‬‭FMLA,‬‭as‬‭she‬‭had‬‭worked‬‭for‬‭Vision‬‭for‬
+
+‭more‬ ‭than‬ ‭12‬ ‭months‬‭prior‬‭to‬‭her‬‭leave,‬‭had‬‭worked‬‭for‬‭greater‬‭than‬‭1,250‬‭hours‬‭during‬‭the‬‭12‬
+
+‭months‬‭prior‬‭to‬‭the‬‭start‬‭of‬‭her‬‭leave,‬‭and‬‭Defendant‬‭Vision‬‭employed‬‭more‬‭than‬‭50‬‭employees‬
+
+‭within 75 miles of Plaintiff’s work location.‬
+
+    ‭27.‬‭Plaintiff‬ ‭accordingly‬ ‭had‬ ‭her‬ ‭physician‬ ‭complete‬ ‭all‬ ‭necessary‬‭forms‬‭to‬‭begin‬‭her‬‭leave‬
+
+‭under the FMLA, and submitted her paperwork on March 27.‬
+
+
+
+                                                            ‭4‬
+          Case 2:25-cv-05797-CFK                 Document 1            Filed 10/08/25          Page 5 of 8
+
+
+
+
+    ‭28.‬‭The‬‭very‬‭next‬‭day,‬‭on‬‭March‬‭28,‬‭Defendant‬‭Kenz‬‭contacted‬‭Plaintiff‬‭and‬‭directed‬‭her‬‭to‬
+
+‭meet with him at the school.‬
+
+    ‭29.‬‭When‬ ‭Plaintiff‬ ‭did‬ ‭so,‬ ‭Defendant‬ ‭Kenz‬ ‭stated‬ ‭to‬ ‭her‬ ‭that‬ ‭Defendant‬ ‭Vision’s‬ ‭attorney‬
+
+‭wanted a “second opinion” on the necessity of Plaintiff’s FMLA leave.‬
+
+    ‭30.‬‭In‬‭response,‬‭Plaintiff‬‭agreed‬‭to‬‭do‬‭so‬‭(even‬‭though‬‭such‬‭an‬‭additional‬‭evaluation‬‭was‬‭not‬
+
+‭required by the FMLA).‬
+
+    ‭31.‬‭Apparently‬ ‭expecting‬ ‭Plaintiff‬ ‭to‬ ‭object‬ ‭to‬ ‭the‬ ‭additional‬ ‭examination,‬‭Defendant‬‭Kenz‬
+
+‭then‬ ‭stated‬ ‭to‬ ‭Plaintiff‬ ‭that‬ ‭the‬ ‭additional‬ ‭examination‬ ‭would‬ ‭be‬ ‭very‬‭expensive,‬‭and‬‭appeared‬
+
+‭unhappy about her ready agreement to submit to the same.‬
+
+    ‭32.‬‭Defendant‬‭Kenz‬‭then‬‭stated‬‭to‬‭Plaintiff‬‭that‬‭she‬‭could‬‭“easily”‬‭have‬‭her‬‭FMLA‬‭approved‬
+
+‭by‬ ‭Defendants‬ ‭if‬ ‭she‬ ‭agreed‬‭to‬‭not‬‭return‬‭to‬‭her‬‭position‬‭for‬‭the‬‭following‬‭school‬‭year‬‭-‬‭i.e.,‬‭to‬
+
+‭resign her employment.‬
+
+    ‭33.‬‭Prior‬‭to‬‭this‬‭conversation,‬‭while‬‭Plaintiff‬‭had‬‭expressed‬‭that‬‭she‬‭may‬‭have‬‭not‬‭returned‬‭to‬
+
+‭the‬‭school‬‭if‬‭the‬‭ongoing‬‭hostile‬‭working‬‭environment‬‭was‬‭not‬‭rectified,‬‭she‬‭had‬‭not‬‭made‬‭a‬‭final‬
+
+‭decision or notified the school of such.‬
+
+    ‭34.‬‭Plaintiff‬ ‭reluctantly‬ ‭agreed‬ ‭to‬ ‭not‬ ‭return‬ ‭to‬ ‭the‬ ‭school‬ ‭for‬ ‭the‬ ‭following‬ ‭year,‬ ‭and‬
+
+‭Defendants then approved her FMLA within several days.‬
+
+    ‭35.‬‭Defendants’‬ ‭actions‬ ‭constituted‬ ‭not‬ ‭only‬ ‭blatant‬ ‭interference‬ ‭with‬ ‭Plaintiff’s‬ ‭FMLA‬
+
+‭rights, but also retaliation for her decision to apply for and take FMLA leave.‬
+
+    ‭36.‬‭Moreover,‬ ‭as‬ ‭Defendants‬ ‭used‬ ‭their‬ ‭influence‬‭over‬‭Plaintiff’s‬‭necessary‬‭FMLA‬‭leave‬‭to‬
+
+‭force‬ ‭her‬ ‭into‬ ‭a‬ ‭“resignation”‬ ‭that‬ ‭she‬ ‭had‬ ‭no‬ ‭true‬ ‭choice‬ ‭in,‬ ‭Plaintiff‬ ‭was‬ ‭constructively‬
+
+‭terminated by Defendants.‬
+
+
+
+
+                                                           ‭5‬
+          Case 2:25-cv-05797-CFK                  Document 1           Filed 10/08/25          Page 6 of 8
+
+
+
+
+    ‭37.‬‭As‬‭a‬‭result‬‭of‬‭Defendants’‬‭conduct,‬‭Plaintiff‬‭was‬‭caused‬‭to‬‭sustain‬‭serious‬‭and‬‭permanent‬
+
+‭personal injuries, including permanent psychological injuries.‬
+
+    ‭38.‬‭As‬ ‭a‬ ‭result‬ ‭of‬ ‭Defendants’‬ ‭actions,‬ ‭Plaintiff‬ ‭felt‬ ‭extremely‬ ‭humiliated,‬ ‭degraded,‬
+
+‭victimized, embarrassed and emotionally distressed.‬
+
+    ‭39.‬‭As‬ ‭a‬ ‭result‬ ‭of‬‭the‬‭acts‬‭and‬‭conduct‬‭complained‬‭of‬‭herein,‬‭Plaintiff‬‭has‬‭suffered‬‭and‬‭will‬
+
+‭continue‬ ‭to‬ ‭suffer‬ ‭a‬ ‭loss‬ ‭of‬ ‭income,‬ ‭loss‬ ‭of‬ ‭salary,‬ ‭bonuses,‬ ‭benefits‬ ‭and‬ ‭other‬ ‭compensation‬
+
+‭which such employment entails.‬
+
+    ‭40.‬‭Plaintiff‬ ‭also‬ ‭suffered‬ ‭future‬ ‭pecuniary‬ ‭losses,‬ ‭emotional‬ ‭pain,‬ ‭humiliation,‬ ‭suffering,‬
+
+‭inconvenience, loss of enjoyment of life, and other non-pecuniary losses.‬
+
+    ‭41.‬‭Plaintiff has further experienced severe emotional and physical distress.‬
+
+    ‭42.‬‭As‬‭Defendants’‬‭conduct‬‭has‬‭been‬‭malicious,‬‭willful,‬‭outrageous,‬‭and‬‭conducted‬‭with‬‭full‬
+
+‭knowledge‬‭of‬‭the‬‭law,‬‭Plaintiff‬‭demands‬‭Punitive‬‭Damages‬‭as‬‭against‬‭the‬‭Defendants,‬‭jointly‬‭and‬
+
+‭severally.‬
+
+    ‭43.‬‭The‬ ‭above‬ ‭are‬ ‭just‬ ‭some‬ ‭of‬ ‭the‬ ‭examples‬ ‭of‬‭the‬‭discrimination‬‭and‬‭retaliation‬‭to‬‭which‬
+
+‭Defendants subjected Plaintiff.‬
+
+    ‭44.‬‭Defendants‬ ‭have‬ ‭exhibited‬ ‭a‬ ‭pattern‬ ‭and‬ ‭practice‬ ‭of‬ ‭not‬ ‭only‬ ‭discrimination‬ ‭but‬ ‭also‬
+
+‭retaliation.‬
+
+
+
+         ‭AS A FIRST CAUSE OF ACTION FOR INTERFERENCE WITH RIGHTS‬
+                   ‭UNDER THE FAMILY AND MEDICAL LEAVE ACT‬
+
+    ‭45.‬‭Plaintiff‬‭hereby‬‭incorporates‬‭each‬‭and‬‭every‬‭allegation‬‭contained‬‭in‬‭the‬‭above‬‭paragraphs‬
+
+         ‭of this complaint as fully as if they were set forth at length.‬
+
+    ‭46.‬‭The‬ ‭Family‬ ‭and‬ ‭Medical‬ ‭Leave‬ ‭Act,‬ ‭as‬ ‭codified,‬ ‭29‬ ‭U.S.C.‬ ‭§‬ ‭2615‬ ‭et‬ ‭seq.‬ ‭(“FMLA”)‬
+
+         ‭prohibits interference with the rights of a covered employee to take FMLA leave.‬
+
+
+                                                            ‭6‬
+     Case 2:25-cv-05797-CFK                 Document 1           Filed 10/08/25         Page 7 of 8
+
+
+
+
+‭47.‬‭Plaintiff was a covered employee who applied for FMLA leave from Defendants.‬
+
+‭48.‬‭Defendants‬ ‭unlawfully‬ ‭and‬ ‭willfully‬ ‭interfered‬ ‭with‬ ‭Plaintiff’s‬ ‭rights‬ ‭to‬ ‭take‬ ‭FMLA‬
+
+    ‭leave.‬
+
+‭49.‬‭Plaintiff‬ ‭makes‬ ‭claims‬ ‭for‬ ‭all‬ ‭damages‬ ‭available‬ ‭to‬ ‭her‬ ‭as‬ ‭a‬ ‭result‬ ‭of‬ ‭Defendants’‬
+
+    ‭interference with her rights under the FMLA.‬
+
+
+            ‭AS A SECOND CAUSE OF ACTION FOR RETALIATION UNDER‬
+                      ‭THE FAMILY AND MEDICAL LEAVE ACT‬
+
+‭50.‬‭Plaintiff‬‭hereby‬‭incorporates‬‭each‬‭and‬‭every‬‭allegation‬‭contained‬‭in‬‭the‬‭above‬‭paragraphs‬
+
+    ‭of this complaint as fully as if they were set forth at length.‬
+
+‭51.‬‭The‬ ‭Family‬ ‭and‬ ‭Medical‬ ‭Leave‬ ‭Act,‬ ‭as‬ ‭codified,‬ ‭29‬ ‭U.S.C.‬ ‭§‬ ‭2615‬ ‭et‬ ‭seq.‬ ‭(“FMLA”)‬
+
+    ‭prohibits‬ ‭retaliation‬ ‭against‬ ‭a‬ ‭covered‬ ‭employee‬ ‭who‬ ‭exercises‬ ‭their‬ ‭rights‬ ‭under‬ ‭the‬
+
+    ‭FMLA.‬
+
+‭52.‬‭Plaintiff was a covered employee who applied for FMLA leave from Defendants.‬
+
+‭53.‬‭Defendants‬‭retaliated‬‭against‬‭Plaintiff‬‭by‬‭coercing‬‭her‬‭into‬‭resigning‬‭her‬‭employment‬‭as‬‭a‬
+
+    ‭condition‬‭of‬‭approving‬‭her‬‭FMLA‬‭leave‬‭once‬‭she‬‭had‬‭applied,‬‭and‬‭thereby‬‭constructively‬
+
+    ‭terminating her employment.‬
+
+‭54.‬‭Plaintiff‬ ‭makes‬ ‭claims‬ ‭for‬ ‭all‬ ‭damages‬ ‭available‬ ‭to‬ ‭her‬ ‭as‬ ‭a‬ ‭result‬ ‭of‬ ‭Defendants’‬
+
+    ‭unlawful retaliation against her for exercising her rights under the FMLA.‬
+
+
+
+
+                                           ‭JURY DEMAND‬
+
+    ‭Plaintiff requests a jury trial on all issues to be tried.‬
+
+
+
+
+                                                      ‭7‬
+          Case 2:25-cv-05797-CFK                 Document 1            Filed 10/08/25          Page 8 of 8
+
+
+
+
+                                            ‭PRAYER FOR RELIEF‬
+
+         ‭WHEREFORE,‬ ‭Plaintiff‬ ‭demands‬ ‭judgment‬ ‭against‬ ‭Defendants,‬ ‭in‬ ‭an‬ ‭amount‬ ‭to‬ ‭be‬
+
+‭determined‬ ‭at‬ ‭the‬ ‭time‬ ‭of‬ ‭trial‬‭plus‬‭interest,‬‭including‬‭but‬‭not‬‭limited‬‭to,‬‭all‬‭emotional‬‭distress,‬
+
+‭back‬ ‭pay,‬ ‭front‬ ‭pay,‬ ‭punitive‬ ‭damages,‬ ‭liquidated‬ ‭damages,‬ ‭statutory‬ ‭damages,‬ ‭attorney’s‬‭fees,‬
+
+‭costs, and disbursements of action; and, for such other relief as the Court deems just and proper.‬
+
+
+
+‭Dated:‬‭October 8, 2025‬
+
+                                                                 ‭FREUNDLICH & LITTMAN, LLC‬
+                                                                  ‭Attorneys for Plaintiff Jennifer Prestien‬
+
+                                                                 ‭By:‬‭/s/ Nathaniel N. Peckham, Esq.‬
+                                                                  ‭Nathaniel N. Peckham, Esq.‬
+                                                                   ‭1425 Walnut Street, Suite 200‬
+                                                                    ‭Philadelphia, PA 19102‬
+                                                                     ‭P: (215) 545-8500‬
+                                                                      ‭F: (215 545-8510‬
+                                                                       ‭E: nathaniel@fandllaw.com‬
+
+
+
+
+                                                           ‭8‬
+

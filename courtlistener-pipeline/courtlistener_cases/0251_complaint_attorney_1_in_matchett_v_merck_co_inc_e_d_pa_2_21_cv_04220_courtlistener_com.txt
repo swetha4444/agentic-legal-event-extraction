@@ -1,0 +1,805 @@
+Source URL: https://www.courtlistener.com/docket/60461062/1/matchett-v-merck-co-inc/
+Title: Complaint (Attorney) – #1 in MATCHETT v. MERCK & CO., INC. (E.D. Pa., 2:21-cv-04220) – CourtListener.com
+
+              Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 1 of 15
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                 FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+_____________________________________
+STEVEN MILES MATCHETT                  :
+1234 Gordon Road                       :
+Jenkintown, PA 19046                   :    CIVIL ACTION
+                                       :
+              Plaintiff,               :    No. ____________________
+                                       :
+       v.                              :
+                                       :
+MERCK & CO., INC., d/b/a               :    JURY TRIAL DEMANDED
+MERCK                                  :
+2000 Galloping Hill Road               :
+Kenilworth, NJ 07033                   :
+                                       :
+       and                             :
+                                       :
+MERCK SHARP AND DOHME                  :
+CORP                                   :
+126 E LINCOLN AV M/S RY                :
+RAHWAY NJ 07065                        :
+                                       :
+              Defendants.              :
+____________________________________ :
+
+                                       CIVIL ACTION COMPLAINT
+
+         Plaintiff, by and through his undersigned counsel, hereby avers as follows:
+
+                                               INTRODUCTION
+
+         1.       This action has been initiated by Steven Miles Matchett (hereinafter referred to as
+
+“Mr. Matchett’ or “Plaintiff”) against Merck & Co., Inc., d/b/a Merck and Merck Sharp and Dohme
+
+Corp. (hereinafter collectively “Defendants”) for violations of Section 1981 of the Civil Rights
+
+Act of 1866 (“Section 1981” – 42 U.S.C. § 1981), Title VII of the Civil Rights Act of 1964 (“Title
+
+VII” - 42 U.S.C. §§ 2000e, et. seq.), and the Pennsylvania Human Relations Act (“PHRA”).1 This
+
+
+
+
+1
+  Plaintiff’s claims under the PHRA are referenced herein for notice purposes. He is required to wait 1 full year before
+initiating a lawsuit from date of dual-filing with the EEOC (October 30, 2020). Plaintiff must however file his lawsuit
+              Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 2 of 15
+
+
+
+
+action concerns allegations of discriminatory and/or retaliatory failure to promote because of
+
+Plaintiff’s race/color. As a direct consequence of Defendants’ unlawful actions, Plaintiff seeks
+
+damages as set forth herein.
+
+                                      JURISDICTION AND VENUE
+
+         2.       This Court has original subject matter jurisdiction over the instant action pursuant
+
+to 28 U.S.C. §§ 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks
+
+redress for violations of federal laws. Any state claims amended herein or included would be
+
+proper under this Court’s ancillary or supplemental jurisdiction to hear state claims arising out of
+
+the same common nucleus of operative facts as those set forth in Plaintiff’s federal claims.
+
+         3.       This Court may properly maintain personal jurisdiction over Defendants because
+
+its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction
+
+over Defendants to comply with traditional notions of fair play and substantial justice, satisfying
+
+the standard set forth by the United States Supreme Court in International Shoe Co. v. Washington,
+
+326 U.S. 310 (1945) and its progeny.
+
+         4.       Pursuant to 28 U.S.C. § 1391(b)(1) and (b)(2), venue is properly laid in this District
+
+because actions underlying this case occurred in this District and Defendants are deemed to reside
+
+where they are subject to personal jurisdiction, rendering Defendants herein as well.
+
+
+
+
+in advance of same because of the date of issuance of his federal right-to-sue-letter under Title VII. Plaintiff’s PHRA
+claims however will mirror identically his federal claims under Title VII.
+
+
+
+
+                                                          2
+             Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 3 of 15
+
+
+
+
+                                               PARTIES
+
+        5.        The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        6.        Plaintiff is an adult male residing at the above-captioned address.
+
+        7.        Defendant Merck & Co., Inc. d/b/a Merck is an American multi-national for-profit,
+
+business incorporated under the laws of the State of New Jersey with its principal place of business
+
+in New Jersey.
+
+        8.        Defendant Merck Sharp and Dohme Corp., is a wholly-owned subsidiary of Merck
+
+& Co., Inc.
+
+        9.        Upon information and belief, because of their interrelation of operations, common
+
+ownership or management, centralized control of labor relations, common ownership or financial
+
+controls, and other factors, Defendants are sufficiently interrelated and integrated in their activities,
+
+labor relations, ownership and management that they may be treated as a single and/or joint
+
+employer for purposes of the instant action.
+
+        10.       Defendants employ Mr. Matchett at its 770 Sumneytown Pike, West Point, PA
+
+19486 facility.
+
+        11.       At all times relevant herein, Defendants acted by and through its agents, servants,
+
+and employees, each of whom acted at all times relevant herein in the course and scope of their
+
+employment with and for Defendants.
+
+
+
+                                    FACTUAL BACKGROUND
+
+        12.       The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+
+
+
+                                                    3
+              Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 4 of 15
+
+
+
+
+        13.        Mr. Matchett dual filed a Charge of Discrimination with the Equal Employment
+
+Opportunity Commission (“EEOC”) and Pennsylvania Human Relations Commission (“PHRC”)
+
+on October 30, 2020.
+
+        14.        The EEOC issued Mr. Matchett a Right to Sue letter on or about July 26, 2021. Mr.
+
+Matchett now timely files the instant action within ninety (90) days of his receipt of the Right to
+
+Sue letter.
+
+       Mr. Matchett’s Early Career and Merck’s Repeated Failures to Promote Him
+
+        15.        Mr. Matchett is a black, African-American male.
+
+        16.        Mr. Matchett first started working for Defendants in 1998 as an intern in
+
+Defendants’ Site Environmental Engineering Department.
+
+        17.        Throughout his over twenty years of employment with Defendants, Mr. Matchett
+
+has been an exemplary employee but has been routinely denied promotions and advancement
+
+opportunities while white/Caucasian employees have been promoted instead.
+
+        18.        In or about January 2000, Defendants hired Mr. Matchett as a full-time employee
+
+in the Site Environmental Engineering Department of Defendants’ Pennsylvania Global
+
+Workplace & Enterprise Services (“PA-GWES”) formerly known as Site Engineering
+
+Services(“SES”).
+
+        19.        Defendants’ PA-GWES division provides facility solutions across many disciplines
+
+including process, operations and strategy, facility management, integrated facility management
+
+and real estate.
+
+        20.        By in or about 2013, Mr. Matchett was acting as an Associate Director but was not
+
+formally recognized with a promotion or corresponding pay increase and associated bonuses.
+
+
+
+
+                                                   4
+           Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 5 of 15
+
+
+
+
+       21.     In or about May 2017, Defendants told Mr. Matchett that his position was being
+
+eliminated.
+
+       22.     Without consulting Mr. Matchett, Defendants unilaterally placed him in the role of
+
+Manager, Maintenance and Utilities. This unilateral decision ignored alternative open positions
+
+that Mr. Matchett was better qualified for and more closely aligned with his skill set and
+
+competencies. Mr. Matchett raised his objections to this unilateral placement into a position he
+
+was not suited for and one he viewed as derogatory in nature.
+
+       23.     Defendants simply directed Mr. Matchett to apply for any open positions if he
+
+desired.
+
+       24.     Between 2017 and 2018, Mr. Matchett interviewed for numerous open leadership
+
+positions within the PA GWES organization. By means of example, he applied for Associate
+
+Director of Environmental Health and Safety; Senior Specialist-Environmental Health and Safety;
+
+Senior Specialist-PA GWES Compliance and Investigation; Manager Laboratory Services; and
+
+Senior Specialist-Water Utilities.
+
+       25.     Despite    Mr.   Matchett’s   stellar   qualifications,   Defendants   promoted   a
+
+Caucasian/White employee into every single leadership position Mr. Matchett had applied for.
+
+       26.     As a result, Mr. Matchett made numerous formal complaints to Defendants’ Office
+
+of Ethics to investigate what he reasonably believed to be discriminatory hiring and promotional
+
+practices over the next several years.
+
+                Merck’s 2020 Reorganization and Failure to Promote Mr. Matchett
+
+       27.     In or about 2020 Defendants conducted a reorganization of the PA-GWES facility.
+
+
+
+
+                                                5
+           Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 6 of 15
+
+
+
+
+        28.      On July 16, 2020, during a virtual town hall meeting, Defendants announced that
+
+three (3) Caucasian/White employees were being promoted to unposted positions, at least one of
+
+which Mr. Matchett was both qualified for and had inquired about on previous occasions.
+
+        29.      Upon information and belief, another one of these positions had been newly created
+
+specifically for a Caucasian/White employee.
+
+        30.      During the Q&A portion of the townhall, Mr. Matchett raised numerous
+
+complaints, specifically that the promotion process was not equitable and had a disparate impact
+
+on African American/Black employees.
+
+        31.      Mr. Matchett specifically noted how promoting three Caucasian/White employees
+
+to unposted (and newly created) positions was in direct contradiction to the active Chairman and
+
+CEO of Defendant, Mr. Kenneth Fraizer’s recent July 2020 comments in a Harvard Business
+
+School interview regarding the lack of African American employees in middle management.2
+
+        32.      Mr. Matchett also complained that the purported increase in the percentage rate of
+
+the Under-Represented Employee Group (‘UEG’) metric within the West Point PA GWES
+
+organization provided a false narrative as to the actual number of people of color within the
+
+organization in leadership positions.
+
+        33.      Mr. Matchett recognized and acknowledged during that meeting that while over the
+
+past several months there had been an increase in hiring of people of color, these hires were all at
+
+entry level positions within the organization.
+
+
+
+
+2
+ https://hbswk.hbs.edu/item/merck-ceo-ken-frazier-speaks-about-a-covid-cure-racism-and-why-leaders-need-to-
+walk-the-talk
+
+
+
+                                                      6
+            Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 7 of 15
+
+
+
+
+          34.   In response, Defendants told Mr. Matchett he was “not eligible for any of the
+
+positions or promotions identified in the town hall meeting because he did not have an engineering
+
+degree.
+
+          35.   In fact, Mr. Matchett holds two engineering degrees including a B.S. in Civil
+
+Engineering and a B.S. in Environmental Engineering both from the University of Miami.
+
+          36.   Mr. Matchett’s B.S. in Environmental Engineering included a concentration on
+
+potable water and wastewater management, and he served as Environmental Engineer on
+
+Defendants’ PA West Point 2-million-gallon hydropillar project and developed extensive
+
+experience and technical knowledge with managing the Site’s Water Utilities Department
+
+responsibilities.
+
+          37.   After voicing complaints of racial discrimination and disparate treatment, Mr.
+
+Matchett received numerous communications from co-workers thanking him for speaking up and
+
+drawing attention to the systemic racism that had permeated Defendants’ PA-GWES facility.
+
+These co-workers expressed that they were “definitely proud and scared for you all at the same
+
+time;” that they “admire[d] your courage and candor in speaking out;” that they were “on my side;”
+
+and that they had “been here for 32 years and nothing has changed.”
+
+
+
+          38.   On July 17, 2020, Defendants’ Associate Director called Mr. Matchett to indicate
+
+that members of the PA GWES Leadership Team conducted a meeting on the day of and after Mr.
+
+Matchett ‘s comments at the Townhall on 7/16/2021. The Associate Director indicated several PA
+
+GWES Leadership Team members and other persons corroborated the sentiments Mr. Matchett
+
+expressed during the townhall meeting.
+
+
+
+
+                                                7
+          Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 8 of 15
+
+
+
+
+       39.     The following Monday July 20, 2020, Mr. Matchett received an unsolicited email
+
+from one of the Defendants’ Wellness Coaches entitled “checking in.” Mr. Matchett responded
+
+that he was disappointed, ashamed, and dismayed with Defendants’ systemic inability to recognize
+
+and acknowledge minorities at the PA-GWES facility.
+
+       40.     Later in the day on July 20, 2020, Defendants’ Associate Director called Mr.
+
+Matchett again and relayed to Mr. Matchett that he had conveyed to immediate management
+
+structure the validity of Mr. Matchett’s complaints comments made at the townhall meeting.
+
+       41.     During this conversation, Mr. Matchett again complained about the discriminatory
+
+re-organization process and raised concerns regarding his previous supervisor. Specifically he
+
+mentioned how the supervisor pushed inconsistent, non-contextual, inaccurate, and defamatory
+
+year-end reviews as well as labelled Mr. Matchett as “resistant,” all of which made Mr. Matchett
+
+feel that his supervisor viewed him as a stereotypical “Angry Black Man.”
+
+       42.     The Leadership Team Member then mentioned that there was a position that
+
+“would be perfect” for Mr. Matchett, referring to an Associate Director position at Powerhouse.
+
+The Leadership Team Member told Mr. Matchett that Defendants would have to post the position
+
+- unlike the other three positions which were not posted and went to Caucasian/White employees.
+
+       43.     On July 21, 2020, Mr. Matchett received a meeting request to meet individually
+
+with a Senior GWES Leader on July 23, 2020. The meeting request subject line was “Workforce
+
+– XXXX/Miles” and there was no language in the body of the meeting request to know what the
+
+purpose and agenda of the meeting was. Mr. Matchett then called the Senior GWES Leader’s
+
+assistant to determine the purpose of the meeting. The assistant conveyed to Mr. Matchett they
+
+were directed to set-up the meeting due to Mr. Matchett’s request for a meeting for the complaints
+
+
+
+
+                                                8
+          Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 9 of 15
+
+
+
+
+Mr. Matchett raised at the townhall meeting. Mr. Matchett informed to the assistant that he did
+
+not request a meeting.
+
+       44.      On July 23, 2020, Defendants’ Human Resources Business Partners sent Mr.
+
+Matchett a “Jabber” Instant Message. The Human Resources Business partner conveyed to Mr.
+
+Matchett that the Senior GWES Leader was concerned about Mr. Matchett and reached out to the
+
+Human Resources Business Partner.
+
+       45.      Mr. Matchett again raised complaints with Defendants’ Office of Ethics. In
+
+response he was told that the promotions were based on skill set, competency, and business needs.
+
+The Office of Ethics stated that Mr. Matchett’s complaints were not substantiated, and they would
+
+“not comment on the specifics of the investigation.” However, Defendants’ later admissions for
+
+why Mr. Matchett was passed over are inconsistent, blatantly false and demonstrate clear pretext
+
+for their discriminatory motives. By way of example only and by no means an exhaustive list,
+
+             a. Defendants claim that two roles were created and therefore not subject to internal
+
+                posting requirements. However, only one new role was created and the others were
+
+                existing roles filled by white/Caucasian employees without following internal
+
+                posting requirements.
+
+             b. Defendants claimed that the selected white/Caucasian employees were at higher
+
+                levels than Mr. Matchett, when in fact Mr. Matchett was at the same or comparable
+
+                levels as at least two of the white/Caucasian employees.
+
+             c. Defendants told Mr. Matchett that he had been bypassed because he “worked in an
+
+                entirely different department.” However, at least one of the white/Caucasian
+
+                employees who was promoted “worked in an entirely different department”.
+
+
+
+
+                                                 9
+            Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 10 of 15
+
+
+
+
+       46.      Mr. Matchett reluctantly applied for and was recently ultimately hired into this
+
+position.
+
+       47.      Upon information and belief, no Black/African-American has held a senior
+
+leadership position at Defendants’ PA-GWES facility in at least the last fifteen years.
+
+       48.      Mr. Matchett believes and therefore avers that he was not selected for promotion
+
+because of his race/color and/or in retaliation for making complaints of what he reasonably
+
+believed to be discrimination.
+
+       49.      As a result of the acts and conduct complained of herein, Plaintiff has felt extremely
+
+humiliated, degraded, victimized, embarrassed, and emotionally distressed.
+
+       50.      As a result of the acts and conduct complained of herein, Plaintiff has suffered and
+
+will continue to suffer the loss of income, the loss of salary, bonuses, and other compensation
+
+which such employment entails. Plaintiff has also suffered future losses, emotional pain,
+
+humiliation, suffering, inconvenience, loss of enjoyment of life, and other non-monetary losses.
+
+Plaintiff has further experienced severe emotional and physical distress.
+
+       51.      The above are just some of the examples of unlawful discrimination and retaliation
+
+which Defendants exposed Mr. Matchett to.
+
+       52.      Mr. Matchett claims continuing action violations by Defendant.
+
+       53.      Defendants has exhibited a pattern and practice of discrimination and retaliation.
+
+
+
+
+                                                 10
+         Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 11 of 15
+
+
+
+
+                                           Count I
+                                Violations of 42 U.S.C. § 1981
+                            (Racial Discrimination and Retaliation)
+
+        54.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        55.    Plaintiff was continuously not selected for roles he was qualified for because of his
+
+race/color and/or because he complained of what he reasonably believed to be unlawful
+
+discriminatory employment practices.
+
+        56.    Defendants’ actions constitute violations of 42 U.S.C. § 1981.
+
+                                           COUNT II
+              Violation of Title VII of the Civil Rights Act of 1964 (“Title VII”)
+                         ([1] Race Discrimination and [2] Retaliation)
+
+        57.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        58.    Plaintiff was continuously not selected for roles he was qualified for because of his
+
+race/color and/or because he complained of what he reasonably believed to be unlawful
+
+discriminatory employment practices.
+
+        59.    Defendants’ actions constitute unlawful discrimination and retaliation under Title
+
+VII.
+
+        WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+        A.     Defendants are to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff
+
+whole for any and all pay and benefits Plaintiff would have received had it not been for
+
+Defendants’ illegal actions, including but not limited to back pay, front pay, salary, pay increases,
+
+bonuses, insurance, benefits, training, promotions, reinstatement, and seniority.
+
+
+
+
+                                                 11
+         Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 12 of 15
+
+
+
+
+       B.      Plaintiff is to be awarded punitive damages, as permitted by applicable law, in an
+
+amount believed by the Court or trier of fact to be appropriate to punish Defendants for its willful,
+
+deliberate, malicious and outrageous conduct and to deter Defendants or other employers from
+
+engaging in such misconduct in the future;
+
+       C.      Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper, and appropriate (including but not limited to damages for emotional distress / pain and
+
+suffering);
+
+       D.      Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+attorney’s fees as provided by applicable federal and state law.
+
+       E.      Plaintiff is to receive a trial by jury as requested in the caption of this Complaint.
+
+
+
+                                                      Respectfully submitted,
+
+                                                      KARPF, KARPF & CERUTTI, P.C.
+
+
+                                              By:     _______________________________
+                                                      Ari R. Karpf, Esq.
+                                                      3331 Street Road
+                                                      Two Greenwood Square
+                                                      Suite 128
+                                                      Bensalem, PA 19020
+                                                      (215) 639-0801
+Dated: September 24, 2021
+
+
+
+
+                                                 12
+    Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 13 of 15
+
+
+
+
+      píÉîÉå=jáäÉë=j~íÅÜÉíí
+
+
+jÉêÅâ=C=`çKI=fåÅKI=ÇLÄL~=jÉêÅâI=Éí=~äK
+
+
+
+
+ VLOQLOMON
+                                Case 2:21-cv-04220-WB   Document
+                                                   UNITED           1 Filed
+                                                          STATES DISTRICT   09/24/21 Page 14 of 15
+                                                                          COURT
+                                                          FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                              DESIGNATION FORM
+                        (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       NOPQ=dçêÇçå=oç~ÇI=gÉåâáåíçïåI=m^=NVMQS
+Address of Plaintiff: ______________________________________________________________________________________________
+                       OMMM=d~ääçéáåÖ=eáää=oç~ÇI=hÉåáäïçêíÜI=kg=MTMPP=L=NOS=b=iáåÅçäå=^î=jLp=ovI=o~Üï~óI=kg=MTMSR
+Address of Defendant: ____________________________________________________________________________________________
+                                             aÉÑÉåÇ~åíë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                         Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                            Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                           Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                              Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                           Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case                 is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+       VLOQLOMON
+DATE: __________________________________                         __________________________________________                               ARK2484 / 91538
+                                                                                                                                  ___________________________________
+                                                                             Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                          B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                           1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                   2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                              3.    Assault, Defamation
+       4.     Antitrust                                                                              4.    Marine Personal Injury
+       5.     Patent                                                                                 5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                             6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                           7.    Products Liability
+       8.     Habeas Corpus                                                                          8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                                9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                                 (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                              ARBITRATION CERTIFICATION
+                                                      (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+                    VLOQLOMON
+DATE: __________________________________                         _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                                 ___________________________________
+                                                                             Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                     Case 2:21-cv-04220-WB Document 1 Filed 09/24/21 Page 15 of 15
+JS 44 (Rev. 06/17)                                                           CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+
+jfibp=j^q`ebqqI=pqbsbk
+j^q`ebqqI=pqbsbk=jfibp                                                                                       jbo`h=C=`lKI=fk`KI=aL_L^=jbo`hI=bq=^iK
+    (b) County of Residence of First Listed Plaintiff                   jçåíÖçãÉêó                             County of Residence of First Listed Defendant                  råáçå
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                       (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                             THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                     Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                    f
+                                                                                                          (For Diversity Cases Only)                                             and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3      Federal Question                                                                     PTF           DEF                                            PTF      DEF
+          Plaintiff                               (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1     Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                              of Business In This State
+
+❒ 2    U.S. Government                    ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2    Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                              (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                     Citizen or Subject of a           ’ 3         ’ 3    Foreign Nation                        ’ 6      ’ 6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                   Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                TORTS                               FORFEITURE/PENALTY                            BANKRUPTCY                      OTHER STATUTES
+❒   110 Insurance                          PERSONAL INJURY                 PERSONAL INJURY           ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158          ❒ 375 False Claims Act
+❒   120 Marine                       ’     310 Airplane                  ❒ 365 Personal Injury -           of Property 21 USC 881            ’   423 Withdrawal                 ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’     315 Airplane Product                Product Liability     ❒ 690 Other                                     28 USC 157                        3729(a))
+❒   140 Negotiable Instrument                   Liability                ❒ 367 Health Care/                                                                                    ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’     320 Assault, Libel &                Pharmaceutical                                                    PROPERTY RIGHTS               ❒ 410 Antitrust
+        & Enforcement of Judgment               Slander                        Personal Injury                                               ❒ 820 Copyrights                  ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’     330 Federal Employers’              Product Liability                                             ❒ 830 Patent                      ❒ 450 Commerce
+❒   152 Recovery of Defaulted                   Liability                ❒ 368 Asbestos Personal                                             ❒ 835 Patent - Abbreviated        ❒ 460 Deportation
+        Student Loans                ’     340 Marine                          Injury Product                                                       New Drug Application       ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’     345 Marine Product                  Liability                                                     ❒ 840 Trademark                          Corrupt Organizations
+❒   153 Recovery of Overpayment                 Liability                 PERSONAL PROPERTY                       LABOR                         SOCIAL SECURITY                ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’     350 Motor Vehicle             ❒ 370 Other Fraud           ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)                ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’     355 Motor Vehicle             ❒ 371 Truth in Lending              Act                             ❒ 862 Black Lung (923)            ❒ 850 Securities/Commodities/
+❒   190 Other Contract                         Product Liability         ❒ 380 Other Personal        ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                  Exchange
+❒   195 Contract Product Liability   ’     360 Other Personal                  Property Damage               Relations                       ❒ 864 SSID Title XVI              ❒ 890 Other Statutory Actions
+❒   196 Franchise                              Injury                    ❒ 385 Property Damage       ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))                ❒ 891 Agricultural Acts
+                                     ’     362 Personal Injury -               Product Liability      ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                               Medical Malpractice                                           Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                        CIVIL RIGHTS                 PRISONER PETITIONS         ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                       Act
+❒   210 Land Condemnation             ❒    440 Other Civil Rights          Habeas Corpus:            ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff       ❒ 896 Arbitration
+❒   220 Foreclosure                   ❒    441 Voting                    ❒ 463 Alien Detainee               Income Security Act                     or Defendant)              ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       u❒    442 Employment                ❒ 510 Motions to Vacate                                             ❒ 871 IRS—Third Party                    Act/Review or Appeal of
+❒   240 Torts to Land                 ❒    443 Housing/                        Sentence                                                             26 USC 7609                       Agency Decision
+❒   245 Tort Product Liability                 Accommodations            ❒ 530 General                                                                                         ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒     445 Amer. w/Disabilities -    ❒ 535 Death Penalty               IMMIGRATION                                                                State Statutes
+                                               Employment                  Other:                    ❒ 462 Naturalization Application
+                                     ❒     446 Amer. w/Disabilities -    ❒ 540 Mandamus & Other      ❒ 465 Other Immigration
+                                               Other                     ❒ 550 Civil Rights                Actions
+                                     ❒     448 Education                 ❒ 555 Prison Condition
+                                                                         ❒ 560 Civil Detainee -
+                                                                               Conditions of
+                                                                               Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                             ❒    3     Remanded from            ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict                   ❒ 8 Multidistrict
+        Proceeding                State Court                           Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                             (specify)                      Transfer                         Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                       pÉÅíáçå=NVUN=EQOrp`NVUNFX=qáíäÉ=sff=EQOrp`OMMMF
+VI. CAUSE OF ACTION Brief description of cause:
+                       sáçä~íáçåë=çÑ=pÉÅíáçå=NVUNI=qáíäÉ=sff=~åÇ=íÜÉ=meo^K
+VII. REQUESTED IN     ❒ CHECK IF THIS IS A CLASS ACTION          DEMAND $                                                                                CHECK YES only if demanded in complaint:
+     COMPLAINT:           UNDER RULE 23, F.R.Cv.P.                                                                                                       JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                        (See instructions):
+      IF ANY                                JUDGE                                                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+           VLOQLOMON
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                       APPLYING IFP                                    JUDGE                               MAG. JUDGE
+
+                  Print                                  Save As...                                                                                                                   Reset
+

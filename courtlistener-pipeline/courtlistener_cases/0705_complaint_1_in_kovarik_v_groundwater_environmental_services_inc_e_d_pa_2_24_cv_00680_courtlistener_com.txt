@@ -1,0 +1,3131 @@
+Source URL: https://www.courtlistener.com/docket/68257278/1/kovarik-v-groundwater-environmental-services-inc/
+Title: Complaint – #1 in KOVARIK v. GROUNDWATER & ENVIRONMENTAL SERVICES, INC. (E.D. Pa., 2:24-cv-00680) – CourtListener.com
+
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 1 of 68
+
+
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+                   EASTERN DISTRICT OF PENNSYLVANIA
+
+ JAROMIR KOVARIK
+    Plaintiff
+                                            DOCKET NO.__________
+              -against-
+                                                        CIVIL ACTION
+ GROUNDWATER &
+ ENVIRONMENTAL SERVICES, INC.
+ and ENERGY TRANSFER
+                                                         COMPLAINT
+ OPERATING L.P., and SUNOCO
+                                                  JURY TRIAL DEMANDED
+     Defendants
+
+
+
+
+                                COMPLAINT
+
+
+      The Plaintiff, Jaromir Kovarik (“Mr. Kovarik”) files this Complaint against
+
+the Defendants, Groundwater & Environmental Services, Inc. (“GES”), Energy
+
+Transfer Operating, L.P. (“ETO”), and Sunoco Pipeline, L.P. (“SPLP”), and alleges
+
+as follows:
+
+
+
+                             Nature of the Action
+
+
+
+1.   This action arises under the Pipeline Safety Improvement Act (“PSIA”) 49
+
+     U.S.C. §60129, 29 C.F.R. 1981.100 et seq., and any other regulations deemed
+
+     applicable by DOL/OSHA.
+
+                                      –1–
+         Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 2 of 68
+
+
+
+
+2.    Mr. Kovarik claims that he has been wrongfully terminated in retaliation for
+
+      reporting improperly investigated and surveyed enlarging depression directly
+
+      above an old active Mariner East 1 pipeline in a close proximity to Mariner East
+
+      pipeline (“ME2”) currently under construction1.
+
+
+
+
+                                 Jurisdiction and Venue
+
+
+
+    3. This Court has jurisdiction over this action pursuant to 49 U.S.C.
+
+      §60129(b)(3)(D)(i) because the Secretary of Labor has not issued a final
+
+      decision by this date that is more than 210 days after the date on which the
+
+      complaint was filed with OSHA, to with on August 6, 2020, and the delay has
+
+      not been due to the bad faith of Mr. Kovarik.
+
+
+
+
+1
+  Mariner East 2 pipeline project was divided into several numerically designated
+sections/spreads. Spread 6 was the last one before terminus at Marcus Hook. The construction
+included two new gas lines (ME2, resp. ME2X) mostly parallel to the about hundred (100) years
+old existing and active Mariner East 1 natural gas pipeline also owned and operated by
+ETO/SPLP. The project has also been known as the Pennsylvania Pipeline Project (“PPP”).
+
+
+                                            –2–
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 3 of 68
+
+
+
+
+4.   Venue is proper in this Court pursuant to 28 U.S.C. § 1391(b) (2) because a
+
+     substantial part of the events giving rise to the claim occurred in East Goshen
+
+     Township, Chester County, Pennsylvania.
+
+
+
+                                  The Parties
+
+5.   Plaintiff, Mr. Kovarik, is an individual living at all times relevant hereto at 211
+
+     Ridge Road, Annville, Pennsylvania, 17003.
+
+
+
+6.   Mr. Kovarik has been dully licensed as a Professional Geologist (“PG”) in
+
+     Pennsylvania at all times relevant hereto.
+
+
+
+7.   Mr. Kovarik is licensed, certified or recognized as a PG and/or professional
+
+     engineer (PE), and an expert on hydrogeology, subsurface conditions related to
+
+     water/groundwater movement and stabilization of ground, subsidence and
+
+     landslides in countries so varied as Germany, New Zealand, Czech Republic,
+
+     Kuwait or the United States of America.
+
+
+
+8.   Mr. Kovarik has an extensive international experience in geotechnical and
+
+     hydrogeological inspections on multimillion dollar projects exceeding forty
+
+     years and spanning over numerous countries and several continents.
+
+
+
+                                         –3–
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 4 of 68
+
+
+
+
+9.   Among other projects, he worked as a professional hydrogeologist expert on
+
+     the world largest ground stabilization project in New Zealand (Clyde Power
+
+     Project) investigating and consulting on stabilization of hundreds of miles of
+
+     landslides, subsidence areas, and depressions associated with construction
+
+     activities.
+
+
+
+10. Mr. Kovarik participated as a hydrogeological expert in scientific and research
+
+     projects inspecting, mapping, and investigating origins and progressions of dry
+
+     and flooded sinkholes, cavities, subsidences, depressions and similar earth
+
+     features in various countries including Spain, Italy, Cuba, Tanzania, Rwanda,
+
+     Burundi, Uganda, former Czechoslovakia, former Yugoslavia or Germany
+
+     during and after his post-gradual studies, .
+
+
+
+11. Defendants knew that Mr. Kovarik has also been an attorney licensed in several
+
+     states including the Commonwealth of Pennsylvania during all relevant times
+
+     hereto.
+
+
+
+12. Defendants knew that Mr. Kovarik is committed to protection of the
+
+     environment and public safety.
+
+
+
+                                        –4–
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 5 of 68
+
+
+
+
+13. Defendants knew that Mr. Kovarik will not compromise in matters involving
+
+    his reputation and integrity.
+
+
+
+14. Mr. Kovarik was employed by Defendant GES as a principal hydrogeologist in
+
+    October 2017 after several interviews involving the issues discussed supra and
+
+    infra.
+
+
+
+15. Mr. Kovarik was retained as a part-time employee but successfully completed
+
+    his introductory/probationary period and his workload exceeded soon over 50
+
+    hours per week with ten (10) to twelve (12) hours of daily workload.
+
+
+
+16. Mr. Kovarik’s hourly rate of $55/hour was later increased to $56/hour.
+
+
+
+17. Mr. Kovarik was paid for overtime at 50% increased rate.
+
+
+
+18. Mr. Kovarik was also receiving $ 40.00 daily allowance/food benefit.
+
+
+
+19. Defendant GES’ Policy and Procedure Manual defines employees with Mr.
+
+    Kovarik workload as “Full-Time Employees.”
+
+
+
+                                      –5–
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 6 of 68
+
+
+
+
+20. Defendant GES is, upon information and belief, a privately held consulting firm
+
+    with numerous offices nationwide.
+
+
+
+21. Defendant GES headquarters are upon information and belief in New Jersey,
+
+    Route 34, Suite 1, in Wall Township, 07727.
+
+
+
+22. Defendant GES office that employed Mr. Kovarik is located at 440 Creamery
+
+    Way, Suite 500, in Exton, Pennsylvania, 19341.
+
+
+
+23. Defendant GES assisted Defendants ETO/SPLP with the installation of ME2
+
+    resp. ME2X pipeline project construction on Spread 6 (“project”) at all relevant
+
+    times as a contractor or subcontractor.
+
+
+
+24. Defendant GES’ assistance included supplying licensed Professional
+
+    Geologists and Hydrogeologists (“PG”), including Mr. Kovarik, to Defendants
+
+    ETO/SPLP for the project.
+
+
+
+
+                                        –6–
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 7 of 68
+
+
+
+
+ 25.Mr. Kovarik was directed by Defendants GES, ETO/SPLP agents and
+
+    contractors to perform variety of field and technical support activities, PG
+
+    inspections, and to compose and file PG reports during the ME 2 construction.
+
+
+
+26. The particular employment activities performed by Mr. Kovarik included, inter
+
+    alia, monitoring, observing and reporting on the aspects of the area in which
+
+    the pipeline is located, including climatic and geologic conditions and soil
+
+    characteristics and pipeline construction activities.
+
+
+
+27. Mr. Kovarik’s reports, among other things, have been relevant to identification
+
+    of potential threats to pipeline integrity relevant but not limited to outside force
+
+    damage while considering geology and soil stability of the area as per 49 CFR
+
+    192.917 and relevant law.
+
+
+
+28. Mr. Kovarik’s employment activities also included monitoring, observing and
+
+    reporting on the proximity and developments of the area in which the pipeline
+
+    is located to environmentally sensitive areas.
+
+
+
+29. Mr. Kovarik’s employment activities further included monitoring, observing
+
+    and reporting the population patterns of the area in which the pipeline is located.
+
+
+
+                                         –7–
+           Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 8 of 68
+
+
+
+
+30. Mr. Kovarik was explained that his investigations, observations, and reporting
+
+       are directly related to Defendants duty not to violate pipeline safety laws,
+
+       environmental laws including the Clean Streams Law (“CSL”), the Clean Water
+
+       Act (“CWA”), construction permits and court orders and stipulations.
+
+
+
+31. Mr. Kovarik understood that his presence, and presence of other PG’s on the
+
+       project, was a direct result of a court order and settlement to protect public
+
+       health and safety and to protect the environment during the ME2 construction.
+
+
+
+32. Defendant GES has been at all relevant times a contractor or subcontractor to
+
+       the owner or co-owner of ME2 project, to wit to Defendants ETO/SPLP.
+
+
+
+33. Defendant ETO is, upon information and belief, a publically traded entity2
+
+       incorporated under the jurisdiction of Delaware with its corporate headquarters
+
+       at 8011 Westchester Drive, Suite 600, Dallas, Texas, 75255.
+
+
+
+34. Defendant ETO has been known and/or operate/d, upon information and belief
+
+       under numerous different names, and/or through numerous holding and similar
+
+
+2
+    Common units are listed on the New York Stock Exchange LLC under the symbol “ET.”
+
+
+                                            –8–
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 9 of 68
+
+
+
+
+    entities and/or subsidiaries using different designations including, but not
+
+    limited to: Energy Transfer, L.P., Energy Transfer Equity, Energy Transfer
+
+    Partners, Sunoco LP, Sunoco Logistics, Sunoco Logistics Partner Operations
+
+    L.P. (“SPLP”), Sunoco Pipeline an Energy Transfer Company, Sunoco
+
+    Pipeline, L.P., and other.
+
+
+
+35. Upon information and belief, Sunoco Logistics owned and operated Defendant
+
+    SPLP prior to April 28, 2017, when Defendant ETO and Sunoco Logistics
+
+    merged.
+
+
+
+36. Defendant ETO established its office for the “Energy Transfer Mariner East
+
+    Pipeline Project” at 525 Fritztown Road, Sinking Spring, Pennsylvania, 19608.
+
+
+
+37. Defendant ETO has been at all relevant times owner and/or co-owner and
+
+    operator of ME2 pipeline facility.
+
+
+
+38. In the alternative, Defendant ETO has been at all relevant times a contractor or
+
+    subcontractor to the owner or co-owner of ME2 pipeline facility.
+
+
+
+39. Defendant ETO lists Mariner East pipeline project as one of its assets.
+
+
+
+                                         –9–
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 10 of 68
+
+
+
+
+ 40.Defendant ETO admits to ownership of Mariner East Pipeline on numerous
+
+    publically available websites.
+
+
+
+41. Defendant ETO requested Defendant GES to remove Mr. Kovarik from a job
+
+    site on ME 2 project in writing before his termination by Defendant GES.
+
+
+
+42. The Occupational Safety and Health Administration (“OSHA“) determined that
+
+    Defendant ETO has been Mr. Kovarik’s “employer” within the meaning of the
+
+    Pipeline Safety Improvement Act (“PSIA”) 49U. S. C. §60129 in its June 15,
+
+    2023 Findings.
+
+
+
+43. Defendant ETO personnel has been closely involved in overseeing and
+
+    managing the construction of ME2 at all relevant times.
+
+
+
+44. Defendant ETO’s personnel, inter alia, certified Mr. Kovarik’s compliance
+
+    with the Environmental Compliance Training Program for ME 2.
+
+
+
+45. Upon information and belief, Defendant ETO owns controlling interest in
+
+    Defendant SPLP.
+
+
+
+                                     – 10 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 11 of 68
+
+
+
+
+46. Defendant SPLP obtained permits for the construction of ME2 pipeline facility.
+
+
+
+47. Upon information and belief, Defendant ETO was a co-permittee.
+
+
+
+48. Defendant SPLP responded to Plaintiffs complaint with OSHA claiming and
+
+    admitting that SPLP has been Mr. Kovarik’s employer instead of Defendant
+
+    ETO.
+
+
+
+49. Defendant ETO’s counsel subsequently stated that responses to Mr. Kovarik’s
+
+    complaint to OSHA should be considered as submitted on behalf of both ETO
+
+    and SPLP Defendants.
+
+
+
+50. Defendant ETO and SPLP designations have often been used interchangeably
+
+    and/or concurrently during the ME2 project.
+
+
+
+51. Defendant GES’s witnesses acknowledged that the relationship between
+
+    Defendants ETO and SPLP has been confusing and not clear.
+
+
+
+
+                                      – 11 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 12 of 68
+
+
+
+
+52. Defendant SPLP has been criminally charged by the Commonwealth of
+
+    Pennsylvania for false reporting and violations of Pennsylvania Department of
+
+    Environmental Protection (“PADEP”) permits and violating both CWA and
+
+    CSL.
+
+
+
+53. Defendant SPLP did not contest the charges thus becoming a criminally
+
+    convicted entity in Pennsylvania.
+
+
+
+54. Mr. Kovarik participated and assisted Pennsylvania Attorney General in
+
+    prosecuting the criminal case against Defendant SPLP by providing
+
+    information about Defendants GES, ETO and SPLP conduct.
+
+
+
+55. Upon information and belief, Defendant SPLP has been at all relevant times
+
+    owner and/or co-owner and/or operator of ME2 pipeline facility.
+
+
+
+56. In the alternative, upon information and belief Defendant SPLP has been at all
+
+    relevant times a subcontractor to the owner or co-owner and/or operator of ME2
+
+    pipeline, to wit Defendant ETO.
+
+
+
+
+                                        – 12 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 13 of 68
+
+
+
+
+57. In the alternative, upon information and belief Defendant ETO has been at all
+
+    relevant times a subcontractor to the owner or co-owner and/or operator of ME2
+
+    pipeline, to wit Defendant SPLP.
+
+
+
+58. Upon information and belief agreement and/or agreements existed at all
+
+    relevant times about ownership and/or operation of ME2 pipeline facility and
+
+    project execution between Co-Defendants ETO and SPLP.
+
+
+
+59. Upon information and belief Defendant GES was a beneficiary of a very
+
+    lucrative monetary agreement and/or agreements that existed at all relevant
+
+    times between Co-Defendants GTS, ETO and/or SPLP.
+
+
+
+60. The fact that Defendant GES was at all relevant times an employer of Mr.
+
+    Kovarik for the purposes of this PSIA action has never been disputed.
+
+
+
+ 61.The fact that Defendant ETO was at all relevant times an employer of Mr.
+
+    Kovarik has been established by OSHA investigation.
+
+
+
+ 62.The fact that Defendant SPLP was at all relevant times an employer of Mr.
+
+    Kovarik for the purposes of this PSIA action has never been disputed.
+
+
+
+                                       – 13 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 14 of 68
+
+
+
+
+                 Mariner East 2/2x Pipeline Project Background
+
+
+
+63.Approximately between 2017 and 2022, Defendants ETO and SPLP
+
+   (collectively referred to herein as “Defendants ETO/SPLP”) were engaged in
+
+   the construction of a twin-set of new pipelines through Pennsylvania, including
+
+   Chester County, referred to as the Mariner East 2 and 2X pipeline project
+
+   (collectively referred to herein as "ME2", or “ME2 pipeline facility” or
+
+   “project”).
+
+
+
+64.The completion of the project has been seriously delayed.
+
+
+
+65.Every day of delay cost Defendants ETO/SPLP significant amount of money.
+
+
+
+66.Defendants ETO/SPLP had strongest incentive to avid work stoppage or
+
+   construction slowdown for any single day.
+
+
+
+
+                                     – 14 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 15 of 68
+
+
+
+
+67.Upon information and belief Defendants’ desire to keep project moving forward
+
+   at any cost was at least a contributing factor to Defendant SPLP’s criminal
+
+   conviction in Pennsylvania.
+
+
+
+68.The ME2 project pipelines were to be installed in designated easements and
+
+   "Right of Way" ("ROW") that were supposed to be properly marked on all
+
+   relevant drawings, maps and relevant permit documentation/permit plan sheets
+
+   and staked out on ground surface.
+
+
+
+69.American Petroleum Institute’s (“API”) Recommended Practice (“RP”) 1162,
+
+   which has been incorporated by reference into the Code of Federal Regulations
+
+   (“CFR”) defines in its paragraph 1.3.16 Pipeline Right-of-Way as “a defined
+
+   strip of land on which an operator has the rights to construct, operate, and/or
+
+   maintain a pipeline. A ROW may be owned outright by the operator or an
+
+   easement may be acquired for specific use of the ROW.”
+
+
+
+70.An old Defendant ETO/SPLP’s owned ME1 pipeline facility ROWs, public
+
+   ROWs, Penn Dot ROWs, ROWs and easements associated with other pipelines
+
+   and various private areas/ROWs including parking areas of department stores,
+
+
+
+
+                                       – 15 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 16 of 68
+
+
+
+
+   convenience stores and gas stations were also utilized for parking, access and
+
+   inspection purposes on ME2 pipeline facility.
+
+
+
+71.To be able to construct the ME2 pipelines, Defendants ETO/SPLP were
+
+   required to and did in fact obtain permits from various authorities including
+
+   permits from the Pennsylvania Department of Environmental Protection
+
+   ("PADEP").
+
+
+
+72.These PADEP permits included a Water Obstruction and Encroachment
+
+   Permits issued under 25 Pa. Code Chapter 105 and an Erosion and Sediment
+
+   Control Permits issued under 25 Pa. Code Chapter 102.
+
+
+
+73.Under the PADEP permits, any earth disturbance activity (such as drilling,
+
+   trenching, driving, construction or any similar type of activity that disturbs the
+
+   ground surface) must be performed in the "limits of disturbance" ("LOD")
+
+   specified in the permit plan sheets.
+
+
+
+74.Where a PADEP permit is necessary, the LOD definition applies to “an earth
+
+   disturbance activity that involves equal to or greater than 1 acre (0.4 hectare) of
+
+   earth disturbance” as specified in 25 Pa. Code Chapter 102.5(a).
+
+
+
+                                       – 16 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 17 of 68
+
+
+
+
+75.While the Erosion and Sediment Control Plan Narrative , which is a component
+
+   of the PADEP’s-issued permits for the ME2 states: "During construction, all
+
+   land disturbance is limited to the defined LOD," lifting dry leaves or bending
+
+   grass for purposes of PG’s ground inspection has never been designated as
+
+   land/earth disturbance limited to LOD.
+
+
+
+76.None of the over hundred thousand (100 000) pages of documents released by
+
+   Defendants during the OSHA investigation and proceedings in front of the
+
+   Administrative Law Judge (“ALJ”) indicate that lifting a dry leave and bending
+
+   dry grass to observe, investigate and report on a tearing wall of a small
+
+   subsidence less than four (4) feet across could be interpreted as an earth
+
+   disturbance in violation of NPDES permit.
+
+
+
+77.An extensive research conducted by Mr. Kovarik, his counsel, and by his legal
+
+   and geological consultants revealed that lifting a dry leave and bending dry
+
+   grass to observe, investigate, and report on a tearing wall of a small subsidence
+
+   less than four (4) feet across could be interpreted as an earth disturbance in
+
+
+
+
+                                      – 17 –
+         Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 18 of 68
+
+
+
+
+       violation of National Pollutant Discharge Elimination System (“NPDES”)
+
+       permit3.
+
+
+
+    78.The ME2 construction involved several methods of pipe-laying including open
+
+       trenching and horizontal directional drilling (“HDD”), all methods subject to
+
+       PADEP permitting due to discharges into water of the United states and
+
+       incorporating numerous drawings and documents within NPDES permits
+
+       constituting basis for PG inspections and reporting in accordance with the terms
+
+       and conditions of such.
+
+
+
+    79.PGs, among other types of professionals, were hired to inspect the ME2
+
+       construction corridor "[t]o ensure that . . .        operations are conducted in
+
+       accordance with permit conditions . . . .".
+
+
+
+    80.In order to determine if the operations were being conducted in accordance with
+
+       the permit conditions, PGs were responsible inter alia for inspecting, observing,
+
+       monitoring, documenting and reporting on:
+
+                  a) the method of constructing and assembling the ME 2 pipeline;
+
+
+
+3
+  The Clean Water Act prohibits anybody from discharging "pollutants" through a "point source"
+into a "water of the United States" unless they have an NPDES permit.
+
+
+                                            – 18 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 19 of 68
+
+
+
+
+           b) the aspects of the area in which the pipeline facility is located,
+
+   including climatic and geologic conditions and soil characteristics;
+
+           c) the proximity of the area in which the hazardous liquid pipeline
+
+   facility is located to environmentally sensitive areas;
+
+           d) the population density and residents’ behavior and population
+
+   growth patterns of the area in which the facility is located
+
+           e) any issues requiring construction to stop.
+
+
+
+81.There was not enough space for PG’s parking on the project. PGs were
+
+   therefore often directed to park in department stores, gas stations or just public
+
+   roads or other gas pipes ROW and required to walk to the construction areas to
+
+   conduct their inspections.
+
+
+
+82.There were also fences and enclosed public property on the project ROW and
+
+   inspecting PGs were, therefore, directed to go around these areas on public
+
+   roads or other easements.
+
+
+
+83.The ownership and/or control over the areas that PGs had to walk over or
+
+   around were often not staked or marked at all.
+
+
+
+
+                                      – 19 –
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 20 of 68
+
+
+
+
+ 84.Stakes designating ROW in many areas were often removed by local residents
+
+    protesting the construction of ME2.
+
+
+
+ 85.In 2018, after Mr. Kovarik’s truck got stuck on one of the designated access
+
+    areas leading from the Styer Road parking spot and utilizing, upon information
+
+    and belief, Buckeye Pipeline ROW, the access from that direction to project
+
+    area has been changed.
+
+
+
+ 86.The parking on the other side of the Styer Road, outside of project ROW,
+
+    designated for PG inspections and observations of Marsh Creek reservoir,
+
+    however, remained unchanged.
+
+
+
+
+                               Procedural History
+
+
+
+87. On August 6, 2020, Mr. Kovarik filed a whistleblower retaliation complaint
+
+    under PSIA and relevant law with OSHA against Defendants GES and ETO.
+
+
+
+88. Mr. Kovarik’s complaint was filed with the OSHA Region 3 office in
+
+    Philadelphia, Pennsylvania.
+
+
+
+                                     – 20 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 21 of 68
+
+
+
+
+89. On September 2, 2020, Mr. Kovarik reported his concerns to Pennsylvania
+
+     Attorney General and other authorities.
+
+
+
+90. On September 21, 2020 OSHA forwarded Mr. Kovarik’s complaint and
+
+     concerns to the United States Department of Transportation, Pipeline and
+
+     Hazardous Materials Safety Administration (“USDOT”).
+
+
+
+91. On November 6, 2020, Defendant GES filed a text of its position statement with
+
+     OSHA, submitting its exhibits subsequently on November 10, 2020 and served
+
+     such on Mr. Kovarik on or about November 13, 2020.
+
+92. Defendant GES position essentially boiled down to a) stating that Mr. Kovarik
+
+     was removed because he went “off the LOD without seeking approval from UI,
+
+     on or about May 18, 20204 …and included his observation of the same
+
+     depression5 in the HDD Inspection Daily Report” and b) pointing finger at ETO
+
+     for retaliation against Mr. Kovarik.
+
+
+
+
+4
+  PG never required any approval from Utility Inspector (UI) to go off LOD. Majority of the PG
+inspections was conducted outside of LOD and without UI knowledge or supervision.
+5
+  It was PGs duty to inspect and include observations of the same features and phenomena into
+their daily reports to allow for comparison of changes in time.
+
+
+                                            – 21 –
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 22 of 68
+
+
+
+
+93. On November 20, 2020, Defendant ETO requested thirty (30) days extension
+
+    for submitting its position papers to OSHA.
+
+
+
+94. OSHA’s letter of November 30, 2020 granted Defendant ETO an extension
+
+    until January 8, 2021 to respond to Mr. Kovarik’s complaint.
+
+
+
+95. On December 7, 2020, Mr. Kovarik, based on his reporting to Attorney
+
+    General’s Office and interview, received Statewide Investigating Grand Jury
+
+    (“Grand Jury”) Subpoena to testify in investigation of environmental crimes
+
+    that occurred during the installation of the ME 2 pipeline facility in the
+
+    Commonwealth of Pennsylvania.
+
+
+
+96. Mr. Kovarik was sworn-in for his Grand Jury Testimony by the Presiding
+
+    Judge, together with Defendant’s SPLP/ETO corporate witness, on December
+
+    15, 2020.
+
+
+
+97. On December 23, 2020, Penn DOT on behalf of USDOT conducted excavation
+
+    and investigation of the area giving rise to Mr. Kovarik’s concern and reports,
+
+    to wit, the subsidence above ME1 pipeline next to the ME 2 pipeline facility.
+
+
+
+
+                                      – 22 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 23 of 68
+
+
+
+
+98. On January 8, 2021 Defendant SPLP submitted its position statement to OSHA.
+
+
+
+99. Defendant SPLP’s position statement asserted that SPLP is a proper
+
+     Respondent/Defendant, rather than Defendant ETO in this matter6 because
+
+     Defendant SPLP was Mr. Kovarik’s employer pursuant to PSIA.
+
+
+
+100. Defendants ETO/SPLP position was based on a) fraudulent affidavit of Mr.
+
+     Banach alleging that he observed multiple violations of ETO/SPLP policy by
+
+     Mr. Kovarik between 2019 and his termination7, and b) that Mr. Kovarik’s did
+
+     not engage in a protected activity because his reports of depression/subsidence
+
+     did not relate to violations8 of any law.
+
+
+
+101. Defendants ETO and SPLP continued to act/respond jointly during the OSHA
+
+     investigation.
+
+
+
+
+6
+  Defendants SPLP/ETO’s counsel sent subsequently a letter to OSHA confirming that all of the
+actions/responses/communications to OSHA with respect to the pending matter by Defendant
+SPLP should also be attributed to Defendant ETO.
+7
+  Neither of these alleged violations have been supported by Defendants’ 100 000 thousand
+documents and neither Mr. Banach, nor Defendants stated why Mr. Kovarik was still on the job
+until he reported defective investigation of the geological condition/subsidence on May 19, 2020.
+8
+  Mr. Kovarik’s explanations to Ms. Fish, Mr. Banach and Mr. McBrien that he is concerned that
+there is a potential for explosion of ME1 if its integrity is compromised, thus violation of the
+pipeline safety law would be at issue, and that wetlands could be compromised if the
+depression/subsidence is activated and a hydrological balance of WH-31 disturbed, thus both
+CWA and CSL would be violated, were never addressed.
+
+
+                                             – 23 –
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 24 of 68
+
+
+
+
+102. On February 1, 2021, Mr. Kovarik submitted his rebuttal to Defendants GES
+
+    and ETO/ SPLP’s position statements.
+
+
+
+103. OSHA concluded that Mr. Kovarik satisfied the prima facie threshold and
+
+    continued with investigation.
+
+
+
+104. An unsuccessful mediation overseen by OSHA was conducted by all of the
+
+    parties between June 29, 2021 and August 5, 2021.
+
+
+
+105. On October 25, 2021, or shortly thereafter, the case was transferred for
+
+    undisclosed reasons to OSHA Region 5 in Toledo Ohio.
+
+
+
+106. On August 5, 2022, Attorney General Josh Shapiro announced that Defendant
+
+    SPLP (and ETC Northeast Pipeline LLC, both subsidiaries of Defendant ETO),
+
+    were convicted of criminal charges related to their conduct during the
+
+    construction of Mariner East 2 Pipeline in Pennsylvania.
+
+
+
+
+                                     – 24 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 25 of 68
+
+
+
+
+107. Defendant SPLP’s criminal conduct included multiple failures to report
+
+    violations of law and NPDES permits during construction activities subject to
+
+    PGs’ inspections.
+
+
+
+108. Mr. Kovarik’s report to Attorney general Office on September 2, 2020 and
+
+    further cooperation has been related to the criminal proceedings for violation of
+
+    federal and state laws and criminal conviction of the Defendant SPLP.
+
+
+
+109. On June 15, 2023 OSHA issued its findings to the parties.
+
+
+
+110. The June 15, 2023 OSHA findings concluded that defendant ETO has been an
+
+    “employer” for the purposes of Mr. Kovarik’s complaint.
+
+
+
+111. The June 15, 2023 OSHA findings also stated that Mr. Kovarik was removed
+
+    from the job site and terminated for a non-retaliatory reasons yet OSHA failed
+
+    to provide any basis for such a conclusion.
+
+
+
+112. It became apparent from OSHA’s file that two days before the OSHA’s decision
+
+    has been released, Defendants convinced OSHA that Mr. Kovarik has been
+
+
+
+
+                                       – 25 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 26 of 68
+
+
+
+
+    terminated because he was outside of ROW and/or violated LOD, when he was
+
+    investigating the subsidence with Mr. Banach and Mr. McBrien in May 2020.
+
+
+
+113. It is unclear why would OSHA ignore, and not investigate the fact that no such
+
+    claims were made, when Mr. Kovarik investigated the same depression
+
+    numerous times in the past with and without Mr. Banach and Mr. McBrien,
+
+    reported on the same depression, and submitted numerous photographs of such.
+
+
+
+114. It is unclear why would OSHA ignore and not investigate the fact that no such
+
+    claims were made against Mr. Banach and Mr. McBrien when they investigated
+
+    the same depression with Mr. Kovarik.
+
+
+
+115. On July 11, 2023, Mr. Kovarik timely appealed OSHA findings and requested
+
+    a Hearing before an Administrative Law Judge.
+
+
+
+116. On August 23, 2023 a Notice of Docketing Statement was issued by the Office
+
+    of Administrative Law Judges (“OALJ”) for the OALJ case number 2023-PSI-
+
+    00004 corresponding to OSHA Case No.: 3-6540-20-131, In the matter of
+
+    Jaromir Kovarik v. Groundwater & Environmental Services, Inc. (GES) and
+
+    Energy Transfer Operating L.P. (ETO) (“matter”).
+
+
+
+                                      – 26 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 27 of 68
+
+
+
+
+117. On October 19, 2023, Honorable Sean M. Ramaley, the Administrative Law
+
+    Judge assigned to preside over this matter (“Hon. Ramaley”), issued his Notice
+
+    of Assignment, Notice of Hearing, and Initial Preheating Order (“Hon.
+
+    Ramaley’ s Hearing Order”).
+
+
+
+118. Hon. Ramaley’ s Hearing Order designated February 6, 2024 as a hearing date
+
+    with a discovery cut-off date sixty (60) days before the hearing date.
+
+
+
+119. On November 20, 2023, Mr. Kovarik submitted his Motion for Continuance of
+
+    the Hearing pursuant to 29 C.F.R. § 18.41 (b) and issuance of an order for
+
+    Development of a Proposed Discovery Plan pursuant to 29 C.F.R. § 18.50 (b)
+
+    et. seq (“Motion for discovery plan”).
+
+
+
+120. On November 27, 2023 was Mr. Kovarik’s Motion for a Discovery Plan denied
+
+    by Hon. Ramaley.
+
+
+
+121. On December 5, 2023, Hon. Ramaley extended the discovery cut-off date to
+
+    January 8,, 2024 during a telephone pre-hearing conference.
+
+
+
+
+                                       – 27 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 28 of 68
+
+
+
+
+122. On December 29, 2023 Hon. Ramaley issued a Disclosure Order notifying the
+
+    parties of his potential conflict of interest regarding a family investment with
+
+    respect to Defendant ETO and informed the parties that he will not be resolving
+
+    any motions until the end of the discovery period, to wit, January 8, 2024.
+
+
+
+123. Numerous discovery disputes including emergency motion were pending
+
+    unresolved at that time and until after the discovery cut-off date.
+
+
+
+124. On January 2, 2024, Hon. Ramaley issued an Order Canceling Hearing and a
+
+    Notice of Withdrawal of Administrative Law Judge based on Hon. Ramaley’ s
+
+    previously identified potential conflict.
+
+
+
+125. On January 8, 2024, Mr. Kovarik renewed his Motion for Issuance of an Order
+
+    for Development of a Proposed Discovery Plan pursuant to 29 C.F.R. § 18.50
+
+    (b) et. seq and for continuance of the Discovery accordingly (“renewed
+
+    motion”).
+
+
+
+126. Mr. Kovarik based his renewed motion, inter alia, on the fact that the
+
+    Defendants ETO and GES violated document production and subpoenas by
+
+    their production of over 100,000 electronic files identified only by bates
+
+
+
+                                        – 28 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 29 of 68
+
+
+
+
+    numbers in a format not readily accessible/reviewable even by Defendant
+
+    GES’s own witnesses.
+
+
+
+127. Mr. Kovarik estimated in his renewed motion that “[t]he current status of
+
+    respondents’ production would require over two hundred (200) eight (8) hours
+
+    day just to review Respondents’ current production” based on the testimony of
+
+    Defendant GES’ witnesses.
+
+
+
+128. There have been additional unresolved disputes between the parties, including
+
+    depositions of Defendants GES, ETO, and third party witnesses, in particular
+
+    the deposition of Mr. Banach has not been completed, all compounded by
+
+    Defendants’ defective document production.
+
+
+
+129. The discovery has been very contentious with each opposing party accusing the
+
+    other party of misconduct.
+
+
+
+130. On January 8, 2024, Hon. Administrative Law Judge Natalie A. Appetta, newly
+
+    reassigned presiding judge (“Hon. Appetta”) issued a Notice of Reassignment,
+
+    Notice of Rescheduled Hearing and Order Providing Certain Amended Pre-
+
+
+
+
+                                      – 29 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 30 of 68
+
+
+
+
+     hearing Deadlines and Requirements (“Hon. Appetta’s January 8 Hearing
+
+     Order”).
+
+
+
+131. Hon. Appetta’s January 8 Hearing Order inter alia stated that the “parties must
+
+     complete all discovery no later than January 8”, 2024, to wit by the date the
+
+     order was issued and Mr. Kovarik submitted his renewed motion for extension
+
+     and ordered that “[a]s discovery closes today, January 8, 2024, Motions for
+
+     Summary Decisions are required to be filed by January 16, 2024, regardless of
+
+     the date of the scheduled hearing” and that “ [a]ny responses to Motions for
+
+     Summary Decision are required to be filed eight days (8) days after the Motion
+
+     has been served on the parties,” thus suspending the Rule 29 C.F.R. § 18.33(d).
+
+
+
+132. Hon. Appetta’s January 8 Hearing Order further ordered that the Hearing is to
+
+     be conducted on February 27, 2024 remotely9 and directed parties to provide
+
+     agreed upon dates of availability for hearing between February 13 and March
+
+     15, 2024 should a party have a conflict.
+
+
+
+
+9
+  During the pre-hearing conference on December 5, 2024, Mr. Kovarik strongly objected to a
+remote hearing and it was ordered by Hon. Ramaley that the Hearing will be conducted in person
+in Harrisburg.
+
+
+                                            – 30 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 31 of 68
+
+
+
+
+133. On January 11, 2024, Defendant ETO send a letter to Hon. Appetta asserting a
+
+    pre-existing non-movable conflicts during the dates of February 27-March 1,
+
+    2024, the dates Hon. Appetta scheduled for the hearing and “non-refundable
+
+    out of country travel from February 24-28, 2023 [sic] that would present an
+
+    undue hardship to cancel or reschedule” (“Defendant ETO letter”).
+
+
+
+134. The Defendant ETO letter proposed that “the hearing be moved to February 20-
+
+    23, 2024.”
+
+
+
+135. The Defendant ETO letter stated that Mr. Kovarik does not agree with the
+
+    proposed Hearing date and that he suggests that the hearing should be held in
+
+    person as per December 5, 2023 pre-hearing conference with Hon. Ramaley
+
+    and at later date.
+
+
+
+136. On January 16, 2024, Defendant ETO filed two and Defendant GTO one
+
+    Motion for Summary Decision.
+
+
+
+137. Defendant ETO Motions for Summary decision were based on a) arguing that
+
+    ETO is not a proper party b) that Mr. Kovarik’s report was not related to any
+
+
+
+
+                                     – 31 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 32 of 68
+
+
+
+
+     violation of existing law; similar grounds being asserted by Defendant GES
+
+     plus assertions that Mr. Kovarik was treated the same way as other employees 10.
+
+
+
+138. On January 17, 2024, Hon. Appetta denied Mr. Kovarik’s renewed Motion for
+
+     Development of the Discovery Plan and Extension of Discovery and all of his
+
+     motions to compel discovery and sustained all of the Defendants’, resp. third
+
+     party motions11 to resist discovery and deposition.
+
+
+
+139. On January 18, 2024, Hon. Appetta issued in Order Responding to Requests for
+
+     Clarification and Rescheduling Hearing (“Clarification and Hearing Order”).
+
+
+
+140. The Clarification and Rescheduling Order, inter alia, overruling Mr. Kovarik’s
+
+     objections and rescheduling the hearing to start on February 20, 2024 to be
+
+     conducted remotely.
+
+
+
+
+10
+   Upon information and belief, no employee on Spread 6 has been terminated for asserting
+violations of pipeline safety law and environmental laws based on defective investigation of
+subsidence above ME 1.
+11
+   The motion for issuance of subpoena for deposition of a key witness Ray Banach has been
+pending since December 11, resp. December 12, 2023, yet not resolved until January 17, 2024,
+nine days after the discovery cut-off date.
+
+
+                                            – 32 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 33 of 68
+
+
+
+
+141. The Clarification and Rescheduling Order restated that Mr. Kovarik’s responses
+
+    to Defendants ETO/SPLP and GES Motions for Summary Decisions are due on
+
+    January 24, 2024.
+
+
+
+142. On January 22, 2024, Mr. Kovarik filed his Motion for issuance of an Order
+
+    Extending Time for his Response to Respondents’ pending Motions for
+
+    Summary Decision to fourteen (14) days as specified by rule 29 C.F.R. § 18.33.
+
+
+
+143. On January 24, 2024, Defendants ETO/SPLP and GES jointly opposed Mr.
+
+    Kovarik’s Motion for Extension of Time to respond to Defendants Motions for
+
+    Summary Decision.
+
+
+
+144. On January 24, 2024, Hon. Appetta issued an Order Extending Mr. Kovarik’s
+
+    Time to Respond to Respondents/Defendants’ Motions for Summary Decision
+
+    to January 31, 2024.
+
+
+
+145. On January 26, 2024, Defendants ETO/SPLP and GES submitted their Joint
+
+    Stipulation of Agreed Facts (“JSOF”) and their individual Amended Pre-
+
+    Hearing Statements.
+
+
+
+
+                                      – 33 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 34 of 68
+
+
+
+
+146. Defendants JSOF has been complemented by numerous exhibits and by Mr.
+
+    Kovarik’s never seen affidavits of Ms. Fish and Ms. Grillo.
+
+
+
+147. Defendants JSOF numerous supporting exhibits did not provide a single exhibit
+
+    evidencing that Mr. Kovarik has been informed that the depression/subsidence
+
+    in question is outside of ROW or that he violated LOD policy when inspected,
+
+    observed and reported on it with or without the presence of Mr. Banach and Mr.
+
+    McBrien.
+
+
+
+148. Defendants JSOF numerous supporting exhibits did not provide a single exhibit
+
+    evidencing that moving dry leaves or bending grass to observe ground and soil
+
+    conditions during PG inspection constitutes a “disturbance of ground” or a
+
+    similar activity restricted to LOD.
+
+
+
+149. On January 30, 2024, parties held a settlement negotiations conference that was
+
+    not successful.
+
+
+
+150. Shortly after the conference, Mr. Kovarik filed his opposed Motion to Stay
+
+    Proceedings to February 10, 2024, or until he exercises his right to file the case
+
+
+
+
+                                          – 34 –
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 35 of 68
+
+
+
+
+    in the appropriate US District Court under the kick-off provision of 49 C.F.R.
+
+    § 60129 (b)(3)(D)(i) to be allowed time to prepare his complaint.
+
+
+
+151. On February 1, 2024, Hon. Appetta issued an Order denying Mr. Kovarik’s
+
+    Motion to Stay as Moot and Dismissing his Complaint with Prejudice to
+
+    reinstatement or refiling in the OALJ (“Order of Dismissal”).
+
+
+
+152. Hon. Appetta’s Order of February 1, 2024 found that the conditions of 49
+
+    C.F.R. § 60129 (b)(3)(D)(i) have been satisfied in Mr. Kovarik’s case because
+
+    his complaint was filed over three (3) years ago, no final decision on the
+
+    Complaint has been issued by the Secretary of Labor and, at this juncture, she
+
+    did not find the delay to be due to bad faith of Mr. Kovarik.
+
+153. On February 8, 2024, Mr. Kovarik filed his Motion to Reconsider Hon
+
+    Appetta’s Order of Dismissal.
+
+
+
+154. On February 9, 2024, Mr. Kovarik filed his Notice of Appeal with the
+
+    Administrative Review Board asking for reversal of the Hon. Appetta’s Order
+
+    of Dismissal.
+
+
+
+
+                                       – 35 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 36 of 68
+
+
+
+
+155. On February 9, 2024, Hon Appetta granted Mr. Kovarik’s Motion to Reconsider
+
+    her Order of Dismissal reinstating Mr. Kovarik’s complaint, all pending
+
+    motions, deadlines and hearing date and staying the matter until 11:59 pm EST
+
+    on Monday, February 12, 2024 or until Mr. Kovarik provides a copy of his
+
+    complaint filed in U.S. District Court, whichever comes first.
+
+
+
+156. Mr. Kovarik was unable to complete discovery to respond to Defendants
+
+    motions for Summary decision during the proceedings in front of the
+
+    Administrative Law Judge as he stated in several of his motions.
+
+
+
+157. Hon. Appetta’s orders prompted Mr. Kovarik repeatedly about his right to file
+
+    the instant action in the appropriate District Court of the United states pursuant
+
+    to 49 C.F.R. § 60129 (b)(3)(D)(i).
+
+
+
+158. Based on Mr. Kovarik’s experience with proceedings in front of ALJ, United
+
+    States District Courts are better equipped to oversee discovery and resolve
+
+    disputes in complex cases or cases where, as Hon. Appetta observed in her
+
+    January 24, 2024 Order: “there is a lack of communication among the parties
+
+    and an unwillingness to agree to anything”.
+
+
+
+
+                                         – 36 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 37 of 68
+
+
+
+
+159. Mr. Kovarik, therefore, filed his complaint in this Honorable Court on February
+
+    12, 2024 as anticipated by Hon. Appetta.
+
+
+
+
+Claim for Retaliation and Wrongful Termination under 49 U.S.C. §60129, 29
+                C.F.R. 1981.100 et seq against all Defendants
+
+    Mr. Kovarik incorporates the allegations of the preceding paragraphs above,
+
+    and further alleges:
+
+
+
+160. Mr. Kovarik signed Defendant GES’s offer of employment on or about October
+
+    5, 2017.
+
+
+
+161. Mr. Kovarik’s starting position was Principal Hydrogeologist (P6).
+
+
+
+162. Mr. Kovarik’s starting hourly rate was $55.00/hour with overtime pay at 1.5
+
+    times his base hourly compensation for approved hours worked in excess of
+
+    forty (40) hours per week.
+
+
+
+163. While Mr. Kovarik’s agreement offer stated that his is a part-time position with
+
+    anticipated work up-to 2 days a week, his work extended up to five (5) days a
+
+    week with an average exceeding fifty (50) hours a week soon.
+
+                                       – 37 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 38 of 68
+
+
+
+
+ 164. Mr. Kovarik’s employment agreement also states that Defendant GES was
+
+    compensated $195/hour, upon information and belief, for seconding Mr.
+
+    Kovarik to Defendants ETO/SPLP.
+
+
+
+ 165. Mr. Kovarik was assigned to perform inspections as a PG on the ME 2
+
+    pipeline facility on Spread 6, which includes Chester County.
+
+
+
+166. Defendant GES was repeatedly asking for more hours per week for work on
+
+    ME 2 pipeline project and Mr. Kovarik worked up-to sixty (60) hours per weeks
+
+    at certain times.
+
+
+
+167. Defendant GES indicated that it will continue employment of Mr. Kovarik after
+
+    completion of ME 2 pipeline project and requested his resume for that purpose.
+
+
+
+168. When Mr. Kovarik informed Defendant GES that he is resigning, because he
+
+    believed that he would be unable to adhere to his high professional standards,
+
+    to wit being asked to complete his report before receiving relevant information,
+
+    Defendant GES asked Mr. Kovarik to reconsider recognizing that Mr. Kovarik
+
+    was correct and that his professional integrity is not for sale.
+
+
+
+                                        – 38 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 39 of 68
+
+
+
+
+169. Mr. Kovarik, indeed reconsider after Defendant GES initiated certain changes.
+
+
+
+170. Mr. Kovarik, therefore, closed his law office in May 2020, just before his
+
+    termination, to be available to work for Defendant GES exclusively in the
+
+    future.
+
+
+
+171. Every day that Mr. Kovarik performed his inspection as a PG on ME 2 pipeline
+
+    project, he was required to fill out a HDD inspection Daily Report and submit
+
+    such to Defendants.
+
+
+
+ 172. The HDD reports summarized Mr. Kovarik observations and findings during
+
+    his inspections of the ME2 pipeline facility and included photographs of
+
+    selected relevant areas or activities of interest or concern. On Saturday January
+
+    4, 2020, at a meeting at Spread 6 construction office to discuss “Field Support
+
+    Protocol,” PGs were asked to report to construction management any possible
+
+    depressions or areas of concerns on the ME2 ROW or ME2 LOD.
+
+
+
+ 173. After the January 4, 2020 meeting, Mr. Kovarik sent a photograph of a
+
+    subsidence/depression he observed the previous day within the pipeline facility
+
+
+
+                                       – 39 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 40 of 68
+
+
+
+
+   ROW to his geological supervisor, Lead Field Coordinator and Senior PG Ms.
+
+   Lieschen Fish, PG (“Ms. Fish”).
+
+
+
+174. Ms. Fish instructed not to put the subsidence/depression on his HDD daily
+
+   reports.
+
+
+
+175. The depression that Mr. Kovarik observed is located along North Chester
+
+   Road, near the intersection of Bow Tree Drive along the newly constructed
+
+   ME2 pipeline facility and directly above the existing active ME1 gas pipeline
+
+   owned and operated by Defendants ETO/SPLP.
+
+
+
+176. The ME1 pipeline is almost one hundred (100) years old and was constructed
+
+   with lower margins of safety than required by today’s law and enabled by
+
+   today’s technology.
+
+
+
+177. The subsidence is also in a close vicinity to populated area of East Goshen
+
+   Township, where any explosion could have catastrophic consequences resulting
+
+   in loss of life and property.
+
+
+
+
+                                     – 40 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 41 of 68
+
+
+
+
+178. The subsidence is also very close, if not directly within the monitored
+
+   wetlands, designated as WH-31 on ME 2 permit and construction drawings.
+
+
+
+179. It is also in the middle of the ROW for the ME1 facility owned and operated
+
+   by Defendants ETO/SPLP.
+
+
+
+180. Upon information and belief, Ms. Fish added the photo of the depression to
+
+   the “depression tracker,” but upon information and belief, she did not
+
+   immediately report it to Defendants ETO/SPLP construction management or
+
+   Environmental Inspector.
+
+
+
+181. Ms. Fish did not inform Mr. Kovarik that the subsidence is outside of ROW
+
+   at the time of his reporting or at any time in the future.
+
+
+
+182. Mr. Kovarik has been concerned that the existing drilling activities at HDD-
+
+   521 could be connected through the local faults or cracks projected as
+
+   perpendicular traces to ME1 due to the geology in the area. Such connection
+
+   could result in removing and/or weakling support for the active ME1 pipeline
+
+   facility leading to the loss of its integrity.
+
+
+
+
+                                         – 41 –
+           Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 42 of 68
+
+
+
+
+     183. On January 10, 2020, Mr. Kovarik, therefore, reported his continuous concern
+
+        to the utility inspector at the staging area of the HDD-521 in the vicinity of the
+
+        subsidence.
+
+
+
+     184. Mr. Kovarik’s concerns were also shared with the Construction Manager, Mr.
+
+        Ray Banach of Cleveland Integrity Services (“Mr. Banach”), the Lead
+
+        Environmental Inspector, Mr. Josh Prosceno (“Mr. Prosceno”) of Tetra Tech,
+
+        and the Chief Utility Inspector12.
+
+
+
+     185. Mr. Banach an Environmental Inspector, Mr. Gavin McBrien of Tetra Tech
+
+        (dispatched by Mr. Prosceno), meet with Mr. Kovarik and walked the area of
+
+        subsidence up the wetlands behind it.
+
+
+
+     186. Neither Mr. Banach nor Mr. McBrien or any of the surveyors were PG’s.
+
+
+
+     187. Therefore, any reliance of Mr. Banach or Mr. McBrien or surveyor’s
+
+        conclusion on the origins and progression of the subsidence, such as suggesting
+
+        it to be tire rut, would be in violation of permits and law, including attempts to
+
+        practice geology without a valid license in Pennsylvania.
+
+
+12
+     Contractors retained and acting as agents apparent on behalf of Defendants ETO/GES.
+
+
+                                              – 42 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 43 of 68
+
+
+
+
+188. At no time, while investigating and walking around and beyond the
+
+   subsidence towards the wetlands WH-31, did Mr. Banach or Mr. McBrien
+
+   suggested or indicated that the subsidence/depression was out of ROW and they
+
+   or Mr. Kovarik should not be walking and investigating around it without a
+
+   special permit.
+
+
+
+189. There were no stakes on the ground suggesting that the subsidence/depression
+
+   was outside of ROW.
+
+
+
+190. None of the permit drawings/construction sheets indicated that the
+
+   subsidence/depression is outside of ROW.
+
+
+
+191. On January 10, 2020, upon information and belief, the Defendants
+
+   ETO/SPLP’s surveyor surveyed and investigated the depression without
+
+   presence of any PG to direct what parts should be marked and surveyed.
+
+
+
+192. PG’s expertise is required to decide what parts of a subsidence/depression are
+
+   most likely to move in time so survey pins and stakes are position properly for
+
+   the future re-survey.
+
+
+
+                                     – 43 –
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 44 of 68
+
+
+
+
+193. Mr. Kovarik’s HDD Inspection Daily Report on January 10, 2020 and
+
+   subsequent HDD reports reported on inspections of the subsidence/depression
+
+   including photographs depicting such.
+
+
+
+194. The above HDD reports have been submitted and reviewed by Defendants
+
+   without any objections.
+
+
+
+195. At no time did Defendants suggested or indicated to Mr. Kovarik, or to any
+
+   other PG on the ME2 project, that the depression/subsidence is outside of ROW
+
+   limits and should not be inspected.
+
+
+
+196. At no time was Mr. Kovarik, or any other PG apprised that lifting dry leaves
+
+   or bending grass to inspect soil and ground conditions is considered disturbance
+
+   of ground.
+
+
+
+197. In fact, it is almost impossible to inspect soil and ground conditions in grassy
+
+   and wetland areas, particularly during fall with leafs on the ground.
+
+
+
+
+                                      – 44 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 45 of 68
+
+
+
+
+198. On January 17, 2020, the surveyor surveyed the area again without any PG
+
+   being present and reported that no changes were observed.
+
+
+
+199. The survey stakes and marks have been removed making inspections and
+
+   evaluations of the depression/subsidence survey points in the future impossible
+
+   for inspecting PGs.
+
+
+
+200. At no time were stakes or other markings placed on the ground indicating that
+
+   the subsidence/depression is outside of ROW and should not be inspected.
+
+
+
+201. On January 29, 2020, Mr. David Demko, PG, an employee of Defendant GES
+
+   prepared a Pre-Pipe Pull PG Site Evaluation. Mr. Demko indicated that while
+
+   the depression was determined not to be dangerous, the area would
+
+   subsequently “be monitored through the upcoming pipe-pull and during the post
+
+   pipe-pull inspections.”
+
+
+
+202. Nothing in Mr. Demko’s report indicated that the depression/subsidence is
+
+   outside of ROW and that a special permit would be required to monitor it, or
+
+   that inspecting such would be in violation of Defendants ETO/SPLP’s LOD
+
+   policy.
+
+
+
+                                     – 45 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 46 of 68
+
+
+
+
+203. In the subsequent months, between January 10 and May 18, 2020 (except
+
+  when drilling was halted due to the Governor’s COVID-19 order), Mr. McBrien
+
+  regularly checked the depression area.
+
+
+
+204. During the above time period Mr. McBrien saw and spoke with Mr. Kovarik
+
+  regularly about their inspections of the depression/subsidence in question.
+
+
+
+205. Mr. McBrien did not raise any concerns about the depression/subsidence
+
+  being outside of ROW or his and Mr. Kovarik’s inspections being in violation
+
+  of Defendants ETO/SPLP’s LOD policy at any time.
+
+
+
+206. On May 18, 2020, Mr. Kovarik informed the Chief Environmental Inspector
+
+  Mr. Josh Prosceno (“Mr. Prosceno”), Utility Inspector Mr. Jack Wallace and
+
+  Ms. Fish, via text message that the “Earth feature @ 521…appears to double in
+
+  size and sides are opening.”
+
+
+
+207. Mr. Prosceno responded that he would have an Environmental Inspector
+
+  inspect and have the surveyor come to take measurements again.
+
+
+
+
+                                    – 46 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 47 of 68
+
+
+
+
+208. Mr. Prosceno did not suggest or indicate that the depression/subsidence is
+
+   outside of ROW and should not be approached by Mr. Kovarik.
+
+
+
+209. Mr. Kovarik communication May 2018, 2020 about the depression stating that
+
+   it is “not much deeper” but appears “double in size and sides are opening “has
+
+   been included in parties production and exhibits.
+
+
+
+210. Indeed, sides of the depression were steeper with opening tears and cracks as
+
+   evident from comparison of Mr. Kovarik’s January and May pictures.
+
+
+
+211. Such signs quite often mean that a potentially inactive depression or dormant
+
+   subsidence is evolving into an active subsidence.
+
+
+
+212. Mr. McBrien met with Mr. Kovarik at the subsidence and walked around the
+
+   subsidence as in January 2020 while waiting for Mr. Banach.
+
+
+
+213. Mr. McBrien asked Mr. Kovarik why he is risking wrath of Mr. Banach by
+
+   bringing the attention to the subsidence again.
+
+
+
+
+                                      – 47 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 48 of 68
+
+
+
+
+214. Mr. Kovarik explained to Mr. McBrien that he is concerned, that the activation
+
+   of the subsidence could mean that the support for the active ME1 pipeline,
+
+   shown on the project drawings directly below the subsidence, could be washed
+
+   away.
+
+
+
+215. Washing away or weakening of the support around an active gas pipeline,
+
+   particularly an old one, can lead to a rupture and explosion of a pipeline.
+
+
+
+216. Rapture and explosion of a gas pipeline can have catastrophic consequences
+
+   including loss of life and property, particularly in residential neighborhoods
+
+   similar to one close to the subsidence in question.
+
+
+
+217. Mr. Kovarik stated that he will rather risk wrath of Mr. Banach than loose his
+
+   professional integrity and expose public to any risk or explosion as in Beaver
+
+   County.
+
+
+
+218. Mr. McBrien noted that under the circumstances, Mr. Kovarik is “doomed
+
+   whether he reports the subsidence or not.”
+
+
+
+219. Mr. Banach arrived “pumped up” to the subsidence location.
+
+
+
+                                      – 48 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 49 of 68
+
+
+
+
+220. Mr. Banach walked with Mr. McBrien and Mr. Kovarik again around the
+
+   subsidence.
+
+
+
+221. Mr. Kovarik was asked to show where the cracks and tears in the subsidence
+
+   walls are.
+
+
+
+222. Mr. Kovarik removed a few dry leaves and bent dry grass that obscured the
+
+   view of the tears and cracks.
+
+
+
+223. He also placed his glove next to the observed features to give a scale.
+
+
+
+224. He further explained that he had placed a rock in the subsidence for reference
+
+   after the surveying stakes were removed.
+
+
+
+225. Mr. McBrien consented that the subsidence could be a bit larger then when
+
+   investigated first in January, 2020.
+
+
+
+226. Mr. McBrien comment drew ire from Mr. Banach who insisted that the
+
+   subsidence is an old tire rut.
+
+
+
+                                      – 49 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 50 of 68
+
+
+
+
+227. Mr. McBrien did not contradict irritated Mr. Banach.
+
+
+
+228. Mr. Kovarik disagreed and proposed that the drilling at HDD-521 should stop
+
+   until the subsidence is properly surveyed and evaluated under the PG
+
+   supervision, and if necessary excavated to make sure ME1 pipe is safe.
+
+
+
+229. Mr. Kovarik also suggested that the subsidence issue should be reported to
+
+   DEP to comply with the permits and law.
+
+
+
+230. Mr. Kovarik explained to everybody that he is concerned with the underlying
+
+   pipeline integrity and that not properly investigating the issue is akin to
+
+   violation of pipeline safety law.
+
+
+
+231. Mr. Kovarik’s position further annoyed Mr. Banach, who stated that Mr.
+
+   Kovarik’s conduct is against Defendants ETO/SPLP interests, because his
+
+   suggestion may lead to interruption of drilling at HDD-521 drill, further delay
+
+   of the project and increased costs.
+
+
+
+
+                                         – 50 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 51 of 68
+
+
+
+
+232. Interruption of drilling at HDD-521 would, indeed, most likely delay the
+
+   progress of the ME2 completion further.
+
+
+
+233. Any delay in completion of ME2 project caused significant loss of profits for
+
+   Defendants ETO/SPLP, particularly because the project has already been
+
+   behind the schedule.
+
+
+
+234. Neither Mr. Banach, nor Mr. McBrien suggested to Mr. Kovarik that any of
+
+   them have been outside of ROW during their walk-around and investigation or
+
+   that they or Mr. Kovarik has done something in violation of LOD during the
+
+   investigation.
+
+
+
+235. It was clear that Mr. Banach will not tolerate Mr. Kovarik’s opinion contrary
+
+   to his one, when he left the subsidence site.
+
+
+
+236. On May 19, 2020, Mr. Banach sent an electronic communication to Ms. Fish,
+
+   Mr. Demko, Cc.: Mr. Ronald Cummings and Ms. Monica Styles, both
+
+   employees of Defendants ETO/SPLP, requesting inter alia Mr. Kovarik “…not
+
+   to be on the project.”
+
+
+
+
+                                      – 51 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 52 of 68
+
+
+
+
+237. Mr. Banach insisted that it became apparent that Mr. Kovarik has been re-
+
+   filtrated unacceptably back into the project after trespassing on Stryker Road.
+
+
+
+238. The incident on Stryker Road occurred in 2018.
+
+
+
+239. Mr. Banach has been aware of Mr. Kovarik’s work on the project and has been
+
+   meeting with Mr. Kovarik in person and communicating with him via phone
+
+   and text messages since at least June 2019.
+
+
+
+240. Mr. Banach admitted in his affidavit, and his admission has been confirmed
+
+   by affidavit of Mr. McBrien, that he met, investigated and discussed the
+
+   subsidence in question with Mr. Kovarik on January 10, 2020.
+
+
+
+241. Mr. Banach did not sent any communication about Mr. Kovarik being
+
+   “infiltrated” on the project or violating LOD, as he did on May 19, 2020 Supra.
+
+
+
+242. Mr. Banach’s “apparent” need for immediate removal of Mr. Kovarik from
+
+   the project suddenly expressed on May 19, 2020, less than 24 hours after Mr.
+
+   Kovarik insisted on reporting the subsidence to authorities against his desire
+
+   was therefore a pretext.
+
+
+
+                                      – 52 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 53 of 68
+
+
+
+
+243. Mr. Banach also knew that he, Mr. McBrien and Mr. Kovarik were off LOD
+
+   when walking around the subsidence because there is no LOD marked and/or
+
+   designated in that area.
+
+
+
+244. Mr. Banach knew, or should have known that lifting dry leaves and bending
+
+   grass that Mr. Kovarik done on his bidding, is not disturbance of ground and
+
+   hence no violation of permits and/or Defendants policy.
+
+
+
+245. Mr. Banach’s accusation in May 19, 2020 communications to Defendants that
+
+   Mr. Kovarik violated Defendants’ LOD rules was, therefore a pretext.
+
+
+
+246. Mr. Banach requested removal of Mr. Kovarik from ME2 project on pretext
+
+   because he disagreed with Mr. Kovarik reporting his observations of subsidence
+
+   and requirements for such to be reported to the authorities and properly
+
+   investigated.
+
+
+
+247. Mr. Banach’s pretext scheme was taken at a face value by Defendants because
+
+   it was in alignment with Defendants’ monetary interests.
+
+
+
+
+                                    – 53 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 54 of 68
+
+
+
+
+248. Mr. Banach’s factual allegations against Mr. Kovarik were never verified by
+
+   Defendants.
+
+
+
+249. On May 19, 2020, the surveyor surveyed the subsidence area again without
+
+   presence of Mr. Kovarik, who was the PG assigned for the inspections of the
+
+   area for that day.
+
+
+
+250. Mr. Kovarik learned about the survey only from his observation of surveyor’s
+
+   stick within the subsidence when he was finishing one of his inspection walks,
+
+   after about 5PM on May 19, 2020.
+
+
+
+251. Mr. Kovarik inspected the subsidence and realized that the survey was not
+
+   done properly or that the subsidence’s wall collapsed more since the survey.
+
+
+
+252. Mr. Kovarik immediately conveyed his observations to Ms. Fish.
+
+
+
+253. Mr. Kovarik was removed from the job site by Ms. Fish telephone call on May
+
+   20, 2020, at about 7 am, less than fourteen (14) hours after Mr. Kovarik reported
+
+   his last observation of defective survey of the subsidence in question.
+
+
+
+
+                                      – 54 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 55 of 68
+
+
+
+
+254. Mr. Kovarik later learned that while the survey was not done at the proper
+
+   spot, the surveyed depth of the subsidence has still been about eight tenth (0.8)
+
+   of an inch deeper.
+
+
+
+255. It is well known that geological processes, unless catastrophic, are not
+
+   measured in days or months.
+
+
+
+256. Deepening of a relatively small subsidence by 0.8 inches or more within a few
+
+   months and steepening and tearing of its walls are signs to be taken seriously,
+
+   particularly above an active gas pipeline in a vicinity of horizontal directional
+
+   drilling, with local geology indicating linear features connecting the drilling
+
+   area, the subsidence and wetlands.
+
+
+
+257. Such a subsidence, even if not pausing danger to the underlying active gas
+
+   pipeline, can seriously disturb the existing wetlands’ ecosystem.
+
+
+
+258. The best practices mandated by ME2 permits for such a situation require
+
+   proper reporting and investigation. Such is best accomplished by stoppage of
+
+   drilling, reporting of the subsidence, inspecting the subsidence through
+
+   excavation and proper remediation.
+
+
+
+                                      – 55 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 56 of 68
+
+
+
+
+259. Defendant GES terminated Mr. Kovarik by a letter dated June 8, 2020.
+
+
+
+260. The termination letter stated that Mr. Kovarik’s termination is based on
+
+     electronic correspondence from Defendant ETO dated May 19, 2020 instructing
+
+     Defendant GES that Mr. Kovarik is “not to be on the (ME2) project” for
+
+     violation of Defendant ETO’s LOD rules13.
+
+
+
+261. The termination letter was the first instance when Mr. Kovarik learned that there
+
+     has been allegations by Defendants about his violation of LOD rules.
+
+
+
+262. These allegations were later, during OSHA investigation and proceedings in
+
+     front of ALJ, changed and/or supplemented by allegations that Mr. Kovarik
+
+     violated Defendants ROW rules.
+
+
+
+263. No exhibits supporting either allegation have been produced.
+
+
+
+
+13
+  The language strongly suggests that the Mr. Kovarik’s termination is based exclusively on Mr.
+Banach’s communication of May 19, 2020 Supra.
+
+
+                                            – 56 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 57 of 68
+
+
+
+
+264. Defendants, therefore, lack any evidence to prove that these allegations were
+
+    not just a pretext to retaliate against Mr. Kovarik’s report of the subsidence and
+
+    his determination to report such to the authorities.
+
+
+
+265. Defendants knew that by not reporting and properly investigating the
+
+    subsidence, they are violating the construction permits and the relevant
+
+    environmental laws.
+
+
+
+ 266. Defendants knew that by not reporting and properly investigating the
+
+    subsidence, they are violating relevant pipeline safety laws and endangering
+
+    public safety.
+
+
+
+ 267. The only reason why Defendants did not stop drilling and report and properly
+
+    investigate the subsidence was their monetary gain.
+
+
+
+ 268. Defendants removed Mr. Kovarik from the job and terminated him because
+
+    Defendants did not want Mr. Kovarik to report his concerns about their law
+
+    violations to authorities.
+
+
+
+
+                                       – 57 –
+     Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 58 of 68
+
+
+
+
+269. Mr. Kovarik reported his concerns about Defendants violations of permits,
+
+   environmental and pipeline safety laws to several authorities, including PA
+
+   DEP, US DOT and Pennsylvania Attorney’s Office.
+
+
+
+270. After his reports to authorities, Mr. Kovarik received a subpoena and was
+
+   sworn in to testify against Defendant SPLP in front of an Investigative Ground
+
+   Jury on December 15, 2023.
+
+
+
+271. Defendant SPLP was eventually indicted and convicted for criminal conduct
+
+   in violation of permits and environmental laws.
+
+
+
+272. On December 23, 2020, DOT conducted investigation of the subsidence in
+
+   question through excavation and remediation of the site, the investigative
+
+   procedure that Mr. Kovarik advocated to Defendants.
+
+
+
+273. The DOT investigation found, inter alia, that water from the wetlands was
+
+   running into the excavation area.
+
+
+
+274. The excavation was eventually backfilled, tamped and proper grades and
+
+   drainage in the area was restored.
+
+
+
+                                        – 58 –
+          Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 59 of 68
+
+
+
+
+     275. Water running into the subsidence could be dewatering the nearby wetland
+
+        area and change its ecosystem.
+
+
+
+     276. Water could also be washing away support for ME1 pipeline marked on the
+
+        ME2 project drawings under the subsidence, thus impacting ME1 structural
+
+        integrity.
+
+
+
+     277. The excavation did not expose the ME 1 pipeline.14
+
+
+
+     278. The excavation, however, confirmed that authorities considered Mr.
+
+        Kovarik’s concerns valid.
+
+
+
+279. For the reasons stated above, Mr. Kovarik was engaged in protected activity as
+
+        defined by PSIA, 29 C.F.R. §1981.102(a)(1) when he reported his concerns
+
+
+
+
+14
+   The depth of the excavation has been reported at 2.6 feet by RETEW PG and 3.3 feet by Penn
+DOT PG relative to the surrounding grades. The ME 1 pipeline is either deeper, or more likely
+not exactly where it is marked on Defendants ETO/SPLP’s project drawings. The conclusion is
+based on discovery of “a large root mat, interpreted… to be from a sizable tree formerly present
+at this location.” It is unlikely that a “sizable tree would not be removed during the trenching, the
+only feasible technology during the ME 1 pipeline construction hundred years ago, or that a large
+tree would be allowed to grow directly above the active ME1 pipeline facility.
+
+
+                                               – 59 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 60 of 68
+
+
+
+
+    about the subsidence enlargement and improper survey to Defendants and
+
+    subsequently to the authorities.
+
+
+
+280. As detailed above, Mr. Kovarik’s reports related to numerous violations of
+
+    permits, environmental laws and pipeline safety violations.
+
+
+
+281. Mr. Kovarik’s reporting also satisfies numerous factors to be considered
+
+    pursuant to 49 U.S.C. §60112 whether a pipeline presents a hazard to life,
+
+    property or the environment as detailed Supra.
+
+
+
+282. Mr. Kovarik’s removal from the site was later justified by email from Mr.
+
+    Demko suggesting that he violated non-communication policy of the
+
+    Defendants.
+
+
+
+283. When questioned, Ms. Grillo stated that the reasons for Mr. Kovarik’s
+
+    termination will be investigated.
+
+
+
+284. Subsequently, Mr. Chris Embry, Defendants ETO/SPLP employee, justified
+
+    retaliation against Mr. Kovarik by Defendants’ need to comply with
+
+    Construction Management request.
+
+
+
+                                        – 60 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 61 of 68
+
+
+
+
+285. Mr. Kovarik’s termination latter by Defendant GES blamed his termination on
+
+    Defendant ETO.
+
+
+
+286. Defendants have been pointing fingers at each other or trying to shift liability
+
+    on another entity, to wit ETO to SPLP.
+
+
+
+287. Defendants position statements and motions for summary decisions justified the
+
+    retaliation against Mr. Kovarik by his frequent violations of ROW/LOD policy
+
+    and zero tolerance for such violations.
+
+
+
+288. Neither the violations, nor explanation why Mr. Kovarik was not terminated
+
+    earlier if the “zero tolerance or “frequent violations” were true.
+
+
+
+289. There have been shifting explanations for Defendants’ actions towards Mr.
+
+    Kovarik.
+
+
+
+290. There have been inconsistent applications of defendant policies indicated by
+
+    Defendants own admissions.
+
+
+
+
+                                       – 61 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 62 of 68
+
+
+
+
+291. There has been hostility and antagonism towards Mr. Kovarik’s protected
+
+    activity.
+
+
+
+292. There has been falsity in Defendants’ explanations for their actions.
+
+
+
+293. There has been change in Defendants attitude towards Mr. Kovarik after he
+
+    engaged in protected activity.
+
+
+
+294. There has been close temporal proximity between Mr. Kovarik’s action and
+
+    adverse consequence.
+
+
+
+295. The adverse consequence included removal from the job site followed by
+
+    termination.
+
+
+
+296. Upon information and belief, Mr. Banach started to develop his pretext reasons
+
+    for removal of Mr. Kovarik when Mr. Kovarik stated that he is concerned about
+
+    violations of pipeline safety law and why are his concerns exacerbated.
+
+
+
+
+                                       – 62 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 63 of 68
+
+
+
+
+297. Mr. Kovarik’s concerns were exacerbated by his knowledge of the Defendant
+
+     ETO negligence, when it allowed its active gas pipeline to loose integrity and
+
+     explode in Beaver County due to adverse geological conditions15.
+
+
+
+298. Mr. Kovarik felt that Defendants are again ignoring their duty to authorities and
+
+     to public, to wit act on his subsidence reports in accord with laws and permits,
+
+     and instead are putting their monetary interests ahead of public safety by
+
+     rushing the ME2 construction forward.
+
+
+
+299. Mr. Kovarik suffered economic injury including but not limited to loss of
+
+     earnings, loss of fringe benefits, diminished retirement benefits, payment of
+
+     interest, and medical expenses.
+
+
+
+300. Mr. Kovarik, after his termination, was unable to secure a comparable
+
+     employment elsewhere.
+
+
+
+301. Mr. Kovarik suffered from a stigma created by Defendants’ wrongful actions.
+
+
+
+
+15
+  Defendant ETO has been, upon information and belief, fined over thirty million dollars
+(30,000,000) by DEP and allowed to continue ME 2 construction only after strict permit
+conditions requiring reporting of any potentially adverse geologic conditions timely to the
+authorities.
+
+
+                                              – 63 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 64 of 68
+
+
+
+
+302. Mr. Kovarik suffered damages to his professional reputation due to Defendants’
+
+    wrongful actions.
+
+
+
+303. Mr. Kovarik was unable to continue his legal practice due to Defendants
+
+    wrongful actions...
+
+
+
+ 304. Mr. Kovarik suffered a medical injury due to Defendants’ wrongful actions.
+
+
+
+ 305. Mr. Kovarik suffered a psychological injury due to Defendants’ wrongful
+
+    actions.
+
+
+
+ 306. Mr. Kovarik suffered emotional distress due to Defendants’ wrongful actions.
+
+
+
+ 307. Mr. Kovarik suffered mental anguish due to Defendants’ wrongful actions.
+
+
+
+ 308. Mr. Kovarik suffered additional pain and suffering due to Defendants’
+
+    wrongful actions.
+
+
+
+309. Mr. Kovarik’s average daily earning till his termination was $737.3/day.
+
+
+
+                                      – 64 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 65 of 68
+
+
+
+
+310. Mr. Kovarik’s daily meal and incidental benefit was $40/day before his
+
+    termination.
+
+
+
+311. Mr. Kovarik life expectancy based on his particular personal situation and
+
+    several actuaries’ tables has been 26.5 years at the time of his wrongful
+
+    termination.
+
+
+
+312. Mr. Kovarik’s loss of monthly retirement benefit due to loss of his earnings and
+
+    pay exceeds $412 monthly.
+
+
+
+313. Mr. Kovarik already expended over $ 37.500 on this whistleblowing matter,
+
+    including but not limited to legal and consulting fees and costs due to
+
+    defendants wrongful conduct.
+
+
+
+314. Defendants’ wrongful actions were exclusively originated by Mr. Banach.
+
+
+
+315. Defendants’ knew that Mr. Banach statements and affidavit are internally
+
+    inconsistent.
+
+
+
+
+                                       – 65 –
+      Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 66 of 68
+
+
+
+
+316. Defendants ETO/SPLP did not provide Mr. Kovarik with Mr. Banach’s contact
+
+    information for deposition while listing him as their witness.
+
+
+
+317. Defendants ETO/SPLP knew, or should have known that Mr. Banach’s
+
+    statements are untrue.
+
+
+
+318. Defendants’ positions have not been based on assertions supportable by
+
+    evidence.
+
+
+
+ 319. Defendants’ positions have not been based on plausible interpretation of law.
+
+
+
+ 320. Defendants’ positions were aimed at further injuring Mr. Kovarik causing him
+
+    to abandon his case.
+
+
+
+ 321. Defendants ETO/SPLP have virtually unlimited resources in comparison to
+
+    ordinary individuals or even medium sized business entities.
+
+
+
+ 322. Defendant’ wrongful conduct was facilitated by their virtually unlimited
+
+    resources.
+
+
+
+
+                                       – 66 –
+       Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 67 of 68
+
+
+
+
+323. Defendants have been represented by experienced attorneys.
+
+
+
+324. Defendants have been acting in bad faith and/or with gross negligence and in
+
+    disregard for Mr. Kovarik’s and public health and safety.
+
+
+
+ 325. Defendants’ conduct as described above wronged and injured Mr. Kovarik
+
+    unlawfully to the access of $ 800,000 increasing daily, the exact amount to be
+
+    proven at trial.
+
+
+
+ 326. Defendants’ conduct has been a prima facie example for award of punitive
+
+    damages in the maximum amount allowable.
+
+
+
+
+WHEREFORE, Jaromir Kovarik respectfully requests that a) a judgment be entered
+
+in his favor against the above named Defendants, together with compensatory,
+
+equitable liquidated, nominal, treble, punitive and other damages exceeding $
+
+800,000, the exact amount to be proven at trial, and b) punitive damages to the
+
+maximum extent allowed by law to be deposited in an agreed upon trust fund for
+
+support and protection of pipeline safety whistleblowers; c) for any such other and
+
+further relief this Court or jury may deem just and proper.
+
+
+
+                                       – 67 –
+        Case 2:24-cv-00680-GAM Document 1 Filed 02/13/24 Page 68 of 68
+
+
+
+
+                          REQUEST FOR JURY TRIAL
+
+Plaintiff, Mr. Kovarik respectfully requests a trial by jury on all the allowable claims.
+
+
+
+
+Submitted,
+
+This, the 12th day of February 2024
+
+
+                                            By: /s/ Jaromir Kovarik, Esq. pro se
+                                                  Jaromir Kovarik,
+                                                  211 Ridge Rd.
+                                                  Annville, PA 17003
+                                                  Tel: 717-383-6985
+                                                  Jxk0011@gmail.com
+
+
+
+
+                                         – 68 –
+

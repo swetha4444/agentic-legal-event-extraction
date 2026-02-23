@@ -1,0 +1,2082 @@
+Source URL: https://www.courtlistener.com/docket/60110550/1/della-ducata-v-family-service-association-of-bucks-county/
+Title: Complaint (Attorney) – #1 in DELLA DUCATA v. FAMILY SERVICE ASSOCIATION OF BUCKS COUNTY (E.D. Pa., 2:21-cv-03480) – CourtListener.com
+
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 1 of 39
+
+
+
+
+                    IN THE UNITED STATES DISTRICT COURT
+                 FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+ DINA DELLA DUCATA,
+
+               PLAINTIFF,                   Civil Action No.: ____________
+        v.
+
+ FAMILY SERVICE                             JURY TRIAL DEMANDED
+ ASSOCIATION OF BUCKS
+ COUNTY,
+
+ GARY LUX,
+
+ DEBORAH VAN AKEN,
+
+ SUBRENIE THOMAS SMITH,
+
+       and
+
+ JOSEPH STOLL,
+
+               DEFENDANTS.
+
+
+                            COMPLAINT AND JURY DEMAND
+
+       Plaintiff Dina Della Ducata, by and through her undersigned attorneys, Bell & Bell LLP,
+
+hereby files the following Complaint and Jury Demand (“Complaint”).
+
+                               PRELIMINARY STATEMENT
+
+1.     This is an action for an award of damages, punitive damages, and other relief on behalf of
+
+       Plaintiff Dina Della Ducata (hereinafter “Ms. Della Ducata” or “Plaintiff”), a former
+
+       employee of Family Service Association of Bucks County (“FSA”). Ms. Della Ducata
+
+       has been harmed by FSA’s harassment and discrimination on the basis of her sex and
+
+       national origin, and was retaliated against for her complaints of harassment and
+
+       discrimination, culminating in her wrongful termination on August 28, 2020. FSA also
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 2 of 39
+
+
+
+
+     breached its contract with Ms. Della Ducata with respect to severance pay, COBRA
+
+     reimbursement and accrued paid time off owed to her, and has not paid Ms. Della Ducata
+
+     her earned wages including severance pay, COBRA reimbursement and accrued paid
+
+     time off in violation of the Pennsylvania Wage Payment and Collection Law. Defendants
+
+     Gary Lux - former Board President, Deborah Van Aken – current Board President,
+
+     Subrenie Thomas Smith – 2nd Vice President, and Joseph Stoll - Treasurer, were decision
+
+     makers with respect to the decision to withhold Ms. Della Ducata’s earned wages.
+
+2.   This action arises under Title VII of the Civil Rights Act of 1964, as amended by the
+
+     Civil Rights Act of 1991, 42 U.S.C § 2000(e) et seq. (“Title VII”), the Pennsylvania
+
+     Wage Payment and Collection Law, 43 Pa. C. S. § 260.1, et seq. (“WPCL”) and
+
+     Pennsylvania common law.
+
+                                      JURISDICTION
+
+3.   This Court has original jurisdiction of all civil actions arising under the Constitution,
+
+     laws, or treaties of the United States pursuant to 28 U.S.C. §§ 1331 and 1391.
+
+4.   The jurisdiction of this Court is also invoked pursuant to 28 U.S.C. § 1343(4), which
+
+     grants the District Court original jurisdiction in any civil action authorized by law to be
+
+     commenced by any person to recover damages to secure equitable or other relief under
+
+     any act of Congress providing for the protection of civil rights.
+
+5.   This Court has supplemental jurisdiction over any Pennsylvania state law claims alleged
+
+     herein pursuant to 28 U.S.C. § 1367.
+
+6.   All conditions precedent to the institution of this suit have been fulfilled. On January 22,
+
+     2021, Plaintiff timely filed a Charge of Discrimination with the United States Equal
+
+     Employment Opportunity Commission (“EEOC”), which was dual-filed as a Complaint
+
+
+
+                                               2
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 3 of 39
+
+
+
+
+       with the Pennsylvania Human Relations Commission (“PHRC”). On May 10, 2021, the
+
+       EEOC issued a Notice of Right to Sue to Plaintiff. This action has been filed within
+
+       ninety (90) days of Plaintiff’s receipt of said Notice.1
+
+                                               VENUE
+
+7.     This action properly lies in the Eastern District of Pennsylvania, pursuant to 28 U.S.C. §
+
+       1391(b).
+
+8.     This action properly lies in the Eastern District of Pennsylvania because significant
+
+       activities associated with the claims alleged took place in this judicial district, Plaintiff
+
+       performed her work for Defendant in this judicial district, Plaintiff was terminated in this
+
+       judicial district, and the claims arose in this judicial district.
+
+                                              PARTIES
+
+9.     Plaintiff Dina Della Ducata is an adult female of Italian origin and ethnicity who resides
+
+       in Cherry Hill, New Jersey, and the United States of America.
+
+10.    Defendant Family Service Association of Bucks County is a non-profit organization in
+
+       Bucks County, Pennsylvania, with an address of 4 Cornerstone Drive, Langhorne, PA
+
+       19047.
+
+11.    Defendant Gary Lux is the former President of the Board of Directors of FSA who was a
+
+       decision-maker with respect to the decision to withhold Ms. Della Ducata’s earned but
+
+       unpaid wages including paid time off, COBRA reimbursement and severance pay.
+
+
+
+
+1
+ It has been less than one year since this matter was dual-filed with the Pennsylvania Human
+Relations Commission (“PHRC”) with respect to Ms. Della Ducata’s claims that arise pursuant
+to the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951 et seq. (“PHRA”). Ms.
+Della Ducata will seek to amend her Complaint to add her PHRA claims after it has been more
+than one year since her dual-filing with the PHRC.
+
+                                                   3
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 4 of 39
+
+
+
+
+12.   Defendant Deborah Van Aken is the former 1st Vice President and current President of
+
+      the Board of Directors of FSA who was a decision-maker with respect to the decision to
+
+      withhold Ms. Della Ducata’s earned but unpaid wages including paid time off, COBRA
+
+      reimbursement and severance pay.
+
+13.   Defendant Subrenie Thomas Smith is the 2nd Vice President of the Board of Directors of
+
+      FSA who was a decision-maker with respect to the decision to withhold Ms. Della
+
+      Ducata’s earned but unpaid wages including paid time off, COBRA reimbursement and
+
+      severance pay.
+
+14.   Defendant Joseph Stoll is the Treasurer of the Board of Directors of FSA who was a
+
+      decision-maker with respect to the decision to withhold Ms. Della Ducata’s earned but
+
+      unpaid wages including paid time off, COBRA reimbursement and severance pay.
+
+15.   Defendant FSA does significant business within the Commonwealth of Pennsylvania.
+
+16.   At all relevant times, Defendant FSA is and has been an employer employing more than
+
+      fifteen (15) employees.
+
+17.   At all relevant times, employees of Defendant FSA acted as agents and servants for
+
+      Defendant FSA.
+
+18.   At all relevant times, employees of Defendant FSA were acting within the scope of their
+
+      authority and in the course of employment under the direct control of Defendant FSA.
+
+19.   At all times material hereto, Defendant FSA acted by and through its authorized agents,
+
+      servants, workmen, and/or employees acting within the course and scope of their
+
+      employment with Defendant FSA and in furtherance of Defendant FSA’s business.
+
+
+
+
+                                              4
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 5 of 39
+
+
+
+
+20.   This cause of action arose out of transactions or occurrences that took place in whole or
+
+      in part in Bucks County, Pennsylvania. Defendants conduct substantial business within
+
+      Bucks County, Pennsylvania.
+
+21.   This Honorable Court has personal jurisdiction over the Defendants.
+
+                                            FACTS
+
+22.   FSA is a non-profit agency whose purpose is to maintain, strengthen, and/or enhance
+
+      individuals and families and their social and psychological functioning.
+
+23.   Ms. Della Ducata is a highly experienced non-profit executive with a proven track record
+
+      of managing all aspects of non-profit business operations including, but not limited to,
+
+      overseeing employment and human resources, information technology, strategic
+
+      planning, facilities management, risk management, administration, government grants,
+
+      contracts, financial management, community and governmental relations, external
+
+      partnerships, and clinical and non-clinical program management.
+
+24.   On or about October 9, 2018, Ms. Della Ducata was hired by FSA as its Chief Executive
+
+      Officer.
+
+25.   In addition to a starting salary of $195,000, Ms. Della Ducata also received and/or was
+
+      eligible for health, dental, vision and disability benefits, the Company 401(k) plan with
+
+      matching and vesting, a Supplemental Retirement Plan, a car allowance, 100% of paid
+
+      cellphone for business use, a term life insurance policy, a $250,000 supplemental
+
+      executive life insurance and other benefits.
+
+26.   Ms. Della Ducata’s offer letter, in addition to the above-described terms, entitled her to a
+
+      severance payment of six months of base salary and six months of reimbursement for
+
+      COBRA continuation coverage in the event she was not terminated for cause.
+
+
+
+
+                                                5
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 6 of 39
+
+
+
+
+27.   Ms. Della Ducata’s offer letter entitled her to paid time off including vacation pay that
+
+      Ms. Della Ducata was entitled to carry over from year to year to the extent it was not
+
+      used during the year it was accrued, for a period of 24 months.
+
+28.   Ms. Della Ducata began her employment with FSA as its Chief Executive Officer and
+
+      Bucks Villa Administrator on December 10, 2018.
+
+29.   Ms. Della Ducata’s husband, Salvatore Della Ducata, was also employed part-time by
+
+      FSA as the Project Manager of FSA beginning in May 2019 and later promoted in May
+
+      2020 to a full-time position as Facilities and Project Manager.
+
+30.   Despite her loyalty and consistent performance, however, Ms. Della Ducata was
+
+      subjected to harassment and discrimination on the basis of her sex and national origin,
+
+      and was retaliated against for her complaints about harassment and discrimination,
+
+      culminating in her wrongful termination on August 28, 2020.
+
+31.   Throughout her employment with FSA, Ms. Della Ducata regularly met or exceeded
+
+      performance expectations and received positive feedback from certain Board members,
+
+      which was acknowledged and recognized on multiple occasions.
+
+32.   Ms. Della Ducata acted, at all times, in accordance with all provisions of her
+
+      Employment Agreement and excelled in her position.
+
+33.   In fact, as noted in Ms. Della Ducata’s Performance Review for the period December
+
+      2018 through June 2019, Ms. Della Ducata was a “rapid learner and had excellent
+
+      working knowledge” of the FSA programs, her experience in Behavioral Health was
+
+      “evident” and she was “able to develop solutions or new approaches based on this
+
+      experience,” she had “clearly demonstrated the ability to address tough and complex
+
+
+
+
+                                               6
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 7 of 39
+
+
+
+
+      issues and make timely decisions,” and she had “engaged her leadership team and
+
+      empowered them in making needed changes.”
+
+34.   The June 2019 Performance Review also commended Ms. Della Ducata in accomplishing
+
+      so many tasks in compliance with local, state, and federal regulatory and legal
+
+      requirements, which effectively managed the FSA’s reputation and risks while
+
+      maintaining FSA’s strong commitment to compliance.
+
+35.   As Chief Executive Officer of FSA, Ms. Della Ducata made numerous significant
+
+      contributions to FSA, including, but not limited to:
+
+         •   Successfully navigating leadership responsibilities following the sudden passing
+
+             of a beloved legacy leader of over thirty years with minimal transition planning
+
+             within a climate of deep mourning, and a history of deficits followed by the
+
+             Covid-19 Pandemic;
+
+         •   Strengthening the leadership team by hiring seasoned staff in C-Suite and other
+
+             key leadership positions;
+
+         •   Establishing policies and protocols for operations to replace outdated systems
+
+             and/or creating new systems and procedures where gaps existed;
+
+         •   Streamlining programs and services to ensure financial solvency and effective
+
+             programming;
+
+         •   Reducing the deficit in the outpatient psychiatric program for a net savings of
+
+             over $400,000 in Fiscal Year 2018/2019.
+
+         •   Raising over $250,000 for the Emergency Homeless Shelter during the Covid-19
+
+             Pandemic and other major fundraising activities throughout her employment;
+
+
+
+
+                                               7
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 8 of 39
+
+
+
+
+         •   Successfully navigating the organization and keeping the doors open for onsite
+
+             and teleservices throughout the Covid-19 Pandemic;
+
+         •   Negotiating and implementing a major contract with Children’s Hospital of
+
+             Philadelphia for tele-psychiatric services;
+
+         •   Applying and solidifying approximately $1 million in Federal Cares Act grants to
+
+             be applied to new and/or expanding programs, services and capital
+
+             improvements/enhancements;
+
+         •   Securing $1.2. million through a PPP loan;
+
+         •   Implementing major technology upgrades and capital improvements as a result of
+
+             approved Federal Cares Act Grants and private foundations and partnerships;
+
+         •   Negotiating with Magellan to provide consistent advanced monthly financial
+
+             payments throughout the Pandemic (APA); and
+
+         •   Improving overall financial solvency for both FY18/19 and FY19/20, ending FY
+
+             19/20 with a positive variance over budget and a very strong cash position.
+
+36.   Moreover, Ms. Della Ducata held a Board retreat in Fall 2019 to address Board
+
+      Governance, and brought in a presenter from La Salle Non Profit University who
+
+      provided training on Board Governance, including committee structures.
+
+37.   Approximately 80% of the Board attended the retreat and the feedback was
+
+      overwhelmingly positive.
+
+38.   As a result of what was learned at the retreat, the Board decided to review the current
+
+      committee structures and revise the Board Committee Charters.
+
+
+
+
+                                               8
+           Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 9 of 39
+
+
+
+
+39.       In addition to her long list of accomplishments, Ms. Della Ducata worked at least 37.5
+
+          hours almost every single week. As her timecards reflect, she was working late into the
+
+          evening on most nights, as well as weekends and holidays throughout her employment.
+
+40.       Ms. Della Ducata also exercised excellent judgment during her employment with FSA
+
+          and demonstrated her ability to form and maintain successful relationships with FSA
+
+          staff, vendors and third parties, including the following:
+
+      •   Ms. Della Ducata received major COVID-19 grants for FSA, totaling over $800,000, due
+
+          to her strong relationship with Congressman Brian Fitzpartick (who also supported,
+
+          spoke, and donated his time to all FSA events).
+
+      •   Ms. Della Ducata was appointed to the CEO advisory council for the National Alliance
+
+          for Strong Communities and Families, which was a very prestigious appointment that
+
+          occurred in the early period of Ms. Della Ducata’s employment with FSA.
+
+      •   Ms. Della Ducata was voted in by other Pennsylvania CEOs to be the President of the
+
+          Pennsylvania Chapter of the Alliance of Strong Families and Communities.
+
+      •   Ms. Della Ducata formed strong relationships with Bucks County Opportunity Council,
+
+          whose CEO spoke at the FSA Board retreat and Virtual Shelter Benefit 2020.
+
+      •   Ms. Della Ducata facilitated meetings with the area Family Service organizations and
+
+          other CEOs in Bucks, Philadelphia, Montgomery and Chester Counties.
+
+      •   Ms. Della Ducata was a guest speaker at various community venues, including the Bucks
+
+          County Women's Alliance and local Rotary Clubs.
+
+      •   Ms. Della Ducata networked with area hospital CEOs and their senior staff.
+
+      •   Ms. Della Ducata closed a contract with The Children's Hospital of Philadelphia due to
+
+          her strong professional contacts and relationships with the physicians at the Hospital.
+
+
+
+                                                    9
+          Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 10 of 39
+
+
+
+
+      •   Ms. Della Ducata hosted a conference run by St. Mary's Hospital that brought together
+
+          local Bucks County community partner and other social service organizations.
+
+      •   Ms. Della Ducata established relationships with the two new County Commissioners who
+
+          in turn also supported FSA’s annual fundraisers and events.
+
+      •   FSA staff morale was up and numerous staff appreciation events were held, including
+
+          wellness events, holiday parties, and ice cream socials.
+
+      •   As a result of her strong relationship with Maghellan Insurance Company, new case
+
+          management rates were negotiated to ensure future financial solvency, and throughout the
+
+          pandemic, advance payment adjustments were approved by Maghellan.
+
+41.       There were no issues whatsoever with Ms. Della Ducata’s performance, as she made
+
+          significant accomplishments during her tenure, the Board had never complained about
+
+          Ms. Della Ducata’s work performance, and Ms. Della Ducata participated in any and all
+
+          Board meetings as requested.
+
+42.       Based on her overall performance assessment for 2019, Ms. Della Ducata received a
+
+          $3,000 cash bonus.
+
+43.       In addition, in June 2019, FSA voted to increase Ms. Della Ducata’s salary to $200,000,
+
+          effective July 1, 2019.
+
+44.       In July 2020, Ms. Della Ducata’s salary was increased to $206,000, and she was awarded
+
+          a $3,500 bonus.
+
+45.       Despite her excellent performance and tremendous accomplishments, after a change in
+
+          the Board Executive Committee of FSA, Ms. Della Ducata was harassed and
+
+          discriminated against on the basis of her sex and national origin by certain FSA Board
+
+          members.
+
+
+
+                                                  10
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 11 of 39
+
+
+
+
+46.   Specifically, in addition to numerous harassing and offensive comments directed at Ms.
+
+      Della Ducata based on her sex and national origin, the Board engaged in numerous other
+
+      acts of discrimination and harassment, including, but not limited to, giving Ms. Della
+
+      Ducata unjustifiably low performance scores despite her unquestionable
+
+      accomplishments, failing and/or refusing to meet Ms. Della Ducata regarding time
+
+      sensitive matters, failing and/or refusing to respond to Ms. Della Ducata’s
+
+      communications, and barring Ms. Della Ducata from implementing reorganization plans
+
+      included in FY 20/21 Board approved budgets. FSA also held board meetings to make
+
+      decisions on daily operational matters without Ms. Della Ducata’s input or presence.
+
+47.   During Ms. Della Ducata’s employment, there were 20 Board members and the vast
+
+      majority were male.
+
+48.   Ms. Della Ducata was marginalized and harassed on the basis of her sex by being referred
+
+      to as a “girl,” and was consistently undermined by certain Board members.
+
+49.   In fact, when Ms. Della Ducata hired a highly qualified senior leader she was asked “Did
+
+      you hire another Philly girl?.”
+
+50.   This demonstrated the Board members’ disdain for and discriminatory animus towards
+
+      the female sex, despite Ms. Della Ducata’s significant experience and professionalism.
+
+51.   Moreover, because Ms. Della Ducata is of Italian origin and ethnicity, she was repeatedly
+
+      subjected to offensive and harassing comments by various FSA Board members, such as
+
+      being called “a Philly girl” with “Philly style” and “Philly resources,” “a Jersey girl” and
+
+      that she had an “accent” that was “too strong,” which they ridiculed.
+
+52.   All of the comments directed to Ms. Della Ducata regarding “Philly” and “Jersey”, as
+
+      well as her accent, were in reference to Ms. Della Ducata’s Italian origin and ethnicity.
+
+
+
+
+                                               11
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 12 of 39
+
+
+
+
+53.   The Board further disapproved of Ms. Della Ducata’s managerial style, which they
+
+      deemed “harsh and abrasive,” and which they associated with her national origin.
+
+54.   These comments demonstrated the Board’s discriminatory animus against Ms. Della
+
+      Ducata on the basis of her national origin and her sex.
+
+55.   The Board also made aggressive efforts to interfere with and hinder Ms. Della Ducata’s
+
+      performance of her responsibilities.
+
+56.   These Board members were used to a prior, meek and passive female CEO whom they
+
+      could control and manipulate– which is how they preferred females to manage and lead
+
+      FSA.
+
+57.   Faced with a strong and independent thinking female, various Board members, which
+
+      consisted almost entirely of older White males, reacted negatively and clearly could not
+
+      handle the prospect of letting such a female, with a strong “Philly” personality (which
+
+      was, in reality, a reference to Ms. Della Ducata’s Italian origin), actually manage the day-
+
+      to-day operations of FSA and Bucks Villa, per her job duties.
+
+58.   To the extent the Board had a difficult time with Ms. Della Ducata’s attempts to run the
+
+      organization effectively and efficiently in the day-to-day operations, as was her
+
+      responsibility to do so as the hired CEO, it was solely on the basis that the Board held a
+
+      discriminatory animus against an experienced, qualified and competent female and
+
+      resented Ms. Della Ducata for not allowing the Board full reign over all daily operations.
+
+59.   This further evidences the discriminatory animus the Board has against females by its
+
+      continuing belief that all women should be meek and passive, and its obvious pattern and
+
+      practice of exerting its control and influence over such females.
+
+
+
+
+                                               12
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 13 of 39
+
+
+
+
+60.   The newly elected Board President and Executive Committee members of the Board
+
+      made clear that they did not want to work with Ms. Della Ducata and that they wanted to
+
+      be in charge and handle all of Ms. Della Ducata’s job responsibilities, including, but not
+
+      limited to, running the day-to-day operations, directing staff, and making their own
+
+      operating and clinical decisions.
+
+61.   The Board sought to control and exert all influence over Ms. Della Ducata as it had with
+
+      the prior CEO, during whose tenure Board members were permitted to roam the halls,
+
+      interact with staff, get involved with staffing decisions, direct daily financial
+
+      expenditures, and engage in various other daily operational and administrative matters.
+
+      Unfortunately, this excessive involvement, which included such trivial matters as
+
+      spending time with staff deliberating on the color of napkins for a fundraising event, used
+
+      staff time unnecessarily and was disruptive to the efficiency of the day-to-day operations.
+
+      It further caused confusion with staff as to conflicting work assignments and priorities
+
+      given by Board members versus their supervisors.
+
+62.   Despite the clear responsibilities set forth in Ms. Della Ducata’s job description, the
+
+      Board expected to handle all such responsibilities instead of Ms. Della Ducata.
+
+63.   The Board members inserted themselves into virtually every aspect of Ms. Della
+
+      Ducata’s role (as much as they could), and sought to eliminate and/or exclude Ms. Della
+
+      Ducata from involvement in various aspects of her role.
+
+64.   Ms. Della Ducata sent several emails to the Board members regarding their refusal to
+
+      work with her and requesting meetings, including for help on how to work with specific
+
+      Board members and the Board as a whole, but received no response.
+
+
+
+
+                                                13
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 14 of 39
+
+
+
+
+65.   Instead, Ms. Della Ducata received hostile, demeaning and aggressive emails from
+
+      members of the Board.
+
+66.   In just one example of the harassing and inappropriate behavior, and clear discriminatory
+
+      animus of certain Board members against Ms. Della Ducata, Ms. Della Ducata received
+
+      an email from Fred Hessenthaler, Board member and chairperson for HR Committee of
+
+      the board, requesting a salary for a particular employee.
+
+67.   Ms. Della Ducata responded that it was her understanding that individual staff salaries
+
+      were not to be disclosed for privacy reasons, but requested further information and stated
+
+      that she would be happy to provide assistance with the request.
+
+68.   Mr. Hessenthaler responded rudely and curtly, demanding to know the salary, and ending
+
+      his email that: “I am the HR Chair and entitled to some types of information and salary is
+
+      one. If you are questioning my ability to keep matters quiet and confidential, then both
+
+      you and I have a problem that needs to be resolved, pronto.”
+
+69.   In July 2020, Gary Lux was appointed Board President.
+
+70.   In his very first email communication, Mr. Lux threatened Ms. Della Ducata that if she
+
+      did not like the way they were doing things, she had “other options” – i.e., to leave her
+
+      employment.
+
+71.   Meanwhile, at or about the same time, despite Ms. Della Ducata having received an
+
+      architect proposal and having engaged in discussions with a civil engineer and Township
+
+      zoning, she was purposefully excluded from the Board discussion and vote on the project
+
+      to expand the shelter despite the Board’s prior request to her to explore the project and
+
+      report back to the board when details were ready. In addition, Ms. Della Ducata was told
+
+      that as a result of the Board discussion and vote from which she had been excluded, the
+
+
+
+
+                                               14
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 15 of 39
+
+
+
+
+      Board would be forming a committee for the project and she would not be included as a
+
+      member of the new committee.
+
+72.   It was clear that these Board members had a discriminatory animus against Ms. Della
+
+      Ducata and simply would not work with her.
+
+73.   FSA was in an excellent cash position during Ms. Della Ducata’s tenure.
+
+74.   Due to Ms. Della Ducata’s tremendous performance, FSA acquired over $1 million in
+
+      grants and had successfully managed Covid-19 during the pandemic, with no outbreaks.
+
+75.   The Board never complained about Ms. Della Ducata’s work performance.
+
+76.   However, she received unjustifiably low scores, such as 1, by those who held the
+
+      discriminatory animus against her, demonstrating that the discriminatory animus drove
+
+      those individual’s ratings and not objective criteria, qualifications and/or assessments.
+
+77.   There was no information given regarding the select board members’ unjustifiably low
+
+      scores or how to improve them, other than to note that Ms. Della Ducata needed “soft
+
+      skills,” which undoubtedly would not have been communicated by the Board to a male
+
+      CEO.
+
+78.   Ms. Della Ducata requested specific supporting examples of “soft skills” that needed
+
+      improvement, so that she could better understand how to adjust her leadership style, but
+
+      the Board President at that time, Joseph Bondi, stated that no further details would be
+
+      provided regarding the review.
+
+79.   The FSA Board also engaged in other discriminatory and harassing acts designed to
+
+      undermine Ms. Della Ducata and interfere with her job performance due to their
+
+      discriminatory animus against her, including, but not limited to:
+
+
+
+
+                                               15
+Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 16 of 39
+
+
+
+
+  •   Failing and/or refusing to meet regarding time sensitive matters and/or approve
+
+      strategic issues for which Ms. Della Ducata was responsible;
+
+  •   Excluding Ms. Della Ducata from Board and Committee meetings where her
+
+      presence was essential and required;
+
+  •   Failing and/or refusing to respond to communications from Ms. Della Ducata
+
+      and/or to meet with her to discuss concerns she had raised regarding FSA;
+
+  •   Failing and/or refusing to respect Ms. Della Ducata’s authority to make personnel
+
+      decisions;
+
+  •   Undermining Ms. Della Ducata with FSA staff by “reconsidering” an
+
+      employment decision and agreeing to retain an employee whose services were
+
+      needed on a limited basis, which not only undermined Ms. Della Ducata’s
+
+      authority and responsibility regarding staff management and oversight, but also
+
+      created budgetary issues for FSA;
+
+  •   Failing and/or refusing to support Ms. Della Ducata in development, donor
+
+      cultivation, fundraising, and in her attempts to advance other goals of FSA by
+
+      barring her from engaging qualified outside consultants to assist in achieving
+
+      those goals;
+
+  •   Failing and/or refusing to respect Ms. Della Ducata’s role as CEO of FSA by
+
+      assigning tasks directly to her staff and/or independent contractors and overriding
+
+      her directives, which further undermined Ms. Della Ducata’s authority and
+
+      encouraged staff to circumvent Ms. Della Ducata as FSA’s Chief Executive
+
+      Officer and enlist the Board to override her authority;
+
+
+
+
+                                       16
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 17 of 39
+
+
+
+
+         •   Barring Ms. Della Ducata from implementing the Board approved budgetary and
+
+             reorganization plans for FSA, which created conflicting guidance and further
+
+             undermined Ms. Della Ducata’s ability to effectively lead FSA operationally,
+
+             strategically and financially;
+
+         •   Failing and/or refusing to include Ms. Della Ducata in a wide array of operational
+
+             and strategic issues, which denied her the opportunity to lead FSA as she was
+
+             tasked to do;
+
+         •   Going directly to the County Commissioner and other County officials about
+
+             grants affecting the operations of FSA and purposefully excluding Ms. Della
+
+             Ducata from such discussions, approvals and implementation project plans; and
+
+         •   Making other significant decisions affecting FSA without Ms. Della Ducata’s
+
+             input.
+
+80.   In addition to being discriminatory and harassing, the aforementioned wrongful acts of
+
+      the FSA Board violated Ms. Della Ducata’s employment agreement, were a breach of
+
+      their fiduciary duties and duty of good faith and fair dealing, and ran afoul of the FSA
+
+      By-Laws and Board Committee Charters.
+
+81.   Notwithstanding the foregoing, and despite FSA’s severe and pervasive harassment and
+
+      attempts to undermine and hinder Ms. Della Ducata in her work, Ms. Della Ducata
+
+      continued to perform excellently.
+
+82.   In fact, Ms. Della Ducata’s exemplary work performance and professionalism was
+
+      consistently recognized by political and community leaders, donors, and other
+
+      stakeholders.
+
+
+
+
+                                              17
+      Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 18 of 39
+
+
+
+
+83.   Beginning in June 2020, Ms. Della Ducata repeatedly complained about the
+
+      discriminatory and harassing treatment to Fred Hesenthaler, the Human Resources Chair
+
+      of the Board and to the outgoing Board President, Joe Bondi.
+
+84.   In July 2020, Ms. Della Ducata complained of the discriminatory and harassing treatment
+
+      to Mr. Hesenthaler, the Human Resources Chair of the Board.
+
+85.   When Ms. Della Ducata relayed the harassing, discriminatory and threatening comments
+
+      made by the Board, Mr. Hesenthaler informed her that she needed to “work it out” with
+
+      the Board if she wanted to remain employed at FSA.
+
+86.   Thus, FSA took no helpful or supportive action whatsoever in response to her complaints,
+
+      and instead, shifted the blame and responsibility onto Ms. Della Ducata.
+
+87.   Due to the complete lack of any appropriate response by FSA, by letter dated August 18,
+
+      2020, Ms. Della Ducata, through her counsel, again complained of the discriminatory and
+
+      harassing treatment she had been experiencing at FSA by certain Board members.
+
+88.   The August 18, 2020 letter further noted that Ms. Della Ducata was ready, willing and
+
+      able to continue to successfully fulfill her duties and responsibilities as CEO of FSA and
+
+      Administrator for Bucks Villa, but requested that the discrimination and harassment
+
+      against her cease immediately, with no acts of retaliation in response to her complaints.
+
+89.   FSA failed and/or refused to respond to the August 18, 2020 letter from Ms. Della
+
+      Ducata’s counsel, or her counsel’s follow up email on August 20, 2020.
+
+90.   FSA also failed and/or refused to investigate or address in any way Ms. Della Ducata’s
+
+      complaints of discrimination and harassment that she had been subjected to by certain
+
+      members of the FSA Board.
+
+
+
+
+                                              18
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 19 of 39
+
+
+
+
+91.   Thereafter, FSA engaged in immediate and blatant retaliation against Ms. Della Ducata
+
+      for her complaints.
+
+92.   Initially, after receiving the letter from Ms. Della Ducata’s counsel, the Board indicated
+
+      its refusal to abide by the terms of the letter.
+
+93.   The August 18, 2020 letter specifically states that, to the extent the Board wished to
+
+      discuss the contents of the letter, that they were to direct all such communications
+
+      directly to Ms. Della Ducata’s counsel.
+
+94.   Notwithstanding the foregoing, immediately upon receipt of the letter, Gary Lux, newly
+
+      elected Board President, called Ms. Della Ducata’s Administrative Assistant, Nancie
+
+      Miller, and demanded to speak with Ms. Della Ducata right away “about the letter the
+
+      board received from her attorney.”
+
+95.   Ms. Della Ducata’s counsel then reiterated that all communications regarding the letter
+
+      were to go through her, and Ms. Della Ducata herself emailed the Board to state that she
+
+      was only to be contacted with matters relating to FSA business.
+
+96.   Contrary to the explicit directives of the August 18, 2020 letter, the Board nevertheless
+
+      continued to attempt to contact Ms. Della Ducata, through her assistant, regarding her
+
+      complaints of discrimination and harassment.
+
+97.   In fact, Mr. Lux left several voice messages for Ms. Miller and inappropriately informed
+
+      Ms. Miller about the letter from Ms. Della Ducata’s counsel, questioning whether there
+
+      was any “trouble” at FSA.
+
+98.   This inappropriate relay of confidential information from Ms. Della Ducata’s counsel was
+
+      yet another retaliatory effort by FSA to tarnish her name and reputation amongst FSA
+
+      staff.
+
+
+
+
+                                                 19
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 20 of 39
+
+
+
+
+99.    The retaliation only intensified from that point on.
+
+100.   In the days following the August 18, 2020 letter, Ms. Della Ducata sent several business-
+
+       related emails to the Board. She received no response.
+
+101.   Ms. Della Ducata was also notified that the Board had taken a vote, without her inclusion,
+
+       regarding a particular project on which she had been working, and stated that they would
+
+       be taking over the project.
+
+102.   In the most blatant act of retaliation, on August 28, 2020, only ten days after Ms. Della
+
+       Ducata’s counsel sent FSA a letter regarding her concerns of discrimination and
+
+       harassment, Ms. Della Ducata was terminated.
+
+103.   Notably, Ms. Della Ducata was terminated only two months after she had received a
+
+       salary increase and bonus for her excellent performance.
+
+104.   The Board had no legitimate reason to terminate Ms. Della Ducata.
+
+105.   Any “concerns” that the Board may have purported to have, such as Ms. Della Ducata’s
+
+       alleged “resistance” to comply with FSA policies, unwillingness to listen to the Board,
+
+       and a “tendency” for her to “come across as condescending and arrogant,” only indicate
+
+       the Board’s displeasure at Ms. Della Ducata’s independent nature and refusal to allow the
+
+       Board to perform her responsibilities, and are examples of the “Philly style” that the
+
+       Board harbored animus towards – specifically, a strong, independent and accomplished
+
+       Italian-American female.
+
+106.   FSA also could not claim that Ms. Della Ducata failed to comply with requests for more
+
+       details on her husband’s employment agreement. Ms. Della Ducata absolutely discussed
+
+       the value of Mr. Della Ducata’s services with the Board Chair, Joe Bondi, and it was
+
+       decided that the issue would be brought to the Executive Committee of the Board for
+
+
+
+
+                                                20
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 21 of 39
+
+
+
+
+       discussion and approval, which occurred in the March 2019 Executive Committee
+
+       Meeting.
+
+107.   Then again in the December 2019 full Board Meeting, there was a lengthy conversation
+
+       regarding the needs of the agency regarding construction and facilities management,
+
+       along with full disclosure as to what Mr. Della Ducata was assigned to do and he was
+
+       reporting to COO Marlene Piasecki and not to Ms. Della Ducata. It was even noted by the
+
+       Board after the discussion that Mr. Della Ducata was providing valuable services at a
+
+       significantly reduced rate.
+
+108.   Thereafter, Ms. Della Ducata had two separate conversations about workforce planning
+
+       and reorganization plans with Mr. Hessenthaler, HR Board Committee Chair in or around
+
+       June and/or July 2020. Among other topics discussed were changes to Mr. Della
+
+       Ducata’s position, employment hours, and change in reporting to the new COO, Julie
+
+       Dees. Mr. Hessenthaler sent a memo to the HR Board Committee regarding these
+
+       conversations and highlighting, among other HR matters, the changes in Mr. Della
+
+       Ducata’s position and working hours.
+
+109.   To the extent that the Board and Ms. Della Ducata lacked effective communication, such
+
+       fault lies entirely on the Board, as Ms. Della Ducata had consistently emailed the Board
+
+       to keep them apprised of FSA matters, only to receive a minimal response or no response
+
+       whatsoever.
+
+110.   Moreover, in terminating Ms. Della Ducata, certain Board members came to her office
+
+       unannounced to deliberately humiliate her by attempting to escort her off the premise.
+
+111.   To their surprise, Ms. Della Ducata happened to be working remotely at that time and
+
+       was not physically present in the office.
+
+
+
+
+                                                   21
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 22 of 39
+
+
+
+
+112.   As a result, Board President, Gary Lux left a message on her voicemail and emailed her
+
+       to notify her that she had been terminated, effective immediately.
+
+113.   Ms. Della Ducata had been working at the time, and specifically, had been on a Zoom
+
+       call with the Interim, Development Director.
+
+114.   However, her computer access was turned off immediately, which resulted in the
+
+       shutdown of her access during the Zoom call.
+
+115.   This further demonstrated the Board’s desire for retaliation and humiliation.
+
+116.   Despite having committed the ultimate act of retaliation against Ms. Della Ducata by
+
+       wrongfully terminating her for requesting that the harassment and discrimination cease,
+
+       FSA’s acts of retaliation continued.
+
+117.   After her termination, counsel for Ms. Della Ducata requested that her personal
+
+       belongings be available for her to retrieve.
+
+118.   Notably, other employees who had been terminated were permitted to clear out their
+
+       office and retrieve their personal belongings, while Ms. Della Ducata was not.
+
+119.   After several requests by her counsel, Ms. Della Ducata was ultimately permitted to
+
+       return to the office, supervised by FSA staff and Board Secretary Brad Phillips, to obtain
+
+       her personal and business items.
+
+120.   However, FSA had already gone through her locked office door, locked desk and locked
+
+       cabinets to take certain personal property belonging to Ms. Della Ducata.
+
+121.   This included, among other things, pink and white note cards, a black spiral notebook
+
+       labeled “Dina personal,” two thumb drives with personal information in a Ziploc bag,
+
+       personal training files including certificates of completion and other business-related
+
+       folders.
+
+
+
+
+                                                22
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 23 of 39
+
+
+
+
+122.   Ms. Della Ducata also noted that FSA had ripped out all pages of her personal notebooks
+
+       which contained handwritten notes.
+
+123.   Moreover, although FSA’s counsel scanned and sent Ms. Della Ducata’s notes, it was
+
+       clear to Ms. Della Ducata that her notes had been tampered with, as certain pages had
+
+       been omitted and various notes had been added and/or altered.
+
+124.   In fact, FSA admitted that, before letting Ms. Della Ducata on the premises, two FSA
+
+       employees went through her office and removed numerous files and items.
+
+125.   Notably, included within the missing items were Ms. Della Ducata’s personal notes on
+
+       her plans for FSA, which have been implemented by current acting CEO, Julie Dees.
+
+126.   Ms. Della Ducata, through her counsel, repeatedly requested a full list of all items taken
+
+       by FSA from Ms. Della Ducata’s office, including her locked drawers, as well as
+
+       additional information regarding those involved in preparing the list and when the list
+
+       was prepared. FSA refused to provide any such information.
+
+127.   Ms. Della Ducata also demanded that FSA return all of her personal property
+
+       immediately, and that FSA certify that all copies were destroyed and not shared or
+
+       retained. FSA refused to provide any such information.
+
+128.   Ms. Della Ducata, through counsel, directed that FSA send all files to her counsel for her
+
+       review.
+
+129.   Notwithstanding her directive, FSA’s counsel acknowledged that he had already
+
+       reviewed the personal files and notes belonging to Ms. Della Ducata, and admitted that
+
+       they may have included privileged attorney client information.
+
+
+
+
+                                               23
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 24 of 39
+
+
+
+
+130.   In the meantime, Ms. Della Ducata attempted to contact her former assistant, Nancie
+
+       Miller, regarding her personal property and information, but FSA instructed Ms. Miller
+
+       not to speak with Ms. Della Ducata.
+
+131.   FSA also has improperly withheld accrued but unused vacation pay of over 200 hours, as
+
+       reflected on her pay stub, that is owed to Ms. Della Ducata.
+
+132.   This is further evidence of the discriminatory and retaliatory animus held against Ms.
+
+       Della Ducata.
+
+133.   In yet another demonstration of the discriminatory animus held against Ms. Della Ducata,
+
+       despite all of Ms. Della Ducata’s tremendous accomplishments for the organization
+
+       during her tenure, FSA barely acknowledged Ms. Della Ducata’s departure.
+
+134.   At the time that Gary Lux left a message terminating Ms. Della Ducata on August 28,
+
+       2020, he stated that he would work with her and her attorney on a public statement to be
+
+       released on Monday August 31, 2020 regarding her departure.
+
+135.   Mr. Lux directed Ms. Della Ducata to submit her draft statement in writing by the
+
+       evening of August 30, 2020. However, instead of waiting for Ms. Della Ducata’s
+
+       proposed language for August 30, 2020, Mr. Lux sent an email on the afternoon of
+
+       August 28, 2020, which stated that Julie Dees was now the Acting CEO of FSA, with no
+
+       mention of Ms. Della Ducata.
+
+136.   This left the FSA staff and the community puzzled and confused, in that some individuals
+
+       were questioning the well-being of Ms. Della Ducata especially given that the prior CEO
+
+       had passed away unexpectedly and given the Covid-19 pandemic.
+
+
+
+
+                                               24
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 25 of 39
+
+
+
+
+137.   This was yet another deliberate act to negatively impact Ms. Della Ducata’s reputation
+
+       and professional standing with the staff of FSA, business colleagues, political leaders,
+
+       donors and the community at large.
+
+138.   Ultimately, after speaking with Ms. Della Ducata’s counsel, FSA released another
+
+       statement on September 1, 2020. However, it was a general statement that barely
+
+       mentioned Ms. Della Ducata’s departure nor any of her accomplishments, and which
+
+       again noted that Julie Dees would be Acting CEO of FSA.
+
+139.   Conversely, when a male employee departed FSA, an email went out to FSA staff and the
+
+       community that the individual was an “important part” of FSA, had “made so many
+
+       important contributions” and that the “impact he has made here will not soon be
+
+       forgotten.”
+
+140.   The email concluded “Thank you Dan, for your years of service to FSA and the
+
+       community. You will be missed very much, and we wish you all the best!”
+
+141.   The difference in this message and Ms. Della Ducata’s departure message, and the clear
+
+       attitude towards Ms. Della Ducata as compared to this male employee, could not be more
+
+       apparent.
+
+142.   The Board engaged in further acts of harassment, discrimination, and retaliation after
+
+       terminating Ms. Della Ducata by purchasing a biased and one-sided report from Joseph
+
+       Barbagallo, CPA, which “report” makes false, unsupported, overly aggressive
+
+       accusations against Ms. Della Ducata.
+
+143.   Notably, FSA paid substantial sums to an accountant when those funds should have gone
+
+       to providing emergency services to the innumerable needy individuals, including
+
+
+
+
+                                               25
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 26 of 39
+
+
+
+
+       homeless and underserved individuals in Bucks County (which FSA claims to be so
+
+       devoted to) to justify her termination.
+
+144.   In addition to hiring Mr. Barbagallo to attempt to substantiate FSA’s termination of Ms.
+
+       Della Ducata, FSA also paid Mr. Barbagallo to review Ms. Della Ducata’s “personal
+
+       financial transactions during her tenure as CEO,” which included a review of her use of a
+
+       company car, use of a company credit card, renovations to her office, retention of select
+
+       consulting firms for FSA, and her husband’s use of FSA vehicles during his employment.
+
+145.   All of the purported results of Mr. Barbagallo’s “investigation” are blatantly false,
+
+       unsubstantiated and/or grossly mischaracterized.
+
+146.   For example, with respect to Ms. Della Ducata’s use of a company car, Ms. Della Ducata
+
+       never used a company car and only used the gas card when she did not submit her
+
+       mileage. She was specifically directed to submit back mileage and related business
+
+       expenses for reimbursement (which was specifically approved by the Board). Ms. Della
+
+       Ducata had legitimate business reasons for all of her business-related travel and/or
+
+       expenses and properly submitted her mileage and/or applicable receipts for
+
+       reimbursement for company related travel and business expenses.
+
+147.   With respect to use of a company credit card, all of Ms. Della Ducata’s expenses were
+
+       proper business-related expenses including receipts, and any implication to the contrary is
+
+       simply another attempt by FSA to retaliate against her and an inappropriate effort to
+
+       inflict damage upon Ms. Della Ducata’s professional character.
+
+148.   With respect to renovations to the CEO’s office, while the CEO office was renovated, it
+
+       was done so as an overall plan for improvements to the main office, as several other areas
+
+       of the building were renovated as well. The cost of these overall improvements was
+
+
+
+
+                                                 26
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 27 of 39
+
+
+
+
+       included in the FY 2018/2019 Board approved budget. In addition, the approved year
+
+       end financial statements for FY 2018/2019 reflected those expenses as well..
+
+149.   With respect to retention of select consulting firms on behalf of FSA, such firms were
+
+       necessary for the advancement and success of FSA and in no way benefitted Ms. Della
+
+       Ducata personally. For example, Dunleavy and Associates provided several different
+
+       areas of support and services to FSA, which included, among other things, an assessment
+
+       of the Development Department, support for development activities, day-to-day
+
+       management, and recruitment for two staff vacancies; the O’Conner Group had been
+
+       hired, at a low cost, to fill the Director of HR position, which had been a difficult role to
+
+       fill; and Triad Strategies was hired to provide technical support for a federal grant that
+
+       FSA had submitted. The retention and use of these consulting firms was practical and
+
+       efficient, and not improper in any way.
+
+150.   With respect to Mr. Della Ducata’s use of FSA vehicles, Mr. Della Ducata did not violate
+
+       any transportation policy, as he had requested the use of an agency vehicle for agency-
+
+       related travel during the Covid-19 pandemic where numerous agency vehicles were on
+
+       the lot and not being used, and was specifically authorized by his supervisor and COO at
+
+       the time, Julie Dees.
+
+151.   Ms. Della Ducata also did not engage in any misconduct or inappropriate behavior with
+
+       respect to her time spent working. While the report criticizes Ms. Della Ducata’s start
+
+       time on certain days, it fails to note the time she left each day and fails to acknowledge
+
+       that Ms. Della Ducata’s position did not have a set start time and end time. Finally, the
+
+       report fails to acknowledge the significant time Ms. Della Ducata spent working
+
+       remotely, outside of the office, which would not be reflected on her time cards. Notably,
+
+
+
+
+                                                 27
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 28 of 39
+
+
+
+
+       Ms. Della Ducata’s position was exempt and she only clocked in and out to keep track of
+
+       time spent in the office. She documented the time she spent away from the office
+
+       working remotely, even though not required to do so given that she was exempt.
+
+152.   This overly scrutinized review of every expenditure made during Ms. Della Ducata’s
+
+       employment is, at best, clear evidence that the Board simply cannot stop itself from
+
+       repeatedly and egregiously retaliating against Ms. Della Ducata.
+
+153.   Even more egregiously, after wrongfully terminating Ms. Della Ducata in retaliation for
+
+       her complaints of discrimination and harassment, and seizing her personal property, FSA
+
+       continued further to retaliate against Ms. Della Ducata by subjecting Ms. Della Ducata’s
+
+       husband, Salvatore Della Ducata, FSA’s Facilities & Projects Manager, to severe and
+
+       extreme acts of retaliation.
+
+154.   This position required Mr. Della Ducata to be on call due to 24-hour facilities and after-
+
+       hour emergencies, and Mr. Della Ducata routinely had access to the facilities at all times.
+
+155.   Nonetheless, on August 31, 2020, the Monday after Ms. Della Ducata was terminated,
+
+       Mr. Della Ducata arrived at work around 6:45 a.m. to meet with contractors at 7 a.m.
+
+       regarding an expansion of the Food Pantry in the Langhorne main facility.
+
+156.   Mr. Della Ducata’s access fob did not work, as it should have and always did, prior to his
+
+       wife’s complaints of discrimination and harassment.
+
+157.   Mr. Della Ducata contacted the acting CEO, Ms. Dees at approximately 6:50 a.m.
+
+       regarding his inactive fob.
+
+158.   He was informed that his full access to the facilities had been cut off and that his new
+
+       access would be restricted from only to 7:30 a.m. to 10 p.m., which was restricted further
+
+
+
+
+                                                28
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 29 of 39
+
+
+
+
+       only one week later to 8:00 a.m. to 10:00 p.m., despite the responsibilities of his position
+
+       requiring on-call 24-hour coverage of the facilities.
+
+159.   Mr. Della Ducata also experienced other severe acts of retaliation by FSA after Ms. Della
+
+       Ducata’s complaints of discrimination and harassment.
+
+160.   For example, later on August 31, 2020, Ms. Dees questioned Mr. Della Ducata regarding
+
+       his plans to remain at FSA, asking him what he wanted to do considering what had
+
+       happened with Ms. Della Ducata.
+
+161.   Apparently to the surprise and disappointment of FSA, Mr. Della Ducata indicated that
+
+       he intended to remain at FSA and that he was there to work.
+
+162.   Mr. Della Ducata was also intentionally and purposefully excluded from important
+
+       meetings that fell within his responsibilities and for which he should have been present.
+
+163.   Among other things, the Board and Management purposefully excluded Mr. Della Ducata
+
+       from involvement in a grant funded expansion project, which was Mr. Della Ducata’s
+
+       responsibility, was prevented from speaking directly to vendors as he always had, and
+
+       was completely excluded from an ongoing project regarding virtual learning.
+
+164.   In addition, Mr. Della Ducata was suspended and issued a “final warning” (despite never
+
+       having received even a first warning) for “raising his voice,” even though other FSA
+
+       employees, such as Ms. Maria Piacotti and Ms. Gita Krull, had engaged in similar
+
+       behavior with no repercussions.
+
+165.   On another occasion approximately two months prior to his alleged layoff, Mr. Della
+
+       Ducata approached the Director of Human Resources requesting a dental enrollment form
+
+       because he needed to see a dentist. The Director of Human Resources told Mr. Della
+
+       Ducata that he had better “get it done soon.”
+
+
+
+
+                                                29
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 30 of 39
+
+
+
+
+166.   Ultimately, in October 2020, less than two months after Ms. Della Ducata’s termination,
+
+       Mr. Della Ducata was himself terminated on the alleged grounds that his position was no
+
+       longer needed, even though he had been consistently told that he was an excellent
+
+       employee and even though his position was specifically approved in both the FY19/20
+
+       budget and the FY20/21 budget.
+
+167.   It could not be clearer that, once Ms. Della Ducata complained through her counsel about
+
+       the harassment and discrimination she had been experiencing, FSA had a premediated
+
+       plan to oust both Ms. Della Ducata and Mr. Della Ducata – and successfully executed on
+
+       that plan.
+
+168.   Most recently, in even further acts of retaliation, immediately following Ms. Della
+
+       Ducata’s counsel’s notice to FSA that Ms. Della Ducata intended to file a Charge of
+
+       Discrimination with the EEOC, FSA further retaliated against Ms. Della Ducata by
+
+       engaging a third party to “audit” Ms. Della Ducata’s vacation time and financial
+
+       transactions, and falsely alleged that Ms. Della Ducata had made unapproved
+
+       expenditures and falsified her time records.
+
+169.   FSA cites this falsified “audit” as grounds for its wrongful refusal to pay Ms. Della
+
+       Ducata for her earned time. These are further actions taken by FSA to harass and retaliate
+
+       against Ms. Della Ducata.
+
+170.   FSA relied on the falsified audit to claim that Ms. Della Ducata had been terminated for
+
+       cause and used this for a basis to refuse to pay Ms. Della Ducata the severance pay and
+
+       COBRA reimbursement owed pursuant to her offer letter, in breach of its promises to Ms.
+
+       Della Ducata and in violation of the WPCL.
+
+
+
+
+                                               30
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 31 of 39
+
+
+
+
+171.   Ms. Della Ducata was not terminated for cause, and the offer letter entitles her to
+
+       payment for six months of base salary and six months of COBRA reimbursement.
+
+172.   Additionally, since her employment ended, FSA has failed and refused to pay Ms. Della
+
+       Ducata for earned but unused accrued vacation pay in violation of its promises in the
+
+       offer letter and in violation of the WPCL.
+
+173.   The Board of Directors made a unanimous decision to withhold and refuse to pay Ms.
+
+       Della Ducata’s earned wages. The Board members involved in that unanimous decision
+
+       include Gary Lux, Deborah Van Aken, Subrenie Thomas Smith, Joseph Stoll, Fred
+
+       Hessenthaler – Human Resources Committee Chair, Brad Phillips – Secretary, Frank
+
+       Sullivan, Gwen Scott-Hodges, Bernadette Handler, Margaret Mohr, Alice Cahill Gens,
+
+       Mark Cappuccio, William E. Clark, Sonja Foster-Storch, and Christine Zador-Silverman.
+
+174.   Given her treatment during her employment with FSA, particularly in spite of her
+
+       excellent work performance and significant achievements, the clear discriminatory and
+
+       harassing treatment experienced by Ms. Della Ducata, and the egregious acts of
+
+       retaliation against Ms. Della Ducata and her husband, Salvatore Della Ducata, Ms. Della
+
+       Ducata maintains that she has been subjected to harassment and discrimination on the
+
+       basis of her sex and national origin and to retaliation for her complaints about
+
+       discrimination and harassment.
+
+175.   Ms. Della Ducata has been discriminated against and harassed on the basis of her sex and
+
+       national origin, and was retaliated against for her complaints of discrimination and
+
+       harassment, in violation of Title VII of the Civil Rights Act of 1964, as amended by the
+
+       Civil Rights Act of 1991, 42 U.S.C. § 2000(e) et seq.
+
+
+
+
+                                                31
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 32 of 39
+
+
+
+
+176.   Defendant FSA breached its contract with Ms. Della Ducata by failing to pay her the
+
+       severance and COBRA reimbursement as promised and in failing to pay her for her
+
+       earned but unused vacation pay.
+
+177.   Plaintiff fully performed her obligations under the offer letter.
+
+178.   Defendant FSA’s failure to perform its contractual obligations is without excuse or
+
+       justification.
+
+179.   In failing to pay Ms. Della Ducata her earned wages including severance pay, COBRA
+
+       reimbursement, and earned but unused vacation pay for a period more than thirty days
+
+       beyond regularly scheduled paydays, Defendant FSA violated the WPCL.
+
+180.   Gary Lux, Deborah Van Aken, Subrenie Thomas Smith and Joseph Stoll were decision-
+
+       makers with respect to the decision to withhold Ms. Della Ducata’s earned wages and are
+
+       personally liable pursuant to the WPCL.
+
+181.   Despite Ms. Della Ducata’s demand that these payments be made, Defendants have
+
+       refused to make such payments.
+
+182.   Defendants have not given written notice to Claimant of the amount of wages that they
+
+       concede to be due, nor paid such amount without condition within the time set by the
+
+       Pennsylvania Wage Payment and Collection Law.
+
+183.   Ms. Della Ducata has suffered and continues to suffer mental anguish and severe
+
+       emotional distress as a proximate result of the actions and inactions of Defendant.
+
+184.   Defendant FSA and its employees acted with the intent of causing, or in reckless
+
+       disregard of the probability, that their actions would cause Ms. Della Ducata severe
+
+       emotional distress.
+
+
+
+
+                                                32
+         Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 33 of 39
+
+
+
+
+185.    Ms. Della Ducata has suffered financial and other losses including, among other things,
+
+        lost wages, an obligation for attorneys’ fees and costs of bringing suit, and irreparable
+
+        injury to her professional reputation as a direct and proximate result of the actions and
+
+        inactions of Defendants.
+
+                                            COUNT I
+       Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000(e), et seq.
+                   (Plaintiff v. Family Service Association of Bucks County)
+
+186.    Plaintiff Dina Della Ducata repeats and incorporates by reference the allegations of all
+
+        preceding paragraphs as if fully set forth at length herein.
+
+187.    Based on the foregoing, Defendant engaged in unlawful employment practices in
+
+        violation of Title VII of the Civil Rights Act of 1964, as amended by the Civil Rights Act
+
+        of 1991, 42 U.S.C. § 2000(e) et seq.
+
+188.    In discriminating against and harassing Ms. Della Ducata because of her sex and national
+
+        origin, and retaliating against Ms. Della Ducata for her complaints about discrimination
+
+        and harassment, Defendant violated Title VII.
+
+189.    Defendant’s violations were intentional and willful.
+
+190.    Defendant’s violations warrant the imposition of punitive damages.
+
+191.    As a direct result of the unlawful employment practices engaged in by Defendant,
+
+        Plaintiff Dina Della Ducata has sustained a loss of earnings, severe emotional and
+
+        psychological distress, loss of self-esteem, loss of future earning power, as well as back
+
+        pay, front pay and interest due thereon.
+
+192.    Plaintiff is suffering and will continue to suffer irreparable harm and monetary damages
+
+        as a result of Defendant’s actions unless and until this Court grants the relief requested
+
+        herein.
+
+
+
+
+                                                   33
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 34 of 39
+
+
+
+
+                                          COUNT II
+                                  Breach of Written Contract
+                  (Plaintiff v. Family Service Association of Bucks County)
+
+193.   Plaintiff repeats and incorporates by reference the allegations of all previous paragraphs
+
+       as fully as though the same were set forth at length herein.
+
+194.   Plaintiff and FSA entered into a written contract – the offer letter.
+
+195.   Pursuant to the terms of the offer letter, Ms. Della Ducata was entitled to a severance
+
+       payment of six months of base salary and six months of reimbursement for COBRA
+
+       continuation coverage in the event she was not terminated for cause.
+
+196.   Pursuant to the terms of the offer letter, Ms. Della Ducata was entitled to paid time off
+
+       including vacation pay that Ms. Della Ducata was entitled to carry over from year to year
+
+       to the extent it was not used during the year it was accrued, for a period of 24 months.
+
+197.   Defendant FSA breached its agreement with Plaintiff by failing to pay severance pay,
+
+       reimbursement for COBRA coverage and accrued time off in accordance with the offer
+
+       letter.
+
+198.   Plaintiff fully performed her obligations pursuant to the offer letter.
+
+199.   Plaintiff seeks damages for breach of the offer letter.
+
+200.   As a direct and proximate result of the Defendant FSA’s breaches, Plaintiff has suffered,
+
+       and continues to suffer financial losses.
+
+201.   Defendant FSA’s conduct is without excuse or justification.
+
+                                          COUNT III
+                             Breach of Verbal or Implied Contract
+                  (Plaintiff v. Family Service Association of Bucks County)
+
+202.   Plaintiff repeats and incorporates by reference the allegations of all previous paragraphs
+
+       as fully as though the same were set forth at length herein.
+
+
+
+                                                   34
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 35 of 39
+
+
+
+
+203. Count III is pled in the alternative to Count II, in the event a valid and enforceable written
+       contract is not found to exist.
+
+204.   The Parties reached a verbal or implied Agreement (the “Agreement”) whereby Ms.
+
+       Della Ducata was to be paid a severance payment of six months of base salary and six
+
+       months of reimbursement for COBRA continuation coverage in the event she was not
+
+       terminated for cause and whereby Ms. Della Ducata was entitled to paid time off
+
+       including vacation pay that Ms. Della Ducata was entitled to carry over from year to year
+
+       to the extent it was not used during the year it was accrued, for a period of 24 months.
+
+205.   Defendant FSA breached its agreement with Plaintiff by failing to pay earned wages
+
+       including severance pay, COBRA reimbursement and accrued time off in accordance
+
+       with the offer letter.
+
+206.   Plaintiff fully performed her obligations pursuant to the offer letter.
+
+207.   Plaintiff seeks damages for breach of the offer letter.
+
+208.   As a direct and proximate result of the Defendant FSA’s breaches, Plaintiff has suffered,
+
+       and continues to suffer financial losses.
+
+209.   Defendant FSA’s conduct is without excuse or justification.
+
+                                         COUNT IV
+                       Pennsylvania Wage Payment and Collection Law
+                                (Plaintiff v. All Defendants)
+
+210.   Plaintiff repeats and incorporates by reference the allegations of all previous paragraphs
+
+       as fully as though the same were set forth at length herein.
+
+211.   Defendants violated the Pennsylvania Wage Payment and Collection Law (“WPCL”)
+
+       when they failed to pay Ms. Della Ducata her earned wages, including her severance
+
+       compensation, COBRA reimbursement and accrued but unused vacation pay, within the
+
+
+
+                                                   35
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 36 of 39
+
+
+
+
+       time specified by law.
+
+212.   At all relevant times, Defendants were employers within the meaning of 43 Pa. C. S.
+
+       260.2(a) of the WPCL.
+
+213.   At all relevant times, Defendants Gary Lux, Deborah Van Aken, Subrenie Thomas Smith
+
+       and Joseph Stoll were persons and/or employers within the meaning of 43 Pa. C. S.
+
+       260.2(a) of the WPCL, and active decision-makers with respect to Ms. Della Ducata’s
+
+       unpaid wages.
+
+214.   At all relevant times, Defendant FSA was an employer within the meaning of 43 Pa. C. S.
+
+       260.2(a) of the WPCL with respect to Ms. Della Ducata’s unpaid wages.
+
+215.   Defendants willfully failed to pay Ms. Della Ducata’s wages earned as defined by the
+
+       WPCL during the course of her employment or within the time limits prescribed by the
+
+       WPCL.
+
+216.   Following the cessation of Ms. Della Ducata’s employment, Defendants willfully failed
+
+       to pay her wages earned within the time limits prescribed by the WPCL.
+
+217.   Defendants have failed to pay wages due for a period in excess of thirty (30) days beyond
+
+       regularly scheduled paydays.
+
+218.   As the direct and proximate result of Defendants’ violation of the Pennsylvania Wage
+
+       Payment and Collection Law, Plaintiff has sustained a loss of earnings, liquidated
+
+       damages, and interest due thereon and has incurred attorneys’ fees and costs.
+
+                                          COUNT V
+                          Promissory Estoppel/Detrimental Reliance
+                  (Plaintiff v. Family Service Association of Bucks County)
+
+219.   Plaintiff repeats and incorporates by reference the allegations of all previous paragraphs
+
+       as fully as though the same were set forth at length herein.
+
+
+
+
+                                                36
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 37 of 39
+
+
+
+
+220. Count V is pled in the alternative to Count II, in the event a valid and enforceable written
+       contract is not found to exist.
+
+221.   Defendant FSA promised that Ms. Della Ducata was to be paid a severance payment of
+
+       six months of base salary and six months of reimbursement for COBRA continuation
+
+       coverage in the event she was not terminated for cause and whereby Ms. Della Ducata
+
+       was entitled to paid time off including vacation pay that Ms. Della Ducata was entitled to
+
+       carry over from year to year to the extent it was not used during the year it was accrued,
+
+       for a period of 24 months.
+
+222.   Plaintiff reasonably relied upon these promises to her detriment by working tirelessly and
+
+       providing her expertise to FSA in carrying out her job duties for FSA.
+
+223.   Defendant FSA did not honor its promises, as FSA has failed and refused to pay Ms.
+
+       Della Ducata her severance compensation, COBRA reimbursement or accrued vacation
+
+       pay.
+
+224.   For the reasons set forth above, Defendant FSA is liable to Plaintiff under a theory of
+
+       Promissory Estoppel or Detrimental Reliance.
+
+                                          COUNT VI
+                                      Unjust Enrichment
+                  (Plaintiff v. Family Service Association of Bucks County)
+
+225.   Plaintiff repeats and incorporates by reference the allegations of all previous paragraphs
+
+       as fully as though the same were set forth at length herein.
+
+226.   Count VI is pled in the alternative to Count II, in the event a valid and enforceable
+
+       written contract is not found to exist.
+
+227.   Plaintiff conferred benefits upon Defendant FSA by working tirelessly and providing her
+
+       expertise to Defendant FSA in carrying out her job duties.
+
+
+
+                                                 37
+        Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 38 of 39
+
+
+
+
+228.   Defendant FSA appreciated the benefits conferred by Plaintiff.
+
+229.   Defendant FSA accepted the benefits of Plaintiff working tirelessly and providing her
+
+       expertise to Defendant FSA in carrying out her job duties.
+
+230.   Defendant FSA accepted the benefits conferred on them by Plaintiff under circumstances
+
+       that would make it inequitable for Defendant to retain such benefits without payment of
+
+       value to Plaintiff.
+
+231.   Defendant FSA agreed to the value of the benefits conferred upon them by Plaintiff.
+
+232.   Defendants have not paid Ms. Della Ducata her severance pay, COBRA reimbursement
+
+       or accrued but unused vacation pay.
+
+233.   For the reasons set forth above, Defendant FSA is liable to Plaintiff under a theory of
+
+       Unjust Enrichment.
+
+                                    PRAYER FOR RELIEF
+
+234.   Plaintiff Dina Della Ducata repeats and incorporates by reference the allegations of all
+
+       previous paragraphs as if fully set forth at length herein.
+
+       WHEREFORE, Plaintiff Dina Della Ducata respectfully requests that this Court enter
+
+judgment in her favor and against Defendant, and Order:
+
+           a. Appropriate equitable relief;
+
+           b. Defendant FSA compensate Plaintiff with a rate of pay and other benefits and
+
+               emoluments of employment to which she would have been entitled had she not
+
+               been subjected to unlawful discrimination, harassment and retaliation;
+
+           c. Defendants compensate Plaintiff with the wages and other benefits and
+
+               emoluments of employment lost due to Defendant’s unlawful conduct;
+
+           d. Defendant FSA pay Plaintiff punitive damages;
+
+
+
+
+                                                 38
+       Case 2:21-cv-03480-NIQA Document 1 Filed 08/04/21 Page 39 of 39
+
+
+
+
+          e. Defendants pay Plaintiff liquidated damages;
+
+          f. Defendant FSA pay Plaintiff compensatory damages for future pecuniary losses,
+
+             pain and suffering, inconvenience, mental anguish, loss of employment and other
+
+             nonpecuniary losses as allowable;
+
+          g. Defendants pay Plaintiff’s costs of bringing this action, including, but not limited
+
+             to, Plaintiff’s reasonable attorneys’ fees;
+
+          h. Plaintiff be granted any and all other remedies available pursuant to Title VII, the
+
+             WPCL, Pennsylvania common law or any other applicable law; and
+
+          i. Such other and further relief as is deemed just and proper.
+
+                                       JURY DEMAND
+
+      Plaintiff hereby demands trial by jury as to all issues so triable.
+
+
+                                             /s/ Jennifer C. Bell
+                                             Jennifer C. Bell, Esquire
+                                             Christopher A. Macey, Jr., Esquire
+                                             Bell & Bell LLP
+                                             One Penn Center
+                                             1617 JFK Blvd. – Suite 1254
+                                             Philadelphia, PA 19103
+
+                                             Attorneys for Plaintiff Dina Della Ducata
+
+Dated: August 4, 2021
+
+
+
+
+                                                39
+

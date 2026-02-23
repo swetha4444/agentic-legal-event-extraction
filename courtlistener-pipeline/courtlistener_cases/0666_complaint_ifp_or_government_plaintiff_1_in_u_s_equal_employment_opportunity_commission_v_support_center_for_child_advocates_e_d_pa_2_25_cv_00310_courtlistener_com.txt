@@ -1,0 +1,508 @@
+Source URL: https://www.courtlistener.com/docket/69557861/1/us-equal-employment-opportunity-commission-v-support-center-for-child/
+Title: Complaint (IFP or Government Plaintiff) – #1 in U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION v. SUPPORT CENTER FOR CHILD ADVOCATES (E.D. Pa., 2:25-cv-00310) – CourtListener.com
+
+         Case 2:25-cv-00310-JFM        Document 1       Filed 01/17/25     Page 1 of 10
+
+
+
+
+                      IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+U.S. EQUAL EMPLOYMENT                          )
+OPPORTUNITY COMMISSION,                        )
+                                               )
+801 Market St.                                 )
+Ste. 1000                                      )
+Philadelphia, PA 19107                         )
+                                               )
+Plaintiff,                                     )           Civil Action No. 2:25-cv-310
+                                               )
+v.                                             )
+                                               )           COMPLAINT
+SUPPORT CENTER FOR CHILD                       )
+ADVOCATES,                                     )
+                                               )
+1617 JFK Blvd., Ste. 1200                      )
+Philadelphia, PA 19103                         )
+                                               )
+Defendant.                                     )
+                                               )
+
+                                 NATURE OF THE ACTION
+
+         The U.S. Equal Employment Opportunity Commission (“Plaintiff,” “the Commission,” or
+
+“EEOC”) brings this action against Support Center for Child Advocates (“Defendant”) under Title
+
+VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-2(a)(1) (“Title VII”), as amended by the
+
+Pregnancy Discrimination Act, 42 U.S.C. § 2000e(k) (“PDA”), and Title I of the Civil Rights Act
+
+of 1991, 42 U.S.C. § 1981a, to correct unlawful employment practices on the basis of sex and to
+
+provide appropriate relief to Meghan Seitz (“Seitz”). As alleged below, Defendant violated Title
+
+VII by failing to grant Seitz’s request, necessitated by her high-risk pregnancy during the COVID-
+
+19 pandemic, to be exempted from Defendant’s policy requiring in-office attendance three days per
+
+week, while providing the same accommodation to a non-pregnant employee, resulting in Seitz’s
+
+constructive discharge.
+        Case 2:25-cv-00310-JFM          Document 1        Filed 01/17/25      Page 2 of 10
+
+
+
+
+                                     JURISDICTION AND VENUE
+
+       1.      Jurisdiction of this Court is invoked pursuant to 28 U.S.C. §§ 451, 1331, 1337, 1343,
+
+and 1345. This action is authorized and instituted pursuant to Section 706(f)(1) and (3) of Title VII
+
+of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e-5(f)(1) and (3), and Section 102 of
+
+the Civil Rights Act of 1991, 42 U.S.C. § 1981a.
+
+       2.      The employment practices alleged to be unlawful were committed within the
+
+jurisdiction of the United States District Court for the Eastern District of Pennsylvania.
+
+                                                 PARTIES
+
+       3.      Plaintiff is the agency of the United States of America charged with the
+
+administration, interpretation, and enforcement of, inter alia, Title VII, and is expressly authorized
+
+to bring this action pursuant to Sections 706(f)(1) and (3) of Title VII, 42 U.S.C. § 2000e-5(f)(1),
+
+(3).
+
+       4.      At all relevant times, Defendant, a Pennsylvania corporation, has continuously been
+
+doing business in Philadelphia, Pennsylvania, and has continuously had at least 50 employees.
+
+       5.      At all relevant times, Defendant has continuously been an employer engaged in an
+
+industry affecting commerce under Section 701(b), (g), and (h) of Title VII, 42 U.S.C. §§ 2000e(b),
+
+(g) and (h).
+
+                                      CONDITIONS PRECEDENT
+
+       6.      All conditions precedent to the institution of this lawsuit have been fulfilled.
+
+       7.      More than thirty days prior to the institution of this lawsuit, Seitz filed a Charge of
+
+Discrimination with the EEOC alleging violations of Title VII.
+
+       8.      On July 31, 2024, the EEOC issued to Defendant a Letter of Determination finding
+
+reasonable cause to believe that Defendant had violated Title VII by failing to accommodate Seitz’s
+
+
+
+                                                2
+       Case 2:25-cv-00310-JFM             Document 1       Filed 01/17/25      Page 3 of 10
+
+
+
+
+pregnancy despite accommodating a non-pregnant employee similar in her ability or inability to
+
+work, and by constructively discharging Seitz.
+
+       9.        The EEOC’s Letter of Determination invited Defendant to join with the EEOC in
+
+informal methods of conciliation to endeavor to resolve the discrimination found to have occurred.
+
+       10.       After issuing its Letter of Determination, the EEOC engaged in communications
+
+with Defendant to provide it the opportunity to remedy the unlawful employment practices
+
+identified in the Letter of Determination.
+
+       11.       The EEOC and Defendant were unable to reach agreement through the conciliation
+
+process.
+
+       12.       The EEOC issued Defendant a Notice of Conciliation Failure on October 31, 2024,
+
+with respect to the Letter of Determination issued on July 31, 2024.
+
+                                        STATEMENT OF CLAIMS
+
+       13.       Defendant is a nonprofit that provides legal assistance and social workers to children
+
+in Philadelphia County.
+
+       14.       Defendant hired Seitz as a Child Advocate Social Worker in January 2019. She
+
+remained in this position through her entire period of employment.
+
+       15.       As a Child Advocate Social Worker, Seitz was required to attend in-person home
+
+visits and court appearances for her clients and to undertake case management and coordination
+
+from her desk.
+
+       16.       In March 2020, Defendant moved its operations entirely online in response to the
+
+COVID-19 pandemic.
+
+       17.       In August 2021, Defendant began encouraging employees to attend home visits and
+
+court appearances in person, with all other duties conducted remotely.
+
+
+
+                                                 3
+          Case 2:25-cv-00310-JFM        Document 1        Filed 01/17/25    Page 4 of 10
+
+
+
+
+          18.   In December 2021, Seitz learned she was pregnant. Her doctor informed her that her
+
+pregnancy was high risk because of her age and told her to avoid exposure to COVID-19 as much
+
+as possible.
+
+          19.   Pregnancy is a condition that affects the immune system.
+
+          20.   In December 2021, Seitz informed Defendant she was pregnant.
+
+          21.   In December 2021, Seitz asked Defendant’s Human Resources department for
+
+permission to work remotely because having COVID-19 could be detrimental to her pregnancy,
+
+and she made clear her willingness to still conduct home visits and make court appearances in
+
+person.
+
+          22.   Seitz met with Defendant’s Human Resources representative, Mashira Stevens, on
+
+January 5, 2022, and reiterated her request for remote work with the exception of home visits and
+
+court appearances as an accommodation for her pregnancy.
+
+          23.   In her January 5, 2022, meeting with Stevens, Seitz submitted a letter from her
+
+fertility doctor stating that Seitz’s “risk for COVID-19 infection is greater due to her pregnancy”
+
+and that “[h]er ability to complete activities is currently limited” due to potential exposure to
+
+COVID-19.
+
+          24.   Defendant took no action on Seitz’s requests described in paragraphs 21 and 22.
+
+          25.   On February 22, 2022, Defendant required its employees to begin working in the
+
+office three days a week with the flexibility to select which days.
+
+          26.   On February 22, 2022, Seitz again met with Stevens and requested that she be
+
+exempted from the February 22, 2022 directive until she met with her doctor.
+
+          27.   On February 25, 2022, Seitz provided Stevens with an additional doctor’s note
+
+stating, “Please allow some accommodations to work remotely to limit exposures to Covid.”
+
+
+
+                                                4
+          Case 2:25-cv-00310-JFM          Document 1      Filed 01/17/25     Page 5 of 10
+
+
+
+
+          28.   On February 25, 2022, Seitz reiterated her request to Stevens to work remotely with
+
+the exception of home visits or court appearances to limit her exposure to COVID-19 while
+
+pregnant.
+
+          29.   Stevens emailed Seitz’s request to Executive Director Frank Cervone, Director of
+
+Social Work Jessica Jones, and Social Worker Supervisor Briana Ventimiglia (the “management
+
+team”).
+
+          30.   Stevens informed the management team that Seitz was willing to attend home visits
+
+and court appearances in person but would “like to have flexibility with working from home and
+
+not be mandated to work in the office.”
+
+          31.   The management team told Stevens the request was denied and to request additional
+
+information from Seitz.
+
+          32.   Stevens informed Seitz that her request was denied and that she needed to provide
+
+“more specificity” for Defendant to further consider her accommodation request.
+
+          33.   On March 7, 2022, Seitz submitted a letter to Stevens requesting that “administrative
+
+tasks, meetings, and trainings be conducted remotely.”
+
+          34.   As required by Defendant’s mandate, Seitz continued to work in-person three days
+
+a week while waiting for Defendant’s response to her accommodation request.
+
+          35.   Defendant’s COVID-19 guidelines mandated that individuals wear masks when in
+
+common areas.
+
+          36.   While working in the office, Seitz observed co-workers failing to wear masks.
+
+          37.   Seitz shared an office with an individual who did not wear a mask while in close
+
+proximity to her.
+
+          38.   After she submitted the letter described in paragraph 33, Seitz repeatedly followed
+
+
+
+                                                5
+       Case 2:25-cv-00310-JFM           Document 1       Filed 01/17/25     Page 6 of 10
+
+
+
+
+up with Defendant to ask about the status of her accommodation request.
+
+       39.     After receiving Seitz’s March 7, 2022, letter, Defendant did not respond to her
+
+request for accommodation.
+
+       40.     After receiving Seitz’s March 7, 2022, letter, Defendant did not request additional
+
+information from her.
+
+       41.     Seitz feared for her health and the health of her baby and, as a result, on March 25,
+
+2022, she submitted a resignation letter to Defendant.
+
+       42.     From November 10, 2021, and continuing through at least March 25, 2022, Shoshi
+
+Goldfus worked for Defendant as a social worker. In her role, she undertook the responsibilities of
+
+a social worker.
+
+       43.     On or about November 10, 2021, Defendant’s Human Resources representative,
+
+Mashira Stevens, provided a letter to Goldfus stating, “We have approved the following
+
+accommodation(s): Work from home as needed …. [T]hese accommodations will be implemented
+
+and effective immediately.”
+
+       44.     Goldfus required the accommodation described in paragraph 43 to protect herself
+
+from exposure to COVID-19 because of a medical condition that affects her immune system. At no
+
+point from December 2021 through March 25, 2022, did Goldfus inform Defendant that she was
+
+pregnant.
+
+       45.     Starting in November 2021, Goldfus’ schedule was to work from home unless she
+
+had a home visit or court appearance.
+
+       46.     During the rise of the Omicron variant of COVID-19, in late 2021 and early 2022,
+
+Defendant allowed Goldfus to work remotely at all times, exempting her from home visits and court
+
+appearances.
+
+
+
+                                               6
+       Case 2:25-cv-00310-JFM           Document 1       Filed 01/17/25      Page 7 of 10
+
+
+
+
+       47.     During the period of time when Defendant was providing Goldfus with the
+
+accommodation described in paragraph 46, Seitz was seeking approval of her pregnancy
+
+accommodation to allow her to work from home except for home visits and court appearances.
+
+       48.     After the Omicron variant of COVID-19 subsided in early 2022, Defendant
+
+continued to accommodate Goldfus by providing the accommodation described in its November
+
+10, 2021, letter to her. This included allowing her to work remotely except for home visits and court
+
+appearances.
+
+       49.     Goldfus received the accommodation described in paragraphs 43 and 48 during the
+
+period of time when Seitz was seeking approval of her pregnancy accommodation to allow her to
+
+work from home except for home visits and court appearances.
+
+       50.     Goldfus received the accommodation described in paragraph 48 until at least 2024.
+
+       51.     During the period of time when Seitz was seeking the approval of her pregnancy
+
+accommodation, Goldfus was similar to Seitz in her ability or inability to work.
+
+         Cause of Action: Discrimination on the Basis of Sex in Violation of Title VII (42
+    U.S.C. § 2000e-2(a)(1)) and the Pregnancy Discrimination Act (42 U.S.C. § 2000e(k))
+
+       52.     EEOC hereby repeats and incorporates by reference the foregoing allegations.
+
+       53.     From on or about December 2021, Defendant has engaged in the following unlawful
+
+employment practices against Seitz, in violation of Sections 701(k) and 703(a) of Title VII and the
+
+PDA, 42 U.S.C. §§2000e(k) and 2000e-2(a):
+
+                   a. Depriving Seitz of workplace accommodations that were provided to at least
+
+                       one other non-pregnant employee similar in her ability or inability to work,
+
+                       and
+
+                   b. Constructively discharging Seitz by creating conditions so unpleasant or
+
+                       difficult that a reasonable person would have felt compelled to resign.
+
+
+                                                7
+        Case 2:25-cv-00310-JFM           Document 1        Filed 01/17/25     Page 8 of 10
+
+
+
+
+       54.     The effect of the practices complained of above has been to deprive Seitz of equal
+
+employment opportunities and to otherwise adversely affect her status as an employee because of
+
+her sex.
+
+       55.     The unlawful practices complained of above were and are intentional.
+
+       56.     The unlawful practices complained of above were done with malice or with reckless
+
+indifference to the federally protected rights of Seitz.
+
+       57.     The unlawful employment practices contained of above caused Seitz emotional and
+
+mental anguish, pain and suffering, stress, humiliation, and frustration.
+
+                                          PRAYER FOR RELIEF
+
+Wherefore, the Commission respectfully requests that this Court:
+
+       A.        Grant a permanent injunction enjoining Defendant, its officers, agents, servants,
+
+employees, attorneys, assignees, and all persons in active concert or participation with Defendant,
+
+from engaging in any employment practice that discriminates on the basis of sex, including
+
+discrimination on the basis of pregnancy.
+
+       B.        Order Defendant to institute and carry out policies, practices and programs that
+
+provide equal employment opportunities for women and pregnant workers, and which eradicate the
+
+effects of Defendant’s past and present unlawful employment practices.
+
+       C.        Order Defendant to make Seitz whole by providing appropriate backpay and lost
+
+benefits with prejudgment interest, in amounts to be determined at trial, and other affirmative relief
+
+necessary to eradicate the effects of its unlawful employment practices described above.
+
+       D.        Order Defendant to make Seitz whole by providing compensation for past and
+
+future pecuniary losses resulting from the unlawful employment practices described above.
+
+       E.        Order Defendant to make Seitz whole by providing compensation for past and
+
+
+                                                 8
+        Case 2:25-cv-00310-JFM         Document 1        Filed 01/17/25     Page 9 of 10
+
+
+
+
+future non-pecuniary losses, resulting from the unlawful employment practices described above,
+
+including emotional pain, suffering, inconvenience, mental anguish, loss of enjoyment of life,
+
+embarrassment, frustration, and humiliation, in an amount to be proved at trial.
+
+        F.      Order Defendant to pay Seitz punitive damages for the malicious and reckless
+
+conduct described above, in amounts to be determined at trial.
+
+        G.      Grant such further relief as this Court deems necessary and proper in the public
+
+interest.
+
+        H.      Award the Commission its costs of this action.
+
+                                    JURY TRIAL DEMAND
+
+The Commission requests a jury trial on all questions of fact raised by its Complaint.
+
+                                               Respectfully submitted,
+
+                                               KARLA GILBRIDE
+                                               General Counsel
+
+                                               CHRISTOPHER LAGE
+                                               Deputy General Counsel
+
+                                               GWENDOLYN REAMS
+                                               Associate General Counsel
+
+                                               /s/ Debra M. Lawrence  _
+                                               DEBRA M. LAWRENCE
+                                               Regional Attorney
+                                               Maryland Bar No. 04312
+
+                                               /s/ Maria Luisa Morocco     _
+                                               MARIA LUISA MOROCCO
+                                               Assistant Regional Attorney
+                                               EEOC Washington Field Office
+                                               131 M Street, N.E., Suite 4NWO2F
+                                               Washington, D.C. 20507
+                                               maria.morocco@eeoc.gov
+                                               Phone: 202-419-0724
+                                               Virginia Bar No. 94043
+
+
+
+                                               9
+      Case 2:25-cv-00310-JFM   Document 1    Filed 01/17/25    Page 10 of 10
+
+
+
+
+                                     /s/ R. Sam Wallace _
+                                     R. SAM WALLACE
+                                     Trial Attorney
+                                     EEOC
+                                     Philadelphia District Office
+                                     801 Market St., Suite 1300
+                                     Philadelphia, PA 19107
+                                     sam.wallace@eeoc.gov
+                                     Phone: 267.589.9762
+                                     Fax: 215.440.2848
+                                     Pennsylvania Bar No. 330767
+
+
+Date: January 17, 2025
+
+
+
+
+                                     10
+

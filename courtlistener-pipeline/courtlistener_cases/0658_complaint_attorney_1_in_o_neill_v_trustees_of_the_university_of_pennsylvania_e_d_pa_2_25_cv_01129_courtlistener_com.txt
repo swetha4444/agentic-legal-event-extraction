@@ -1,0 +1,1041 @@
+Source URL: https://www.courtlistener.com/docket/69701162/1/oneill-v-trustees-of-the-university-of-pennsylvania/
+Title: Complaint (Attorney) – #1 in O'NEILL v. TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA (E.D. Pa., 2:25-cv-01129) – CourtListener.com
+
+             Case 2:25-cv-01129       Document 1       Filed 03/04/25      Page 1 of 20
+
+
+
+
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                   :
+ SOPHIA O’NEILL,                   :
+                                   :
+                        Plaintiff, :
+                                   :
+      v.                           : CIVIL ACTION NO.
+                                   :
+                                   :
+                                   :
+ TRUSTEES OF THE UNIVERSITY        :
+ OF PENNSYLVANIA,                  : JURY TRIAL DEMANDED
+                                   :
+                      Defendant. :
+                                   :
+
+                                           COMPLAINT
+
+        Plaintiff, Sophia O’Neill (“Plaintiff”), by and through her counsel, files this Complaint
+
+and asserts claims of sex-based discrimination and retaliation against the Trustees of the
+
+University of Pennsylvania (“Defendant” or “Penn”).
+
+                                         INTRODUCTION
+
+        This case is about Penn’s refusal to protect a young female employee from sexual
+
+harassment by a mentally unstable male student, which forced her to choose between her safety
+
+and her job. Penn then retaliated against its devoted and accomplished former employee for
+
+filing a complaint about the sexual harassment by giving negative references to her prospective
+
+employers. Plaintiff has filed this lawsuit to hold Penn accountable for its willful violations of
+
+her civil rights.
+
+                                  JURISDICTION AND VENUE
+
+        1.      This action for discrimination and retaliation is authorized and instituted pursuant
+
+to Title VII of the Civil Rights Act of 1964 ("Title VII"), 42 U.S.C. § 2000e, et seq., as amended.
+
+
+
+                                                  1
+            Case 2:25-cv-01129       Document 1       Filed 03/04/25      Page 2 of 20
+
+
+
+
+       2.      This Court has original jurisdiction pursuant to 28 U.S.C. § 1331.
+
+       3.      Pursuant to 28 U.S.C. § 1367, this Court has supplemental jurisdiction with
+
+respect to Plaintiff’s claims for sex-based discrimination and retaliation under the Philadelphia
+
+Fair Practices Ordinance (“PFPO”), Phila. Code § 9-1101, et seq.
+
+       4.      This case is not subject to compulsory arbitration because Plaintiff seeks
+
+injunctive relief and the amount in controversy exceeds the jurisdictional amount for arbitration
+
+of One Hundred Fifty Thousand Dollars ($150,000), exclusive of interest and costs.
+
+       5.      Plaintiff has exhausted her administrative remedies, having timely filed
+
+complaints of discrimination and retaliation with the Philadelphia Commission on Human
+
+Relations, which were cross filed with the Equal Employment Opportunity Commission.
+
+       6.      Plaintiff filed her first administrative Complaint (PCHR No. 2023-06-09; EEOC
+
+No. 17G-2023-00029) on May 4, 2023.
+
+       7.      Plaintiff filed an Amended Complaint, adding allegations of retaliation on August
+
+23, 2023.
+
+       8.      The PCHR issued its Dismissal and Notice of Rights with respect to both
+
+administrative complaints on February 21, 2025.
+
+       9.      Venue is properly invoked pursuant to 29 U.S.C. § 1391(b) because the actions
+
+complained of herein occurred within the jurisdictional limit of this Court.
+
+                                            PARTIES
+
+       10.     Plaintiff, Sophia O’Neill, is an adult female individual who resided in
+
+Philadelphia, Pennsylvania in 2022 and 2023 before she relocated out of the country to accept
+
+new employment.
+
+
+
+
+                                                 2
+          Case 2:25-cv-01129         Document 1      Filed 03/04/25      Page 3 of 20
+
+
+
+
+       11.     The Trustees of the University of Pennsylvania, operating as the University of
+
+Pennsylvania, is a private educational institution comprised of twelve (12) schools, including
+
+Weitzman School of Design, Communications, Arts & Sciences, among others.
+
+       12.     Penn is located in Philadelphia, PA 19104, and employs thousands of individuals
+
+in Philadelphia.
+
+       13.     At all times relevant to this Complaint, Penn was Ms. O’Neill’s employer within
+
+the meaning of Title VII and the PFPO.
+
+       14.     Defendant’s discriminatory and retaliatory actions as described herein took place
+
+within Philadelphia, Pennsylvania.
+
+       15.     At all times relevant to this Complaint, Penn acted by and through its authorized
+
+agents and/or employees within the course and scope of their employment at Penn.
+
+                                   FACTUAL ALLEGATIONS
+
+Background and Ms. O’Neill’s Employment at Penn
+
+       16.     Ms. O’Neill is a 2020 graduate of Cornell University, where she earned her
+
+Bachelor of Science Degree in Urban and Regional Studies.
+
+       17.     In 2022, Ms. O’Neill earned a Masters of Science in Design: Robotics and
+
+Autonomous systems from Penn’s Weitzman School of Design.
+
+       18.     Later that year, Penn hired Ms. O’Neill as a full-time Research Associate in the
+
+Advanced Research and Innovation (ARI) lab, effective August 15, 2022, with an annual salary
+
+of $50,000. Ms. O’Neill was specifically assigned to work in the Autonomous Manufacturing
+
+lab, also referred to as the ARI Robotics lab.
+
+
+
+
+                                                 3
+            Case 2:25-cv-01129       Document 1        Filed 03/04/25      Page 4 of 20
+
+
+
+
+       19.     The ARI Robotics lab houses large industrial robots, which are very powerful
+
+(and potentially dangerous) machines, used by Penn students with the supervision of the lab
+
+managers.
+
+       20.     Ms. O’Neill shared responsibility for managing the ARI Robotics lab with Nick
+
+Sideropolous (male).
+
+       21.     Both Ms. O'Neill and Mr. Sideropolous reported to Robert Stuart-Smith, Program
+
+Director for the ARI Robotics lab, who in turn reported to Karl Wellman, Senior Director of
+
+Design and Construction and Operations and Planning.
+
+       22.     On November 18, 2022, Penn offered Ms. O’Neill a part-time faculty position as
+
+the Teaching Assistant for Mr. Ezio Blassetti’s Seminar and Studio, which included an additional
+
+salary of $8,650.
+
+       23.     As of January 9, 2023, Penn confirmed Ms. O’Neill’s hiring for the Teaching
+
+Assistant position for Robert Stuart-Smith’s Studio (as well as a TA for Advanced Robotics
+
+Autonomous Systems Programming Seminar) for the Spring semester.
+
+Penn’s Tolerance of Harassing and Dangerous Conduct By A Male Student
+
+       24.     Upon information and belief, at the start of the Fall semester, HR 1 (male), a
+
+student in Mr. Stuart-Smith’s design studio, subjected a fellow female student assigned to his
+
+work group to sex-based harassment.
+
+       25.     As a result of the female student’s complaint to Penn about HR’s conduct, Penn
+
+reassigned HR to another student work group of all male students.
+
+
+
+
+1
+ Since this Complaint contains medical information about the student, albeit information he
+shared with teachers and students, Plaintiff has elected to identify him only by initials to prevent
+any unnecessary breaches of medical privacy.
+                                                 4
+          Case 2:25-cv-01129           Document 1      Filed 03/04/25      Page 5 of 20
+
+
+
+
+       26.     Upon information and belief, Penn took no other remedial measures to address
+
+HR’s creation of a sex-based hostile environment for his fellow student.
+
+       27.     Throughout the Fall semester, both before and after his group reassignment, Ms.
+
+O’Neill observed that HR engaged in inappropriate behavior in the lab, including but not limited
+
+to: running the robots at unsafe speeds, insisting that he be permitted to use the robots without
+
+signing up for approved time slots, and complaining on social media that his fellow students
+
+were not pulling their weight. HR also regularly demanded that Ms. O’Neill help him with his
+
+assignments, often hovering over her desk.
+
+       28.     HR is substantially taller, larger, heavier, and stronger than Ms. O’Neill.
+
+       29.     Ms. O'Neill advised Mr. Stuart-Smith about her observations of HR’s
+
+inappropriate behaviors as they occurred.
+
+       30.     Upon information and belief, multiple students complained about HR’s behavior
+
+in the lab during the Fall semester.
+
+       31.     Over the winter break between the Fall and Spring semesters, Mr. Stuart-Smith
+
+contacted Ms. O’Neill to discuss the student assistant positions for the Spring semester. In that
+
+discussion, Mr. Stuart-Smith shared that HR had submitted applications for advertised positions
+
+but was “obviously not being considered” for any of the student assistant positions as HR had a
+
+psychological evaluation mandated by Penn, nor would he be able to participate in any student
+
+group work for the Spring Semester.
+
+       32.     On Friday, February 3, 2023, Ms. O’Neill attended a Penn-sponsored happy hour
+
+after her shift ended at the lab. When Ms. O’Neill returned to the lab after the happy hour to pick
+
+up her backpack and other belongings, HR was in the lab using a robot and insisted that she help
+
+
+
+
+                                                 5
+          Case 2:25-cv-01129         Document 1       Filed 03/04/25      Page 6 of 20
+
+
+
+
+him. Ms. O’Neill provided some general guidance to HR, but did not engage with the robot since
+
+she was not on duty and had consumed alcohol at the happy hour.
+
+       33.     On Monday, February 6, 2023, Ms. O’Neill learned from Mr. Stuart-Smith that
+
+HR had complained about her refusal to help him the prior Friday evening. Although she did not
+
+see the email, Ms. O’Neill heard from Mr. Stuart-Smith that HR’s email was “aggressive” and
+
+accused her of being “drunk” and “unprofessional.”
+
+       34.     At that time, and thereafter, Mr. Stuart-Smith confirmed that Ms. O’Neill’s
+
+behavior had been appropriate and professional.
+
+       35.     A couple of weeks later, on Friday, February 17, 2023, HR again demanded that
+
+Ms. O’Neill help him with his work assignments. Specifically, HR asked Ms. O’Neill to give
+
+him a completed branching script. Ms. O’Neill confirmed that she would help him, but not until
+
+he made an effort to complete at least part of the assignment.
+
+Penn’s Refusal to Address HR’s Misconduct Results In His Sexual Harassment of O’Neill
+During A Depressive Psychotic Episode
+
+       36.     On February 18-19, 2023, HR sent the following messages to Ms. O’Neill on
+
+Discord, a collaboration platform used by Penn professors and students:
+
+       2.18.23 at 7:31 am:
+       Hey soph. I think I’m going too deep into depression. Please come home and stay with
+       me if you can.
+
+       2.18.2023 at 8:02 pm:
+       Love you so much babe [heart and kiss emojis] come soon
+
+       2.18.2023 at 10:48 pm:
+       [picture]
+
+       2.18.2023 at 11:26 pm:
+       4454569794
+
+       2.19.2023 at 2:43 am:
+       [missed phone call]
+
+                                                  6
+          Case 2:25-cv-01129          Document 1       Filed 03/04/25     Page 7 of 20
+
+
+
+
+       2.19.2023 at 3:40 am:
+       Sorry. I had a depressive psychotic episode the past three days. I’m fine today.
+
+(emphasis added).
+
+       37.        Ms. O’Neill did not open HR’s messages on Discord as they came in because
+
+they had been sent outside of working hours. Ms. O’Neill also did not open HR’s messages once
+
+she reported to work because she assumed they related to his insistence that she help him with
+
+his assignment.
+
+       38.       While in the lab on Monday, February 20, 2023, HR continued to demand that
+
+Ms. O’Neill give him the script for his assignment. As he spoke to Ms. O’Neill, HR towered
+
+over her desk.
+
+       39.       Thereafter, Ms. O’Neill asked to speak to Mr. Stuart-Smith in the hallway outside
+
+the lab. Ms. O’Neill reported HR’s demands of her, and that his conduct made her
+
+uncomfortable. In response, Mr. Stuart-Smith advised Ms. O’Neill to give HR the completed
+
+script and to make sure he completed his assignments.
+
+       40.       In the early morning hours of February 21, 2023, HR sent additional messages to
+
+Ms. O’Neill on Discord:
+
+       At 1:25 am:
+       Going to surprise you [heart emoji]
+
+       At 4:03 am:
+       4454569794
+       4454569794*
+
+       41.       On Wednesday morning, February 22, 2023, HR was waiting for Ms. O’Neill
+
+outside the lab when she arrived for work at 8:45 am. By that time, Ms. O’Neill noticed that HR
+
+sent additional messages to her on Discord, but she had not opened any of them.
+
+
+
+
+                                                 7
+           Case 2:25-cv-01129        Document 1       Filed 03/04/25      Page 8 of 20
+
+
+
+
+        42.     That morning, HR again demanded help from Ms. O’Neill, saying that he could
+
+not figure out the script.
+
+        43.     HR also had time reserved that morning to work on the robot. While working on
+
+the robot, HR repeatedly sought Ms. O’Neill’s assistance by either standing over her desk or
+
+calling over to her from the enclosure where the robot was housed.
+
+        44.     At one point, HR insisted that Ms. O’Neill clean clay out of the robot nozzle for
+
+him. While Ms. O’Neill was cleaning the robot nozzle, HR was vaping while he stood by
+
+watching her.
+
+        45.     When Ms. O’Neill tried to leave the enclosure that housed the robot, HR blocked
+
+the doorway, stared her down and refused to move until she told him he had to move out of the
+
+way and let her pass.
+
+        46.     Once she returned to her desk, Ms. O’Neill focused on other tasks, including
+
+reviewing student messages for her on Discord.
+
+        47.     Upon seeing the messages from HR, Ms. O’Neill became alarmed and scared for
+
+safety, particularly since he had just attempted to physically intimidate her by blocking her way.
+
+        48.     Ms. O’Neill immediately advised the Student Assistant in the lab at the time that
+
+she had to leave and asked him to take over.
+
+        49.     Upon leaving the lab, Ms. O’Neill ran as quickly as she could to Mr. Wellman’s
+
+office. When he emerged from a meeting, Ms. O’Neill showed him the Discord messages on her
+
+laptop computer. Mr. Wellman then directed Ms. O’Neill to walk with him to the Student
+
+Services office where they met with Kayla Richards, Associate Director for Student Support, and
+
+contacted Paige Wigginton, Ed.D, Director of Special Services, by telephone.
+
+
+
+
+                                                 8
+          Case 2:25-cv-01129           Document 1      Filed 03/04/25      Page 9 of 20
+
+
+
+
+Penn’s Refusal to Maintain A Safe Environment for O’Neill and/or Her Students
+
+       50.     During the meeting in Ms. Richards’ office, Ms. O’Neill became aware that Penn
+
+management was already aware of an “on-going” case relating to HR that included a report to
+
+Penn police about his behavior. In response to requests from Penn, Ms. O’Neill provided screen
+
+shots of the Discord messages from HR.
+
+       51.     Penn’s representatives advised Ms. O’Neill that she should go home following the
+
+meeting, which she did.
+
+       52.     At Ms. Wigginton’s request, Ms. O’Neill met with her in the Penn Safety
+
+Building on February 24, 2023. During that discussion, Ms. Wigginton advised that Penn was
+
+willing to take certain actions to address HR’s conduct: (1) Limit his ability to sign up for time in
+
+the lab with Mr. Sideropolous, not Ms. O’Neill; and (2) Restrict his ability to communicate with
+
+Ms. O’Neill, except in an academic setting.
+
+       53.     In an email exchange with Mr. Wellman asking about her status that day, Ms.
+
+O’Neill advised that she very much wanted to return to work but that the remedial measures
+
+identified by Ms. Wigginton were inadequate to the situation, particularly where Penn had
+
+previously tried a similar approach.
+
+       54.     The sex-based hostile work environment created by HR was not the first time
+
+Penn’s management permitted sex-based harassment against Ms. O’Neill in the workplace.
+
+       55.     In the Fall semester, Messrs. Wellman and Stuart-Smith were aware that a former
+
+lab manager (male) subjected Ms. O’Neill to sexist, belittling, and harassing behavior.
+
+       56.     The steps taken by Messrs. Wellman and Stuart-Smith to address the male lab
+
+manager’s conduct, including trying to schedule them to be in the lab at different times, resulted
+
+in escalation of the male lab manager’s harassing conduct.
+
+
+
+                                                 9
+          Case 2:25-cv-01129         Document 1        Filed 03/04/25      Page 10 of 20
+
+
+
+
+       57.     Having been advised by Penn representatives that she had a right to file a Title IX
+
+complaint, Ms. O’Neill met with Michele Rovinsky-Mayer, Penn’s Associate Vice President for
+
+Equity and Title IX Officer, on February 27, 2023.
+
+       58.     During their meeting, Ms. Rovinsky-Mayer described the steps available to Ms.
+
+O’Neill to file a Title IX complaint, but also advised her that it was a lengthy process and that
+
+filing a complaint may not be in her best interests. As a result of that meeting, and because she
+
+trusted Penn to take appropriate steps to address the sex-based hostile work environment without
+
+a complaint, Ms. O’Neill elected not to file a Title IX complaint.
+
+       59.     Soon thereafter, Ms. O’Neill became aware that HR posted a message on his
+
+public Instagram feed that included the following statement about her:
+
+       When I realized (sic) how bad my depression was I reached out to a friend in
+       university who I thought was close to me and she complained to the university
+       admin saying some shit and got me into a big problem. Don’t be that insensitive
+       inhumane person and don’t be that piece of shit who just doesn’t care like
+       everyone else around me.
+
+       60.     On March 5, 2023, Ms. O’Neill shared a screenshot of HR’s Instagram post with
+
+Mr. Stuart-Smith via text message. He responded: “This is horrible. Make sure you share it with
+
+Karl & Kayla too. There is a meeting coming up this week and this is important for that.”
+
+Penn’s Refusal to Correct and Prevent An Unsafe, Sexually Hostile Work Environment Forces
+O’Neill to Choose Between Her Safety and Her Job
+
+       61.     During Spring Break in March 2023, Ms. O’Neill was still out of work and still
+
+had not received confirmation from Penn that it was willing to take appropriate remedial action
+
+with respect to HR.
+
+       62.     At around that time, Mr. Stuart-Smith called Ms. O’Neill to discuss her plans to
+
+return to the lab. Ms. O’Neill reiterated that she would not return to the lab until she felt assured
+
+
+
+
+                                                 10
+           Case 2:25-cv-01129       Document 1       Filed 03/04/25     Page 11 of 20
+
+
+
+
+of her safety. In response, Mr. Stuart-Smith suggested that Ms. O’Neill consider hiring a security
+
+guard.
+
+         63.   On March 16, 2023, Ms. Wigginton informed Ms. O’Neill by telephone that Penn
+
+would not take any additional steps to address the sex-based hostile work environment in the lab,
+
+and that she would be expected to return to work and have contact with her harasser in the lab.
+
+         64.   Ms. O’Neill was very upset and frustrated by Penn’s failure to act, and asked Ms.
+
+Wigginton whether she needed to get raped for Penn to take the situation seriously.
+
+         65.   During Ms. O’Neill’s absence from the office, the Penn Robotic and Autonomous
+
+Systems (RAS) graduate students who had been working with her in the Robotics lab submitted
+
+a complaint about HR’s conduct and its resulting impact on Ms. O’Neill as well as the quality of
+
+their education. In that complaint, the Penn graduate students expressly referenced concerns
+
+about HR’s bullying and harassment towards students, which had been previously shared with
+
+the University prior to the incidents with Ms. O’Neill.
+
+         66.   Upon information and belief, Penn representatives met with the students in the
+
+Masters of Science in Design program in response to their complaint and attempted to excuse
+
+HR’s misconduct based on a disability.
+
+         67.   On the afternoon of March 16, 2023, Ms. O’Neill ran into Masoud Akbarzadeh,
+
+one of her former Penn professors, at the Reading Terminal Market. Upon seeing her former
+
+professor and in response to his warm greeting of her, Ms. O’Neill broke down crying and
+
+explained what had happened with HR and Penn’s failure to resolve the situation.
+
+         68.   During their discussion, Professor Akbarzadeh suggested to Ms. O’Neill that she
+
+consider transferring her position and working with him in the Polyhedral Structures Laboratory
+
+
+
+
+                                                11
+           Case 2:25-cv-01129         Document 1      Filed 03/04/25       Page 12 of 20
+
+
+
+
+where he worked, which was in a separate physical location, but was also part of the ARI lab.
+
+They agreed to meet the following Monday, March 20, 2023, at Penn’s Pennovation Center.
+
+         69.   By letter dated March 17, 2023, Mr. Wellman advised Ms. O’Neill that she was
+
+expected to return to work on or before March 27, 2023, and that the “measures and protocols”
+
+Penn had put in place for the lab included an agreement that HR would be permitted to speak to
+
+her “in the academic setting (e.g., the classroom/lab).” The letter again advised Ms. O’Neill that
+
+she could file a formal complaint with the University’s Title IX office.
+
+         70.   When Ms. O’Neill sought clarification about the consequences of her refusal to
+
+return without additional remedial measures, Mr. Wellman notified her that Penn would consider
+
+her to have abandoned her position.
+
+         71.   On Monday, March 20, 2023, Ms. O’Neill met with Professor Akbarzadeh,
+
+excited about the chance to get back to work. However, Professor Akbarzadeh advised Ms.
+
+O’Neill that Mr. Stuart-Smith had objected to any transfer from his lab unless she agreed to
+
+continue as Teaching Assistant for his studio, which would require contact with her harasser. Ms.
+
+O’Neill confirmed to Mr. Akbarzadeh that she could not continue her employment at Penn if it
+
+required that she regularly face her harasser.
+
+         72.   On March 22, 2023, Ms. O’Neill confirmed in an email to Messrs. Wellman and
+
+Stuart-Smith that she could not return to work without additional remedial measures to address
+
+the sex-based hostile work environment. Ms. O’Neill communicated that her decision to leave
+
+“[broke] her heart” but that Penn’s actions did not protect her.
+
+         73.   Penn terminated Ms. O’Neill’s employment, effective March 27, 2023.
+
+         74.   As of March 27, 2023, there were only a few weeks left in the semester before
+
+exams.
+
+
+
+                                                 12
+         Case 2:25-cv-01129            Document 1   Filed 03/04/25      Page 13 of 20
+
+
+
+
+       75.     Penn allowed HR to remain in the program, and he graduated with his degree.
+
+       76.     In late July and into August 2023, HR resumed sending harassing messages to
+
+Ms. O’Neill on Discord, which corroborated Ms. O’Neill’s fear that her safety was at risk if she
+
+had returned to work with him. Specifically, HR sent the following messages:
+
+       7.26.2023 at 11:14 pm:
+       Hi soph
+       Miss you
+       You are my favourite person. I don’t know why cut me off. We had such a good bond.
+
+       7.26.2023 at 11:25 pm:
+       I still think of you everyday
+
+       7.27.2023 at 12:27 am:
+       You are the only person who made smile like that in my whole life
+       And subconsciously you were the one who stopped my PTSD attack that day
+
+       7.27.2023 at 3:46 am:
+       And when I had psychosis I only heard your voice in my head and you used to talk to me
+       and keep me safe and from killing myself.
+
+       7.29.2023 at 7:10 pm:
+       I love you so much
+       It hurts me
+
+       7.30.2023 at 2:36 am:
+       I’m not able to sleep at night because I keep thinking of you being by my side.
+
+       7.30.2023 at 8:31 pm:
+       I’m not able to do anything because I’m just thinking of you all day looking at the wall
+       and smiling
+
+       7.30.2023 at 8:40 pm:
+       I’m sorry if I did anything wrong to you and pissed you off to the point you are doing this
+       to me. Please let’s meet. I don’t want to lose you.
+
+       8.1.2023 at 9:40 pm:
+       (missed phone call)
+
+       8.2.2023 at 4:03 am:
+       (missed phone call)
+
+
+
+
+                                               13
+         Case 2:25-cv-01129         Document 1       Filed 03/04/25      Page 14 of 20
+
+
+
+
+       8.2.2023 at 9:02 pm:
+       I’ll give you so many kisses that you will lose count (kissing emoji)
+
+       8.2.2023 at 10:25 pm:
+       I want to marry you and make you my wife (six heart/face emojis)
+
+       8.3.2023 at 11:38 am:
+       (Screenshot of HR posing on a bridge in London)
+
+       8.3.2023 at 7:37 pm:
+       (missed phone call)
+
+       8.4.2023 at 3:48 pm:
+       I have moved from my old place to [street address] Philadelphia
+
+       77.     The street address identified in HR’s last message in August 2023 was in the same
+
+neighborhood where Ms. O’Neill lived while teaching at Penn.
+
+       78.     In addition to these harassing and threatening communications on Discord, on
+
+August 12, 2023, HR contacted another former student asking for Ms. O’Neill’s personal phone
+
+number. The next day, HR sent Ms. O’Neill a request to connect on LinkedIn.
+
+Penn’s Refusal to Protect O’Neill from Sexual Harassment by a Mental Unstable Male Student
+Violated Her Civil Rights
+
+       79.     The sex-based harassment to which Ms. O’Neill was subjected was unwelcome.
+
+       80.     Ms. O’Neill believed her work environment was hostile and abusive as a result of
+
+HR’s sex-based harassment of her, and the harassment unreasonably interfered with her ability to
+
+perform her job duties.
+
+       81.     The sex-based harassment to which Ms. O’Neill was subjected was severe and/or
+
+pervasive such that a reasonable person in her position would find her work environment to be
+
+hostile and abusive.
+
+       82.     Penn failed to take reasonable steps to correct the sex-based hostile work
+
+environment to which Ms. O’Neill was subjected, or to prevent it from continuing in the future.
+
+
+                                               14
+          Case 2:25-cv-01129         Document 1       Filed 03/04/25      Page 15 of 20
+
+
+
+
+       83.     Ms. O’Neill made the difficult, but entirely reasonable, decision not to return to
+
+work because of Penn’s failure to take appropriate remedial action in response to HR’s sex-based
+
+harassment of her.
+
+       84.     Penn’s failure to remedy the sex-based harassment that plagued her work
+
+environment forced Ms. O’Neill to resign her employment.
+
+       85.     The working conditions to which Ms. O’Neill had been subjected became so
+
+intolerable that any reasonable person in her position would have felt compelled to resign.
+
+       86.     As a result of the sex-based hostile work environment to which she was subjected,
+
+Ms. O’Neill suffered significant emotional distress and mental anguish.
+
+       87.     As a result of Penn’s actions, and her constructive discharge, Ms. O’Neill
+
+suffered, and continues to suffer, additional emotional distress and mental anguish as well as
+
+harm to her professional and academic reputation.
+
+       88.     As a result of Penn’s discriminatory conduct, Ms. O’Neill has suffered, and will
+
+continue to suffer, a loss of earnings and/or earning capacity.
+
+       89.     Penn’s discriminatory actions were willful and taken with malice and/or reckless
+
+disregard for Ms. O’Neill’s civil rights and warrant the imposition of punitive damages.
+
+Penn Retaliated Against O’Neill By Giving Her a Negative Employment Reference
+
+       90.     Throughout her employment at Penn, Ms. O’Neill met or exceeded all
+
+expectations for her job performance.
+
+       91.     Upon her departure from Penn, Ms. O’Neill engaged in reasonable efforts to
+
+secure new employment.
+
+       92.     Mr. Stuart-Smith offered to be a reference for Ms. O’Neill, so she included his
+
+contact information on her resume.
+
+
+
+                                                 15
+          Case 2:25-cv-01129        Document 1           Filed 03/04/25   Page 16 of 20
+
+
+
+
+       93.     On or about May 4, 2023, Ms. O’Neill filed her administrative complaint with the
+
+Philadelphia Commission on Human Relations (PCHR) in which she asserted allegations of sex-
+
+based discrimination, including sexual harassment, against Penn.
+
+       94.     On June 22, 2023, the PCHR notified Ms. O’Neill that her complaint had been
+
+served on Penn.
+
+       95.     Upon information and belief, Penn notified Mr. Stuart-Smith (and others) about
+
+Ms. O’Neill’s civil rights complaint upon its receipt.
+
+       96.     In early July 2023, Ms. O’Neill received an offer as an outside consultant from
+
+Hyperion Robotics in Espoo, Finland, which was expected to lead to additional opportunities
+
+with the growing company.
+
+       97.     On July 10, 2023, Hyperion Robotics sent a contract for the position to Ms.
+
+O’Neill for review and execution.
+
+       98.     On July 12, 2023, rather than connect with her contact at Hyperion Robotics as
+
+expected, Ms. O’Neill received an email withdrawing the offer which stated: “After
+
+understanding new information about your past work with your listed references we believe that
+
+the Hyperion community will not be right for you.” (emphasis added).
+
+       99.     Mr. Stuart-Smith was the only work-related reference Ms. O’Neill had provided
+
+to Hyperion Robotics.
+
+       100.    Upon information and belief, Mr. Stuart-Smith gave a negative reference about
+
+Ms. O’Neill to Hyperion Robotics, and possibly many other prospective employers, in retaliation
+
+for filing an administrative complaint of discrimination.
+
+       101.    Penn’s negative reference of Ms. O’Neill constitutes a materially adverse action
+
+that would discourage a reasonable worker from complaining about sex-based harassment.
+
+
+
+                                                16
+          Case 2:25-cv-01129         Document 1       Filed 03/04/25      Page 17 of 20
+
+
+
+
+        102.    As a result of Penn’s retaliatory actions, Ms. O’Neill suffered, and continues to
+
+suffer, additional emotional distress and mental anguish as well as harm to her professional and
+
+academic reputation.
+
+        103.    As a result of Penn’s retaliatory conduct, Ms. O’Neill has suffered, and will
+
+continue to suffer, a loss of earnings and/or earning capacity.
+
+        104.    Penn’s retaliatory actions were willful and taken with malice and/or reckless
+
+disregard for Ms. O’Neill’s civil rights and warrant the imposition of punitive damages.
+
+                                             COUNT I
+                             Sex-Based Discrimination in violation of
+                             Title VII of the Civil Rights Act of 1964
+
+        105.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        106.    Defendant violated Title VII of the Civil Rights Act of 1964, as amended, by
+
+subjecting Plaintiff to a sex-based hostile work environment.
+
+        107.    Defendant violated Title VII of the Civil Rights Act of 1964, as amended, by
+
+failing to correct and/or prevent the sex-based hostile work environment to which Plaintiff was
+
+subjected resulting in the constructive discharge of her employment.
+
+                                           COUNT II
+                           Sex-Based Discrimination in violation of the
+                              Philadelphia Fair Practices Ordinance
+
+        108.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        109.    Defendant violated the Philadelphia Fair Practices Ordinance by subjecting
+
+Plaintiff to sex-based hostile work environment.
+
+
+
+
+                                                 17
+          Case 2:25-cv-01129         Document 1        Filed 03/04/25      Page 18 of 20
+
+
+
+
+        110.    Defendant violated the Philadelphia Fair Practices Ordinance by failing to correct
+
+and/or prevent the sex-based hostile work environment to which Plaintiff was subjected resulting
+
+in the constructive discharge of her employment.
+
+                                            COUNT III
+                                    Retaliation in violation of
+                             Title VII of the Civil Rights Act of 1964
+
+        111.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        112.    Defendant’s actions against Plaintiff, including giving negative employment
+
+references about Plaintiff to prospective employer(s), constitute retaliation in violation of Title
+
+VII of the Civil Rights Act of 1964, as amended.
+
+                                            COUNT IV
+                                     Retaliation in violation of
+                               Philadelphia Fair Practices Ordinance
+
+        113.    Plaintiff hereby incorporates by reference the foregoing paragraphs as though
+
+fully set forth herein.
+
+        114.    Defendant’s actions against Plaintiff, including giving negative employment
+
+references about Plaintiff to prospective employer(s), constitute retaliation in violation of the
+
+Philadelphia Fair Practices Ordinance.
+
+                                       PRAYER FOR RELIEF
+
+        WHEREFORE, Plaintiff, Sophia O’Neill, respectfully requests that this Court enter
+
+judgment in favor of Plaintiff and against Defendant as follows:
+
+        A.      Declare the acts and practices complained of herein to be a violation of the Title
+
+VII of the Civil Rights Act of 1964;
+
+
+
+
+                                                 18
+            Case 2:25-cv-01129       Document 1       Filed 03/04/25      Page 19 of 20
+
+
+
+
+       B.       Declare the acts and practices complained of herein to be a violation of the
+
+Philadelphia Fair Practices Ordinance;
+
+       C.       Award to Plaintiff compensatory damages for all past and future economic losses
+
+resulting from Defendant’s discrimination and retaliation, including, but not limited to, lost
+
+earnings, lost earnings growth potential, all other compensation and benefits lost due to
+
+Defendant’s actions, all out of pocket losses, and an award of front pay since reinstatement to a
+
+sex-based hostile work environment is not appropriate;
+
+       D.       Award to Plaintiff compensatory damages for all past and future non-economic
+
+losses she suffered as a result of Defendant’s discrimination and retaliation, including but not
+
+limited to emotional distress, mental anguish, and harm to her professional and academic
+
+reputation;
+
+       E.       Award to Plaintiff punitive damages for Defendant’s willful and/or reckless
+
+disregard for her legal rights;
+
+       F.       Award to Plaintiff all costs, disbursements, and reasonable attorneys’ fees relating
+
+to the enforcement of her rights;
+
+       G.       Award to Plaintiff pre-and post-judgment interest as well as the sum necessary to
+
+make up for any adverse tax consequences incurred by her as result of any judgment entered in
+
+this matter; and
+
+       H.       Grant to Plaintiff such additional relief as the Court deems just and proper under
+
+the circumstances.
+
+
+
+
+                                                 19
+  Case 2:25-cv-01129         Document 1       Filed 03/04/25      Page 20 of 20
+
+
+
+
+                           JURY TRIAL DEMANDED
+
+Plaintiff hereby requests a jury trial on each of the Counts in this Complaint.
+
+
+
+
+                                      UEBLER LAW LLC
+
+                                      /s/Julie A. Uebler
+                                      Julie A. Uebler, Esquire (ID No. 71297)
+                                      101 Lindenwood Drive, Suite 225
+                                      Malvern, PA 19355
+                                      (484) 875-3186 (Voice)
+                                      (484) 875-9273 (Fax)
+                                      uebler@ueblerlaw.com
+
+                                      Attorney for Plaintiff
+                                      Sophia O’Neill
+
+
+
+
+                                         20
+

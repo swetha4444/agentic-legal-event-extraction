@@ -1,0 +1,779 @@
+Source URL: https://www.courtlistener.com/docket/69066718/1/hale-v-childrens-hospital-of-philadelphia/
+Title: Complaint (Attorney) – #1 in HALE v. CHILDREN'S HOSPITAL OF PHILADELPHIA (E.D. Pa., 2:24-cv-04388) – CourtListener.com
+
+        Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 1 of 15
+
+
+
+
+DEREK SMITH LAW GROUP, PLLC
+TIMOTHY J. PROL, ESQUIRE
+Attorney ID No. 319524
+1628 Pine Street
+Philadelphia, PA 19103
+(267) 857-0834
+tim@dereksmithlaw.com
+Attorneys for Plaintiff, Megan Hale
+
+                    IN THE UNTIED STATES DISTRICT COURT
+                FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+____________________________________________________________________________________
+
+MEGAN HALE                          :
+                                    :
+                  Plaintiff,        :
+                                    :     Civil Action No. ___________________
+      v.                            :
+                                    :
+CHILDREN’S HOSPITAL OF              :     JURY TRIAL DEMANDED
+PENNSYLVANIA,                       :
+HOLLY BURNSIDE (individually),      :
+and SHAWN O’CONNOR (individually) :
+                                    :
+                  Defendants        :
+______________________________________________________________________________
+
+
+      Plaintiff, MEGAN HALE, by and through her undersigned counsel, hereby files this Civil
+
+Action Complaint against Defendants CHILDREN’S HOSPITAL OF PENNSYLVANIA, HOLLY
+
+BURNSIDE, and SHAWN O’CONNOR (collectively “Defendants”) and avers the following:
+
+                                          PARTIES
+
+   1. Plaintiff, MEGAN HALE (hereinafter also referred to as “Plaintiff”) is a female individual
+
+      who was, at all times material, a resident of Nebraska working remotely and in person in
+
+      Philadelphia, PA.
+
+
+
+                                              1
+          Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 2 of 15
+
+
+
+
+   2. At all times material, CHILDREN’S HOSPITAL OF PENNSYLVANIA (hereinafter
+
+referred to as “Defendant CHOP”) operates its headquarters at East Penn Square in Philadelphia,
+
+Pennsylvania 19107.
+
+   3. At all times material, Defendant CHOP operates a principle place of business located at
+
+3400 Civic Center Boulevard in Philadelphia, Pennsylvania 19104.
+
+   4. At all times material, Defendant HOLLY BURNSIDE (hereinafter referred to as
+
+“Defendant Burnside”) was and is employed for Defendant CHOP as a Program Manager for
+
+Clinical Futures.
+
+   5. At all times material, Defendant Burnside held supervisory authority over Plaintiff.
+
+   6. At all times material, Defendant SHAWN O’CONNOR (hereinafter referred to as
+
+“Defendant O’Connor”) was and is employed for Defendant CHOP as an Administrative Director
+
+for Clinical Futures.
+
+   7. At all times material, Defendant O’Connor held supervisory authority over Plaintiff.
+
+   8. At all times material, Defendants were the joint and/or sole employer of Plaintiff.
+
+                                  NATURE OF THE CASE
+
+   9. Plaintiff has experienced a continuing and ongoing pattern of sustained pregnancy
+
+discrimination and continued retaliation at the hands of Defendants from 2017-2018 when she
+
+became pregnant until she was constructively discharged in 2023.
+
+   10. Plaintiff complaints pursuant to 1964 Civil Rights Act (“Title VII”), violations of the
+
+Pregnancy Discrimination Act of 1978 (“PDA”), §§701 et. seq (42 U.S.C. §200e(k)), Pregnant
+
+Workers Fairness Act of 2023 (PWFA) (42 U.S.C. §2000gg), the Pennsylvania Human Relations
+
+Act (“PHRA”), 43 P.S. §951 et. seq., and violations of the Americans with Disabilities Act
+
+(“ADA”), 42 U.S.C. §12102 et. seq., and seeks damages to redress the injuries Plaintiff has
+
+
+                                               2
+          Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 3 of 15
+
+
+
+
+suffered as a result of being subjected to discrimination, retaliation, and constructive discharge by
+
+the aforementioned Defendants.
+
+   11. Furthermore, this action is to redress the Defendants’ unlaw employment practices against
+
+Plaintiff, including Defendants’ unlawful discrimination against Plaintiff because of her
+
+sex/pregnancy and/or disability and for Defendants wrongful actions against Plaintiff leading up
+
+to, and including, her unlawful termination by way of constructive discharge.
+
+   12. Plaintiff seeks declaratory and injunctive relief, actual damages, compensatory damages,
+
+punitive damages, reinstatement, attorneys’ fees, litigation costs, and pre- and post- judgment
+
+interest as remedies for Defendants’ violations of her rights.
+
+                                   JURISDICTION AND VENUE
+
+   13. This Court has subject matter jurisdiction over this case pursuant to 28 U.S.C. § 1331,
+
+which gives district courts jurisdiction over all civil actions arising under the Constitution, laws,
+
+and treaties of the United States.
+
+   14. This Court has jurisdiction in that this action involves a Federal Question under Title VII
+
+of the Civil Rights Act of 1964.
+
+   15. The Court has supplemental jurisdiction pursuant to 28 U.S.C. § 1367.
+
+   16. This Court also has subject matter jurisdiction pursuant to 28 U.S.C. § 1343 which gives
+
+district courts original jurisdiction over (a) any civil action authorized by law to be brought by any
+
+person to redress the deprivation, under color of any State Law, statue, ordinance, regulation,
+
+custom or usage, of any right, privilege or immunity secured by the constitution of the United
+
+States or by any Act of Congress providing for equal rights of citizens or of all persons within the
+
+jurisdiction of the United States, and (b) any civil action to recover damages or to secure equitable
+
+relief under any Act of Congress providing for the protection of the civil rights.
+
+
+                                                  3
+            Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 4 of 15
+
+
+
+
+    17. Venue is proper in this district based upon Defendants’ principal place of business within
+
+the Eastern District of Pennsylvania.
+
+    18. Additionally, the events that give rise to Plaintiff’s claim took place within the
+
+Commonwealth of Pennsylvania within the Eastern District of Pennsylvania.
+
+    19. Plaintiff filed Charges of Discrimination with the Equal Employment Opportunity
+
+Commission (“EEOC”).
+
+    20. The EEOC issued Plaintiff, a Dismissal and Notice of Rights, also known as a Right to Sue
+
+letter.
+
+    21. This action is hereby commenced within 90 days of receiving the Dismissal and Notice of
+
+Rights from the EEOC.
+
+                                        MATERIAL FACTS
+
+    22. In February 2011, Plaintiff was hired by Defendant CHOP as a Grant Writer.
+
+    23. Plaintiff worked remotely but periodically would return to Philadelphia pursuant to her
+
+          travel allowance where she had her own office in Defendant CHOP’s facilities.
+
+    24. Due to Plaintiff’s exemplary performance, she was eventually promoted to Senior Grant
+
+Writer and began overseeing a team of grant writers.
+
+    25. On or about June, 2017, Plaintiff informed Defendant CHOP that she was pregnant.
+
+    26. Plaintiff went on maternity leave about February 21, 2018.
+
+    27. While on maternity leave in 2018, Defendant CHOP demoted Plaintiff.
+
+    28. Also in 2018 Plaintiff was demoted from her supervisory responsibilities, her monthly
+
+travel allowances were removed, and the programs that she had developed and coordinated were
+
+reassigned.
+
+    29.
+
+
+                                                 4
+            Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 5 of 15
+
+
+
+
+    30. Plaintiff’s new supervisor was Defendant Burnside.
+
+    31. Defendant Burnside immediately began treating Plaintiff in a discriminatory manner as a
+
+result of Plaintiff’s pregnancy.
+
+    32. While Plaintiff was out on maternity leave in about April 2018, Defendant Burnside entered
+
+Plaintiff’s locked office in Philadelphia and cleared out Plaintiff’s files, personal property, and
+
+CHOP equipment that Plaintiff needed to do her job.
+
+    33. While doing so, she removed pertinent files with protected health information (“PHI”) of
+
+patients.
+
+    34. When Plaintiff requested the return of her files and equipment, her requests were ignored.
+
+    35. About May 2018 Plaintiff returned from maternity leave.
+
+    36. About May 2018 Defendant Burnside indicated to Plaintiff that she had thrown out some
+
+or all of Plaintiff’s files and refused to return Plaintiff’s equipment.
+
+    37. The relationship with Defendant Burnside was rife with hostility from Defendant Burnside
+
+towards Plaintiff.
+
+    38. Plaintiff had reported these issues with Deborah Hillman who ultimately retired in late
+
+2018 or early 2019 without resolving the issues.
+
+    39. About October 2019, Plaintiff went to Defendant O’Connor to complain of the
+
+inappropriate handling of patient’s PHI and her missing personal property.
+
+    40. Throughout this time Defendant Burnside continued to harass Plaintiff by interfering with
+
+Plaintiff’s work and daily operations by taking Plaintiff off of emails, rescheduling meetings
+
+without telling Plaintiff, rescheduling meetings for times Burnside knew Plaintiff was unavailable,
+
+improperly cataloging Plaintiff’s time, and other similar persistent petty actions.
+
+    41. Defendant Burnside also removed Plaintiff from programs she had developed.
+
+
+                                                   5
+          Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 6 of 15
+
+
+
+
+   42. Defendant O’Connor did nothing to reobtain Plaintiff’s missing property and the PHI.
+
+   43. Defendant Burnside’s retaliatory harassment of Plaintiff continued throughout 2019.
+
+   44. In about June 2019 Plaintiff notified Defendant O’Connor that she was pregnant again.
+
+   45. Plaintiff informed O’Connor that she was not comfortable notifying Defendant Burnside
+
+about her pregnancy because Burnside was systematically discriminating against her, harassing
+
+her, and retaliating against her for her previous pregnancy.
+
+   46. Defendant O’Connor almost immediately notified Burnside of Plaintiff’s second
+
+pregnancy.
+
+   47. Defendant Burnside did not cover any of Plaintiff’s work during her pregnancy and did not
+
+notify anyone at CHOP that Plaintiff was on leave, so Plaintiff was forced to field and respond to
+
+emails and inquiries all throughout her second pregnancy.
+
+   48. Burnside’s deliberate failure and neglect to notify Plaintiff’s team of Plaintiff’s second
+
+pregnancy or her leave resulted in Plaintiff continually receiving calls and requests for work during
+
+her maternity leave causing Plaintiff tremendous stress and discomfort.
+
+   49. During this time in 2019 into 2020, Plaintiff was meeting one-on-one each month with
+
+Defendant O’Connor informing him that Defendant Burnside’s retaliatory and discriminatory
+
+actions were continuing and were unresolved.
+
+   50. Defendant repeatedly assured Plaintiff he was addressing the issue.
+
+   51. About the first half of 2020 Plaintiff began receiving letters from a law firm saying she had
+
+money in the Department of Treasury.
+
+   52. Due to some administrative issue, which was caused by Defendant Burnside changing
+
+Plaintiff’s time sheets, several of Plaintiff’s paychecks were diverted to an account at Treasury.
+
+   53. Defendants denied that Plaintiff’s checks were getting diverted.
+
+
+                                                 6
+            Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 7 of 15
+
+
+
+
+   54. Ultimately, in 2021 Defendant Burnside’s harassment continued with Burnside mis-
+
+scheduled Plaintiff’s meetings and vacation times and interfered with one of Plaintiff’s big
+
+projects.
+
+   55. Plaintiff reported again to HR that Burnside was continuing to harass her and retaliate
+
+against her.
+
+   56. Throughout this time nothing was done to address Plaintiff’s continual reports of
+
+discrimination, harassment, and retaliation.
+
+   57. Throughout 2022 Defendant Burnside continued her petty, harassing, discriminatory, and
+
+retaliatory behavior and Plaintiff continually reported same to HR and to Defendant O’Connor
+
+without any effect or result to resolve Defendants’ unlawful actions against Plaintiff.
+
+   58. In June 2023, Plaintiff further escalated the issue of her missing items to Human Resources.
+
+   59. Despite HR involvement, no one was able to locate the stolen files, personal property of
+
+Plaintiff, and CHOP equipment.
+
+   60. The files containing patient protected health information were also never recovered, an
+
+unethical violation of HIPAA standards.
+
+   61. From 2018 through 2023, Defendant Burnside would refuse to respond to Plaintiff’s emails
+
+about pertinent work information.
+
+   62. From 2018 through 2023, on more than one occasion, Defendant Burnside would ignore
+
+Plaintiff’s time sensitive emails which prohibited Plaintiff from completing her tasks in a timely
+
+and effective manner.
+
+   63. From 2018 through 2023, on more than one occasion, Defendant Burnside would remove
+
+Plaintiff from email chains for projects that Plaintiff was leading.
+
+
+
+
+                                                  7
+          Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 8 of 15
+
+
+
+
+   64. From 2018 through 2023, on more than one occasion, Defendant Burnside would
+
+interrogate Plaintiff about her childcare arrangements.
+
+   65. Defendant Burnside would not do the same for similarly situated male employees, such as
+
+Defendant O’Connor.
+
+   66. From 2018 through 2023 Plaintiff made complaints to Defendant O’Connor, who advised
+
+he was working with Defendant Burnside, but there was never any evidence that he addressed
+
+Plaintiff’s concerns.
+
+   67. Defendant Burnside’s discriminatory treatment of Plaintiff continued unabated and
+
+unaddressed by Defendant CHOP from 2018 through 2023 when Plaintiff was forced to resign due
+
+to the abject lack of action to alleviate the discrimination and harassment she endured.
+
+   68. Moreover, Defendant O’Connor increased Plaintiff’s workload by thirty (30%) percent
+
+without her knowledge.
+
+   69. In August 2023, Defendant O’Connor negotiated a new project with a physician that
+
+Plaintiff had previously worked with, but without Plaintiff’s prior knowledge.
+
+   70. Defendant O’Connor purposely excluded Plaintiff from these negotiations.
+
+   71. It is noted that throughout Plaintiff’s employment at Defendant CHOP, both Defendant
+
+Burnside and Defendant O’Connor consistently gave Plaintiff stellar performance evaluations.
+
+   72. Due to the discriminatory treatment Plaintiff faced, Plaintiff sought a new position at
+
+Defendant CHOP.
+
+   73. However, when Defendant O’Connor learned of this, he went to Human Resources and
+
+advised them to change Plaintiff’s status to “no hire’.
+
+
+
+
+                                                 8
+              Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 9 of 15
+
+
+
+
+                                                 COUNT I
+                              Pregnancy/Sex Discrimination in Violation of
+                   Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e, et seq.
+                                      (Plaintiff v. Defendant CHOP)
+
+        74.       Plaintiff incorporates by reference and realleges every allegation in their Complaint
+
+as if fully set forth herein at length.
+
+        75.       Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e-2 provides in relevant
+
+part:
+
+        “It shall be unlawful employment practice for an employer (1) to fail or refuse to hire
+        or discharge any individual, or otherwise to discriminate against any individual with
+        respect to his compensation, terms, conditions, or privileges of employment, because
+        of such individual’s race, color, religion, sex, or national origin; or (2) to limit,
+        segregate, or classify his employees or applicants for employment in any way which
+        would deprive or tend to deprive any individual of employment opportunities or
+        otherwise adversely affect his status as an employee, because of such individual’s race,
+        color, religion, sex, or national origin.”
+
+     76.          In 1978, Congress amended Title VII to prohibit discrimination based on pregnancy
+as follows:
+
+        The terms “because of sex” or “on the basis of sex” include, but are not limited to,
+        because of or on the basis of pregnancy, childbirth, or related medical conditions; and
+        women affected by pregnancy, childbirth, or related medical conditions shall be
+        treated the same for all employment-related purposes, including receipt of benefits
+        under fringe benefit programs, as other persons not so affected but similar in their
+        ability or inability to work, and nothing in section 2000e–2(h) of this title shall be
+        interpreted to permit otherwise.
+        42 U.S.C.A. § 2000e(k).
+
+        77.       At all times material, Plaintiff was a pregnant person entitled to the protections of
+
+Title VII.
+
+        78.       At all times material, Defendant CHOP had actual knowledge of Plaintiff’s
+
+pregnancy.
+
+        79.       Defendant CHOP took materially adverse action against Plaintiff by forcing her
+
+constructive discharge.
+                                                    9
+           Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 10 of 15
+
+
+
+
+     80.        Defendant CHOP’s discrimination against Plaintiff because of Plaintiff’s
+
+pregnancy status was intentional, willful, and made with reckless indifference to Plaintiff’s
+
+federally protected civil rights.
+
+     81.        Defendant CHOP’s decision to neglect to address the pervasive discrimination
+
+against Plaintiff because of Plaintiff’s pregnancy is an unlawful employment practice in violation
+
+of Title VII.
+
+     82.        As a direct and proximate result of Defendant CHOP’s constructive discharge of
+
+Plaintiff’s employment in violation of the Title VII, Plaintiff has suffered and continues to suffer
+
+emotional and financial harm.
+
+
+                                               COUNT II
+                             Hostile Work Environment in Violation of
+                 Title VII of the Civil Rights Act of 1964, 42 U.S.C. § 2000e, et seq
+                                    (Plaintiff v. Defendant CHOP)
+
+     83.        Plaintiff repeats, incorporates by reference, and realleges every allegation in this
+
+Complaint as if fully set forth herein at length.
+
+     84.        To state a claim for hostile work environment, a plaintiff must show: (1) she
+
+"suffered intentional discrimination" because of [her membership in a protected class]; (2) "the
+
+discrimination was severe or pervasive"; (3) "the discrimination detrimentally affected the
+
+plaintiff"; (4) "the discrimination would detrimentally affect a reasonable person in like
+
+circumstances"; and (5) "the existence of respondeat superior liability, meaning the employer is
+
+responsible." Fields v. Am. Airlines, Inc., 2023 U.S. Dist. LEXIS 177444, *84 citing Hargrave v.
+
+County of Atlantic, 262 F. Supp. 2d 393, 411 (D.N.J. 2003).
+
+     85.        Title VII also prohibits hostile work environment harassment, defined as unwanted
+
+comments or conduct regarding the Plaintiff’s protected characteristics that have the purpose or
+
+
+                                                    10
+          Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 11 of 15
+
+
+
+
+effect of unreasonably interfering with the terms and conditions of the Plaintiff’s employment.
+
+Harris v. Forklift Systems, 510 U.S. 17, 21 (1993).
+
+    86.        At all times material, Defendant CHOP’s intentional, willful discrimination based
+
+on Plaintiff’s sex was not welcomed by Plaintiff.
+
+    87.        At all times material, the intentional, discrimination based on Plaintiff’s sex by
+
+Defendant CHOP was so severe and/or pervasive that a reasonable person in Plaintiff’s position
+
+would find Plaintiff’s work environment to be hostile or abusive.
+
+    88.        At all times material, Plaintiff believed her work environment to be hostile or
+
+abusive as a result of Defendant CHOP’s discriminatory conduct on the basis of Plaintiff’s sex.
+
+    89.        The hostile work environment alleged herein was so extreme that it resulted in
+
+material changes to the terms and conditions of Plaintiff’s employment.
+
+    90.        Defendant CHOP provided a futile avenue for complaint.
+
+    91.        Defendant CHOP acted upon a continuing course of conduct.
+
+    92.        Defendant CHOP 's unlawful actions towards Plaintiff were intentional, willful, and
+
+made with reckless indifference to Plaintiff’s federally protected civil rights.
+
+    93.        As a result of Defendant CHOP 's violations of Title VII, Plaintiff has suffered
+
+damages, including, but not limited to past and future lost wages, pain and suffering,
+
+inconvenience, mental anguish, loss of enjoyment of life, humiliation, emotional distress,
+
+reputational harm, diminishment of career opportunities, and other harm, both tangible and
+
+intangible.
+
+                                            COUNT III
+        Pregnancy/Sex Discrimination/Hostile Work Environment under PHRA § 955
+                                    (against Defendant CHOP)
+   94. Plaintiff repeats and realleges every allegation made in the above paragraphs of this
+
+       complaint.
+
+                                                 11
+       Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 12 of 15
+
+
+
+
+95. The PHRA § 955 provides that it shall be an unlawful discriminatory practice: "(a) For any
+
+   employer because of the race, color, religious creed, ancestry, age, sex, national origin or
+
+   non-job related handicap or disability or the use of a guide or support animal because of
+
+   the blindness, deafness or physical handicap of any individual or independent contractor,
+
+   to refuse to hire or employ or contract with, or to bar or to discharge from employment
+
+   such individual or independent contractor, or to otherwise discriminate against such
+
+   individual or independent contractor with respect to compensation, hire, tenure, terms,
+
+   conditions or privileges of employment or contract, if the individual or independent
+
+   contractor is the best able and most competent to perform the services required."
+
+96. Defendant engaged in unlawful discriminatory practices by discriminating against Plaintiff
+
+   because of Plaintiff’s sex/pregnancy and/or disability.
+
+97. Plaintiff’s protected characteristics played a determinative factor in Defendant’s decisions.
+
+   Defendant cannot show any legitimate nondiscriminatory reasons for their employment
+
+   practices and any reasons proffered by Defendant for their actions against Plaintiff are
+
+   pretextual and can readily be disbelieved.
+
+98. Alternatively, Plaintiff’s protected status played a motivating part in Defendant’s decisions
+
+   even if other factors may also have motivated their actions against Plaintiff.
+
+99. Defendant acted with the intent to discriminate.
+
+100.       Defendant acted upon a continuing course of conduct.
+
+101.       Defendant acted with the intent to discriminate against Plaintiff because of her
+
+   sex/pregnancy. Defendant wrongfully constructively discharged Plaintiff, in violation of
+
+   the PHRA, solely or in part because of her sex/pregnancy.
+
+
+
+
+                                             12
+       Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 13 of 15
+
+
+
+
+102.         Plaintiff hereby makes a claim against Defendant under all applicable paragraphs
+
+   of the PHRA § 955 and seeks all damages available at law and equity.
+
+
+
+                                          COUNT IV
+                      Discrimination under PHRA – Aiding and Abetting
+                         (against individually named Defendants only)
+
+103.         Plaintiff repeats and realleges every allegation made in the above paragraphs of this
+
+   complaint. PHRA § 955(e) provides that it shall be an unlawful discriminatory practice:
+
+   "For any person, employer, employment agency, labor organization or employee, to aid,
+
+   abet, incite, compel or coerce the doing of any act declared by this section to be an unlawful
+
+   discriminatory practice, or to obstruct or prevent any person from complying with the
+
+   provisions of this act or any order issued thereunder, or to attempt, directly or indirectly, to
+
+   commit any act declared by this section to be an unlawful discriminatory practice."
+
+104.         Defendants engaged in an unlawful discriminatory practice in violation of PHRA §
+
+   955(e) by aiding, abetting, inciting, compelling and coercing the discriminatory conduct.
+
+
+
+                                           COUNT V
+                        Disability Discrimination in Violation of The
+                  Americans with Disabilities Act (“ADA”), 42 U.S.C. §12112
+                                (Plaintiff v. Defendant CHOP)
+
+105.         Plaintiff incorporates by reference and realleges every allegation in this
+
+       Complaint as if fully set forth herein at length.
+
+106.         The ADA prohibits discrimination on the basis of a disability, and provides:
+
+       (a) General rule
+       No covered entity shall discriminate against a qualified individual on the basis of
+       disability in regard to job application procedures, the hiring, advancement, or
+       discharge of employees, employee compensation, job training, and other terms,
+       conditions, and privileges of employment.
+
+                                                13
+   Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 14 of 15
+
+
+
+
+       42 U.S.C. § 12112(a).
+
+107.        At all times material, Defendant CHOP was a covered entity subject to the
+
+   requirements of the ADA.
+
+108.        At all times material, Plaintiff was a qualified individual with a disability entitled
+
+   to the protections of the ADA.
+
+109.        At all times material, Defendant CHOP had actual knowledge of Plaintiff’s status
+
+   as a qualified individual with a disability entitled to the protections of the ADA.
+
+110.        Defendant CHOP terminated Plaintiff’s employment on July 26, 2023.
+
+111.        At all times material, Plaintiff’s disability status was the motivating and/or
+
+   determinative factor in Defendant CHOP’s decision to terminate Plaintiff employment.
+
+112.        Defendant CHOP’s decision to terminate Plaintiff because of Plaintiff’s disability
+
+   status was intentional, willful, and made with reckless indifference to Plaintiff’s federally
+
+   protected civil rights.
+
+113.        Defendant CHOP’s decision to constructively terminate Plaintiff’s employment
+
+   because of Plaintiff’s disability is an unlawful employment practice in violation of the
+
+   ADA.
+
+114.        As a direct and proximate result of Defendant CHOP’s unlawful constructive
+
+   termination of Plaintiff’s employment in violation of ADA, Plaintiff has suffered and
+
+   continues to suffer emotional and financial harm.
+
+
+
+                                     JURY DEMAND
+
+   Plaintiff demands a trial by jury as to all issues so triable.
+
+                                 PRAYER FOR RELIEF
+
+                                             14
+        Case 2:24-cv-04388-CFK Document 1 Filed 08/21/24 Page 15 of 15
+
+
+
+
+       Plaintiff repeats, incorporates by reference, and realleges every allegation in this
+
+       Complaint as if fully set forth herein at length.
+
+
+
+       WHEREFORE, Plaintiff demands judgment against the named Defendants, in an amount
+
+       to be determined at the time of trial plus interest, including but not limited to all emotional
+
+       distress and lost wages, punitive damages, liquidated damages, statutory damages,
+
+       attorneys’ fees, costs, interest and disbursements of action, and for all other relief available
+
+       under the law or at equity.
+
+
+
+                                                      Respectfully submitted,
+
+
+
+Date: August 21, 2024                                 DEREK SMITH LAW GROUP, PLLC
+
+                                                      By: /s/ Timothy J. Prol, Esq.__
+                                                      Timothy J. Prol, Esq.
+                                                      1628 Pine Street
+                                                      Philadelphia, PA 19103
+                                                      (267) 857-0834
+                                                      tim@dereksmithlaw.com
+                                                      Attorneys for Plaintiff, Megan Hale
+
+
+
+
+                                                 15
+

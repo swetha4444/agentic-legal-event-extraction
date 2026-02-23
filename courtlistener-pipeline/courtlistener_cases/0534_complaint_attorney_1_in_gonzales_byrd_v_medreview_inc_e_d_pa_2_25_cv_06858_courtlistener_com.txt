@@ -1,0 +1,856 @@
+Source URL: https://www.courtlistener.com/docket/72000175/1/gonzales-byrd-v-medreview-inc/
+Title: Complaint (Attorney) – #1 in GONZALES-BYRD v. MEDREVIEW, INC. (E.D. Pa., 2:25-cv-06858) – CourtListener.com
+
+JS 44 (Rev. 10/20)                Case 2:25-cv-06858-JHS
+                                                      CIVILDocument
+                                                            COVER1SHEET
+                                                                    Filed 12/05/25                                                                       Page 1 of 19
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+          Kathleen Gonzales-Byrd                                                                               MedReview, Inc.
+    (b) County of Residence of First Listed Plaintiff                  Chester County                          County of Residence of First Listed Defendant              New York, NY
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Caren N. Gurmankin,, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102, 215-545-7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                    625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                   of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability               690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                           400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                       PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                       820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                     830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                     835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                            New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                             840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                             LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                     710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                    Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                  720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                     Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                 740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability               751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                   790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                      791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                      Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                    870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                 or Defendant)                 896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                              871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                       IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment              Other:                              462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                465 Other Immigration                                                  950 Constitutionality of
+                                             Other                   550 Civil Rights                        Actions                                                                State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e, et seq.; 43 P.S. §951, et seq.
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff was discriminated against because of her sex.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                            in excess of $75,000                           JURY DEMAND:                X Yes             No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+12/05/2025
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+10/2024                       Case 2:25-cv-06858-JHS                       Document 1                Filed 12/05/25             Page 2 of 19
+                                                           UNITED STATES DISTRICT COURT
+                                                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+                                                  Downington, PA 19335
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+              1.   Does this case involve property included in an earlier numbered suit?                                                                Yes
+
+              2.   Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                Yes
+
+              3.   Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                   Yes
+
+              4.   Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                 Yes
+                   individual?
+
+              5.   Is this case related to an earlier numbered suit even though none of the above categories apply?                                     Yes
+                   If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is / x is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+              A.   Federal Question Cases:                                                              B. Diversity Jurisdiction Cases:
+
+                   1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                   2.  FELA                                                                   2. Airplane Personal Injury
+                   3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                   4.  Antitrust                                                              4. Marine Personal Injury
+                   5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                   6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                   7.  Copyright/Trademark                                                    7. Products Liability
+                   8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                   9.  Labor-Management Relations                                                _____________________
+              x    10. Civil Rights
+                   11. Habeas Corpus
+                   12. Securities Cases
+                   13. Social Security Review Cases
+                   14. Qui Tam Cases
+                   15. Cases Seeking Systemic Relief *see certification below*
+                   16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does / x does not have implications
+      beyond the parties before the court and       does /  x  does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                    ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+
+          X     Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                   None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+           Case 2:25-cv-06858-JHS       Document 1        Filed 12/05/25      Page 3 of 19
+                       IN THE UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                    CASE MANAGEMENT TRACK DESIGNATION FORM
+ Kathleen Gonzales-Byrd                           :                          CIVIL ACTION
+                                                  :
+                       v.                         :
+                                                  :
+MedReview Inc.                                    :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+12/05/2025                                                          Plaintiff, Kathleen Gonzales-Byrd
+Date                               Attorney-at-law                       Attorney for
+ 215-545-7676                   215-405-2900                          gurmankin@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+      Case 2:25-cv-06858-JHS          Document 1     Filed 12/05/25     Page 4 of 19
+
+
+
+
+               IN THE UNITED STATES DISTRICT COURT FOR
+                THE EASTERN DISTRICT OF PENNSYLVANIA
+________________________________
+                                      :
+KATHLEEN GONZALES-BYRD                :
+Downingtown, PA 19335                 :
+                                      : CIVIL ACTION NO.
+                           Plaintiff, :
+                                      :
+       v.                             :
+                                      :
+MEDREVIEW, INC.                       :
+1 Seaport Plaza                       :
+199 Water Street, 27th Floor          :
+New York, NY 10038:                   :
+                                      : JURY TRIAL DEMANDED
+                                      :
+                           Defendant. :
+________________________________      :
+
+                                       COMPLAINT
+
+I.      INTRODUCTION
+
+        Plaintiff, Kathleen Gonzales-Byrd, brings this action against her former employer,
+
+MedReview, Inc. (“Defendant”).
+
+        Defendant’s sex discriminatory conduct towards Plaintiff was in violation of Title
+
+VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq. (“Title VII”),
+
+the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seq. (“PHRA”),
+
+and the New York State Human Right Law, N.Y. Exec. Law § 290 et seq. (“NYSHRL”).
+
+II.     PARTIES
+
+        1.     Plaintiff, Kathleen Gonzales-Byrd, is an individual and a citizen of the
+
+Commonwealth of Pennsylvania.
+
+        2.     Plaintiff is female.
+
+        3.     Defendant, MedReview, Inc., is incorporated in New York, and has a
+       Case 2:25-cv-06858-JHS       Document 1       Filed 12/05/25      Page 5 of 19
+
+
+
+
+principal place of business at 1 Seaport Plaza, 199 Water Street, 27th Floor, New York,
+
+NY 10038.
+
+         4.    At all times material hereto, Defendant employed more than fifteen (15)
+
+employees.
+
+         5.    At all times material hereto, Defendant acted by and through its authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendant and in furtherance of Defendant’s business.
+
+         6.    At all times material hereto, Defendant acted as an employer within the
+
+meaning of the statutes which form the basis of this matter.
+
+         7.    At all times material hereto, Plaintiff was an employee of Defendant
+
+within the meaning of the statutes which form the basis of this matter
+
+III.     JURISDICTION AND VENUE
+
+         8.    The causes of action which form the basis of this matter arise under Title
+
+VII, the FMLA, the PHRA, and the NYSHRL.
+
+         9.    The District Court has jurisdiction over Count I (Title VII) pursuant to 42
+
+U.S.C. § 2000e-5 and 28 U.S.C. § 1331.
+
+         10.   The District Court has jurisdiction over all counts pursuant to 28 U.S.C.
+
+§1332 since the amount in controversy in the present action exceeds the sum or value of
+
+seventy five thousand dollars ($75,000), exclusive of interests and costs, and there exists
+
+complete diversity of citizenship, as Plaintiff is a citizen of the Commonwealth of
+
+Pennsylvania, and Defendant is not a not citizen of the Commonwealth of Pennsylvania.
+
+         11.   The District Court has supplemental jurisdiction over Count II (PHRA)
+
+and Count III (NYSHRL) pursuant to 28 U.S.C. § 1367.
+
+
+
+
+                                             2
+      Case 2:25-cv-06858-JHS           Document 1       Filed 12/05/25       Page 6 of 19
+
+
+
+
+        12.       Venue is proper in the District Court under 28 U.S.C. §1391(b) and 42
+
+U.S.C. § 2000(e)-5(f).
+
+        13.       On or about September 30, 2024, Plaintiff filed a Charge of
+
+Discrimination with the EEOC, complaining of acts of discrimination alleged herein.
+
+This Complaint was cross-filed with the Pennsylvania Human Relations Commission
+
+(“EEOC”). Attached hereto, incorporated herein, and marked as Exhibit “1” is a true and
+
+correct copy of the EEOC Charge of Discrimination (with personal identifying
+
+information redacted).
+
+        14.       On or about September 8, 2025, the EEOC issued to Plaintiff a Notice of
+
+Right to Sue for her Complaint of Discrimination. Attached hereto, incorporated herein,
+
+and marked as Exhibit “2” is a true and correct copy of the Notice of Right to Sue (with
+
+personal identifying information redacted).
+
+        15.       Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.     FACTUAL ALLEGATIONS
+
+        16.       Plaintiff began working at Defendant on or about February 25, 2019 as
+
+Director, Account Management.
+
+        17.       In or around mid-2021, Defendant promoted Plaintiff into the position of
+
+Chief of Staff.
+
+        18.       In around mid-2023, Defendant promoted Plaintiff into the position of
+
+Chief Strategy Officer.
+
+        19.       Plaintiff reported to Spencer Young (male), Chief Executive Officer.
+
+        20.       At all times material hereto, Plaintiff consistently demonstrated excellent
+
+
+
+
+                                                3
+       Case 2:25-cv-06858-JHS        Document 1        Filed 12/05/25      Page 7 of 19
+
+
+
+
+performance throughout her employment with Defendant. By way of example only,
+
+Defendant never issued Plaintiff any progressive discipline.
+
+         21.     Defendant’s demographics evidenced a bias against females. By way of
+
+example only, during Plaintiff’s employment, she was either the only woman or one of
+
+only two women on Defendant’s Executive Team.
+
+         22.     According to the information on Defendant’s website, there is currently
+
+only one woman on the Executive Team.
+
+         23.     The single woman who is currently on Defendant’s Executive Team is the
+
+only member of the Executive Team who does not hold a Senior Vice President or
+
+Officer title.
+
+         24.     Defendant’s conduct, including that which is set forth herein, evidenced a
+
+bias against females.
+
+         25.     Young said that, when he had to deal with difficult people, he would just
+
+“grab ‘em by the pussy”.
+
+         26.      Plaintiff said in a meeting that, generally leadership positions at
+
+companies were heavily skewed in favor of white men.
+
+         27.     When Plaintiff made her comment about leadership positions at
+
+companies being heavily skewed in favor of white men, Himanshu Shah (male), Chief
+
+Financial Officer, was dismissive of her and her comments about the same.
+
+         28.     Shah ignored Plaintiff’s requests for information that she needed to do her
+
+job.
+
+         29.     Shah excluded Plaintiff from a project on which she was working and for
+
+which she had responsibility.
+
+
+
+
+                                              4
+    Case 2:25-cv-06858-JHS           Document 1       Filed 12/05/25     Page 8 of 19
+
+
+
+
+       30.      Ted Pitynski (male), Chief Commercial Officer, asked Plaintiff’s
+
+husband, who was with her at a work event, whether he “let” Plaintiff buy a particular
+
+item that she said that she had purchased and which they were discussing.
+
+       31.      Plaintiff was not invited to attend board meetings, despite Young’s
+
+promise that she would be invited.
+
+       32.      To Plaintiff’s information and belief, male colleagues on the Executive
+
+Team were invited to attend board meetings.
+
+       33.      To Plaintiff’s information and belief, a male employee who was hired into
+
+the position of Vice President was given a raise just a few months after he started that
+
+placed him at a higher salary level than Plaintiff.
+
+       34.      Defendant increased Plaintiff’s salary in around the end of
+
+2023. Defendant increased Plaintiff’s salary at the end of 2023 only after she requested
+
+the same.
+
+       35.      Defendant did not increase Plaintiff’s salary when she was promoted to
+
+Chief of Staff and Chief Strategy despite her increased and expanded responsibilities.
+
+       36.      When Plaintiff was placed into the position of Chief Strategy Officer, in
+
+around mid-2023, Young removed from her a portion of her responsibilities regarding
+
+data mining that she had developed and assigned them to a male employee, Kevin
+
+McDonald (male), Chief Operating Officer (“COO”).
+
+       37.      No one at Defendant discussed the COO position before Defendant hired
+
+McDonald to fill the position in around mid-2023.
+
+       38.      To Plaintiff’s information and belief, Defendant did not post the position
+
+into which McDonald was hired.
+
+
+
+
+                                              5
+    Case 2:25-cv-06858-JHS            Document 1        Filed 12/05/25    Page 9 of 19
+
+
+
+
+         39.    Plaintiff was qualified for the COO position into which McDonald was
+
+hired.
+
+         40.    On or about August 9, 2024, Young told Plaintiff that Defendant was
+
+doing a reorganization and that, as a result of the same, her position was no longer needed
+
+and her employment was terminated effective immediately.
+
+         41.    To Plaintiff’s information and belief, positions were open at around the
+
+time of her termination, including that of Senior Director of Data Mining and Vice
+
+President, Operations.
+
+         42.    No one at Defendant talked to Plaintiff about the positions of Senior
+
+Director of Data Mining and Vice President, Operations, or any other positions, including
+
+whether or not she was considered for the same.
+
+         43.    To Plaintiff’s information and belief, Defendant hired males to fill the
+
+positions of Senior Director of Data Mining and Vice President, Operations.
+
+         44.    Defendant did not provide a legitimate, non-discriminatory reason for
+
+terminating Plaintiff’s employment.
+
+         45.    Defendant did not provide a legitimate, non-discriminatory reason for
+
+failing to select Plaintiff for any open position(s).
+
+         46.    Plaintiff’s sex, was a motivating and/or determinative factor in
+
+Defendants’ discriminatory treatment of Plaintiff, including terminating her employment
+
+and failing to select her for open positions, including that of COO, Senior Director of
+
+Data Mining, and Vice President, Operations.
+
+         47.    As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendants, Plaintiff has in the past incurred, and may in the future incur, a
+
+
+
+
+                                               6
+   Case 2:25-cv-06858-JHS             Document 1       Filed 12/05/25      Page 10 of 19
+
+
+
+
+loss of earnings and/or earning capacity, loss of benefits, pain and suffering,
+
+embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of life’s
+
+pleasures, the full extent of which is not known at this time.
+
+        48.       Defendant acted with malice, reckless indifference, and/or deliberate
+
+indifference to Plaintiff’s protected rights.
+
+        49.       Plaintiff’s sex was a motivating and/or determinative factor in Defendant’s
+
+discriminatory treatment of Plaintiff, including terminating her employment.
+
+        50.       As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendant, Plaintiff has in the past incurred, and may in the future incur, a
+
+loss of earnings and/or earning capacity, loss of benefits, pain and suffering,
+
+embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of life’s
+
+pleasures, the full extent of which is not known at this time.
+
+        51.       Defendant acted with malice, reckless indifference, and/or deliberate
+
+indifference to Plaintiff’s protected rights.
+
+                                     COUNT I - Title VII
+
+        52.       Plaintiff incorporates herein by reference paragraphs 1 through 51 above,
+
+as if set forth herein in their entirety.
+
+        53.    By committing the foregoing acts of discrimination against
+
+Plaintiff, Defendant has violated Title VII.
+
+        54.       Said violations were done with malice and/or reckless indifference.
+
+        55.       As a direct and proximate result of Defendant’s violation of Title VII,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+fees and costs.
+
+
+
+
+                                                7
+   Case 2:25-cv-06858-JHS             Document 1      Filed 12/05/25       Page 11 of 19
+
+
+
+
+        56.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory acts unless and until this
+
+Court grants the relief requested herein.
+
+        57.     No previous application has been made for the relief requested herein.
+
+                                      COUNT II – PHRA
+
+        58.    Plaintiff incorporates herein by reference paragraphs 1 through 57 above,
+
+as if set forth herein in their entirety.
+
+        59.    Defendant, by the above improper and discriminatory acts, have violated
+
+the PHRA.
+
+        60.    Said violations were intentional and willful.
+
+        61.    As a direct and proximate result of Defendant’s violation of the
+
+PHRA, Plaintiff has sustained the injuries, damages, and losses set forth herein and has
+
+incurred attorneys’ fees and costs.
+
+        62.    Plaintiff is now suffering and will continue to suffer irreparable injuries
+
+and monetary damages as a result of Defendant’s discriminatory acts unless and until the
+
+Court grants the relief requested herein.
+
+        63.   No previous application has been made for the relief requested herein.
+
+                                    COUNT III – NYSHRL
+
+        64.     Plaintiff incorporates herein by reference paragraphs 1 through 63 above,
+
+as if set forth herein in their entirety.
+
+        65.     Defendant, by the above improper and discriminatory acts, has violated
+
+the NYSHRL.
+
+
+
+
+                                              8
+   Case 2:25-cv-06858-JHS            Document 1       Filed 12/05/25      Page 12 of 19
+
+
+
+
+        66.     Defendant demonstrated malice, oppression, or fraud, or willful/wanton
+
+disregard for Plaintiff’s rights.
+
+        67.     As a direct and proximate result of Defendant’s violation of the PFPO,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+
+attorney’s fees and costs.
+
+        68.     Plaintiff is now suffering and will continue to suffer irreparable injuries
+
+and monetary damages as a result of Defendant’s discriminatory acts unless and until the
+
+Court grants the relief requested herein.
+
+        69.     No previous application has been made for the relief requested herein.
+
+                                            RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in
+
+connection with Defendant’s improper conduct, and specifically prays that the Court
+
+grant the following relief to the Plaintiff by:
+
+        (a)     declaring the acts and practices complained of herein to be
+
+in violation of Title VII;
+
+        (b)     declaring the acts and practices complained of herein to be
+
+in violation of the PHRA;
+
+        (c)     declaring the acts and practices complained of herein to be in violation of
+
+the NYSHRL;
+
+        (d)     enjoining and permanently restraining the violations alleged herein;
+
+        (e)     entering judgment against the Defendant and in favor of the Plaintiff in an
+
+amount to be determined;
+
+
+
+
+                                                  9
+   Case 2:25-cv-06858-JHS           Document 1       Filed 12/05/25      Page 13 of 19
+
+
+
+
+       (f)     awarding compensatory damages to make the Plaintiff whole for all lost
+
+earnings, earning capacity, and benefits, past and future, which Plaintiff has suffered or
+
+may suffer as a result of Defendant’s improper conduct;
+
+       (g)     awarding compensatory damages to Plaintiff for past and future pain and
+
+suffering, emotional upset, mental anguish, humiliation, and loss of life’s pleasures,
+
+which Plaintiff has suffered or may suffer as a result of Defendant’s improper conduct;
+
+       (h)     awarding punitive damages to Plaintiff under Title VII;
+
+       (i)     awarding Plaintiff such other damages as are appropriate under Title VII,
+
+the PHRA, and the NYSHRL;
+
+       (j)     awarding Plaintiff the costs of suit, expert fees, and other disbursements,
+
+and reasonable attorneys’ fees; and,
+
+       (k)     granting such other and further relief as this Court may deem just, proper,
+
+or equitable including other equitable and injunctive relief providing restitution for past
+
+violations and preventing future violations.
+
+
+
+                                               CONSOLE MATTIACCI LAW, LLC
+
+
+
+Dated: December 5, 2025                 BY: ____________________________
+                                            Caren N. Gurmankin (205900)
+                                            1525 Locust Street, 9th Floor
+                                            Philadelphia, PA 19102
+                                            (215) 545-7676
+
+                                               Attorney for Plaintiff,
+                                               Kathleen Gonzales-Byrd
+
+
+
+
+                                               10
+Case 2:25-cv-06858-JHS   Document 1   Filed 12/05/25   Page 14 of 19
+
+
+
+
+                     Exhibit 1
+Case 2:25-cv-06858-JHS   Document 1   Filed 12/05/25   Page 15 of 19
+     Case 2:25-cv-06858-JHS            Document 1         Filed 12/05/25        Page 16 of 19
+
+
+                                 EEOC Charge of Discrimination
+                                   Initials of Charging Party
+
+
+2.   Harm Summary
+
+     I have been discriminated against because of my sex (female). Evidence of the sex
+     discriminatory conduct to which I have been subjected includes, but is not limited to, the following.
+
+             (a) During my employment, I was either the only woman or one of only two women on
+                 the Executive Team.
+
+             (b) I have heard high-level male employees at Respondent engage in degrading and
+                 hostile conduct towards women including, but not limited to:
+
+                 1.
+
+
+                 2. When I said in an Executive Team meeting that, generally, leadership positions
+                    at companies were heavily skewed in favor of white men and that diversity
+                    programs that helped, among others, talent women, were valuable initiatives,
+                    Himanshu Shah (male), Chief Financial Officer, was dismissive of me and my
+                    comments about the same;
+
+                 3. Shah ignored my requests for information that I needed to do my job and
+                    excluded me from a project on which I was working and for which I was
+                    responsible;
+
+                 4. I was aware that at least one other female employee had complained about
+
+
+                 5. Ted Pitynski (male), Chief Commercial Officer, asked my husband, who was with
+
+                      purchased and that we were discussing.
+
+             (c) Although Young promised me that I would be invited to attend board meetings, I was
+                 not invited to do so. I was aware that male colleagues on the Executive Team were
+                 invited to attend board meetings.
+
+             (d) To my knowledge, a male employee who was hired into the position of Vice President
+                 was given a raise in or around January 2024, just a few months after he started, that
+                 put him at a higher salary than me.
+
+             (e) The first time that I received a salary increase after I started working at Respondent
+                 was around the end of 2023 and only after I specifically requested the same.
+                 Respondent did not increase my compensation when I was promoted to Chief of Staff
+                 or Chief Strategy Officer.
+
+             (f) When I was promoted to Chief Strategy Officer in mid-2023, Young removed from me
+                 a portion of my responsibilities regarding data mining that I had developed and
+
+                 McDonald did not have my level of experience with data mining, including at
+                 Respondent.
+
+             (g) Before Respondent hired McDonald into the COO position in around May 2023, no
+                 one discussed the position with me, asked me if I was interested, or told me that I
+                 was being considered for the position.
+
+             (h) I was qualified for, and would have been interested in, the COO position into which
+                 McDonald was hired.
+
+                                                  2
+     Case 2:25-cv-06858-JHS            Document 1        Filed 12/05/25        Page 17 of 19
+
+
+                                 EEOC Charge of Discrimination
+                                   Initials of Charging Party
+
+
+
+             (i) On or about August 9, 2024, Young told me that Respondent was doing a
+                 reorganization.
+
+             (j) Young told me that, as a result of the reorganization, my position as Chief Strategy
+                 Officer was no longer needed and that my employment was terminated effective
+                 immediately.
+
+             (k) Prior to my termination, I had not heard any discussion of a reorganization,
+                 realignment, or anything else that would result in the termination of employees or the
+                 elimination of positions.
+
+             (l) To my information and belief, at least two positions were opened around the time of
+                 my termination, Senior Director of Data Mining and Vice President, Operations.
+
+             (m) No one at Respondent talked to me about those positions or any other open position
+                 at the company that would allow me to remain employed.
+
+B.   1.      Respondent s Stated Reasons
+
+     Respondent has failed to provide any legitimate, nondiscriminatory reason for discriminating
+     against me on the basis of my sex, including terminating my employment and failing to place me
+     into an open position.
+
+D.   1.      Statutes and Bases for Allegations
+
+     I believe that Respondent has discriminated against me based on my sex in violation of Title VII
+     of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq.
+     Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seq.                and the New
+                                                                             , as set forth herein.
+
+
+
+
+                                                  3
+Case 2:25-cv-06858-JHS   Document 1   Filed 12/05/25   Page 18 of 19
+
+
+
+
+                     Exhibit 2
+Case 2:25-cv-06858-JHS   Document 1   Filed 12/05/25   Page 19 of 19
+

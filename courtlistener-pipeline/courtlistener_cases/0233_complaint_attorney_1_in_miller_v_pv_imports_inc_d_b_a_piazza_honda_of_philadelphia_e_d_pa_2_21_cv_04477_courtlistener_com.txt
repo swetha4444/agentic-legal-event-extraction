@@ -1,0 +1,1234 @@
+Source URL: https://www.courtlistener.com/docket/60640955/1/miller-v-pv-imports-inc-dba-piazza-honda-of-philadelphia/
+Title: Complaint (Attorney) – #1 in MILLER v. PV IMPORTS, INC. D/B/A PIAZZA HONDA OF PHILADELPHIA (E.D. Pa., 2:21-cv-04477) – CourtListener.com
+
+JS 44 (Rev. 04/21)               Case 2:21-cv-04477-NIQA
+                                                    CIVIL Document 1 Filed 10/12/21 Page 1 of 25
+                                                          COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                        DEFENDANTS
+
+
+   (b) County of Residence of First Listed Plaintiff                                                     County of Residence of First Listed Defendant
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                         NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                    THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)                                               Attorneys (If Known)
+
+
+          Fernando I. Rivera, Esq., Console Mattiacci Law,
+          1525 Locust Street, 9th Fl., Philadelphia, PA 19102 Ph: 215-545-7676
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                     III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                      (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                     of Business In This State
+
+  2    U.S. Government                 4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                  Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                   Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                    365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product                 Product Liability        690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability                  367 Health Care/                                                     INTELLECTUAL                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                        Personal Injury                                                820 Copyrights                    430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’              Product Liability                                              830 Patent                        450 Commerce
+  152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                              835 Patent - Abbreviated          460 Deportation
+       Student Loans                 340 Marine                          Injury Product                                                     New Drug Application          470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product                  Liability                                                      840 Trademark                         Corrupt Organizations
+  153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                       LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud               710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending              Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability           380 Other Personal            720 Labor/Management                  SOCIAL SECURITY                      Protection Act
+  195 Contract Product Liability     360 Other Personal                  Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                      385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -               Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                      463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment                  510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                        Sentence                                                            or Defendant)                896 Arbitration
+  245 Tort Product Liability             Accommodations              530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment                  Other:                        462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -      540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                         Other                       550 Civil Rights                  Actions                                                                State Statutes
+                                     448 Education                   555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+    Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                            (specify)                 Transfer                          Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+VI. CAUSE OF ACTION Brief description of cause:
+
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                                  In excess of $75,000                     JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                                DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+         10/12/2021
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                            Case 2:21-cv-04477-NIQA   Document
+                                               UNITED STATES     1 Filed
+                                                             DISTRICT    10/12/21 Page 2 of 25
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+Address of Plaintiff: ______________________________________________________________________________________________
+
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                   Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                       Yes                    No
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                      Yes                    No
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                         Yes                    No
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                      Yes                    No
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /      is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+DATE: __________________________________                     __________________________________________                     ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.   Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.   Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.   Assault, Defamation
+       4.     Antitrust                                                                          4.   Marine Personal Injury
+       5.     Patent                                                                             5.   Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.   Other Personal Injury (Please specify): _____________________
+       7.     Civil Rights                                                                       7.   Products Liability
+       8.     Habeas Corpus                                                                      8.   Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.   All other Diversity Cases
+       10.    Social Security Review Cases                                                            (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                          ARBITRATION CERTIFICATION
+                                                  (
+
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+DATE: __________________________________                     __________________________________________                     ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                  Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 3 of 25
+                             IN THE UNITED STATES DISTRICT COURT
+                          FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                          CASE MANAGEMENT TRACK DESIGNATION FORM
+DAVID MILLER                                           :                          CIVIL ACTION
+                                                       :
+                            v.                         :
+PV IMPORTS, INC. d/b/a PIAZZA HONDA OF                 :
+                                                       :                         NO.
+PHILADELPHIA, et al.
+    In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+    plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+    filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+    side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+    designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+    the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+    to which that defendant believes the case should be assigned.
+
+     SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+     (a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                            ( )
+
+     (b) Social Security – Cases requesting review of a decision of the Secretary of Health
+         and Human Services denying plaintiff Social Security Benefits.                                  ( )
+
+     (c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.      ( )
+
+     (d) Asbestos – Cases involving claims for personal injury or property damage from
+         exposure to asbestos.                                                                           ( )
+
+     (e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+         commonly referred to as complex and that need special or intense management by
+         the court. (See reverse side of this form for a detailed explanation of special
+         management cases.)                                                                              ( )
+
+     (f) Standard Management – Cases that do not fall into any one of the other tracks.                  ( X)
+
+
+     10/12/2021                                                         Plaintiff, David Miller
+     Date                               Attorney-at-law                      Attorney for
+      215-545-7676                   215-689-4137                          rivera@consolelaw.com
+
+     Telephone                           FAX Number                          E-Mail Address
+
+
+     (Civ. 660) 10/02
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 4 of 25
+
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT FOR
+                    THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DAVID MILLER
+Woodbury, NJ 08096
+
+                               Plaintiff,
+
+                     v.                         CIVIL ACTION NO.
+
+PV IMPORTS, INC. d/b/a PIAZZA
+HONDA OF PHILADELPHIA
+6935 Essington Avenue
+Philadelphia, PA 19153
+
+                    and,
+
+PIAZZA AUTO GROUP
+6935 Essington Avenue
+Philadelphia, PA 19153
+
+                             Defendants.        JURY TRIAL DEMANDED
+
+                                            COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, David Miller (“Plaintiff”), brings this action against Defendants, PV Imports,
+
+Inc. d/b/a Piazza Honda of Philadelphia, and Piazza Auto Group (collectively, “Defendants”), for
+
+unlawful age and disability discrimination and retaliation in violation of the Age Discrimination
+
+in Employment Act, as amended, 29 U.S.C. § 621, et seq. (“ADEA”), the Americans with
+
+Disabilities Act, as amended, 42 U.S.C. § 12101, et seq. (“ADA”), the Pennsylvania Human
+
+Relations Act, as amended, 43 P.S. § 951, et seq. (“PHRA”), and the Philadelphia Fair Practices
+
+Ordinance, Phila. Code § 9-1101, et seq. (“PFPO”). Plaintiff also asserts a claim of retaliation
+
+against Defendant in violation of the Family and Medical Leave Act, 29 U.S.C. § 2601, et seq.
+
+(“FMLA”). Plaintiff seeks damages, including economic loss, compensatory, liquidated
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 5 of 25
+
+
+
+
+damages, punitive damages, attorneys’ fees and costs, and all other relief that this Court deems
+
+appropriate.
+
+II.    PARTIES
+
+       1.       Plaintiff is an individual and a citizen of New Jersey.
+
+       2.       Plaintiff was 65 years of age at the time of his termination from Defendants.
+
+       3.       At all times material hereto, Plaintiff had a qualifying disability under the ADA,
+
+the PHRA, and the PFPO, in that he suffered from Aero Coccus Urinae (a rare bacterial
+
+infection), which substantially limited one (1) or more of his major life activities, and/or had a
+
+record of impairment, and/or was regarded as having such impairment.
+
+       4.       Defendant, PV Imports, Inc. d/b/a Piazza Honda of Philadelphia, is a corporation,
+
+organized and existing under the laws of the Commonwealth of Pennsylvania, with a principal
+
+place of business located in Philadelphia, PA.
+
+       5.       Defendant, Piazza Auto Group, is a corporation, organized and existing under the
+
+laws of the Commonwealth of Pennsylvania, with a principal place of business located in
+
+Philadelphia, PA.
+
+       6.       At all times material hereto, Defendants engaged in an industry affecting
+
+interstate commerce that regularly does business in the Commonwealth of Pennsylvania and with
+
+entities and individuals in the Commonwealth of Pennsylvania and in the City of Philadelphia.
+
+Defendants also employ residents of the Commonwealth of Pennsylvania and the City of
+
+Philadelphia.
+
+       7.       At all times material hereto, Plaintiff was employed by Defendants to work in
+
+Philadelphia, PA.
+
+
+
+
+                                                  2
+          Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 6 of 25
+
+
+
+
+       8.      At all times material hereto, Defendants employed 4 or more individuals in the
+
+Commonwealth of Pennsylvania.
+
+       9.      At all times material hereto, Defendants employed more than fifty (50)
+
+individuals within a seventy-five (75) mile radius of Plaintiff’s primary reporting location.
+
+       10.     Plaintiff was employed for at least twelve hundred and fifty (1,250) hours of
+
+service during his last twelve (12) months period of employment and at the time he last went on
+
+an FMLA leave.
+
+       11.     At all times material hereto, Defendants acted by and through their authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendants and in furtherance of Defendants’ business.
+
+       12.     At all times material hereto, Defendant acted as an “Employer” within the
+
+meaning of the statutes that form the basis of this matter.
+
+       13.     At all times material hereto, Plaintiff was an “Employee” of Defendant within the
+
+meaning of the statutes that form the basis of this matter.
+
+III.   JURISDICTION AND VENUE
+
+       14.     The causes of action that form the basis of this matter arise under the ADEA, the
+
+ADA, the PHRA, the PFPO, and the FMLA.
+
+       15.     The District Court has jurisdiction over Count I (ADEA) pursuant to 28 U.S.C.
+
+§ 1331.
+
+       16.     The District Court has jurisdiction over Count II (ADA) pursuant to 28 U.S.C.
+
+§ 1331.
+
+       17.     The District Court has jurisdiction over Count III (PHRA) pursuant to 28 U.S.C.
+
+§ 1367.
+
+
+
+                                                 3
+           Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 7 of 25
+
+
+
+
+        18.     The District Court has jurisdiction over Count IV (PFPO) pursuant to 28 U.S.C.
+
+§ 1367.
+
+        19.     The District Court has jurisdiction over Count V (FMLA) pursuant to 28 U.S.C.
+
+§ 1331.
+
+        20.     The District Court has jurisdiction over this action pursuant to 28 U.S.C.
+
+§ 1332(a), in that the Plaintiff and Defendants are of diverse citizenship and the amount in
+
+controversy exceeds $75,000, exclusive of interest and costs.
+
+          21.   Venue is proper in this District Court pursuant to 28 U.S.C. § 1391(b), because a
+
+substantial part of the events or omissions giving rise to the claims occurred within this District.
+
+        22.     On or about November 17, 2020, Plaintiff filed a Complaint with the
+
+Pennsylvania Human Relations Commission (“PHRC”) and Equal Employment Opportunity
+
+Commission (“EEOC”) complaining of the acts of discrimination and retaliation alleged herein
+
+(“Charge of Discrimination”). Attached hereto, incorporated herein, and marked as Exhibit A is a
+
+true and correct copy of Plaintiff’s Charge of Discrimination (with personal identifying
+
+information redacted).
+
+          23.   On July 16, 2021, the EEOC issued Plaintiff a Notice of Right to Sue regarding
+
+his Charge. Attached hereto, incorporated herein, and marked as Exhibit B is a true and correct
+
+copy of this notice.
+
+          24.   Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.     FACTUAL ALLEGATIONS
+
+        25.     Plaintiff was hired by Defendants as a Used Car Manager on or about January 15,
+
+2018.
+
+
+
+                                                  4
+             Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 8 of 25
+
+
+
+
+           26.      Plaintiff consistently performed his job duties in a highly competent manner and
+
+received positive feedback.
+
+           27.      As a Used Car Manager, Plaintiff reported directly to Ross Polinow (“Polinow”)
+
+(60),1 General Manager; Polinow reported to Tony Piazza (“Piazza”) (47), Owner and Director
+
+of Operations.
+
+           28.      Upon information and belief, at all relevant times, Plaintiff was the only employee
+
+with a disability reporting to Polinow.
+
+           29.      Upon information and belief, at all relevant times, Plaintiff was the only employee
+
+reporting to Polinow that took a medical leave of absence as an accommodation for a disability.
+
+           30.      On April 26, 2019, Plaintiff was rushed to the hospital with a high fever and
+
+tremors.
+
+           31.      Throughout May 2019, Plaintiff repeatedly had fevers and ongoing pain, of which
+
+Defendants were aware.
+
+           32.      In or about June of 2019, Plaintiff was hospitalized for approximately 1 week,
+
+wherein he was diagnosed with a rare bacterial infection.
+
+           33.      Plaintiff remained out of work for approximately 7 days, on a medical leave of
+
+absence for his medical condition, before he was cleared by his doctor to return to work on or
+
+about June 8, 2019.
+
+           34.      After Plaintiff returned to work, he informed Polinow of his diagnosis, who
+
+responded by asking if Plaintiff was contagious.
+
+           35.      As a result of Plaintiff’s disability and/or medical leave of absence in June of
+
+2021, Defendants docked his monthly bonus by approximately $2,000.
+
+
+
+1
+    All ages contained herein are approximated based on Plaintiff’s personal knowledge or belief.
+
+                                                           5
+           Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 9 of 25
+
+
+
+
+        36.    In or about July of 2019, due to his disability, Plaintiff was hospitalized, and
+
+transferred to the intensive care unit, where he was admitted for approximately 1 week.
+
+        37.    After an 8-day medical leave of absence for his disability, Plaintiff was cleared to
+
+return to work on or about July 29, 2019.
+
+        38.    On August 22, 2019, Plaintiff was rushed to the hospital due to his disability.
+
+        39.    From August 22, 2019, to October 14, 2019, Plaintiff was out of work on an
+
+approved FMLA leave of absence for his disability.
+
+        40.    As a result of Plaintiff’s disability and/or medical leave of absence in August of
+
+2021, Defendants docked his monthly bonus by approximately $4,000.
+
+        41.    On September 9, 2019, Plaintiff underwent open heart surgery related to his
+
+disability.
+
+        42.    On October 14, 2019, Plaintiff returned to work from his medical leave of
+
+absence.
+
+        43.    On March 20, 2020, Defendants placed Plaintiff on “furlough” in connection with
+
+the COVID-19 pandemic.
+
+        44.    In or around April of 2020, Defendants brought back its sales employees, except
+
+for Plaintiff (65), Joanna Cuda (“Cuda”) (65), Warranty Administrator, Al Meloni (“Meloni”),
+
+Sales Representative, (74), and Joe Lewis (“Lewis”) (71), Sales Representative.
+
+        45.    Prior to Meloni’s termination, Polinow and Vince Iulianetti (“Iulianetti”) (50),
+
+General Sales Manager, made comments regarding Meloni’s age and potential retirement,
+
+including, but not limited to, suggesting to Meloni that he should retire and stating to Plaintiff
+
+that Meloni is “getting old.”
+
+
+
+
+                                                6
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 10 of 25
+
+
+
+
+         46.      In or around April of 2020, Chris Meditz (“Meditz”) (45), Assistant Used Car
+
+Manager, who was Plaintiff’s subordinate employee, returned to work and assumed all of
+
+Plaintiff’s duties and responsibilities.
+
+         47.      On May 26, 2020, on a phone call with Polinow and Chris Carson (“Carson”),
+
+Controller, Defendants terminated Plaintiff’s employment, effective immediately.
+
+         48.      Defendants’ stated reason for Plaintiff’s termination was that “business was
+
+slow.”
+
+         49.      Defendants’ stated reason for terminating Plaintiff was pretext for disability
+
+and/or age discrimination, and/or retaliation for requesting a reasonable accommodation in the
+
+form of a medical leave of absence.
+
+         50.      Upon information and belief, Defendants also permanently laid-off Cuda, Meloni,
+
+and Lewis.
+
+         51.      Defendants did not offer Plaintiff a downgraded position or a position with
+
+reduced pay or any opportunity to remain employed before terminating his employment.
+
+         52.      In or around August of 2020, Plaintiff inquired about an open Used Car Manager
+
+position at Piazza Hyundai of West Chester, PA, though Neal Monroe (“Monroe”) (68), Used
+
+Car Director; Plaintiff never heard back from Defendants regarding the open position.
+
+         53.      Plaintiff was more qualified and experienced to perform his job duties than the
+
+nondisabled       and   significantly   younger   employee   who   had   not   sought   reasonable
+
+accommodations for a disability or taken leave under the FMLA to whom Defendants assigned
+
+his job duties.
+
+         54.      Before Plaintiff informed Defendants of his disability, he had no indication that
+
+his job was in jeopardy.
+
+
+
+                                                   7
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 11 of 25
+
+
+
+
+       55.     Before Plaintiff went out of work on a medical leave of absence related to his
+
+disability, he had no indication that his job was in jeopardy.
+
+       56.     At all times material hereto, Plaintiff was qualified to perform the essential
+
+functions of his job with or without reasonable accommodations.
+
+       57.     Defendants retained nondisabled employees and/or employees who had not
+
+requested reasonable accommodations in positions for which Plaintiff was more qualified.
+
+       58.     Plaintiff’s disability (including history of and regarded as) was a motivating
+
+and/or determinative factor in Defendants’ discriminatory treatment of Plaintiff, including, but
+
+not limited to, the hostile work environment to which he was subjected, and his termination.
+
+       59.     Plaintiff’s request for a reasonable medical accommodation related to his
+
+disability was a motivating and/or determinative factor in Defendants’ retaliatory treatment of
+
+Plaintiff, including, but not limited to, his termination.
+
+       60.     Plaintiff’s age was a motivating and/or determinative factor in Defendants’
+
+discriminatory treatment of Plaintiff, including, but not limited to, the hostile work environment
+
+to which he was subjected, and his termination.
+
+       61.     The discriminatory conduct of Defendants, as alleged herein, was severe and/or
+
+pervasive enough to make a reasonable person believe that the conditions of employment had
+
+been altered and that a hostile work environment existed, and made Plaintiff believe that the
+
+conditions of employment had been altered and that a hostile work environment existed.
+
+       62.     As a direct and proximate result of the discriminatory and retaliatory conduct of
+
+Defendants, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings
+
+and/or earning capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of
+
+
+
+
+                                                   8
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 12 of 25
+
+
+
+
+self-esteem, mental anguish, and loss of life’s pleasures, the full extent of which is not known at
+
+this time.
+
+        63.     Defendants retaliated against Plaintiff’s right to take FMLA leave.
+
+        64.     Plaintiff’s taking of leave under the FMLA was a motivating and/or determinative
+
+factor in Defendants’ retaliatory treatment of Plaintiff, including, but not limited to, his
+
+termination.
+
+        65.     Defendants acted with malice and/or reckless indifference to Plaintiff’s protected
+
+rights and warrants the imposition of punitive damages.
+
+        66.     The conduct of Defendants, as set forth above, was willful under the
+
+circumstances and warrants the imposition of liquidated damages.
+
+        67.     No previous application has been made for the relief requested herein.
+
+                                          COUNT I
+                                  (VIOLATION OF THE ADEA)
+
+        68.     Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        69.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants violated the ADEA.
+
+        70.     Said violations were intentional and with malice and/or reckless indifference to
+
+Plaintiff’s rights and warrant the imposition of liquidated damages.
+
+        71.     As a direct and proximate result of Defendants’ violation of the ADEA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+
+
+
+                                                 9
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 13 of 25
+
+
+
+
+        72.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        73.     No previous application has been made for the relief requested herein.
+
+                                         COUNT II
+                                  (VIOLATION OF THE ADA)
+
+        74.     Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        75.     By committing the foregoing acts of discrimination and retaliation, Defendants
+
+have violated the ADA.
+
+        76.     Defendants acted willfully and intentionally, and with malice and/or reckless
+
+indifference to Plaintiff’s rights, thereby warranting the imposition of punitive damages.
+
+        77.     As a direct and proximate result of Defendants’ violation of the ADA, Plaintiff
+
+has suffered the damages and losses set forth herein and has incurred attorney’s fees and costs.
+
+        78.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+        79.     No previous application has been made for the relief requested herein.
+
+                                         COUNT III
+                                  (VIOLATION OF THE PHRA)
+
+        80.     Plaintiff incorporates herein by reference the paragraphs set forth above as if set
+
+forth herein in their entirety.
+
+        81.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants violated the PHRA.
+
+
+
+                                                 10
+        Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 14 of 25
+
+
+
+
+       82.     As a direct and proximate result of Defendants’ violation of the PHRA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+       83.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+       84.     No previous application has been made for the relief requested herein.
+
+                                        COUNT IV
+                                 (VIOLATION OF THE PFPO)
+
+       85.     Plaintiff incorporates the paragraphs above as if set forth herein in their entirety.
+
+       86.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendants have violated the PFPO.
+
+       87.     Defendants acted willfully and intentionally, and with malice and/or reckless
+
+indifference to Plaintiff’s rights, thereby warranting the imposition of punitive damages.
+
+       88.     As a direct and proximate result of Defendants’ violation of the PFPO, Plaintiff
+
+has sustained the injuries, damages and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+       89.     Plaintiff is now suffering and will continue to suffer the irreparable injury and
+
+monetary damages as a result of Defendants’ discriminatory and unlawful acts unless and until
+
+this Court grants the relief requested herein.
+
+       90.     No previous application has been made for the relief requested herein.
+
+
+
+
+                                                 11
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 15 of 25
+
+
+
+
+                                         COUNT V
+                                 (VIOLATION OF THE FMLA)
+
+        91.     Plaintiff incorporates herein by reference the above paragraphs as if set forth
+
+herein in their entirety.
+
+        92.     By committing the foregoing acts of retaliation against Plaintiff, Defendants
+
+violated the FMLA.
+
+        93.     As a result of Defendants’ retaliation against Plaintiff for exercising his right to
+
+take leave, Defendants denied Plaintiff her rights under the FMLA.
+
+        94.     Said violations were not in good faith, and Defendants did not have reasonable
+
+grounds to believe that the foregoing acts were not in violation of the FMLA, thereby warranting
+
+the imposition of liquidated damages.
+
+        95.     As a direct and proximate result of Defendants’ violation of the FMLA, Plaintiff
+
+has suffered the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+        96.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendants’ violations of the FMLA unless and until this Court
+
+grants the relief requested herein.
+
+
+                                             RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendants’ unlawful conduct, and specifically prays that the Court grant the following relief to
+
+the Plaintiff by:
+
+                a.      declaring the acts and practices complained of herein to be a violation of
+                        the ADEA, the ADA, the PHRA, the PFPO, and the FMLA;
+
+                b.      enjoining and restraining permanently the violations alleged herein;
+
+                                                 12
+      Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 16 of 25
+
+
+
+
+            c.      entering judgment against Defendants and in favor of Plaintiff in an
+                    amount to be determined;
+
+            d.      awarding compensatory damages to make Plaintiff whole for all lost
+                    earnings, earning capacity and benefits, past and future, which Plaintiff
+                    has suffered or may suffer as a result of Defendants’ unlawful conduct;
+
+            e.      awarding compensatory damages to Plaintiff for past and future pain and
+                    suffering, emotional upset, mental anguish, humiliation, and loss of life’s
+                    pleasures, which Plaintiff has suffered or may suffer as a result of
+                    Defendants’ unlawful conduct;
+
+            f.      awarding liquidated damages under the ADEA and the FMLA;
+
+            g.      awarding punitive damages to Plaintiff under the ADA and the PFPO;
+
+
+            h.      awarding Plaintiff such other damages as are appropriate under the
+                    ADEA, the ADA, the PHRA the PFPO, and the FMLA;
+
+            i.      awarding Plaintiff the costs and reasonable attorneys’ fees;
+
+            j.      granting such other and further relief as this Court may deem just, proper,
+                    or equitable including other equitable and injunctive relief providing
+                    restitution for past violations and preventing future violations.
+
+
+                                                  Respectfully submitted,
+
+                                                  CONSOLE MATTIACCI LAW, LLC
+
+
+                                          By:     /s/ Fernando I. Rivera
+                                                  FERNANDO I. RIVERA, ESQ.
+                                                  1525 Locust Street
+                                                  Philadelphia, PA 19102
+                                                  rivera@consolelaw.com (email)
+                                                  (215) 545-7676 (office)
+                                                  (856) 545-8211 (fax)
+
+Dated: 10/12/2021                                 Attorneys for Plaintiff
+
+
+
+
+                                             13
+Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 17 of 25
+
+
+
+
+                  Exhibit A
+        Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 18 of 25
+
+
+
+
+                       COMMONWEALTH OF PENNSYLVANIA
+                             GOVERNOR’S OFFICE
+                  PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+                                 COMPLAINT
+__________________________________________
+                                           :
+COMPLAINANT:                               :
+                                           :
+DAVID MILLER                               :                       Docket No.
+                                           :
+v.                                         :
+                                           :
+RESPONDENTS:                               :
+                                           :
+PIAZZA HONDA OF PHILADELPHIA               :
+                                           :
+and                                        :
+                                           :
+PV IMPORTS, INC.                           :
+                                           :
+and                                        :
+                                           :
+PIAZZA AUTO GROUP                          :
+__________________________________________:
+
+   1. The Complainant herein is:
+
+       Name:          David Miller
+
+       Address:       128 Pennsbury Lane
+                      Woodbury, NJ 08096
+
+   2. The Respondents herein are:
+
+       Names:         Piazza Honda of Philadelphia; PV Imports, Inc.; Piazza Auto Group
+
+       Address:       6935 Essington Avenue
+                      Philadelphia, PA
+
+   3. I, David Miller, the Complainant herein, allege that I was subjected to unlawful
+
+discrimination because of my disability (including history of and regarded as), and unlawful
+
+retaliation because I sought reasonable accommodations for my disability, as set forth below.
+
+                                                1
+           Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 19 of 25
+
+
+
+
+        Discrimination and Retaliation
+
+             A. I specifically allege:
+
+             [1]          I began working at Respondents on or about January 15, 2018.
+
+             [2]          My birth date is September 26, 1954.
+
+             [3]          I consistently performed my job duties in a highly competent manner, and
+
+received positive feedback.
+
+             [4]          I last held the position of Used Car Manager.
+
+             [5]          I last reported to Ross Polinow, General Manager. Polinow reported to
+
+Tony Piazza, Owner and Director of Operations.
+
+             [6]          I was the only disabled 1 employee reporting to Polinow.
+
+             [7]          I was the only employee reporting to Polinow that took a medical leave of
+
+absence as an accommodation for a disability. 2
+
+             [8]          On April 26, 2019, I was rushed to the hospital with a high fever and
+
+tremors.
+
+             [9]          Throughout May 2019, I repeatedly had fevers and ongoing pain, of which
+
+Respondents were aware.
+
+             [10]         In or about June 2019, I was hospitalized for approximately one (1) week.
+
+I was diagnosed with a rare bacterial infection.
+
+             [11]         I remained out of work for approximately seven (7) days, on a medical
+
+leave of absence for my medical condition, before I was cleared by my doctor to return to work.
+
+             [12]         After I returned to work, and I informed Polinow of my diagnosis, he
+
+asked if I was contagious.
+
+1
+  References herein to an employee having or not having a disability are to the best of my knowledge.
+2
+  References herein to an employee having or not having sought reasonable accommodations for a disability are to
+the best of my knowledge.
+
+                                                        2
+        Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 20 of 25
+
+
+
+
+           [13]       In or about July 2019, I was hospitalized, and transferred to the intensive
+
+care unit, for approximately one (1) week. When I informed Polinow of the same, he told me to
+
+let him know when I could return to work.
+
+           [14]       I remained out of work for approximately eight (8) days, on a medical
+
+leave of absence for my medical condition, before I was cleared by my doctor to return to work.
+
+           [15]       On August 22, 2019, I was rushed to the hospital with a high fever.
+
+           [16]       From August 22, 2019 to October 14, 2019, I was out of work on an
+
+FMLA leave of absence for my medical condition.
+
+           [17]       On September 9, 2019, I underwent open heart surgery.
+
+           [18]       On October 14, 2019, I returned to work from my medical leave of
+
+absence.
+
+           [19]       On March 20, 2020, Respondents placed me on “furlough” in connection
+
+with COVID-19.
+
+           [20]       On May 26, 2020, on a phone call with Polinow, Respondents terminated
+
+my employment, effective immediately. The stated reason was that business was slow.
+
+           [21]       Respondents terminated my employment because of my disability and/or
+
+my seeking reasonable accommodations for my disability.
+
+           [22]       Respondents provided me with no explanation, including the selection
+
+criteria, as to why I was terminated and nondisabled employees who had not sought reasonable
+
+accommodations for a disability were retained.
+
+           [23]       Respondents retained nondisabled employees and/or employees who had
+
+not requested reasonable accommodations in positions for which I was more qualified.
+
+
+
+
+                                                 3
+        Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 21 of 25
+
+
+
+
+           [24]       Respondents assigned my job duties to Chris Meditz, Assistant Used Car
+
+Manager. I was more qualified and experienced to perform my job duties than the nondisabled
+
+employee who had not sought reasonable accommodations for a disability, and who had been
+
+reporting to me, to whom Respondents assigned my job duties.
+
+           [25]       I had no disciplinary or performance issues throughout my employment.
+
+           [26]       Respondents did not offer me a downgraded position or a position with
+
+reduced pay or any opportunity to remain employed before terminating my employment.
+
+           [27]       I was provided with no opportunity to remain employed with
+
+Respondents.
+
+           [28]       Before I informed Respondents of my medical condition, I had no
+
+indication that my job was in jeopardy.
+
+           [29]       Before I went out to work on a medical leave of absence, I had no
+
+indication that my job was in jeopardy.
+
+           [30]       Respondents terminated my employment because of my disability and/or
+
+my seeking reasonable accommodations for my disability.
+
+           [31]       Respondents’ disability discriminatory and retaliatory conduct toward me
+
+has caused me emotional distress.
+
+           [32]       Respondents’ comments and conduct evidence a bias against employees
+
+who are disabled and/or seek reasonable accommodations for a disability.
+
+           B. Based on the aforementioned, I allege that Respondents have discriminated
+
+against me because of my disability (including history of and regarded as), and retaliated against
+
+me for seeking reasonable accommodations for my disability in violation of the Americans with
+
+Disabilities Act, as amended, 42 U.S.C. § 12101, et seq. (“ADA”), the Pennsylvania Human
+
+
+
+                                                4
+         Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 22 of 25
+
+
+
+
+Relations Act, as amended, 43 P.S. § 951, et seq. (“PHRA”), and the Philadelphia Fair Practices
+
+Ordinance, Phila. Code § 9-1101, et seq. (“PFPO”).
+
+        4.         The allegations in Paragraph 3 hereof constitute unlawful discriminatory practices
+
+in violation of:
+
+              X           Pennsylvania Human Relations Act (Act of October 27, 1955, P.L.
+
+             744, as amended) Section 5 Subsection(s): (a); (d)__
+
+             ____         Section 5.1 Subsection(s) _____________________________
+
+             ____         Section 5.2 Subsection(s) _____________________________
+
+             ____         Pennsylvania Fair Educational Opportunities Act (Act of July 17, 1961,
+
+             P.L. 766, as amended) Section 4 Subsection(s) _____________________________
+
+        5.         Other action based upon the aforesaid allegations has been instituted by the
+
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+
+              X           This charge will be referred to the EEOC for the purpose of dual
+
+             filing.
+
+        6.         The Complainant seeks that Respondents be required to:
+
+             (a) Make the Complainant whole.
+
+             (b) Eliminate all unlawful discriminatory and retaliatory practice(s) and procedure(s).
+
+             (c) Remedy the discriminatory and retaliatory effect of past practice(s) and
+
+                   procedure(s).
+
+             (d) Take further affirmative action necessary and appropriate to remedy the violation
+
+                   complained of herein.
+
+             (e) Provide such further relief as the Commission deems necessary and appropriate.
+
+
+
+                                                    5
+Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 23 of 25
+Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 24 of 25
+
+
+
+
+                  Exhibit B
+                          Case 2:21-cv-04477-NIQA Document 1 Filed 10/12/21 Page 25 of 25
+EEOC Form 161 (11/2020)                   U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                                  DISMISSAL AND NOTICE OF RIGHTS
+To:    David Miller                                                                     From:    Philadelphia District Office
+       128 Pennsbury Lane                                                                        801 Market Street
+       Woodbury, NJ 08096                                                                        Suite 1000
+                                                                                                 Philadelphia, PA 19107
+
+
+                             On behalf of person(s) aggrieved whose identity is
+                             CONFIDENTIAL (29 CFR §1601.7(a))
+EEOC Charge No.                                  EEOC Representative                                                    Telephone No.
+
+                                                 Damon A. Johnson,
+17F-2021-60870                                   State, Local & Tribal Program Manager                                  (267) 589-9722
+THE EEOC IS CLOSING ITS FILE ON THIS CHARGE FOR THE FOLLOWING REASON:
+                 The facts alleged in the charge fail to state a claim under any of the statutes enforced by the EEOC.
+
+                 Your allegations did not involve a disability as defined by the Americans With Disabilities Act.
+
+                 The Respondent employs less than the required number of employees or is not otherwise covered by the statutes.
+
+                 Your charge was not timely filed with EEOC; in other words, you waited too long after the date(s) of the alleged
+                 discrimination to file your charge
+                 The EEOC issues the following determination: The EEOC will not proceed further with its investigation, and makes no
+                 determination about whether further investigation would establish violations of the statute. This does not mean the claims
+                 have no merit. This determination does not certify that the respondent is in compliance with the statutes. The EEOC
+                 makes no finding as to the merits of any other issues that might be construed as having been raised by this charge.
+       X         The EEOC has adopted the findings of the state or local fair employment practices agency that investigated this charge.
+
+                 Other (briefly state)
+
+                                                          - NOTICE OF SUIT RIGHTS -
+                                                    (See the additional information attached to this form.)
+
+Title VII, the Americans with Disabilities Act, the Genetic Information Nondiscrimination Act, or the Age
+Discrimination in Employment Act: This will be the only notice of dismissal and of your right to sue that we will send you.
+You may file a lawsuit against the respondent(s) under federal law based on this charge in federal or state court. Your
+lawsuit must be filed WITHIN 90 DAYS of your receipt of this notice; or your right to sue based on this charge will be
+lost. (The time limit for filing suit based on a claim under state law may be different.)
+
+Equal Pay Act (EPA): EPA suits must be filed in federal or state court within 2 years (3 years for willful violations) of the
+alleged EPA underpayment. This means that backpay due for any violations that occurred more than 2 years (3 years)
+before you file suit may not be collectible.
+
+                                                                      On behalf of the Commission
+
+                                                                                                                      July 16, 2021
+Enclosures(s)                                                                                                                   (Date Issued)
+                                                                     Dana R. Hutter,
+                                                                     Deputy Director
+cc:
+           For Respondent:                                                            For Charging Party:
+                                                                                      Emily R. Derstine Friesen, Esq.
+           Susan Smith Lloyd, Esquire                                                 Console Mattiacci Law, LLC
+           Hendrzak & Lloyd
+                                                                                      Via email: DerstineFriesen@consolelaw.com
+           Via email: susan.lloyd@zurichna.com
+

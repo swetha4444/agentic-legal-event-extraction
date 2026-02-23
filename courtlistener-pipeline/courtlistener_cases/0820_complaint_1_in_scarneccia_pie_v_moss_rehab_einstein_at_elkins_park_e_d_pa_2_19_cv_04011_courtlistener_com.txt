@@ -1,0 +1,1193 @@
+Source URL: https://www.courtlistener.com/docket/16153320/1/scarneccia-pie-v-moss-rehabeinstein-at-elkins-park/
+Title: Complaint – #1 in SCARNECCIA-PIE v. MOSS REHAB/EINSTEIN AT ELKINS PARK (E.D. Pa., 2:19-cv-04011) – CourtListener.com
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page1of25
+
+DEREK SMITH LAW GROUP, PLLC
+IAN M. BRYSON, ESQUIRE
+
+Attorney ID No. 321359
+
+1835 Market Street, Suite 2950
+Philadelphia, PA 19103
+
+(215) 391-4790
+
+ian@dereksmithlaw.com
+
+Attorneys for Plaintiff
+
+IN THE UNITED STATES DISTRICT COURT FOR THE
+EASTERN DISTRICT OF PENNSYLVANIA
+
+ANNA SCARNECCIA-PIE, : Civil Action No.
+Plaintiff, - COMPLAINT
+
+V. : JURY TRIAL DEMANDED
+
+MOSS REHAB/EINSTEIN AT ELKINS PARK,
+MOSS REHABILITATION CENTER
+
+EINSTEIN HEALTHCARE SYSTEMS, INC.,
+EINSTEIN MEDICAL CENTER ELKINS PARK,
+AMY WILSON,
+
+KAREN DONOHUE-BARRETT,
+
+SHARI GOODMAN, and
+
+RACHELLE RIGOUS,
+
+Defendants.
+
+Ls
+
+NATURE OF THE ACTION
+This is an action for relief from violations of Title VII of the Civil Rights Act of 1964, 42
+
+U.S.C. §3 2000¢e et seq. (“Title VII”); the Americans with Disabilities Act, 42 U.S.C. §§
+12101 et seq. (“ADA”) and the Family and Medical Leave Act of 1993, 29 U.S.C. §§
+2601 et seq. (“FMLA”).
+
+Plaintiff is seeking damages to redress the injuries that she has suffered as a result of
+being discriminated and retaliated against by Defendants, her employers, on the basis of
+
+her sex, disability and participation in protected activity.
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 2 of 25
+
+JURISDICTION AND VENUE
+
+3. This Court has jurisdiction over this lawsuit pursuant to 28 U.S.C. § 1331 because it
+involves questions of federal law under Title VII, the ADA and the FMLA.
+
+4, This Court has personal jurisdiction over Defendants because their principal place of
+business or residence is here, Defendants regularly provide services to persons here,
+Defendants regularly conduct business here, Defendants employed Plaintiff to work here,
+and Defendants otherwise established contacts here sufficient to permit the exercise of
+personal jurisdiction.
+
+5. Venue is proper under 28 U.S.C. 1391(b) because Defendants reside in this District and a
+substantial part of the events giving rise to Plaintiff's Title VII, the ADA and the FMLA
+
+claims took place here.
+
+EXHAUSTION OF ADMINISTRATIVE REMEDIES UNDER TITLE VIL AND ADA
+
+6. Plaintiff timely filed charges of discrimination with the U.S. Equal Employment
+Opportunity Commission (“EEOC”) and the Philadelphia Commission on Human
+Relations Commission (“PCHR”) alleging violations of Title VII, the Pennsylvania
+Human Relations Act, 43 P.S. §§ 951-963 (“PHRA”), and the Philadelphia Fair Practices
+Ordinance, Philadelphia Code §§ 9-1101 et seq. (“PFPO”).
+
+7. Plaintiff has timely filed this action and has complied with all administrative prerequisites
+to bring this lawsuit.
+
+8. Plaintiff's PHRA and PFPO claims are still pending before PCHR because less than one
+year has elapsed since PCHR assumed jurisdiction over her charges. When Plaintiffs
+claims are ripe, Plaintiff will seek leave amend this complaint to assert her PHRA and
+PFPO claims against Defendants. See Fed. R. Civ. P. 15(a) (Courts “freely give leave to
+
+amend when justice so requires”), 15(c) (Amendments “relate back” to the date of the
+
+2
+10.
+
+11.
+
+12.
+
+13;
+
+14.
+
+Id.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 3of 25
+
+original pleading), and 15(d) (Plaintiffs may “serve a supplemental pleading setting out
+any transaction, occurrence, or event that happened after the date of the pleading to be
+
+supplemented”).
+
+PARTIES
+
+Plaintiff Anna Scarneccia-Pie is an adult individual residing at 134 Mt. Carmel Avenue,
+Glenside, PA 19038.
+
+Defendant Moss Rehab/Einstein at Elkins Park is a fictitious business entity incorporated
+in Pennsylvania with a principal place of business located at 60 Township Line Rd,
+Elkins Park, PA 19027.
+
+Defendant Moss Rehabilitation Center is a fictitious business entity incorporated in
+Pennsylvania with a principal place of business located at 12" & Tabor Road,
+Philadelphia, PA 19141.
+
+Defendant Einstein Healthcare Systems, Inc. is a fictitious business entity incorporated in
+Pennsylvania with a principal place of business located at 5501 Old York Road,
+Philadelphia, PA 19141.
+
+Defendant Einstein Medical Center Elkins Park is a fictitious business entity incorporated
+in Pennsylvania with a principal place of business located at 5501 Old York Road,
+Philadelphia, PA 19141.
+
+Defendant Amy Wilson is an adult individual residing in Pennsylvania with a principal
+place of business located at 60 Township Line Rd, Elkins Park, PA 19027.
+
+Defendant Karen Donohue-Barrett is an adult individual residing in Pennsylvania with a
+
+principal place of business located at 5501 Old York Road, Philadelphia, PA 19141.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+oe.
+
+23.
+
+24.
+
+25.
+
+26.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 4of 25
+
+Defendant Shari Goodman is an adult individual residing in Pennsylvania with a principal
+place of business located at 60 Township Line Rd, Elkins Park, PA 19027.
+
+Defendant Rachelle Rigous is an adult individual residing in Pennsylvania with a
+principal place of business located at 60 Township Line Rd, Elkins Park, PA 19027.
+Defendants are collectively doing business as “MossRehab at Center City,” a medical
+facility located at 12 S. 23" Street, Philadelphia, Pennsylvania 19103.
+
+Defendant Wilson is and was at all relevant times employed as a Human Resources
+Representative.
+
+Defendant Donohue-Barrett is and was at all relevant times employed as a Human
+Resources Leave Coordinator.
+
+Defendant Goodman is and was at all relevant times employed as a Clinical Nurse
+Manager.
+
+Defendant Rigous is and was at all relevant times employed as a Clinical Nurse Manager.
+At all relevant times, Defendants Wilson, Donohue-Barrett, Goodman and Rigous had
+supervisory authority over Plaintiff.
+
+Defendants collectively exercise sufficient control over the labor policies and practices
+complained of herein to be considered the employers of Plaintiff for the purposes of Title
+
+VII, the ADA and the FMLA.
+
+FACTS
+Plaintiff started working for Defendants on approximately October 2, 2016, when she
+
+was hired as a registered nurse assigned to Defendants’ Spinal Cord Unit.
+In or around the end of 2016, Plaintiff became aware that she was pregnant with her first
+
+child.
+27,
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 5of 25
+
+In or around the summer of 2017, Plaintiff returned from maternity leave which was
+preapproved by Defendants.
+
+Upon return to work from maternity leave, Defendants drastically changed Plaintiff's
+work assignment and schedule, transitioning Plaintiff to part-time 12-hour nightshifts
+exclusively.
+
+Unlike Plaintiff's similarly situated coworkers who were not pregnant and had not taken
+maternity leave, Plaintiff was not allotted a “trial period” to test the new schedule.
+Plaintiff became aware that her hours were the only ones effected, as she was the only
+employees moved to part-time scheduling. Plaintiff felt dissatisfied with her new work
+schedule but feared reprisal, so she agreed to work the adjusted schedule.
+
+In or around July 2018, Plaintiff woke-up sick and nauseous on the day of her evening
+shift. Plaintiff immediately notified Defendant Rigous that Plaintiff would be taking
+personal time off to schedule a visit with her doctor.
+
+Plaintiffs doctor informed her that she was pregnant with her second child.
+
+Upon returning to work for her next shift, Plaintiff informed Defendants that she was
+pregnant.
+
+On or around July 11, 2018, Plaintiff began experiencing stomach cramping and vaginal
+bleeding. Plaintiff made an appointment with her doctor.
+
+Plaintiffs doctor cleared her to return to work, but her doctor was concerned by her
+symptoms and placed Mrs. Pie on restricted duty. Plaintiff was instructed to avoid heavy
+
+lifting (over 10 pounds) and avoid prolonged standing and excessive heat.
+36.
+
+Bde
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43,
+
+Case 2:19-cv-04011-GJP Documenti1 Filed 09/03/19 Page 6of 25
+
+On or around July 12, 2018, Plaintiff informed Defendants that she was pregnant with her
+second child and requested reasonable accommodations pursuant to her doctor’s
+instructions.
+
+Plaintiff informed Defendants that the restrictions were being implemented because of
+complications surrounding her pregnancy and specifically described her symptoms giving
+rise to her doctor’s recommendations.
+
+Rather than provide Plaintiff with the reasonable accommodations she requested,
+Defendants insisted Plaintiff take personal time off and/or seek FMLA leave.
+
+Defendants removed Plaintiff from the work schedule effectively cutting off Plaintiff's
+income.
+
+On or around July 18, 2018, Defendants contacted Plaintiff via email stating that they had
+received her request for “Consecutive FMLA Leave” and incorrectly stated that Plaintiff
+was ineligible for FMLA leave. Defendants also provided Plaintiff with personal leave
+paperwork to be completed and returned to Defendants.
+
+On or around July 26, 2018, Plaintiff submitted her personal leave paperwork. Plaintiff
+
+also stated her need for a reasonable accommodation regarding her high-risk pregnancy.
+
+On or around August 2, 2018, Plaintiff asked to meet with Defendants Rigous and
+Goodman to discuss her return to work, including the restrictions implemented by her
+doctor and request for a reasonable accommodation.
+
+At the outset of the meeting, Defendants questioned Plaintiff “for getting pregnant again
+so soon after her first pregnancy.” During this conversation, Defendants made it overtly
+
+clear that Plaintiff's job was at risk.
+44,
+
+45,
+
+46.
+
+47.
+
+48.
+
+49,
+
+50.
+
+a1.
+
+32.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 7 of 25
+
+Defendants Wilson and Barrett notified Plaintiff that her pregnancy was an
+inconvenience to Defendants and that Plaintiff “would have a difficult time fitting in with
+the schedule when she returned from maternity leave.”
+
+Plaintiff suggested asking her doctor to adjust her restrictions, or in the alternative, asked
+whether she could transfer to one of Defendants’ other facilities to accommodate her
+pregnancy.
+
+Defendants informed Plaintiff that she was “not able to work light duty because she was
+not injured on the job” and that would only be permitted to work with “100 percent
+clearance” from her doctor.
+
+Defendants refused to engage in the interactive process surrounding Plaintiff's requests
+for a reasonable accommodation.
+
+On or around August 13, 2018, fearful that she was going to be terminated, Plaintiff
+returned to her doctor and requested to have her pregnancy accommodations lifted so she
+could return to work. Plaintiff's doctor denied her request.
+
+Immediately following Plaintiff's August 13, 2018 appointment, Plaintiff followed up
+with Defendant Wilson and provided an update about being unable to get her restrictions
+lifted. Defendants did not respond.
+
+Approximately 1.5 weeks later, having received no response from Defendants, Plaintiff
+again followed up with her doctor requesting that her restrictions be lifted.
+
+On or around September 3, 2018, Plaintiff's doctor agreed to lift her restrictions.
+Plaintiff immediately informed Defendants of her availability to work without
+
+restrictions. In an effort to ensure all protocols were followed, Plaintiff asked that she
+53.
+
+54.
+
+35.
+
+56.
+
+a7.
+
+38.
+
+59.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 8 of 25
+
+receive final approval from Defendants’ Human Resources department to confirm that
+she would be permitted to return to work. Defendant Wilson stated, “I'll get back to you.”
+On or around September 6, 2018, Plaintiff received a letter from Respondent Barrett
+confirming that Plaintiff had been approved for a “Personal Leave of Absence” beginning
+on July 5, 2018 and continuing through “September 5, 2018 (or your first scheduled shift
+after 09/04/2018).”
+
+On or around September 10, 2018, Defendant Rigous called Plaintiff and demanded to
+know “why she did not report to work the weekend prior.” Plaintiff responded that she
+was never informed that she was put back on the work schedule.
+
+Immediately following the phone call, Plaintiff called Defendants’ nursing staff office
+and confirmed that she was not scheduled to work on September 8, 2018 nor September
+9, 2018. Plaintiff then proceeded to call Defendant Wilson and confirmed same.
+
+On or around September 11, 2018, Plaintiff met with Defendants’ management team to
+discuss her return to work schedule. Defendants confirmed that Plaintiff was scheduled to
+return to work on September 25, 2018.
+
+On or around September 25, 2018, Defendants called Plaintiff for a meeting to discuss
+her “job status.”
+
+On or around September 26, 2018, Defendants unlawfully terminated Plaintiff's
+employment because of her pregnancy, her requests for reasonable accommodation and
+in retaliation for opposing Defendants’ unlawful conduct.
+
+When Plaintiff attempted to return from leave, Defendants failed to restore Plaintiff to the
+
+same job that she held when her leave began or to an equivalent job.
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71,
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page9of 25
+
+Defendants interfered with, restrained and/or denied Plaintiff's exercise (or the attempt to
+exercise) her FMLA rights.
+
+Defendants improperly refused to authorize Plaintiff's FMLA leave.
+
+Defendants improperly discouraged Plaintiff from using FMLA leave.
+
+Defendants failed to give Plaintiff a timely Eligibility Notice within five days of the date
+Defendants learned that Plaintiff's leave may be for an FMLA-qualifying reason
+
+Upon learning that Plaintiff's medical condition qualified for FMLA leave, Defendants
+failed to make an eligibility determination.
+
+Defendants also failed to give Plaintiff a timely Rights and Responsibilities notice in
+writing.
+
+Defendants failed to respond to Plaintiff's numerous inquiries concerning her rights and
+responsibilities under the FMLA.
+
+Defendants failed to timely notify Plaintiff that a medical certification was required
+concerning Plaintiff's need for FMLA leave.
+
+When Plaintiff made a diligent, good faith effort to timely provide a medical certification,
+Defendants failed to give Plaintiff additional time to provide the certification and/or
+otherwise failed to engage in the interactive process.
+
+Plaintiff provided a complete and sufficient medical certification that Defendants failed
+to accept.
+
+Defendants improperly used Plaintiff's taking of FMLA leave as a deciding factor in
+disciplining and firing Plaintiff.
+
+Defendants improperly counted Plaintiff's FMLA leave under its “no fault” attendance
+
+policy.
+12,
+
+Bs
+
+74.
+
+ts
+
+76.
+
+dhs
+
+78.
+
+79:
+
+80.
+
+81.
+
+82.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 10 of 25
+
+Defendants failed to provide benefits to Plaintiff on unpaid FMLA leave.
+
+Defendants discriminated against Plaintiff for opposing or complaining about
+Defendants’ unlawful practices under the FMLA.
+
+Defendants failed to make, keep and preserve the requisite records under the FMLA,
+including but not limited to, Plaintiff's medical records concerning her request for FMLA
+leave; copies of FMLA notices provided to Plaintiff; and/or records of any dispute
+between Defendants and Plaintiff regarding the designation of leave as FLMA.
+Defendants discriminated against Plaintiff in the terms and conditions of her employment
+
+because of Plaintiff's sex, disability and participation in protected activity.
+
+Defendants retaliated against Plaintiff because she reported or otherwise opposed
+Defendants’ illegal conduct.
+
+Defendants subjected Plaintiff to a hostile work environment based on sex, disability and
+retaliation.
+
+Plaintiff claims a continuing practice of discrimination and makes all claims herein under
+the continuing violations doctrine.
+
+Plaintiff claims unlawful constructive aniline unlawful actual discharge and also seeks
+reinstatement of her position, benefits and seniority
+
+Plaintiff claims aggravation, activation and/or exacerbation of any preexisting condition.
+The above are just some examples of the unlawful and discriminatory conduct and
+retaliation to which Defendants subjected Plaintiff.
+
+Because Defendants’ conduct had been malicious, willful, extreme and outrageous, and
+conducted with full knowledge of the law, Plaintiff respectfully seeks all available
+
+damages, including but not limited to, emotional distress damages, lost wages, back pay,
+
+10
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 11 of 25
+
+front pay, statutory damages, liquidated damages, reinstatement, attorneys’ fees, costs,
+interest and punitive damages from all Defendants, jointly and severally.
+
+COUNT I
+VIOLATIONS OF THE FMLA
+29 U.S.C. §§ 2601 et seq.
+
+Plaintiff incorporates by reference the allegations contained in all previous paragraphs as
+if fully set forth at length herein.
+The FMLA provides eligible employees of covered employers with up to 12 workweeks
+of unpaid, job protected leave in a 12-month period for, inter alia, a serious health
+condition that makes the employee unable to perform the essential functions of her job.
+29 U.S.C. §§ 2601 et seq.
+A covered employer must provide FMLA benefits and protections to eligible employees
+and comply with other responsibilities under the FMLA and its regulations at 29 C.F.R.
+Part 825.
+At all relevant times, Plaintiff was an eligible employee of a covered employer with a
+qualifying medical condition entitling her to the protections of the FMLA.
+Defendants violated the FMLA by interfering with, restraining and/or denying Plaintiff s
+rights under the FMLA by, inter alia:
+
+a. Failing to comply with the general notice requirements under the FMLA;
+
+b. Failing to comply with the eligibility notice requirements under the FMLA;
+
+c. Failing to comply with the rights and responsibilities notice requirements under
+the FMLA;
+
+d. Failing to comply with the designation notice requirements under the FMLA;
+
+e. Failing to provide notice of a fitness-for-duty certification with the designation
+notice as required by the FMLA;
+
+11
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 12 of 25
+
+f. Failing to continue to contribute to Plaintiff's health benefits while she was placed
+on involuntary medical leave;
+
+g. Discharging and/or constructively discharging, suspending and/or disciplining
+Plaintiff notwithstanding that Plaintiff was fit to perform her duties and return to
+work at the end of her FMLA leave;
+
+h. Retaliating against Plaintiff for asking for attempting to exercise her rights under
+the FMLA;
+
+i. Failing to provide Plaintiff with the proper FMLA forms and/or medical
+certifications;
+
+J. Failing to supervise and/or train its employees and supervisors on compliance
+with the provisions of the FMLA;
+
+k. Failing to have in place proper FMLA policies, procedures and compliance;
+and/or
+
+l. Otherwise violating the FMLA.
+
+88. Defendants’ violations of the FMLA were grossly negligent and/or willful.
+
+89. As a direct and proximate cause of Defendants’ willful violations of the FMLA,
+Defendants are liable for Plaintiff's compensation and benefits lost by reason of the
+violations, for other actual monetary losses sustained as a direct result of their violations,
+and for appropriate equitable or other relief tailored to the harm suffered by Plaintiff. See
+
+29 CFR 825.300 (e).
+
+WHEREFORE, Plaintiff demands judgment against Defendants and prays for the following
+relief: (1) an award of compensatory damages in an amount consistent with the FMLA; (2) an
+award of reasonable attorneys’ fees and costs of this action in accordance with the FMLA; (3) an
+award of pre- and post-judgment interest and court costs as further allowed by law; (4) an award
+of liquidated damages in accordance with the FMLA; (5) an adjudication and declaration that the
+City’s conduct as set forth herein is in violation of the FMLA; and (6) all additional general and
+equitable relief to which Plaintiff is entitled.
+
+12
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 13 of 25
+
+COUNT II
+ADA DISABILITY DISCRIMINATION
+42 U.S.C. §§ 12101 et seq.
+
+90. Plaintiff repeats and realleges every allegation made in the above paragraphs of this
+complaint.
+
+91. Title 42 of the Americans with Disabilities Act of 1990, Chapter 126, Subchapter I,
+Section 12112, Discrimination [Section 102] states: “(a) General rule. - No covered entity
+shall discriminate against a qualified individual on the basis of disability in regard to job
+application procedures, the hiring, advancement, or discharge of employees, employee
+compensation, job training, and other terms, conditions, and privileges of employment.”
+
+92. Under the McDonnell Douglas burden-shifting analysis, Plaintiff must establish a prima
+
+facie case for discrimination, namely that she (1) has a disability, (2) is a qualified
+individual, and (3) has suffered and adverse employment action (4) under circumstances
+
+giving rise to an inference of discrimination. Turner v. Hershey Chocolate USA, 440 F.3d
+
+604, 611 (3d Cir. 2006).
+
+93. Furthermore, it is well-settled law that, under the ADA, employers have an obligation to
+provide a reasonable accommodation for a disabled employee and that the failure to
+provide a reasonable accommodation to an employee’s known disability is a form of
+discrimination. 42 U.S.C. § 12112(b)(5)(A).
+
+94. It is undisputed that (1) Plaintiff's pregnancy diagnosis qualifies as a disability; (2)
+Plaintiff's experience and performance establish she was qualified; and (3) Plaintiff was
+terminated (4) a short time after requesting a reasonable accommodation related to her
+
+pregnancy diagnosis.
+
+13
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 14 of 25
+
+95. Defendants cannot show a legitimate nondiscriminatory reason for their actions and any
+reasons proffered by Defendants for terminating Plaintiff's employment are pretextual
+and can readily be disbelieved.
+
+96. Defendants engaged in an unlawful discriminatory practice by discriminating and
+retaliating against Plaintiff because of her disability and refusing to provide Plaintiff with
+a reasonable accommodation.
+
+97. Because of Defendants’ violation of the ADA, Plaintiff has suffered damages, including,
+but not limited to: past and future lost wages, mental pain and suffering; humiliation;
+emotional distress; diminishment of career opportunity; harm to her business reputation;
+loss of self-esteem; disruption to her family life; and other harm, pain and suffering, both
+
+tangible and intangible.
+
+WHEREFORE, Plaintiff demands judgment against Defendants for compensatory damages,
+including past and future damages for pay, bonuses, personal days, overtime, benefits, and
+emotional distress; consequential damages; punitive damages; attorneys’ fees; expert witness
+
+fees; costs of suit; interest; and all other relief deemed equitable and just.
+
+COUNT Il
+TITLE VII DISPARATE TREATMENT
+42 U.S.C. § 2000¢-2
+
+98. Plaintiff incorporates by reference each and every allegation made in the above
+paragraphs of this complaint.
+
+99. Title VII provides, in relevant part, that “it shall be an unlawful employment practice for
+an employer . . . to discriminate against any individual with respect to [her]
+compensation, terms, conditions, or privileges of employment, because of [her] race,
+
+color, religion, sex, or national origin.” 42 U.S.C. § 2000e-2(a)(1).
+
+14
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 15 of 25
+
+100. Title VII further provides that “un unlawful employment practice is established
+when the complaining party demonstrates that race, color, religion, sex, or national origin
+was a motivating factor for any employment practice, even though other factors also
+motivated the practice.” 42 U.S.C. § 2000e-2(m).
+
+101. Defendants engaged in unlawful employment practices prohibited by Title VII by
+intentionally discriminating against Plaintiff with respect to her compensation, terms,
+conditions, training and privileges of employment because of her sex.
+
+102. Defendants subjected Plaintiff to adverse tangible employment actions—defined
+as significant changes in Plaintiff's employment status, discipline, denial of training,
+failure to promote, reassignment with significantly different job responsibilities, and
+decisions causing changes in significant changes in her employment benefits.
+
+103. Plaintiff's protected characteristics (sex) played a determinative factor in
+Defendants’ decisions,
+
+104. Defendants cannot show any legitimate nondiscriminatory reasons for their
+employment practices and any reasons proffered by Defendants for their actions against
+Plaintiff are pretextual and can readily be disbelieved.
+
+105. Alternatively, Plaintiff protected status played a motivating part in Defendants’
+
+decisions even if other factors may also have motivated their actions against Plaintiff.
+
+106. Defendants acted with the intent to discriminate.
+107. Defendants acted upon a continuing course of conduct.
+108. As aresult of Defendants’ violations of Title VII, Plaintiff has suffered damages,
+
+including, but not limited to: past and future lost wages, pain and suffering,
+
+inconvenience, mental anguish, loss of enjoyment of life, humiliation, emotional distress,
+
+15
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 16 of 25
+
+reputational harm, diminishment of career opportunities, and other harm, both tangible
+
+and intangible.
+
+WHEREFORE, Plaintiff demands judgment against Defendants and prays for the following
+
+relief: (1) an award of compensatory damages in an amount consistent with Title VII; (2) an
+
+award of reasonable attorneys’ fees and costs of this action in accordance with Title VII; (3) an
+
+award of pre- and post-judgment interest and court costs as further allowed by law; (4) an
+
+adjudication and declaration that Defendants’ conduct as set forth herein is in violation of Title
+
+VII; and (5) all additional general and equitable relief to which Plaintiff is entitled.
+
+COUNT IV
+TITLE VI. HOSTILE WORK ENVIRONMENT
+42 U.S.C. § 2000¢e-2
+
+109. Plaintiff incorporates by reference each and every allegation made in the above
+paragraphs of this complaint.
+
+110. Title VII also prohibits hostile work environment harassment, defined as
+unwanted comments or conduct regarding the plaintiff's protected characteristics that
+have the purpose or effect of unreasonably interfering with the terms and conditions of
+
+the plaintiff's employment. Harris v. Forklift Systems, 510 U.S. 17, 21 (1993).
+
+111. _ An employer is strictly liable for supervisor harassment that “culminates ina
+tangible employment action, such as discharge, demotion, or undesirable reassignment.”
+Burlington Industries, Inc. v. Ellerth, 524 U.S. 742 (1998).
+
+112. Respondeat superior liability for the acts of non-supervisory employees exists
+where “the defendant knew or should have known of the harassment and failed to take .
+
+prompt remedial action. Andrews v. City of Philadelphia, 895 F.2d 1469, 1486 (3d Cir.
+
+1990).
+
+16
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 17 of 25
+
+113. Employer liability for co-worker harassment also exists where “the employer
+
+failed to provide a reasonable avenue for complaint.” Huston v. Procter & Gamble Paper
+
+Prods. Corp., 568 F.3d 100, 105 (3d Cir. 2009).
+114. The Third Circuit has held that the retaliation provision of Title VII “can be
+offended by harassment that is severe or pervasive enough to create a hostile work
+
+environment.” Jensen v. Potter, 435 F.3d 444, 446 (3d Cir. 2006).
+
+115. Here, Defendants’ conduct occurred because of Plaintiff's legally protected
+characteristics and was severe or pervasive enough to make a reasonable person of the
+same legally protected classes believe that the conditions of employment were altered and
+that the working environment was intimidating, hostile or abusive.
+
+116. The harassing conduct directly refers to Plaintiff's sex.
+
+117. Defendants delegated to Plaintiff's supervisors the authority to control the work
+
+environment and they abused that authority to create a hostile work environment.
+
+118. Harassing conduct filled the environment of Plaintiff's work area.
+
+119. Defendants knew that the harassing conduct filled Plaintiff's work environment.
+120. Harassing conduct occurred daily.
+
+121. Harassing conduct caused Plaintiff to sustain severe emotional distress resulting
+
+in physical illness and serious psychological sequelae.
+122. Plaintiff subjectively regarded the harassing conduct as unwelcome and unwanted
+
+and objectively opposed the conduct.
+
+123. The conduct was both severe and pervasive.
+124. The conduct was physically threatening and humiliating.
+125. The conduct unreasonably interfered with Plaintiffs work performance.
+
+17
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 18 of 25
+
+126. The conduct was so extreme that it resulted in material changes to the terms and
+
+conditions of Plaintiff's employment.
+
+127. Defendants provided a futile avenue for complaint.
+
+128. Defendants retaliated against Plaintiff for her complaints.
+
+129; Defendants acted upon a continuing course of conduct.
+
+130. As a result of Defendants’ violations of Title VII, Plaintiff has suffered damages,
+
+including, but not limited to: past and future lost wages, pain and suffering,
+inconvenience, mental anguish, loss of enjoyment of life, humiliation, emotional distress,
+reputational harm, diminishment of career opportunities, and other harm, both tangible
+
+and intangible.
+
+WHEREFORE, Plaintiff demands judgment against Defendants and prays for the following
+relief: (1) an award of compensatory damages in an amount consistent with Title VII; (2) an
+award of reasonable attorneys’ fees and costs of this action in accordance with Title VII; (3) an
+award of pre- and post-judgment interest and court costs as further allowed by law; (4) an
+adjudication and declaration that Defendants’ conduct as set forth herein is in violation of Title
+
+VU; and (5) all additional general and equitable relief to which Plaintiff is entitled.
+
+COUNT V
+TITLE VII RETALIATION
+42 U.S.C. § 2000e-3
+
+131. Plaintiff incorporates by reference each and every allegation made in the above
+paragraphs of this complaint.
+
+132. Title VII protects employees from retaliation for attempting to exercise their
+rights under the Act:
+
+42 U.S.C. § 2000e-3. Other unlawful employment practices
+
+18
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 19 of 25
+
+(a) Discrimination for making charges, testifying, assisting, or
+participating in enforcement proceedings. It shall be an unlawful
+employment practice for an employer to discriminate against any of
+his employees . . . because [she] has opposed any practice made an
+unlawful employment practice by this subchapter, or because [she]
+has made a charge, testified, assisted, or participated in any manner
+in an investigation, proceeding, or hearing under this subchapter.
+
+133. The Supreme Court in Burlington v. N. & S.F. Ry. V. White, 548 U.S. 53, 68
+
+(2006) held that a cause of action for retaliation under Title VII lies whenever the
+employer responds to protected activity in such a way that “might have dissuaded a
+reasonable worker from making or supporting a charge of discrimination.”
+
+134. Informal complaints and protests can constitute protected activity under the
+
+“opposition” clause of 42 U.S.C. § 2000e-3(a). Moore v. City of Philadelphia, 461 F.3d
+
+331, 343 (3d Cir. 2006) (“Opposition to discrimination can take the form of informal
+protests of discriminatory employment practices, including making complaints to
+management.”).
+
+135. Title VII’s anti-retaliation provision also protects employees who speak out about
+discrimination by answering questions during an employer’s internal investigation.
+
+Crawford v. Metropolitan Gov’t of Nashville and Davidson Cty., Tennessee, 555 U.S.
+
+271, 277 (2009) (declaring that there is “no reason to doubt that a person can ‘oppose’ by
+responding to someone else’s question just as surely as by provoking the discussion, and
+nothing in the statute requires a freakish rule protecting an employee who reports
+discrimination on her own initiative but not one who reports the same discrimination in
+the same words when her boss asks a question.”).
+
+136. Retaliation need not be job-related to be actionable under Title VII—an employer
+
+can effectively retaliate against an employee by taking actions not directly related to her
+
+19
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 20 of 25
+
+employment or by causing her harm outside the workplace. White, 548 U.S. at 61-62
+(rejecting authority from the Third Circuit and others requiring that the plaintiff suffer an
+adverse employment action in order to recover for retaliation).
+
+137. “{A] plaintiff need not prove the merits of the underlying discrimination
+complaint, but only that ‘[she] was acting under a good faith, reasonable belief that a
+
+violation existed.’” Aman v. Cort Furniture Rental Corp., 85 F.3d 1074, 1085 (3d Cir.
+
+1996); Griffiths v. CIGNA Corp., 988 F.2d 457, 468 (3d Cir. 1993); Sumner v. United
+
+States Postal Service, 899 F.2d 203, 209 (2d Cir. 1990), overruled on other grounds by
+Miller v. CIGNA Corp., 47 F.3d 586 (3d Cir.1995).
+
+138. An employee need not be a member of a protected class to be subject to
+actionable retaliation under Title VII. See Moore, 461 F.3d at 342 (“Title VII's
+whistleblower protection is not limited to those who blow the whistle on their own
+
+mistreatment or on the mistreatment of their own race, sex, or other protected class.”)
+
+139. Here, Defendants discriminated against Plaintiff because of her protected activity
+under Title VIL.
+140. Plaintiff was acting under a reasonable, good faith belief that her right to be free
+
+from discrimination on the basis of sex was violated.
+
+141. Plaintiff was subjected to materially adverse actions at the time or after the
+protected conduct took place.
+
+142. There was a causal connection between Defendants’ materially adverse actions
+and Plaintiffs protected activity.
+
+143. Defendants’ actions were “materially adverse” because they were serious enough
+
+to discourage a reasonable worker from engaging in protected activity.
+
+20
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 21 of 25
+
+144. Defendants acted upon a continuing course of conduct.
+
+145. Plaintiff will rely on a broad array of evidence to demonstrate a causal link
+between her protected activity and Defendants’ actions taken against her, such as the
+unusually-suggestive proximity in time between events, as well as Defendants’
+antagonism and change in demeanor toward Plaintiff after Defendants became aware of
+Plaintiff's protected activity.
+
+146. As aresult of Defendants’ violations of Title VII, Plaintiff has suffered damages,
+including, but not limited to: past and future lost wages, pain and suffering,
+inconvenience, mental anguish, loss of enjoyment of life, humiliation, emotional distress,
+reputational harm, diminishment of career opportunities, and other harm, both tangible
+
+and intangible.
+
+WHEREFORE, Plaintiff demands judgment against Defendants and prays for the following
+relief: (1) an award of compensatory damages in an amount consistent with Title VII; (2) an
+award of reasonable attorneys’ fees and costs of this action in accordance with Title VII; (3) an
+award of pre- and post-judgment interest and court costs as further allowed by law; (4) an
+adjudication and declaration that Defendants’ conduct as set forth herein is in violation of Title
+
+VII; and (5) all additional general and equitable relief to which Plaintiff is entitled.
+
+JURY DEMAND
+
+Plaintiff requests a jury trial on all issues to be tried.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff demands judgment against Defendants in an amount to be
+
+determined at the time of trial plus interest, including, but not limited to, reinstatement, back pay
+
+21
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 22 of 25
+
+and front pay, liquidated damages, statutory damages, attorneys’ fees, costs, and disbursements
+
+of action; and for such other relief as the Court deems just and proper.
+
+Respectfully submitted,
+
+DEREK SMITH GROUP, PLLC
+
+Philadelphia, PA 19103
+(215) 391-4790
+ian@dereksmithlaw.com
+Attorneys for Plaintiff
+
+Dated: September 3, 2019
+
+22
+Case 2:19-cv-04011-GJP Filed 09/03/19
+
+CIVIL COVER SHEET
+
+The JS 44 civil cover sheet and the information contained herein neither rey rae nor sappy the filing and service of pleadings or other papers as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS DEFENDANTS
+
+Ana. Scacnece’ a- MIE Moss Rehab fEnsten at Elkins far le, et « |.
+
+(b) County of Residence of First Listed Plaintiff County of Residence of First Listed Defendant
+(EXCEPT IN U.S. PLAINTIFF cae (IN U.S. PLAINTIFF CASES ONLY)
+
+NOTE: INLAND CONDEMNATION CASES, USE THE LOCATION OF
+THE TRACT OF LAND INVOLVED.
+
+Document 1 Page 23 of 25
+
+IS 44 (Rev. 02/19)
+
+required by law, except as
+e Clerk of Court for the
+
+(ound
+
+Attorneys (If Known)
+t/ KAowWAy
+
+Attorneys (Firm Name, oe and Telephone ooo
+
+(
+or UE Sate
+De Mar ke4 eae. Soom ade joh 2, PA IN 08
+
+2S -34|- 4440
+
+IL. BASIS OF JURISDICTION (Place an “X” in One Box Only) I. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+(For Diversity Cases Only) and One Box for Defendant)
+O 1 U.S. Government Federal Question PTF DEF PIF DEF
+Plaintiff (U.S. Government Not a Party) Citizen of This State O 1 © 1 Incorporated or Principal Place o4 o4
+of Business In This State
+6 2 U.S. Government O 4 Diversity Citizen of Another State O 2 © 2 Incorporated and Principal Place Qs oO
+Defendant (Indicate Citizenship of Parties in Item III) of Business In Another State
+Citizen or Subject of a O 3 OF 3 Foreign Nation o6 O86
+Foreign Country
+IV. NATURE OF SUIT (Place an “X" in One Box Only) Click here for: Nature of Suit Code Dever ptions.
+CONTRACT FORFEITUREPENALTY | BANKRUPTCY T i ES
+© 110 Insurance PERSONAL INJURY PERSONAL INJURY [C1 625 Drug Related Seizure © 422 Appeal 28 USC 158 © 375 False Claims Act
+© 120 Marine © 310 Airplane © 365 Personal Injury - of Property 21 USC 881 |0 423 Withdrawal 376 Qui Tam (31 USC
+O 130 Miller Act © 315 Airplane Product Product Liability © 690 Other 28 USC 157 3729(a))
+© 140 Negotiable Instrument Liability © 367 Health Care/ © 400 State Reapportionment
+O 150 Recovery of Overpayment | (CI 320 Assault, Libel & Pharmaceutical ft ] O 410 Antitrust
+& Enforcement of Judgment Slander Personal Injury O 820 Copyrights O 430 Banks and Banking
+1 151 Medicare Act O 330 Federal Employers’ Product Liability 0 830 Patent O 450 Commerce
+0 152 Recovery of Defaulted Liability 1 368 Asbestos Personal 6 835 Patent - Abbreviated © 460 Deportation
+Student Loans © 340 Marine Injury Product New Drug Application | 470 Racketeer Influenced and
+(Excludes Veterans) 0 345 Marine Product Liability a S20 Trademark Corrupt Organizations
+O 153 Recovery of Overpayment Liability PERSONAL PROPERTY LABOR CIAL S IR © 480 Consumer Credit
+of Veteran’s Benefits O 350 Motor Vehicle © 370 Other Fraud 1 710 Fair Labor Standards 0 361 HIA (1395ff) © 485 Telephone Consumer
+160 Stockholders’ Suits 1 355 Motor Vehicle © 371 Truth in Lending Act O 862 Black Lung (923) Protection Act
+( 190 Other Contract Product Liability {1 380 Other Personal 720 Labor/Management O 863 DIWC/DIWW (405(g)) |O 490 Cable/Sat TV
+O 195 Contract Product Liability | 360 Other Personal Property Damage Relations O 864 SSID Title XVI © 850 Securities/Commodities/
+© 196 Franchise Injury © 385 Property Damage (© 740 Railway Labor Act O 865 RSI (405(g)) Exchange
+© 362 Personal Injury - Product Liability © 751 Family and Medical © 890 Other Statutory Actions
+Medical Malpractice Leave Act © 891 Agricultural Acts
+[ REAL PROPERTY / CIVIL RIGH is __|_PRISONER PETITIONS _|© 790 Other Labor Litigation FEDERAL TAX SUITS © 893 Environmental Matters
+0 210 Land Condemnation © 440 Other Civil Rights Habeas Corpus: ( 791 Employee Retirement © 870 Taxes (U.S, Plaintiff O 895 Freedom of Information
+( 220 Foreclosure 6 441 Voting 0 463 Alien Detainee Income Security Act or Defendant) Act
+0 230 Rent Lease & Ejectment 442 Employment © 510 Motions to Vacate 6 871 IRS—Third Party © 896 Arbitration
+1 240 Torts to Land © 443 Housing/ Sentence 26 USC 7609 © 899 Administrative Procedure
+245 Tort Product Liability Accommodations 0 530 General Act/Review or Appeal of
+290 All Other Real Property © 445 Amer. w/Disabilities -] 535 Death Penalty ae IMMIGRATION Agency Decision
+Employment Other: (4 462 Naturalization Application © 950 Constitutionality of
+© 446 Amer. w/Disabilities -] 540 Mandamus & Other | 465 Other Immigration State Statutes
+Other O 550 Civil Rights Actions
+© 448 Education © 555 Prison Condition
+0 560 Civil Detainee -
+Conditions of
+Confinement
+Ve ORIGIN (Place an “X” in One Box Only)
+A 1 Original 2 Removed from O 3 Remanded from (4 Reinstatedor © 5 Transferred from © 6 Multidistrict 0 8 Multidistrict
+Proceeding State Court Appellate Court Reopened Another District Litigation - Litigation -
+(specify) Transfer Direct File
+
+Cite the U.S, Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+2
+
+VI. CAUSE OF ACTION
+(A enlloumydt
+
+CHECK YES only if demanded in complaint:
+
+af, acrimndaahioew
+DEMAND $
+
+Brief Sey of cause; A
+sty Gd i Babe L. <
+
+VII. REQUESTED IN o CHECK IF THIS IS A CLASS ACTION
+
+COMPLAINT: UNDER RULE 23, F.R.Cv.P. JURY DEMAND: Yes (No
+VII. 1 CASE(S)
+(See instructions):
+JUDGE DOCKET NUMBER
+DATE a SH g eee
+FOR OFFICE USE ONLY £ ees
+RECEIPT # AMOUNT APPL’ JUDGE MAG. JUDGE
+
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 24 of 25
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+CASE MANAGEMENT TRACK DESIGNATION FORM
+
+Bana (carnecesa- Fle : CIVIL ACTION
+Mass pe hab Yrachein at € lira heb NO
+th al. |
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus — Cases brought under 28 U.S.C. § 2241 through § 2255. ( )
+
+(b) Social Security — Cases requesting review of a decision of the Secretary of Health
+and Human Services denying plaintiff Social Security Benefits. ( )
+
+(c) Arbitration — Cases required to be designated for arbitration under Local Civil Rule 53.2. ( )
+
+(d) Asbestos — Cases involving claims for personal injury or property damage from
+exposure to asbestos. ( )
+
+(e) Special Management — Cases that do not fall into tracks (a) through (d) that are
+commonly referred to as complex and that need special or intense management by
+the court. (See reverse side of this form for a detailed explanation of special
+management cases.) ( )
+
+(f) Standard Management — Cases that do not fall into any one of the other tracks.
+
+ot/oz/2014 hi M [repor,f gy. Panter
+Date [ | : Attorney-at-law Attorney for
+
+AIS S91 - 4740 US ~ 8735 - SISS ban @dereksnith bus -COv-
+
+Telephone FAX Number E-Mail Address
+
+(Civ. 660) 10/02
+Case 2:19-cv-04011-GJP Document1 Filed 09/03/19 Page 25 of 25
+
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DESIGNATION FORM
+(to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of em to the appropriate calendar)
+
+Address of Plaintiff: [54 ME. Latuteh Ae, Blends he, AA (IOS
+
+Address of Defendant:__AV) Teunhip dine kb, S, Vende fickle, LAA [027
+
+Place of Accident, Incident or Transaction: L q. Ldilp An a [AA
+
+RELATED CASE, IF ANY:
+
+Case Number: | | jt Judge: A yf be Date Terminated: A l Jy
+
+J
+yt
+
+Civil cases are deemed related when Fes is answered to any of the following questions:
+
+1, Is this case related to property included in an earlier numbered suit pending or within one year Yes [| wolX}
+previously terminated action in this court?
+
+2. Does this case involve the same issue of fact or grow out of the same transaction as a prior suit Yes [ No x)
+pending or within one year previously terminated action in this court?
+
+3. Does this case involve the validity or infringement of a patent already in suit or any earlier Yes [| No AY
+numbered case pending or within one year previously terminated action of this court?
+
+4. Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights Yes [] No KI)
+
+case filed by the same individual?
+
+I certify that, to my knowledge, the within case (1 is | BA is not related to any case now pending or within one year previously terminated action in
+this court except as noted above,
+
+pare._Of 03] ZO fa o2/s5 7
+
+Aptorney-atgLaw / Pro Se Plaintiff Attorney LD. # (if applicable)
+—_
+a
+C
+
+CIVIL: (Place a ¥ in one category only)
+
+A, Federal Question Cases: B. Diversity Jurisdiction Cases:
+(1 1. Indemnity Contract, Marine Contract, and All Other Contracts (C1 1. Insurance Contract and Other Contracts
+CJ 2. FELA [] 2. Airplane Personal Injury
+[1 3. Jones Act-Personal Injury Ll 3. Assault, Defamation
+L] 4. Antitrust LJ 4. Marine Personal Injury
+5. Patent [] 5. Motor Vehicle Personal Injury
+6. Labor-Management Relations LJ] 6. Other Personal Injury (Please specify):
+7. Civil Rights LJ 7. Products Liability
+8. Habeas Corpus (J 8. Products Liability— Asbestos
+-| 9. Securities Act(s) Cases L] 9. All other Diversity Cases
+10. Social Security Review Cases (Please specify):
+[J] 11. All other Federal Question Cases
+(Please specify):
+
+ARBITRATION CERTIFICATION
+ff brepon £3 (The effect of this certification is to remove the case from eligibility for arbitration.)
+an M. ES , counsel of record or pro se plaintiff, do hereby certify:
+
+Pursuant to ibe Civil Rule ‘aa § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+Relief other than monetary damages is sought.
+
+exceed the sum of $150,000.00 exclusive of interest and costs:
+[03 oat Sok [ 557
+pae:_ 01/03) ZO/F
+{ / Attorney-gt-Law / Pro Se? laintiff Attorney I.D. # (if applicable)
+NOTE: A trial de novo will be a trial by jury only if there has been compliancé with F.R.C.P. 38.
+
+Civ, 609 (5/2018)
+

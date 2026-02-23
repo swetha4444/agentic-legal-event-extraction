@@ -1,0 +1,654 @@
+Source URL: https://www.courtlistener.com/docket/67217193/1/bundra-v-marquis-latin-philly-llc/
+Title: Complaint (Attorney) – #1 in BUNDRA v. MARQUIS LATIN PHILLY LLC (E.D. Pa., 2:23-cv-01480) – CourtListener.com
+
+JS 44 (Rev. 04/21)          Case 2:23-cv-01480-GJP
+                                                CIVILDocument
+                                                      COVER1SHEET
+                                                              Filed 04/18/23                                                                      Page 1 of 13
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                       DEFENDANTS
+         SHANNON BUNDRA                                                                                 MARQUIS LATIN PHILLY LLC d/b/a BAR BOMBÓN
+   (b) County of Residence of First Listed Plaintiff             PHILADELPHIA CTY                       County of Residence of First Listed Defendant              PHILADELPHIA CTY
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                               (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                        NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                   THE TRACT OF LAND INVOLVED.
+
+   (c) Attorneys (Firm Name, Address, and Telephone Number)           Attorneys (If Known)
+       Brian C. Farrell, Esq. #319145, Sidney L. Gold & Assoc.,
+       P.C. 1835 Market St., Ste. 515, Phila, PA 19103
+       215-569-1999
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)    III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                     (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 3   Federal Question                                                                   PTF        DEF                                         PTF      DEF
+         Plaintiff                           (U.S. Government Not a Party)                     Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                    of Business In This State
+
+  2    U.S. Government                 4   Diversity                                           Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                           (Indicate Citizenship of Parties in Item III)                                                          of Business In Another State
+
+                                                                                               Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                 Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                  Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                               TORTS                           FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                      PERSONAL INJURY              PERSONAL INJURY                 625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                         310 Airplane                365 Personal Injury -                of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                     315 Airplane Product             Product Liability           690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument               Liability              367 Health Care/                                                        INTELLECTUAL                    400 State Reapportionment
+  150 Recovery of Overpayment        320 Assault, Libel &            Pharmaceutical                                                    PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment           Slander                    Personal Injury                                                   820 Copyrights                    430 Banks and Banking
+  151 Medicare Act                   330 Federal Employers’          Product Liability                                                 830 Patent                        450 Commerce
+  152 Recovery of Defaulted               Liability              368 Asbestos Personal                                                 835 Patent - Abbreviated          460 Deportation
+       Student Loans                 340 Marine                      Injury Product                                                        New Drug Application          470 Racketeer Influenced and
+       (Excludes Veterans)           345 Marine Product              Liability                                                         840 Trademark                         Corrupt Organizations
+  153 Recovery of Overpayment             Liability             PERSONAL PROPERTY                          LABOR                       880 Defend Trade Secrets          480 Consumer Credit
+      of Veteran’s Benefits          350 Motor Vehicle           370 Other Fraud                  710 Fair Labor Standards                 Act of 2016                       (15 USC 1681 or 1692)
+  160 Stockholders’ Suits            355 Motor Vehicle           371 Truth in Lending                 Act                                                                485 Telephone Consumer
+  190 Other Contract                     Product Liability       380 Other Personal               720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability     360 Other Personal              Property Damage                  Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                          Injury                  385 Property Damage              740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                     362 Personal Injury -           Product Liability            751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                         Medical Malpractice                                          Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                    CIVIL RIGHTS             PRISONER PETITIONS                790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation              440 Other Civil Rights      Habeas Corpus:                   791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                    441 Voting                  463 Alien Detainee                   Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment         442 Employment              510 Motions to Vacate                                                 870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                  443 Housing/                    Sentence                                                              or Defendant)                 896 Arbitration
+  245 Tort Product Liability             Accommodations          530 General                                                           871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property        445 Amer. w/Disabilities -  535 Death Penalty                    IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                         Employment              Other:                           462 Naturalization Application                                             Agency Decision
+                                     446 Amer. w/Disabilities -  540 Mandamus & Other             465 Other Immigration                                                  950 Constitutionality of
+                                         Other                   550 Civil Rights                     Actions                                                                State Statutes
+                                     448 Education               555 Prison Condition
+                                                                 560 Civil Detainee -
+                                                                     Conditions of
+                                                                     Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+  1 Original             2 Removed from                     3     Remanded from              4 Reinstated or             5 Transferred from       6 Multidistrict                    8 Multidistrict
+    Proceeding             State Court                            Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                           (specify)                  Transfer                         Direct File
+                                       Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                       FAMILY MEDICAL LEAVE ACT (FMLA)
+VI. CAUSE OF ACTION Brief description of cause:
+                                       Employment matter
+VII. REQUESTED IN                           CHECK IF THIS IS A CLASS ACTION                       DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                             UNDER RULE 23, F.R.Cv.P.                              150,000 IN EXCESS                           JURY DEMAND:           Yes       No
+VIII. RELATED CASE(S)
+                                           (See instructions):
+      IF ANY                                                       JUDGE                                                               DOCKET NUMBER
+DATE                                                                 SIGNATURE OF ATTORNEY OF RECORD
+04/18/2023                                                           /S/ BRIAN C. FARRELL, ESQUIRE, ATTORNEY FOR PLAINTIFF
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                    APPLYING IFP                                   JUDGE                           MAG. JUDGE
+JS 44 Reverse (Rev. 04/21)   Case 2:23-cv-01480-GJP                  Document 1             Filed 04/18/23            Page 2 of 13
+                     INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+                                                               Authority For Civil Cover Sheet
+
+The JS 44 civil cover sheet and the information contained herein neither replaces nor supplements the filings and service of pleading or other papers as
+required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is
+required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of
+Court for each civil complaint filed. The attorney filing a case should complete the form as follows:
+
+I.(a)    Plaintiffs-Defendants. Enter names (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a government agency, use
+         only the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then
+         the official, giving both name and title.
+  (b)    County of Residence. For each civil case filed, except U.S. plaintiff cases, enter the name of the county where the first listed plaintiff resides at the
+         time of filing. In U.S. plaintiff cases, enter the name of the county in which the first listed defendant resides at the time of filing. (NOTE: In land
+         condemnation cases, the county of residence of the "defendant" is the location of the tract of land involved.)
+  (c)    Attorneys. Enter the firm name, address, telephone number, and attorney of record. If there are several attorneys, list them on an attachment, noting
+         in this section "(see attachment)".
+
+II.      Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.Cv.P., which requires that jurisdictions be shown in pleadings. Place an "X"
+         in one of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+         United States plaintiff. (1) Jurisdiction based on 28 U.S.C. 1345 and 1348. Suits by agencies and officers of the United States are included here.
+         United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+         Federal question. (3) This refers to suits under 28 U.S.C. 1331, where jurisdiction arises under the Constitution of the United States, an amendment
+         to the Constitution, an act of Congress or a treaty of the United States. In cases where the U.S. is a party, the U.S. plaintiff or defendant code takes
+         precedence, and box 1 or 2 should be marked.
+         Diversity of citizenship. (4) This refers to suits under 28 U.S.C. 1332, where parties are citizens of different states. When Box 4 is checked, the
+         citizenship of the different parties must be checked. (See Section III below; NOTE: federal question actions take precedence over diversity
+         cases.)
+
+III.     Residence (citizenship) of Principal Parties. This section of the JS 44 is to be completed if diversity of citizenship was indicated above. Mark this
+         section for each principal party.
+
+IV.      Nature of Suit. Place an "X" in the appropriate box. If there are multiple nature of suit codes associated with the case, pick the nature of suit code
+         that is most applicable. Click here for: Nature of Suit Code Descriptions.
+
+V.       Origin. Place an "X" in one of the seven boxes.
+         Original Proceedings. (1) Cases which originate in the United States district courts.
+         Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28 U.S.C., Section 1441.
+         Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing
+         date.
+         Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+         Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or
+         multidistrict litigation transfers.
+         Multidistrict Litigation – Transfer. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.C.
+         Section 1407.
+         Multidistrict Litigation – Direct File. (8) Check this box when a multidistrict case is filed in the same district as the Master MDL docket.
+         PLEASE NOTE THAT THERE IS NOT AN ORIGIN CODE 7. Origin Code 7 was used for historical records and is no longer relevant due to
+         changes in statute.
+
+VI.      Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause. Do not cite jurisdictional
+         statutes unless diversity. Example: U.S. Civil Statute: 47 USC 553 Brief Description: Unauthorized reception of cable service.
+
+VII.     Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+         Demand. In this space enter the actual dollar amount being demanded or indicate other demand, such as a preliminary injunction.
+         Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. If there are related pending cases, insert the docket
+      numbers and the corresponding judge names for such cases.
+
+Date and Attorney Signature. Date and sign the civil cover sheet.
+                          Case 2:23-cv-01480-GJP
+                                              UNITEDDocument   1 Filed
+                                                     STATES DISTRICT    04/18/23
+                                                                     COURT                                                       Page 3 of 13
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+Address of Plaintiff: ______________________________________________________________________________________________
+
+Address of Defendant: ____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                   Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                       Yes                    No
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                      Yes                    No
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                         Yes                    No
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                      Yes                    No
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /      is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+DATE: __________________________________                     __________________________________________                      ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                      B.   Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                      1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                              2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                         3.    Assault, Defamation
+       4.     Antitrust                                                                         4.    Marine Personal Injury
+       5.     Patent                                                                            5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                        6.    Other Personal Injury (Please specify): _____________________
+       7.     Civil Rights                                                                      7.    Products Liability
+       8.     Habeas Corpus                                                                     8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                           9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                            (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                          ARBITRATION CERTIFICATION
+                                                  (
+
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+DATE: __________________________________                     __________________________________________                     ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                             Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+Case 2:23-cv-01480-GJP   Document 1   Filed 04/18/23   Page 4 of 13
+Case 2:23-cv-01480-GJP   Document 1   Filed 04/18/23   Page 5 of 13
+       Case 2:23-cv-01480-GJP           Document 1       Filed 04/18/23     Page 6 of 13
+
+
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+               FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+_________________________________
+SHANNON BUNDRA,                   :    CIVIL ACTION NO.:
+                                  :
+                  Plaintiff,      :
+                                  :
+            v.                    :
+                                  :
+MARQUIS LATIN PHILLY LLC          :
+d/b/a BAR BOMBÓN,                 :
+                                  :    JURY TRIAL DEMANDED
+                  Defendant.      :
+_________________________________ :
+
+                                      COMPLAINT
+
+I.     PRELIMINARY STATEMENT
+
+       Plaintiff Shannon Bundra brings this action against her former employer, Defendant
+
+Marquis Latin Philly LLC d/b/a Bar Bombón, for violating the Family and Medical Leave Act
+
+(“FMLA”), 29 U.S.C. §2601 et seq. Defendant unlawfully interfered with Plaintiff’s rights under
+
+the FMLA and terminated her employment in retaliation for requesting and utilizing FMLA leave.
+
+II.    PARTIES
+
+       1.      Plaintiff Shannon Bundra (“Plaintiff”) is an adult individual and citizen of
+
+Pennsylvania, residing therein in Philadelphia, Pennsylvania.
+
+       2.      Defendant Marquis Latin Philly LLC d/b/a Bar Bombón (“Defendant”) is a limited
+
+liability corporation duly organized and existing under the laws of Pennsylvania with a principal
+
+place of business located at 127 S. 18th Street, 2nd Floor, Philadelphia, Pennsylvania 19104.
+
+       3.      Defendant owns and operates two full-service restaurants in Philadelphia called
+
+“Charlie was a sinner.” and “Bar Bombón.”
+
+       4.      At all relevant times, Plaintiff was employed by Defendant as a Bartender at its Bar
+
+Bombón restaurant located at 133 S. 18th Street, Philadelphia, Pennsylvania 19103.
+
+
+                                                1
+        Case 2:23-cv-01480-GJP          Document 1        Filed 04/18/23      Page 7 of 13
+
+
+
+
+       5.      At all relevant times, Defendant was acting through its agents, servants, and
+
+employees, who were acting within the scope of their authority, course of their employment, and
+
+under the direct control of the Defendant.
+
+       6.      At all relevant times, Defendant collectively employed more than 50 employees.
+
+       7.      At all relevant times, Defendant acted as an employer within the meaning of the
+
+FMLA.
+
+       8.      At all times relevant hereto, Plaintiff was an employee of Defendant within the
+
+meaning of the FMLA.
+
+       9.      At all times material hereto, Plaintiff was eligible for, and entitled to, leave under
+
+the FMLA.
+
+III.   JURISDICTION AND VENUE
+
+       10.     The causes of action which form the basis of this matter arise under the FMLA.
+
+       11.     The District Court has subject matter jurisdiction over Count I (FMLA Retaliation)
+
+and Count II (FMLA Interference) pursuant to 28 U.S.C. §1331.
+
+       12.     The District Court has personal jurisdiction over Defendant because it maintains its
+
+headquarters or a principal place of business in Pennsylvania, maintains systematic and continuous
+
+activity such that it is at home in Pennsylvania, the actions giving rise or related to this suit
+
+occurred in Pennsylvania, or it has consented to the jurisdiction of this Court through, among other
+
+things, its appointment of an authorized agent in Pennsylvania to accept service of process.
+
+       13.     Venue is proper under 28 U.S.C. § 1391(b).
+
+IV.    FACTUAL ALLEGATIONS
+
+       14.     Plaintiff was employed by Defendant from in or about February 2020 until on or
+
+about August 16, 2021, the date of her termination.
+
+
+
+                                                 2
+            Case 2:23-cv-01480-GJP       Document 1       Filed 04/18/23    Page 8 of 13
+
+
+
+
+            15.   Throughout her employment with Defendant, Plaintiff held the position of
+
+Bartender at Bar Bombón, and she performed her job duties competently.
+
+            16.   Plaintiff reported directly to David Montague (“Montague”), Defendant’s General
+
+Manager of Bar Bombón.
+
+            17.   Plaintiff suffers from Major Depressive Disorder, Generalized Anxiety Disorder,
+
+and Post-Traumatic Stress Disorder. These medical conditions constitute serious health conditions
+
+within the meaning of the FMLA.
+
+            18.   In or about June 2021, Plaintiff began experiencing severe symptoms of the above
+
+medical conditions due to the deteriorating health of her father, who was then in the end stages of
+
+his life.
+
+            19.   On or about June 7, 2021, Plaintiff met with Danielle Minnis (“Minnis”),
+
+Defendant’s Human Resources Manager, and requested a medical leave of absence to undergo
+
+treatment for her escalating symptoms.
+
+            20.   During this meeting, Minnis confirmed Plaintiff’s eligibility for FMLA leave.
+
+Minns also told and that Plaintiff could take up to 90 days of FMLA leave and could return to
+
+work upon submitting documentation from her physician authorizing same.
+
+            21.   At the conclusion of this meeting, Minnis advised Plaintiff that she could
+
+commence FMLA leave that day. Minnis’ statements led Plaintiff to believe that Defendant had
+
+approved her FMLA leave request beginning on June 7, 2021.
+
+            22.   Thus, on June 7, 2021, Plaintiff began an FMLA-approved medical leave of
+
+absence from Defendant’s workplace.
+
+            23.   Two days later, on or about June 9, 2021, Plaintiff contacted Gabrielle Love
+
+(“Love”), Defendant’s Assistant Manager at Bar Bombón, and informed her that she had not yet
+
+
+
+                                                  3
+        Case 2:23-cv-01480-GJP          Document 1       Filed 04/18/23      Page 9 of 13
+
+
+
+
+received any formal FMLA documentation from Minnis. Soon after on the same day, Minnis
+
+emailed Plaintiff her “Notice of Eligibility & Rights and Responsibilities under the Family and
+
+Medical Leave Act” which confirmed Plaintiff’s eligibility for FMLA leave.
+
+        24.    On or about July 6, 2021, while Plaintiff was still out on FMLA leave, Minnis
+
+emailed Plaintiff to “check in” and “see if [Plaintiff] ha[d] any updates” for Defendant.
+
+        25.    On or about July 7, 2021, Plaintiff informed Anne Marie Chalmers (“Chalmers”),
+
+another Assistant Manager at Bar Bombón, of her improving condition and that she intended to
+
+submit documentation from her treating doctor authorizing her return to work. In response,
+
+Chalmers told Plaintiff that she could return after providing the necessary medical documentation
+
+to Minnis.
+
+        26.    On or about July 12, 2021, Plaintiff emailed Minnis that she planned to submit
+
+documentation from her doctor substantiating her medical ability to return to work.
+
+        27.    Minnis did not respond to Plaintiff’s July 12, 2021 email.
+
+        28.    On or about August 2, 2021, Plaintiff emailed Minnis documentation completed by
+
+her treating provider—Leah Bond, FNP—indicating that Plaintiff could return to work on a
+
+reduced work schedule not to exceed 20 hours per week.
+
+        29.    Minnis did not respond to Plaintiff’s August 2, 2021 email.
+
+        30.    The next day, on or about August 3, 2021, Plaintiff notified Chalmers that she had
+
+provided the necessary documentation to Minnis and reiterated her readiness to return to work.
+
+        31.    On or about August 8, 2021, having failed to receive a response from Minnis for
+
+nearly one week, Plaintiff sent Minnis another email about the status of her anticipated return to
+
+work.
+
+        32.    Minnis did not respond to Plaintiff’s August 8, 2021 email.
+
+
+
+                                                 4
+         Case 2:23-cv-01480-GJP        Document 1       Filed 04/18/23      Page 10 of 13
+
+
+
+
+         33.   On or about August 11, 2021, Plaintiff informed Chalmers that Minnis had not yet
+
+responded to her requests to return to work. In response, Chalmers assured Plaintiff that she would
+
+reach out to Minnis.
+
+         34.   Thereafter, on or about August 14, 2021, Plaintiff also contacted Montague about
+
+Minnis’ failure to respond. Like Chalmers, Montague advised Plaintiff that he would speak with
+
+Minnis.
+
+         35.   Plaintiff never heard back from Chalmers, Montague, or Minnis.
+
+         36.   On or about August 16, 2021, two weeks after Plaintiff had first provided medical
+
+documentation regarding her ability to return to work, Plaintiff emailed Jonathan Cavanaugh
+
+(“Cavanaugh”), Defendant’s Human Resources Generalist, regarding Minnis’ repeated refusal to
+
+respond to her communications. In her email to Cavanaugh, Plaintiff asked about her employment
+
+status, whether she was permitted to return to work, or if Defendant decided “not to bring [her]
+
+back.”
+
+         37.   Cavanaugh did not respond to Plaintiff’s August 16, 2021 email.
+
+         38.   Minnis and Cavanaugh ignored Plaintiff’s repeated written communications about
+
+her requests to return to work from FMLA leave.
+
+         39.   Defendant failed to inform Plaintiff of her termination by written document or
+
+otherwise.
+
+         40.   Upon information and belief, Defendant terminated Plaintiff’s employment
+
+sometime in July or August 2021 but intentionally chose not to notify Plaintiff of that decision.
+
+         41.   Upon information and belief, Minnis instructed other employees of Defendant,
+
+including Cavanaugh, not to respond to Plaintiff’s written communications about her return to
+
+work from FMLA leave.
+
+
+
+                                                 5
+       Case 2:23-cv-01480-GJP             Document 1      Filed 04/18/23      Page 11 of 13
+
+
+
+
+        42.     Defendant terminated Plaintiff’s employment in violation of the FMLA.
+
+        43.     Defendant interfered with Plaintiff’s rights under the FMLA when it refused to
+
+allow her to return to work from an FMLA-approved leave of absence and terminated her
+
+employment.
+
+        44.     Plaintiff has suffered economic harm as a result of Defendant’s retaliatory conduct
+
+towards her.
+
+        45.     Defendant’s interference with Plaintiff’s rights under the FMLA and its retaliatory
+
+conduct towards her warrants the imposition of liquidated damages.
+
+        46.     As a direct of proximate result of the retaliatory conduct of Defendant, Plaintiff has
+
+incurred, and may incur, a loss of earnings or earning capacity, loss of benefits, the full extent of
+
+which is not known at this time.
+
+                                               COUNT I
+                                         (FMLA – Retaliation)
+                                         Plaintiff v. Defendant
+
+        47.     Plaintiff incorporates by reference the foregoing paragraphs of this Complaint, as
+
+if set forth herein in their entirety.
+
+        48.     By committing the foregoing acts of retaliation based on Plaintiff’s request and use
+
+of FMLA-protected leave, Defendant has violated the FMLA.
+
+        49.     Defendant, by terminating Plaintiff’s employment for requesting FMLA-protected
+
+leave, retaliated against Plaintiff in violation of the FMLA.
+
+        50.     Defendant knew or showed reckless disregard as to whether the foregoing acts
+
+violated the FMLA, thereby warranting the imposition of liquidated damages.
+
+        51.     As a direct and proximate result of Defendant’s violation of the FMLA, Plaintiff
+
+has suffered damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+
+
+                                                   6
+       Case 2:23-cv-01480-GJP             Document 1        Filed 04/18/23     Page 12 of 13
+
+
+
+
+        52.        Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s violations of the FMLA unless and until this Court
+
+grants the relief requested herein.
+
+                                              COUNT II
+                                        (FMLA – Interference)
+                                         Plaintiff v. Defendant
+
+        53.        Plaintiff incorporates by reference the foregoing paragraphs of this Complaint, as
+
+if set forth herein in their entirety
+
+        54.        Plaintiff was eligible for FMLA leave at the time of her application for same.
+
+        55.        By refusing to allow Plaintiff to return to work from FMLA-protected leave and
+
+terminating her employment, Defendant unlawfully interfered with Plaintiff’s rights under the
+
+FMLA.
+
+        56.        Defendant knew or showed reckless disregard as to whether the foregoing acts had
+
+violated the FMLA, thereby warranting the imposition of liquidated damages
+
+        57.        As a direct and proximate result of Defendant’s violation of the FMLA, Plaintiff
+
+has suffered damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        58.        Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s violations of the FMLA unless and until this Court
+
+grants the relief requested herein.
+
+                                        PRAYER FOR RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s unlawful conduct, and specifically requests that the Court grant the following relief
+
+to Plaintiff by:
+
+
+
+
+                                                    7
+       Case 2:23-cv-01480-GJP           Document 1        Filed 04/18/23      Page 13 of 13
+
+
+
+
+       a.      Declaring the acts and practices complained of herein to be in violation of the
+
+FMLA;
+
+       b.      Entering judgment against Defendant and in favor or Plaintiff in an amount to be
+
+determined;
+
+       c.      Awarding compensatory damages to make Plaintiff whole for all lost earnings,
+
+earning capacity and benefits, past and future, which Plaintiff has suffered or may suffer as a result
+
+of Defendant’s unlawful conduct;
+
+       d.      Awarding liquidated damages to Plaintiff;
+
+       e.      Awarding Plaintiff any other damages that are appropriate under the FMLA;
+
+       f.      Awarding Plaintiff the costs of suit, expert fees and other disbursements, and
+
+reasonable attorneys’ fees, and;
+
+       g.      Granting any other relief that this Court may deem just, proper, or equitable
+
+including other equitable and injunctive relief providing restitution for past violations and
+
+preventing future violations.
+
+                                         JURY DEMAND
+
+       Plaintiff demands a trial by jury.
+
+                                               SIDNEY L. GOLD & ASSOC., P.C.
+
+                                       By:     /s/ Brian C. Farrell
+                                               Brian C. Farrell, Esquire
+                                               PA ID No.: 319145
+                                               1835 Market Street, Suite 515
+                                               Philadelphia, PA 19103
+                                               (215) 569-1999
+                                               bfarrell@discrimlaw.net
+                                               Attorney for Plaintiff Shannon Bundra
+Date: 04/18/2023
+
+
+
+
+                                                  8
+

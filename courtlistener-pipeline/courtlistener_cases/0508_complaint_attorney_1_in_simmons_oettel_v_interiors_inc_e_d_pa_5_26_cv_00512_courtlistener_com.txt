@@ -1,0 +1,785 @@
+Source URL: https://www.courtlistener.com/docket/72191331/1/simmons-oettel-v-interiors-inc/
+Title: Complaint (Attorney) – #1 in Simmons-Oettel v. Interiors, Inc. (E.D. Pa., 5:26-cv-00512) – CourtListener.com
+
+            Case 5:26-cv-00512      Document 1       Filed 01/27/26      Page 1 of 15
+
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT
+                FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+_____________________________________________
+JODY SIMMONS-OETTEL
+
+                Plaintiff,
+       v.                                                    No.
+
+INTERIORS, INC., and                                         JURY TRIAL DEMANDED
+
+TODD LEHMAN, and
+
+TOM WILLIAMS
+
+            Defendants.
+______________________________________________
+
+                                       COMPLAINT
+                                        INTRODUCTION
+
+       Jody Simmons-Oettel was employed by Interiors, Inc. for 38 years, over which time she
+
+received a series of promotions and became a minority shareholder. Oettel was terminated at age
+
+61, shortly after she returned from work following knee replacement surgery, after she had first
+
+been demoted and replaced by a substantially younger employee, less than five months after
+
+Interiors, Inc. amended its Shareholder Agreement to mandate redemption of a terminated
+
+employee’s Shares at Book Value, rather than Market Value. Oettel files this Complaint alleging
+
+age discrimination, disability discrimination, and breach of the fiduciary duty to a minority
+
+shareholder/shareholder oppression, and in support thereof avers as follows:
+
+                                 JURISDICTION AND VENUE
+
+       1.       This Court has original jurisdiction over Counts I and II of this Complaint
+
+pursuant to 28 U. S. C. §1331, in that these claims are based upon laws of the United States of
+
+America, the Americans with Disabilities Act, 42 U.S.C. §12101, as amended by the ADA
+
+Amendments Act of 2008 ("ADA”); and the Age Discrimination in Employment Act, 29 U.S.C.
+
+                                                 1
+             Case 5:26-cv-00512       Document 1       Filed 01/27/26       Page 2 of 15
+
+
+
+
+§621 (“ADEA”). This Court has supplemental jurisdiction over Count III pursuant to 28 U.S.
+
+Code §1367(a ) which arises under the common law of the Commonwealth of Pennsylvania as it
+
+so related to claims in the action within such original jurisdiction that they form part of the same
+
+case or controversy under Article III of the United States Constitution, and the damages at issue
+
+in all three causes of action are interrelated.
+
+        2.       Venue is appropriate in this Court pursuant to 28 U. S. C. §1392(b) in that
+
+Defendants have ongoing business operations in this District, Plaintiff was employed in this
+
+District and a substantial part of the events giving rise to the claim occurred in this District.
+
+        3.       The amount in controversy exceeds $150,000.00, exclusive of interest
+
+and costs.
+
+        4.       Plaintiff has complied with the applicable administrative remedies by timely filing
+
+a Charge with the Equal Employment Opportunity Commission (“EEOC”) on November 1,
+
+2025, Charge no. 530-2026-01347, and simultaneously dual filing a Complaint with the
+
+Pennsylvania Human Relations Commission (“PHRC”), Case no. unknown.
+
+        5.       On December 11, 2025, the EEOC issued a Dismissal and Notice of Suit Rights,
+
+permitting Plaintiff to file her ADEA and ADA claims in this Complaint. Plaintiff intends to file
+
+an Amended Complaint to assert causes of action for age and disability discrimination under the
+
+Pennsylvania Human Relations Act, 43 P. S. §955(a) (“PHRA”) upon receipt of applicable
+
+authority from the PHRC. Defendants Todd Lehman and Tom Williams, who are liable under
+
+Count III., infra., will also be personally liable for the PHRA claims as they aided and abetted
+
+age and disability discrimination.
+
+                                              PARTIES
+
+        6.       Plaintiff Jody Simmons-Oettel (“Oettel”) is an adult female who resides at 4
+
+Apple Drive, Litiz, PA 17543 (Lancaster County).
+                                                   2
+            Case 5:26-cv-00512          Document 1     Filed 01/27/26      Page 3 of 15
+
+
+
+
+       7.       Defendant Interiors, Inc. (“Interiors”) is a Pennsylvania corporation that operates
+
+a principal place of business at 3130 Columbia Avenue, Lancaster, PA 17603.
+
+       8.       Defendant Todd Lehman (“Lehman”) is the majority Shareholder and former
+
+President and CEO of Interiors, who maintains a principal place of business at 3130 Columbia
+
+Avenue, Lancaster, PA 17603.
+
+       9.       Defendant Tom Williams (“Williams”) is the former Chief Financial Officer, and
+
+current President of Interiors and a Shareholder in Interiors, who maintains a principal place of
+
+business at 3130 Columbia Avenue, Lancaster, PA 17603.
+
+       10.      At all times relevant hereto, Interiors was acting through Lehman and Williams.
+
+                                   FACTUAL BACKGROUND
+
+       11.      Oettel is presently 61 years of age.
+
+       12.      In 1987, at age 23, Oettel commenced employment with Interiors, which was then
+
+doing business as, Interiors 2000, as a Merchandising Assistant.
+
+       13.      As of 2003, Interiors began doing business as, Interiors Home.
+
+       14.      Interiors operates a retail furniture business that also provides design services in
+
+Central Pennsylvania with three locations: Lancaster, York and Camp Hill.
+
+       15.      Oettel received a series of promotions during her 38 year career at Interiors, first
+
+to Director of Marketing and Promotions, then in 1998 to Sales and Retail Store Manager.
+
+       16.      In 1998, when Oettel was promoted to Sales and Retail Store Manager Interiors
+
+required Oettel to sign an Employment Agreement with a one year noncompete restriction within
+
+20 miles of the Lancaster store.
+
+       17.      In 2000, Interiors promoted Oettel to Vice President of Sales.
+
+       18.      In 2015, Interiors promoted Oettel to Vice President Retail Sales and Marketing; a
+
+position that she held for ten years.
+                                                  3
+          Case 5:26-cv-00512         Document 1          Filed 01/27/26    Page 4 of 15
+
+
+
+
+        19.     In 2020, Oettel was required to sign a new Employment Agreement with a two
+
+year noncompete restriction within 30 miles of any of the three Interiors locations.
+
+        20.     As of April 2024, Interiors increased Oettel’s annual salary from $126,500.00 to
+
+$140,000.00
+
+                            Oettel Becomes a Shareholder in Interiors
+
+        21.     As of January 1, 2021, in conjunction with becoming a Shareholder, Oettel was
+
+required to sign a Shareholder Agreement that contains a restrictive covenant prohibiting her
+
+from being employed with any furniture-related business within a 30 mile radius of any Interiors
+
+retail location for three years after termination.
+
+        22.     The 2021 Shareholder Agreement provided that under any circumstance where
+
+Interiors was required to purchase a Shareholder’s shares, such as termination of employment,
+
+redemption was to be at Fair Market Value.
+
+        23.     As of the year 2025, Oettel owned 33 shares of the outstanding shares of Interiors.
+
+        24.     As of the year 2025, Lehman, the principal shareholder of Interiors owned 200
+
+shares, 71% of the outstanding shares.
+
+        25.     As of the year 2025, Williams owned 26 shares of Interiors.
+
+                         Oettel’s Need for Leave from Work and Surgery
+
+        26.     Oettel has a history of medical issues with her right knee that initially required a
+
+series of injections in 2023 and 2024.
+
+        27.     At regular meetings with Lehman and Williams, Oettel discussed her knee
+
+condition, and the fact that she would most probably ultimately require surgery.
+
+        28.     In January 2025, Oettel’s physician advised her that she would require robotic
+
+surgery and a total knee replacement.
+
+
+
+                                                     4
+           Case 5:26-cv-00512       Document 1       Filed 01/27/26      Page 5 of 15
+
+
+
+
+       29.     Upon learning of the need for a knee replacement, Oettel notified Lehman and
+
+Williams.
+
+       30.     Oettel told Lehman and Williams that she was going to require a leave of absence
+
+from work, and that she would try to work on the best timing for the surgery to fit with Interiors’
+
+business needs.
+
+       31.     Shortly after notifying Interiors about her need for a knee replacement, on
+
+February 17, 2025, Oettel was called to a meeting with Lehman and Williams at which time they
+
+advised Oettel that there were going to be “changes,” and that her salary would be substantially
+
+reduced.
+
+       32.     Prior to February 17, 2025, Lehman and Williams did not call for a Shareholder’s
+
+meeting to discuss the “changes,” and Oettel’s reduction in salary.
+
+                  The March 2025 Amendment to the Shareholder’s Agreement
+
+       33.     Or about March 13, 2025, Lehman, the President and Chief Executive Officer,
+
+insisted on a First Amendment to the Shareholder’s Agreement, whereby the redemption price
+
+for any Shareholder’s shares was reduced to Book Value, as opposed to Fair Market Value
+
+       34.     The First Amendment to the Shareholder’s Agreement was later backdated to
+
+December 31, 2024.
+
+                  Interiors Demotion of Oettel and Promotion of Linda Burke
+
+       35.     On March 31, 2025, Lehman issued a Memorandum (“the Lehman
+
+Memorandum”) whereby Oettel was formally advised that she was being demoted to a position
+
+titled, “V. P. Marketing / Interior Design and Camp Hill Store Manager”, with her annual salary
+
+reduced from $140,000.00 to $92,500.00, a reduction of 34%.
+
+
+
+
+                                                 5
+         Case 5:26-cv-00512          Document 1     Filed 01/27/26      Page 6 of 15
+
+
+
+
+       36.     Lehman informed Oettel that her primary duties would be to manage the
+
+Marketing Department and transfer to the Camp Hill store to take over management of the team.
+
+       37.     The transfer to the Camp Hill Store would require Oettel to drive one hour drive
+
+each way to Camp Hill from her home, as well as add substantial additional hours to her daily
+
+work schedule to open and close the store.
+
+       38.     The demotion greatly diminished Oettel’s responsibilities as sales oversight was
+
+being turned over to another employee, Linda Burke.
+
+       39.     Oettel was advised that the transition would be drawn out over a period of time
+
+due to her surgery, leave from work, recovery, and inability to drive following surgery.
+
+       40.     The Lehman Memorandum also addresses the health insurance that Interiors
+
+provided to Oettel and her spouse:
+
+               Health Insurance Benefits
+
+               As a shareholder in the company, Jody is eligible for the Standard Executive
+               Health Insurance Package established in a note to shareholders on July 27th, 2022.
+               Under this package, the company will pay the premium cost for a shareholder's
+               individual health insurance coverage. This package also allows shareholders to
+               add spouses to the company health insurance plan, however, the additional cost of
+               spousal coverage that is paid by the company is to be included in the shareholder's
+               compensation package. This Standard Executive Health Insurance Package can be
+               changed at any time by the President, but, is scheduled for review and
+               modification on June 30, 2025, at the end of our current health insurance policy
+               period.
+
+               At this time, Jody is receiving spousal health insurance coverage through the
+               company health insurance plan at a cost of $ 1,361.96 per month.($16,344 per
+               year). As the VP of Marketing/Design & Camp Hill Store Manager position and
+               as a current shareholder of the company, Jody will continue to be eligible to
+               receive this benefit of the Standard Executive Health Insurance Package with the
+               understanding that this benefit could change at any time.
+
+
+
+
+                                                6
+         Case 5:26-cv-00512          Document 1      Filed 01/27/26      Page 7 of 15
+
+
+
+
+       41.     A Job Description for Oettel’s new position is attached to the Lehman
+
+Memorandum and provides:
+
+               Physical Demands:
+
+               •   The physical demands described here are representative: of those that must be
+                   met by an employee to successfully perform the essentials functions of this
+                   job.
+               •   Ability to walk the showroom/sales floor and stand for long periods of time.
+                   Also, need to use/carry catalogs and fabric bundles easily. Need to lift
+                   accessories and light furniture to assist with customers’ needs, pick-ups, or
+                   assist with floor work if needed.
+
+                               Interiors Promotion of Linda Burke
+
+       42.     On or about November 2020, Interiors hired Linda Burke (“Burke’) as Warehouse
+
+Manager; approximately one year letter, Burke became VP Operations, overseeing Interiors
+
+delivery and service of furniture.
+
+       43.     Burke is eight years younger than Oettel.
+
+       44.     Burke does not suffer from any disability.
+
+       45.     Burke has not taken a leave from work during her employment with Interiors.
+
+       46.     Prior to February 17, 2025, Burke reported to Oettel for retail store and sales
+
+matters and Williams for operations matters.
+
+       47.     Burke is not a Shareholder in Interiors.
+
+       48.     When Interiors demoted Oettel, Lehman and Williams decided that Burke would
+
+be promoted to Chief Operating Officer, responsible for all sales functions and retail store
+
+operations, part of Oettel’s former duties.
+
+       49.     Prior to February 17, 2025, Lehman and Williams did not call for a Shareholder’s
+
+meeting to discuss Burke’s promotion.
+
+
+
+
+                                                 7
+           Case 5:26-cv-00512       Document 1       Filed 01/27/26      Page 8 of 15
+
+
+
+
+       50.     On April 1, 2025, Interiors through Williams issued a Confidential Memorandum
+
+(“the Williams Memorandum”) that describes challenges facing Interiors, and announces changes
+
+in senior leadership, including Oettel’s demotion and Burke’s promotion to Chief Operating
+
+Officer.
+
+       51.     The Williams Memorandum indicates, “Oettel is moving into the position of V.P.
+
+Marketing and Interior Design, which means she will be primarily responsible for marketing and
+
+store events, as well and growing and improving our interior design competency and training.”
+
+       52.     The Williams Memorandum also notes that Oettel “will be turning over the
+
+company's sales achievement responsibility to Linda Burke.”
+
+                 Oettel’s Knee Replacement Surgery Leave and Return to Work
+
+       53.     On April 3, 2025, Oettel had knee replacement surgery.
+
+       54.     After approximately two weeks, while officially out on leave, Oettel made herself
+
+available to answer questions and perform certain limited work from home.
+
+       55.     Oettel was officially out of work until May 5, 2025, at which time she was
+
+released to work part-time, 4-5 hours per day, with restrictions that included, no pushing or
+
+pulling greater than 25 pounds, no bending or stooping, and no prolonged standing or walking;
+
+Oettel was also unable to drive her car.
+
+       56.     On May 19, 2025, Oettel was released to return to work full-time with restrictions,
+
+that included no prolonged standing or walking; Oettel was able to use a cane.
+
+       57.     Oettel provided Interiors with Return to Work forms from her treating physicians
+
+noting her restrictions.
+
+
+
+
+                                                 8
+             Case 5:26-cv-00512      Document 1        Filed 01/27/26      Page 9 of 15
+
+
+
+
+        58.      When Oettel returned to full time status as of May 19, 2025, she was advised that
+
+she would not be taking over management of the Camp Hill store until the week following
+
+Interiors July 4th sale.
+
+        59.      On June 17, 2025, Oettel attended an owners meeting where health insurance was
+
+discussed, including the rationale for changing from a PPO plan to a health savings account plan
+
+as a cost savings measure.
+
+        60.      At the meeting Oettel was angry and noted that several months before, she was
+
+asked if she wanted to sell her shares and she felt very disappointed about what was happening at
+
+Interiors.
+
+        61.      On July 9, 2025, Oettel was called to a meeting with Williams, who reiterated that
+
+executive leadership of all retail stores was transferred to Burke in the first quarter of 2025, that
+
+Oettel was working in a new capacity of Vice President of Marketing and Design, and that the
+
+plan was now for her to formally assume the Camp Hill Store Manager role after Interiors
+
+August Tent Sale.
+
+        62.      Williams advised Oettel that she would have to embrace change, including having
+
+Burke as her boss, and her new role in the company.
+
+        63.      Oettel, who needs to be employed, advised Williams that she had no intention of
+
+retiring and assured Williams that she would be willing to adapt and adjust as needed.
+
+                                    Interiors Terminates Oettel
+
+        64.      On August 12, 2025, Interiors terminated Oettel at age 61, at which time she had
+
+38 consecutive years of devoted service.
+
+        65.      Interiors advised Oettel that her position was “eliminated”, and her employment
+
+was terminated effective immediately.
+
+
+
+                                                  9
+         Case 5:26-cv-00512           Document 1        Filed 01/27/26      Page 10 of 15
+
+
+
+
+        66.       At the same time Oettel was given an Employee Separation Form
+
+that indicates:
+
+                  Reason for separation or termination? REORGANIZATION: POSITION
+                  ELIMINATED
+
+                  Is employee covered under a standalone non-compete agreement? YES
+
+        67.       Interiors proffered reason for the termination is pretextual. Interiors terminated
+
+Oettel after it realized that despite the demotion she was not going to resign; and the decision to
+
+terminate Oettel was based upon Interiors’ perceptions about her as a disabled, older employee,
+
+and its intention to replace her with a non-disabled, substantially younger employee.
+
+                                      Oettel’s Shares in Interiors
+
+        68.       In a closely held corporation where there is no public market for stock and a
+
+shareholder is forced to sell shares, the valuation standard determines how much a departing
+
+Shareholder actually receives.
+
+        69.       The Amendment to Interiors’ Shareholder Agreement executed after March 13,
+
+2025, changing valuation of Interiors shares from Fair Market Value to Book Value was part of a
+
+calculated plan to diminish the value of Oettel’s shares when sold, at which time Oettel did not
+
+know that Interiors through Lehman and Williams was engaged in a premeditated plan to end
+
+Oettel’s employment.
+
+        70.       Changing the Share buyout standard from Fair Market Value to Book
+
+Value dramatically reduces the payout as Fair Market Value reflects the price at which a willing
+
+buyer and willing seller would agree, whereas, Book Value simply takes assets minus liabilities as
+
+recorded on the company’s books and ignores goodwill, historical cost, fails to reflect future
+
+earnings, often undervalues real estate, and long-held assets, and can be manipulated by
+
+accounting choices such as depreciation, reserves, and expenses.
+
+                                                   10
+         Case 5:26-cv-00512          Document 1       Filed 01/27/26     Page 11 of 15
+
+
+
+
+       71.     Interiors waited over one month after terminating Oettel until September 18, 2025
+
+to send Oettel a Stock Redemption Agreement attempting to purchase Oettel’s shares for
+
+$108,531.62, without any information whatsoever as to how it arrived at the valuation.
+
+       72.     On September 23, 2025, Oettel sent an email to Lehman seeking financial
+
+information as to how Interiors determined the Book Value.
+
+       73.     On September 26, 2025, Lehman provided Oettel with Interiors’ calculation of the
+
+Book Value of her shares.
+
+       74.     The financial criteria relied upon by Interiors to calculate Book Value deflates the
+
+true Book Value of Interiors.
+
+       75.     As a consequence of Defendants’ unlawful conduct, Oettel has suffered
+
+significant financial losses and substantial pain and suffering.
+
+                                             COUNT I
+
+                                Jody Simmons Oettel v. Interiors, Inc.
+
+             VIOLATION OF AGE DISCRIMINATION IN EMPLOYMENT ACT
+
+                                      29 U. S. C. §621 et. seq.
+
+       76.     Paragraphs 1 to 75 are incorporated herein by reference, as if set forth in full.
+
+       77.     Interiors has 20 or more employees and is subject to the ADEA.
+
+       78.     In demoting and eventually terminating Oettel and having a substantially younger
+
+employee assume her duties, Interiors has treated Oettel less favorably than a substantially
+
+younger employee.
+
+       79.     Interiors’ actions were arbitrary and capricious, and based upon a discriminatory
+
+animus toward an older employee in the workplace.
+
+       80.     Interiors’ conduct is per se unlawful and constitutes unlawful age discrimination
+
+in violation of the ADEA.
+                                                 11
+         Case 5:26-cv-00512        Document 1         Filed 01/27/26     Page 12 of 15
+
+
+
+
+        81.    As a direct result of the aforesaid unlawful discrimination, Oettel has sustained a
+
+loss of earnings, plus the value of certain employment benefits.
+
+        WHEREFORE, Plaintiff Jody Simmons-Oettel requests that this Court enter judgment in
+
+her favor and against Defendant Interiors, Inc., and that this Court award Plaintiff all damages
+
+available under the Age Discrimination in Employment Act, including monetary damages
+
+exceeding $150,000.00, in the form of all compensation and monetary losses, which Plaintiff has
+
+been denied, including back pay, front pay and prejudgment interest; reinstatement; ADEA
+
+liquidated damages; reasonable attorneys' fees; expert witness fees; costs; and any other relief
+
+which the court deems appropriate.
+
+                                            COUNT II
+
+                              Jody Simmons Oettel v. Interiors, Inc.
+
+  VIOLATION OF AMERICANS WITH DISABILITIES ACT, AS AMENDED BY THE
+                   ADA AMENDMENTS ACT OF 2008
+                       42 U. S. C. §12101, et. seq.
+
+                              DISABILITY DISCRIMINATION
+
+        82.    Paragraphs 1 to 81 are incorporated herein as if set forth in full.
+
+        83.    Oettel has/had a disability in the form of a physical impairment that substantially
+
+limits/limited one or more major life activities as compared to the average person or most people
+
+in the general population.
+
+        84.    As a consequence of her knee condition, Oettel is impacted in major life activities,
+
+including the functions of moving and walking.
+
+        85.    Oettel’s disability impacted her ability to work at certain times.
+
+        86.    Oettel was qualified to perform her job duties throughout her employment at
+
+Interiors.
+
+
+
+                                                 12
+         Case 5:26-cv-00512        Document 1         Filed 01/27/26     Page 13 of 15
+
+
+
+
+       87.     Oettel had a record of impairment.
+
+       88.     Interiors also regarded Oettel as disabled.
+
+       89.     Oettel suffered an adverse employment decision in the form of the demotion and
+
+eventual termination of her employment.
+
+       90.     Upon Oettel’s return from knee replacement surgery, she had physical restrictions
+
+that needed to be accommodated at the workplace.
+
+       91.     Interiors has discriminated against Oettel based upon her disability and Interiors’
+
+perception that she is disabled.
+
+       92.     In terminating Oettel, Interiors treated Oettel differently than another similarly
+
+situated individual who was not disabled, or whom Interiors did not regard as disabled.
+
+       WHEREFORE, Plaintiff Jody Simmons-Oettel requests that this Court enter judgment in
+
+her favor and against Defendant Interiors, Inc., and that this Court award Plaintiff all damages
+
+available under the Americans with Disabilities Act, as amended, including monetary damages
+
+exceeding $150,000.00, compensatory damages, punitive damages, reasonable attorneys' fees,
+
+reasonable expert witness fees, interest, costs, and any other relief which the Court deems
+
+appropriate.
+
+                                           COUNT III
+
+                    Jody Simmons Oettel v. Todd Lehman and Tom Williams
+
+             BREACH OF FIDUCIARY DUTY TO MINORITY SHAREHOLDER
+                        AND SHAREHOLDER OPPRESSION
+
+       93.     Oettel incorporates by reference paragraphs 1 to 92 herein as if set forth in full.
+
+       94.     Interiors is a closely held corporation within the meaning of Pennsylvania law,
+
+with a small number of Shareholders and no public market for its shares.
+
+
+
+
+                                                 13
+         Case 5:26-cv-00512         Document 1         Filed 01/27/26       Page 14 of 15
+
+
+
+
+        95.      Lehman and Williams owed fiduciary duties of loyalty, care, and good faith to
+
+Oettel as a minority shareholder in a closely held corporation.
+
+        96.      In valuing shares at Book Value rather than Fair Market Value an employer
+
+creates a powerful freeze-out tool in a closely held corporation for controlling shareholders to use
+
+as a tool to terminate employment.
+
+        97.      Lehman is the principal controlling shareholder of Interiors and owns at least 200
+
+shares, 71% of the outstanding shares.
+
+        98.      Lehman and Williams collectively own and control the vast majority of Interiors’
+
+voting shares.
+
+        99.      Oettel had a reasonable expectation of continued employment and/or participation
+
+in Interiors’ management; honest and fair treatment by the Lehman and Williams, the controlling
+
+majority Shareholders; and access to corporate information and decision-making.
+
+        100.     Beginning in or around February 2025, Oettel was excluded from management
+
+and decision-making regarding “changes,” at Interiors, such as substantially reducing Oettel’s
+
+salary, demoting Oettel, and promoting Burke.
+
+        101.     Beginning in or around February 2025, Lehman and Williams engaged in a course
+
+of conduct designed to freeze out and oppress Oettel, including but not limited to changing the
+
+manner in which Interiors values its shares from Fair Market Value to Book Value, demoting
+
+Oettel as part of a calculated plan to attempt to get Oettel to resign, and when it became apparent
+
+that she would not resign, terminate Oettel’s employment without legitimate business
+
+justification.
+
+        102.     Lehman and Williams breached their fiduciary duties by engaging in self-dealing
+
+at Oettel’s expense; effectively freezing Oettel out of Interiors, and acting in their own interests,
+
+rather than the interests of Interiors and Oettel a minority Shareholder.
+                                                  14
+         Case 5:26-cv-00512         Document 1       Filed 01/27/26     Page 15 of 15
+
+
+
+
+       103.    Oettel suffered damages as a direct and proximate result of Lehman and Williams
+
+breaching their fiduciary duties.
+
+       WHEREFORE, Plaintiff Jody Simmons-Oettel respectfully requests that this Court enter
+
+judgment in her favor against Defendants Todd Lehman and Tom Williams and enter an Order
+
+declaring that Defendants engaged in shareholder oppression, compelling the purchase of
+
+Oettel’s shares at Fair Market Value as opposed to Book Value, without minority or
+
+marketability discounts; compensatory damages, punitive damages, pre-judgment and post-
+
+judgment interest; and all such other and further relief as the Court deems just and proper.
+
+
+                                                     /S/ Andrew S. Abramson, Esq.
+                                                     __________________________
+                                                     Andrew S. Abramson, Esq.
+                                                     Abramson Employment Law, LLC
+                                                     790 Penllyn Pike
+                                                     Suite 205
+                                                     Blue Bell, PA 19422
+                                                     telephone: 267-470-4742
+                                                     email: asa@aemploylaw.com
+
+                                                     Attorney for Plaintiff Jody Simmons-Oettel
+
+Date: January 27, 2026
+
+
+
+
+                                                15
+

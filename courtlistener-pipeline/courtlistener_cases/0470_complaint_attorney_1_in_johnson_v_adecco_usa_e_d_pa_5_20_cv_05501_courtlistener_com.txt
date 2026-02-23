@@ -1,0 +1,105 @@
+Source URL: https://www.courtlistener.com/docket/18608151/1/johnson-v-adecco-usa/
+Title: Complaint (Attorney) – #1 in JOHNSON v. ADECCO USA (E.D. Pa., 5:20-cv-05501) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 5:20-cv-05501-JFL
+                                                       CIVILDocument
+                                                             COVER1SHEET
+                                                                     Filed 11/04/20 Page 1 of 21
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                          DEFENDANTS
+          Tashell Johnson                                                                                  Adecco USA
+    (b)   County of Residence of First Listed Plaintiff                                                    County of Residence of First Listed Defendant
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                           NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                      THE TRACT OF LAND INVOLVED.
+
+    (c)   Attorneys (Firm Name, Address, and Telephone Number)                                              Attorneys (If Known)
+
+          Drake P. Bearden, Jr., Costello & Mains, LLC,
+          18000 Horizon Way, Ste. 800, Mt. Laurel, NJ 08054
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                       III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                        (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                ✖ 3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                            (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                       of Business In This State
+
+    2   U.S. Government                  4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                            (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                  Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                    Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                     Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                      PERSONAL INJURY                  PERSONAL INJURY              625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                         310 Airplane                    365 Personal Injury -             of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                     315 Airplane Product                Product Liability         690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument               Liability                  367 Health Care/                                                                                     400 State Reapportionment
+    150 Recovery of Overpayment        320 Assault, Libel &                Pharmaceutical                                                 PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment           Slander                        Personal Injury                                                 820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                   330 Federal Employers’              Product Liability                                               830 Patent                       450 Commerce
+    152 Recovery of Defaulted               Liability                  368 Asbestos Personal                                               835 Patent - Abbreviated         460 Deportation
+         Student Loans                 340 Marine                          Injury Product                                                      New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)           345 Marine Product                  Liability                                                       840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment             Liability                 PERSONAL PROPERTY                       LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits          350 Motor Vehicle               370 Other Fraud               710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits            355 Motor Vehicle               371 Truth in Lending              Act                                                                485 Telephone Consumer
+    190 Other Contract                     Product Liability           380 Other Personal            720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability     360 Other Personal                  Property Damage               Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                          Injury                      385 Property Damage           740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                       362 Personal Injury -               Product Liability         751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                           Medical Malpractice                                           Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                    CIVIL RIGHTS                 PRISONER PETITIONS             790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation              440 Other Civil Rights          Habeas Corpus:                791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                    441 Voting                      463 Alien Detainee                Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖ 442 Employment                  510 Motions to Vacate                                              870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                  443 Housing/                        Sentence                                                            or Defendant)                896 Arbitration
+    245 Tort Product Liability             Accommodations              530 General                                                        871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property        445 Amer. w/Disabilities -      535 Death Penalty                 IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                           Employment                  Other:                        462 Naturalization Application                                             Agency Decision
+                                       446 Amer. w/Disabilities -      540 Mandamus & Other          465 Other Immigration                                                  950 Constitutionality of
+                                           Other                       550 Civil Rights                  Actions                                                                State Statutes
+                                       448 Education                   555 Prison Condition
+                                                                       560 Civil Detainee -
+                                                                           Conditions of
+                                                                           Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                     3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                            Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                              (specify)                 Transfer                          Direct File
+                                         Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                         Pregnancy Discrimination Act
+VI. CAUSE OF ACTION                      Brief description of cause:
+                                         Defendant discriminated against Plaintiff because of her pregnancy, failed to accommodate her, and retaliated against her
+VII. REQUESTED IN                             CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                               UNDER RULE 23, F.R.Cv.P.                                                                           JURY DEMAND:                 ✖   Yes          No
+VIII. RELATED CASE(S)
+                                             (See instructions):
+      IF ANY                                                         JUDGE                                                                DOCKET NUMBER
+DATE                                                                   SIGNATURE OF ATTORNEY OF RECORD
+11/4/2020
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                    APPLYING IFP                                    JUDGE                           MAG. JUDGE
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 2 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 3 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 4 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 5 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 6 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 7 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 8 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 9 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 10 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 11 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 12 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 13 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 14 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 15 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 16 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 17 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 18 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 19 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 20 of 21
+Case 5:20-cv-05501-JFL Document 1 Filed 11/04/20 Page 21 of 21
+

@@ -1,0 +1,1286 @@
+Source URL: https://www.courtlistener.com/docket/71965761/1/hussein-v-temple-university/
+Title: Complaint (Attorney) – #1 in HUSSEIN v. TEMPLE UNIVERSITY (E.D. Pa., 2:25-cv-06695) – CourtListener.com
+
+JS 44 (Rev. 10/20)
+
+Case 2:25-CV-06695-MAq DE QYE IRISH FijeF 11/26/25
+
+Page 1 of 33
+
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+
+purpose of initiating the civil docket sheet.
+
+(SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS
+
+Amml Hussein
+
+(b) County of Residence of First Listed Plaintiff
+
+Middlesex County
+
+DEFENDANTS
+
+(EXCEPT IN U.S. PLAINTIFF CASES)
+
+(c) Attorneys (Firm Name, Address, and Telephone Number)
+Daniel S. Orlow, Esq., Console Mattiacci Law,
+
+1525 Locust Street, 9th FI., Philadelphia, PA 19102, 215-545-7676
+
+NOTE:
+THE TRACT
+
+Attorneys (if Known)
+
+County of Residence of First Listed Defendant
+
+Temple University
+
+Philadelphia County
+
+(IN U.S. PLAINTIFF CASES ONLY)
+
+OF LAND INVOLVED.
+
+INLAND CONDEMNATION CASES, USE THE LOCATION OF
+
+II. BASIS OF JURISDICTION (Place an “X”’ in One Box Only)
+
+[x]3 Federal Question
+(U.S. Government Not a Party)
+
+CT 1 US. Government
+Plaintiff
+
+CT 2 U.S. Government
+Defendant
+
+CT 4 Diversity
+(Indicate Citizenship of Parties in Item III)
+
+(For Diversity Cases Only)
+
+IW. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+
+and One Box for Defendant)
+
+PTF DEF PTF DEF
+Citizen of This State C 1 C 1 Incorporated or Principal Place CT 4 4
+of Business In This State
+Citizen of Another State [x] 2 C 2 Incorporated and Principal Place CT 5 C 5
+of Business In Another State
+Citizen or Subject of a LC] 3 LC] 3 Foreign Nation CT 6 LC] 6
+
+Foreign Country
+
+IV. NATURE OF SUIT (Place an “X” in One Box Only)
+
+Click here for: Nature of Suit Code Descriptions.
+
+| CONTRACT TORTS FORFEITURE/PENALTY BANKRUPTCY OTHER STATUTES |
+110 Insurance PERSONAL INJURY PERSONAL INJURY | | 625 Drug Related Seizure 422 Appeal 28 USC 158 375 False Claims Act
+120 Marine 310 Airplane C 365 Personal Injury - of Property 21 USC 881 423 Withdrawal 376 Qui Tam (31 USC
+130 Miller Act 315 Airplane Product Product Liability | 690 Other 28 USC 157 3729(a))
+140 Negotiable Instrument Liability LC] 367 Health Care/ 400 State Reapportionment
+[ | 150 Recovery of Overpayment 320 Assault, Libel & Pharmaceutical PROPERTY RIGHTS 410 Antitrust
+& Enforcement of Judgment Slander Personal Injury 820 Copyrights 430 Banks and Banking
+151 Medicare Act 330 Federal Employers’ Product Liability 830 Patent |_| 450 Commerce
+152 Recovery of Defaulted Liability LC] 368 Asbestos Personal 835 Patent - Abbreviated r_| 460 Deportation
+Student Loans 340 Marine Injury Product New Drug Application [__} 470 Racketeer Influenced and
+(Excludes Veterans) 345 Marine Product Liability 840 Trademark Corrupt Organizations
+CT 153 Recovery of Overpayment Liability PERSONAL PROPERTY LABOR | 880 Defend Trade Secrets T | 480 Consumer Credit
+of Veteran’s Benefits 350 Motor Vehicle 370 Other Fraud 710 Fair Labor Standards Act of 2016 (15 USC 1681 or 1692)
+] 160 Stockholders’ Suits 355 Motor Vehicle 371 Truth in Lending Act T | 485 Telephone Consumer
+[| 190 Other Contract Product Liability CL] 380 Other Personal | | 720 Labor/Management SOCIAL SECURITY Protection Act
+| ]195 Contract Product Liability 360 Other Personal Property Damage Relations 861 HIA (1395ff) 490 Cable/Sat TV
+| 196 Franchise Injury LC] 385 Property Damage 740 Railway Labor Act 862 Black Lung (923) 850 Securities/Commodities/
+362 Personal Injury - Product Liability 751 Family and Medical 863 DIWC/DIWW (405(g)) Exchange
+Medical Malpractice Leave Act 864 SSID Title XVI r | 890 Other Statutory Actions
+REAL PROPERTY CIVIL RIGHTS PRISONER PETITIONS 790 Other Labor Litigation |_| 865 RSI (405(g)) || 891 Agricultural Acts
+[|_| 210 Land Condemnation 440 Other Civil Rights Habeas Corpus: |_|791 Employee Retirement | | 893 Environmental Matters
+[| 220 Foreclosure 441 Voting | | 463 Alien Detainee Income Security Act FEDERAL TAX SUITS 895 Freedom of Information
+| 230 Rent Lease & Ejectment x | 442 Employment i | 510 Motions to Vacate | | 870 Taxes (U.S. Plaintiff Act
+240 Torts to Land 443 Housing/ Sentence or Defendant) 896 Arbitration
+| 245 Tort Product Liability Accommodations | | 530 General T | 871 IRS—Third Party - 899 Administrative Procedure
+[| 290 All Other Real Property 445 Amer. w/Disabilities - | 535 Death Penalty IMMIGRATION 26 USC 7609 Act/Review or Appeal of
+Employment Other: 462 Naturalization Application Agency Decision
+446 Amer. w/Disabilities - 540 Mandamus & Other 465 Other Immigration T | 950 Constitutionality of
+Other 550 Civil Rights Actions State Statutes
+448 Education 555 Prison Condition
+560 Civil Detainee -
+Conditions of
+Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+
+1 Original
+Proceeding
+
+2 Removed from
+State Court
+
+3
+
+Remanded from
+Appellate Court
+
+Ci4 Reinstated or CO 5 Transferred from
+Another District
+
+(specify)
+
+Reopened
+
+Transfer
+
+6 Multidistrict
+Litigation -
+
+8 Multidistrict
+Litigation -
+Direct File
+
+VI. CAUSE OF ACTION
+
+Cite the U.S. Civil Statute under which you are filing (De not cite jurisdictional statutes unless diversity):
+42 U.S.C. §2000e, et seq.; 43 P.S. §951, et seq.; Phila. Code § 9-1101, et seq
+
+Brief description of cause:
+Plaintiff was discriminated against because of her religion.
+
+VII. REQUESTED IN [] CHECK IF THIS IS ACLASS ACTION | DEMAND $ CHECK YES only if demanded in complaint:
+COMPLAINT: UNDER RULE 23, F.R.Cv.P. in excess of $75,000 JURY DEMAND: Klyes [No
+VII. RELATED CASK(S)
+(See instructions):
+IF ANY JUDGE DOCKET NUMBER
+DATE SIGNAALL TTORNEY OF RECORD
+11/26/2025
+FOR OFFICE USE ONLY “
+RECEIPT # AMOUNT APPL YING IFP JUDGE MAG. JUDGE
+
+10/2024 Case 2:25-cv-06695-MAK Documenti1 Filed 11/26/25 Page 2 of 33
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+DESIGNATION FORM
+
+Place of Accident, Incident, or Transaction: Philadelphia, PA
+
+RELATED CASE IF ANY: Case Number: Judge:
+1. Does this case involve property included in an earlier numbered suit? Yes L
+2. Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit? Yes L]
+3. Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit? Yes L_|
+4. Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same Yes L_|
+individual?
+5. Is this case related to an earlier numbered suit even though none of the above categories apply? Yes L]
+
+If yes, attach an explanation.
+
+I certify that, to the best of my knowledge and belief, the within case 1 is / [] is not related to any pending or previously terminated
+action in this court.
+
+Civil Litigation Categories
+
+Federal Question Cases: B. Diversity Jurisdiction Cases:
+
+1. Indemnity Contract, Marine Contract, and All Other Contracts) [J] 1. Insurance Contract and Other Contracts
+2. FELA LI 2. Airplane Personal Injury
+
+3. Jones Act-Personal Injury LI 3. Assault, Defamation
+
+4. Antitrust LJ] 4. Marine Personal Injury
+
+5. Wage and Hour Class Action/Collective Action LJ 5. Motor Vehicle Personal Injury
+
+6. Patent [_] 6. Other Personal Injury (Please specify):
+
+7. Copyright/Trademark LI 7. Products Liability
+
+8. Employment LC] 8. All Other Diversity Cases: (Please specify)
+9. Labor-Management Relations
+
+10. Civil Rights
+
+11. Habeas Corpus
+
+12. Securities Cases
+
+13. Social Security Review Cases
+14. Qui Tam Cases
+
+15. Cases Seeking Systemic Relief “see certification below*
+16. All Other Federal Question Cases. (Please specify):
+
+OU OQUUUKUOUOOUUUU =
+
+I certify that, to the best of my knowledge and belief, that the remedy sought in this case L_] does / does not have implications
+beyond the parties before the court and [_] does / [xX] does not seek to bar or mandate statewide or nationwide enforcement of a state or
+federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+judgment and/or any form of injunctive relief.
+
+ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+I certify that, to the best of my knowledge and belief:
+Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+
+money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+[| None of the restrictions i Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 3 of 33
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+CASE MANAGEMENT TRACK DESIGNATION FORM
+
+Ammil Hussein : CIVIL ACTION
+
+Temple University : NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+
+to which that defendant believes the case should be assigned.
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus — Cases brought under 28 U.S.C. § 2241 through § 2255.
+
+(b) Social Security — Cases requesting review of a decision of the Secretary of Health
+and Human Services denying plaintiff Social Security Benefits.
+
+(c) Arbitration — Cases required to be designated for arbitration under Local Civil Rule 53.2.
+
+(d) Asbestos — Cases involving claims for personal injury or property damage from
+exposure to asbestos.
+
+(e) Special Management — Cases that do not fall into tracks (a) through (d) that are
+commonly referred to as complex and that need special or intense management by
+the court. (See reverse side of this form for a detailed explanation of special
+management cases.)
+
+(f) Standard Management — Cases that do not fall into any one of the other tracks.
+
+11/26/2025 OD) Plaintiff, Amml Hussein
+
+( )
+
+( )
+( )
+
+( )
+
+( )
+(X)
+
+Date Attorney-at-law Attorney for
+215-545-7676 215-405-2900 orlow@consolelaw.com
+Telephone FAX Number E-Mail Address
+
+(Civ. 660) 10/02
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 4 of 33
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+AMML HUSSEIN
+Piscataway, NJ 08854 CIVIL ACTION NO.:
+
+Plaintiff,
+v.
+JURY TRIAL DEMANDED
+TEMPLE UNIVERSITY
+Office of University Counsel
+300 Sullivan Hall, 1330 West Berks Street
+Philadelphia, PA 19122
+
+Defendant.
+
+COMPLAINT
+
+1 INTRODUCTION
+
+Plaintiff, Amml Hussein (“Plaintiff”), brings this action against her former employer,
+Temple University (“Defendant”), to remedy the unlawful religious discrimination and retaliation
+she endured as a highly competent Assistant Professor of Instruction. Defendant discriminated
+against Plaintiff because of her religion (Islam) and retaliated against her for complaining about
+religious discrimination and for requesting a reasonable religious accommodation.
+
+Defendant’s unlawful conduct includes, but is not limited to, failing to provide Plaintiff
+with a reasonable accommodation for her religious practices during Ramadan, failing to promote
+her, rescinding a previously assigned summer course, and ultimately terminating her employment.
+These actions occurred after Plaintiff engaged in protected activities and while non-Muslim
+employees who had not complained of discrimination were retained.
+
+Defendant’s actions violate Title VII of the Civil Rights Act of 1964, as amended, 42
+
+U.S.C. § 2000e, ef seq. (“Title VIT’), the Pennsylvania Human Relations Act, as amended, 43 P.S.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 5 of 33
+
+§ 951, et seg. (““PHRA”), and the Philadelphia Fair Practices Ordinance, Phila. Code § 9-1101, ef
+seq. (“PFPO”).
+
+Plaintiff seeks all appropriate relief, including back pay, front pay, compensatory
+damages for emotional distress, punitive damages, attorneys’ fees, costs, and all other legal and
+equitable relief this Court deems appropriate.
+
+Il. PARTIES
+
+1. Plaintiff, Amml Hussein, is an individual and a citizen of the State of New Jersey.
+
+2. Plaintiff is of the Muslim faith.
+
+3. Defendant, Temple University, is a PA state-related institution of higher education
+that maintains a principal place of business at 1330 West Berks Street, Philadelphia, PA 19122.
+
+4. Defendant is engaged in an industry affecting interstate commerce and regularly
+does business in the Commonwealth of Pennsylvania.
+
+5. At all times material hereto, Defendant employed fifteen (15) or more employees.
+
+6. At all times material hereto, Defendant acted by and through its authorized agents,
+servants, workmen, and/or employees acting within the course and scope of their employment with
+Defendant and in furtherance of its business.
+
+7. At all times material hereto, Defendant was an “employer” within the meaning of
+the statutes which form the basis of this matter.
+
+8. At all times material hereto, Plaintiff was an “employee” of Defendant within the
+meaning of the statutes that form the basis of this matter.
+
+Tt. JURISDICTION AND VENUE
+
+9. The causes of action which form the basis of this matter arise under Title VII, the
+
+PHRA, and the PFPO.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 6 of 33
+
+10. This Court has jurisdiction over Count I (Title VID pursuant to 42 U.S.C. § 2000e-
+5(f)(3) and 28 U.S.C. § 1331.
+
+11. This Court has supplemental jurisdiction over Count IT (PHRA) and Count III
+(PFPO) pursuant to 28 U.S.C. § 1367.
+
+12. Venue is proper in this District Court pursuant to 28 U.S.C. § 1391(b) and 42
+U.S.C. § 2000e-5(f)(3) because a substantial part of the events or omissions giving rise to these
+claims occurred within this District.
+
+13. On or about July 14, 2022, Plaintiff filed a complaint of discrimination with the
+Pennsylvania Human Relations Commission (“PHRC”), complaining of the acts of discrimination
+and retaliation alleged herein. That complaint was cross-filed with the U.S. Equal Employment
+Opportunity Commission (“EEOC”) and assigned EEOC Charge No. 17F-2022-61164. Attached
+hereto and incorporated herein as Exhibit “A” is a true and correct copy of Plaintiff's PHRC
+Complaint.
+
+14. On or about August 29, 2025, the EEOC issued to Plaintiff a Determination and
+Notice of Rights pertaining to her EEOC Charge. This action is commenced within ninety (90)
+days of Plaintiffs receipt of that notice. Attached hereto and incorporated herein as Exhibit “B” is
+a true and correct copy of that Notice.
+
+15. Plaintiff has fully complied with all administrative prerequisites for the
+commencement of this action.
+
+IV. FACTUAL ALLEGATIONS
+16. Plaintiff began working for Defendant on or about May 10, 2021.
+17. Plaintiff held the position of Assistant Professor of Instruction, a non-tenure track
+
+position in the Social Work Department within the College of Public Health.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 7 of 33
+
+18. Plaintiff consistently performed her job duties in a highly competent manner.
+
+19. Plaintiff reported to Philip McCallion, Social Work Department Chair.
+
+20. McCallion reported to Laura Siminoff, Dean of the College of Public Health.
+
+21. Siminoff reported to Gregory Mandell, Senior Vice President and Provost.
+
+22. Mandell reported to Jason Wingard, President.
+
+23. Dueto her Muslim faith, Plaintiff wears a hijab.
+
+24. To Plaintiff's knowledge, she was the only Muslim employee and the only
+employee who sought a religious accommodation who reported to McCallion.
+
+25. On or about January 5, 2022, in a meeting with McCallion, Plaintiff complained
+that she was not being paid as much as her colleagues because of her religion and requested a
+salary increase.
+
+26. McCallion stated that he would look into Plaintiff's requested salary increase.
+
+27. Defendant failed to increase Plaintiffs salary and failed to investigate her
+complaint of religious discrimination.
+
+28. Onor about January 5, 2022, Plaintiff submitted a letter of intent for promotion to
+a non-tenure track Associate Professor position.
+
+29. On or about January 26, 2022, Plaintiff applied for promotion to a tenure track
+Associate Professor position.
+
+30. On or about January 26, 2022, Defendant implied that Plaintiff was ineligible for
+a tenure track faculty position because she lacked “significant grant funding from external
+sources.”
+
+31. Defendant failed to promote Plaintiff to the tenure track Associate Professor
+
+position.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 8 of 33
+
+32. Onor about March 18, 2022, Plaintiff reiterated her interest in the non-tenure track
+promotion.
+
+33. On or about March 25, 2022, Defendant failed to promote Plaintiff to the non-
+tenure track Associate Professor position.
+
+34. Defendant failed to promote Plaintiff because of her religion and/or her religious
+discrimination complaints.
+
+35. In or about early April 2022, McCallion announced that he anticipated that
+contracts for all Assistant Professors reporting to him, including Plaintiff's, would be renewed for
+the 2022-2023 academic year.
+
+36. Onor about April 5, 2022, Plaintiff met with McCallion and requested a religious
+accommodation to work from home and to teach her courses virtually for the final two weeks of
+the semester.
+
+37. Plaintiff explained to McCallion that she was fasting for Ramadan, which involved
+not eating or drinking throughout the day.
+
+38. Plaintiff told McCallion that her fasting caused her to feel fatigued, weak, and
+nauseous.
+
+39. Plaintiff told McCallion that she had safety concerns while fasting because she
+had a four-hour round-trip commute.
+
+40. Plaintiff told McCallion that she had additional safety concerns while fasting
+because of the amount of walking and climbing of stairs required on campus.
+
+41. McCallion denied Plaintiffs religious accommodation request, stating that he did
+not have time for her religious concerns.
+
+42. McCallion then told Plaintiff that he had another meeting to attend.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 9 of 33
+
+43. On or about April 5, 2022, after Plaintiff met with McCallion, Plaintiff called
+Felisha Brown, Human Resources Manager, to request the same religious accommodation.
+
+44. Plaintiff explained to Brown that she was fasting for Ramadan, which involved
+not eating or drinking throughout the day.
+
+45. Plaintiff told Brown that her fasting caused her to feel fatigued, weak, and
+nauseous.
+
+46. Plaintiff told Brown that she had safety concerns while fasting because she had a
+four-hour round-trip commute.
+
+47. Plaintiff told Brown that she had additional safety concerns while fasting because
+of the amount of walking and climbing of stairs required on campus.
+
+48. Brown stated that Defendant did not recognize Muslim holidays, including fasting
+for Ramadan, and that Human Resources could not grant her request.
+
+49. Brown instructed Plaintiff to work with McCallion.
+
+50. On April 5, 2022, Plaintiff emailed Brown to document their conversation, noting
+that McCallion had specifically instructed her to contact Human Resources.
+
+51. Inresponse, on April 5, 2022, Brown emailed Plaintiff, again stating that Plaintiff
+would need to work with the department directly to see if the department could accommodate her
+request.
+
+52. Plaintiff forwarded her email exchange with Brown to McCallion and reiterated
+her accommodation request.
+
+53. McCallion replied that he did not have the ability to move an in-person class online
+but stated, “[I]f you can provide me with a signed doctor’s note indicating that for health reasons
+
+you need to teach online thru the end of April then I can probably get permission to permit that.”
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 10 of 33
+
+54. Onor about April 6, 2022, Plaintiff's doctor faxed a note to McCallion requesting
+that she be permitted to work from home due to increased fatigue, nausea, and motion sickness
+while observing her religious fast.
+
+55. Plaintiff's Union Representative contacted Sharon Boyle, Vice President of
+Human Resources, to discuss Plaintiff's accommodation request.
+
+56. Onor about April 8, 2022, after Plaintiff's Union Representative contacted Boyle,
+Boyle spoke with McCallion and Defendant granted Plaintiff's request to teach her courses
+virtually.
+
+57. On or about April 11, 2022, just days after her accommodation was granted,
+McCallion stated that he did not recommend Plaintiff for promotion to Associate Professor.
+
+58. That same day, April 11, 2022, Plaintiff received her list of fall 2022 teaching
+assignments from Ashley Stewart, Master of Social Work Program Director.
+
+59. On or about April 21, 2022, Plaintiff emailed Labor and Employee Relations to
+complain that McCallion had denied her religious accommodation request.
+
+60. Onthat same day, April 21, 2022, Stewart informed Plaintiff that a summer course
+she had been assigned in December 2021 was being taken away from her.
+
+61. The summer course was reassigned to DaVonti’ Haynes.
+
+62. Mr. Haynes was a non-Muslim Assistant Professor of Instruction.
+
+63. Mr. Haynes had not sought a religious accommodation.
+
+64. Mr. Haynes had never taught the summer course before.
+
+65. Plaintiff was more qualified to teach the summer course than Mr. Haynes.
+
+66. Defendant’s stated reason for reassigning the course was that Plaintiff had shared
+
+that she planned to take the summer off.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 11 of 33
+
+67. Plaintiff had never shared with Defendant that she planned to take the summer off.
+
+68. Onor about May 4, 2022, Plaintiff was elected by her peers to be the Chairperson
+of the College of Public Health Collegial Assembly for the 2022-2023 academic year.
+
+69. Onor about May 6, 2022, Plaintiff asked McCallion why summer course she had
+been assigned in December 2021 was being taken away from her.
+
+70. McCallion stated that Plaintiff had said that she planned to take the summer off.
+
+71. Plaintiff advised McCallion that she had not stated that she planned to take the
+summer off.
+
+72. McCallion then advised Plaintiff that he would get back to her with two (2)
+summer courses to teach.
+
+73. Plaintiff told McCallion that she had not yet received a contract renewal letter for
+the 2022-2023 academic year.
+
+74. McCallion replied that the contract renewal letter would come from Silverman.
+
+75. Plaintiff told McCallion that most of her colleagues had received contract renewal
+letters.
+
+76. McCallion claimed that he did not control the contract renewal process.
+
+77. On May 13, 2022, Plaintiff emailed Labor and Employee Relations again, copying
+Boyle, to follow up on her April 21 complaint and to report further retaliation.
+
+78. In her May 13, 2022 email, Plaintiff advised Defendant that since her last
+complaint, her summer course had been taken away, she had not received her contract renewal
+letter despite her colleagues receiving theirs, and she was aware that Defendant was recruiting for
+
+her position.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 12 of 33
+
+79. In her May 13, 2022 email, Plaintiff further complained of retaliation for her
+protected activity, including her request for a religious accommodation.
+
+80. On or about May 16, 2022, Plaintiff's appeal of Defendant’s failure to promote
+her was denied.
+
+81. On or about May 17, 2022, Karin Sullenberger, Assistant Director of Labor
+Relations, admitted to Plaintiff in a phone call that the investigation into her complaints had “fallen
+through the cracks.”
+
+82. On May 18, 2022, Sullenberger emailed Plaintiff and advised that Defendant was
+“working on addressing” Plaintiffs concerns.
+
+83. On or about May 19, 2022, Plaintiff received a letter from Ross Silverman,
+Associate Dean for Faculty Affairs, notifying her that Defendant was failing to renew her contract
+and that her employment was terminated, effective June 30, 2022.
+
+84. Defendant provided no explanation or selection criteria as to why Plaintiff was
+terminated while non-Muslim employees and employees who had not complained of religious
+discrimination or sought religious accommodations were retained and had their contracts renewed.
+
+85. On or about May 26, 2022, certain of Plaintiff's colleagues sent a letter to
+McCallion objecting to her termination and detailing her qualifications.
+
+86. On or about June 17, 2022, Plaintiff submitted a formal grievance to Defendant
+regarding her termination, complaining that she was terminated because she sought a religious
+accommodation.
+
+87. On July 1, 2022, Defendant, through a memorandum from Laura Siminoff, Dean
+
+of the College of Public Health, denied Plaintiff's grievance.
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 13 of 33
+
+88. Before Plaintiff complained of religious discrimination and requested an
+accommodation, she had no indication that her job was in jeopardy.
+
+89. Defendant terminated Plaintiff's employment because of her religion (Islam)
+and/or in retaliation for her seeking a religious accommodation and/or her complaining of religious
+discrimination.
+
+90. Defendant did not offer Plaintiff any other position or opportunity to remain
+employed before terminating her employment.
+
+91. The comments and conduct of Defendant’s agents and employees evidence a bias
+against Muslim employees, employees who seek religious accommodations, and employees who
+engage in protected activity.
+
+92. As a direct and proximate result of Defendant’s discriminatory and retaliatory
+conduct, Plaintiff has suffered and continues to suffer emotional distress, pain and suffering,
+embarrassment, humiliation, loss of self-esteem, and loss of life’s pleasures.
+
+93. Defendant subjected Plaintiff to a hostile work environment because of her
+religion and/or her engaging in protected activity by complaining about religious discrimination
+and requesting a religious accommodation.
+
+94. The conduct of Defendant, as set forth above, was severe and/or pervasive enough
+to make a reasonable person believe that the conditions of employment were altered, and the
+working environment was hostile or abusive.
+
+95. Plaintiff's religion was a motivating and/or determinative factor in connection
+with Defendant’s discriminatory treatment of Plaintiff, including, without limitation, in the
+creation of the hostile work environment to which Plaintiff was subjected, in Defendant’s failure
+
+to promote Plaintiff, and in her termination.
+
+10
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 14 of 33
+
+96. Plaintiffs protected activity of complaining about discrimination and/or
+requesting a religious accommodation was a motivating and/or determinative factor in connection
+with Defendant’s discriminatory and retaliatory treatment of Plaintiff, including, without
+limitation, in the creation of the hostile work environment to which Plaintiff was subjected, and in
+her termination.
+
+97. The retaliatory actions taken against Plaintiff after she complained of
+discriminatory conduct would have discouraged a reasonable employee from complaining of
+discrimination.
+
+98. As a direct and proximate result of Defendant’s discriminatory and retaliatory
+conduct, Plaintiff has in the past incurred, and may in the future incur, a loss of earnings and/or
+earning capacity and a loss of benefits.
+
+99. The conduct of Defendant, as set forth above, was willful and intentional and was
+done with malice and/or reckless indifference to Plaintiff's protected rights, warranting the
+imposition of punitive damages.
+
+COUNT I- TITLE VU OF THE CIVIL RIGHTS ACT OF 1964
+
+100. Plaintiff incorporates by reference the foregoing paragraphs as if set forth herein
+in their entirety.
+
+101. By committing the foregoing acts, including, but not limited to, discriminating
+against Plaintiff on the basis of her religion (Islam), failing to promote Plaintiff, subjecting her to
+a hostile work environment, failing to provide a reasonable accommodation for her religious
+beliefs and practices, and retaliating against her for engaging in protected activities, Defendant has
+violated Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, ef seg. (“Title
+
+VII’).
+
+11
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 15 of 33
+
+102. The conduct of Defendant, as set forth above, was willful, malicious, and/or done
+with reckless indifference to Plaintiff's federally protected rights, warranting the imposition of
+punitive damages.
+
+103. Asa direct and proximate result of Defendant’s violations of Title VII, Plaintiff
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+104. Plaintiff is now suffering and will continue to suffer irreparable injury and
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless and until
+this Court grants the relief requested herein.
+
+105. No previous application has been made for the relief requested herein.
+
+COUNT Il—- PENNSYLVANIA HUMAN RELATIONS ACT (PHRA)
+
+106. Plaintiff incorporates by reference the foregoing paragraphs as if set forth herein
+in their entirety.
+
+107. By committing the foregoing acts, including, but not limited to, discriminating
+against Plaintiff on the basis of her religion (Islam), failing to promote Plaintiff, subjecting her to
+a hostile work environment, failing to provide a reasonable accommodation for her religious
+beliefs and practices, and retaliating against her for engaging in protected activities, Defendant has
+violated the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seg. (““PHRA”).
+
+108. Said violations were intentional and willful.
+
+109. Asadirect and proximate result of Defendant’s violations of the PHRA, Plaintiff
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+110. Plaintiff is now suffering and will continue to suffer irreparable injury and
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless and until
+
+this Court grants the relief requested herein.
+
+12
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 16 of 33
+
+111. No previous application has been made for the relief requested herein.
+
+COUNT Ul — PHILADELPHIA FAIR PRACTICES ORDINANCE (PFPOQO)
+
+112. Plaintiff incorporates by reference the foregoing paragraphs as if set forth herein
+in their entirety.
+
+113. By committing the foregoing acts, including, but not limited to, discriminating
+against Plaintiff on the basis of her religion (Islam), failing to promote Plaintiff, subjecting her to
+a hostile work environment, failing to provide a reasonable accommodation for her religious
+beliefs and practices, and retaliating against her for engaging in protected activities, Defendant has
+violated the Philadelphia Fair Practices Ordinance, Phila. Code § 9-1101, et seg. ("PFPO").
+
+114. Defendant’s violations were intentional, malicious and/or willful, and done with
+reckless indifference to Plaintiff's nghts, warranting the imposition of punitive damages.
+
+115. Asa direct and proximate result of Defendant’s violations of the PFPO, Plaintiff
+has suffered the damages and losses set forth herein and has incurred attorneys’ fees and costs.
+
+116. Plaintiff is now suffering and will continue to suffer irreparable injury and
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless and until
+this Court grants the relief requested herein.
+
+117. No previous application has been made for the relief requested herein.
+
+RELIEF
+WHEREFORE, Plaintiff, Amml Hussein, seeks damages and legal and equitable relief in
+connection with Defendant's unlawful conduct, and specifically prays that the Court grant the
+following relief to Plaintiff by:
+a. Declaring the acts and practices complained of herein to be in violation of
+
+Title VII of the Civil Rights Act of 1964;
+
+13
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 17 of 33
+
+b. Declaring the acts and practices complained of herein to be in violation of
+the Pennsylvania Human Relations Act (PHRA);
+
+C. Declaring the acts and practices complained of herein to be in violation of
+the Philadelphia Fair Practices Ordinance (PFPO);
+
+d. Enjoining and permanently restraining the violations alleged herein;
+
+€. Entering judgment against Defendant and in favor of Plaintiff in an amount
+to be determined;
+
+f. Awarding damages to make Plaintiff whole for all lost earnings, earning
+capacity, and benefits, past and future, which Plaintiff has suffered or may suffer as a result
+of Defendant's unlawful conduct;
+
+g. Awarding compensatory damages to Plaintiff for past and future pain and
+suffering, emotional distress, embarrassment, humiliation, loss of self-esteem, and loss of
+life's pleasures, which Plaintiff has suffered or may suffer as a result of Defendant’s
+unlawful conduct;
+
+h. Awarding punitive damages to Plaintiff under Title VII and the PFPO for
+Defendant's willful, malicious, and/or reckless indifference to Plaintiffs protected rights;
+
+i. Awarding Plaintiff such other damages as are appropriate under Title VII,
+the PHRA, and the PFPO;
+
+j. Awarding Plaintiff the costs of suit, expert fees and other disbursements,
+and reasonable attorneys’ fees; and
+
+k. Granting such other and further relief as this Court may deem just, proper,
+or equitable including other equitable and injunctive relief providing restitution for past
+
+violations and preventing future violations.
+
+14
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 18 of 33
+
+CONSOLE TTIA LAW, LLC
+Dated: November 26, 2025 By: I
+
+Daniel S. Orlow, | Esquire
+
+1525 Locust Street, 9" Floor
+Philadelphia, PA 19102
+
+Phone: (215) 545-7676
+
+Email: orlow@consolelaw.com
+
+Attorneys for Plaintiff
+
+15
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 19 of 33
+
+Exhibit “A”’
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 2) of 33 Received™
+
+COMMONWEALTH OF PENNSYLVANIA
+GOVERNOR'S OFFICE
+PENNSYLVANIA HUMAN RELATIONS COMMISSION
+
+COMPLAINT
+COMPLAINANT:
+AMML HUSSEIN : Docket No.
+Vv.
+RESPONDENT:
+TEMPLE UNIVERSITY
+t. The Complainant herein is:
+Name: Aimml Hussein
+
+Address: Co
+
+Piscataway. NJ 08854
+
+1. The Respondent herein is:
+
+Name: Temple University
+Address: 11Ol W. Montgomery Avenue
+
+Philadelphia. PA 19122
+
+wee
+
+JUL 18 2022
+
+PA Human Relations Commission
+F~hiladciphia Regional Office
+
+2022000 4&5
+
+2. 1. Amml Hussein. the Complainant herein, alleve that | was subjected to unlawful
+
+discrimination because of my religion (Islam) and retaliation because of my religious
+
+discrimination complaints and my seeking religious accommodations, as set forth below.
+
+Discrimination and Retalistion
+
+A. Especifically allege:
+
+{!] | began working at Respondents on or about May £0, 2021.
+MEI TI ETL ee 1. wevwewwy
+
+Case 2:25-cv-06695-MAK  Document1 Filed 11/26/25 Page 21 of 33
+
+{2} | held the position of Assistant Professor of Instruction, a non-tenuae track
+position.
+
+{3} I consistently perfonned my job duties in a highly competent mannecr and
+_received positive feedback and performance reviews.
+
+{4} | reported to Philip McCallion. Social Work Department Chair.
+McCallion reported to Laura Siminol¥. Dean. College of Public Health. Siminoff reported to
+
+Gregory Mandell, Senior Vice President and Provost, who reported to Jason Wingard. Preesident.
+
+{5| Due to my Muslim faith, | wear a hijab.
+
+{6} I was. to my knowledge. the only Muslim employee reporting to
+McCallion.
+
+{7| 1 was. 10 my knowledge. the anly employee reporting to McCallion who
+
+sought a religious accommodation.
+{8] Despite acknowledging and recognizing Christian, Jewish. Hindu. and
+Buddhist holidays, Respondent failed to acknowledge or recognize Muslim holidays.
+
+[9] On January 5. 2022. ina meeting with McCallion. | complained that | was
+
+not being paid as much as my colleagues because of my religion. and requested a salary increase.
+
+McCallion stated that he would look into my salary increase request.
+
+[10] Respondent failed to increase my salary.
+{Et} Respondent failed to investigate my religious discrimination complaints.
+{12} Respondent failed to increase my salary because of my religion and/or my
+
+religious discrimination complaints.
+
+Fawiee. EL We
+eveevinida in wV 4¥
+
+Case 2:25-cv-06695-MAK. Document 1 Filed 11/26/25” Page 22 of 33
+
+[13] On January 5. 2022. in an email to Ross Silverman. Associate Dears for
+Faculty Affairs. copying McCallion, | submitted my leur of intent for promotion to Associate
+Professor. a non-tenure track position.
+
+[14] On January 18, 2022.1 submitted documentation in connection with my
+application for promotion to Associate Professor, a non-tenure track position.
+
+[15] On January 26. 2022. | applied for promotion to Associate Professor, a
+tenure track position.
+
+[16] On January 26, 2022, following the above, Respondent lailed to promote
+me to Associate Professor. a tenure track position.
+
+{ 17] On March 18, 2022. in an email to Silverman. copying McCallion, 1
+expressed my continucd interest in promotion to Associate Professor, a non-tenure track position.
+
+{18] On March 25. 2022. Respondent failed to promote me to Associate
+Professor, a non-tenure track position.
+
+{19} Respondent failed to promote me to Associate Professor because of my
+religion and/or my religious discrimination complaints.
+
+f29} In or about carly April 2022. McCallion announced that he anticipated that
+the contracts for all Assistant Professors reporting to him would be renewed for the 2022 to 2023
+academic vear.
+
+{21} On April 5. 2022. in meeting with MceCallion. | requested a religious
+accommodation to work from home, and teach my courses virtually. for the final two (2) weeks
+of the semester. since | was fasting to observe Ramadan. As such. | was not able to eat or drink
+anything throughout the day, and | did not feel safe commuting four (4) hours to and from
+
+Respondent while fasting. as | felt fatigued. weak. and nauscous. and on campus | was required
+
+From: Nancy Gla
+rays. vy ul i OVER VITEU IF OT tet sive
+
+Case 2:25-cv-06695-MAK.  Document1 Filed 11/26/25 Page 23 of 33
+
+to walk to and from various buildings and climb multiple flights of stairs to teach my cousrses.
+McCallion denied my request, stated that he did not “have time” tor my “religious concerns.”
+
+and statcd that he had another meeting to attend.
+
+[22] I was able to perfonn my job duties and responsibilities from homes.
+{23} On April 5, 2022. following the above. in a phone call with Felica Brown.
+
+Human Resources Manager. | requested a religious accommodation to work from home, zand
+teach ny courses virtually. for the final wwo (2) weeks of the semester. since | was fastings to
+observe Ramadan, As such, | was not able to eat or drink anything throughout the day, and I did
+not feel safe commuting four (4) hours to and from Respondent while fasting. as | felt fatigued.
+weak, and nauseous, and on campus | was required to walk to and from various buildings and
+climb multiple flights of stairs to teach my courses. Brown stated that Respondent did not
+recognize Muslim holidays. including fasting for Ramadan. and that. if | wanted a religious
+accommodation, | needed to work with my department chair, McCallion. because Human
+Resources could not grant my religious accommodation.
+
+[24] On April 5, 2022. following the above. in an email to Brown, | stated the
+following: “I made a request for a rcligious accommodation to teach my two in-person courses
+that mect on campus on Tucsdays/lhursdays online for the remaining two weeks of the semester
+as | am observing a religious fast for the month of Ramadan. t indicated that the fast week entails
+student presentations that may easily be delivered online via Zoom trom the Canvas site. When
+we spoke, you mentioned that | may request an accommedation through the department/chair to
+teach the remaining two Weeks online and arrangements would be made through the vice
+provost's office. | ulso mentioned that | have a wo hour commute each way lo campus (making
+
+a total of 4 hours of driving for cach day, which has caused me to feel nauseous, week. and
+
+riviii, WEIwy WIE
+Niel 19 4U 44 CUI
+
+Case 2:25-cv-06695-MAK Document 1 Filed 11/26/25 Page 24 of 33
+
+fatigued. | mentioned my safety concerns driving and continuing to teach in person. Furthesrmore.
+f mentioned that | had just met with the chair of our Department, Dr. Philip McCallion in any
+office prior to calling you. and that he instructed me to specifically contact human resourc es. and
+that he does not have the authority to make this decision. When we spoke. it was mentionesd that
+tasting for the month of Ramadan is not typically considered a religious accommodation t Brat
+HR/employee relations recognizes and therefore. a work [rom home arrangement could nest be
+approved via human resources.”
+
+[25] On April 5. 2022. following the above, in an email from Brawn, she
+stated: “You will need to work with the department directly to see if they are able to
+accommodate you for the last two weeks of the semester teaching online.”
+
+[26] On April 5. 2022. following the above. in an email to McCallioan, |
+forwarded my above email exchange with Brown and reiterated my request for a religious
+acconunodation.
+
+|27} On April 5, 2022. following the above. in an email from MeCallion. be
+stated: “I have consulted with the Dean's office and verified again that | don't have the ability to
+move an in-person class online. However if you can provide me with a signed doctor's note
+indicating that for health reasons vou need to teach online thru the end of April then | can
+probably uct permission to permit that.”
+
+[28] On April 6. 2022. my doctor faxed a note to MeCallion, requesting that |
+be permitted to work from home for the month of April 2022 due to increase latigue. nausea, and
+motion sickness. while { was observing religious fasting.
+
+{29} On April 8. 2022. in an email from Jennie Shanker. Union Representative,
+
+she told me that, aller she explained my religious accommodation request to Sharon Boyle, Vice
+
+Prom: Nancy Gia
+OT 22-15 14.40.24 CUI
+
+ASe 2:25-CV-06695-MARK Document 1 Filed 11/26/25 Page 25 of 33
+
+President, Human Resources. Boyle had spoken with MeCallion. and Boyle had granted mny
+request to teach my courses virtually for the last two (2) weeks of the semester.
+
+[30] 1 was able to perform my job dutics and responsibilities from home and,
+following the grant of my religious accommodation request. | performed my job duties and
+responsibilities from home.
+
+[31] On April 10. 2022. in an email from Mandell to Respondent's emp Toyees.
+he stated the following: “With several spring holidays approaching. | write to remind you: that.
+although the official university calendar dues not recognize religious holidays, it is important to
+respect the religious beliefs of our faculty, students, and staff. Faculty members who are
+observing religious holidays should cither reschedule their classes after consulting with students
+or find a suitable replacement for the session. consistent with schoo! or college policies. Faculty
+are also asked to be considerate of students who may request an absence for religious reasons,
+especially with respect to scheduled examinations. presentations, or assignments. This year,
+there is an unusual timing conflict with the exam schedule in that Eid al-Fitr. the Muslim holiday
+that ends Ramadhan. is scheduled to fall on May 2 for many. or May 3 for others. These are the
+last two days of the cxam period. We ask vou to be sensitive and flexible with respect to student
+requests for accommodations to a scheduled exam on cither of these dates because of the
+rclizious holiday.”
+
+[32] On April 11, 2022. in an email from Ashley Stewart. Master of Social
+Work Program Director. Assistant Professor of Instruction, she sent me the list of my tall 2022
+teaching assignments.
+
+[33] On April 11, 2022. MeCallion stated that he did not recommend me lor
+
+promotion to Associate Protessor.
+
+Prom: NeNCy Did
+regs. v79 “Vieid I4*4U 49 CVI 4199994900
+
+Case 2:25-cv-06695-MAK Document 1 Filed 11/26/25 Page 26 of 33
+
+[34} On April 21, 2022. in an email to Employee/Human Relations, |
+complained that McCallion denied my religious accommodation request. | stated: “Wher |
+asked for a ccligious accommodation in Ramadan. he insisted he could not do anything to
+accommodate me. He advised me that he checked with the Dean’s olfice and he continne d that
+he could not authorize a religious accommodation ... .~
+
+[35] On April 21, 2022. following the above. in an email from Stewart. [I was
+told that the summer course that | had been assigned on December 23, 2021 to teach in the
+summer of 2022 was being taken away {rom me and reassigned. The course was reassign ed to
+DaVonti Haynes. Assistant Professor of Instruction. who had never taught the course belore. |
+was more qualified to tcach the course than the non-Muslim employee who did not seck a
+religious accommodation to whom the course was assigned. The stated reason was that I had
+“shared that [I] planned to take the summer off.” This was false.
+
+136} On April 22, 2022. ina phone call with Brown. she confirmed that she
+received my above complaint and that she was going to consult with the Head of Labor and get
+back to me later that dav.
+
+[37} { did not hear back from her.
+
+[38] On May 4. 2022. twas clected to be the Chairperson of the College of
+Public Health Collegial Assembly for the 2022 to 2023 avademic vear.
+
+[39] On May 6, 2022. in a meeting with McCallion. | asked why the summer
+course that | had previously been assigned was taken away from me. McCaltion falsely stated
+that I had said that | planned to take the summer off. After | told him that was not true. he told
+me that he would get back to me with two (2) summer courses for me to teach. | stated that | had
+
+not yet ceccived a contract renewal fetter for the 2022 to 2023 academic year. McCallion stated
+
+Pram: Nancy Gie
+rag. ivveis OWiIg Iwaver CY
+
+Case 2:25-cv-06695-MAK  Document1 Filed 11/26/25” Page 27 of 33
+
+that the letter would come from Silverman. | stated that most of ny colicagues had alreacdy
+received their renewal letters. MeCaflion stated that he did not control that process.
+
+[40] On May 13, 2022. in an email to Employee/tluman Relations. copying
+Boyle, { stated that I was following up on my April 21. 2022 complaint, as | had not hearcd back
+from anyone since Brown's email to me on April 22. 2022. I stated that. since submittins the
+complaint. a summer course was taken away from me and assigned to a less qualified employee.
+and that | had not yet received my contract renewal letter for the next acudemic year. despite
+having followed up with MeCaflion and Silverman. and despite colleagues having received their
+contract renewal letters. f stated that | was aware that Respondent was recruiting employees for
+my position, which | did not understand. 1 complained of retaliation for engaging in protected
+activity, including my having requested a religious accommodation.
+
+{43} On May 16. 2022. ] appealed Respondent's failure to promote me to
+Associate Professor, which was denied.
+
+{42] On May 17. 2022. in a phone call with Karin Sullenberger, Assistant
+Director of Labor Relations, she told me that the investigation into my complaints had fallen
+“through the cracks.”
+
+{43] On May 18, 2022. in an email from Sullenberger. she stated that
+Respondent was “working on addressing [my] concerns.”
+
+{44] On May 19, 2022. ina letter from Silverman. Respondent failed to renew
+my contract and terminated my employment. effective June 30, 2022.
+
+{45] I received no explanation, including the selection criteria, as to why [was
+
+terminated while non-Muslim employees and employees who had not complained of religious
+
+From, Nancy Gia
+Fags fi or i4 2Ui-lSs 19 8VUi24 CY
+
+Case 2:25-cv-06695-MAK Document 1 Filed 11/26/25 Page 28 of 33
+
+discrimination or sought religious accommodations were retained and had their contracts
+renewed,
+
+[46] On May 26. 2022. in a letter to MeCallion. certain of my colleague s
+objected to my termination and detailed my qualifications.
+
+{47} On June 17, 2022. | submitted a zrievance to Respondent in connection
+with my termination. In the grievance. | complained that | was tcrininated because | soug ht a
+religious accommodation, which was initially denied by MeCallion and then approved by Boyle.
+
+[48] On July 1, 2022. ina memorandum from Siminotf, Respondent denied my
+yrievance.
+
+{49] Before 1 informed Respondents of my religion and complained of religious
+
+discrimination, | had no indication that my job was in jeopardy.
+
+{30} I.had no disciplinary or performance issu es throughout my employinent.
+[51] | had received positive feedback throughout my employment,
+[52] Respondents terminated my employment because of my religion and/or
+
+my seeking religious accommodations and/or my religious discrimination complaints.
+
+{33] | had no opportunity to remain employed with Respondents.
+
+[54] Respondents assigned my job duties and responsibilities to non-Muslim
+employees who had not complained or religious discrimination or sought religious
+accommodations.. | was more qualified to perform my job duties and responsibilities than the
+non-Muslim employees who had not complained or religious discrimination or sought religious
+accommodations to whom my job duties and responsibilities were assigned.
+
+{$5} Respondents’ religious discriminatory and retaliatory conduct toward me
+
+has caused me emotional distress.
+
+From: Nancy Gla
+£UECUI*10 4 eu ee CVI
+
+rage. 1201 14 . 1g 1999092000
+Case 2:25-cv-O6695-MAK Document Filed 11/26/25 Page 29 of 33
+
+[56] Respondents’ comments and conduct evidence a bias against Musl@ m
+employees and/or employees who seck religious accommodations and/or employces who engage
+in protected activity.
+
+B. Based on the aforementioned, | allege that Respondents have discriminatecd
+ayvainst me because of my religion (Muslim) and retaliated against me because of ni relipzious
+discrimination complaints and my seeking religious accommodations. in violation of Tithe VII of
+the Civil Rights Act of 1964, as amended. 42 U.S.C. § 2000e. es seg. ("Tithe VII"). the
+Pennsylvania Human Relations Act. as amended. 43 PLS. § 951. ef seg. (7PHRA”), and the
+Philadelphia Fair Practices Ordinance. Phila. Code § 9-1 101. ef seg. (“PFPO").
+
+3. The allegations in Paragraph 3 hereof constitute unlawful discriminatory aand
+retaliatory practices in violation ot:
+
+XxX Pennsvivania Human Relations Act (Act of October 27, 1955, PLL.
+
+744, as amended) Section 5 Subscction(s): _ (a): (d)
+
+Section 5.1 Subsection(s)
+
+Section 5.2 Subsectian(s)
+
+Pennsylvania Fair Educational Opportunities Act (Act of July 17. £961,
+
+P.L. 766. as amended) Section 4 Subsection({s)
+
+4 Other action based upon the aforesaid alleyations has been instituted by the
+Complainant in any court or before any other commission within the Commonwealth of
+Pennsvivania as follows:
+
+X_ This charge will be referred to the EEOC for the purpose of dual
+filing.
+
+5. The Complainant secks that Respondents be required to:
+
+From: Nancy Gia
+rege: 12 oF Wield 19.4U:24 CUT
+
+ase 2:25-cv-06695-MAK Document 1 Filed 11/26/25 Page 30 of 33
+
+rrom: wancy Gia
+
+(a) Make the Complainant whole.
+
+(b) Eliminate all unlawful discriminatory and retaliatory practice(s) and procecdure(s).
+
+(c) Remedy the discriminatory and retaliatory effect of past practice(s) and
+procedure(s).
+
+(d) Take further affirmative action necessary and appropriate to remedy the vieslation
+complained of herein.
+
+(¢) Provide such further relief as the Commission deems necessary and appropriate.
+rey. eeu ie avecvuirio itruct oul
+
+Case 2:25-cv-06695-MAK  Document1 Filed 11/26/25 Page 31 of 33
+
+From: Nancy Gia
+
+VERIFICATION
+
+I hereby verify that the statements contained in this complaint are true and correct to the
+best of my knowledge, information, and belicf. | understand that false statements herein a re
+made subject to the penalties of 18 P_A.C.A. Section 4904, relating to unsworn falsification to
+
+authorities.
+
+07/14/2022
+
+(Date Si pned) (Signature) =Amm) Hussein
+
+Piscataway. NJ O8854
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 32 of 33
+
+Exhibit “B”
+cc:
+
+Case 2:25-cv-06695-MAK Document1 Filed 11/26/25 Page 33 of 33
+
+U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+Philadelphia District Office
+801 Market St, Suite 1000
+Philadelphia, PA 19107
+(267) 589-9700
+
+Website: www.ceoc. gov
+
+DETERMINATION AND NOTICE OF RIGHTS
+
+(This Notice replaces EEOC FORMS 161 & 161-A)
+
+To: Amm! Hussein
+
+Piscataway, NJ 08854
+
+Re: Amml Hussein v. Temple University
+EEOC Charge Number: 17F-2022-61164
+
+EEOC Representative and email: State Local and Tribal Program Manager
+PHLSTATEANDLOCAL@EEOC.GOV
+
+DETERMINATION OF CHARGE
+
+The EEOC has granted your request for a Notice of Right to Sue, and more than 180 days have
+passed since the filing of this charge. The EEOC is terminating its processing of this charge.
+
+NOTICE OF YOUR RIGHT TO SUE
+
+This is official notice from the EEOC of the dismissal of your charge and of your right to sue. If
+you choose to file a lawsuit against the respondent(s) on this charge under federal law, your
+lawsuit must be filed WITHIN 90 DAYS of your receipt of this notice. Receipt generally
+occurs on the date that you (or your representative) received this document. You should keep a
+record of the date you received this notice. Your right to sue based on this charge will be lost if
+you do not file a lawsuit in court within 90 days. (The time limit for filing a lawsuit based on a
+claim under state law may be different.)
+
+Please retain this notice for your records.
+On Behalf of the Commission:
+
+Digitally Signed By: Karen McDonough 8/29/2025
+
+Karen McDonough
+Deputy District Director
+
+For Respondent For Charging Party
+
+Dimitri Mavroudis Andrew Sarrol
+
+Temple University Console Mattiacci Law LLC
+1330 W Polett Walk 110 Marter Avenue- Suite 502
+
+Philadelphia, PA 19122 Moorestown, NJ 08057

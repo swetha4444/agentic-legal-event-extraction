@@ -1,0 +1,637 @@
+Source URL: https://www.courtlistener.com/docket/71748259/1/dosii-v-elwyn-inc/
+Title: Complaint (Attorney) – #1 in DOSII v. ELWYN, INC (E.D. Pa., 2:25-cv-06093) – CourtListener.com
+
+            Case 2:25-cv-06093       Document 1        Filed 10/24/25      Page 1 of 12
+
+
+
+
+KOLLER LAW LLC
+David M. Koller, Esq. (90119)
+Jordan D. Santo, Esq. (320573)                                               Counsel for Plaintiff
+2043 Locust Street, Suite 1B
+Philadelphia, PA 19103
+T: (215) 545-8917
+F: (215) 575-0826
+davidk@kollerlawfirm.com
+jordans@kollerlawfirm.com
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+JAMESETTA DOSII,                              :       Civil Action No.
+242 Lafayette Avenue                          :
+Collingdale, PA 19023                         :
+              Plaintiff,                      :
+                                              :
+       v.                                     :       Complaint and Jury Demand
+                                              :
+ELWYN, INC.,                                  :
+5200 Chichester Avenue                        :
+Aston, PA 19014                               :
+                                              :
+111 Elwyn Road                                :
+Elwyn, PA 19063                               :
+            Defendant.                        :
+
+
+                                         CIVIL ACTION
+
+       Plaintiff, Jamesetta Dosii (hereinafter “Plaintiff”), by and through her attorney, Koller Law,
+
+LLC, bring this civil matter against Elwyn, Inc. (hereinafter “Defendant”), for violations of Title
+
+VII of the Civil Rights Act of 1964, as amended (“Title VII”) and the Pennsylvania Human
+
+Relations Act (“PHRA”). In support thereof, Plaintiff avers as follows:
+
+                                         THE PARTIES
+
+   1. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+   2. Plaintiff is an adult individual residing at the above captioned address.
+
+   3. Upon information and belief, Defendant Elwyn, Inc. is a nonprofit human services
+       Case 2:25-cv-06093         Document 1       Filed 10/24/25      Page 2 of 12
+
+
+
+
+   organization with a location at 5200 Chichester Avenue, Aston, PA 19014 and with a
+
+   corporate headquarters located at 111 Elwyn Road, Elwyn, PA 19063.
+
+4. At all times relevant hereto, Defendant employed managers, supervisors, agents, and
+
+   employees who Plaintiff alleges had the authority to make decisions concerning Plaintiff’s
+
+   employment. In making said decisions, these individuals engaged in the pattern and
+
+   practice of discriminatory treatment, which forms the basis of Plaintiff’s allegations in the
+
+   instant Complaint.
+
+5. At all times relevant hereto, Defendant employed managers, supervisors, agents, and
+
+   employees who acted directly or indirectly in the interest of the employer. In so acting,
+
+   these individuals engaged in the pattern and practice of discriminatory treatment, which
+
+   forms the basis of Plaintiff’s allegations in the instant Complaint.
+
+                             JURISDICTION AND VENUE
+
+6. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+7. The Court may properly maintain personal jurisdiction over Defendant because the
+
+   Defendant’s contacts with this state and this judicial district are sufficient for the exercise
+
+   of jurisdiction and comply with traditional notions of fair play and substantial justice, thus
+
+   satisfying the standard set forth by the United States Supreme Court in International Shoe
+
+   Co. v. Washington, 326 U.S. 310 (1945) and its progeny.
+
+8. The Court may exercise original subject-matter jurisdiction over the instant action pursuant
+
+   to 28 U.S.C. §§ 1331 and 1343(a)(4) because it arises under the laws of the United States
+
+   and seeks redress for violations of federal law.
+
+9. The Court may also maintain supplemental jurisdiction over state law claims set forth herein
+
+   pursuant to 28 U.S.C. § 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure
+
+
+
+                                              2
+       Case 2:25-cv-06093         Document 1        Filed 10/24/25       Page 3 of 12
+
+
+
+
+   because they are sufficiently related to one or more claims within the Court’s original
+
+   jurisdiction that they form part of the same case or controversy.
+
+10. Venue is properly laid in the Eastern District of Pennsylvania pursuant to 28 U.S.C. §§
+
+   1391(b)(1) and 1391(b)(2) because Plaintiff is domiciled in this judicial district, the
+
+   Defendant is located in this judicial district and because all of the acts and/or omissions
+
+   giving rise to the claims set forth herein occurred in this judicial district.
+
+                EXHAUSTION OF ADMINISTRATIVE REMEDIES
+
+11. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+12. Plaintiff exhausted her administrative remedies under Title VII and the PHRA.
+
+13. Plaintiff timely filed a Charge of Discrimination (“Charge”) with the U.S. Equal
+
+   Employment Opportunity Commission (“EEOC”), digitally signed on November 11, 2024,
+
+   alleging race and national origin discrimination as well as retaliation against Defendant.
+
+14. The Charge was assigned a Charge Number 530-2025-01537 and was dual filed with the
+
+   Pennsylvania Human Relations Commission (“PHRC”).
+
+15. The EEOC issued Plaintiff a Dismissal and Notice of Rights (“Right to Sue”) via request
+
+   relative to the Charge and that Notice is dated July 27, 2025.
+
+16. Prior to the filing of this action, Plaintiff notified the EEOC of her intent to proceed with a
+
+   lawsuit in federal court.
+
+17. Plaintiff files the instant Complaint within ninety (90) days of her receipt of her Right to
+
+   Sue in this matter, as it relates to her federal law claims, and within two (2) years of the
+
+   issuance of the Right to Sue in this matter as it relates to her PHRA claims.
+
+18. Plaintiff has exhausted her administrative remedies as to the allegations of this Complaint.
+
+
+
+
+                                               3
+         Case 2:25-cv-06093         Document 1        Filed 10/24/25      Page 4 of 12
+
+
+
+
+                                     MATERIAL FACTS
+
+                        PLAINTIFF’S EMPLOYMENT HISTORY
+
+  19. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+  20. Plaintiff is a Black female, and her national origin is Liberia.
+
+  21. On or about April 17, 2023, Defendant hired Plaintiff in the position of Life Skills
+
+     Associate (“LSA”).
+
+  22. Plaintiff was well qualified for her position and performed well.
+
+ PLAINTIFF’S MANAGER HARASSED PLAINTIFF DUE TO HER RACE AND/OR
+                       NATIONAL ORIGIN
+
+  23. From the start of her employment, Charisse Matthews (African American), Operations
+
+     Manager, made it clear that she did not like African employees, including Plaintiff and
+
+     Aminata Bangura, LSA.
+
+  24. Matthews threatened to attempt to have several other African employees terminated from
+
+     Defendant, by complaining to upper management about their work ethic, attitude and
+
+     performance.
+
+PLAINTIFF’S MANAGER SPOKE POORLY ABOUT HER TO HER NEW LOCATION
+
+  25. On or about May 13, 2023, Defendant transferred Plaintiff from its Shavertown location
+
+     to its Summit location and then short after to its Chichester location.
+
+  26. Matthews called Plaintiff’s new Chichester location and spoke poorly about Plaintiff.
+
+  27. Matthews stated she did not like Plaintiff and planned to terminate her because she was
+
+     transferred.
+
+  28. Matthews stated Plaintiff was “lazy” and “did not do her job.”
+
+                     PLAINTIFF’S COWORKERS HARASSED HER
+
+  29. After Matthews’ conduct, Plaintiff was harassed at the Chichester location.
+
+
+                                                 4
+       Case 2:25-cv-06093         Document 1        Filed 10/24/25      Page 5 of 12
+
+
+
+
+30. Plaintiff’s African American coworkers ignored Plaintiff and acted hostile towards her.
+
+31. George Hage (biracial/African American), LSA, particularly harassed Plaintiff.
+
+32. Hage took his shirt off in front of Plaintiff at Defendant.
+
+33. Hage stated he “hated” Plaintiff.
+
+34. Hage followed Plaintiff around.
+
+HAGE INSTRUCTED A CLIENT TO MAKE FALSE CLAIMS ABOUT PLAINTIFF
+
+35. Hage told a client to call Plaintiff the n-word, a “bitch”, and to be aggressive towards
+
+   Plaintiff.
+
+36. This client has schizophrenia and repeated whatever Hage told him to say.
+
+37. Thus, the client made false claims that Plaintiff hit him, by Hage telling the client,
+
+   knowing the client would repeat it.
+
+ PLAINTIFF COMPLAINED ABOUT HAGE’S DISCRIMINATORY CONDUCT
+
+38. Plaintiff complained about this to Kiara Gattis (African American), Manager, and Jamille
+
+   Borrome (African American), Manager, who then stated that they would report it to
+
+   Human Resources.
+
+39. Gattis stated a client complained about Plaintiff.
+
+40. However, Defendant did not address Plaintiff’s complaint.
+
+                HAGE BEGAN TO HARASS PLAINTIFF FURTHER
+
+41. In or around August 2023, Hage began to aggressively harass Plaintiff.
+
+42. Hage stalked Plaintiff and threatened her.
+
+       PLAINTIFF REPORTED HAGE’S CONDUCT TO MANAGEMENT
+
+43. On one occasion, Plaintiff called Erica Ryals, On-call Manager, and asked them to stay
+
+   on the phone with her because she felt unsafe and threatened by Hage’s behavior.
+
+
+
+                                               5
+         Case 2:25-cv-06093         Document 1        Filed 10/24/25     Page 6 of 12
+
+
+
+
+  44. Plaintiff expressed that she was scared Hage would lie about the incident and complain
+
+     about Plaintiff’s instead.
+
+HAGE FILED A FALSE COMPLAINT THAT PLAINTIFF HAD ABUSED A CLIENT
+
+  45. In or around April 2024, Hage falsely told a client’s parents that Plaintiff abused the
+
+     client.
+
+  46. This was entirely false.
+
+  DEFENDANT SUSPENDED PLAINTIFF AND FOUND HAGE HAD MADE THE
+                      FALSE ALLEGATION
+
+  47. As a result of this, Defendant suspended Plaintiff pending investigation for psychological
+
+     abuse.
+
+  48. Two (2) days later, Defendant discovered Hage lied about the situation and sent Plaintiff
+
+     back to work.
+
+  49. Hage was suspended as a result of his false allegations.
+
+  50. Eventually, Hage was terminated from Defendant.
+
+DEFENDANT CONTINUED TO ASSIGN PLAINTIFF TO THE CLIENTS WHO HAGE
+       HAD INSTRUCTED TO MAKE FALSE CLAIMS AGAINST HER
+
+  51. Plaintiff continued to care for clients that had been told by Hage to make false claims
+
+     against Plaintiff.
+
+  DEFENDANT SUSPENDED PLAINTIFF FOR ALLEGEDLY NOT GIVING OUT
+                    MEDICATION PROPERLY
+
+  52. As a result, in or around early June 2024, Plaintiff was suspended again.
+
+  53. Defendant claimed Plaintiff did not give out medication properly.
+
+  54. This was false.
+
+  55. Plaintiff was only required to administer medication a handful of times per month.
+
+  56. Plaintiff detailed this during the investigation.
+
+
+                                                 6
+       Case 2:25-cv-06093         Document 1           Filed 10/24/25   Page 7 of 12
+
+
+
+
+MATTHEWS WAS TRANSFERRED TO PLAINTIFF’S LOCATION AND BECAME
+                  HER SUPERVISOR AGAIN
+
+57. During her suspension, Matthews was transferred to the Chichester location and became
+
+   Plaintiff’s manager again.
+
+58. Immediately, Plaintiff put in a transfer request to be moved to a new location of
+
+   Defendant.
+
+                      DEFENDANT TERMINATED PLAINTIFF
+
+59. Before her request could be approved, Matthews called Plaintiff and terminated her, less
+
+   than a month after her transfer to the Chichester location.
+
+60. Matthews claimed Plaintiff made a medication error and falsified documents.
+
+61. Prior to her termination, Plaintiff made Matthews aware of a document and medication
+
+   error by several African American employees.
+
+62. Specifically, Plaintiff told Matthews that several African American employees were
+
+   signing their names for employees who were not present and were not administered
+
+   medication for a week at a time.
+
+63. At the time, Matthews yelled at Plaintiff for the errors and refused to correct the issues.
+
+64. Plaintiff was terminated under the pretext of medication errors she did not commit.
+
+65. Defendant discriminated against Plaintiff due to her race and/or national origin and
+
+   retaliated against her due to her complaints of race and/or national origin discrimination
+
+   in violation of Title VII and the PHRA
+
+66. Defendant’s acts and/or omissions were willful or performed with reckless disregard to
+
+   Plaintiff’s federal statutorily protected rights.
+
+
+
+
+                                               7
+       Case 2:25-cv-06093         Document 1       Filed 10/24/25      Page 8 of 12
+
+
+
+
+                    COUNT I – RACE DISCRIMINATION
+        TITLE VII OF THE CIVIL RIGHTS ACT OF 1964, AS AMENDED
+
+67. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+68. Plaintiff is a member of protected classes in that she is Black.
+
+69. Plaintiff was qualified to perform the job for which she was hired.
+
+70. Plaintiff suffered adverse job actions, including, but not limited to termination.
+
+71. Similarly situated people outside of Plaintiff’s protected class were treated more
+
+   favorably than Plaintiff.
+
+72. Circumstances exist related to the above cited adverse employment actions that give rise
+
+   to an inference of discrimination.
+
+73. Defendant discriminated against Plaintiff on the basis of her protected class.
+
+74. No legitimate, non-discriminatory reasons exist for the above cited adverse employment
+
+   actions that Plaintiff suffered.
+
+75. The reasons cited by Defendant for the above cited adverse employment actions that
+
+   Plaintiff suffered are pretext for discrimination.
+
+76. Defendant’s conduct was willful or performed with reckless disregard to her federal
+
+   statutory rights.
+
+   WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of
+
+this Complaint, infra.
+
+                 COUNT II – DISCRIMINATION BASED ON RACE
+                   PENNSYLVANIA HUMAN RELATIONS ACT
+
+77. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+78. The foregoing conduct by Defendant constitutes unlawful discrimination against Plaintiff
+
+
+
+                                              8
+       Case 2:25-cv-06093         Document 1        Filed 10/24/25      Page 9 of 12
+
+
+
+
+   on the basis of her protected class (Black).
+
+79. As a result of Defendant’s unlawful discrimination, Plaintiff has suffered damages as set
+
+   forth herein.
+
+   WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of
+
+this Complaint, infra.
+
+            COUNT III – NATIONAL ORIGIN DISCRIMINATION
+        TITLE VII OF THE CIVIL RIGHTS ACT OF 1964, AS AMENDED
+
+80. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+81. Plaintiff is a member of protected classes in that her national origin is Liberia.
+
+82. Plaintiff was qualified to perform the job for which she was hired.
+
+83. Plaintiff suffered adverse job actions, including, but not limited to termination.
+
+84. Similarly situated people outside of Plaintiff’s protected class were treated more
+
+   favorably than Plaintiff.
+
+85. Circumstances exist related to the above cited adverse employment actions that give rise
+
+   to an inference of discrimination.
+
+86. Defendant discriminated against Plaintiff on the basis of her protected class.
+
+87. No legitimate, non-discriminatory reasons exist for the above cited adverse employment
+
+   actions that Plaintiff suffered.
+
+88. The reasons cited by Defendant for the above cited adverse employment actions that
+
+   Plaintiff suffered are pretext for discrimination.
+
+89. Defendant’s conduct was willful or performed with reckless disregard to her federal
+
+   statutory rights.
+
+   WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of
+
+this Complaint, infra.
+
+
+                                               9
+      Case 2:25-cv-06093          Document 1        Filed 10/24/25     Page 10 of 12
+
+
+
+
+        COUNT IV – DISCRIMINATION BASED ON NATIONAL ORIGIN
+               PENNSYLVANIA HUMAN RELATIONS ACT
+
+90. Plaintiff incorporates the preceding paragraphs as if set forth more fully at length herein.
+
+91. The foregoing conduct by Defendant constitutes unlawful discrimination against Plaintiff
+
+   on the basis of her national origin (Liberia).
+
+92. As a result of Defendant’s unlawful discrimination, Plaintiff has suffered damages as set
+
+   forth herein.
+
+   WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of
+
+this Complaint, infra.
+
+                       COUNT V – RETALIATION
+        TITLE VII OF THE CIVIL RIGHTS ACT OF 1964, AS AMENDED
+
+93. Plaintiff incorporates by reference each allegation contained in the preceding paragraphs
+
+   as if the same were set forth more fully at length herein.
+
+94. Plaintiff engaged in activity protected by Title VII.
+
+95. Thereafter, Defendant took adverse employment actions against Plaintiff, including, but
+
+   not limited to, termination.
+
+96. There exists a causal connection between Plaintiff’s participation in the protected activity
+
+   and the adverse employment action.
+
+   WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of this
+
+Complaint, infra.
+
+                          COUNT VI – RETALIATION
+                    PENNSYLVANIA HUMAN RELATIONS ACT
+
+97. Plaintiff incorporates by reference each allegation contained in the preceding paragraphs
+
+   as if the same were set forth more fully at length herein.
+
+
+                                              10
+             Case 2:25-cv-06093       Document 1         Filed 10/24/25     Page 11 of 12
+
+
+
+
+   98. Plaintiff engaged in activity protected by the PHRA.
+
+   99. Thereafter, Defendant took adverse employment actions against Plaintiff, including, but
+
+       not limited to, termination.
+
+   100. There exists a causal connection between Plaintiff’s participation in the protected activity
+
+       and the adverse employment action.
+
+       WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of this
+
+   Complaint, infra.
+
+                                      PRAYER FOR RELIEF
+
+       WHEREFORE, Plaintiff, Jamesetta Dosii, requests that the Court grant her the following
+
+relief against Defendant:
+
+       (a)       Compensatory damages;
+
+       (b)       Punitive damages;
+
+       (c)       Emotional pain and suffering;
+
+       (d)       Reasonable attorneys’ fees;
+
+       (e)       Recoverable costs;
+
+       (f)       Pre and post judgment interest;
+
+       (g)       An allowance to compensate for negative tax consequences;
+
+       (h)       A permanent injunction enjoining Defendant, its directors, officers, employees,
+                 agents, successors, heirs and assigns, and all persons in active concert or
+                 participation with it, from engaging in, ratifying, or refusing to correct, employment
+                 practices which discriminate in violation of Title VII and the PHRA.
+
+       (i)       Order Defendant to institute and implement, and for its employees, to attend and/or
+                 otherwise participate in, training programs, policies, practices and programs which
+                 provide equal employment opportunities;
+
+       (j)       Order Defendant to remove and expunge, or to cause to be removed and expunged,
+                 all negative, discriminatory, and/or defamatory memoranda and documentation
+                 from Plaintiff’s record of employment, including, but not limited, the pre-textual
+
+
+                                                    11
+          Case 2:25-cv-06093        Document 1         Filed 10/24/25     Page 12 of 12
+
+
+
+
+               reasons cited for its adverse actions, disciplines, and termination; and
+
+       (k)     Awarding extraordinary, equitable and/or injunctive relief as permitted by law,
+               equity and the federal statutory provisions sued hereunder, pursuant to Rules 64 and
+               65 of the Federal Rules of Civil Procedure.
+
+
+                                   JURY TRIAL DEMAND
+
+       Demand is hereby made for a trial by jury as to all issues.
+
+
+
+                                       CERTIFICATION
+
+      I hereby certify that to the best of my knowledge and belief the above matter in controversy
+
+is not the subject of any other action pending in any court or of a pending arbitration proceeding,
+
+nor at the present time is any other action or arbitration proceeding contemplated.
+
+
+
+
+                                              RESPECTFULLY SUBMITTED,
+
+                                              KOLLER LAW, LLC
+
+
+Date: October 24, 2025                  By: /s/David M. Koller
+                                            David M. Koller, Esquire
+                                            Jordan D. Santo, Esquire
+                                            2043 Locust Street, Suite 1B
+                                            Philadelphia, PA 19103
+                                            215-545-8917
+                                            davidk@kollerlawfirm.com
+                                            jordans@kollerlawfirm.com
+
+                                              Counsel for Plaintiff
+
+
+
+
+                                                  12
+

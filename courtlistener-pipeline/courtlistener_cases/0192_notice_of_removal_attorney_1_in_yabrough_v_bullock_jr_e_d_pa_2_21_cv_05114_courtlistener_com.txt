@@ -1,0 +1,1180 @@
+Source URL: https://www.courtlistener.com/docket/61564574/1/yabrough-v-bullock-jr/
+Title: Notice of Removal (Attorney) – #1 in YABROUGH v. BULLOCK, JR. (E.D. Pa., 2:21-cv-05114) – CourtListener.com
+
+                                       Case
+                                     Case   2:21-cv-05114 Document
+                                          2:21-cv-05114-TJS        1 1Filed
+                                                            Document         11/19/21
+                                                                         Filed 11/19/21Page 1 of
+                                                                                         Page    9696
+                                                                                              1 of
+JS 44 (Rev. 0)                                                         CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+, (a) PLAINTIFFS                                                                                           DEFENDANTS2WLV%XOORFN-U3DWULFLD
+1LFN\HHD<DEURXJK                                                                                           0F&OD\DQGDiversifiedCommunityServices,
+6QG6WUHHW)3KLOD3$                                                                  Inc.,529South22ndStreet,PhilaPA19146
+      E County of Residence of First Listed Plaintiff                                                         County of Residence of First Listed Defendant              Philadelphia
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                   (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+    (c) Attorneys (Firm Name, Address, and Telephone Number)                                                 Attorneys (If Known)
+                                                                                                            5REHUW0*ROGLFK(VT 
+                                                                                                            MalcolmJ.Ingram,Esq. 
+                                                                                                            *UHHQEHUJ7UDXULJ$UFK6WUHHW6XLWH,PhilD,PA1910
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                         III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                          (For Diversity Cases Only)                                        and One Box for Defendant)
+ 1    U.S. Government                 3     Federal Question                                                                     PTF       DEF                                           PTF      DEF
+         Plaintiff                              (U.S. Government Not a Party)                        Citizen of This State          1        1       Incorporated or Principal Place        4      4
+                                                                                                                                                         of Business In This State
+
+ 2    U.S. Government                 4     Diversity                                              Citizen of Another State           2        2   Incorporated and Principal Place     5      5
+         Defendant                              (Indicate Citizenship of Parties in Item III)                                                             of Business In Another State
+
+                                                                                                     Citizen or Subject of a            3        3   Foreign Nation                       6      6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                             Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                              TORTS                                 FORFEITURE/PENALTY                         BANKRUPTCY                    OTHER STATUTES
+   110 Insurance                        PERSONAL INJURY                 PERSONAL INJURY              625 Drug Related Seizure           422 Appeal 28 USC 158           375 False Claims Act
+   120 Marine                          310 Airplane                   365 Personal Injury -             of Property 21 USC 881         423 Withdrawal                  376 Qui Tam (31 USC
+   130 Miller Act                      315 Airplane Product                Product Liability        690 Other                               28 USC 157                       3729(a))
+   140 Negotiable Instrument                 Liability                 367 Health Care/                                                                                  400 State Reapportionment
+   150 Recovery of Overpayment         320 Assault, Libel &                Pharmaceutical                                                PROPERTY RIGHTS                 410 Antitrust
+        & Enforcement of Judgment             Slander                        Personal Injury                                              820 Copyrights                  430 Banks and Banking
+   151 Medicare Act                    330 Federal Employers’              Product Liability                                            830 Patent                      450 Commerce
+   152 Recovery of Defaulted                 Liability                 368 Asbestos Personal                                            835 Patent - Abbreviated        460 Deportation
+        Student Loans                   340 Marine                          Injury Product                                                    New Drug Application        470 Racketeer Influenced and
+        (Excludes Veterans)             345 Marine Product                  Liability                                                    840 Trademark                        Corrupt Organizations
+   153 Recovery of Overpayment               Liability                 PERSONAL PROPERTY                        LABOR                     SOCIAL SECURITY                 480 Consumer Credit
+        of Veteran’s Benefits           350 Motor Vehicle              370 Other Fraud              710 Fair Labor Standards           861 HIA (1395ff)                485 Telephone Consumer
+   160 Stockholders’ Suits             355 Motor Vehicle              371 Truth in Lending               Act                           862 Black Lung (923)                 Protection Act
+   190 Other Contract                       Product Liability          380 Other Personal           720 Labor/Management               863 DIWC/DIWW (405(g))          490 Cable/Sat TV
+   195 Contract Product Liability      360 Other Personal                  Property Damage                Relations                     864 SSID Title XVI              850 Securities/Commodities/
+   196 Franchise                            Injury                     385 Property Damage          740 Railway Labor Act              865 RSI (405(g))                     Exchange
+                                        362 Personal Injury -               Product Liability        751 Family and Medical                                              890 Other Statutory Actions
+                                             Medical Malpractice                                            Leave Act                                                      891 Agricultural Acts
+        REAL PROPERTY                      CIVIL RIGHTS                 PRISONER PETITIONS            790 Other Labor Litigation          FEDERAL TAX SUITS               893 Environmental Matters
+   210 Land Condemnation               440 Other Civil Rights          Habeas Corpus:               791 Employee Retirement            870 Taxes (U.S. Plaintiff       895 Freedom of Information
+   220 Foreclosure                     441 Voting                     463 Alien Detainee                Income Security Act                  or Defendant)                   Act
+   230 Rent Lease & Ejectment          442 Employment                 510 Motions to Vacate                                            871 IRS—Third Party             896 Arbitration
+   240 Torts to Land                   443 Housing/                        Sentence                                                           26 USC 7609                899 Administrative Procedure
+   245 Tort Product Liability               Accommodations             530 General                                                                                            Act/Review or Appeal of
+   290 All Other Real Property         445 Amer. w/Disabilities -     535 Death Penalty                 IMMIGRATION                                                          Agency Decision
+                                             Employment                  Other:                       462 Naturalization Application                                      950 Constitutionality of
+                                        446 Amer. w/Disabilities -     540 Mandamus & Other         465 Other Immigration                                                    State Statutes
+                                             Other                      550 Civil Rights                  Actions
+                                        448 Education                  555 Prison Condition
+                                                                        560 Civil Detainee -
+                                                                             Conditions of
+                                                                             Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+ 1 Original              2 Removed from                  3         Remanded from              4 Reinstated or        5 Transferred from      6 Multidistrict                   8 Multidistrict
+    Proceeding               State Court                              Appellate Court               Reopened                Another District             Litigation -                   Litigation -
+                                                                                                                        (specify)                        Transfer                      Direct File
+                                          Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             §1331
+VI. CAUSE OF ACTION Brief description of cause:
+                                           Violationof7LWOH9,,
+VII. REQUESTED IN      CHECK IF THIS IS A CLASS ACTION                                                 DEMAND $                             CHECK YES only if demanded in complaint:
+     COMPLAINT:          UNDER RULE 23, F.R.Cv.P.                                                                                                  JURY DEMAND:        9 Yes    No
+VIII. RELATED CASE(S)
+                       (See instructions):
+      IF ANY                               JUDGE                                                                                             DOCKET NUMBER
+DATE                                                                      SIGNATURE OF ATTORNEY OF RECORD
+           1RYHPEHU
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                     APPLYING IFP                                      JUDGE                          MAG. JUDGE
+                                Case
+                              Case   2:21-cv-05114
+                                   2:21-cv-05114-TJSDocument
+                                                UNITEDDocument 1 1Filed  11/19/21
+                                                                     Filed
+                                                       STATES DISTRICT     11/19/21Page
+                                                                        COURT           2 of
+                                                                                     Page    9696
+                                                                                          2 of
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                          2522 S. 62nd Street, 2 F, Philadelphia, PA 19142
+Address of Plaintiff:________________________________________________________________________________________
+
+Address of Defendant:                  1529 S. 22nd Street, Philadelphia, PA 19146
+____________________________________________________________________________________________
+
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /   ●   is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      11/19/2021
+DATE: __________________________________                     __________________________________________                                    323201
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+       7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+✔      11.    All other Federal Question Cases
+                                                  Title VII
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+            Malcolm J. Ingram
+I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify:
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      11/19/2021
+DATE: __________________________________                     __________________________________________                                    323201
+                                                                                                                              ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+           Case
+         Case   2:21-cv-05114 Document
+              2:21-cv-05114-TJS        1 1Filed
+                                Document         11/19/21
+                                             Filed 11/19/21Page 3 of
+                                                             Page    9696
+                                                                  3 of
+
+
+
+
+Robert M. Goldich, Esq.
+Malcolm J. Ingram, Esq.
+Greenberg Traurig, P.C.
+1717 Arch Street, Suite 400
+Philadelphia, PA 19102
+T: (215) 988-7830
+Attorneys for Diversified Community Services, Inc., Otis Bullock, Jr., and Patricia McClay
+
+                         UNITED STATES DISTRICT COURT
+                    FOR THE EASTERN DISTRICT PENNSYLVANIA
+
+                                               :
+ NIKKYEEA YABROUGH                             : Hon. ________________________, U.S.D.J.
+ 2522 S. 62nd Street, 2F                       :
+ Philadelphia, PA 19142                        : Civ. Action No. 21-cv-________
+                                               :
+               Pro se Plaintiff                :
+                                               :
+               v.                              :
+                                               :
+ OTIS BULLOCK, JR., PATRICIA                   :
+ McCLAY and DIVERSIFIED                        :
+ COMMUNITY SERVICES, INC.                      :
+                                               :
+                       Defendants.             :
+
+
+                        NOTICE AND PETITION FOR REMOVAL
+
+TO:    Kate Barkman, Clerk of Court
+       Clerk’s Office
+       U.S. District Court for the Eastern District of Pennsylvania
+       2609 U.S. Courthouse
+       601 Market Street
+       Philadelphia, PA 19106-1797
+
+       Nikkyeea Yabrough
+       2522 S. 62nd Street, 2F
+       Philadelphia, PA 19142
+       Pro se Plaintiff
+
+       Pursuant to 28 U.S.C. §§1331, 1441, and 1446, Defendants, Diversified Community
+
+Services, Inc., Otis Bullock, Jr., and Patricia McClay (collectively “Defendants”) respectfully
+
+submit this Notice and Petition For Removal of a case from the Philadelphia County
+
+
+
+                                                1
+               Case
+             Case   2:21-cv-05114 Document
+                  2:21-cv-05114-TJS        1 1Filed
+                                    Document         11/19/21
+                                                 Filed 11/19/21Page 4 of
+                                                                 Page    9696
+                                                                      4 of
+
+
+
+
+(Pennsylvania) Court of Common Pleas and state as follows as the basis for removal:
+
+        1.       On or about May 26, 2021, Plaintiff, Nikkyeea Yabrough, filed a civil action
+
+captioned Nikkyeea Yabrough v. Diversified Community Services, Inc., et al., Case ID 210502308,
+
+in the Philadelphia County Court of Common Pleas. A true and correct copy of Plaintiff’s
+
+“Complaint-Civil Action” in that action (hereinafter referred to as the “Complaint”) is attached
+
+hereto as Exhibit A.
+
+        2.       On June 3, 2021, Plaintiff served Defendants Otis Bullock, Jr. (“Bullock”) and
+
+Patricia McClay (“McClay”) with the Complaint, along with a Civil Cover Sheet, Notice to
+
+Defend, and Acceptance of Service pursuant to Pa. R. Civ. P. 402(b).
+
+        3.       On November 17, 2021, Plaintiff served Defendant Diversified Community
+
+Services, Inc. (“Diversified Community Services”) with the Complaint, along with a Civil Cover
+
+Sheet, Notice to Defend, and Acceptance of Service pursuant to Pa. R. Civ. P. 402(b). More
+
+specifically, Malcolm J. Ingram, Esq., accepted service of those documents. A true and correct
+
+copy of Mr. Ingram’s executed Acceptance of Service is attached hereto as Exhibit B.
+
+        4.       The Complaint, Civil Cover Sheet, Notice to Defend, and Acceptance of Service
+
+that were served upon Diversified Community Services, Bullock, and McClay constitute all
+
+pleadings, process, and other documents that Plaintiff served upon Defendants in this action. The
+
+Complaint was the initial pleading received by Defendants setting forth the claims upon which
+
+Plaintiff’s action is based.
+
+        5.       This Notice and Petition is timely filed under 28 U.S.C. § 1446(b) because
+
+Defendant Diversified Community Services, Inc. effected removal within thirty (30) days of
+
+receipt of proper service of a paper from which it could first be ascertained that this action is
+
+
+
+
+                                                2
+              Case
+            Case   2:21-cv-05114 Document
+                 2:21-cv-05114-TJS        1 1Filed
+                                   Document         11/19/21
+                                                Filed 11/19/21Page 5 of
+                                                                Page    9696
+                                                                     5 of
+
+
+
+
+removable. See 28 U.S.C. § 1446(b). Further, Defendants Bullock and McClay consent to this
+
+removal.
+
+       6.       Defendants have not filed any answer or other pleading in the Philadelphia County
+
+Court of Common Pleas.
+
+       7.       This is an employment discrimination matter. Among other things, Plaintiff alleges
+
+Defendants terminated her employment in violation of the Title VII of the Civil Rights Act of
+
+1964, as amended (“Title VII”) 42 U.S.C. 2000e et seq. See Exhibit A, ¶¶26-27.
+
+       8.       Accordingly, this Court has original jurisdiction of Plaintiff’s claims under 28
+
+U.S.C. §§1331, by virtue of the federal question arising out of Plaintiff’s claims under Title VII of
+
+the Civil Rights Act of 1964, as amended, 42 U.S.C. 2000e et seq.
+
+       9.       Pursuant to 28 U.S.C. §1367 and §1441(c), this Court has supplemental jurisdiction
+
+over Plaintiff’s additional Pennsylvania law claims because it forms part of the same cause or
+
+controversy. See Exhibit A, Count II.
+
+       10.      Defendants submit this Notice and Petition for Removal without waiving any
+
+defenses to the claims asserted by Plaintiff and without conceding Plaintiff has pled any claim(s)
+
+upon which relief may be granted.
+
+       11.      Venue is proper in this Court.
+
+       12.      Pursuant to 28 U.S.C. §1446(d), Defendants have given written notice of the
+
+removal of this action to all adverse parties and have filed a copy of this Notice and Petition for
+
+Removal with the Prothonotary of the Philadelphia County Court of Common Pleas.
+
+
+
+
+                                                 3
+            Case
+          Case   2:21-cv-05114 Document
+               2:21-cv-05114-TJS        1 1Filed
+                                 Document         11/19/21
+                                              Filed 11/19/21Page 6 of
+                                                              Page    9696
+                                                                   6 of
+
+
+
+
+       WHEREFORE, Defendants respectfully request that the within action, now pending in the
+
+Philadelphia County Court of Common Pleas, be removed to the U.S. District Court for the Eastern
+
+District of Pennsylvania.
+
+                                            Respectfully submitted,
+
+
+
+                                            /s/ Malcolm J. Ingram
+                                            Malcolm J. Ingram (Pa. I.D. #323201)
+                                            Robert M. Goldich (Pa. I.D. #25559)
+                                            GREENBERG TRAURIG, LLP
+                                            1717 Arch St., Suite 400
+                                            Philadelphia, PA 19103
+                                            (215) 988-7800
+                                            (215) 988-7801 (fax)
+                                            ingramm@gtlaw.com
+                                            goldichr@gtlaw.com
+
+
+DATED: November 19, 2021
+
+
+
+
+                                               4
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7 of
+                                                    Page    9696
+                                                         7 of
+
+
+
+
+           EXHIBIT A
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8 of
+                                                    Page    9696
+                                                         8 of
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 9 of
+                                                    Page    9696
+                                                         9 of
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1010
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1111
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1212
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1313
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1414
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1515
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1616
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1717
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1818
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 1919
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2020
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2121
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2222
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2323
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2424
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2525
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2626
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2727
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2828
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 2929
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3030
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3131
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3232
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3333
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3434
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3535
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3636
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3737
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3838
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 3939
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4040
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4141
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4242
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4343
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4444
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4545
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4646
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4747
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4848
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 4949
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5050
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5151
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5252
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5353
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5454
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5555
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5656
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5757
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5858
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 5959
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6060
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6161
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6262
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6363
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6464
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6565
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6666
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6767
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6868
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 6969
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7070
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7171
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7272
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7373
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7474
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7575
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7676
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7777
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7878
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 7979
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8080
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8181
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8282
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8383
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8484
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8585
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8686
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8787
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8888
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 8989
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 9090
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 9191
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 9292
+                                                    Page  of of
+                                                             9696
+  Case
+Case   2:21-cv-05114 Document
+     2:21-cv-05114-TJS        1 1Filed
+                       Document         11/19/21
+                                    Filed 11/19/21Page 9393
+                                                    Page  of of
+                                                             9696
+
+
+
+
+            EXHIBIT B
+                                                  Case
+                                                Case   2:21-cv-05114 Document
+                                                     2:21-cv-05114-TJS        1 1Filed
+                                                                       Document         11/19/21
+                                                                                    Filed 11/19/21Page 9494
+                                                                                                    Page  of of
+                                                                                                             9696
+
+
+
+
+                     Malcolm J. Ingram
+                     Tel 215.988.7800
+                     ingramm@gtlaw.com
+
+
+
+
+                                                                                                                                                                           November 17, 2021
+
+
+
+                     VIA ECF ONLY
+
+                     Nickyeea Yabrough
+                     2522 S. 62nd Street, 2F
+                     Philadelphia, PA 194142
+
+                                           Re:                  Nickyeea Yabrough. v. Diversified Community Services, et al./Acceptance of
+                                                                Service
+
+                     Dear Ms. Yabrough:
+
+                            Our firm represents all Defendants in the above-referenced litigation. We write on behalf
+                     of Diversified Community Services, Inc. (“Diversified”) to accept service of your May 26, 2021
+                     Complaint. To that end, please find enclosed Diversified’s Acceptance of Service Form.
+
+                                                                                                                                                                           Yours truly,
+
+
+
+                                                                                                                                                                           Malcolm J. Ingram
+
+
+
+
+Greenberg Traurig, LLP | Attorneys at Law
+1717 Arch Street | Suite 400 | Philadelphia, Pennsylvania 19103 | T +1 215.988.7800 | F +1 215.988.7801
+                                                                                                                                                                                                                                                                                                            +
+Albany. Amsterdam. Atlanta. Austin. Berlin. Boston. Chicago. Dallas. Delaware. Denver. Fort Lauderdale. Houston. Las Vegas. London.* Los Angeles. Mexico City .
+                                                                                 ¬
+
+
+                         »
+Miami. Milan. Minneapolis. New Jersey. New York. Northern Virginia. Orange County. Orlando. Philadelphia. Phoenix. Sacramento. Salt Lake City. San Francisco.
+          ∞                                                                                                                                     ~
+Seoul . Shanghai. Silicon Valley. Tallahassee. Tampa. Tel Aviv ^. Tokyo¤. Warsaw . Washington, D.C. West Palm Beach. Westchester County.
+            ¬                                                                       +                        »                              ∞
+Operates as: Greenberg Traurig Germany, LLP; *A separate UK registered legal entity; Greenberg Traurig, S.C.; Greenberg Traurig Santa Maria; Greenberg Traurig LLP Foreign Legal Consultant Office; ^A branch of Greenberg Traurig, P.A., Florida, USA;   ¤GT Tokyo Horitsu Jimusho and Greenberg Traurig
+                              ~
+Gaikokuhojimubegoshi Jimusho; Greenberg Traurig Grzesiak sp.k.
+
+
+                                                                                                                                                                                                                                                                                                www.gtlaw.com
+            Case
+          Case   2:21-cv-05114 Document
+               2:21-cv-05114-TJS        1 1Filed
+                                 Document         11/19/21
+                                              Filed 11/19/21Page 9595
+                                                              Page  of of
+                                                                       9696
+
+
+
+
+ NIKKYEEA YABROUGH,                                     COURT OF COMMON PLEAS
+                                                        PHILADELPHIA COUNTY
+                              Plaintiff,
+                    v.
+                                                        May Term, 2021
+ DIVERSIFIED COMMUNITY
+ SERVICES, et al.                                       No. 002308
+
+
+                              Defendants.
+
+
+
+                                   ACCEPTANCE OF SERVICE
+
+        I, Malcolm J. Ingram, accept service of the Complaint in the above-captioned matter on
+
+behalf of Defendant Diversified Community Services, Inc., and certify that I am authorized to do
+
+so.
+
+
+
+
+Date: November 17, 2021                             /s/Malcolm J. Ingram
+                                                    Malcolm J. Ingram, Esquire
+                                                    Greenberg Traurig, LLP
+                                                    1717 Arch Street, Suite 400
+                                                    Philadelphia, PA 19103
+                                                    215-988-7800
+                                                    ingramm@gtlaw.com
+
+
+
+
+ACTIVE 61356843v1
+           Case
+         Case   2:21-cv-05114 Document
+              2:21-cv-05114-TJS        1 1Filed
+                                Document         11/19/21
+                                             Filed 11/19/21Page 9696
+                                                             Page  of of
+                                                                      9696
+
+
+
+
+Robert M. Goldich, Esq. (Pa. I.D. #25559)
+Malcolm J. Ingram, Esq. (Pa. I.D. #323201)
+Greenberg Traurig, LLP
+1717 Arch Street, Suite 400
+Philadelphia, PA 19103
+T: (215) 988-7830
+Attorneys for Diversified Community Services, Inc., Otis Bullock, Jr., and Patricia McClay
+
+                          UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT PENNSYLVANIA
+
+                                               :
+ NIKKYEEA YABROUGH                             : Hon. ________________________, U.S.D.J.
+ 2522 S. 62nd Streeet, 2F                      :
+ Philadelphia, PA 19142                        : Civil Action No. 21-cv-________
+                                               :
+                       Plaintiff,              :
+                                               :
+                v.                             :
+                                               :
+ OTIS BULLOCK, JR., PATRICIA                   :
+ McCLAY and DIVERSIFIED                        :
+ COMMUNITY SERVICES, INC.                      :
+                                               :
+                       Defendants.             :
+
+
+                                     CERTIFICATE OF SERVICE
+
+       I hereby certify that I caused to be served true and correct copies of Defendants’ Notice
+
+and Petition for Removal upon counsel of record, via the Court’s ECF Filing System, this 19th day
+
+of November 2021.
+
+
+                                                    Respectfully submitted,
+
+                                                    Greenberg Traurig, P.C.
+                                                    Attorneys for Defendants
+
+
+                                                    By:   /s/ Malcolm J. Ingram
+                                                    Malcolm J. Ingram (PA No. 323201)
+

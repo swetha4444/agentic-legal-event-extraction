@@ -1,0 +1,778 @@
+Source URL: https://www.courtlistener.com/docket/59941508/1/schumacher-v-470-manor-operating-llc/
+Title: Complaint (Attorney) – #1 in SCHUMACHER v. 470 MANOR OPERATING, LLC (E.D. Pa., 2:21-cv-02421) – CourtListener.com
+
+              Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 1 of 14
+
+
+
+
+                  IN THE UNITED STATES DISTRICT COURT
+               FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+__________________________________________
+CLARE SCHUMACHER                          :
+1439 Aspen Court                          :
+West Chester, PA 19380                    :                             CIVIL ACTION
+                                          :
+                   Plaintiff,             :                             No.: _________________________
+                                          :
+      v.                                  :
+                                          :
+470 MANOR OPERATING, LLC d/b/a            :
+ST. MARTHA’S CENTER FOR                   :
+REHABILITATION & HEALTHCARE               :
+470 Manor Avenue                          :                                      JURY TRIAL DEMANDED
+Downingtown, PA 19335                     :
+                                          :
+                   Defendant.             :
+__________________________________________:
+
+                                      CIVIL ACTION COMPLAINT
+
+         Clare Schumacher (hereinafter referred to as “Plaintiff,” unless indicated otherwise) by
+
+and through her undersigned counsel, hereby avers as follows:
+
+                                              INTRODUCTION
+
+         1.       Plaintiff has initiated this action to redress violations by 470 Manor Operating, LLC
+
+d/b/a St. Martha’s Center for Rehabilitation & Healthcare (hereinafter “Defendant”) of Title VII
+
+of the Civil Rights Act of 1964 (“Title VII” – 42 U.S.C. §§ 200(d) et. seq), the Older Adults
+
+Protective Services Act (“OAPSA” - 35 P.S. §§ 10225.101 et seq.), and the Pennsylvania Human
+
+Relations Act (“PHRA”).1           As a direct consequence of Defendant’s unlawful actions, Plaintiff
+
+seeks damages as set forth herein.
+
+
+1
+ Plaintiff’s claims under the PHRA are referenced herein for notice purposes. She is required to wait 1 full year
+before initiating a lawsuit from date of dual-filing with the EEOC. Plaintiff must however file her lawsuit in advance
+of same because of the date of issuance of her federal right-to-sue-letter under Title VII. Plaintiff’s PHRA claims
+however will mirror identically her federal claims under Title VII.
+             Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 2 of 14
+
+
+
+
+                                  JURISDICTION AND VENUE
+
+        2.      This Court has original subject matter jurisdiction over the instant action pursuant
+
+to 28 U.S.C. §§ 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks
+
+redress for violations of federal laws. There lies supplemental jurisdiction over Plaintiff’s state-
+
+law claims because they arise out of the same common nucleus of operative facts as Plaintiff's
+
+federal claims asserted herein.
+
+        3.      This Court may properly maintain personal jurisdiction over Defendant because its
+
+contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over
+
+Defendant to comply with traditional notions of fair play and substantial justice, satisfying the
+
+standard set forth by the United States Supreme Court in Int’l Shoe Co. v. Washington, 326 U.S.
+
+310 (1945), and its progeny.
+
+        4.      Pursuant to 28 U.S.C. § 1391(b)(1) and (b)(2), venue is properly laid in this district
+
+because Defendant is deemed to reside where it is subjected to personal jurisdiction, rendering
+
+Defendant a resident of the Eastern District of Pennsylvania.
+
+        5.      Plaintiff filed a Charge of discrimination and retaliation with the Equal
+
+Employment Opportunity Commission (“EEOC”) and also dual-filed said charge with the
+
+Pennsylvania Human Relations Commission (“PHRC”). Plaintiff has properly exhausted her
+
+administrative proceedings before initiating this action by timely filing and dual-filing her Charge
+
+with the EEOC and PHRC, and by filing the instant lawsuit within 90 days of receiving her right-
+
+to-sue letter from the EEOC.
+
+                                              PARTIES
+
+        6.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+
+
+                                                   2
+             Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 3 of 14
+
+
+
+
+        7.      Plaintiff is an adult individual with an address set forth in the caption.
+
+        8.      470 Manor Operating, LLC d/b/a St. Martha’s Center for Rehabilitation and
+
+Healthcare is a Catholic faith care center that provides short- and long-term rehabilitation and care
+
+programs to its residents, with an address set forth in the above-caption. Plaintiff was hired from
+
+and worked out of this address.
+
+        9.      At all times relevant herein, Defendant acted by and through its agents, servants
+
+and employees, each of whom acted at all times relevant herein in the course and scope of their
+
+employment with and for the Defendant.
+
+                                   FACTUAL BACKGROUND
+        10.     The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        11.     Plaintiff is an adult female.
+
+        12.     Plaintiff was employed by Defendant as a Registered Nurse (“RN”) Unit Manager
+
+for approximately 9 months, from on or about January 14, 2020, until her unlawful termination
+
+(discussed further infra) on or about October 22, 2020.
+
+        13.     Plaintiff worked well over 40 hours per week for Defendant, and reported primarily
+
+to RN Director of Nursing (“DON”), Karen Cassidy (hereinafter “Cassidy”). Plaintiff had also
+
+indirectly reported to Executive Director, Jen Quinones (hereinafter “Quinones”) and Regional
+
+Management, Ed (last name unknown, hereinafter “Ed”).
+
+        14.     Throughout her employment with Defendant, Plaintiff was a hard-working
+
+employee who performed her job well.
+
+        15.     Upon Plaintiff’s observations and belief, Defendant is run very haphazardly, with
+
+poor management and organization, and in continual violation of policies and regulatory
+
+obligations.
+
+                                                   3
+           Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 4 of 14
+
+
+
+
+       16.      For example, during her tenure with Defendant, Plaintiff was repeatedly and
+
+routinely subjected to unwelcomed sexual comments/conduct by a housekeeping employee,
+
+Raymond Williams (hereinafter “Williams”). By way of specific example, but not intended to be
+
+an exhaustive list, Williams:
+
+             a. Followed Plaintiff around despite not needing to be in the same areas that Plaintiff
+
+                was working;
+
+             b. Stood too close to Plaintiff and touched her shoulder on multiple occasions;
+
+             c. Obsessively watched Plaintiff’s movements, regularly waiting for her wherever she
+
+                was working;
+
+             d. Routinely asked other employees about Plaintiff’s whereabouts;
+
+             e. Subjected Plaintiff to verbally sexual and inappropriate comments, such as telling
+
+                Plaintiff he wanted “to run away with [her]” and “be with [her]”; and
+
+             f. Regularly blocked the one entrance/exit that Plaintiff utilized to leave the facility
+
+                with his mop, laughing at her and not allowing her to leave for brief periods.
+
+                Plaintiff discovered that she was not the only female employee that Williams
+
+                subjected to this harassing behavior (i.e., when she commented at a weekly Care
+
+                Conference that she was sick of Williams constantly blocking her when she leaves
+
+                the facility, virtually every other woman in the meeting replied “me too.”)
+
+       17.      Throughout her tenure with Defendant, Plaintiff tried her best to either ignore
+
+Williams’ aforementioned unwanted harassment or indicate through her actions and body language
+
+that she was uncomfortable with Williams’ sexual advances/comments/touching. However, the
+
+sexual harassment became so pervasive that Plaintiff had to cease working for the remainder of
+
+one day.
+
+
+
+                                                  4
+          Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 5 of 14
+
+
+
+
+       18.     Because Williams’ aforesaid sexual harassment began to interfere with Plaintiff’s
+
+work, she was forced to complain to multiple levels of Defendant’s management of said sexual
+
+harassment and seek significant intervention in advance of her termination.
+
+       19.     Plaintiff initially expressed her sexual harassment concerns to Defendant’s
+
+management in the July 2020 timeframe. However, by early August of 2020, Plaintiff had no
+
+choice but to escalate her complaints because she had been scheduled to work in the presence of
+
+Williams in a different area of the building. As a result, Plaintiff requested that Williams work
+
+away from her and refrain from speaking to her.
+
+       20.     Instead of meaningfully investigating or addressing Plaintiff’s aforesaid complaints
+
+of sexual harassment, Plaintiff was subjected to pretextual admonishment and written discipline in
+
+or about by October of 2020.
+
+       21.     Thereafter, Plaintiff was abruptly terminated on or about October 22, 2020, for
+
+alleged “poor performance.”
+
+       22.     Defendant’s purported reason for her termination – “poor performance” – however,
+
+is completely pretextual and clearly motivated by Plaintiff’s objections to sexual harassment and
+
+continued requests to resolve sexual harassment.
+
+       23.     Additionally, even though Defendant’s management knew Williams had sexually
+
+harassed Plaintiff (which upon information and belief is a terminable offense as Defendant had a
+
+zero-tolerance policy for sexual harassment), they did not take any meaningful remedial action to
+
+correct his behavior, and he remained employed with Defendant following Plaintiff’s termination.
+
+       24.     Plaintiff believes and therefore avers that she was really subjected to a hostile work
+
+environment and terminated because of her gender and/or complaints of sexual harassment/hostile
+
+work environment (as discussed supra).
+
+
+
+                                                  5
+               Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 6 of 14
+
+
+
+
+                          -Violations of the Older Adult Protective Services Act-
+
+           25.      In addition to reports of sexual harassment, leading up to her termination, Plaintiff
+
+reported multiple instances of neglect and/or abuse to Defendant’s management, pertaining to
+
+several patients, who, upon information and belief, were 60 years of age or older. By way of
+
+example, but not intended to be an exhaustive list:
+
+                 a. Plaintiff discovered after returning to work one Monday, that an elderly patient
+
+                    (hereinafter referred to as “Patient A”) 2 had fallen on multiple occasions over the
+
+                    weekend, followed by her fourth fall that Monday, during which Patient A hit her
+
+                    head. Plaintiff reported the neglect and/or abuse of Patient A to DON Cassidy,
+
+                    inquiring as to why Patient A had not been sent to the hospital over the weekend,
+
+                    as the patient was on blood thinners and at risk of severe harm from the falls.
+
+                    Cassidy hostilely advised Plaintiff that “no one would be sending [Patient A] out,”
+
+                    to which Plaintiff replied that they had an obligation to send Patient A for an
+
+                    evaluation. Plaintiff then contacted Patient A’s doctor who had her transported to
+
+                    Brandywine Hospital, after which she was evaluated and airlifted to a trauma center
+
+                    in Reading Pennsylvania for a brain bleed. Instead of commending Plaintiff for
+
+                    protecting the well-being of Patient A, Cassidy admonished and reported Plaintiff
+
+                    to Quinones for harming Defendant’s reputation;
+
+                 b. On a separate occasion, Plaintiff went to assess another elderly patient (hereinafter
+
+                    referred to as “Patient B”), who screamed painfully when Plaintiff touched her
+
+                    hand. Plaintiff requested an x-ray of Patient B’s hand, which revealed a very bad
+
+                    fracture. Following the x-ray, Plaintiff discovered that Patient B’s hand injury had
+
+
+
+2
+    Patients herein are referenced only as Patients A, B, and C for privacy purposes.
+
+                                                            6
+          Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 7 of 14
+
+
+
+
+                been brought to the attention of several people, including Cassidy, who had ignored
+
+                Patient B’s complaints. When Plaintiff reported to Cassidy that ignoring Patient
+
+                B’s fractured hand amounted to neglect, Cassidy refused to believe that Patient B’s
+
+                hand was actually fractured and required a second x-ray. Following the second x-
+
+                ray, Plaintiff complained to Defendant’s Medical Director, who confirmed to
+
+                Plaintiff that Patient B’s fracture was of the kind that could have resulted in
+
+                amputation if left untreated; and
+
+             c. Plaintiff discovered that Defendant’s management, including but not limited to
+
+                Cassidy, failed to assess another elderly patient (hereinafter referred to as “Patient
+
+                C”), despite multiple requests from Patient C’s social worker. As a result, when
+
+                Patient C was eventually assessed, she was near death, immediately transferred to
+
+                a local hospital, and spent over 5 weeks in recovery;
+
+       26.      Plaintiff reported each of the aforementioned (and other) instances of patient
+
+neglect and/or abuse to multiple levels of management, including but not limited to Cassidy and
+
+Quinones, always following the proper chain of command.
+
+       27.      Before Plaintiff had the opportunity to see whether Defendant’s administration was
+
+going to report such aforementioned neglect and/or abuse to the proper agency or whether an
+
+investigation into such acts of neglect and/or abuse would be properly conducted by Defendant’s
+
+administration, Plaintiff was abruptly terminated on or about October 22, 2020, for alleged “poor
+
+performance.”
+
+       28.      Defendant’s purported reason for her termination – “poor performance” – however,
+
+is completely pretextual and clearly motivated by Plaintiff’s non-cooperation or objection to
+
+patient abuse and neglect (inclusive of sending patients to hospitals where medically necessary).
+
+
+
+                                                    7
+               Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 8 of 14
+
+
+
+
+             29.    Plaintiff believes and therefore avers that she was really terminated (1) in retaliation
+
+     for reporting the aforementioned acts of neglect and/or abuse and (2) so that Defendant could
+
+     intimidate her from further reporting the aforementioned acts of neglect and/or abuse to an
+
+     appropriate outside agency.
+
+                                              COUNT I
+                                        Violations of Title VII
+([1] Gender Discrimination; [2] Sexual Harassment/Hostile Work Environment; and [3] Retaliation)
+
+             30.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+     full.
+
+             31.    During her tenure with Defendant, Plaintiff was subjected to severe and/or
+
+     pervasive sexual advances, comments, and conduct by a male co-worker such that she was
+
+     subjected to a hostile work environment.
+
+             32.    The male co-worker’s harassment of Plaintiff interfered with Plaintiff’s work and
+
+     as a result she was forced to complain of said sexual harassment to Defendant’s management, in
+
+     advance of her termination.
+
+             33.    In response to Plaintiff’s complaints of sexual harassment, Williams continued to
+
+     subject Plaintiff to unwelcomed sexual comments/conduct, and Defendant’s management
+
+     subjected Plaintiff to pretextual admonishment and written discipline.
+
+             34.    On or about October 22, 2020, Plaintiff was abruptly terminated in close proximity
+
+     to her complaints of sexual harassment, for pretextual reasons.
+
+             35.    Plaintiff believes and therefore avers that she was subjected to a hostile work
+
+     environment and terminated because of her gender and/or in retaliation for her complaints of sexual
+
+     harassment (as discussed supra).
+
+             36.    These actions as aforesaid constitute unlawful violations under Title VII.
+
+
+
+                                                       8
+           Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 9 of 14
+
+
+
+
+                                            COUNT II
+                     Violations of the Older Adults Protective Services Act
+                                  (35 P.S. §§ 10225.101 et seq.)
+                              (Retaliatory Action / Intimidation)
+
+        37.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in
+
+full.
+
+        38.    Plaintiff was an employee of Defendant, a “facility” or facilities under the Older
+
+Adult Protective Services Act 35 P.S. § 10225.103, as this term has been defined.
+
+        39.    35 P.S. § 10225.302 states that “[a]ny person having reasonable cause to believe
+
+that an older adult is in need of protective services may report such information to the agency
+
+which is the local provider of protective services. . .”
+
+        40.    Leading up to her termination, Plaintiff reported multiple instances of neglect
+
+and/or abuse to her supervisor (Cassidy), pertaining to several older patients, who, upon
+
+information and belief, were 60 years of age or older, with functional limitations and therefore
+
+needed the assistance of another person to perform or obtain services necessary to maintain their
+
+physical or mental health.
+
+        41.    Before Plaintiff had the opportunity to see whether Defendant’s administration was
+
+going to report such aforementioned neglect and/or abuse to the proper agency or whether an
+
+investigation into such acts of neglect and/or abuse would be properly conducted by Defendant’s
+
+administration, Plaintiff was abruptly terminated.
+
+        42.    Plaintiff, unlike her fellow employees who failed to report neglect and/or abuse
+
+within Defendant and/or who actually committed neglect and/or abuse, was terminated from her
+
+employment with Defendant for completely pretextual reasons.
+
+
+
+
+                                                  9
+          Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 10 of 14
+
+
+
+
+       43.     Plaintiff was subjected to verbal admonishment, discipline, and termination by
+
+Defendant as a way to intimidate her from further reporting such acts of abuse to an appropriate
+
+outside agency.
+
+       44.     35 P.S. § 10225.302(c) clearly states that “[a]ny person making a report or
+
+cooperating with the agency . . . shall be free from any discriminatory, retaliatory or disciplinary
+
+action by an employer or by any other person or entity . . . [and] [a]ny person who violates this
+
+subsection is subject to a civil lawsuit by the reporter wherein the reporter . . . shall recover treble
+
+compensatory damages, compensatory and punitive damages . . . .”
+
+       45.     35 P.S. §§ 10225.302(c.1) (a subsection of 35 P.S. § 10225.302(c)) further states
+
+that “[a]ny person . . . with knowledge sufficient to justify making a report or cooperating with the
+
+agency . . . shall be free from any intimidation by an employer or by any other person or entity.
+
+Any person who violates this subsection is subject to civil lawsuit by the person intimidated . . .
+
+wherein the person intimidated . . . shall recover treble compensatory and punitive damages . . . .”
+
+       46.     Defendants violated 35 P.S. §§ 10225.302(c.1) because they intentionally retaliated
+
+against Plaintiff by hostilely admonishing, disciplining, and ultimately terminating Plaintiff as a
+
+way to intimidate her because she had knowledge that Defendant’s employees engaged in neglect
+
+and/or abuse against patients of Defendant (which would have been sufficient to justify her making
+
+a report to an appropriate outside agency on aging).
+
+       47.     As a consequence of Defendant’s violations of the Older Adult Protective Services
+
+Act, Plaintiff has suffered damages.
+
+       WHEREFORE, Plaintiff prays that this Court enter an Order providing that:
+
+       A.      Defendant is to promulgate and adhere to a policy prohibiting discrimination and
+
+retaliation in the future against any employee(s);
+
+
+
+                                                  10
+            Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 11 of 14
+
+
+
+
+       B.       Defendant is to compensate Plaintiff, reimburse Plaintiff, and make Plaintiff whole
+
+for any and all pay and benefits Plaintiff would have received had it not been for Defendant’s
+
+illegal actions, including but not limited to back pay, front pay, salary, pay increases, bonuses,
+
+insurance, benefits, training, promotions, reinstatement and seniority;
+
+       C.       Plaintiff is to be awarded punitive damages, as permitted by applicable law, in an
+
+amount believed by the Court or trier of fact to be appropriate to punish Defendant for its willful,
+
+deliberate, malicious and outrageous conduct and to deter Defendant or other employers from
+
+engaging in such misconduct in the future;
+
+       D.       Plaintiff is to be accorded other equitable and legal relief as the Court deems just,
+
+proper and appropriate (including but not limited to damages for emotional distress, pain, suffering
+
+and humiliation);
+
+       E.       Plaintiff is to be awarded the costs and expenses of this action and reasonable
+
+attorney’s fees as provided by applicable federal and state law; and
+
+       F.       Plaintiff demands trial by jury on all issues so triable consistent with Fed. R. Civ.
+
+P. 38(a)(1).
+
+
+
+                                                      Respectfully submitted,
+
+                                                      KARPF, KARPF & CERUTTI, P.C.
+
+                                              By:     _______________________________
+                                                      Ari R. Karpf, Esq.
+                                                      3331 Street Rd.
+                                                      Two Greenwood Square, Suite 128
+                                                      Bensalem, PA 19020
+                                                      (215) 639-0801
+Dated: May 27, 2021
+
+
+
+
+                                                 11
+               Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 12 of 14
+
+
+
+
+                        `ä~êÉ=pÅÜìã~ÅÜÉê
+
+QTM=j~åçê=léÉê~íáåÖI=ii`=ÇLÄL~=píK=j~êíÜ~Dë=`ÉåíÉê=Ñçê=
+oÉÜ~Äáäáí~íáçå=C=eÉ~äíÜÅ~êÉ
+
+
+
+
+               RLOTLOMON
+                              Case 2:21-cv-02421-PD   Document
+                                                 UNITED          1 Filed
+                                                        STATES DISTRICT   05/27/21 Page 13 of 14
+                                                                        COURT
+                                                       FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                           DESIGNATION FORM
+                     (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                       NQPV=^ëéÉå=`çìêíI=tÉëí=`ÜÉëíÉêI=m^=NVPUM
+Address of Plaintiff: ______________________________________________________________________________________________
+                       QTM=j~åçê=^îÉåìÉI=açïåáåÖíçïåI=m^=NVPPR
+Address of Defendant: ____________________________________________________________________________________________
+                                             aÉÑÉåÇ~åíDë=éä~ÅÉ=çÑ=ÄìëáåÉëë
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                      Judge: _________________________________                    Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                    No X
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                    No X
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier                           Yes                    No X
+       numbered case pending or within one year previously terminated action of this court?
+
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                    No X
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case              is / X is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+
+        RLOTLOMON
+DATE: __________________________________                      __________________________________________                               ARK2484 / 91538
+                                                                                                                               ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+
+CIVIL:
+
+A.            Federal Question Cases:                                                       B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                        1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                                2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                           3.    Assault, Defamation
+       4.     Antitrust                                                                           4.    Marine Personal Injury
+       5.     Patent                                                                              5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                          6.    Other Personal Injury (Please specify): _____________________
+u      7.     Civil Rights                                                                        7.    Products Liability
+       8.     Habeas Corpus                                                                       8.    Products Liability –Asbestos
+       9.     Securities Act(s) Cases                                                             9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                              (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                           ARBITRATION CERTIFICATION
+                                                   (
+
+     Ari R. Karpf
+I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify:
+
+              Pursuant to Local Civil Rule 53.2, § 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+     X
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+        RLOTLOMON
+DATE: __________________________________                      _____________________________________ _____                            ARK2484 / 91538
+                                                                                                                              ___________________________________
+                                                                          Attorney-at-Law / Pro Se Plaintiff                              Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 ( /2018)
+                                     Case 2:21-cv-02421-PD Document 1 Filed 05/27/21 Page 14 of 14
+JS 44 (Rev. 06/17)                                                          CIVIL COVER SHEET
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+
+I. (a) PLAINTIFFS                                                                                            DEFENDANTS
+                                                                                                            QTM=j^klo=lmbo^qfkdI=ii`=aL_L^=pqK=j^oqe^Dp=`bkqbo=
+p`erj^`eboI=`i^ob
+                                                                                                            clo=obe^_fifq^qflk=C=eb^iqe`^ob
+    (b) County of Residence of First Listed Plaintiff                  `ÜÉëíÉê                               County of Residence of First Listed Defendant `ÜÉëíÉê
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                      (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:         IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                            THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                    Attorneys (If Known)
+h~êéÑI=h~êéÑ=C=`ÉêìííáI=mK`KX=PPPN=píêÉÉí=oç~ÇI=qïç=dêÉÉåïççÇ=pèì~êÉI
+pìáíÉ=NOUI=_Éåë~äÉãI=m^=NVMOMX=EONRF=SPVJMUMNX=~â~êéÑ]â~êéÑJä~ïKÅçã
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                        III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintif                                    f
+                                                                                                         (For Diversity Cases Only)                                             and One Box for Defendant)
+❒ 1    U.S. Government               u’ 3     Federal Question                                                                     PTF           DEF                                            PTF      DEF
+          Plaintiff                              (U.S. Government Not a Party)                      Citizen of This State          ’ 1           ’ 1     Incorporated or Principal Place         ’ 4     ’ 4
+                                                                                                                                                             of Business In This State
+
+❒ 2    U.S. Government                   ’ 4 Diversity                                              Citizen of Another State          ’ 2         ’ 2    Incorporated and Principal Place      ’ 5      ’ 5
+          Defendant                             (Indicate Citizenship of Parties in Item III)                                                                of Business In Another State
+
+                                                                                                    Citizen or Subject of a           ’ 3         ’ 3    Foreign Nation                        ’ 6      ’ 6
+                                                                                                      Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                                  Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                               TORTS                               FORFEITURE/PENALTY                            BANKRUPTCY                      OTHER STATUTES
+❒   110 Insurance                         PERSONAL INJURY                PERSONAL INJURY            ❒ 625 Drug Related Seizure              ’   422 Appeal 28 USC 158          ❒ 375 False Claims Act
+❒   120 Marine                       ’    310 Airplane                 ❒ 365 Personal Injury -            of Property 21 USC 881            ’   423 Withdrawal                 ’ 376 Qui Tam (31 USC
+❒   130 Miller Act                   ’    315 Airplane Product               Product Liability      ❒ 690 Other                                     28 USC 157                        3729(a))
+❒   140 Negotiable Instrument                  Liability               ❒ 367 Health Care/                                                                                     ❒ 400 State Reapportionment
+❒   150 Recovery of Overpayment      ’    320 Assault, Libel &               Pharmaceutical                                                     PROPERTY RIGHTS               ❒ 410 Antitrust
+        & Enforcement of Judgment              Slander                       Personal Injury                                                ❒ 820 Copyrights                  ❒ 430 Banks and Banking
+❒   151 Medicare Act                 ’    330 Federal Employers’             Product Liability                                              ❒ 830 Patent                      ❒ 450 Commerce
+❒   152 Recovery of Defaulted                  Liability               ❒ 368 Asbestos Personal                                              ❒ 835 Patent - Abbreviated        ❒ 460 Deportation
+        Student Loans                ’    340 Marine                         Injury Product                                                        New Drug Application       ❒ 470 Racketeer Influenced and
+        (Excludes Veterans)          ’    345 Marine Product                 Liability                                                      ❒ 840 Trademark                          Corrupt Organizations
+❒   153 Recovery of Overpayment                Liability                PERSONAL PROPERTY                        LABOR                         SOCIAL SECURITY                ❒ 480 Consumer Credit
+        of Veteran’s Benefits        ’    350 Motor Vehicle            ❒ 370 Other Fraud            ❒ 710 Fair Labor Standards              ’ 861 HIA (1395ff)                ❒ 490 Cable/Sat TV
+❒   160 Stockholders’ Suits          ’    355 Motor Vehicle            ❒ 371 Truth in Lending               Act                             ❒ 862 Black Lung (923)            ❒ 850 Securities/Commodities/
+❒   190 Other Contract                        Product Liability        ❒ 380 Other Personal         ❒ 720 Labor/Management                  ’ 863 DIWC/DIWW (405(g))                  Exchange
+❒   195 Contract Product Liability   ’    360 Other Personal                 Property Damage                Relations                       ❒ 864 SSID Title XVI              ❒ 890 Other Statutory Actions
+❒   196 Franchise                             Injury                   ❒ 385 Property Damage        ❒ 740 Railway Labor Act                 ’ 865 RSI (405(g))                ❒ 891 Agricultural Acts
+                                     ’    362 Personal Injury -              Product Liability       ’ 751 Family and Medical                                                 ❒ 893 Environmental Matters
+                                              Medical Malpractice                                           Leave Act                                                         ❒ 895 Freedom of Information
+        REAL PROPERTY                       CIVIL RIGHTS                PRISONER PETITIONS          ❒ 790 Other Labor Litigation              FEDERAL TAX SUITS                       Act
+❒   210 Land Condemnation            ❒    440 Other Civil Rights         Habeas Corpus:             ❒ 791 Employee Retirement               ❒ 870 Taxes (U.S. Plaintiff       ❒ 896 Arbitration
+❒   220 Foreclosure                  ❒    441 Voting                   ❒ 463 Alien Detainee                Income Security Act                     or Defendant)              ❒ 899 Administrative Procedure
+❒   230 Rent Lease & Ejectment       ❒
+                                     u    442 Employment               ❒ 510 Motions to Vacate                                              ❒ 871 IRS—Third Party                    Act/Review or Appeal of
+❒   240 Torts to Land                ❒    443 Housing/                       Sentence                                                              26 USC 7609                       Agency Decision
+❒   245 Tort Product Liability                Accommodations           ❒ 530 General                                                                                          ❒ 950 Constitutionality of
+❒   290 All Other Real Property      ❒    445 Amer. w/Disabilities -   ❒ 535 Death Penalty                IMMIGRATION                                                                State Statutes
+                                              Employment                 Other:                     ❒ 462 Naturalization Application
+                                     ❒    446 Amer. w/Disabilities -   ❒ 540 Mandamus & Other       ❒ 465 Other Immigration
+                                              Other                    ❒ 550 Civil Rights                 Actions
+                                     ❒    448 Education                ❒ 555 Prison Condition
+                                                                       ❒ 560 Civil Detainee -
+                                                                             Conditions of
+                                                                             Confinement
+
+V. ORIGIN (Place an “X” in One Box Only)
+u
+’ 1 Original    ❒ 2 Removed from                            ❒    3     Remanded from            ❒ 4 Reinstated or       ’     5 Transferred from    ❒ 6 Multidistrict                   ❒ 8 Multidistrict
+        Proceeding                State Court                          Appellate Court              Reopened                    Another District           Litigation -                     Litigation -
+                                                                                                                            (specify)                      Transfer                         Direct File
+                                            Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                      qáíäÉ=sff=EQOrp`OMMMF
+VI. CAUSE OF ACTION Brief description of cause:
+                      sáçä~íáçåë=çÑ=qáíäÉ=sffI=l^mp^=~åÇ=íÜÉ=meo^K
+VII. REQUESTED IN     ❒ CHECK IF THIS IS A CLASS ACTION       DEMAND $                                                                                  CHECK YES only if demanded in complaint:
+     COMPLAINT:           UNDER RULE 23, F.R.Cv.P.                                                                                                      JURY DEMAND:        u’ Yes      ’ No
+VIII. RELATED CASE(S)
+                        (See instructions):
+      IF ANY                                JUDGE                                                                                               DOCKET NUMBER
+DATE                                                                      SIGNATURE OF ATTORNEY OF RECORD
+           RLOTLOMON
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                      APPLYING IFP                                    JUDGE                               MAG. JUDGE
+
+                  Print                                 Save As...                                                                                                                   Reset
+

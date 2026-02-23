@@ -1,0 +1,889 @@
+Source URL: https://www.courtlistener.com/docket/59695903/1/frebowitz-v-bfi-waste-services-of-pennsylvania/
+Title: Complaint (Attorney) – #1 in FREBOWITZ v. BFI WASTE SERVICES OF PENNSYLVANIA (E.D. Pa., 2:21-cv-00985) – CourtListener.com
+
+JS 44 (Rev. 10/20)                Case 2:21-cv-00985-CDJ
+                                                    CIVILDocument
+                                                          COVER 1SHEET
+                                                                   Filed 03/02/21 Page 1 of 19
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                            DEFENDANTS
+                                                                                                            %),:DVWH6HUYLFHVRI3HQQV\OYDQLDGED$OOLHG:DVWH6HUYLFHVRI
+          -HIIUH\)UHERZLW]                                                                                 9DOOH\)RUJH5HSXEOLF6HUYLFHVRI.LQJRI3UXVVLDDQG5HSXEOLF
+                                                                                                            6HUYLFHVRI9DOOH\)RUJH
+   (b)   County of Residence of First Listed Plaintiff                  0RQWJRPHU\                           County of Residence of First Listed Defendant 0RQWJRPHU\
+                                (EXCEPT IN U.S. PLAINTIFF CASES)                                                                     (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                              NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                         THE TRACT OF LAND INVOLVED.
+
+   (c)   Attorneys (Firm Name, Address, and Telephone Number)                                                  Attorneys (If Known)
+          )HUQDQGR,5LYHUD(VTXLUH&RQVROH0DWWLDFFL/DZ//&
+          /RFXVW6WUHHWWK)ORRU3KLODGHOSKLD3$
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                          III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                           (For Diversity Cases Only)                                    and One Box for Defendant)
+  1    U.S. Government                 [   3    Federal Question                                                                    PTF        DEF                                         PTF      DEF
+         Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                          of Business In This State
+
+  2    U.S. Government                     4    Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+         Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                     Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                       Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                        Click here for: Nature of Suit Code Descriptions.
+          CONTRACT                                                   TORTS                             FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+  110 Insurance                        PERSONAL INJURY                    PERSONAL INJURY               625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+  120 Marine                           310 Airplane                      365 Personal Injury -              of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+  130 Miller Act                       315 Airplane Product                  Product Liability          690 Other                                28 USC 157                        3729(a))
+  140 Negotiable Instrument                 Liability                    367 Health Care/                                                                                      400 State Reapportionment
+  150 Recovery of Overpayment          320 Assault, Libel &                  Pharmaceutical                                                  PROPERTY RIGHTS                   410 Antitrust
+      & Enforcement of Judgment             Slander                          Personal Injury                                                  820 Copyrights                   430 Banks and Banking
+  151 Medicare Act                     330 Federal Employers’                Product Liability                                                830 Patent                       450 Commerce
+  152 Recovery of Defaulted                 Liability                    368 Asbestos Personal                                                835 Patent - Abbreviated         460 Deportation
+       Student Loans                   340 Marine                            Injury Product                                                       New Drug Application         470 Racketeer Influenced and
+       (Excludes Veterans)             345 Marine Product                    Liability                                                        840 Trademark                        Corrupt Organizations
+  153 Recovery of Overpayment               Liability                   PERSONAL PROPERTY                        LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+      of Veteran’s Benefits            350 Motor Vehicle                 370 Other Fraud                710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+  160 Stockholders’ Suits              355 Motor Vehicle                 371 Truth in Lending               Act                                                                485 Telephone Consumer
+  190 Other Contract                       Product Liability             380 Other Personal             720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+  195 Contract Product Liability       360 Other Personal                    Property Damage                Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+  196 Franchise                            Injury                        385 Property Damage            740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                       362 Personal Injury -                 Product Liability          751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                           Medical Malpractice                                              Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+      REAL PROPERTY                      CIVIL RIGHTS                   PRISONER PETITIONS              790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+  210 Land Condemnation                440 Other Civil Rights            Habeas Corpus:                 791 Employee Retirement                                                893 Environmental Matters
+  220 Foreclosure                      441 Voting                        463 Alien Detainee                 Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+  230 Rent Lease & Ejectment       [   442 Employment                    510 Motions to Vacate                                               870 Taxes (U.S. Plaintiff             Act
+  240 Torts to Land                    443 Housing/                          Sentence                                                             or Defendant)                896 Arbitration
+  245 Tort Product Liability               Accommodations                530 General                                                         871 IRS—Third Party               899 Administrative Procedure
+  290 All Other Real Property          445 Amer. w/Disabilities -        535 Death Penalty                  IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                           Employment                    Other:                         462 Naturalization Application                                             Agency Decision
+                                       446 Amer. w/Disabilities -        540 Mandamus & Other           465 Other Immigration                                                  950 Constitutionality of
+                                           Other                         550 Civil Rights                   Actions                                                                State Statutes
+                                       448 Education                     555 Prison Condition
+                                                                         560 Civil Detainee -
+                                                                             Conditions of
+                                                                             Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+[ 1 Original       2 Removed from                                3    Remanded from                4 Reinstated or             5 Transferred from     6 Multidistrict                      8 Multidistrict
+       Proceeding           State Court                               Appellate Court                Reopened                    Another District         Litigation -                       Litigation -
+                                                                                                                                 (specify)                Transfer                           Direct File
+                                           Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                               86&HWVHT ³$'($´  36HWVHT ³3+5$´ 
+VI. CAUSE OF ACTION                        Brief description of cause:
+                                               3ODLQWLIIEULQJVWKLVDFWLRQDJDLQVW'HIHQGDQWIRUXQODZIXODJHGLVFULPLQDWLRQ
+VII. REQUESTED IN                                CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                  UNDER RULE 23, F.R.Cv.P.                              ,QH[FHVVRI                      JURY DEMAND:                 [   Yes          No
+VIII. RELATED CASE(S)
+                                               (See instructions):
+      IF ANY                                                           JUDGE                                                                 DOCKET NUMBER
+DATE                                                                      SIGNATURE OF ATTORNEY OF RECORD
+
+ 
+FOR OFFICE USE ONLY
+
+  RECEIPT #                     AMOUNT                                         APPLYING IFP                                    JUDGE                           MAG. JUDGE
+                             Case 2:21-cv-00985-CDJ
+                                                UNITEDDocument   1 Filed
+                                                      STATES DISTRICT    03/02/21 Page 2 of 19
+                                                                      COURT
+                                                      FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                                                                          DESIGNATION FORM
+                    (to be used by counsel or pro se plaintiff to indicate the category of the case for the purpose of assignment to the appropriate calendar)
+
+                                                          Blue Bell, PA 19422
+Address of Plaintiff: ______________________________________________________________________________________________
+                                     372 South Henderson Road, King of Prussia, PA 19406
+Address of Defendant: ____________________________________________________________________________________________
+                                                   372 South Henderson Road, King of Prussia, PA 19406
+Place of Accident, Incident or Transaction: ___________________________________________________________________________
+
+
+RELATED CASE, IF ANY:
+
+Case Number: ______________________________                     Judge: _________________________________                     Date Terminated: ______________________
+
+Civil cases are deemed related when Yes is answered to any of the following questions:
+
+1.     Is this case related to property included in an earlier numbered suit pending or within one year                         Yes                       No   ✔
+       previously terminated action in this court?
+
+2.     Does this case involve the same issue of fact or grow out of the same transaction as a prior suit                        Yes                       No   ✔
+       pending or within one year previously terminated action in this court?
+
+3.     Does this case involve the validity or infringement of a patent already in suit or any earlier
+       numbered case pending or within one year previously terminated action of this court?
+                                                                                                                                Yes                       No   ✔
+4.     Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights                        Yes                       No    ✔
+       case filed by the same individual?
+
+I certify that, to my knowledge, the within case             is /      is not related to any case now pending or within one year previously terminated action in
+this court except as noted above.
+      03/02/2021
+DATE: __________________________________                     ________________BBBBBBBBBB______________                                     319009
+                                                                                                                            ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                                   Attorney I.D. # (if applicable)
+
+
+CIVIL: 3ODFHD¥LQRQHFDWHJRU\RQO\
+
+A.            Federal Question Cases:                                                      B.    Diversity Jurisdiction Cases:
+
+       1.     Indemnity Contract, Marine Contract, and All Other Contracts                       1.    Insurance Contract and Other Contracts
+       2.     FELA                                                                               2.    Airplane Personal Injury
+       3.     Jones Act-Personal Injury                                                          3.    Assault, Defamation
+       4.     Antitrust                                                                          4.    Marine Personal Injury
+       5.     Patent                                                                             5.    Motor Vehicle Personal Injury
+       6.     Labor-Management Relations                                                         6.    Other Personal Injury (Please specify): _____________________
+✔      7.     Civil Rights                                                                       7.    Products Liability
+       8.     Habeas Corpus                                                                      8.    Products Liability – Asbestos
+       9.     Securities Act(s) Cases                                                            9.    All other Diversity Cases
+       10.    Social Security Review Cases                                                             (Please specify): ____________________________________________
+       11.    All other Federal Question Cases
+              (Please specify): ____________________________________________
+
+
+
+                                                                            ARBITRATION CERTIFICATION
+                                                  (7KHHIIHFWRIWKLVFHUWLILFDWLRQLVWRUHPRYHWKHFDVHIURPHOLJLELOLW\IRUDUELWUDWLRQ
+
+      Fernando I. Rivera, Esquire counsel of record or pro se plaintiff, do hereby certify:
+I, ____________________________________________,
+
+
+     ✔        Pursuant to Local Civil Rule 53.2, § 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case
+              exceed the sum of $150,000.00 exclusive of interest and costs:
+
+              Relief other than monetary damages is sought.
+
+
+      03/02/2021
+DATE: __________________________________                     ______________BBBBBBBBBBBBB____________                                      319009
+                                                                                                                           ___________________________________
+                                                                         Attorney-at-Law / Pro Se Plaintiff                               Attorney I.D. # (if applicable)
+
+NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P. 38.
+
+Civ. 609 (/2018)
+           Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 3 of 19
+
+                               IN THE UNITED STATES DISTRICT COURT
+                            FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                           CASE MANAGEMENT TRACK DESIGNATION FORM
+
+Jeffrey Frebowitz                                                             CIVIL ACTION
+                               V.
+BFI Waste Services of Pennsylvania d/b/a
+Waste Services of Valley Forge, Republic Services of King of                  NO.
+Prussia, and Republic Services of Valley Forge
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See§ 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Desi g n ation Form specifying the track
+to which that defendant believes the case should be assigned.
+ SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+
+ (a) Habeas Corpus - Cases brought under 28 U.S.C. § 2241 through§ 2255.                             ( )
+ (b) Social Security - Cases requesting review of a decision of the Secretary of Health
+     and Human Services denying plaintiff Social Security Benefits.                                  ( )
+ (c) Arbitration - Cases required to be desi g n ated for arbitration under Local Civil Rule 53.2.   ( )
+ (d) Asbestos - Cases involving claims for personal injury or property damage from
+     exposure to asbestos.                                                                           ( )
+ (e) Special Management - Cases that do not fall into tracks (a) through (d) that are
+     commonly referred to as complex and that need special or intense management by
+     the court. (See reverse side of this form for a detailed explanation of special
+     management cases.)                                                                              ( )
+ (f) Standard Management - Cases that do not fall into any one of the other tracks.                  ( X)
+
+
+       3/2/2021                                                       Plaintiff, Jeffrey Frebowitz
+ Date                                         Attorney-at-law            Attorney for
+ 215-545-7676                               215-754-4938               rivera@consolelaw.com
+
+Telephone                                      FAX Number                E-Mail Address
+
+
+(Civ. 660) 10/02
+         Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 4 of 19
+
+
+
+
+                   IN THE UNITED STATES DISTRICT COURT FOR
+                     THE EASTERN DISTRICT OF PENNSYLVANIA
+______________________________________
+                                       :
+JEFFREY FREBOWITZ                     :
+Blue Bell, PA 19422                    :
+                                       :
+                          Plaintiff,  :
+                                       :
+              v.                      :   CIVIL ACTION NO.
+                                       :
+BFI WASTE SERVICES OF                 :
+PENNSYLVANIA d/b/a ALLIED WASTE :
+SERVICES OF VALLEY FORGE,              :
+REPUBLIC SERVICES OF KING OF           :
+PRUSSIA, AND REPUBLIC SERVICES         :
+OF VALLEY FORGE                       :
+372 South Henderson Road               :
+King of Prussia, PA 19406              :
+                                       :
+                          Defendant.  :   JURY TRIAL DEMANDED
+______________________________________:
+
+                                        COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Jeffrey Frebowitz (“Plaintiff”), brings this action against Defendant, BFI Waste
+
+Services of Pennsylvania d/b/a Allied Waste Services of Valley, Republic Services of King of
+
+Prussia, and Republic Services of Valley Forge (“Defendant”), for unlawful age discrimination
+
+in its failing to hire Plaintiff, in violation of the Age Discrimination in Employment Act, as
+
+amended, 29 U.S.C. § 621, et seq. (“ADEA”), and the Pennsylvania Human Relations Act, as
+
+amended, 43 P.S. § 951, et seq. (hereinafter “PHRA”). Plaintiff seeks damages, including back
+
+pay, front pay, compensatory, liquidated damages, attorneys’ fees and costs, and all other relief
+
+that this Court deems appropriate.
+
+
+
+
+                                                1
+            Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 5 of 19
+
+
+
+
+II.    PARTIES
+
+       1.       Plaintiff is an individual and a citizen of Pennsylvania.
+
+       2.       Plaintiff was fifty-eight (58) years of age at the time that Defendant unlawfully
+
+failed to hire him.
+
+       3.       Defendant is a corporation duly organized and existing under the laws of
+
+Pennsylvania with a principal place of business located in King of Prussia, Pennsylvania.
+
+       4.       Defendant engages in an industry affecting interstate commerce that regularly
+
+does business in Pennsylvania and with entities and individuals in Pennsylvania. Defendant also
+
+employs residents of Pennsylvania.
+
+       5.       At all times material hereto, Defendant acted by and through its authorized agents,
+
+servants, workmen, and/or employees acting within the course and scope of their employment
+
+with Defendant and in furtherance of Defendant’s business.
+
+       6.       At all times material hereto, Defendant acted as an “Employer” within the
+
+meaning of the statutes that form the basis of this matter.
+
+       7.       At all times material hereto, Plaintiff was an “Employee” of Defendant within the
+
+meaning of the statutes that form the basis of this matter.
+
+III.   JURISDICTION AND VENUE
+
+       8.       The causes of action that form the basis of this matter arise under the ADEA and
+
+the PHRA.
+
+       9.       The District Court has jurisdiction over Count I (ADEA) pursuant to 28 U.S.C.
+
+§ 1331.
+
+       10.      The District Court has jurisdiction over Count II (PHRA) pursuant to 28 U.S.C.
+
+§ 1367.
+
+
+
+                                                  2
+          Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 6 of 19
+
+
+
+
+       11.     Venue is proper in this District Court pursuant to 28 U.S.C. § 1391(b).
+
+       12.     On or about January 3, 2019, Plaintiff filed a Complaint of Discrimination with
+
+the Pennsylvania Human Relations Commission (“PHRC”) and Equal Employment Opportunity
+
+Commission (“EEOC”) complaining of the acts of discrimination alleged herein (the “Complaint
+
+of Discrimination”). Attached hereto, incorporated herein, and marked as Exhibit A is a true and
+
+correct copy of Plaintiff’s Complaint of Discrimination (with personal identifying information
+
+redacted).
+
+       13.     On December 4, 2020, the EEOC issued Plaintiff a Notice of Right to Sue
+
+regarding his Complaint of Discrimination. Attached hereto, incorporated herein, and marked as
+
+Exhibit B is a true and correct copy of this notice.
+
+       14.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+       15.     Plaintiff was hired by Defendant’s predecessor, Horizon Waste Service, Inc.
+
+(“Horizon”), as an Operations Manager, on or about November 1, 2006.
+
+       16.     Plaintiff worked at Horizon for over twelve (12) years and performed his job
+
+duties in a highly competent manner.
+
+       17.     At Horizon, Plaintiff reported directly to Michael Keenan (“Keenan”) (54),
+
+President and Owner.
+
+       18.     At Horizon, Plaintiff was the highest-ranking non-equity employee and the only
+
+Operations Manager.
+
+       19.     At Horizon, Plaintiff was the oldest employee reporting directly to Kennan.
+
+
+
+
+                                                  3
+          Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 7 of 19
+
+
+
+
+       20.     On January 7, 2019, Kennan announced to Horizon’s employees that Defendant
+
+was purchasing the company, effective January 31, 2019.
+
+       21.     Kennan also announced that all Horizon employees would be hired by Defendant
+
+as part of the purchase.
+
+       22.     On January 7, 2019, during a meeting with Kennan, Plaintiff was told that he
+
+would be offered a management position at Defendant.
+
+       23.     On January 8, 2019, during a meeting with Michael Roberts (“Roberts”) (40),
+
+General Manager of Defendant, Defendant refused to offer Plaintiff a management position, and
+
+Roberts stated to Plaintiff that Defendant only had a truck driver position available for him.
+
+       24.     Plaintiff told Roberts that Kennan informed him that he would be offered a
+
+management position at Defendant.
+
+       25.     Roberts responded by telling Plaintiff that he was not being offered a management
+
+position at Defendant and that there were only truck driver positions available for him.
+
+       26.     Truck driver positions at Defendant paid substantially less than Plaintiff’s then-
+
+Operations Manager position.
+
+       27.     Plaintiff was the only management-level employee reporting to Kennan who was
+
+not hired by Defendant into a similar management position.
+
+       28.     Defendant hired Walter Shank (“Shank) (32), Assistant Operations Manager; and
+
+Bridget Bobbitt (“Bobbitt”) (45), Sales Coordinator, into management positions.
+
+       29.     Plaintiff was more qualified than Shank and Bobbitt, who were substantially
+
+younger, for the positions that they were offered by Defendant.
+
+       30.     On January 25, 2019, in an email to Kennan, Plaintiff complained that he was not
+
+offered a management position at Defendant because of his age.
+
+
+
+                                                 4
+           Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 8 of 19
+
+
+
+
+        31.     In Kennan’s response to Plaintiff’s January 25, 2019 email, he did not deny
+
+Plaintiff’s allegations of age discrimination by Defendant.
+
+        32.     On January 30, 2019, Plaintiff’s employment with Horizon ended and he did not
+
+become employed by Defendant.
+
+        33.     Defendant failed to offer Plaintiff a management, or any position other than truck
+
+driver, for which he was qualified because of his age.
+
+        34.     Defendant offered no explanation, including the selection criteria, as to why
+
+Plaintiff was not hired into a management position while substantially younger and less qualified
+
+former employees of Horizon were.
+
+        35.     Defendant assigned Plaintiff’s job duties to Shank and Bobbitt.
+
+        36.     Plaintiff was more qualified to perform his former job duties at Defendant than
+
+Shank and Bobbitt, who were substantially younger.
+
+        37.     Plaintiff’s age (58) was a determinative and motivating factor in Defendant’s
+
+failure to hire Plaintiff.
+
+        38.     As a direct and proximate result of the discriminatory conduct of Defendant,
+
+Plaintiff has in the past incurred, and may in the future incur, a loss of earnings and/or earning
+
+capacity, loss of benefits, pain and suffering, embarrassment, humiliation, loss of self-esteem,
+
+mental anguish, and loss of life’s pleasures, the full extent of which is not known at this time.
+
+        39.     The conduct of Defendant, as set forth above, was willful under the circumstances
+
+and warrants the imposition of liquidated damages.
+
+
+
+
+                                                  5
+          Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 9 of 19
+
+
+
+
+                                         COUNT I
+                                 (VIOLATION OF THE ADEA)
+
+       40.     Plaintiff incorporates the paragraphs above as if set forth herein in their entirety.
+
+       41.     By committing the foregoing acts of discrimination against Plaintiff, Defendant
+
+violated the ADEA.
+
+       42.     Defendant’s violation of the ADEA was intentional and willful under the
+
+circumstances, warranting the imposition of liquidated damages.
+
+       43.     As a direct and proximate result of Defendant’s violation of the ADEA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+       44.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+       45.     No previous application has been made for the relief requested herein.
+
+                                         COUNT II
+                                 (VIOLATION OF THE PHRA)
+
+       46.     Plaintiff incorporates the paragraphs above as if set forth herein in their entirety.
+
+       47.     By committing the foregoing acts of discrimination against Plaintiff, Defendant
+
+violated the PHRA.
+
+       48.     As a direct and proximate result of Defendant’s violation of the PHRA, Plaintiff
+
+has sustained the injuries, damages, and losses set forth herein and has incurred attorneys’ fees
+
+and costs.
+
+
+
+
+                                                  6
+         Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 10 of 19
+
+
+
+
+        49.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory acts unless and until this Court
+
+grants the relief requested herein.
+
+        50.     No previous application has been made for the relief requested herein.
+
+                                             RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in connection with
+
+Defendant’s unlawful conduct, and specifically prays that the Court grant the following relief to
+
+the Plaintiff by:
+
+                a.     declaring the acts and practices complained of herein to be a violation of
+                       the ADEA and the PHRA;
+
+                b.     enjoining and restraining permanently the violations alleged herein;
+
+                c.     awarding Plaintiff damages for back pay, front pay, and pre- and post-
+                       judgment interest;
+
+                d.     awarding compensatory damages to Plaintiff for past and future emotional
+                       distress and pain and suffering under the PHRA;
+
+                e.     awarding liquidated damages under the ADEA;
+
+                f.     awarding Plaintiff the costs of this action, together with reasonable
+                       attorneys’ fees;
+
+                g.     awarding Plaintiff such other damages as are appropriate under the ADEA
+                       and the PHRA; and
+
+                h.     granting such other and further relief as this Court deems appropriate.
+
+
+
+
+                                                 7
+       Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 11 of 19
+
+
+
+
+                                         Respectfully submitted,
+
+                                         CONSOLE MATTIACCI LAW, LLC
+
+
+                                   By:   /s/ Fernando I. Rivera
+                                         FERNANDO I. RIVERA, ESQ.
+                                         1525 Locust Street
+                                         Philadelphia, PA 19102
+                                         rivera@consolelaw.com (email)
+                                         (215) 545-7676 (office)
+                                         (856) 545-8211 (fax)
+
+Dated: 3/2/2021                          Attorneys for Plaintiff
+
+
+
+
+                                     8
+Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 12 of 19
+
+
+
+
+                EXHIBIT A
+       Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 13 of 19
+
+
+
+
+                            COMMONWEALTH OF PENNSYLVANIA
+                                  GOVERNOR'S OFFICE
+                       PENNSYLVANIA HUMAN RELATIONS CO:MMISSION
+
+                                             COMPLAINT
+
+
+  COMPLAINANT:
+
+  JEFFREY FREBOWITZ                                                    Docket No.
+
+  V.
+
+
+  RESPONDENT:
+
+  REPUBLIC SERVICES, INC.
+
+
+       ,1. The Complainant herein is:
+
+           Name:
+           Address:
+
+
+       2. The Respondent herein is:
+
+           Names:         Republic Services, Inc.
+           Address:       372 South Henderson Road
+                          King of Prussia, PA 19406
+
+       3. I, Jeffrey Frebowitz., the Complainant herein, allege that I was subjected to unlawful
+
+discrimination because of my age (58), as set forth below:
+
+          Discrimination
+
+              A. I specifically allege:
+
+              [I]        I was hired by Respondent's predecessor, Horizon Waste Service, Inc., on
+
+or about November 1, 2006. I had over twelve (12) years of service at Horizon Waste Service,
+
+Inc. I consistently performed my job duties in a highly competent manner, and received positive
+
+feedback.
+             Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 14 of 19
+
+
+
+
+                  [2]          I last held the Operations Manager position at Horizon Waste Service, Inc.
+
+                  [3]          I reported to Michael Keenan (55 1 ), President and Owner, Horizon Waste
+
+     Service, Inc.
+
+                  [4]          I was the oldest employee directly reporting to Kennan (55).
+
+                  [5]         On Janua1y 7, 2019, I learned that Respondent was purchasing Horizon
+
+     Waste Service, Inc., effective January 31, 2019.
+
+                 [6J          On January 7, 2019, in a meeting with Kennan (55), I was told that I
+
+    would be offered a management position at Respondent.
+
+                 [7]          On January 8, 2019, in a meeting with Michael Roberts (40), General
+
+    Manager, Respondent failed to offer me a management position at Respondent. Roberts stated
+
+    that there were only truck driver positions available at Respondent. I stated that I had been told
+
+    that I would be offered a management position at Respondent. Roberts stated that I was not
+
+    being offered a management position at Respondent and repeated that there were only truck
+
+    driver positions available. Truck driver positions pay substantially less than management
+
+    positions, and I am not qualified for many of the truck driver positions at Respondent.
+
+                [8]          Respondent failed to offer me a management position because of my age.
+
+                [9]          I was the only management employee reporting to Kennan (55) who was
+
+not hired by Respondent into a management position.
+
+                [10]         All of the management employees reporting to Kennan (55), except me,
+
+were offered management positions at Respondent, including the following employees: Walter
+
+Shank (30), Assistant to Operations Manager; and Bridget Bobbitt (35), Sales Coordinator. I am
+
+more qualified to perform these substantially younger employees' positions.
+
+
+
+1
+    All ages herein are approximations.
+       Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 15 of 19
+
+
+
+
+              [11]       On January IO, 2019, in a meeting with Kennan (55), I asked him why I
+
+ was not being offered a management position at Respondent after he told me that l would be
+
+ offered a management position at Respondent. Kennan (55) stated that he asked Respondent
+
+about a position for me and was told that there was no position for me at Respondent except for a
+
+truck driver position.
+
+             (12]        On January 25, 2019, in an email to Kennan (55), I complained that I was
+
+not offered a management position at Respondent because of my age. Kennan (55) did not deny
+
+the same.
+
+             [13]        On or about February 1, 2019, Respondent failed to hire me into a
+
+management position, including an Operations Manager or similar position, for which I am
+
+qualified.
+
+             [14]        Respondent failed to hire me into a management position because of my
+
+age.
+
+             [15)        Respondent offered no explanation, including the selection criteria, as to
+
+why I was not hired, and substantially younger former employees of Horizon Waste Service, Inc.
+
+were hired, into a management position.
+
+             [16]        Respondent assigned my job duties to Shank (30) and Bobbitt (35). I am
+
+more qualified to perform my job duties and these positions than the substantially younger
+
+employees to whom Respondent assigned my job duties.
+
+             [ 17]       Respondent's age discriminatory conduct against me has caused me
+
+emotional distress.
+
+             B. Based on the aforementioned, I allege that Respondent has discriminated against
+
+me beca se of my age (58), in violation of the Age Discrimination in Employment Act, as
+       Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 16 of 19
+
+
+
+
+ amended, 29 U.S.C. § 623 et seq. (" ADEA''), and the Pennsylvania Human Relations Act, as
+
+ amended, 43 P.S. § 951, et seq. ("PHRA").
+
+        4.         The allegations in Paragraph 3 hereof constitute unlawful discriminatory practices
+
+in violation of:
+
+              _x_         Pennsylvania Human Relations Act (Act of October 27, 1955, P.L.
+
+              744, as amended) Section 5 Subsectiou(s):       (a)
+
+                          Section 5.1 Subsection(s) _ _ _ _ _ _ _ _ _ _ _ _            _
+
+                          Section 5.2 Subsection(s) _ _ _ _ _ _ _ _ _ _ _ _            _
+
+                          Pennsylvania Fair Educational Opportunities Act (Act of July 17, 1961,
+
+             P.L. 766, as amended) Section 4 Subsection(s) _ _ _ _ _ _ _ _ _ _ _ _               _
+
+       5.        Other action based upon the aforesaid allegations has been instituted by the
+
+Complainant in any court or before any other commission within the Commonwealth of
+
+Pennsylvania as follows:
+
+             l           This charge will be referred to the EEOC for the purpose of dual
+
+             filing,
+
+       6.        The Complainant prays that Respondent be required to:
+
+             (a) Make the Complainant whole.
+
+             (b) Eliminate all unlawful discriminatory practice(s) and procedure(s).
+
+             (c) Remedy the discriminatory effect of past practice(s) and procedure(s).
+
+             (d) Take further affirmative action necessary and appropriate to remedy the violation
+
+                complained of herein.
+
+             (e) Provide such further relief as the Commission deems necessary and appropriate.
+     Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 17 of 19
+
+
+
+
+                                           VERIFICATION
+
+        I hereby verify that the statements contained in this complaint are true and correct to the
+
+best of my knowledge, information, and belief. I understand that false statements herein are
+
+made subject to the penalties of 18 P.A.C.A. Section 4904, relating to unsworn falsification to
+
+authorities.
+
+
+
+
+(Datf Sigied)                  (Signatur
+Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 18 of 19
+
+
+
+
+                EXHIBIT B
+                        Case 2:21-cv-00985-CDJ Document 1 Filed 03/02/21 Page 19 of 19
+EEOC Form 161 (11/16)                    U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+
+                                                 DISMISSAL AND NOTICE OF RIGHTS
+To:    Jeffrey Frebowitz                                                              From:     Philadelphia District Office
+                                                                                                801 Market Street
+                                                                                                Suite 1000
+                                                                                                Philadelphia, PA 19107
+
+                            On behalf of person(s) aggrieved whose identity is
+                            CONFIDENTIAL (29 CFR §1601.7(a))
+EEOC Charge No.                                 EEOC Representative                                                    Telephone No.
+
+                                                Kurt Jung
+17F-2020-60569                                  State, Local & Tribal Program Manager                                  (267) 589-9749
+THE EEOC IS CLOSING ITS FILE ON THIS CHARGE FOR THE FOLLOWING REASON:
+                 The facts alleged in the charge fail to state a claim under any of the statutes enforced by the EEOC.
+
+                 Your allegations did not involve a disability as defined by the Americans With Disabilities Act.
+
+                 The Respondent employs less than the required number of employees or is not otherwise covered by the statutes.
+
+                 Your charge was not timely filed with EEOC; in other words, you waited too long after the date(s) of the alleged
+                 discrimination to file your charge
+                 The EEOC issues the following determination: Based upon its investigation, the EEOC is unable to conclude that the
+                 information obtained establishes violations of the statutes. This does not certify that the respondent is in compliance with
+                 the statutes. No finding is made as to any other issues that might be construed as having been raised by this charge.
+       X         The EEOC has adopted the findings of the state or local fair employment practices agency that investigated this charge.
+
+                 Other (briefly state)
+
+
+
+                                                         - NOTICE OF SUIT RIGHTS -
+                                                   (See the additional information attached to this form.)
+
+Title VII, the Americans with Disabilities Act, the Genetic Information Nondiscrimination Act, or the Age
+Discrimination in Employment Act: This will be the only notice of dismissal and of your right to sue that we will send you.
+You may file a lawsuit against the respondent(s) under federal law based on this charge in federal or state court. Your
+lawsuit must be filed WITHIN 90 DAYS of your receipt of this notice; or your right to sue based on this charge will be
+lost. (The time limit for filing suit based on a claim under state law may be different.)
+
+Equal Pay Act (EPA): EPA suits must be filed in federal or state court within 2 years (3 years for willful violations) of the
+alleged EPA underpayment. This means that backpay due for any violations that occurred more than 2 years (3 years)
+before you file suit may not be collectible.
+
+                                                                     On behalf of the Commission
+
+
+                                                                                                                            12/04/2020
+Enclosures(s)                                                                                                                  (Date Mailed)
+                                                                 Jamie R. Williamson
+                                                                   District Director
+cc:        REPUBLIC SERVICES, INC.
+
+           Fernando I. Rivera, Esq.                                                  William J. Leahy, Esq.
+           Console Mattiacci Law                                                     Littler Mendelson, P.C.
+           1525 Locust Street, 9th Floor                                             Three Parkway
+           Philadelphia, PA 19102                                                    1601 Cherry Street, Suite 1400
+           rivera@consolelaw.com                                                     Philadelphia, PA 19102
+           buccieri@consolelaw.com                                                   wleahy@littler.com
+

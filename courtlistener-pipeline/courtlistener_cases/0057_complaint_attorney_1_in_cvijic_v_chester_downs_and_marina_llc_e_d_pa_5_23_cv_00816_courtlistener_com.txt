@@ -1,0 +1,880 @@
+Source URL: https://www.courtlistener.com/docket/66926374/1/cvijic-v-chester-downs-and-marina-llc/
+Title: Complaint (Attorney) – #1 in CVIJIC v. CHESTER DOWNS AND MARINA, LLC (E.D. Pa., 5:23-cv-00816) – CourtListener.com
+
+       Case 5:23-cv-00816-JLS         Document 1   Filed 03/02/23    Page 1 of 19
+
+
+
+
+                     IN THE UNITED STATES DISTRICT COURT
+                  FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+CHRISTOPHER CVIJIC,                            Case No.:
+6925 Hunt Drive
+Macungie, PA 18062
+Resident of Lehigh County
+                                               COLLECTIVE/CLASS COMPLAINT
+      and
+
+SPENCER MCLAUGHLIN,
+244 Woodbridge Road
+Clifton Heights, PA 19018
+Resident of Delaware County
+
+Individually and on Behalf of
+       Other Similarly Situated Employees,
+
+
+                            Plaintiffs;
+vs.
+
+
+CAESARS ENTERTAINMENT, INC.,
+One Caesars Palace Drive
+Las Vegas, NV 89109
+
+                                               JURY TRIAL DEMANDED
+
+
+                            Defendant.         Filed on behalf of Plaintiffs:
+                                               CHRISTOPHER CVIJIC,
+                                               SPENCER MCLAUGHLIN, &
+                                               THE PUTATIVE COLLECTIVE/CLASS
+
+
+                                               Co-Counsel of Record for these Parties:
+                                               Steven Auerbach, Esquire, LL.M.
+                                               Law Office of Steven T. Auerbach
+                                               822 Montgomery Ave.
+                                               Suite 210
+                                               Narberth, PA. 19072
+                                               Ph: (215) 964-4410
+                                               Fax: (215) 613-0890
+Case 5:23-cv-00816-JLS   Document 1   Filed 03/02/23    Page 2 of 19
+
+
+
+
+                                  Auerbach.Steven@gmail.com
+                                  Pa. I.D. #317309
+
+                                  Co-Counsel of Record for these Parties:
+                                  Harold Goldner, Esquire
+                                  Friedman Schuman, P.C.
+                                  275 Commerce Dr.
+                                  Suite 210
+                                  Fort Washington, PA 19034
+                                  Ph:     (215) 392-6944
+                                  Fax: (215) 635-7212
+                                  HGoldner@fsalaw.com
+                                  Pa. I.D. #32367
+      Case 5:23-cv-00816-JLS      Document 1      Filed 03/02/23   Page 3 of 19
+
+
+
+
+                              TABLE OF CONTENTS
+
+                                                                                  Page
+
+INTRODUCTION ………………………………………………………………………………. 1
+
+PARTIES …………………..….….….……………………………………………………….….. 3
+
+JURISDICTION AND VENUE ………………………………………………………………… 5
+
+FACTUAL ALLEGATIONS FOR ALL CLAIMS …….….……………………...............…….. 6
+
+FLSA Collective Action Allegations …………………………………………..……………….. 7
+
+Class Action Under Pennsylvania Wage Laws ………………………………………….…...….. 8
+
+CAUSES OF ACTION …………………………………………………….……...…….…...… 12
+
+   A. Count I. FLSA: Failure to Pay Minimum Wage ………………………….……..………12
+
+   B. Count II. PaMWA: Failure to Pay Minimum Wage ……….…….………………...…… 12
+
+   C. Count III. PaWPCL: Failure to Pay Wages at the End of Employment ……….…...….. 13
+
+PRAYER FOR RELIEF …………………………………………………………….…..……… 14
+
+DEMAND FOR TRIAL BY JURY …………………………………………….…............…… 16
+
+EXHIBIT …………………………………………………………………………………….… 17
+
+   A. Party Consents …………..….…….…….….….………….….….……………...……… 18
+Phone: (215) 392-6944
+Fax: (215) 635-7212
+1500 John F. Kennedy Blvd.
+2 Penn Center, Suite 910
+                         Philadelphia, PA 19102
+           Case 5:23-cv-00816-JLS      Document 1        Filed 03/02/23   Page 4 of 19
+
+
+
+
+                         IN THE UNITED STATES DISTRICT COURT
+                   FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+______________________________________
+CHRISTOPHER CVIJIC, et al., on behalf of )         Case No.:
+themselves and of all others similarly situated, )
+                               Plaintiffs;       ) COLLECTIVE/CLASS COMPLAINT
+                                                 )
+vs.                                              )
+                                                 )
+CAESARS ENTERTAINMENT, INC.,                     )
+                               Defendant.        )
+
+         I. COLLECTIVE AND CLASS ACTION COMPLAINT FOR WAGES OWED
+
+          Plaintiffs, Christopher Cvijic1 (“Cvijic”) and Spencer McLaughlin (“McLaughlin”), on
+
+behalf of themselves and of all others similarly situated, by and through their undersigned
+
+counsel, the Law Office of Steven T. Auerbach and Friedman Schuman, P.C., hereby files this
+
+complaint against their former employer, Defendant Caesars Entertainment, Inc. (“Defendant”)
+
+to recover unpaid wages, liquidated damages, interest, reasonable attorneys’ fees and costs under
+
+Section 16(b) of the Federal Fair Labor Standards Act of 1938, as amended, 29 U.S.C. § 201, et
+
+seq. (the “FLSA”), the Pennsylvania Minimum Wage Act, 43 P.S. § 333.101, et seq. (the
+
+“PaMWA”), the Pennsylvania Wage Payment and Collection Law, 43 P.S. § 2601.1, et seq. (the
+
+“PaWPCL”), and in support thereof, aver the following:
+
+                                     II. INTRODUCTION
+
+1.        The FLSA and the PaMWA require employers to pay their employees at least the
+
+minimum wage for all hours in which they worked. The PaWPCL further requires employers to
+
+timely pay these minimum wages (and all other wages owed) after the conclusion of the
+
+employment relationship.
+
+
+
+
+1
+    Pronounced, “Sa-veech.”
+            Case 5:23-cv-00816-JLS               Document 1   Filed 03/02/23   Page 5 of 19
+
+
+
+
+2.         Plaintiffs’ claims, and those of similarly-situated current and former employees, arise out
+
+of Defendant’s failure to pay its casino employees for all hours in which they worked.
+
+3.         Since 20192, Defendant used a time clock that penalized its casino floor employees who
+
+“clocked-out” after having worked more than eight (8) hours. Despite having worked more than
+
+eight (8) hours, employees would only be credited as if they worked seven (7) hours and
+
+forty-five (45).
+
+4.         To illustrate: were an employee to clock-out after having worked eight (8) hours and six
+
+(6) minutes, his/her compensation would be reduced by twenty-one (21) minutes.
+
+5.         Within the past three (3) years, this has happened to hundreds of Defendant employees at
+
+its Chester, Pennsylvania casino (“Harrah’s”)-- including Cvijic and McLaughlin-- on thousands
+
+of occasions.
+
+6.         Within the past three (3) years, Defendant has also forced many of its employees at
+
+Harrah’s-- including Cvijic and McLaughlin-- to perform work for which they were not
+
+compensated. This included performing post-shift card/dice inventories, providing post-shift
+
+assistance with jackpots, and participating in mandatory off-the-clock trainings.
+
+7.         As such, Defendant employees had to perform work for which there was no accurate
+
+means of capturing their time and for which they were not fully compensated for their efforts.
+
+8.         Under the FLSA’s opt-in mechanism, Cvijic and McLaughlin file this present action in a
+
+representative capacity on behalf of themselves and on the behalf of other, similarly-situated
+
+current and former employees. Preliminarily, they seek this Court’s assistance in notifying
+
+potentially-affected individuals about this case in order to give them a chance to participate and
+
+redress the above wrongs.
+
+
+
+2
+    The claims are limited to three (3) years.
+       Case 5:23-cv-00816-JLS          Document 1       Filed 03/02/23     Page 6 of 19
+
+
+
+
+                                         III. PARTIES
+
+9.     Plaintiff, Cvijic is an adult citizen of the United States and is a resident of Macungie,
+
+Pennsylvania.
+
+10.    Plaintiff, McLaughlin is an adult citizen of the United States and is a resident of Clifton
+
+Heights, Pennsylvania.
+
+11.    Defendant, Caesars Entertainment, Inc. is a Delaware corporation, that is headquartered
+
+in Nevada, and operates the Harrah’s Philadelphia Casino and Racetrack in Chester,
+
+Pennsylvania.
+
+12.    Defendant is subject to the FLSA and the PaMWA due to the amount of annual revenues
+
+in which it generates. Defendant’s annual dollar volume of business exceeds $500,000.00.
+
+https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-inc-reports
+
+-second-quarter-2021-results (Defendant’s Q2 2021 net revenue was $2,500,000,000.00)
+
+13.    At all times relevant to this complaint, Cvijic and McLaughlin engaged in interstate
+
+commerce by the nature of the duties they performed as part of their employment with
+
+Defendant.
+
+14.    Cvijic and McLaughlin worked for Defendant, who, at all times throughout their
+
+employment, fell within the definition of the term “employer” under FLSA, 29 U.S.C. § 203(d)
+
+and the PaMWA, 43 P.S. § 333.103(g).
+
+15.    While working as a dual-rate supervisor, supervisor, and/or as a dual-rate assistant shift
+
+manager (“DRASM”) for Defendant, Cvijic, McLaughlin,               and other similarly situated
+
+employees should have, at all times, received at least the minimum wage for all hours in which
+
+they worked.
+        Case 5:23-cv-00816-JLS         Document 1       Filed 03/02/23   Page 7 of 19
+
+
+
+
+16.    From approximately February 1, 2019 through September 30, 2022, Cvijic was employed
+
+with Defendant as a supervisor and/or as a DRASM.
+
+17.    From approximately January 2012 through January 2021, McLaughlin was employed
+
+with Defendant as a dealer and/or as a dual-rate supervisor.
+
+18.    At all times relevant to this complaint, Defendant and/or its agents controlled the
+
+administration of its business and set employee schedules, including the schedules of Cvijic,
+
+McLaughlin, and other similarly situated employees.
+
+19.    Defendant was actively engaged in the management and direction of Cvijic, McLaughlin,
+
+and other similarly situated employees.
+
+20.    Defendant controlled and supervised the work that Cvijic, McLaughlin, and other
+
+similarly situated employees performed.
+
+21.    Defendant possessed and exercised the authority to determine the hours worked by
+
+Cvijic, McLaughlin, and other similarly situated employees.
+
+22.    Defendant had and exercised the authority to control Cvijic and McLaughlin’s tasks and
+
+the tasks of other similarly situated employees and the manner in which those tasks were to be
+
+completed.
+
+23.    Defendant had the power and authority to change assignments of Cvijic, McLaughlin,
+
+and other similarly situated employees and the course of Cvijic and McLaughlin’s duties and the
+
+duties of other similarly situated employees.
+
+24.    Defendant made all decisions relating to Cvijic and McLaughlin’s rate and method of
+
+pay.
+
+25.    Cvijic, McLaughlin,     and the members of the putative Collective/Class recognized
+
+Defendant’s authority and obeyed Defendant’s instructions.
+        Case 5:23-cv-00816-JLS          Document 1        Filed 03/02/23      Page 8 of 19
+
+
+
+
+26.    At all times relevant to this action, Cvijic and McLaughlin were “employees” of
+
+Defendant within the meaning of the FLSA, the PaMWA, and the PaWPCL.
+
+27.    At all times relevant to this action, Cvijic and McLaughlin were not “student learners,”
+
+“apprentices,” “learners,” “full-time students,” “messengers,” or “disabled employees” within
+
+the meaning of the FLSA, the PaMWA, and the PaWPCL.
+
+                               IV. JURISDICTION AND VENUE
+
+28     Original jurisdiction in this Honorable Court is expressly provided by FLSA, 29 U.S.C. §
+
+207, et seq. This Court also has subject matter jurisdiction under 28 U.S.C. § 1331 because it
+
+arises under the laws of the United States and seeks redress for violations of the FLSA, a federal
+
+law.
+
+29.    Discretionary supplemental jurisdiction over Cvijic and McLaughlin’s state law claims is
+
+provided by 28 U.S.C. § 1367(a). The state law claims form part of the same case or controversy
+
+and derive from the same common nucleus of operative facts on which Cvijic and McLaughlin’s
+
+federal claims are based. Furthermore, no reasons exist that would require this Honorable Court
+
+to decline jurisdiction. The state law claims do not raise novel or complex issues of state law, do
+
+not substantially predominate the claims over which this Honorable Court has original
+
+jurisdiction, and no exceptional circumstances exist that would constitute a compelling reason
+
+for declining jurisdiction, thereby satisfying 28 U.S.C. § 1367(c).
+
+30.    This Court may properly maintain personal jurisdiction over Defendant because its
+
+contact with this Commonwealth and this judicial district are sufficient for the exercise of
+
+jurisdiction, complying with traditional notions of fair play and substantial justice, satisfying the
+
+standard set forth by the United States Supreme Court in International Shoe Co. v. Washington,
+
+326 U.S, 310 (1945), and its progeny.
+        Case 5:23-cv-00816-JLS          Document 1        Filed 03/02/23      Page 9 of 19
+
+
+
+
+31.    Cvijic, McLaughlin, and the putative Collective/Class, are current or former employees
+
+of Defendant who worked at Harrah’s- thus satisfying the territorial standard for “opt-in” FLSA
+
+plaintiffs set forth by the Third Circuit in Fischer, et al. v. Federal Express Corp, et al. PICS No.
+
+21-1683 (3d Cir. 2022).
+
+32.    Pursuant to 28 U.S.C. §§ 1391(b)(2), venue is appropriate as most if not all of the
+
+unlawful acts central to this matter occurred within Chester, Pennsylvania.
+
+                     V. FACTUAL ALLEGATIONS FOR ALL CLAIMS
+
+33.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.
+
+34.    Cvijic, McLaughlin, and other similarly situated employees (collectively, the
+
+“Class/Collective”) worked as dual-rate supervisors, supervisors, and/or as DRASMs for
+
+Defendant.
+
+35.    During the course of their employment with Defendant, the Class/Collective existed
+
+under the terms of a written or implied contract that obligated Defendant to pay earned wages for
+
+all hours in which the Class/Collective worked.
+
+36.    On thousands of occasions within the past three (3) years, the Class/Collective performed
+
+useful service worthy of an expectation of compensation by performing the duties of dual-rate
+
+supervisors, supervisors, and as DRASMs despite not being fully-compensated for their efforts.
+
+37.    This work was performed with the knowledge and approval of Defendant who willfully
+
+attempted to prevent its casino floor employees from earning overtime, required them to remain
+
+on premises during the entirety of their shifts, and frequently required its employees to
+
+prematurely end their breaks in order to open tables for high net worth customers or to assist
+
+other employees with jackpots.
+       Case 5:23-cv-00816-JLS         Document 1         Filed 03/02/23      Page 10 of 19
+
+
+
+
+38.    At all times relevant hereto, the Class/Collective was required to log their hours worked
+
+while on the casino floor through a timeclock that did not accurately capture the hours in which
+
+they worked and downwardly-modified their time.
+
+39.    In order to minimize the extent of this willful downward modification and to avoid
+
+running afoul of Defendant’s anti-overtime efforts, the Class/Collective was encouraged to
+
+clock-out several minutes before the scheduled end of their shift and then to continue working.
+
+40.    The Class/Collective was required to remain on premises after clocking-out in order to
+
+assist other employees with performing post-shift card/dice inventories and.
+
+41.    The Class/Collective was required to attend mandatory trainings while at home and were
+
+given no opportunity to log their hours and be compensated for their time.
+
+                    VI. FLSA COLLECTIVE ACTION ALLEGATIONS
+
+42.    The Class/Collective worked as dual-rate supervisors, supervisors, and/or as DRASMs
+
+for Defendant.
+
+43.    The FLSA requires employers to pay at least the minimum wage for all hours worked.
+
+44.    Defendant knew or should have known that the Class/Collective typically and
+
+customarily work hours for which they were not compensated. Defendant suffered or permitted
+
+the Class/Collective to work without being fully paid.
+
+45.    Defendant knew or should have known that the Class/Collective are entitled to be
+
+compensated for all hours in which they worked.
+
+46.    Pursuant to the FLSA, Cvijic and McLaughlin commence this collective action against
+
+Defendant on behalf of themselves and those similarly situated for the payment of wages owed.
+
+47.    Cvijic and McLaughlin consent to be party plaintiffs in this matter. Cvijic and
+
+McLaughlin’s consent forms are attached to this complaint as Exhibit 1. It is likely that other
+       Case 5:23-cv-00816-JLS           Document 1        Filed 03/02/23       Page 11 of 19
+
+
+
+
+individuals will join Cvijic and McLaughlin during the litigation of this matter and will file
+
+written consents to “opt-in” to this collective action.
+
+48.    There are numerous similarly situated current and former employees of Defendant that
+
+have been harmed by Defendant’s common policy of failing to fully compensate its employees
+
+thereby violating the FLSA.
+
+49.    These similarly situated persons are known to Defendant and are readily identifiable
+
+through Defendant’s records.
+
+50.    Many of these similarly situated employees would benefit from the issuance of a
+
+court-supervised notice, granting them the opportunity to join this lawsuit.
+
+51.    Upon information and belief, other similarly situated employees will choose to join
+
+Cvijic and McLaughlin in this action against Defendant and will “opt in” to this lawsuit to
+
+recover unpaid wages and other available relief.
+
+              VII. CLASS ACTION UNDER PENNSYLVANIA WAGE LAWS
+
+52.    Cvijic and McLaughlin bring this action pursuant to Rule 23 of the Federal Rules of Civil
+
+Procedure on behalf of themselves and other current and former employees that served as
+
+dual-rate supervisors, supervisors, and/or as DRASMs for Defendant and were subject to the
+
+following practices and policies: failure to pay wages under the PaMWA.
+
+53.    The Class Cvijic seeks to represent, as a former supervisor and DRASM, is defined as:
+
+Cvijic’s PaMWA Class
+
+       All individuals who are or were employed by Defendant at its Chester,
+       Pennsylvania location as a supervisor and/or DRASM for any period ranging
+       from the Date of Filing of Complaint minus 3 years to the present and who
+       were not paid for all hours in which they worked in violation of the PaMWA.
+       Case 5:23-cv-00816-JLS         Document 1       Filed 03/02/23     Page 12 of 19
+
+
+
+
+Cvijic’s PaWPCL Class
+
+       All individuals who were, but are no longer, employed by Defendant at its
+       Chester, Pennsylvania location as a supervisor and/or DRASM for any period
+       ranging from the Date of Filing of Complaint minus 3 years to the present and
+       who were not paid for all hours in which they worked in violation of the PaMWA,
+       and thus did not receive all wages owed to them before the termination of their
+       employment with Defendant in violation of the PaWPCL.
+
+54.    The Class McLaughlin seeks to represent, as a former dual-rate supervisor, is defined as:
+
+McLaughlin’s PaMWA Class
+
+       All individuals who are or were employed by Defendant at its Chester,
+       Pennsylvania location as a dual-rate supervisor for any period ranging from the
+       Date of Filing of Complaint minus 3 years to the present and who were not paid
+       for all hours in which they worked in violation of the PaMWA.
+
+McLaughlin’s PaWPCL Class
+
+       All individuals who were, but are no longer, employed by Defendant at its
+       Chester, Pennsylvania location as a a dual-rate supervisor for any period ranging
+       from the Date of Filing of Complaint minus 3 years to the present and who
+       were not paid for all hours in which they worked in violation of the PaMWA, and
+       thus did not receive all wages owed to them before the termination of their
+       employment with Defendant in violation of the PaWPCL.
+
+55.    Cvijic and McLaughlin reserve the right to modify or amend the Class definition,
+
+including the addition of one or more subclasses, after having the opportunity to conduct
+
+discovery.
+
+56.    Numerosity: The individuals in the Class are sufficiently numerous that joinder of all
+
+members is impracticable. Although the precise number of such individuals is currently
+
+unknown, upon information and belief, the Class includes hundreds of dual-rate supervisors,
+
+supervisors, and/or as DRASMs who are readily identifiable through Defendant's pay records.
+
+Consequently, numerosity exists.
+
+57.    Commonality: There are questions of law and fact common to the Classes. Among the
+
+common questions of law and fact applicable to Cvijic and McLaughlin and the Classes are:
+         Case 5:23-cv-00816-JLS         Document 1       Filed 03/02/23      Page 13 of 19
+
+
+
+
+      a. Whether the PaMWA Classes are similarly situated because they all performed the same
+
+         basic duties and were subject to Defendant's common policy and practice of not fully
+
+         compensating them for all hours in which they worked;
+
+      b. Whether Defendant employed the PaMWA Classes within the meaning of the PaMWA;
+
+      c. Whether Defendant violated the PaMWA by failing to pay Cvijic, McLaughlin and the
+
+         Classes for all hours in which they worked for Defendant;
+
+      d. Whether Defendant’s violations of the the PaMWA were willful;
+
+      e. Whether Defendant employed the PaWPCL Classes within the meaning of the PaWPCL;
+
+      f. Whether Defendant failed to provide Cvijic, McLaughlin, and other members of the
+
+         PaWPCL Classes with all wages due at the time their employment ended in violation of
+
+         the PaWPCL;
+
+      g. Whether Defendant’s violations of the PaWPCL were willful; and
+
+      h. Whether Defendant is liable for damages claimed herein, including but not limited to,
+
+         unpaid wages, liquidated damages, interest, costs and attorneys’ fees.
+
+58.      Typicality: Cvijic and McLaughlin’s claims are typical of those of the Classes.
+
+Specifically, each and every class member of both the PaMWA Classes and the PaWPCL Classes
+
+worked as a dual-rate supervisors, supervisors, and/or as DRASMs for Defendant and was
+
+assigned to work at Harrah’s. Each and every PaMWA Class member was required to work. Each
+
+and every class member was not paid for all of the hours in which they worked. As a result, each
+
+and every class member suffered the same harm. This further resulted in Defendant’s subsequent
+
+failure to pay Cvijic, McLaughlin, and other members of the PaWPCL Classes all wages owed to
+
+them at the conclusion of their employment, and this constitutes a violation of both the PaMWA
+
+and the PaWPCL.
+         Case 5:23-cv-00816-JLS        Document 1       Filed 03/02/23     Page 14 of 19
+
+
+
+
+59.      Adequacy: Cvijic and McLaughlin will fully and adequately protect the interests of the
+
+Classes. They seek the same recovery as the Class, predicated upon the same violations of the
+
+law and the same damage theory. Cvijic and McLaughlin have also retained counsel who are
+
+qualified and experienced in the prosecution of wage and hour class actions. Cvijic, McLaughlin,
+
+and their counsel have no interests that are contrary to, or conflicting with, the interests of the
+
+Class.
+
+60.      Predominance: The common issues of law and fact predominate over any individual
+
+issues. Each Class member’s claim is controlled by Pennsylvania’s wage and hour statutory
+
+scheme and one set of facts. This is based on Defendant’s failure to pay wages as required by the
+
+PaMWA and its subsequent failure to pay all wages due at the end of an individual’s employment
+
+as required by the PaWPCL. Similarly, the damages are easily certifiable in that Defendant’s
+
+records will provide the amount and frequency with which each Class member was paid. The
+
+amount of time each class member worked should also be available through Defendant’s
+
+surveillance records.
+
+61.      This action is maintainable as a class action. The prosecution of separate actions by
+
+individual members of the Classes would create a risk of inconsistent or varying adjudications
+
+with respect to individual members of the Classes. This would establish incompatible standards
+
+of conduct for Defendant. If they were to pursue their claims separately, the numerous
+
+adjudications that would be required to protect the individual interests of the Class members
+
+would constitute a drain and burden on judicial resources. Accordingly, the Court should certify
+
+the proposed classes.
+        Case 5:23-cv-00816-JLS           Document 1        Filed 03/02/23      Page 15 of 19
+
+
+
+
+      COUNT I: CHRISTOPHER CVIJIC, et al. v. CAESARS ENTERTAINMENT, INC.
+                         FLSA- Unpaid Minimum Wage
+                      (Cvijic, McLaughlin, & Opt-in Plaintiffs)
+
+62.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.
+
+63.      Cvijic, McLaughlin, and those employees similarly situated are entitled to be
+
+compensated for all hours in which they worked for Defendant as dual-rate supervisors,
+
+supervisors, and/or as DRASMs for Defendant at Harrah’s.
+
+64.      As described above, Defendants failed to properly compensate Cvijic, McLaughlin, and
+
+others for all the hours in which they worked.
+
+65.      Defendant willfully and intentionally failed to compensate Cvijic, McLaughlin, and
+
+others for all the hours in which they worked. There is no bona fide dispute that Cvijic,
+
+McLaughlin, and others similarly situated are owed wages for work performed for Defendant.
+
+      COUNT II: CHRISTOPHER CVIJIC, et al. v. CAESARS ENTERTAINMENT, INC.
+                         PaMWA- Unpaid Minimum Wage
+                          (Cvijic, McLaughlin, & Classes)
+
+66.      The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.
+
+67.      Cvijic, McLaughlin, and those employees similarly situated are entitled to be
+
+compensated for all hours in which they worked for Defendant as dual-rate supervisors,
+
+supervisors, and/or as DRASMs for Defendant at Harrah’s.
+
+68.      As described above, Defendants failed to properly compensate Cvijic, McLaughlin, and
+
+others for all the hours in which they worked.
+
+69.      Defendant willfully and intentionally failed to compensate Cvijic, McLaughlin, and
+
+others for all the hours in which they worked. There is no bona fide dispute that Cvijic,
+
+McLaughlin, and others similarly situated are owed wages for work performed for Defendant.
+       Case 5:23-cv-00816-JLS            Document 1      Filed 03/02/23      Page 16 of 19
+
+
+
+
+  COUNT III: CHRISTOPHER CVIJIC, et al. v. CAESARS ENTERTAINMENT, INC.
+              PaWPCL- Failure to Pay Wages at End of Employment
+                       (Cvijic, McLaughlin, & Classes)
+
+70.    The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.
+
+71.    Cvijic, McLaughlin, and the putative Class members operated under a written or implied
+
+contractual relationship with Defendant where Cvijic, McLaughlin, and the putative Class
+
+members were to render useful services worthy of an expectation of compensation and
+
+Defendant was to fully compensate Cvijic, McLaughlin, and the putative Class members for
+
+these services.
+
+72.    Cvijic, McLaughlin, and the putative Class members performed such services with
+
+knowledge and approval of Defendant.
+
+73.    Mr. Cvijic and putative Class members have not received compensation from Defendant
+
+for all wages owed for work performed in accordance with the PaWPCL.
+
+74.    Cvijic, McLaughlin, and the putative Class members are entitled to wages under the
+
+PaWPCL, 43 P.S. § 260.3, which provides that each employer shall pay an employee all wages
+
+due for work that the employee performed before the end of employment, on or before the day
+
+on which the employee would have otherwise been paid their wages.
+
+75.    Defendant wilfully and intentionally withheld from Cvijic, McLaughlin, and all members
+
+of the PaWPCL Classes the wages owed to them, even after Cvijic, McLaughlin, and others
+
+informed Defendant's of the violation.
+
+76.    All members of the PaWPCL Class are similarly situated to Cvijic, McLaughlin, and
+
+have suffered the same harm resulting from the same policies and practices complained of in this
+
+complaint.
+         Case 5:23-cv-00816-JLS         Document 1       Filed 03/02/23      Page 17 of 19
+
+
+
+
+77.      Under the PaWPCL, there is no bona fide dispute that Cvijic, McLaughlin, and all
+
+members of the PaWPCL Classes are owed additional wages for work performed while
+
+employed by Defendant.
+
+                                      PRAYER FOR RELIEF
+
+         WHEREFORE, Cvijic and McLaughlin, on behalf of themselves and others similarly
+
+situated, prays for the following relief:
+
+      a. In accordance with 29 U.S.C. § 216(b), designation of this action as a collective action of
+
+         behalf of Cvijic, McLaughlin, and those similarly situated;
+
+      b. In accordance with Rule 23 of the Federal Rules of Civil Procedure, designation of this
+
+         action as a Pennsylvania state law class action on behalf of Cvijic, McLaughlin, and all
+
+         members of the proposed Classes;
+
+      c. Ordering Defendant's to disclose in electronic format, the names, addresses, cell phone
+
+         numbers, and emails of all those individuals who are or were similarly situated and
+
+         permitting Cvijic and McLaughlin to send notice of this action to all those similarly
+
+         situated individuals;
+
+      d. Designating Cvijic and McLaughlin to act as Class representative on behalf of all
+
+         similarly situated employees for both the FLSA and Pennsylvania state law Classes;
+
+      e. Judgment against Defendant for its failure to pay Cvijic, McLaughlin, and those similarly
+
+         situated, in accordance with the stands set for by the FLSA;
+
+      f. Judgment against Defendant for its failure to pay Cvijic, McLaughlin, and other members
+
+         of the PaMWA Class, all those appropriately joined to this matter in accordance with the
+
+         standards set forth by the PaMWA;
+   Case 5:23-cv-00816-JLS          Document 1       Filed 03/02/23    Page 18 of 19
+
+
+
+
+g. Judgment against Defendant for its failure to pay Cvijic, McLaughlin, and other members
+
+   of the PaWPCL Class, all those appropriately joined to this matter in accordance with the
+
+   standards set forth by the PaWPCL;
+
+h. Judgment against Defendant and classifying conduct as willful, not in good faith and that
+
+   it was not the result of a bona fide dispute, with respect to failing to pay wages for all
+
+   hours worked under the FLSA and the PaMWA;
+
+i. Judgment against Defendant and classifying Cvijic, McLaughlin, and the Classes as
+
+   employees entitled to protection and compensation under the FLSA, the PaMWA, and the
+
+   PaWPCL;
+
+j. An award against Defendant for the amount of unpaid wages owed to Cvijic,
+
+   McLaughlin, members of the Collective, members of the PaMWA Class and all those
+
+   appropriately joined to this matter;
+
+k. An award against Defendant for the amount of unpaid wages owed to Cvijic,
+
+   McLaughlin, members of the Collective, members of the PaWPCL Class and all those
+
+   appropriately joined to this matter;
+
+l. An award of liquidated damages equal to the total amounts of unpaid wages owed to
+
+   Cvijic, McLaughlin, members of the Collective, members of the Classes, and all those
+
+   appropriately joined to this matter, whichever is deemed just and equitable by this
+
+   Honorable Court;
+
+m. An award of reasonable attorneys’ fees and all costs, plus pre-judgment and
+
+   post-judgment interest, to be satisfied in full by Defendant;
+
+n. Leave to add additional Plaintiffs by motion, through the filing of written consent forms,
+
+   or any other method approved by this Honorable Court; and
+         Case 5:23-cv-00816-JLS            Document 1     Filed 03/02/23      Page 19 of 19
+
+
+
+
+      o. All further relief deemed just and equitable by this Honorable Court.
+
+                                    DEMAND FOR TRIAL BY JURY
+
+         Pursuant to Fed. R. Civ. P 38(b), Plaintiffs demand a trial by jury on all questions of fact
+
+raised by the complaint.
+
+LAW OFFICE OF STEVEN T. AUERBACH                        FRIEDMAN SCHUMAN, P.C.
+
+
+By:      /s/ Steven Auerbach_________                   By:    /s/ Harold Goldner_______
+         Steven Auerbach, Esquire, LL.M.                Harold Goldner, Esquire
+         822 Montgomery Ave.                            275 Commerce Dr.
+         Suite 210                                      Suite 210
+         Narberth, PA 19072                             Fort Washington, PA 19034
+         (215) 964-4410                                 (215) 392-6944
+         Auerbach.Steven@gmail.com                      HGoldner@fsalaw.com
+
+
+                 Attorney for Plaintiffs                       Attorney for Plaintiffs
+
+Dated: March 3, 2023                            Dated: March 3, 2023
+

@@ -1,0 +1,1165 @@
+Source URL: https://www.courtlistener.com/docket/71251116/1/kehoe-v-the-city-of-philadelphia/
+Title: Complaint (Attorney) – #1 in KEHOE v. THE CITY OF PHILADELPHIA (E.D. Pa., 2:25-cv-05007) – CourtListener.com
+
+JS 44 (Rev. 10/20)                   Case 2:25-cv-05007CIVIL
+                                                          Document
+                                                             COVER 1 SHEET
+                                                                      Filed 09/02/25                                                              Page 1 of 32
+The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as
+provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the
+purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)
+I. (a) PLAINTIFFS                                                                                              DEFENDANTS
+          Jessica Kehoe                                                                                        The City of Philadelphia
+    (b) County of Residence of First Listed Plaintiff                  Philadelphia County                     County of Residence of First Listed Defendant              Philadelphia County
+                                  (EXCEPT IN U.S. PLAINTIFF CASES)                                                                    (IN U.S. PLAINTIFF CASES ONLY)
+                                                                                                               NOTE:      IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+                                                                                                                          THE TRACT OF LAND INVOLVED.
+
+  (c) Attorneys (Firm Name, Address, and Telephone Number)                                                      Attorneys (If Known)
+Jonathan D. Gilman, Esq., Console Mattiacci Law,
+1525 Locust Street, 9th Fl., Philadelphia, PA 19102, 215-545-7676
+
+II. BASIS OF JURISDICTION (Place an “X” in One Box Only)                                           III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an “X” in One Box for Plaintiff
+                                                                                                            (For Diversity Cases Only)                                    and One Box for Defendant)
+    1   U.S. Government                  ✖   3   Federal Question                                                                    PTF        DEF                                         PTF      DEF
+          Plaintiff                                (U.S. Government Not a Party)                      Citizen of This State            1          1      Incorporated or Principal Place         4     4
+                                                                                                                                                           of Business In This State
+
+    2   U.S. Government                      4   Diversity                                            Citizen of Another State            2          2   Incorporated and Principal Place           5         5
+          Defendant                                (Indicate Citizenship of Parties in Item III)                                                           of Business In Another State
+
+                                                                                                      Citizen or Subject of a             3          3   Foreign Nation                             6         6
+                                                                                                        Foreign Country
+IV. NATURE OF SUIT (Place an “X” in One Box Only)                                                                                         Click here for: Nature of Suit Code Descriptions.
+           CONTRACT                                                    TORTS                            FORFEITURE/PENALTY                       BANKRUPTCY                       OTHER STATUTES
+    110 Insurance                        PERSONAL INJURY              PERSONAL INJURY                    625 Drug Related Seizure             422 Appeal 28 USC 158             375 False Claims Act
+    120 Marine                           310 Airplane                365 Personal Injury -                   of Property 21 USC 881           423 Withdrawal                    376 Qui Tam (31 USC
+    130 Miller Act                       315 Airplane Product            Product Liability               690 Other                                28 USC 157                        3729(a))
+    140 Negotiable Instrument                 Liability              367 Health Care/                                                                                           400 State Reapportionment
+    150 Recovery of Overpayment          320 Assault, Libel &            Pharmaceutical                                                       PROPERTY RIGHTS                   410 Antitrust
+        & Enforcement of Judgment             Slander                    Personal Injury                                                       820 Copyrights                   430 Banks and Banking
+    151 Medicare Act                     330 Federal Employers’          Product Liability                                                     830 Patent                       450 Commerce
+    152 Recovery of Defaulted                 Liability              368 Asbestos Personal                                                     835 Patent - Abbreviated         460 Deportation
+         Student Loans                   340 Marine                      Injury Product                                                            New Drug Application         470 Racketeer Influenced and
+         (Excludes Veterans)             345 Marine Product              Liability                                                             840 Trademark                        Corrupt Organizations
+    153 Recovery of Overpayment               Liability             PERSONAL PROPERTY                             LABOR                        880 Defend Trade Secrets         480 Consumer Credit
+        of Veteran’s Benefits            350 Motor Vehicle           370 Other Fraud                     710 Fair Labor Standards                  Act of 2016                      (15 USC 1681 or 1692)
+    160 Stockholders’ Suits              355 Motor Vehicle           371 Truth in Lending                    Act                                                                485 Telephone Consumer
+    190 Other Contract                       Product Liability       380 Other Personal                  720 Labor/Management                 SOCIAL SECURITY                       Protection Act
+    195 Contract Product Liability       360 Other Personal              Property Damage                     Relations                        861 HIA (1395ff)                  490 Cable/Sat TV
+    196 Franchise                            Injury                  385 Property Damage                 740 Railway Labor Act                862 Black Lung (923)              850 Securities/Commodities/
+                                         362 Personal Injury -           Product Liability               751 Family and Medical               863 DIWC/DIWW (405(g))                Exchange
+                                             Medical Malpractice                                             Leave Act                        864 SSID Title XVI                890 Other Statutory Actions
+        REAL PROPERTY                      CIVIL RIGHTS             PRISONER PETITIONS                   790 Other Labor Litigation           865 RSI (405(g))                  891 Agricultural Acts
+    210 Land Condemnation                440 Other Civil Rights      Habeas Corpus:                      791 Employee Retirement                                                893 Environmental Matters
+    220 Foreclosure                      441 Voting                  463 Alien Detainee                      Income Security Act              FEDERAL TAX SUITS                 895 Freedom of Information
+    230 Rent Lease & Ejectment       ✖   442 Employment              510 Motions to Vacate                                                    870 Taxes (U.S. Plaintiff             Act
+    240 Torts to Land                    443 Housing/                    Sentence                                                                 or Defendant)                 896 Arbitration
+    245 Tort Product Liability               Accommodations          530 General                                                              871 IRS—Third Party               899 Administrative Procedure
+    290 All Other Real Property          445 Amer. w/Disabilities -  535 Death Penalty                       IMMIGRATION                           26 USC 7609                      Act/Review or Appeal of
+                                             Employment              Other:                              462 Naturalization Application                                             Agency Decision
+                                         446 Amer. w/Disabilities -  540 Mandamus & Other                465 Other Immigration                                                  950 Constitutionality of
+                                             Other                   550 Civil Rights                        Actions                                                                State Statutes
+                                         448 Education               555 Prison Condition
+                                                                     560 Civil Detainee -
+                                                                         Conditions of
+                                                                         Confinement
+V. ORIGIN (Place an “X” in One Box Only)
+✖   1 Original             2 Removed from                         3     Remanded from               4 Reinstated or             5 Transferred from      6 Multidistrict                     8 Multidistrict
+      Proceeding             State Court                                Appellate Court               Reopened                    Another District          Litigation -                      Litigation -
+                                                                                                                                  (specify)                 Transfer                          Direct File
+                                             Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity):
+                                             42 U.S.C. §2000e et seq.; 43 P.S. §951 et seq.; Phila. Code § 9-1100, et seq.
+VI. CAUSE OF ACTION Brief description of cause:
+                                             Plaintiff was discriminated against because of her sex.
+VII. REQUESTED IN                                 CHECK IF THIS IS A CLASS ACTION                        DEMAND $                                    CHECK YES only if demanded in complaint:
+     COMPLAINT:                                   UNDER RULE 23, F.R.Cv.P.                            in excess of $75,000                           JURY DEMAND:                X Yes             No
+VIII. RELATED CASE(S)
+                                                 (See instructions):
+      IF ANY                                                             JUDGE                                                                DOCKET NUMBER
+DATE                                                                       SIGNATURE OF ATTORNEY OF RECORD
+09/02/2025
+FOR OFFICE USE ONLY
+
+    RECEIPT #                     AMOUNT                                        APPLYING IFP                                    JUDGE                           MAG. JUDGE
+10/2024                           Case 2:25-cv-05007                   Document 1                 Filed 09/02/25            Page 2 of 32
+                                                           UNITED STATES DISTRICT COURT
+                                                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+                                                                           DESIGNATION FORM
+
+                                                  Philadelphia, PA
+    Place of Accident, Incident, or Transaction:_______________________________________________________________________
+
+
+
+
+      RELATED CASE IF ANY: Case Number:______________________ Judge:________________________________
+
+              1.   Does this case involve property included in an earlier numbered suit?                                                                Yes
+
+              2.   Does this case involve a transaction or occurrence which was the subject of an earlier numbered suit?                                Yes
+
+              3.   Does this case involve the validity or infringement of a patent which was the subject of an earlier numbered suit?                   Yes
+
+              4.   Is this case a second or successive habeas corpus petition, social security appeal, or pro se case filed by the same                 Yes
+                   individual?
+
+              5.   Is this case related to an earlier numbered suit even though none of the above categories apply?                                     Yes
+                   If yes, attach an explanation.
+      I certify that, to the best of my knowledge and belief, the within case                     is / x is not related to any pending or previously terminated
+      action in this court.
+
+
+      Civil Litigation Categories
+
+              A.   Federal Question Cases:                                                              B. Diversity Jurisdiction Cases:
+
+                   1.  Indemnity Contract, Marine Contract, and All Other Contracts)          1. Insurance Contract and Other Contracts
+                   2.  FELA                                                                   2. Airplane Personal Injury
+                   3.  Jones Act-Personal Injury                                              3. Assault, Defamation
+                   4.  Antitrust                                                              4. Marine Personal Injury
+                   5.  Wage and Hour Class Action/Collective Action                           5. Motor Vehicle Personal Injury
+                   6.  Patent                                                                 6. Other Personal Injury (Please specify):________________
+                   7.  Copyright/Trademark                                                    7. Products Liability
+                   8.  Employment                                                             8. All Other Diversity Cases: (Please specify)______________
+                   9.  Labor-Management Relations                                                _____________________
+              x    10. Civil Rights
+                   11. Habeas Corpus
+                   12. Securities Cases
+                   13. Social Security Review Cases
+                   14. Qui Tam Cases
+                   15. Cases Seeking Systemic Relief *see certification below*
+                   16. All Other Federal Question Cases. (Please specify):_____________________________
+
+      I certify that, to the best of my knowledge and belief, that the remedy sought in this case       does / x does not have implications
+      beyond the parties before the court and       does /  x  does not seek to bar or mandate statewide or nationwide enforcement of a state or
+      federal law including a rule, regulation, policy, or order of the executive branch or a state or federal agency, whether by declaratory
+      judgment and/or any form of injunctive relief.
+
+                                                    ARBITRATION CERTIFICATION (CHECK ONLY ONE BOX BELOW)
+
+      I certify that, to the best of my knowledge and belief:
+
+          X     Pursuant to Local Civil Rule 53.2(3), this case is not eligible for arbitration either because (1) it seeks relief other than money damages; (2) the
+      money damages sought are in excess of $150,000 exclusive of interest and costs; (3) it is a social security case, includes a prisoner as a party, or alleges a
+      violation of a right secured by the U.S. Constitution, or (4) jurisdiction is based in whole or in part on 28 U.S.C. § 1343.
+
+
+                   None of the restrictions in Local Civil Rule 53.2 apply and this case is eligible for arbitration.
+
+      NOTE: A trial de novo will be by jury only if there has been compliance with F.R.C.P. 38.
+              Case 2:25-cv-05007     Document 1        Filed 09/02/25      Page 3 of 32
+                        IN THE UNITED STATES DISTRICT COURT
+                     FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+
+                     CASE MANAGEMENT TRACK DESIGNATION FORM
+ Jessica Kehoe                                    :                          CIVIL ACTION
+                                                  :
+                       v.                         :
+                                                  :
+The City of Philadelphia                          :                          NO.
+
+In accordance with the Civil Justice Expense and Delay Reduction Plan of this court, counsel for
+plaintiff shall complete a Case Management Track Designation Form in all civil cases at the time of
+filing the complaint and serve a copy on all defendants. (See § 1:03 of the plan set forth on the reverse
+side of this form.) In the event that a defendant does not agree with the plaintiff regarding said
+designation, that defendant shall, with its first appearance, submit to the clerk of court and serve on
+the plaintiff and all other parties, a Case Management Track Designation Form specifying the track
+to which that defendant believes the case should be assigned.
+
+SELECT ONE OF THE FOLLOWING CASE MANAGEMENT TRACKS:
+(a) Habeas Corpus – Cases brought under 28 U.S.C. § 2241 through § 2255.                             ( )
+
+(b) Social Security – Cases requesting review of a decision of the Secretary of Health
+    and Human Services denying plaintiff Social Security Benefits.                                   ( )
+
+(c) Arbitration – Cases required to be designated for arbitration under Local Civil Rule 53.2.       ( )
+
+(d) Asbestos – Cases involving claims for personal injury or property damage from
+    exposure to asbestos.                                                                            ( )
+
+(e) Special Management – Cases that do not fall into tracks (a) through (d) that are
+    commonly referred to as complex and that need special or intense management by
+    the court. (See reverse side of this form for a detailed explanation of special
+    management cases.)                                                                               ( )
+
+(f) Standard Management – Cases that do not fall into any one of the other tracks.                   ( X)
+
+
+09/02/2025                                                          Plaintiff, Jessica Kehoe
+Date                               Attorney-at-law
+                                   Attorney-a
+                                           -aat-la
+                                           -at- l w
+                                                la                       Attorney for
+ 215-545-7676                   215-827-5101                          gilman@consolelaw.com
+
+Telephone                           FAX Number                           E-Mail Address
+
+
+(Civ. 660) 10/02
+      Case 2:25-cv-05007           Document 1     Filed 09/02/25     Page 4 of 32
+
+
+
+
+                IN THE UNITED STATES DISTRICT COURT FOR
+                 THE EASTERN DISTRICT OF PENNSYLVANIA
+
+
+JESSICA KEHOE,
+                                                CIVIL ACTION NO.
+                      Plaintiff,
+       v.
+
+THE CITY OF PHILADELPHIA,
+
+                      Defendant.                JURY TRIAL DEMANDED
+
+
+                                      COMPLAINT
+
+I.     INTRODUCTION
+
+       Plaintiff, Jessica Kehoe, brings this action against her former employer, the City
+
+of Philadelphia (“Defendant”). Plaintiff, a dedicated employee for approximately six-
+
+and-a-half years, had been subjected to degrading sex discriminatory conduct from a
+
+male co-worker of Defendant’s Police Department. Despite complaining about the same,
+
+Defendant not only promoted the male co-worker but also denied her a promotion for
+
+which she was highly qualified, and failed to adequately investigate Plaintiff’s complaints
+
+and remedy and/or correct the sex discriminatory environment in which Plaintiff worked,
+
+leading to her resignation in August 2023.
+
+       Defendant’s sex discriminatory and retaliatory conduct against Plaintiff violated
+
+Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e, et seq. (“Title
+
+VII”); the Pennsylvania Human Relations Act, as amended, 43 P.S. § 951, et seq.
+
+(“PHRA”); and, the Philadelphia Fair Practices Ordinance, as amended, Phila. Code § 9-
+
+1100, et seq. (“PFPO”). Defendant’s conduct also deprived Plaintiff of her constitutional
+
+rights of the Equal Protection Clause of the United States Constitution in violation of 42
+       Case 2:25-cv-05007         Document 1      Filed 09/02/25     Page 5 of 32
+
+
+
+
+U.S.C. § 1983 (“Section 1983”).       Plaintiff seeks all damages allowable under law,
+
+including economic, compensatory, punitive damages, attorneys’ fees and costs, and all
+
+other relief that this Court deems appropriate.
+
+II.    PARTIES
+
+       1.      Plaintiff, Jessica Kehoe, is an individual and a citizen of the
+
+Commonwealth of Pennsylvania. She resides in Philadelphia, Pennsylvania.
+
+       2.      Plaintiff is female.
+
+       3.      Defendant, the City of Philadelphia, is a political subdivision of the
+
+Commonwealth of Pennsylvania, with its principal office located at 1401 John F.
+
+Kennedy Boulevard, Philadelphia, PA 19102.
+
+       4.      At all times material hereto, Plaintiff was employed by Defendant to work
+
+at its Philadelphia Police Department headquarters, located at 400 N. Broad Street,
+
+Philadelphia, PA 19130.
+
+       5.      Defendant is engaged in an industry affecting interstate commerce and
+
+regularly conducts business in the Commonwealth of Pennsylvania and in the City of
+
+Philadelphia. Defendant also employs residents of the Commonwealth of Pennsylvania
+
+and the City of Philadelphia.
+
+       6.      At all times material hereto, Defendant employed more than fifteen (15)
+
+employees.
+
+       7.      At all times material hereto, Defendant’s policies, customs, and practices
+
+in its Police Department were discriminatory toward females.
+
+       8.      At all times material hereto, Defendant instituted, acquiesced in, ratified
+
+and/or took action against Plaintiff and other female employees.
+
+
+
+
+                                             2
+       Case 2:25-cv-05007        Document 1       Filed 09/02/25      Page 6 of 32
+
+
+
+
+       9.      At all times material hereto, Defendant acted by and through its authorized
+
+agents, servants, workmen, and/or employees acting within the course and scope of their
+
+employment with Defendant and in furtherance of Defendant’s business.
+
+       10.     At all times material hereto, Defendant acted as an employer within the
+
+meaning of the statutes which form the basis of this matter.
+
+       11.     At all times material hereto, Plaintiff was an employee of Defendant
+
+within the meaning of the statutes which form the basis of this matter.
+
+       12.     At all times material hereto, Defendant acted under color of state law.
+
+III.   JURISDICTION AND VENUE
+
+       13.     The causes of action which form the basis of this matter arise under Title
+
+VII, Section 1983, the PHRA, and the PFPO.
+
+       14.     The District Court has jurisdiction over Count I (Title VII) pursuant to 42
+
+U.S.C. § 2000e-5 and 28 U.S.C. § 1331.
+
+       15.     The District Court has jurisdiction over Count II (Section 1983) pursuant
+
+to 28 U.S.C. § 1331 and 28 U.S.C. § 1333.
+
+       16.     The District Court has supplemental jurisdiction over Count III (PHRA)
+
+and Count IV (PFPO) pursuant to 28 U.S.C. § 1367.
+
+       17.     Venue is proper in the District Court under 28 U.S.C. §1391(b) and 42
+
+U.S.C. § 2000e-5(f).
+
+       18.     On or about May 31, 2023, Plaintiff filed a Complaint of Discrimination
+
+with the Philadelphia Commission on Human Relations (“PCHR”), complaining of acts
+
+of discrimination and retaliation alleged herein. This Complaint of Discrimination was
+
+cross-filed with the Equal Employment Opportunity Commission (“EEOC”). Attached
+
+
+
+
+                                             3
+      Case 2:25-cv-05007          Document 1        Filed 09/02/25     Page 7 of 32
+
+
+
+
+hereto, incorporated herein, and marked as Exhibit “1” is a true and correct copy of the
+
+PCHR Complaint of Discrimination (with personal identifying information redacted).
+
+       19.     On or about June 10, 2025, the United States Department of Justice, Civil
+
+Rights Division issued to Plaintiff a Notice of Right to Sue for her Complaint of
+
+Discrimination. Attached hereto and marked as Exhibit “2” is a true and correct copy of
+
+the Notice of Right to Sue (with personal identifying information redacted).
+
+       20.     Plaintiff has fully complied with all administrative prerequisites for the
+
+commencement of this action.
+
+IV.    FACTUAL ALLEGATIONS
+
+       21.     Plaintiff was hired by Defendant on or about February 27, 2017, within
+
+Defendant’s Philadelphia Police Department (the “Police Department”).
+
+       22.     Plaintiff last held the position of Clerk 3.
+
+       23.     Plaintiff’s job duties included, inter alia, performing complex clerical
+
+work for the Police Department and training personnel on data entry.
+
+       24.     Plaintiff last reported to Heather McCaffrey (“McCaffrey”) (female),
+
+Human Resources Director.       McCaffrey reported to Krista Dahl-Campbell (female),
+
+Lieutenant.
+
+       25.     In or around August 2021, Defendant hired Derrick Hannibal (“Hannibal”)
+
+(male), as Clerk 1.
+
+       26.     Hannibal’s work desk was directly next to Plaintiff’s work desk.
+
+       27.     During the course of Plaintiff’s employment at Defendant, on an ongoing
+
+and continuous basis, Hannibal (male) engaged in comments and conduct of a sexual
+
+nature toward Plaintiff (female). Examples of the same include, without limitation:
+
+
+
+
+                                              4
+       Case 2:25-cv-05007        Document 1       Filed 09/02/25      Page 8 of 32
+
+
+
+
+                 a. Hannibal (Black male) told Plaintiff (white female) that he only
+
+                     liked white women because they were submissive.
+
+                 b. Hannibal commented that “white women love black dick.”
+
+                 c. Hannibal massaged Plaintiff’s shoulders, unprompted, and without
+
+                     her permission.
+
+                 d. Hannibal pinched Plaintiff’s waist.
+
+                 e. Hannibal grabbed Plaintiff’s hair.
+
+                 f. Hannibal came near Plaintiff’s face and touched her hair.
+
+                 g. Hannibal picked up Plaintiff’s hair from her back and shoulders, and
+
+                     ran his hands through it.
+
+                 h. Hannibal commented that he liked Plaintiff’s long hair.
+
+       28.     Plaintiff understood that Hannibal wanted to engage in conduct of a sexual
+
+nature with Plaintiff.
+
+       29.     Plaintiff objected to Hannibal’s comments and conduct of a sexual nature,
+
+and rebuffed Hannibal’s advances.
+
+       30.     Plaintiff told Hannibal that she was married, and that she was not
+
+interested in him.
+
+       31.     After Plaintiff rebuffed Hannibal’s advances and objected to his sexual
+
+comments and conduct, Plaintiff was treated worse than male employees, including in a
+
+hostile manner. Examples of the same include, without limitation:
+
+                 a. Hannibal called Plaintiff fat and told her that she needed to lose
+
+                     weight.
+
+                 b. Hannibal falsely accused Plaintiff of being racist.
+
+
+
+
+                                             5
+      Case 2:25-cv-05007        Document 1       Filed 09/02/25     Page 9 of 32
+
+
+
+
+                c. Hannibal stared at Plaintiff in a threatening, intimidating manner.
+
+                d. Hannibal intentionally knocked Plaintiff’s items off her desk.
+
+                e. Hannibal banged and slammed items on his desk near Plaintiff.
+
+                f. Hannibal treated Plaintiff as if she were his assistant, which she was
+
+                    not.
+
+                g. Hannibal complained that Plaintiff was not taking his phone calls.
+
+                h. Hannibal complained that Plaintiff was not doing his work for him.
+
+                i. Hannibal played loud music in the small office in which he and
+
+                    Plaintiff worked.
+
+                j. Hannibal refused to wear a mask around Plaintiff during COVID-19
+
+                    even though masks were required and he and Plaintiff were in a
+
+                    small office together.
+
+                k. Hannibal commented that “these broke bitches” in the office “need
+
+                    to get better clothes and lose some weight.”
+
+                l. Hannibal commented that there were “ugly bitches” at Defendant.
+
+                m. Hannibal referred generally to women as “bitches” in the office.
+
+       32.    In addition to the above, Plaintiff observed Hannibal (male) engage in
+
+comments and conduct of a sexual nature toward another female employee, Clerk 3.
+
+Examples of the same include, without limitation:
+
+                a. Hannibal commented that he liked the curly hair of the female
+
+                    employee.
+
+                b. Hannibal touched the female employee on her neck.
+
+
+
+
+                                             6
+      Case 2:25-cv-05007        Document 1       Filed 09/02/25     Page 10 of 32
+
+
+
+
+                 c. Hannibal touched the female employee’s arm in a slow and sexual
+
+                    manner.
+
+                 d. Hannibal kissed the female employee intimately and slowly on the
+
+                    lips.
+
+                 e. Hannibal massaged the female employee’s shoulders and back.
+
+                 f. Hannibal rubbed the female employee’s legs and grabbed her upper
+
+                    thigh.
+
+                 g. Hannibal asked the female employee, if her “white pussy like[d] this
+
+                    big black dick.”
+
+                 h. Hannibal commented that he was going to “get with” the female
+
+                    employee.
+
+                 i. Plaintiff understood the above to mean that Hannibal was going to
+
+                    have sex with the female employee.
+
+                 j. Hannibal commented that the female employee was going to be his.
+
+       33.     Plaintiff complained to McCaffrey of sexual harassment in connection
+
+with Hannibal, including about Hannibal’s sexual comments and conduct and how his
+
+treatment of Plaintiff worsened after she rebuffed his advances.
+
+       34.     In response to the above, McCaffrey told Plaintiff to try to get along with
+
+Hannibal.
+
+       35.     In or around January 2022, Plaintiff complained to Yvonne Banks
+
+(“Banks”) (female), Assistant Human Resources Director, of sexual harassment in
+
+connection with Hannibal, including about Hannibal’s sexual comments and conduct and
+
+how his treatment of Plaintiff worsened after she rebuffed his advances.
+
+
+
+
+                                            7
+      Case 2:25-cv-05007        Document 1       Filed 09/02/25      Page 11 of 32
+
+
+
+
+        36.    In response to the above, Banks told Plaintiff that she would talk with
+
+Hannibal.
+
+        37.    In or around August 2022, in a meeting with Banks, Plaintiff complained
+
+of sexual harassment in connection with Hannibal, including about Hannibal’s sexual
+
+comments and conduct and how his treatment of Plaintiff worsened after she rebuffed his
+
+advances.
+
+        38.    In response to the above, Banks stated that since she had not witnessed the
+
+conduct herself, she could not do anything about it.
+
+        39.    On or about August 9, 2022, Defendant promoted Hannibal to Clerk 2.
+
+        40.    Plaintiff was aware that other female employees complained about
+
+Hannibal.
+
+        41.    After Plaintiff complained, Hannibal (male) continued to engage in
+
+comments and conduct of a sexual nature toward Plaintiff (female) and treat her in a
+
+hostile manner.
+
+        42.    Hannibal made fun of the music to which Plaintiff listened.
+
+        43.    Hannibal would knock items off of Plaintiff’s desk.
+
+        44.    Hannibal communicated with Plaintiff in an intimidating manner.
+
+        45.    Hannibal was condescending toward Plaintiff.
+
+        46.    Plaintiff continued to complain to McCaffrey of sexual harassment in
+
+connection with Hannibal, including in the beginning of 2023.
+
+        47.    McCaffrey stated that Hannibal would not be returning to the office.
+
+        48.    Despite the above statement from McCaffrey, Hannibal continued to be in
+
+the office.
+
+
+
+
+                                             8
+      Case 2:25-cv-05007         Document 1        Filed 09/02/25   Page 12 of 32
+
+
+
+
+       49.     On or about February 16, 2023, in a meeting with Brent Conway
+
+(“Conway”) (male), Lieutenant, Internal Affairs Division, Plaintiff complained of sexual
+
+harassment in connection with Hannibal, including about Hannibal’s sexual comments
+
+and conduct and how his treatment of Plaintiff worsened after she rebuffed his advances.
+
+       50.     During the above meeting, Plaintiff stated that she had complained to
+
+McCaffrey and Banks of the same, but Defendant had not taken any action in response to
+
+her complaints.
+
+       51.     On or about February 24, 2023, Plaintiff applied for the position of
+
+Clerical Supervisor 2, which was posted and would have been a promotion for Plaintiff.
+
+       52.     Plaintiff was qualified for the position.
+
+       53.     On or about February 24, 2023, following the above, in an email from
+
+Cornell Weaver (“Weaver”), Office of Human Resources, Defendant failed to promote
+
+Plaintiff to Clerical Supervisor 2.
+
+       54.     The stated reason was “Insufficient Experience of the Kind Required.”
+
+       55.     On or about March 1, 2023, in an email to Weaver, copying McCaffrey,
+
+Plaintiff appealed Defendant’s failure to promote her to Clerical Supervisor 2, and
+
+reiterated her experience and qualifications for the position.
+
+       56.     On or about March 2, 2023, following the above, in an email from
+
+Weaver, Plaintiff was told that she had been approved to take the exam to be promoted to
+
+Clerical Supervisor 2.
+
+       57.     Plaintiff never received information regarding the date for the exam to be
+
+promoted to Clerical Supervisor 2.
+
+
+
+
+                                              9
+      Case 2:25-cv-05007         Document 1        Filed 09/02/25       Page 13 of 32
+
+
+
+
+       58.     Plaintiff never received an email with the link to take the promotion exam,
+
+which removed her from the promotion list.
+
+       59.     On April 5, 2023, in an email from Conway, he stated to Plaintiff that “the
+
+inspector will determine if disciplinary action is appropriate” in connection with
+
+Hannibal.
+
+       60.     On April 17, 2023, in an email to Conway and a complaint submission to
+
+Defendant’s Office of Inspector General, Plaintiff complained of sexual harassment and
+
+retaliation in connection with Hannibal and Defendant’s failure to remedy or prevent the
+
+same, despite her repeated complaints.
+
+       61.     On April 17, 2023, Defendant transferred Hannibal to another location.
+
+       62.     On April 28, 2023, in an email to McCaffrey, Plaintiff stated that she saw
+
+Hannibal in Defendant’s employee parking lot, despite her understanding that Hannibal
+
+had been instructed not to be there following his transfer to another location.
+
+       63.     To date, Defendant has not informed Plaintiff of any remedial and/or
+
+corrective action that it has taken regarding Plaintiff’s complaints.
+
+       64.     Hannibal remains employed with Defendant.
+
+       65.     On August 28, 2023, Plaintiff resigned from her employment with
+
+Defendant due to the severity of the sex discrimination and retaliation to which she had
+
+been subjected, the lack of remedial and/or corrective action that had been taken
+
+regarding Plaintiff’s complaints, and the emotional distress to which she had been
+
+subjected as a result of the same.
+
+       66.     Defendant’s discriminatory and retaliatory treatment of Plaintiff as set
+
+forth herein was sufficiently severe and/or pervasive such that a reasonable person in
+
+
+
+
+                                             10
+      Case 2:25-cv-05007        Document 1       Filed 09/02/25      Page 14 of 32
+
+
+
+
+Plaintiff’s position would have found the terms and conditions of employment to have
+
+been altered and the work environment created as a result thereof to be hostile and
+
+abusive.
+
+       67.     Defendant’s treatment of Plaintiff as set forth in the preceding paragraph
+
+was sufficiently severe and/or pervasive such that Plaintiff in fact believed the terms and
+
+conditions of her employment had changed and that the work environment created as a
+
+result thereof had become hostile and abusive.
+
+       68.     Defendant has a reputation for engaging in sex-based comments and
+
+conduct toward female employees and for failing to take appropriate remedial measures
+
+with respect to the same.
+
+       69.     Plaintiff’s sex was a motivating and/or determinative factor in Defendant’s
+
+discriminatory treatment of Plaintiff, including the hostile work environment to which
+
+Plaintiff was subjected and which constituted a continuing violation, and failing to
+
+promote her to Clerical Supervisor 2.
+
+       70.     Plaintiff’s complaining of sex discrimination was a motivating and/or
+
+determinative factor in Defendant’s discriminatory treatment of Plaintiff, including the
+
+hostile work environment to which Plaintiff was subjected and which constituted a
+
+continuing violation, and failing to promote her to Clerical Supervisor 2.
+
+       71.     Defendant failed to prevent or address the discriminatory and retaliatory
+
+conduct referred to herein and further failed to take corrective and remedial measures to
+
+make the workplace free of discriminatory and retaliatory conduct.
+
+       72.     Defendant’s actions referred to herein have established a policy and
+
+pattern of acceptance and tolerance of discrimination and harassment against women.
+
+
+
+
+                                            11
+      Case 2:25-cv-05007          Document 1       Filed 09/02/25     Page 15 of 32
+
+
+
+
+        73.     The retaliatory actions taken against Plaintiff after she complained of
+
+discriminatory conduct would have discouraged a reasonable employee from
+
+complaining of discrimination.
+
+        74.     As a direct and proximate result of the discriminatory and retaliatory
+
+conduct of Defendant, Plaintiff has in the past incurred, and may in the future incur, a
+
+loss of earnings and/or earning capacity, loss of benefits, pain and suffering,
+
+embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of life’s
+
+pleasures, the full extent of which is not known at this time.
+
+        75.     Defendant acted with malice, reckless indifference and/or deliberate
+
+indifference to Plaintiff’s protected rights, and its conduct warrants the imposition of
+
+punitive damages.
+
+        76.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+                                  COUNT I – TITLE VII
+
+        77.     Plaintiff incorporates herein by reference the paragraphs above, as if set
+
+forth herein in their entirety.
+
+        78.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant violated Title VII.
+
+        79.     Said violations were done with malice and/or reckless indifference to
+
+Plaintiff’s protected rights, and warrant the imposition of punitive damages.
+
+        80.     As a direct and proximate result of Defendant’s violations of Title VII,
+
+Plaintiff has suffered the damages and losses set forth herein and has incurred attorneys’
+
+
+
+
+                                             12
+      Case 2:25-cv-05007           Document 1       Filed 09/02/25      Page 16 of 32
+
+
+
+
+fees and costs.
+
+        81.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+        82.       No previous application has been made for the relief requested herein.
+
+                                  COUNT II – SECTION 1983
+
+        83.       Plaintiff incorporates herein by reference the paragraphs above, as if set
+
+forth herein in their entirety.
+
+        84.       By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant deprived Plaintiff of equal protection under the law as guaranteed by
+
+the Fourteenth Amendment of the United States Constitution.
+
+        85.       Said violations included policies, practices and/or customs to treat female
+
+employees in Defendant’s Police Department less favorably than male employees, which
+
+was committed, directed, implemented, and/or ratified by officials of Defendant in
+
+supervisory capacities with policymaking and decision-making authority.
+
+        86.       As a direct and proximate result of Defendant’s acts and conduct which
+
+caused Plaintiff to be denied equal protection under the law, Plaintiff has sustained the
+
+injuries, damages, and losses set forth herein and has incurred attorneys’ fees and costs.
+
+        87.       The wrongful acts and conduct of Defendant were done with deliberate
+
+indifference to the statutory and constitutional rights of Plaintiff.
+
+        88.       Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until this Court grants the relief requested herein.
+
+
+
+
+                                               13
+      Case 2:25-cv-05007          Document 1       Filed 09/02/25     Page 17 of 32
+
+
+
+
+        89.     No previous application has been made for the relief requested herein.
+
+                                   COUNT III - PHRA
+
+        90.     Plaintiff incorporates herein by reference the paragraphs above, as if set
+
+forth herein in their entirety.
+
+        91.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant violated the PHRA.
+
+        92.     As a direct and proximate result of Defendant’s violations of the PHRA,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+
+attorneys’ fees and costs.
+
+        93.     Plaintiff is now suffering and will continue to suffer irreparable injury and
+
+monetary damages as a result of Defendant’s discriminatory and retaliatory acts unless
+
+and until the Court grants the relief requested herein.
+
+        94.     No previous application has been made for the relief requested herein.
+
+                                    COUNT IV - PFPO
+
+        95.     Plaintiff incorporates herein by reference the paragraphs above, as if set
+
+forth herein in their entirety.
+
+        96.     By committing the foregoing acts of discrimination and retaliation against
+
+Plaintiff, Defendant violated the PFPO.
+
+        97.     Defendant acted willfully and intentionally, and with malice and/or
+
+deliberate indifference to Plaintiff’s rights, thereby warranting the imposition of punitive
+
+damages.
+
+
+
+
+                                             14
+      Case 2:25-cv-05007          Document 1       Filed 09/02/25    Page 18 of 32
+
+
+
+
+        98.     As a direct and proximate result of Defendant’s violations of the PFPO,
+
+Plaintiff has sustained the injuries, damages, and losses set forth herein and has incurred
+
+attorney’s fees and costs.
+
+        99.     Plaintiff is now suffering and will continue to suffer irreparable injuries
+
+and monetary damages as a result of Defendant’s discriminatory and retaliatory acts
+
+unless and until the Court grants the relief requested herein.
+
+        100.    No previous application has been made for the relief requested herein.
+
+                                           RELIEF
+
+        WHEREFORE, Plaintiff seeks damages and legal and equitable relief in
+
+connection with Defendant’s improper conduct, and specifically prays that the Court
+
+grant the following relief to the Plaintiff by:
+
+        (a)     declaring the acts and practices complained of herein to be in violation of
+
+Title VII;
+
+        (b)     declaring the acts and practices complained of herein to be in violation of
+
+Section 1983;
+
+        (c)     declaring the acts and practices complained of herein to be in violation of
+
+the PHRA;
+
+        (d)     declaring the acts and practices complained of herein to be in violation of
+
+the PFPO;
+
+        (e)     enjoining and permanently restraining the violations alleged herein;
+
+        (f)     entering judgment against Defendant and in favor of the Plaintiff in an
+
+amount to be determined;
+
+
+
+
+                                              15
+      Case 2:25-cv-05007        Document 1          Filed 09/02/25         Page 19 of 32
+
+
+
+
+       (g)     awarding compensatory damages to make the Plaintiff whole for all lost
+
+earnings, earning capacity, and benefits, past and future, which Plaintiff has suffered or
+
+may suffer as a result of Defendant’s unlawful conduct;
+
+       (h)     awarding compensatory damages to Plaintiff for past and future pain and
+
+suffering, embarrassment, humiliation, loss of self-esteem, mental anguish, and loss of
+
+life’s pleasures, which Plaintiff has suffered or may suffer as a result of Defendant’s
+
+unlawful conduct;
+
+       (i)     awarding punitive damages to Plaintiff under Title VII and the PFPO;
+
+       (j)     awarding Plaintiff such other damages as are appropriate under Title VII,
+
+Section 1983, the PHRA, and the PFPO;
+
+       (k)     awarding Plaintiff the costs of suit, expert fees, and other disbursements,
+
+and reasonable attorneys’ fees; and
+
+       (l)     granting such other and further relief as this Court may deem just, proper,
+
+or equitable including other equitable and injunctive relief providing restitution for past
+
+violations and preventing future violations.
+
+
+
+                                                CONSOLE MATTIACCI LAW, LLC
+
+
+
+Dated: September 2, 2025                BY: ____________________________
+                                            Jonathan D. Gilman, Esq.
+                                            1525 Locust Street, 9th Floor
+                                            Philadelphia, PA 19102
+                                            (215) 545-7676
+
+                                                Attorneys for Plaintiff,
+                                                Jessica Kehoe
+
+
+
+
+                                               16
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 20 of 32
+
+
+
+
+                     Exhibit 1
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 21 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 22 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 23 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 24 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 25 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 26 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 27 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 28 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 29 of 32
+Case 2:25-cv-05007   Document 1   Filed 09/02/25   Page 30 of 32
+
+
+
+
+                     Exhibit 2
+           Case 2:25-cv-05007              Document 1              Filed 09/02/25             Page 31 of 32
+
+
+From:           DOJ Civil Rights - Do Not Reply
+To:             Emily R. Derstine Friesen
+Subject:        Response: Your Civil Rights Division Report - 622376-XMS from the Employment Litigation Section
+Date:           Tuesday, June 10, 2025 10:19:01 AM
+
+
+
+
+                U.S. Department of Justice
+                                                                                           civilrights.justice.gov
+                Civil Rights Division
+
+
+    622376-XMS
+
+    NOTICE OF RIGHT TO SUE WITHIN 90 DAYS
+
+    Jun 10, 2025
+
+    Jessica Kehoe
+
+    derstinefriesen@consolelaw.com
+
+    Re:       Jessica Kehoe v. CITY OF PHILADELPHIA, et al.,
+    EEOC Charge No. 17G-2023-00025
+
+    Dear Jessica Kehoe,
+
+    You are receiving this notice because you filed the above charge(s) with the
+    Equal Employment Opportunity Commission (EEOC), and you or your attorney
+    specifically requested this notice.
+
+    Because either 180 days have passed since you filed the above charge(s), or
+    because the EEOC has determined that it will not be able to conclude its
+    administrative process within 180 days of the date it assumed jurisdiction of the
+    charge(s), you are hereby notified that you have the right to file a lawsuit
+    commencing a civil action based on the charge(s) under the following statute(s):
+
+           Title VII of the Civil Rights Act of 1964, 42 USC. 42 U.S.C. § 2000e, et seq.
+
+
+    If you decide to file a lawsuit under the statute(s) identified above, you must file
+    it in the appropriate court within 90 days of receiving this Notice. This
+    Notice should not be taken to mean that the Department of Justice has made a
+    judgment as to whether your charge is meritorious. If you haven’t already, you
+     Case 2:25-cv-05007       Document 1       Filed 09/02/25     Page 32 of 32
+
+
+may want to consult with a private attorney of your own choosing and expense.
+
+If you have questions or wish to inspect the investigative file pertaining to this
+matter, please address your inquiry to the following EEOC office: Philadelphia
+District Office. Contact information for this office can be located at
+https://www.eeoc.gov/field-office/philadelphia/location.
+
+Sincerely,
+
+Complaint Referral Unit
+Employment Litigation Section
+Civil Rights Division
+
+CC: derstinefriesen@consolelaw.com, derstinefriesen@consolelaw.com,
+jill.osborn@phila.gov, jane.duncan@eeoc.gov
+
+
+ Contact
+
+ civilrights.justice.gov           U.S. Department              (202) 514-3847
+                                   of Justice                   1-855-856-1247
+                                   Civil Rights                 (toll-free)
+                                   Division                     Telephone Device
+                                   950                          for the Deaf
+                                   Pennsylvania                 (TTY) (202) 514-
+                                   Avenue, NW                   0716
+                                   Washington,
+                                   D.C. 20530-0001
+
