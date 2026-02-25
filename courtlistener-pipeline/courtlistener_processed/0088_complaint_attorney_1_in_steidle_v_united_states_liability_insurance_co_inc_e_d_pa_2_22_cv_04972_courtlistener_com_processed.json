@@ -2,20 +2,37 @@
   "file": "0088_complaint_attorney_1_in_steidle_v_united_states_liability_insurance_co_inc_e_d_pa_2_22_cv_04972_courtlistener_com.txt",
   "sections": [
     {
-      "name": "CIVIL ACTION COMPLAINT",
+      "name": "Introduction",
       "sentences": [
-        "__________________________________________ JEFFREY STEIDLE : CIVIL ACTION West Chester, PA 19380 : No. _______________ Plaintiff, : JURY TRIAL DEMANDED The above-named Plaintiff, by and through the undersigned counsel, hereby avers as follows: Introduction Plaintiff, Jeffrey Steidle, (hereinafter \u201cPlaintiff\u201d) has initiated the instant action to recover damages for unlawful retaliation in violation of the Family and Medical Leave Act of 1993 and other applicable law by Defendant United States Liability Insurance Co., Inc. (hereinafter \u201cDefendant\u201d) and the individual Defendants named herein.",
-        "II. Parties The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
-        "Plaintiff is an adult individual with an address as captioned above.",
-        "Defendant is a corporation with an address as captioned above.",
-        "Defendant is an insurance company.",
-        "Defendant acted through its agents, servants and employees, all of whom acted in the course and scope of their employment at all times relevant herein.",
-        "III. Jurisdiction and Venue The foregoing paragraphs are incorporated in their entirety as if set forth in full.",
+        "Plaintiff, Jeffrey Steidle, (hereinafter \u201cPlaintiff\u201d) has initiated the instant action to recover damages for unlawful retaliation in violation of the Family and Medical Leave Act of 1993 and other applicable law by Defendant United States Liability Insurance Co., Inc. (hereinafter \u201cDefendant\u201d) and the individual Defendants named herein.",
+        "The above-named Plaintiff, by and through the undersigned counsel, hereby avers as follows.",
+        "This is a civil action complaint."
+      ]
+    },
+    {
+      "name": "Jurisdiction and Venue",
+      "sentences": [
+        "The foregoing paragraphs are incorporated in their entirety as if set forth in full.",
         "The Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over it to comply with traditional notions of fair play and substantial justice, satisfying the standard set forth by the United States Supreme Court in International Shoe Co. v. Washington, 326 U.S. 310 (1945) and its progeny.",
         "The Court may exercise original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7\u00a7 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks redress for violations of rights conferred under Federal law (including the Family and Medical Leave Act).",
         "The Court may also maintain supplemental jurisdiction over any state law claims set forth herein (or later added via amendment) pursuant to 28 U.S.C. \u00a7 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure because they are sufficiently related to the claim(s) within the Court\u2019s original jurisdiction that they form part of the same case or controversy.",
-        "Venue is properly laid in this judicial district pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and 1391(b)(2) because: (a) Defendant resides in and/or conducts business in this judicial district; and (b) because the acts and omissions giving rise to the claims set forth herein, including specifically: (i) Plaintiff\u2019s employment with Defendant; and (ii) the adverse employment actions taken by Defendant against Plaintiff occurred exclusively in this judicial district.",
-        "IV. Factual Background The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "Venue is properly laid in this judicial district pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and 1391(b)(2) because: (a) Defendant resides in and/or conducts business in this judicial district; and (b) because the acts and omissions giving rise to the claims set forth herein, including specifically: (i) Plaintiff\u2019s employment with Defendant; and (ii) the adverse employment actions taken by Defendant against Plaintiff occurred exclusively in this judicial district."
+      ]
+    },
+    {
+      "name": "Parties",
+      "sentences": [
+        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "Plaintiff is an adult individual with an address as captioned above.",
+        "Defendant is a corporation with an address as captioned above.",
+        "Defendant is an insurance company.",
+        "Defendant acted through its agents, servants and employees, all of whom acted in the course and scope of their employment at all times relevant herein."
+      ]
+    },
+    {
+      "name": "Factual Background",
+      "sentences": [
+        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "Plaintiff worked for Defendant as a commercial lines general liability claims examiner from 2013 to September 14, 2022, when Defendant terminated his employment.",
         "Plaintiff suffers from post-traumatic stress disorder (PTSD).",
         "Post traumatic stress disorder is recognized by the EEOC as a disability under the Americans with Disabilities Act (ADA).",
@@ -51,7 +68,13 @@
         "Defendant took the foregoing actions by design and with the intent to set Plaintiff up to fail.",
         "Plaintiff went out on FMLA leave again in January 2022.",
         "Plaintiff has suffered an exacerbation of his PTSD as a result of the stress caused by Defendant\u2019s behavior toward him. Plaintiff\u2019s employment was terminated by Defendant on September 14, 2022.",
-        "Count One Family and Medical Leave Act (Interference and Retaliation) Plaintiff v. All Defendants The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "Post traumatic stress disorder is recognized by the EEOC as a disability under the Americans with Disabilities Act (ADA). See, e.g., EEOC-NVTA-2016-11."
+      ]
+    },
+    {
+      "name": "Count One",
+      "sentences": [
+        "Family and Medical Leave Act (Interference and Retaliation) Plaintiff v. All Defendants The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "When an employee invokes rights under the Family and Medical Leave Act (FMLA), an employer may not interfere with, restrain, or deny exercise or attempted exercise of those rights, nor may it discharge or discriminate in any other manner against an employee for opposing any practice made unlawful by the FMLA.",
         "See 29 USC \u00a7\u00a7 2615(a) (1) and (a)(2).",
         "The two aforesaid provisions are generally referred to as forbidding: (a) \u201cinterference\u201d with the exercise of FMLA rights; and (b) \u201cretaliation\u201d for exercising same.",
@@ -61,7 +84,15 @@
         "By its actions as aforesaid, Defendant violated the Family and Medical Leave Act (FMLA) in that it interfered with the exercise of Plaintiff\u2019s FMLA rights and retaliated against Plaintiff for exercising those rights.",
         "As a result of Defendants\u2019 actions as aforesaid, Plaintiff has sustained lost wages, lost benefits and other economic damages, as well as an exacerbation of his medical condition.",
         "As a result of Defendants\u2019 actions in violation of the FMLA, Plaintiff is entitled to reasonable attorneys\u2019 fees and costs.",
-        "Plaintiff has also filed a Charge of Discrimination with the Equal Employment Opportunity Commission (EEOC) on June 8, 2022, has also filed amended Charges, and will amend the instant Complaint to include claims under the Americans with Disabilities Act (ADA) when he receives a Notice of Right to Sue on same."
+        "Plaintiff has also filed a Charge of Discrimination with the Equal Employment Opportunity Commission (EEOC) on June 8, 2022, has also filed amended Charges, and will amend the instant Complaint to include claims under the Americans with Disabilities Act (ADA) when he receives a Notice of Right to Sue on same.",
+        "When an employee invokes rights under the Family and Medical Leave Act (FMLA), an employer may not interfere with, restrain, or deny exercise or attempted exercise of those rights, nor may it discharge or discriminate in any other manner against an employee for opposing any practice made unlawful by the FMLA. See 29 USC \u00a7\u00a7 2615(a) (1) and (a)(2)."
+      ]
+    },
+    {
+      "name": "PRAYER FOR RELIEF",
+      "sentences": [
+        "That a judgment be entered against Defendant on the claims set forth herein;.",
+        "That Plaintiff be awarded actual damages, including front pay and back pay;."
       ]
     },
     {
@@ -74,52 +105,6 @@
       "name": "WAYNE A. ELY",
       "sentences": [
         "BY: /S/ Wayne A. Ely Wayne A. Ely, Esquire Attorney for Plaintiff 225 Lincoln Highway Building A, Suite 150 Fairless Hills, Pennsylvania 19030 (215) 801-7979 December 14, 2022."
-      ]
-    },
-    {
-      "name": "INTRODUCTION",
-      "sentences": [
-        "The above-named Plaintiff, by and through the undersigned counsel, hereby avers as follows.",
-        "This is a civil action complaint."
-      ]
-    },
-    {
-      "name": "JURISDICTION AND VENUE",
-      "sentences": [
-        "The Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over it to comply with traditional notions of fair play and substantial justice, satisfying the standard set forth by the United States Supreme Court in International Shoe Co. v. Washington, 326 U.S. 310 (1945) and its progeny.",
-        "The Court may exercise original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7\u00a7 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks redress for violations of rights conferred under Federal law (including the Family and Medical Leave Act).",
-        "Venue is properly laid in this judicial district pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and 1391(b)(2) because: (a) Defendant resides in and/or conducts business in this judicial district; and (b) because the acts and omissions giving rise to the claims set forth herein, including specifically: (i) Plaintiff\u2019s employment with Defendant; and (ii) the adverse employment actions taken by Defendant against Plaintiff occurred exclusively in this judicial district."
-      ]
-    },
-    {
-      "name": "PARTIES",
-      "sentences": [
-        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
-        "Plaintiff is an adult individual with an address as captioned above.",
-        "Defendant is a corporation with an address as captioned above.",
-        "Defendant acted through its agents, servants and employees, all of whom acted in the course and scope of their employment at all times relevant herein."
-      ]
-    },
-    {
-      "name": "FACTUAL BACKGROUND",
-      "sentences": [
-        "Plaintiff worked for Defendant as a commercial lines general liability claims examiner from 2013 to September 14, 2022, when Defendant terminated his employment.",
-        "Plaintiff suffers from post-traumatic stress disorder (PTSD).",
-        "Post traumatic stress disorder is recognized by the EEOC as a disability under the Americans with Disabilities Act (ADA). See, e.g., EEOC-NVTA-2016-11."
-      ]
-    },
-    {
-      "name": "COUNT ONE",
-      "sentences": [
-        "When an employee invokes rights under the Family and Medical Leave Act (FMLA), an employer may not interfere with, restrain, or deny exercise or attempted exercise of those rights, nor may it discharge or discriminate in any other manner against an employee for opposing any practice made unlawful by the FMLA. See 29 USC \u00a7\u00a7 2615(a) (1) and (a)(2).",
-        "At all times relevant hereto, Defendant was an \u201cemployer\u201d under the FMLA because it employed at least 50 individuals within a 75-mile area at all times relevant herein."
-      ]
-    },
-    {
-      "name": "PRAYER FOR RELIEF",
-      "sentences": [
-        "That a judgment be entered against Defendant on the claims set forth herein;.",
-        "That Plaintiff be awarded actual damages, including front pay and back pay;."
       ]
     }
   ]

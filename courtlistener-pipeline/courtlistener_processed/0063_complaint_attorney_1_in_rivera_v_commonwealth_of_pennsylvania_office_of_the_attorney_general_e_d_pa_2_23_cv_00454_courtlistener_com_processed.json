@@ -9,7 +9,7 @@
       ]
     },
     {
-      "name": "I. (a) PLAINTIFFS",
+      "name": "(a) PLAINTIFFS",
       "sentences": [
         "Beverly Rivera (b) County of Residence of First Listed Plaintiff Philadelphia (EXCEPT IN U.S. PLAINTIFF CASES) (c) Attorneys (Firm Name, Address, and Telephone Number) Law Offices of Robert T Vance Jr, Street, Suite 905, Philadelphia PA 19110 215 557 9550 100 South Broad DEFENDANTS Commonwealth of Pennsyl;vania, Office of the Attorney General County of Residence of First Listed Defendant (IN U.S. PLAINTIFF CASES ONLY) NOTE: INLAND CONDEMNATION CASES, USE THE LOCATION OF THE TRACT OF LAND INVOLVED.",
         "Attorneys (/f Known) Il. BASIS OF JURISDICTION (Place an \u201cXx\u201d in One Box Only) Ill. CITIZENSHIP OF PRINCIPAL PARTIES (Place an \u201cX\u201d in One Box for Plaintiff (For Diversity Cases Only) and One Box for Defendant) C] 1 U.S. Government [x]3 Federal Question PTF DEF PTF DEF Plaintiff (U.S.",
@@ -26,17 +26,12 @@
     {
       "name": "26 USC 7609",
       "sentences": [
-        "Act -- 896 Arbitration 899 Administrative Procedure Act/Review or Appeal of Agency Decision | 950 Constitutionality of State Statutes."
-      ]
-    },
-    {
-      "name": "IMMIGRATION",
-      "sentences": [
+        "Act -- 896 Arbitration 899 Administrative Procedure Act/Review or Appeal of Agency Decision | 950 Constitutionality of State Statutes.",
         "462 Naturalization Application 465 Other Immigration Actions ORIGIN (Place an \u201cX\u201d in One Box Only) 1 Original 2 Removed from 3 E] Proceeding O State Court O."
       ]
     },
     {
-      "name": "VI. CAUSE OF ACTION",
+      "name": "CAUSE OF ACTION",
       "sentences": [
         "Remanded from Appellate Court C4 Reinstated or oO 5 Transferred from 6 Multidistrict Litigation - Transfer 8 Multidistrict Litigation - Direct File Another District (specify) Reopened Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity): 42 USC Section 1981 Brief description of cause: Employment discrimination - race VII. REQUESTED IN ~~ [) CHECK IF THISIS A CLASS ACTION DEMAND $ CHECK YES only if demanded in complaint: COMPLAINT: UNDER RULE 23, F.R.Cv.P.",
         "JURY DEMAND: [x]yes [No VIII.",
@@ -91,8 +86,13 @@
         "Plaintiff, Beverly Rivera, is a Puerto Rican female citizen of the United States and a resident of this judicial district.",
         "Defendant, Commonwealth of Pennsylvania, Office of Attorney General, is an agency of the Commonwealth of Pennsylvania.",
         "It's principal place of business is located at 16th Floor, Strawberry Square, Harrisburg, Pennsylvania 17120.",
-        "At all times relevant to this action, defendant was an \"employer\" within the meaning of Section 1983, Section 1981 and applicable state law. The acts set forth in this Complaint were authorized, ordered, condoned and/or done by defendant's officers, agents, employees and/or representatives while actively engaged in the management of defendant's business and pursuant to defendant's official policies and customs.",
-        "Background Facts Plaintiff, Beverly Rivera, was employed by Defendant as a Narcotics Agent 1, Strategic Response Team, from August 12, 2019, until August 30, 2022, when her employment was terminated because of her race and gender, and as a result of the hostile work environment based on her race and gender defendant created, condoned and perpetuated.",
+        "At all times relevant to this action, defendant was an \"employer\" within the meaning of Section 1983, Section 1981 and applicable state law. The acts set forth in this Complaint were authorized, ordered, condoned and/or done by defendant's officers, agents, employees and/or representatives while actively engaged in the management of defendant's business and pursuant to defendant's official policies and customs."
+      ]
+    },
+    {
+      "name": "Background Facts",
+      "sentences": [
+        "Plaintiff, Beverly Rivera, was employed by Defendant as a Narcotics Agent 1, Strategic Response Team, from August 12, 2019, until August 30, 2022, when her employment was terminated because of her race and gender, and as a result of the hostile work environment based on her race and gender defendant created, condoned and perpetuated.",
         "On March 31, 2021, Defendant's Regional Director, Nehemiah Haigler, informed Ms. Rivera that she was being placed on paid administrative leave pending investigation.",
         "In connection with that action, Defendant required Ms. Rivera to return her Defendant-issued firearm, badge, identification/access card and vehicle.",
         "Defendant took this action against Ms. Case 2:23-cv-00454 Document1 Filed 02/05/23 Page 5 of 14 Rivera because of her race and gender, and in furtherance of the creation and perpetutation of a hostile work environment based on her race and gender.",
@@ -172,20 +172,6 @@
         "We will arrange for you to return any OAG property in your possession.",
         "You will receive information separately regarding your benefits.",
         "Sincerely, bho f Wthos Shari L. McGraw MBE, SPHR Director of Human Resources & Office Services Operations Division ce: File."
-      ]
-    },
-    {
-      "name": "UNNAMED",
-      "sentences": [
-        "This is a complaint filed by Beverly Rivera against the Commonwealth of Pennsylvania's Office of Attorney General (OAG) alleging racial and gender discrimination, harassment, and retaliation in her employment as a Narcotics Agent. The complaint alleges that Rivera was subjected to discriminatory treatment, including being referred to as a \"hamster in a wheel\" by her supervisor, SNA Martinez, and being denied promotions and salary increases.",
-        "The complaint also alleges that the OAG created a hostile work environment for Rivera based on her race and gender, and that she suffered emotional distress, mental anguish, loss of enjoyment of life, and other non-pecuniary losses as a result of the defendant's actions.",
-        "Rivera is seeking relief under the Civil Rights Act of 1866 (42 U.S.C. \u00a71981), which prohibits racial discrimination in employment. She is requesting that the court:.",
-        "Declare that the OAG engaged in illegal race discrimination and that its actions were violative of her rights under Section 1981.",
-        "Order the OAG to provide appropriate job relief to Rivera, including immediate reinstatement.",
-        "Enter judgment in favor of Rivera and against the OAG for all available remedies and damages under law and equity, including back pay, front pay, reinstatement, past and future mental anguish and pain and suffering.",
-        "Order the OAG to pay Rivera's attorney's fees, costs, expenses, and expert witness fees associated with this case.",
-        "Grant such other and further legal and equitable relief as may be found appropriate and as the court may deem just or equitable.",
-        "The complaint also includes an exhibit (Exhibit A) which is a letter from the OAG to Rivera dated August 30, 2022, informing her that her employment as a Narcotics Agent was terminated effective close of business on that date."
       ]
     }
   ]

@@ -2,24 +2,6 @@
   "file": "0085_exhibit_1_att_1_in_dow_v_mott_s_llp_e_d_pa_5_22_cv_05017_courtlistener_com.txt",
   "sections": [
     {
-      "name": "SWARTZ SWIDLER LLC",
-      "sentences": [
-        "EXHIBIT A Case 5:22-cv-05017-EGS Judicial Records, Civil 1-1 Filed Division, Page 12/16/22 Lehigh County, 2 of 9 PA 2022-C-2449 /s/ST Matthew D. Miller, Esq. (ID: 312387) Richard S. Swartz, Esq. (ID: 80850) Justin L. Swidler, Esq. (ID: 205954) 9 Tanner Street Suite 101 Haddonfield, NJ 08003 Tel: (856) 685-7420 Fax: (856) 685-7417."
-      ]
-    },
-    {
-      "name": "MOTT\u2019S LLP",
-      "sentences": [
-        "7350 Industrial Boulevard Allentown, PA 18106 Defendant."
-      ]
-    },
-    {
-      "name": "CIVIL ACTION COMPLAINT",
-      "sentences": [
-        "Plaintiff Ernest Dow (\u201cPlaintiff\u201d), by and through undersigned counsel, hereby complains as follows against Defendant Mott\u2019s LLP (\u201cDefendant\u201d)."
-      ]
-    },
-    {
       "name": "INTRODUCTION",
       "sentences": [
         "Plaintiff has initiated this action to redress Defendant\u2019s violations of the Americans with Disabilities Act (\u201cADA\u201d) and the Pennsylvania Human Relations Act (\u201cPHRA\u201d).",
@@ -142,16 +124,29 @@
       ]
     },
     {
-      "name": "SWARTZ SWIDLER, LLC",
-      "sentences": [
-        "v Matthew Miller Matthew D. Miller, Esq. Richard S. Swartz, Esq. 9 Tanner Street Suite 101 Haddonfield, NJ 08033 (856) 685-7420 (856) 685-7417 -Facsimile Dated: October 25, 2022."
-      ]
-    },
-    {
       "name": "PRAYER FOR RELIEF",
       "sentences": [
         "Defendant is to be prohibited from maintaining its illegal policy, practice, or custom of discriminating against employees or prospective employees based on their disability, need for a reasonable accommodation, and/or need for protected medical leave.",
         "Plaintiff is to be awarded liquidated and/or punitive damages in an amount believed by the Court or trier of fact to be appropriate to punish Defendant for their willful, deliberate, malicious, and outrageous conduct."
+      ]
+    },
+    {
+      "name": "SWARTZ SWIDLER LLC",
+      "sentences": [
+        "EXHIBIT A Case 5:22-cv-05017-EGS Judicial Records, Civil 1-1 Filed Division, Page 12/16/22 Lehigh County, 2 of 9 PA 2022-C-2449 /s/ST Matthew D. Miller, Esq. (ID: 312387) Richard S. Swartz, Esq. (ID: 80850) Justin L. Swidler, Esq. (ID: 205954) 9 Tanner Street Suite 101 Haddonfield, NJ 08003 Tel: (856) 685-7420 Fax: (856) 685-7417."
+      ]
+    },
+    {
+      "name": "MOTT\u2019S LLP",
+      "sentences": [
+        "7350 Industrial Boulevard Allentown, PA 18106 Defendant.",
+        "Plaintiff Ernest Dow (\u201cPlaintiff\u201d), by and through undersigned counsel, hereby complains as follows against Defendant Mott\u2019s LLP (\u201cDefendant\u201d)."
+      ]
+    },
+    {
+      "name": "SWARTZ SWIDLER, LLC",
+      "sentences": [
+        "v Matthew Miller Matthew D. Miller, Esq. Richard S. Swartz, Esq. 9 Tanner Street Suite 101 Haddonfield, NJ 08033 (856) 685-7420 (856) 685-7417 -Facsimile Dated: October 25, 2022."
       ]
     }
   ]

@@ -12,12 +12,7 @@
       "sentences": [
         "(Include case number if one has been assigned) -against- Jeffrey R Gosch, Division Head 30, NSWCPD, Naval Sea Systems Command (NAVSEA) Backes, Christina, Lead Engineer, Code 333- Shock Certification Lead , NSWCPD, Naval Sea Systems Command (NAVSEA) Do you want a jury trial?",
         "Ortiz, Dionisio, Lead Engineer, Code 511, TDY Alabama Lead , NSWCPD, Naval Sea \u2610 Yes \u2610 \u2714 No Systems Command (NAVSEA) Duckworth, Jeffrey W, Acting Manager Code 333 between January/Feb 2021- April 2021 , NSWCPD, Naval Sea Systems Command (NAVSEA) Tronzo, Robert D Manager Code 333 between August 2020- January 2021, NSWCPD, Naval Sea Systems Command (NAVSEA) Write the full name of each defendant.",
-        "If you need more space, please write \u201csee attached\u201d in the space above and attach an additional sheet of paper with the full list of names."
-      ]
-    },
-    {
-      "name": "NOTICE",
-      "sentences": [
+        "If you need more space, please write \u201csee attached\u201d in the space above and attach an additional sheet of paper with the full list of names.",
         "The public can access electronic court files.",
         "For privacy and security reasons, papers filed with the court should therefore not contain: an individual\u2019s full social security number or full birth date; the full name of a person known to be a minor; or a complete financial account number.",
         "A filing may include only: the last four digits of a social security number; the year of an individual\u2019s birth; a minor\u2019s initials; and the last four digits of a financial account number.",
@@ -25,7 +20,7 @@
       ]
     },
     {
-      "name": "I. BASIS FOR JURISDICTION",
+      "name": "BASIS FOR JURISDICTION",
       "sentences": [
         "Federal courts are courts of limited jurisdiction (limited power).",
         "Generally, only two types of cases can be heard in federal court: cases involving a federal question and cases involving diversity of citizenship of the parties.",
@@ -39,7 +34,7 @@
       ]
     },
     {
-      "name": "II. PARTIES",
+      "name": "PARTIES",
       "sentences": [
         "Plaintiff Information Provide the following information for each plaintiff named in the complaint.",
         "Attach additional pages if needed.",
@@ -50,7 +45,7 @@
       ]
     },
     {
-      "name": "III. STATEMENT OF CLAIM",
+      "name": "STATEMENT OF CLAIM",
       "sentences": [
         "Place(s) of occurrence: Philadelphia, PA & Mobile AL Date(s) of occurrence: Between August 2020-June 2021.",
         "TDY April 8th 2021 State here briefly the FACTS that support your case.",
@@ -68,12 +63,7 @@
         "EEO/MSPB court is intentionally added to the termination letter to misguide the court and law enforcement into believing the employment issues were EEO matter.",
         "The EEO matters were intentional drama that the code 333 and code 511 employees executed together with their management to hide their assignment that clearly lacked the need of engineers, their ways of misusing military databases (like NSDB) and resources, their way to get funding by using new hire engineers and their interrelationships internally with coworkers and management that looked odd (sexual) and indirectly vulgar in nature as described in the attached EEOC letter that I submitted.",
         "If you were injured as a result of these actions, describe your injuries and what medical treatment, if any, you required and received.",
-        "Workplace stress since October 2020 Injury (severe fatigue and weakness)on April 8 2021 and health issues like joint pains."
-      ]
-    },
-    {
-      "name": "IV. RELIEF",
-      "sentences": [
+        "Workplace stress since October 2020 Injury (severe fatigue and weakness)on April 8 2021 and health issues like joint pains.",
         "State briefly what money damages or other relief you want the court to order. -Termination letter false cause of unprofessional behavior removed from my records -Compensation for sudden job loss and new job search until I find an employment \u2013 Severance or yearly salary for couple of years -Medical payment for workplace stress since October 2020 and injury on April 8 2021 and followup issues compensation -Complete Relocation Expenses from and to home location to NY both ways - I want the termination clause falsefully accusing me of unprofessional behavior towards lead and coworkers by the NSWCPD management removed from SF-50 record and if possible, the shock certification Mechanical Eng job removed from my career history Page 6."
       ]
     },
@@ -301,7 +291,12 @@
         "Please click \"Submit\" only once.",
         "Remember that you cannot file a whistleblower complaint with OSHA anonymously.",
         "If you file a complaint, OSHA will contact you to discuss your complaint.",
-        "If OSHA proceeds with an investigation, the employer will be notified of your complaint.",
+        "If OSHA proceeds with an investigation, the employer will be notified of your."
+      ]
+    },
+    {
+      "name": "complaint.",
+      "sentences": [
         "We suggest that you print and save this page for your records.",
         "Print this Complaint Cancel, Return to www.whistleblowers.gov Complaint Received!",
         "As of June 10, 2021 12:00 PM US Eastern Time, you have filed a whistleblower retaliation complaint with OSHA using our online filing system.",
@@ -1072,15 +1067,6 @@
         "Similarly, if you cannot afford an attorney to represent you in the civil action, you may request the court to appoint an attorney for you. You must submit the requests for waiver of court costs or appointment of an attorney directly to the court, not the Commission.",
         "The court has the sole discretion to grant or deny these types of requests.",
         "Such requests do not alter the time limits for filing a civil action (please read the paragraph titled Petitioner\u2019s Right to File a Civil Action for the specific time limits). ______________________________ Carlton M. Hadden\u2019s signature Carlton M. Hadden, Director Office of Federal Operations January 26, 2023 Date."
-      ]
-    },
-    {
-      "name": "UNNAMED",
-      "sentences": [
-        "This is a decision by the Equal Employment Opportunity Commission (EEOC) regarding a complaint filed by an individual, referred to as \"Petitioner,\" against the Naval Surface Warfare Center (NSWC). The Petitioner was removed from federal service for allegedly engaging in repeated, inappropriate, and unprofessional conduct. However, she claimed that her removal was pretext for discrimination based on national origin.",
-        "The EEOC reviewed the case and determined that it should be processed as a \"non-mixed\" case, which means that the Commission has jurisdiction over allegations of discrimination. The Agency (NSWC) had previously denied jurisdiction, but the EEOC found that Petitioner's initial appeal did contain allegations of discriminatory bullying based on national origin.",
-        "The EEOC ordered the Agency to process MSPB No. PH-315H-21-0267-I-1 as a non-mixed case and to notify Petitioner of her right to contact an EEO counselor within 45 days of receipt of this decision. The Agency is also required to submit supporting documents and a final compliance report in the digital format required by the Commission.",
-        "The decision also notes that if the Agency does not comply with the Commission's order, the Petitioner may petition the Commission for enforcement or file a civil action in an appropriate United States District Court within 30 calendar days of receiving this decision."
       ]
     }
   ]

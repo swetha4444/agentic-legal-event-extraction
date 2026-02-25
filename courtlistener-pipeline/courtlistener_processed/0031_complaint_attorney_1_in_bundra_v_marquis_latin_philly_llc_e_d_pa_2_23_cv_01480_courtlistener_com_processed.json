@@ -105,25 +105,20 @@
         "Does this case involve the same issue of fact or grow out of the same transaction as a prior suit Yes No pending or within one year previously terminated action in this court?",
         "Does this case involve the validity or infringement of a patent already in suit or any earlier Yes No numbered case pending or within one year previously terminated action of this court?",
         "Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights Yes No case filed by the same individual?",
-        "I certify that, to my knowledge, the within case is / is not related to any case now pending or within one year previously terminated action in this court except as noted above."
-      ]
-    },
-    {
-      "name": "DATE: __________________________________ __________________________________________ ___________________________________",
-      "sentences": [
+        "I certify that, to my knowledge, the within case is / is not related to any case now pending or within one year previously terminated action in this court except as noted above.",
         "Attorney-at-Law / Pro Se Plaintiff Attorney I.D. # (if applicable) Federal Question Cases: B. Diversity Jurisdiction Cases: Indemnity Contract, Marine Contract, and All Other Contracts 1. Insurance Contract and Other Contracts FELA 2. Airplane Personal Injury Jones Act-Personal Injury 3. Assault, Defamation Antitrust 4. Marine Personal Injury Patent 5. Motor Vehicle Personal Injury Labor-Management Relations 6. Other Personal Injury (Please specify): _____________________ Civil Rights 7. Products Liability Habeas Corpus 8. Products Liability \u2013 Asbestos Securities Act(s) Cases 9. All other Diversity Cases Social Security Review Cases (Please specify): ____________________________________________ All other Federal Question Cases (Please specify): ____________________________________________ ARBITRATION CERTIFICATION ( I, ____________________________________________, counsel of record or pro se plaintiff, do hereby certify: Pursuant to Local Civil Rule 53.2, \u00a7 3(c) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case exceed the sum of $150,000.00 exclusive of interest and costs: Relief other than monetary damages is sought.",
         "Attorney-at-Law / Pro Se Plaintiff Attorney I.D. # (if applicable) NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P.",
         "38. Civ. 609 ( /2018) _________________________________ SHANNON BUNDRA, : CIVIL ACTION NO.:."
       ]
     },
     {
-      "name": "I. PRELIMINARY STATEMENT",
+      "name": "PRELIMINARY STATEMENT",
       "sentences": [
         "Plaintiff Shannon Bundra brings this action against her former employer, Defendant Marquis Latin Philly LLC d/b/a Bar Bomb\u00f3n, for violating the Family and Medical Leave Act (\u201cFMLA\u201d), 29 U.S.C. \u00a72601 et seq. Defendant unlawfully interfered with Plaintiff\u2019s rights under the FMLA and terminated her employment in retaliation for requesting and utilizing FMLA leave."
       ]
     },
     {
-      "name": "II. PARTIES",
+      "name": "PARTIES",
       "sentences": [
         "Plaintiff Shannon Bundra (\u201cPlaintiff\u201d) is an adult individual and citizen of Pennsylvania, residing therein in Philadelphia, Pennsylvania.",
         "Defendant Marquis Latin Philly LLC d/b/a Bar Bomb\u00f3n (\u201cDefendant\u201d) is a limited liability corporation duly organized and existing under the laws of Pennsylvania with a principal place of business located at 127 S. 18th Street, 2nd Floor, Philadelphia, Pennsylvania 19104.",
@@ -136,7 +131,7 @@
       ]
     },
     {
-      "name": "III. JURISDICTION AND VENUE",
+      "name": "JURISDICTION AND VENUE",
       "sentences": [
         "The causes of action which form the basis of this matter arise under the FMLA.",
         "The District Court has subject matter jurisdiction over Count I (FMLA Retaliation) and Count II (FMLA Interference) pursuant to 28 U.S.C. \u00a71331.",
@@ -145,7 +140,7 @@
       ]
     },
     {
-      "name": "IV. FACTUAL ALLEGATIONS",
+      "name": "FACTUAL ALLEGATIONS",
       "sentences": [
         "Plaintiff was employed by Defendant from in or about February 2020 until on or about August 16, 2021, the date of her termination.",
         "Throughout her employment with Defendant, Plaintiff held the position of Bartender at Bar Bomb\u00f3n, and she performed her job duties competently.",
@@ -223,29 +218,6 @@
       "name": "SIDNEY L. GOLD & ASSOC., P.C.",
       "sentences": [
         "By: /s/ Brian C. Farrell Brian C. Farrell, Esquire PA ID No.: 319145 1835 Market Street, Suite 515 Philadelphia, PA 19103 (215) 569-1999 bfarrell@discrimlaw.net Attorney for Plaintiff Shannon Bundra Date: 04/18/2023."
-      ]
-    },
-    {
-      "name": "UNNAMED",
-      "sentences": [
-        "This is a complaint filed by the plaintiff, Shannon Bundra, against her former employer, Defendant, alleging violations of the Family and Medical Leave Act (FMLA). The complaint consists of two counts:.",
-        "Count I: FMLA - Retaliation.",
-        "Count II: FMLA - Interference.",
-        "The plaintiff alleges that she was eligible for FMLA leave due to her medical condition and requested a leave of absence from June 7, 2021. However, the defendant failed to respond to her requests to return to work, despite providing documentation from her treating provider. The plaintiff claims that the defendant terminated her employment in retaliation for requesting FMLA-protected leave.",
-        "The plaintiff seeks damages and legal and equitable relief, including:.",
-        "Declaring the acts and practices complained of herein to be in violation of the FMLA.",
-        "Entering judgment against Defendant and in favor of Plaintiff in an amount to be determined.",
-        "Awarding compensatory damages to make Plaintiff whole for all lost earnings, earning capacity, and benefits.",
-        "Awarding liquidated damages to Plaintiff.",
-        "Awarding Plaintiff any other damages that are appropriate under the FMLA.",
-        "Awarding Plaintiff the costs of suit, expert fees, and other disbursements, and reasonable attorneys' fees.",
-        "The plaintiff also demands a trial by jury.",
-        "Some key points from the complaint include:.",
-        "The defendant failed to respond to the plaintiff's requests to return to work despite providing documentation from her treating provider.",
-        "The defendant terminated the plaintiff's employment without notifying her in writing or otherwise.",
-        "The defendant intentionally chose not to notify the plaintiff of her termination.",
-        "The defendant instructed other employees not to respond to the plaintiff's written communications about her return to work.",
-        "Overall, the complaint alleges that the defendant violated the FMLA by retaliating against the plaintiff for requesting FMLA-protected leave and interfering with her rights under the FMLA."
       ]
     }
   ]

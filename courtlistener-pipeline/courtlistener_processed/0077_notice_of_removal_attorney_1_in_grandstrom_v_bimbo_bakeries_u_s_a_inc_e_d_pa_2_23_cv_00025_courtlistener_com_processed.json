@@ -2,12 +2,6 @@
   "file": "0077_notice_of_removal_attorney_1_in_grandstrom_v_bimbo_bakeries_u_s_a_inc_e_d_pa_2_23_cv_00025_courtlistener_com.txt",
   "sections": [
     {
-      "name": "FULL DOCUMENT",
-      "sentences": [
-        "2:23-cv-25 EXHIBIT A EXHIBIT B EXHIBIT C."
-      ]
-    },
-    {
       "name": "INTRODUCTION",
       "sentences": [
         "This is a civil action brought by Plaintiff against Defendant.",
@@ -18,42 +12,41 @@
       "name": "JURISDICTION AND VENUE",
       "sentences": [
         "Jurisdiction and venue are proper in this district pursuant to 28 U.S.C. \u00a7 1391(b).",
-        "This Court is empowered to hear this case under the Class Action Fairness Act, 28 U.S.C. \u00a7 1332(d)."
+        "This Court is empowered to hear and determine the claims asserted herein."
       ]
     },
     {
       "name": "PARTIES",
       "sentences": [
-        "Plaintiff is a resident of [State] and brings this action on behalf of herself and all others similarly situated.",
+        "Plaintiff is a resident of [State] and brings this action on behalf of herself.",
         "Defendant is a corporation with its principal place of business in [City]."
       ]
     },
     {
       "name": "FACTUAL ALLEGATIONS",
       "sentences": [
-        "On or about [Date], Defendant engaged in unfair and deceptive practices in the sale of [Product/Service].",
-        "As a result, Plaintiff suffered damages in an amount to be proven at trial."
+        "On or about January 1, 2022, Defendant engaged in conduct that was unlawful under the laws of [State].",
+        "As a direct result of Defendant's actions, Plaintiff suffered damages."
       ]
     },
     {
       "name": "COUNT I",
       "sentences": [
-        "Defendant's conduct constitutes a violation of [Statute/Law] and is actionable under 28 U.S.C. \u00a7 1332(d).",
-        "Plaintiff seeks relief for the harm caused by Defendant's actions."
+        "Defendant's conduct as alleged in paragraph 5 above constitutes a violation of [Statute].",
+        "Plaintiff seeks damages and other relief for Defendant's wrongful conduct."
       ]
     },
     {
       "name": "COUNT II",
       "sentences": [
-        "In addition to the allegations in Count I, Defendant also engaged in unfair competition practices.",
-        "These practices are prohibited by [Regulation/Statute] and have caused further harm to Plaintiff."
+        "In addition to the allegations set forth in Count I, Defendant also engaged in further unlawful conduct.",
+        "This additional conduct caused Plaintiff further harm and injury."
       ]
     },
     {
-      "name": "PRAYER FOR RELIEF",
+      "name": "FULL DOCUMENT",
       "sentences": [
-        "WHEREFORE, Plaintiff demands judgment against Defendant as follows:.",
-        "Awarding damages in an amount to be proven at trial."
+        "2:23-cv-25 EXHIBIT A EXHIBIT B EXHIBIT C."
       ]
     }
   ]

@@ -9,7 +9,7 @@
       ]
     },
     {
-      "name": "I. (a) PLAINTIFFS",
+      "name": "(a) PLAINTIFFS",
       "sentences": [
         "Cory Mann (b) County of Residence of First Listed Plaintiff Chester (EXCEPT IN U.S. PLAINTIFF CASES) (c) Attorneys (Firm Name, Address, and Telephone Number) Brendan Hennessy, Esq., 101 Lindenwood Drive, Ste 225 Malvern, PA 19355 DEFENDANTS Attorneys (If Known) Benco Technology, LLC d/b/a Benco Technology and BB&K Investment Group, LLC County of Residence of First Listed Defendant Chester (IN U.S. PLAINTIFF CASES ONLY)."
       ]
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "name": "VI. CAUSE OF ACTION",
+      "name": "CAUSE OF ACTION",
       "sentences": [
         "42 USC 12101, et seq. Cite the U.S. Civil Statute under which you are filing (Do not cite jurisdictional statutes unless diversity): Brief description of cause: Failure to accommodate and discriminatory and retaliatory termination of employment.",
         "VII. REQUESTED IN [] CHECK IF THIS IS A CLASS ACTION DEMAND $ CHECK YES only if demanded in complaint: COMPLAINT: UNDER RULE 23, F.R.Cv.P.",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "name": "I. JURISDICTION AND VENUE",
+      "name": "JURISDICTION AND VENUE",
       "sentences": [
         "4, The original jurisdiction of this Court is invoked, and venue is proper in this district, pursuant to 28 U.S.C. \u00a71331 and 1391, as Plaintiff's claims are substantively based on the ADA. Venue is properly laid in this District pursuant to 28 U.S.C. \u00a7 1391(b)(1) and (b)(2), because Defendant resides in and/or conducts business in this judicial district.",
         "The supplemental jurisdiction of this Court is invoked pursuant to 28 U.S.C. \u00a7 1367, to consider the Plaintiff's claims arising under the Pennsylvania Human Rights Act. All conditions precedent to the institution of this suit have been fulfilled.",
@@ -212,32 +212,9 @@
       ]
     },
     {
-      "name": "IV. JURY DEMAND",
+      "name": "JURY DEMAND",
       "sentences": [
         "Plaintiff demands a trial by jury."
-      ]
-    },
-    {
-      "name": "UNNAMED",
-      "sentences": [
-        "This is a complaint filed by Cory Mann against Benco Technology, LLC in the United States District Court for the Eastern District of Pennsylvania. The complaint alleges that Mann was discriminated against and retaliated against by his employer due to his disabilities.",
-        "The complaint includes six counts:.",
-        "Count I: ADA - Disability Discrimination (Hypothyroidism).",
-        "Count II: PHRA - Disability Discrimination (Hypothyroidism).",
-        "Count III: ADA - Failure to Accommodate/Failure to Sufficiently Engage in the Interactive Process.",
-        "Count IV: PHRA - Failure to Accommodate/Failure to Sufficiently Engage in the Interactive Process.",
-        "Count V: ADA Retaliation.",
-        "Count VI: PHRA Retaliation.",
-        "The complaint alleges that Mann was subjected to discrimination and retaliation by his employer due to his disabilities, including hypothyroidism, depression, and anemia. The complaint also alleges that Mann's employer failed to accommodate his disability and engage in the interactive process with him.",
-        "The prayer for relief requests that the court enter judgment in favor of Mann against Benco Technology, LLC, and order the following:.",
-        "Reinstate Mann in his former employment position.",
-        "Compensate Mann with a rate of pay and other benefits and emoluments of employment.",
-        "Award back pay to Mann.",
-        "Award front pay to Mann.",
-        "Pay punitive damages, compensatory damages for future pecuniary losses, pain, suffering, inconvenience, mental anguish, loss of enjoyment of life, and other non-pecuniary losses as allowable.",
-        "Pay pre- and post-judgment interests, costs of suit, and attorney fees as allowed by law.",
-        "Pay tax consequences related to the award.",
-        "The complaint also includes a jury demand."
       ]
     }
   ]

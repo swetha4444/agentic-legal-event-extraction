@@ -2,9 +2,36 @@
   "file": "0078_notice_of_removal_attorney_1_in_greene_v_h_k_group_inc_e_d_pa_2_22_cv_05183_courtlistener_com.txt",
   "sections": [
     {
-      "name": ": MONTGOMERY COUNTY",
+      "name": "NOTICE OF REMOVAL",
       "sentences": [
-        "KEVIN GREENE, individually and behalf of all : CLASS ACTION KEVIN GREENE, individually and behalf of all : CLASS ACTION Plaintiff, : COURT OF COMMON PLEAS."
+        "H&K Group, Inc., (hereinafter \u201cDefendant\u201d), by and through its attorneys, Marshall Dennehey Warner Coleman & Goggin, hereby removes the above-captioned case to this Honorable Court and provides notice of same to counsel representing the Plaintiff.",
+        "In support of the removal, the Defendant avers as follows:."
+      ]
+    },
+    {
+      "name": "FACTS",
+      "sentences": [
+        "On December 8, 2022, Plaintiff filed a Class Action (\u201cComplaint\u201d) in the above-captioned matter with the Montgomery County Court of Common Pleas.",
+        "A copy of the Class Action Complaint herein is attached hereto and marked Exhibit A."
+      ]
+    },
+    {
+      "name": "JURISDICTION AND VENUE",
+      "sentences": [
+        "This Notice of Removal is timely filed pursuant to 28 U.S.C. \u00a7 1446(b) because it is filed within thirty (30) days of December 13, 2022, when Defendant was served with the Complaint.",
+        "This Court has original jurisdiction over this civil action pursuant to 28 U.S.C. \u00a7 1331, and the action may be removed to this Court by Defendant pursuant to 28 U.S.C. \u00a7 1441."
+      ]
+    },
+    {
+      "name": "SUPPLEMENTAL JURISDICTION",
+      "sentences": [
+        "Pursuant to 28 USC \u00a71367(a), this Court has supplemental jurisdiction over the remaining causes of action that are not within the original jurisdiction of the Court because the remaining claims form the same case and/or controversy as the claims within the original jurisdiction of the Court."
+      ]
+    },
+    {
+      "name": "PRAYER FOR RELIEF",
+      "sentences": [
+        "WHEREFORE, the Defendant prays that the above action now pending in the Court of Common Pleas for Montgomery County be removed to this Court."
       ]
     },
     {
@@ -53,39 +80,6 @@
       "name": "RONDA K. O\u2019DONNELL",
       "sentences": [
         "Attorney for Defendant."
-      ]
-    },
-    {
-      "name": "NOTICE OF REMOVAL",
-      "sentences": [
-        "H&K Group, Inc., (hereinafter \u201cDefendant\u201d), by and through its attorneys, Marshall Dennehey Warner Coleman & Goggin, hereby removes the above-captioned case to this Honorable Court and provides notice of same to counsel representing the Plaintiff.",
-        "In support of the removal, the Defendant avers as follows:."
-      ]
-    },
-    {
-      "name": "FACTS",
-      "sentences": [
-        "On December 8, 2022, Plaintiff filed a Class Action (\u201cComplaint\u201d) in the above-captioned matter with the Montgomery County Court of Common Pleas.",
-        "A copy of the Class Action Complaint herein is attached hereto and marked Exhibit A."
-      ]
-    },
-    {
-      "name": "JURISDICTION AND VENUE",
-      "sentences": [
-        "This Notice of Removal is timely filed pursuant to 28 U.S.C. \u00a7 1446(b) because it is filed within thirty (30) days of December 13, 2022, when Defendant was served with the Complaint.",
-        "This Court has original jurisdiction over this civil action pursuant to 28 U.S.C. \u00a7 1331, and the action may be removed to this Court by Defendant pursuant to 28 U.S.C. \u00a7 1441."
-      ]
-    },
-    {
-      "name": "SUPPLEMENTAL JURISDICTION",
-      "sentences": [
-        "Pursuant to 28 USC \u00a71367(a), this Court has supplemental jurisdiction over the remaining causes of action that are not within the original jurisdiction of the Court because the remaining claims form the same case and/or controversy as the claims within the original jurisdiction of the Court."
-      ]
-    },
-    {
-      "name": "PRAYER FOR RELIEF",
-      "sentences": [
-        "WHEREFORE, the Defendant prays that the above action now pending in the Court of Common Pleas for Montgomery County be removed to this Court."
       ]
     }
   ]

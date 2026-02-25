@@ -2,22 +2,45 @@
   "file": "0060_complaint_attorney_1_in_trotter_v_upper_moreland_school_district_e_d_pa_2_23_cv_00712_courtlistener_com.txt",
   "sections": [
     {
-      "name": "CIVIL ACTION COMPLAINT",
+      "name": "Introduction",
       "sentences": [
-        "Introduction Plaintiff has initiated the instant action to redress violations of the Age Discrimination in Employment Act (29 U.S.C. \u00a7 621 et seq.) (\u201cADEA\u201d) and the Pennsylvania Human Relations Act (43 P.S. \u00a7 951 et seq.) (\u201cPHRA\u201d).",
-        "II. Parties Plaintiff is a female adult citizen of the United States.",
+        "Plaintiff has initiated the instant action to redress violations of the Age Discrimination in Employment Act (29 U.S.C. \u00a7 621 et seq.) (\u201cADEA\u201d) and the Pennsylvania Human Relations Act (43 P.S. \u00a7 951 et seq.) (\u201cPHRA\u201d)."
+      ]
+    },
+    {
+      "name": "Parties",
+      "sentences": [
+        "Plaintiff is a female adult citizen of the United States.",
         "She lives in Montgomery County, within the Commonwealth of Pennsylvania.",
         "Defendant Upper Moreland School District (\u201cUMSD\u201d) is a public educational entity located in Southeastern Pennsylvania, Eastern Montgomery County.",
         "It educates approximately 3,200 students annually.",
         "Dr. Susan Elliott, Superintendent of Schools, is the highest ranking administrative officer within UMSD, and a nine (9)-member Board of School Directors governs daily operations.",
         "At all times relevant herein, UMSD acted through its several agents, servants, and employees (including but not limited to those named elsewhere in this Complaint), each of whom acted in the course and scope of their employment for UMSD at all times relevant herein.",
-        "UMSD is therefore fully responsible for the illegal acts and omissions of the aforesaid employees pursuant to the principle of respondeat superior.",
-        "III. Jurisdiction and Venue The United States District Court for the Eastern District of Pennsylvania has original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7 1331 because it involves questions of federal law. The Court may also maintain supplemental jurisdiction over state law claim set forth herein pursuant to 28 U.S.C. \u00a7 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure because it is sufficiently related to the claim(s) within the Court\u2019s original jurisdiction that they form part of the same case or controversy.",
+        "UMSD is therefore fully responsible for the illegal acts and omissions of the aforesaid employees pursuant to the principle of respondeat superior."
+      ]
+    },
+    {
+      "name": "Jurisdiction and Venue",
+      "sentences": [
+        "The United States District Court for the Eastern District of Pennsylvania has original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7 1331 because it involves questions of federal law. The Court may also maintain supplemental jurisdiction over state law claim set forth herein pursuant to 28 U.S.C. \u00a7 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure because it is sufficiently related to the claim(s) within the Court\u2019s original jurisdiction that they form part of the same case or controversy.",
         "This Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over Defendant to comply with traditional notions of fair play and substantial justice, satisfying the standard set forth by the United States Supreme Court in Int\u2019l Shoe Co. v. Washington, 326 U.S. 310 (1945) and its progeny.",
         "Venue is properly laid in the Eastern District of Pennsylvania pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and (b)(2), because Defendant resides in and/or conducts business in this judicial district and because the acts and/or omissions giving rise to the claims set forth herein occurred in this judicial district.",
-        "III. Exhaustion of Administrative Remedies Plaintiff has satisfied the procedural and administrative requirements for proceeding under Title VII and the PHRA.",
+        "The United States District Court for the Eastern District of Pennsylvania has original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7 1331 because it involves questions of federal law.",
+        "This Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over Defendant to comply with traditional notions of fair play and substantial justice,."
+      ]
+    },
+    {
+      "name": "Exhaustion of Administrative Remedies",
+      "sentences": [
+        "Plaintiff has satisfied the procedural and administrative requirements for proceeding under Title VII and the PHRA.",
         "In particular: a. On or about December 14, 2021, Plaintiff filed a timely written charge of discrimination with the U.S. Equal Employment Opportunity Commission (\u201cEEOC\u201d) and Pennsylvania Human Relations Commission (\u201cPHRC\u201d); b. The EEOC assigned it charge number Charge No. 530-2022-01448; c. On or about December 12, 2022 the EEOC issued a Dismissal and Notice of Rights; d. The instant action is timely because it was initiated within ninety (90) days of the receipt of the aforementioned Notice; e. Plaintiff has fully exhausted her administrative remedies.",
-        "IV. Factual Background Plaintiff was born in 1956.",
+        "The instant action is timely because it was initiated within ninety (90) days of the receipt of the aforementioned Notice;."
+      ]
+    },
+    {
+      "name": "Factual Background",
+      "sentences": [
+        "Plaintiff was born in 1956.",
         "She was first hired by Defendant in 1995 as Administrative Assistant to the Director of Media Services.",
         "Subsequently she held a number of different roles, which culminated in her appointment as Student Data Coordinator/Webmaster/Registrar in 2010.",
         "In that role, she reported directly to the Superintendent of Schools, Dr. Robert Milrod.",
@@ -36,6 +59,20 @@
         "At the time Plaintiff was discharged she was three months shy of her 65th birthday.",
         "Aside from Plaintiff and Roth\u2019s secretary, Roth initiated the termination of several other older employees from their employment with UMSD.",
         "Upon information and belief, Roth and/or UMSD took action against a female principal in her 60s, a receptionist at the high school in her 60s, and a payroll employee in her 60s. Upon information and belief, UMSD\u2019s Board of School Directors had enough of Roth\u2019s malfeasance and discharged him in December 2021 - less than two years after he was hired but not before he caused palpable harm to older employees."
+      ]
+    },
+    {
+      "name": "FIRST CAUSE OF ACTION - AGE DISCRIMINATION",
+      "sentences": [
+        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "As made plain in the above averments, and in violation of the ADEA and PHRA, UMSD has engaged in knowing, willful, purposeful and unlawful discrimination by terminating Plaintiff\u2019s employment on account of her age."
+      ]
+    },
+    {
+      "name": "PRAYER FOR RELIEF",
+      "sentences": [
+        "UMSD shall be enjoined from maintaining its illegal policy, practice, or custom of discriminating against employees based on their age, and is to be ordered to promulgate an effective policy against such discrimination and to adhere thereto;.",
+        "UMSD shall compensate Plaintiff, reimburse Plaintiff, and make Plaintiff whole for any and all pay and benefits Plaintiff would have received had it not been for UMSD\u2019s illegal actions."
       ]
     },
     {
@@ -59,54 +96,6 @@
       "name": "WEINSTEIN LAW FIRM, LLC",
       "sentences": [
         "By: /s/ Marc E. Weinstein Marc E. Weinstein, Esquire 500 Office Center Drive, Suite 400 Fort Washington, PA 19034 513.1942 marc@meweinsteinlaw.com Counsel to Plaintiff PA Atty No. 79474 Dated: February 24, 2023."
-      ]
-    },
-    {
-      "name": "INTRODUCTION",
-      "sentences": [
-        "Plaintiff has initiated the instant action to redress violations of the Age Discrimination in Employment Act (29 U.S.C. \u00a7 621 et seq.) (\u201cADEA\u201d) and the Pennsylvania Human Relations Act (43 P.S. \u00a7 951 et seq.) (\u201cPHRA\u201d)."
-      ]
-    },
-    {
-      "name": "PARTIES",
-      "sentences": [
-        "Plaintiff is a female adult citizen of the United States.",
-        "Defendant Upper Moreland School District (\u201cUMSD\u201d) is a public educational entity located in Southeastern Pennsylvania, Eastern Montgomery County."
-      ]
-    },
-    {
-      "name": "JURISDICTION AND VENUE",
-      "sentences": [
-        "The United States District Court for the Eastern District of Pennsylvania has original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7 1331 because it involves questions of federal law.",
-        "This Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over Defendant to comply with traditional notions of fair play and substantial justice,."
-      ]
-    },
-    {
-      "name": "EXHAUSTION OF ADMINISTRATIVE REMEDIES",
-      "sentences": [
-        "Plaintiff has satisfied the procedural and administrative requirements for proceeding under Title VII and the PHRA.",
-        "The instant action is timely because it was initiated within ninety (90) days of the receipt of the aforementioned Notice;."
-      ]
-    },
-    {
-      "name": "FACTUAL BACKGROUND",
-      "sentences": [
-        "Plaintiff was born in 1956.",
-        "She was first hired by Defendant in 1995 as Administrative Assistant to the Director of Media Services."
-      ]
-    },
-    {
-      "name": "FIRST CAUSE OF ACTION - AGE DISCRIMINATION",
-      "sentences": [
-        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
-        "As made plain in the above averments, and in violation of the ADEA and PHRA, UMSD has engaged in knowing, willful, purposeful and unlawful discrimination by terminating Plaintiff\u2019s employment on account of her age."
-      ]
-    },
-    {
-      "name": "PRAYER FOR RELIEF",
-      "sentences": [
-        "UMSD shall be enjoined from maintaining its illegal policy, practice, or custom of discriminating against employees based on their age, and is to be ordered to promulgate an effective policy against such discrimination and to adhere thereto;.",
-        "UMSD shall compensate Plaintiff, reimburse Plaintiff, and make Plaintiff whole for any and all pay and benefits Plaintiff would have received had it not been for UMSD\u2019s illegal actions."
       ]
     }
   ]

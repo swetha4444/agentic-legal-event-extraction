@@ -6,9 +6,7 @@
       "sentences": [
         ": CIVIL ACTION NO.: v. : JURY TRIAL DEMANDED Plaintiff, Angel O. Gonzalez, by and through his attorneys, brings this civil action for damages against the above-named Defendant, Jetro Holdings LLC d/b/a Restaurant Depot, demands a trial by jury, and complains and alleges as follows: Jurisdiction of the claims set forth in this Complaint is proper in this judicial district pursuant to Title VII of the Civil Rights Act of 1964 (\u201cTitle VII\u201d) as amended, 42 U.S.C. \u00a72000e et seq., as well as pendent state law claims arising under the provisions of the Commonwealth of Pennsylvania, to wit, the Pennsylvania Human Relations Act, as amended, 43 P.S. \u00a7951, et seq. (the \u201cPHRA\u201d), and 28 U.S.C. \u00a7\u00a71331 and 1343.",
         "Venue is proper in the Eastern District of Pennsylvania pursuant to 28 U.S.C. \u00a7 1391(b) because a substantial part of the events or omissions giving rise to these claims occurred in this Judicial District, and because the unlawful discrimination practices that are the subject of this action were committed in this Judicial District.",
-        "Declaratory relief is sought pursuant to 28 U.S.C. \u00a7\u00a7 2201 and 2202.",
-        "Jurisdiction of the claims set forth in this Complaint is proper in this judicial district pursuant to Title VII of the Civil Rights Act of 1964 (\u201cTitle VII\u201d) as amended, 42 U.S.C. \u00a72000e et seq., as well as pendent state law claims arising under the provisions of the Commonwealth of Pennsylvania, to wit, the Pennsylvania Human Relations Act, as amended, 43 P.S. \u00a7951, et seq.",
-        "Venue is proper in the Eastern District of Pennsylvania pursuant to 28 U.S.C. \u00a7 1391(b) because a substantial part of the events or omissions giving rise to these claims occurred in this Judicial District."
+        "Declaratory relief is sought pursuant to 28 U.S.C. \u00a7\u00a7 2201 and 2202."
       ]
     },
     {
@@ -18,8 +16,7 @@
         "Gonzalez\u201d) is an adult male individual residing at 624 Laurel Street, Reading, Berks County, Pennsylvania 19602.",
         "Defendant, Jetro Holdings LLC d/b/a Restaurant Depot (\u201cRestaurant Depot\u201d), is a Delaware limited liability company with a corporate headquarters address of 1710 Whitestone Expressway, Whitestone, New York 11357.",
         "At all times relevant to this Complaint, Restaurant Depot operated a facility located at 3045 North Fifth Street, Reading, Berks County, Pennsylvania 19601.",
-        "At all times relevant to this Complaint, Restaurant Depot employed in excess of fifteen (15) employees, including Mr. Gonzalez, making Restaurant Depot an \u201cemployer\u201d as defined under Title VII and the PHRA.",
-        "Plaintiff, Angel O. Gonzalez (\u201cMr. Gonzalez\u201d) is an adult male individual residing at 624 Laurel Street, Reading, Berks County, Pennsylvania 19602."
+        "At all times relevant to this Complaint, Restaurant Depot employed in excess of fifteen (15) employees, including Mr. Gonzalez, making Restaurant Depot an \u201cemployer\u201d as defined under Title VII and the PHRA."
       ]
     },
     {
@@ -66,7 +63,12 @@
     {
       "name": "VIOLATIONS OF THE PHRA",
       "sentences": [
-        "All prior paragraphs are incorporated herein as if set forth fully below This is an action arising under the provision of the PHRA and this Court has, and should exercise, pendant jurisdiction over the same because the causes of action complained of in this Count III arise out of the same facts, events and circumstances as Counts I and II, and therefore judicial economy and fairness to the parties dictates that this Count be brought in the same Complaint.",
+        "All prior paragraphs are incorporated herein as if set forth fully below This is an action arising under the provision of the PHRA and this Court has, and should exercise, pendant jurisdiction over the same because the causes of action complained of in this Count III arise out of the same facts, events and circumstances as Counts I and II, and therefore judicial economy and fairness to the parties dictates that this Count be brought in the same."
+      ]
+    },
+    {
+      "name": "Complaint.",
+      "sentences": [
         "By creating, permitting, tolerating, encouraging and fostering a sexually hostile, intimidating, demeaning, degrading and demoralizing environment at its business location where Mr. Gonzalez worked, Restaurant Depot violated Mr. Gonzalez\u2019s state rights under the PHRA, which prohibits harassment based upon gender with respect to the continuation and tenure of employment.",
         "Restaurant Depot further violated Mr. Gonzalez\u2019s state rights under the PHRA by terminating Mr. Gonzalez because he refused his supervisor\u2019s persistent and unwelcome sexual advances, which constitutes quid pro quo sexual harassment.",
         "As more fully set forth in Counts I and II, Mr. Gonzalez has suffered directly and solely as a result of Restaurant Depot actions, both economic harm and emotional distress, and will continue to suffer the same for the indefinite future.",
@@ -84,27 +86,6 @@
       "name": "(717) 233-8133 (FAX)",
       "sentences": [
         "Counsel for Plaintiff."
-      ]
-    },
-    {
-      "name": "COUNT I",
-      "sentences": [
-        "All prior paragraphs are incorporated herein as if set forth fully below.",
-        "Restaurant Depot created, permitted, tolerated, encouraged and fostered a sexually hostile, intimidating, demeaning, degrading and demoralizing environment at its facility in Reading, Pennsylvania, where Mr. Gonzalez worked."
-      ]
-    },
-    {
-      "name": "COUNT II",
-      "sentences": [
-        "All prior paragraphs are incorporated herein as if set forth fully below.",
-        "Restaurant Depot illegally terminated Mr. Gonzalez because he refused his supervisor\u2019s persistent and unwelcome sexual advances, which constitutes quid pro quo sexual harassment."
-      ]
-    },
-    {
-      "name": "COUNT III",
-      "sentences": [
-        "This is an action arising under the provision of the PHRA and this Court has, and should exercise, pendant jurisdiction over the same because the causes of action complained of in this Count III arise out of the same facts, events and circumstances as Counts I and II.",
-        "By creating, permitting, tolerating, encouraging and fostering a sexually hostile, intimidating, demeaning, degrading and demoralizing environment at its business location where Mr. Gonzalez worked, Restaurant Depot violated Mr. Gonzalez\u2019s state rights under the PHRA."
       ]
     }
   ]

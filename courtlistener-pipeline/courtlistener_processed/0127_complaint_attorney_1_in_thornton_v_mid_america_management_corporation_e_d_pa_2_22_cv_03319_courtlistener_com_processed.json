@@ -2,9 +2,10 @@
   "file": "0127_complaint_attorney_1_in_thornton_v_mid_america_management_corporation_e_d_pa_2_22_cv_03319_courtlistener_com.txt",
   "sections": [
     {
-      "name": "F: (215) 575-0826",
+      "name": "INTRODUCTION",
       "sentences": [
-        "davidk@kollerlawfirm.com jordans@kollerlawfirm.com ______________________________________________________________________________ Plaintiff, : ____________ Term 20___ v. : No. Beachwood, OH 44122 : Complaint and Jury Demand CIVIL ACTION This complaint is brought pursuant to Section 1983 and the Pennsylvania Criminal History Records Information Act (the \u201cAct\u201d) at 18 P.S. \u00a7\u00a7 9101 et. seq. for damages resulting from improper failure to hire due to criminal history. davidk@kollerlawfirm.com jordans@kollerlawfirm.com."
+        "This complaint is brought pursuant to Section 1983 and the Pennsylvania Criminal History Records Information Act (the \u201cAct\u201d) at 18 P.S. \u00a7\u00a7 9101 et. seq. for damages resulting from improper failure to hire due to criminal history.",
+        "Plaintiff was well qualified for this position."
       ]
     },
     {
@@ -16,18 +17,12 @@
       ]
     },
     {
-      "name": "OH 44122.",
-      "sentences": [
-        "Upon information and belief, Defendant is a privately owned company."
-      ]
-    },
-    {
       "name": "JURISDICTION AND VENUE",
       "sentences": [
         "The Court may properly maintain personal jurisdiction over Defendant because the Defendant\u2019s contacts with this state and this judicial district are sufficient for the exercise of jurisdiction and comply with traditional notions of fair play and substantial justice, thus satisfying the standard set forth by the United States Supreme Court in International Shoe Co. v. Washington, 326 U.S. 310 (1945) and its progeny.",
         "The Court may exercise original subject-matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7\u00a7 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks redress for violations of federal law. The Court may also maintain supplemental jurisdiction over state law claims set forth herein pursuant to 28 U.S.C. \u00a7 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure because they are sufficiently related to one or more claims within the Court\u2019s original jurisdiction that they form part of the same case or controversy.",
         "Venue is properly laid in the Eastern District of Pennsylvania pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and 1391(b)(2) because the Defendant is located in this judicial district and because all of the acts and/or omissions giving rise to the claims set forth herein occurred in this judicial district.",
-        "The Court may also maintain supplemental jurisdiction over state law claims set forth herein pursuant to 28 U.S.C. \u00a7 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure because they are sufficiently related to one or more claims within the Court\u2019s original jurisdiction that they form part of the same case or controversy."
+        "The Court may exercise original subject-matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7\u00a7 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks redress for violations of federal law."
       ]
     },
     {
@@ -44,7 +39,49 @@
         "Defendant did not ask Plaintiff if he had a criminal background on his application paperwork.",
         "At the conclusion of the interview, Ms. Hudson informed Plaintiff that she would send his information to Defendant\u2019s corporate office and that it would contact him. However, shortly after Plaintiff left the interview, he received an email from Ms. Hudson to Ms. Mason stating that Plaintiff has a criminal background and is currently on probation, as a result \u201c[w]e will not be able to hire him.\u201d Shortly afterwards, Defendant notified Plaintiff that it would not hire him for the position of Maintenance Technician.",
         "Plaintiff\u2019s criminal background does not affect his suitability for his employment at Defendant.",
-        "Upon information and believe, Defendant hired Caucasian employees with a criminal background."
+        "Upon information and believe, Defendant hired Caucasian employees with a criminal."
+      ]
+    },
+    {
+      "name": "COUNT I \u2013 RACE DISCRIMINATION SECTION 1983",
+      "sentences": [
+        "Plaintiff is African American.",
+        "Plaintiff was well qualified to perform the job for which he applied to."
+      ]
+    },
+    {
+      "name": "COUNT II \u2013 VIOLATION OF PENNSYLVANIA\u2019S CRIMINAL HISTORY RECORD INFORMATION ACT",
+      "sentences": [
+        "Pennsylvania\u2019s Criminal History Record Information Act (\u201cCHRIA\u201d or the \u201cAct\u201d) prohibits employers from denying employment to individuals based on a criminal conviction that does not relate to the individual\u2019s suitability for the position at issue.",
+        "The Act also requires employers to notify applicants in writing if the decision not to hire the applicant is based in whole or in part on criminal history record information."
+      ]
+    },
+    {
+      "name": "PRAYER FOR RELIEF",
+      "sentences": [
+        "WHEREFORE, Plaintiff, Barry Thornton, requests that the Court grant him the following relief against Defendants: (a) Compensatory damages; (b) Punitive damages; (c) Liquidated damages; (d) Emotional pain and suffering; (e) Reasonable attorneys\u2019 fees; (f) Recoverable costs; (g) Pre and post judgment interest; (h) An allowance to compensate for negative tax consequences; (i) A permanent injunction enjoining Defendants, its directors, officers, employees, agents, successors, heirs and assigns, and all persons in active concert or participation with it, from engaging in, ratifying, or refusing to correct Section 1983 and the CHRIA violations.",
+        "Plaintiff, Barry Thornton, requests that the Court grant him the following relief against Defendants:.",
+        "Compensatory damages;.",
+        "Punitive damages;.",
+        "Liquidated damages;.",
+        "Emotional pain and suffering;.",
+        "Reasonable attorneys\u2019 fees;.",
+        "Recoverable costs;.",
+        "Pre and post judgment interest;.",
+        "An allowance to compensate for negative tax consequences;.",
+        "A permanent injunction enjoining Defendants, its directors, officers, employees, agents, successors, heirs and assigns, and all persons in active concert or participation with it, from engaging in, ratifying, or refusing to correct Section 1983 and the CHRIA violations."
+      ]
+    },
+    {
+      "name": "F: (215) 575-0826",
+      "sentences": [
+        "davidk@kollerlawfirm.com jordans@kollerlawfirm.com ______________________________________________________________________________ Plaintiff, : ____________ Term 20___ v. : No. Beachwood, OH 44122 : Complaint and Jury Demand CIVIL ACTION This complaint is brought pursuant to Section 1983 and the Pennsylvania Criminal History Records Information Act (the \u201cAct\u201d) at 18 P.S. \u00a7\u00a7 9101 et. seq. for damages resulting from improper failure to hire due to criminal history. davidk@kollerlawfirm.com jordans@kollerlawfirm.com."
+      ]
+    },
+    {
+      "name": "OH 44122.",
+      "sentences": [
+        "Upon information and belief, Defendant is a privately owned company."
       ]
     },
     {
@@ -73,15 +110,6 @@
       ]
     },
     {
-      "name": "PRAYER FOR RELIEF",
-      "sentences": [
-        "WHEREFORE, Plaintiff, Barry Thornton, requests that the Court grant him the following relief against Defendants: (a) Compensatory damages; (b) Punitive damages; (c) Liquidated damages; (d) Emotional pain and suffering; (e) Reasonable attorneys\u2019 fees; (f) Recoverable costs; (g) Pre and post judgment interest; (h) An allowance to compensate for negative tax consequences; (i) A permanent injunction enjoining Defendants, its directors, officers, employees, agents, successors, heirs and assigns, and all persons in active concert or participation with it, from engaging in, ratifying, or refusing to correct Section 1983 and the CHRIA violations.",
-        "WHEREFORE, Plaintiff, Barry Thornton, requests that the Court grant him the following relief against Defendants:.",
-        "(a) Compensatory damages;.",
-        "(b) Punitive damages;."
-      ]
-    },
-    {
       "name": "JURY TRIAL DEMAND",
       "sentences": [
         "Demand is hereby made for a trial by jury as to all issues."
@@ -92,27 +120,6 @@
       "sentences": [
         "I hereby certify that to the best of my knowledge and belief the above matter in controversy is not the subject of any other action pending in any court or of a pending arbitration proceeding, nor at the present time is any other action or arbitration proceeding contemplated.",
         "Respectfully submitted,."
-      ]
-    },
-    {
-      "name": "INTRODUCTION",
-      "sentences": [
-        "This complaint is brought pursuant to Section 1983 and the Pennsylvania Criminal History Records Information Act (the \u201cAct\u201d) at 18 P.S. \u00a7\u00a7 9101 et. seq. for damages resulting from improper failure to hire due to criminal history.",
-        "Plaintiff was well qualified for this position."
-      ]
-    },
-    {
-      "name": "COUNT I \u2013 RACE DISCRIMINATION SECTION 1983",
-      "sentences": [
-        "Plaintiff is African American.",
-        "Similarly situated people outside of Plaintiff\u2019s protected class were treated more favorably than Plaintiff."
-      ]
-    },
-    {
-      "name": "COUNT II \u2013 VIOLATION OF PENNSYLVANIA\u2019S CRIMINAL HISTORY RECORD INFORMATION ACT",
-      "sentences": [
-        "Pennsylvania\u2019s Criminal History Record Information Act (\u201cCHRIA\u201d or the \u201cAct\u201d) prohibits employers from denying employment to individuals based on a criminal conviction that does not relate to the individual\u2019s suitability for the position at issue.",
-        "In the instant case, Defendants denied Plaintiff employment based on Plaintiff\u2019s criminal conviction that in no way relate to his suitability for the position at issue."
       ]
     }
   ]

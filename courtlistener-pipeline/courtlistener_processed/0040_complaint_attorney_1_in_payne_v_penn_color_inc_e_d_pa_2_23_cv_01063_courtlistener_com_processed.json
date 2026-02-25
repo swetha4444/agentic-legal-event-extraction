@@ -2,20 +2,14 @@
   "file": "0040_complaint_attorney_1_in_payne_v_penn_color_inc_e_d_pa_2_23_cv_01063_courtlistener_com.txt",
   "sections": [
     {
-      "name": "CIVIL ACTION COMPLAINT",
-      "sentences": [
-        "____________________________________ Lansdale, PA 19446 : CIVIL ACTION Plaintiff, : No.: ________________ Doylestown, PA 18901 : JURY TRIAL DEMANDED ____________________________________: Plaintiff, by and through his undersigned counsel, hereby avers as follows:."
-      ]
-    },
-    {
-      "name": "I. INTRODUCTION",
+      "name": "INTRODUCTION",
       "sentences": [
         "This action has been initiated by Carlton Payne (hereinafter referred to as \u201cPlaintiff\u201d) against Penn Color, Inc. (hereinafter referred to as \u201cDefendant\u201d or \u201cPenn\u201d) for violations of Title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e) and the Pennsylvania Human Relations Act (\u201cPHRA\u201d)1.",
         "As a direct consequence of Defendant\u2019s unlawful actions, Plaintiff seeks damages as set forth herein."
       ]
     },
     {
-      "name": "II. JURISDICTION AND VENUE",
+      "name": "JURISDICTION AND VENUE",
       "sentences": [
         "This Court, in accordance with 28 U.S.C. \u00a7 1331, has jurisdiction over Plaintiff\u2019s claims because this civil action arises under laws of the United States.",
         "This Court may properly maintain personal jurisdiction over Defendant because Defendant\u2019s contacts with this state and this judicial district are sufficient for the exercise of Plaintiff\u2019s claims under the PHRA are referenced herein for notice purposes.",
@@ -27,7 +21,7 @@
       ]
     },
     {
-      "name": "III. PARTIES",
+      "name": "PARTIES",
       "sentences": [
         "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "Plaintiff is an adult individual, with an address as set forth in the caption.",
@@ -36,7 +30,7 @@
       ]
     },
     {
-      "name": "IV. FACTUAL BACKGROUND",
+      "name": "FACTUAL BACKGROUND",
       "sentences": [
         "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "Plaintiff is a 54-year-old male.",
@@ -89,12 +83,7 @@
     {
       "name": "KARPF, KARPF & CERUTTI, P.C.",
       "sentences": [
-        "By: ______________________________ Ari R. Karpf, Esquire Jeremy M. Cerutti, Esquire 3331 Street Road Two Greenwood Square Suite 128 Bensalem, PA 19020 (215) 639-0801 Dated: March 17, 2023 ========`~\u00ea\u00e4\u00ed\u00e7\u00e5=m~\u00f3\u00e5\u00c9 ===========================m\u00c9\u00e5\u00e5=`\u00e7\u00e4\u00e7\u00eaI=f\u00e5\u00c5K."
-      ]
-    },
-    {
-      "name": "PLNTLOMOP",
-      "sentences": [
+        "By: ______________________________ Ari R. Karpf, Esquire Jeremy M. Cerutti, Esquire 3331 Street Road Two Greenwood Square Suite 128 Bensalem, PA 19020 (215) 639-0801 Dated: March 17, 2023 ========`~\u00ea\u00e4\u00ed\u00e7\u00e5=m~\u00f3\u00e5\u00c9 ===========================m\u00c9\u00e5\u00e5=`\u00e7\u00e4\u00e7\u00eaI=f\u00e5\u00c5K.",
         "Case 2:23-cv-01063-ETH UNITEDDocument 1 Filed FOR OFFICE USE ONLY RECEIPT # AMOUNT APPLYING IFP JUDGE MAG. JUDGE Print Save As..."
       ]
     },
@@ -105,25 +94,15 @@
         "Does this case involve the same issue of fact or grow out of the same transaction as a prior suit Yes No X pending or within one year previously terminated action in this court?",
         "Does this case involve the validity or infringement of a patent already in suit or any earlier Yes No X numbered case pending or within one year previously terminated action of this court?",
         "Is this case a second or successive habeas corpus, social security appeal, or pro se civil rights Yes No X case filed by the same individual?",
-        "I certify that, to my knowledge, the within case is / X is not related to any case now pending or within one year previously terminated action in this court except as noted above."
-      ]
-    },
-    {
-      "name": "DATE: __________________________________ __________________________________________ ARK2484 / 91538",
-      "sentences": [
-        "___________________________________ Attorney-at-Law / Pro Se Plaintiff Attorney I.D. # (if applicable) Federal Question Cases: B. Diversity Jurisdiction Cases: Indemnity Contract, Marine Contract, and All Other Contracts 1. Insurance Contract and Other Contracts FELA 2. Airplane Personal Injury Jones Act-Personal Injury 3. Assault, Defamation Antitrust 4. Marine Personal Injury Patent 5. Motor Vehicle Personal Injury Labor-Management Relations 6. Other Personal Injury (Please specify): _____________________ u 7. Civil Rights 7. Products Liability Habeas Corpus 8. Products Liability \u2013Asbestos Securities Act(s) Cases 9. All other Diversity Cases Social Security Review Cases (Please specify): ____________________________________________ All other Federal Question Cases (Please specify): ____________________________________________ ARBITRATION CERTIFICATION ( Ari R. Karpf I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify: Pursuant to Local Civil Rule 53.2, \u00a7 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case X exceed the sum of $150,000.00 exclusive of interest and costs: Relief other than monetary damages is sought."
-      ]
-    },
-    {
-      "name": "DATE: __________________________________ _____________________________________ _____ ARK2484 / 91538",
-      "sentences": [
+        "I certify that, to my knowledge, the within case is / X is not related to any case now pending or within one year previously terminated action in this court except as noted above.",
+        "___________________________________ Attorney-at-Law / Pro Se Plaintiff Attorney I.D. # (if applicable) Federal Question Cases: B. Diversity Jurisdiction Cases: Indemnity Contract, Marine Contract, and All Other Contracts 1. Insurance Contract and Other Contracts FELA 2. Airplane Personal Injury Jones Act-Personal Injury 3. Assault, Defamation Antitrust 4. Marine Personal Injury Patent 5. Motor Vehicle Personal Injury Labor-Management Relations 6. Other Personal Injury (Please specify): _____________________ u 7. Civil Rights 7. Products Liability Habeas Corpus 8. Products Liability \u2013Asbestos Securities Act(s) Cases 9. All other Diversity Cases Social Security Review Cases (Please specify): ____________________________________________ All other Federal Question Cases (Please specify): ____________________________________________ ARBITRATION CERTIFICATION ( Ari R. Karpf I, ____________________________________________ , counsel of record or pro se plaintiff, do hereby certify: Pursuant to Local Civil Rule 53.2, \u00a7 3(c ) (2), that to the best of my knowledge and belief, the damages recoverable in this civil action case X exceed the sum of $150,000.00 exclusive of interest and costs: Relief other than monetary damages is sought.",
         "___________________________________ Attorney-at-Law / Pro Se Plaintiff Attorney I.D. # (if applicable) NOTE: A trial de novo will be a trial by jury only if there has been compliance with F.R.C.P.",
         "38. Civ. 609 ( /2018) The JS 44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as provided by local rules of court.",
         "This form, approved by the Judicial Conference of the United States in September 1974, is required for the use of the Clerk of Court for the purpose of initiating the civil docket sheet. (SEE INSTRUCTIONS ON NEXT PAGE OF THIS FORM.)."
       ]
     },
     {
-      "name": "I. (a) PLAINTIFFS DEFENDANTS",
+      "name": "(a) PLAINTIFFS DEFENDANTS",
       "sentences": [
         "mbkk=`liloI=fk`K m^vkbI=`^oiqlk (b) County of Residence of First Listed Plaintiff j\u00e7\u00e5\u00ed\u00d6\u00e7\u00e3\u00c9\u00ea\u00f3 County of Residence of First Listed Defendant _\u00ec\u00c5\u00e2\u00eb (EXCEPT IN U.S. PLAINTIFF CASES) (IN U.S. PLAINTIFF CASES ONLY)."
       ]
@@ -143,25 +122,6 @@
       "name": "IF ANY JUDGE DOCKET NUMBER",
       "sentences": [
         "DATE SIGNATURE OF ATTORNEY OF RECORD."
-      ]
-    },
-    {
-      "name": "UNNAMED",
-      "sentences": [
-        "Based on the provided text, it appears to be a civil cover sheet and other related documents for a lawsuit filed in federal court. The plaintiff is seeking damages for various claims, including personal injury, product liability, and false advertising.",
-        "To provide a more specific answer to your question, I will need to analyze the content of the documents. However, based on the provided text, it seems that the lawsuit involves multiple parties and claims, and the plaintiff is seeking significant damages.",
-        "Here are some possible answers to your questions:.",
-        "What is the nature of the lawsuit?",
-        "The lawsuit appears to be a complex case involving multiple claims, including personal injury, product liability, and false advertising.",
-        "Who are the parties involved in the lawsuit?",
-        "The plaintiff(s) and defendant(s) are not specified in the provided text. However, based on the content of the documents, it seems that there are multiple parties involved in the lawsuit.",
-        "What is the amount of damages being sought by the plaintiff?",
-        "The exact amount of damages being sought by the plaintiff is not specified in the provided text. However, based on the complexity of the case and the number of claims being made, it appears that the plaintiff is seeking significant damages.",
-        "Is this a class-action lawsuit?",
-        "Based on the content of the documents, it does not appear to be a class-action lawsuit. However, I would need to review the entire document to confirm this.",
-        "What are the specific claims being made by the plaintiff?",
-        "The specific claims being made by the plaintiff are not specified in the provided text. However, based on the content of the documents, it appears that the plaintiff is making claims related to personal injury, product liability, and false advertising.",
-        "Please note that these answers are based on a limited analysis of the provided text and may not be comprehensive or accurate without reviewing the entire document."
       ]
     }
   ]

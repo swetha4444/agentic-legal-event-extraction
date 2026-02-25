@@ -2,23 +2,43 @@
   "file": "0036_complaint_attorney_1_in_mickens_v_city_of_philadelphia_e_d_pa_2_23_cv_01436_courtlistener_com.txt",
   "sections": [
     {
-      "name": "CIVIL ACTION COMPLAINT",
+      "name": "Introduction",
       "sentences": [
-        "__________________________________________ 331 South 60th Street : CIVIL ACTION : No. _______________ Plaintiff, : JURY TRIAL DEMANDED The above-named Plaintiff, by and through the undersigned counsel, hereby avers as follows: Introduction Plaintiff, Nicolla Mickens (hereinafter referenced as \u201cPlaintiff\u201d) has initiated the instant action to recover damages for unlawful disability discrimination and other violations of applicable law by Defendant City of Philadelphia (hereinafter referenced as \u201cDefendant\u201d).",
-        "II. Parties The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "Plaintiff, Nicolla Mickens (hereinafter referenced as \u201cPlaintiff\u201d) has initiated the instant action to recover damages for unlawful disability discrimination and other violations of applicable law by Defendant City of Philadelphia (hereinafter referenced as \u201cDefendant\u201d)."
+      ]
+    },
+    {
+      "name": "Parties",
+      "sentences": [
+        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "Plaintiff is an adult individual with an address as captioned above.",
         "Defendant is a City of the First Class in the Commonwealth of Pennsylvania.",
-        "At all times relevant hereto, Defendant acted through its agents, servants, and employees, each of whom was in the course and scope of their employment.",
-        "III. Jurisdiction and Venue The foregoing paragraphs are incorporated in their entirety as if set forth in full.",
+        "At all times relevant hereto, Defendant acted through its agents, servants, and employees, each of whom was in the course and scope of their employment."
+      ]
+    },
+    {
+      "name": "Jurisdiction and Venue",
+      "sentences": [
+        "The foregoing paragraphs are incorporated in their entirety as if set forth in full.",
         "The Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over it to comply with traditional notions of fair play and substantial justice, satisfying the standard set forth by the United States Supreme Court in International Shoe Co. v. Washington, 326 U.S. 310 (1945) and its progeny.",
         "The Court may exercise original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7\u00a7 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks redress for violations of rights conferred under Federal law (including the Americans with Disabilities Act).",
         "The Court may also maintain supplemental jurisdiction over any state law claims set forth herein pursuant to 28 U.S.C. \u00a7 1367(a) and Rule 18(a) of the Federal Rules of Civil Procedure because they are sufficiently related to the claim(s) within the Court\u2019s original jurisdiction that they form part of the same case or controversy.",
-        "Venue is properly laid in this judicial district pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and 1391(b)(2) because: (a) Defendant resides in and/or conducts business in this judicial district; and (b) because the acts and omissions giving rise to the claims set forth herein, including specifically: (i) Plaintiff\u2019s employment with Defendants; and (ii) the adverse employment actions carried out by Defendant against Plaintiff occurred exclusively in this judicial district.",
-        "IV. Exhaustion of Administrative Remedies The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "Venue is properly laid in this judicial district pursuant to 28 U.S.C. \u00a7\u00a7 1391(b)(1) and 1391(b)(2) because: (a) Defendant resides in and/or conducts business in this judicial district; and (b) because the acts and omissions giving rise to the claims set forth herein, including specifically: (i) Plaintiff\u2019s employment with Defendants; and (ii) the adverse employment actions carried out by Defendant against Plaintiff occurred exclusively in this judicial district."
+      ]
+    },
+    {
+      "name": "Exhaustion of Administrative Remedies",
+      "sentences": [
+        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "Plaintiff has exhausted the administrative remedies required for proceeding with his claims under Title VII of the Civil Rights Act of 1964 (Count One herein).",
         "Plaintiff filed a timely written Charge of Discrimination with the Equal Employment Opportunity Commission asserting claims of disability discrimination and retaliation at Charge No. 530-2022-06498.",
-        "The Equal Employment Opportunity Commission issued a Notice of Right to Sue to Plaintiff on the foregoing charge on March 9, 2023.",
-        "The instant action has been commenced within ninety (90) days of the receipt of the foregoing Notice of Right to Sue. Factual Background The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "The Equal Employment Opportunity Commission issued a Notice of Right to Sue to Plaintiff on the foregoing charge on March 9, 2023."
+      ]
+    },
+    {
+      "name": "Factual Background",
+      "sentences": [
+        "The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "Plaintiff worked as a legal assistant for the City of Philadelphia Law Department from September of 2007 until April 29, 2022 (a period of nearly 15 years) when her employment was terminated.",
         "There was no legitimate reason or explanation for Plaintiff\u2019s termination.",
         "Defendant attempted to have Plaintiff sign a release of claims and she refused to do so. Plaintiff is a qualified individual with a disability because she suffers from Polycystic Ovary Syndrome (PCOS).",
@@ -27,22 +47,27 @@
         "Defendant, by and through its agents, was aware of Plaintiff\u2019s disability and her requests for accommodation.",
         "The \u201creasons\u201d for the foregoing termination of Plaintiff\u2019s employment were pretextual.",
         "Plaintiff also requested and was denied the ability to work from home while other, similarly situated nut non-disabled employees were permitted to do so. Plaintiff complained about this fact but her complaints went ignored.",
-        "Plaintiff\u2019s employment was terminated because of her disability, her protected complaints, and her requests for accommodation, as well as her use of protected Family and Medical Leave.",
-        "Count One Americans With Disabilities Act (ADA) Disability Discrimination and Retaliation The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
-        "Defendant terminated Plaintiff\u2019s employment because of her disability and/or her requests for reasonable accommodation.",
-        "Defendant subjected Plaintiff to a hostile work environment because of her disability and/or her requests for reasonable accommodation.",
-        "Defendant failed to accommodate Plaintiff\u2019s disability.",
-        "By its actions as aforesaid, Defendant has violated the Americans with Disabilities Act."
+        "Plaintiff\u2019s employment was terminated because of her disability, her protected complaints, and her requests for accommodation, as well as her use of protected Family and Medical Leave."
       ]
     },
     {
-      "name": "(ADA).",
+      "name": "Count One",
       "sentences": [
+        "Americans With Disabilities Act (ADA) Disability Discrimination and Retaliation The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "Defendant terminated Plaintiff\u2019s employment because of her disability and/or her requests for reasonable accommodation.",
+        "Defendant subjected Plaintiff to a hostile work environment because of her disability and/or her requests for reasonable accommodation.",
+        "Defendant failed to accommodate Plaintiff\u2019s disability.",
+        "By its actions as aforesaid, Defendant has violated the Americans with Disabilities Act.",
         "Defendant\u2019s actions as aforesaid have caused Plaintiff to incur damages, including lost front and/or back pay and bonuses.",
         "By its actions as aforesaid, Defendant has caused plaintiff pain and suffering and emotional distress.",
         "As a result of Defendants\u2019 actions in violation of the ADA, Plaintiff is entitled to reasonable attorneys\u2019 fees and costs.",
-        "WHEREFORE, Plaintiff respectfully requests the relief set forth in the ad damnum clause below.",
-        "Count Two Family and Medical Leave Act (Interference and Retaliation) The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
+        "WHEREFORE, Plaintiff respectfully requests the relief set forth in the ad damnum clause below."
+      ]
+    },
+    {
+      "name": "Count Two",
+      "sentences": [
+        "Family and Medical Leave Act (Interference and Retaliation) The foregoing paragraphs are incorporated herein in their entirety as if set forth in full.",
         "When an employee invokes rights under the Family and Medical Leave Act (FMLA), an employer may not interfere with, restrain, or deny exercise or attempted exercise of those rights, nor may it discharge or discriminate in any other manner against an employee for opposing any practice made unlawful by the FMLA.",
         "See 29 USC \u00a7\u00a7 2615(a) (1) and (a)(2).",
         "The two aforesaid provisions are generally referred to as forbidding: (a) \u201cinterference\u201d with the exercise of FMLA rights; and (b) \u201cretaliation\u201d for exercising same.",
@@ -51,7 +76,8 @@
         "At all times relevant herein, Plaintiff was an \u201celigible employee\u201d as that term is defined in the FMLA, see 29 U.S.C. \u00a7 2611(2)(A)(i)-(ii), because she worked for Defendant for a period in excess of 12 months and because she worked at least 1,250 hours in the one- year period prior to his Family and Medical Leave Request as aforesaid.",
         "By its actions as aforesaid, Defendant violated the Family and Medical Leave Act (FMLA) in that it interfered with the exercise of Plaintiff\u2019s FMLA rights and retaliated against Plaintiff for exercising those rights and other protected activity under the FMLA.",
         "As a result of Defendants\u2019 actions as aforesaid, Plaintiff has sustained lost wages, lost benefits and other economic damages, as well as an exacerbation of her medical condition.",
-        "As a result of Defendants\u2019 actions in violation of the FMLA, Plaintiff is entitled to reasonable attorneys\u2019 fees and costs."
+        "As a result of Defendants\u2019 actions in violation of the FMLA, Plaintiff is entitled to reasonable attorneys\u2019 fees and costs.",
+        "WHEREFORE, Plaintiff respectfully requests the relief set forth in the ad damnum clause below."
       ]
     },
     {
@@ -64,62 +90,6 @@
       "name": "WAYNE A. ELY",
       "sentences": [
         "BY: /S/ Wayne A. Ely Wayne A. Ely, Esquire Attorney for Plaintiff 59 Andrea Drive Richboro, PA 18954 (215) 801-7979 March 31, 2023."
-      ]
-    },
-    {
-      "name": "INTRODUCTION",
-      "sentences": [
-        "The above-named Plaintiff, by and through the undersigned counsel, hereby avers as follows.",
-        "Plaintiff has initiated the instant action to recover damages for unlawful disability discrimination and other violations of applicable law by Defendant City of Philadelphia."
-      ]
-    },
-    {
-      "name": "PARTIES",
-      "sentences": [
-        "Plaintiff is an adult individual with an address as captioned above.",
-        "Defendant is a City of the First Class in the Commonwealth of Pennsylvania."
-      ]
-    },
-    {
-      "name": "JURISDICTION AND VENUE",
-      "sentences": [
-        "The Court may properly maintain personal jurisdiction over Defendant because its contacts with this state and this judicial district are sufficient for the exercise of jurisdiction over it to comply with traditional notions of fair play and substantial justice.",
-        "The Court may exercise original subject matter jurisdiction over the instant action pursuant to 28 U.S.C. \u00a7\u00a7 1331 and 1343(a)(4) because it arises under the laws of the United States and seeks redress for violations of rights conferred under Federal law."
-      ]
-    },
-    {
-      "name": "EXHAUSTION OF ADMINISTRATIVE REMEDIES",
-      "sentences": [
-        "Plaintiff has exhausted the administrative remedies required for proceeding with his claims under Title VII of the Civil Rights Act of 1964 (Count One herein).",
-        "The instant action has been commenced within ninety (90) days of the receipt of the foregoing Notice of Right to Sue."
-      ]
-    },
-    {
-      "name": "FACTUAL BACKGROUND",
-      "sentences": [
-        "Plaintiff worked as a legal assistant for the City of Philadelphia Law Department from September of 2007 until April 29, 2022 (a period of nearly 15 years) when her employment was terminated.",
-        "There was no legitimate reason or explanation for Plaintiff\u2019s termination."
-      ]
-    },
-    {
-      "name": "COUNT ONE - AMERICANS WITH DISABILITIES ACT (ADA)",
-      "sentences": [
-        "Defendant terminated Plaintiff\u2019s employment because of her disability and/or her requests for reasonable accommodation.",
-        "By its actions as aforesaid, Defendant has violated the Americans with Disabilities Act (ADA)."
-      ]
-    },
-    {
-      "name": "COUNT TWO - FAMILY AND MEDICAL LEAVE ACT",
-      "sentences": [
-        "When an employee invokes rights under the Family and Medical Leave Act (FMLA), an employer may not interfere with, restrain, or deny exercise or attempted exercise of those rights.",
-        "At all times relevant hereto, Defendant was an \u201cemployer\u201d under the FMLA because it employed at least 50 individuals within a 75-mile area at all times relevant herein."
-      ]
-    },
-    {
-      "name": "PRAYER FOR RELIEF",
-      "sentences": [
-        "A. That a judgment be entered against Defendant on all Counts of the instant Complaint;.",
-        "B. On all Counts, that Plaintiff be awarded actual damages, including front pay and back pay;."
       ]
     }
   ]

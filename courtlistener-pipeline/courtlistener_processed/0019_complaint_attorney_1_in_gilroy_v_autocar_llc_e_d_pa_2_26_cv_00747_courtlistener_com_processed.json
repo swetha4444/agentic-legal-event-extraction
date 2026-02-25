@@ -2,6 +2,10 @@
   "file": "0019_complaint_attorney_1_in_gilroy_v_autocar_llc_e_d_pa_2_26_cv_00747_courtlistener_com.txt",
   "sections": [
     {
+      "name": "DAVID SEAN GILROY",
+      "sentences": []
+    },
+    {
       "name": "VS. CIVIL ACTION",
       "sentences": [
         "4680 Pinson Valley Parkway Birmingham, AL 35215 Defendant.",
@@ -175,12 +179,7 @@
     {
       "name": "SOCTAL SECURITY",
       "sentences": [
-        "861 HIA (1395ff) 862 Black Lung (923) 864 SSID Title XVI 865 RSI (405(g)) [ A 863 DIWC/DIWW (405(g)) [_."
-      ]
-    },
-    {
-      "name": "IMMIGRATION",
-      "sentences": [
+        "861 HIA (1395ff) 862 Black Lung (923) 864 SSID Title XVI 865 RSI (405(g)) [ A 863 DIWC/DIWW (405(g)) [_.",
         "462 Naturalization Application 465 Other Immigration Actions [_] 870 Taxes (U.S.",
         "Plaintiff or Defendant) [_] 871 1RS\u2014Third Party."
       ]
@@ -192,7 +191,7 @@
       ]
     },
     {
-      "name": "VI. CAUSE OF ACTION F- \u2014 -",
+      "name": "CAUSE OF ACTION F- \u2014 -",
       "sentences": [
         "Brief description of cause: Violations of the ADEA and the PHRA.",
         "VIL REQUESTED IN C CHECK IF THIS 1S A CLASS ACTION DEMAND $ CHECK YES only if demanded in complaint: COMPLAINT: UNDER RULE 23, F.R.Cv.P.",
@@ -200,7 +199,7 @@
       ]
     },
     {
-      "name": "VII. RELATED CASK(S)",
+      "name": "RELATED CASK(S)",
       "sentences": [
         "(See instructions):."
       ]
@@ -209,26 +208,6 @@
       "name": "DATE NA E OF ATTORNEY OF RECORD",
       "sentences": [
         "2/5/2026 Lo Re es FOR OFFICE USE ONLY \u2014 [7 RECEIPT # AMOUNT APPLYING IFP JUDGE MAG. JUDGE."
-      ]
-    },
-    {
-      "name": "UNNAMED",
-      "sentences": [
-        "This is a civil complaint filed in federal court, specifically under the Age Discrimination in Employment Act (ADEA) and the Pennsylvania Human Relations Act (PHRA). Here's a breakdown of the key information:.",
-        "*Plaintiff:** David Sean Gilroy.",
-        "*Defendant:** Autocar, LLC d/b/a Autocar.",
-        "*Jurisdiction:**.",
-        "The complaint is filed under 28 U.S.C. \u00a7 1331, which grants federal jurisdiction over cases arising under federal statutes.",
-        "The ADEA (29 U.S.C. \u00a7 621) is the specific statute under which the plaintiff is filing.",
-        "*Nature of Suit:** Employment Discrimination.",
-        "*Cause of Action:**.",
-        "Violations of the Age Discrimination in Employment Act (ADEA).",
-        "Violations of the Pennsylvania Human Relations Act (PHRA).",
-        "*Request for Relief:**.",
-        "The plaintiff seeks damages and other relief, but the specific amount is not specified.",
-        "*Class Action:** No.",
-        "*Jury Demand:** Yes.",
-        "*Related Cases:** None mentioned."
       ]
     }
   ]

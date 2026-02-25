@@ -20,8 +20,7 @@
         "Plaintiff is Robert Green (hereinafter \u201cPlaintiff\u201d), an adult individual who is domiciled in the Commonwealth of Pennsylvania at 1916 W Venango Street, Philadelphia, PA 19140.",
         "Defendant, The Home Depot, Inc. (hereinafter \u201cDefendant\u201d) is a chain of home improvement stores with a location at 4640 Roosevelt Boulevard, Philadelphia, PA 19124 and with a corporate headquarters located at 2455 Paces Ferry Road, Atlanta, GA 30339.",
         "Defendant is an entity engaged in an industry or activity affecting commerce which employs 50 or more employees in all of its offices for each working day during each of 20 or more calendar workweek in the current or preceding year.",
-        "At all times material hereto, Plaintiff was employed by Defendant for at least twelve hundred and fifty (1,250) hours of service during the twelve-month period prior to requiring leave.",
-        "Plaintiff is Robert Green, an adult individual who is domiciled in the Commonwealth of Pennsylvania at 1916 W Venango Street, Philadelphia, PA 19140."
+        "At all times material hereto, Plaintiff was employed by Defendant for at least twelve hundred and fifty (1,250) hours of service during the twelve-month period prior to requiring leave."
       ]
     },
     {
@@ -76,6 +75,7 @@
         "Defendant acted in bad faith by interfering with Plaintiff\u2019s rights under the FMLA.",
         "Defendant knowingly, intentionally, willfully and/or recklessly acted in disregard of the duty to grant Plaintiff\u2019s FMLA-related request for leave.",
         "Defendant\u2019s aforementioned actions violate 29 U.S.C. \u00a7 2615(a)(1) of the Family and Medical Leave Act in that the employer cannot \u201cinterfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under\u201d any right provided by the FMLA.",
+        "29 U.S.C. 2615(a)(1).",
         "As a direct and proximate result of Defendant\u2019s unlawful and willful interference with Plaintiff\u2019s rights under the FMLA, Plaintiff has been deprived of economic and non-economic benefits including, but not limited to lost wages, pain and suffering, mental anguish, humiliation, loss of fringe benefits, disruption of her personal life and loss of enjoyment of the ordinary pleasures of life.",
         "Plaintiff demands judgment in his favor against Defendant for all available equitable relief including, but not limited to: unpaid leave up to the maximum permitted by the FMLA including but not limited to doubling the damages proven inclusive of all wages, salary, employment benefits or other compensation denied or lost.",
         "Plaintiff further demands judgment in his favor against Defendant for all interest on the monetary benefits calculated at the prevailing rate, an additional amount equal to those sums, as liquidated damages under \u00a7 2617(a), fees and costs including the allowance of reasonable attorneys\u2019 fees, expert witness fees and other costs of the action against Defendant and such other orders and further relief as may be necessary and appropriate to effectuate the objectives of the Family and Medical Leave Act of 1993.",
@@ -90,7 +90,8 @@
         "Defendant has acted in bad faith by retaliating against Plaintiff in violation of the FMLA.",
         "As a direct and proximate result of Defendant\u2019s discharge of Plaintiff, Plaintiff is and was deprived of economic and non-economic benefits resulting from Defendant\u2019s willful and/or non- willful actions including but not limited to: loss of back pay, loss of increase in salary, loss of benefits preceding Plaintiff\u2019s filing of the lawsuit, cost of providing care, and double liquidated damages under the FMLA for violations not made in good faith.",
         "Plaintiff demands judgment against Defendant for all available equitable relief including, but not limited to: reinstatement to job position, full restoration of all leave and health benefits, to which Plaintiff was entitled, and any additional unpaid leave up to the maximum permitted by the FMLA including but not limited to doubling the damages proven inclusive of all wages, salary, employment benefits or other compensation denied or lost.",
-        "Plaintiff further demands favorable judgment against Defendant for all interest on the monetary benefits calculated at the prevailing rate, an additional amount equal to those sums, as liquidated damages under \u00a7107(a), fees and costs including the allowance of reasonable attorneys\u2019 fees, expert witness fees and other costs of the action against Defendant and such other orders and further relief as may be necessary and appropriate to effectuate the objectives of the FMLA."
+        "Plaintiff further demands favorable judgment against Defendant for all interest on the monetary benefits calculated at the prevailing rate, an additional amount equal to those sums, as liquidated damages under \u00a7107(a), fees and costs including the allowance of reasonable attorneys\u2019 fees, expert witness fees and other costs of the action against Defendant and such other orders and further relief as may be necessary and appropriate to effectuate the objectives of the FMLA.",
+        "WHEREFORE, Plaintiff seeks the damages set forth in the Prayer for Relief clause of this Complaint, infra."
       ]
     },
     {
@@ -114,31 +115,7 @@
       "name": "PRAYER FOR RELIEF",
       "sentences": [
         "WHEREFORE, Plaintiff, Robert Green, requests that the Court grant her the following relief against Defendant, The Home Depot, Inc.: a) Damages for past and future monetary losses as a result of Defendant\u2019s wrongful termination; b) Compensatory damages; c) Punitive damages; d) Liquidated damages; e) Emotional pain and suffering; f) Reasonable attorneys\u2019 fees; g) Recoverable costs; h) Pre and post judgment interest; i) An allowance to compensate for negative tax consequences; j) Order Defendant to remove and expunge, or to cause to be removed and expunged, all negative, discriminatory, and/or defamatory memoranda and documentation from Plaintiff\u2019s record of employment, including, but not limited to, the pre-textual reasons cited for his adverse actions, disciplines, and termination; and k) Awarding any/all other extraordinary, equitable and/or injunctive relief as permitted by law, equity and the statutory provisions sued hereunder.",
-        "Respectfully Submitted,.",
-        "WHEREFORE, Plaintiff seeks damages set forth in the Prayer for Relief clause of this Complaint, infra."
-      ]
-    },
-    {
-      "name": "COUNT I \u2013 WILLFUL INTERFERENCE FAMILY AND MEDICAL LEAVE ACT OF 1993, AS AMENDED",
-      "sentences": [
-        "The FMLA declares it \u201cunlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise\u201d any right provided by the FMLA. 29 U.S.C. 2615(a)(1).",
-        "At all times material, Defendant knew, or should have known, of Plaintiff\u2019s need for intermittent FMLA leave to care for his own serious health condition.",
-        "Defendant acted in bad faith by interfering with Plaintiff\u2019s rights under the FMLA."
-      ]
-    },
-    {
-      "name": "COUNT II \u2013 WILLFUL RETALIATION FAMILY AND MEDICAL LEAVE ACT OF 1993, AS AMENDED",
-      "sentences": [
-        "Pursuant to 29 U.S.C. \u00a7 2611(2)(A) and 29 U.S.C. \u00a7 2612(a)(1)(C), Plaintiff was eligible for leave under the FMLA.",
-        "At all times material, Defendant knew, or should have known, of Plaintiff\u2019s need for intermittent FMLA Leave to care for his own serious medical condition."
-      ]
-    },
-    {
-      "name": "COUNT III \u2013 RACE DISCRIMINATION 42 U.S.C. \u00a7 1981",
-      "sentences": [
-        "Plaintiff is a member of protected classes in that he is African American.",
-        "Plaintiff was qualified to perform the job for which he was hired.",
-        "Defendant discriminated against Plaintiff on the basis of his protected class."
+        "Respectfully Submitted,."
       ]
     }
   ]

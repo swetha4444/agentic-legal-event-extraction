@@ -2,17 +2,38 @@
   "file": "0134_complaint_attorney_1_in_alexis_v_clark_associates_inc_e_d_pa_5_22_cv_03146_courtlistener_com.txt",
   "sections": [
     {
-      "name": "COMPLAINT \u2013 CIVIL ACTION",
-      "sentences": [
-        "---------------------------------------------------------------- 438 Hillside Avenue : CIVIL NO.: ---------------------------------------------------------------- Plaintiff, Cynthia Alexis (\u201cPlaintiff\u201d), by and through her undersigned attorney, for her Complaint against Clark Associates, Inc., (\u201cDefendant\u201d), alleges as follows:."
-      ]
-    },
-    {
       "name": "INTRODUCTION",
       "sentences": [
         "Plaintiff initiates this action contending Defendant violated Plaintiff\u2019s rights protected by Title VII of the Civil Rights Act of 1964 (\u201cTitle VII\u201d), 42 U.S.C. \u00a7 2000e, et seq. and the Pennsylvania Human Relations Act (\u201cPHRA\u201d), 43 P.S. \u00a7 951, et seq. Specifically, Plaintiff contends that Defendant subjected her to sexual harassment of a severe or pervasive nature resulting in a hostile and offensive work environment because of sex, and terminated Plaintiff from her employment in retaliation as of her reports of the same, in violation of Title VII and the PHRA.",
         "Plaintiff initiates this action contending Defendant violated Plaintiff\u2019s rights protected by Title VII of the Civil Rights Act of 1964 (\u201cTitle VII\u201d), 42 U.S.C. \u00a7 2000e, et seq. and the Pennsylvania Human Relations Act (\u201cPHRA\u201d), 43 P.S. \u00a7 951, et seq.",
         "Specifically, Plaintiff contends that Defendant subjected her to sexual harassment of a severe or pervasive nature resulting in a hostile and offensive work environment because of sex."
+      ]
+    },
+    {
+      "name": "COUNT I",
+      "sentences": [
+        "Defendant employed at least fifteen (15) employees at its various locations at all times relevant hereto.",
+        "Plaintiff is female and is therefore a member of a protected class under Title VII.",
+        "Defendant permitted and/or allowed to exist a hostile work environment because of sex as described above."
+      ]
+    },
+    {
+      "name": "COUNT II",
+      "sentences": [
+        "The conduct described herein and above constitutes a violation of the Pennsylvania Human Relations Act, 43 P.S. \u00a7 951, et seq., in that Defendant unlawfully and illegally discriminated against Plaintiff because of her sex.",
+        "Because of Defendant\u2019s deliberate, unlawful, and malicious actions as set forth above, Plaintiff has suffered damages in the form of, inter alia, loss of past and future wages and compensation, personal humiliation, emotional distress, embarrassment, loss of employment, promotion benefits, earnings and earnings potential, and loss of other significant economic benefits.",
+        "Plaintiff respectfully requests that this Court enter judgment in her favor and against Defendant, and grant her the maximum relief allowed by law, including, but not limited to:.",
+        "a) Back wages and front pay, in an amount to be determined at trial, but no less than one hundred and fifty thousand dollars ($150,000.00);.",
+        "b) Compensatory, punitive and/or exemplary damages in an amount to be determined at trial, but sufficient to punish Defendant for its intentional, willful, negligent, wanton, and/or malicious conduct;.",
+        "c) Plaintiff\u2019s costs, disbursements, and attorneys\u2019 fees incurred in prosecuting this matter;.",
+        "d) Pre-judgment interest in an appropriate amount; and.",
+        "e) Such other and further relief as is just and equitable under the circumstances."
+      ]
+    },
+    {
+      "name": "COMPLAINT \u2013 CIVIL ACTION",
+      "sentences": [
+        "---------------------------------------------------------------- 438 Hillside Avenue : CIVIL NO.: ---------------------------------------------------------------- Plaintiff, Cynthia Alexis (\u201cPlaintiff\u201d), by and through her undersigned attorney, for her Complaint against Clark Associates, Inc., (\u201cDefendant\u201d), alleges as follows:."
       ]
     },
     {
@@ -111,32 +132,6 @@
       "name": "DEMAND TO PRESERVE EVIDENCE",
       "sentences": [
         "The Defendant is hereby demanded to preserve all physical and electronic information pertaining in any way to Plaintiff\u2019s employment, to her potential claims and her claims to damages, to any defenses to same, including, but not limited to electronic data storage, employment files, files, memos, job descriptions, text messages, e-mails, spreadsheets, images, cache memory, payroll records, paystubs, time records, timesheets, and any other information and/or data which may be relevant to any claim or defense in this litigation."
-      ]
-    },
-    {
-      "name": "COUNT I",
-      "sentences": [
-        "Defendant employed at least fifteen (15) employees at its various locations at all times relevant hereto.",
-        "Plaintiff is female and is therefore a member of a protected class under Title VII.",
-        "Defendant permitted and/or allowed to exist a hostile work environment because of sex as described above."
-      ]
-    },
-    {
-      "name": "COUNT II",
-      "sentences": [
-        "The conduct described herein and above constitutes a violation of the Pennsylvania Human Relations Act, 43 P.S. \u00a7 951, et seq., in that Defendant unlawfully and illegally discriminated against Plaintiff because of her sex.",
-        "Because of Defendant\u2019s deliberate, unlawful, and malicious actions as set forth above, Plaintiff has suffered damages in the form of, inter alia, loss of past and future wages and compensation, personal humiliation, emotional distress, embarrassment, loss of employment, promotion benefits, earnings and earnings potential, and loss of other significant economic benefits."
-      ]
-    },
-    {
-      "name": "WHEREFORE",
-      "sentences": [
-        "Plaintiff respectfully requests that this Court enter judgment in her favor and against Defendant, and grant her the maximum relief allowed by law, including, but not limited to:.",
-        "a) Back wages and front pay, in an amount to be determined at trial, but no less than one hundred and fifty thousand dollars ($150,000.00);.",
-        "b) Compensatory, punitive and/or exemplary damages in an amount to be determined at trial, but sufficient to punish Defendant for its intentional, willful, negligent, wanton, and/or malicious conduct;.",
-        "c) Plaintiff\u2019s costs, disbursements, and attorneys\u2019 fees incurred in prosecuting this matter;.",
-        "d) Pre-judgment interest in an appropriate amount; and.",
-        "e) Such other and further relief as is just and equitable under the circumstances."
       ]
     }
   ]

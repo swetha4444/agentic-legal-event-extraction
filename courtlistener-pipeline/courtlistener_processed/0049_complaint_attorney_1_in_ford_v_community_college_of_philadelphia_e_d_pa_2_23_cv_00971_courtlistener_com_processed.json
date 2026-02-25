@@ -2,10 +2,10 @@
   "file": "0049_complaint_attorney_1_in_ford_v_community_college_of_philadelphia_e_d_pa_2_23_cv_00971_courtlistener_com.txt",
   "sections": [
     {
-      "name": "F: (215) 575-0826",
+      "name": "INTRODUCTION",
       "sentences": [
-        "davidk@kollerlawfirm.com jordans@kollerlawfirm.com SHAVON FORD, : Civil Action No. v. : Complaint and Jury Demand CIVIL ACTION Plaintiff, Shavon Ford (hereinafter \u201cPlaintiff\u201d), by and through his attorney, Koller Law, LLC, brings this civil action against Defendant, Community College of Philadelphia (hereinafter \u201cDefendant\u201d), for violations of Title VII of the Civil Rights Act of 1964 (\u201cTitle VII\u201d), as amended, and the Pennsylvania Human Relations Act (\u201cPHRA\u201d).",
-        "In support thereof, Plaintiff avers as follows:."
+        "Plaintiff, Shavon Ford, brings this civil action against Defendant, Community College of Philadelphia.",
+        "The complaint alleges violations of Title VII of the Civil Rights Act of 1964 and the Pennsylvania Human Relations Act."
       ]
     },
     {
@@ -41,6 +41,48 @@
         "Plaintiff has exhausted his administrative remedies as to the allegations of this Complaint.",
         "Plaintiff engaged in protected activity by declining Mr. Thomas\u2019 sexual advances.",
         "Defendant took adverse employment action against Plaintiff, including termination."
+      ]
+    },
+    {
+      "name": "COUNT I - SEXUAL HARASSMENT \u2013 HOSTILE WORK ENVIRONMENT",
+      "sentences": [
+        "The acts outlined above constitute a hostile work environment based on sex.",
+        "The unlawful employment practices outlined above were intentional."
+      ]
+    },
+    {
+      "name": "COUNT II - SEXUAL HARASSMENT \u2013 HOSTILE WORK ENVIRONMENT",
+      "sentences": [
+        "The foregoing conduct created a sexually hostile work environment for Plaintiff.",
+        "Defendant subjected Plaintiff to unwelcome conduct of a sexual nature that was severe and/or pervasive."
+      ]
+    },
+    {
+      "name": "COUNT III - RETALIATION",
+      "sentences": [
+        "Plaintiff engaged in activity protected by Title VII.",
+        "There exists a causal connection between Plaintiff\u2019s participation on the protected activity and the adverse employment action."
+      ]
+    },
+    {
+      "name": "COUNT IV - RETALIATION",
+      "sentences": [
+        "Plaintiff engaged in activity protected by the PHRA.",
+        "There exists a causal connection between Plaintiff\u2019s participation on the protected activity and the adverse employment actions."
+      ]
+    },
+    {
+      "name": "PRAYER FOR RELIEF",
+      "sentences": [
+        "WHEREFORE, Plaintiff, Shavon Ford, requests that the Court grant him the following relief against Defendant: (a) Compensatory damages; (b) Punitive damages; (c) Emotional pain and suffering; (d) Reasonable attorneys\u2019 fees; (e) Recoverable costs; (f) Pre and post judgment interest; (g) An allowance to compensate for negative tax consequences; (h) A permanent injunction enjoining Defendant, its directors, officers, employees, agents, successors, heirs and assigns, and all persons in active concert or participation with it, from engaging in, ratifying, or refusing to correct, employment practices which discriminate in violation of Title VII and the PHRA. (i) Order Defendant to institute and implement, and for its employees, to attend and/or otherwise participate in, training programs, policies, practices and programs which provide equal employment opportunities; (j) Order Defendant to remove and expunge, or to cause to be removed and expunged, all negative, discriminatory, and/or defamatory memoranda and documentation from Plaintiff\u2019s record of employment, including, but not limited, the pre-textual reasons cited for its adverse actions, disciplines, and termination; and (k) Awarding extraordinary, equitable and/or injunctive relief as permitted by law, equity and the federal statutory provisions sued hereunder, pursuant to Rules 64 and 65 of the Federal Rules of Civil Procedure.",
+        "Plaintiff seeks compensatory damages, punitive damages, emotional pain and suffering, reasonable attorneys\u2019 fees, recoverable costs, pre and post judgment interest, an allowance to compensate for negative tax consequences, a permanent injunction enjoining Defendant from engaging in discriminatory practices."
+      ]
+    },
+    {
+      "name": "F: (215) 575-0826",
+      "sentences": [
+        "davidk@kollerlawfirm.com jordans@kollerlawfirm.com SHAVON FORD, : Civil Action No. v. : Complaint and Jury Demand CIVIL ACTION Plaintiff, Shavon Ford (hereinafter \u201cPlaintiff\u201d), by and through his attorney, Koller Law, LLC, brings this civil action against Defendant, Community College of Philadelphia (hereinafter \u201cDefendant\u201d), for violations of Title VII of the Civil Rights Act of 1964 (\u201cTitle VII\u201d), as amended, and the Pennsylvania Human Relations Act (\u201cPHRA\u201d).",
+        "In support thereof, Plaintiff avers as follows:."
       ]
     },
     {
@@ -127,13 +169,6 @@
       ]
     },
     {
-      "name": "PRAYER FOR RELIEF",
-      "sentences": [
-        "WHEREFORE, Plaintiff, Shavon Ford, requests that the Court grant him the following relief against Defendant: (a) Compensatory damages; (b) Punitive damages; (c) Emotional pain and suffering; (d) Reasonable attorneys\u2019 fees; (e) Recoverable costs; (f) Pre and post judgment interest; (g) An allowance to compensate for negative tax consequences; (h) A permanent injunction enjoining Defendant, its directors, officers, employees, agents, successors, heirs and assigns, and all persons in active concert or participation with it, from engaging in, ratifying, or refusing to correct, employment practices which discriminate in violation of Title VII and the PHRA. (i) Order Defendant to institute and implement, and for its employees, to attend and/or otherwise participate in, training programs, policies, practices and programs which provide equal employment opportunities; (j) Order Defendant to remove and expunge, or to cause to be removed and expunged, all negative, discriminatory, and/or defamatory memoranda and documentation from Plaintiff\u2019s record of employment, including, but not limited, the pre-textual reasons cited for its adverse actions, disciplines, and termination; and (k) Awarding extraordinary, equitable and/or injunctive relief as permitted by law, equity and the federal statutory provisions sued hereunder, pursuant to Rules 64 and 65 of the Federal Rules of Civil Procedure.",
-        "Plaintiff seeks compensatory damages, punitive damages, emotional pain and suffering, reasonable attorneys\u2019 fees, recoverable costs, pre and post judgment interest, an allowance to compensate for negative tax consequences, a permanent injunction enjoining Defendant from engaging in discriminatory practices."
-      ]
-    },
-    {
       "name": "JURY TRIAL DEMAND",
       "sentences": [
         "Demand is hereby made for a trial by jury as to all issues."
@@ -149,41 +184,6 @@
       "name": "KOLLER LAW, LLC",
       "sentences": [
         "Date: March 13, 2023 By: /s/ David M. Koller__ David M. Koller, Esquire Jordan D. Santo, Esquire 2043 Locust Street, Suite 1B Philadelphia, PA 19103 215-545-8917 davidk@kollerlawfirm.com jordans@kollerlawfirm.com Counsel for Plaintiff."
-      ]
-    },
-    {
-      "name": "INTRODUCTION",
-      "sentences": [
-        "Plaintiff, Shavon Ford, brings this civil action against Defendant, Community College of Philadelphia.",
-        "The complaint alleges violations of Title VII of the Civil Rights Act of 1964 and the Pennsylvania Human Relations Act."
-      ]
-    },
-    {
-      "name": "COUNT I - SEXUAL HARASSMENT \u2013 HOSTILE WORK ENVIRONMENT",
-      "sentences": [
-        "The acts outlined above constitute a hostile work environment based on sex.",
-        "The unlawful employment practices outlined above were intentional."
-      ]
-    },
-    {
-      "name": "COUNT II - SEXUAL HARASSMENT \u2013 HOSTILE WORK ENVIRONMENT",
-      "sentences": [
-        "The foregoing conduct created a sexually hostile work environment for Plaintiff.",
-        "Defendant subjected Plaintiff to unwelcome conduct of a sexual nature that was severe and/or pervasive."
-      ]
-    },
-    {
-      "name": "COUNT III - RETALIATION",
-      "sentences": [
-        "Plaintiff engaged in activity protected by Title VII.",
-        "There exists a causal connection between Plaintiff\u2019s participation on the protected activity and the adverse employment action."
-      ]
-    },
-    {
-      "name": "COUNT IV - RETALIATION",
-      "sentences": [
-        "Plaintiff engaged in activity protected by the PHRA.",
-        "There exists a causal connection between Plaintiff\u2019s participation on the protected activity and the adverse employment actions."
       ]
     }
   ]
