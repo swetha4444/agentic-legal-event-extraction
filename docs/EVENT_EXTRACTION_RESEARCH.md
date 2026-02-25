@@ -131,16 +131,29 @@ See **docs/NON_LLM_BASELINES_AND_EVAL.md** (§2.6) for the same idea (facts → 
 - **Self-training:** Train an initial model on a small seed (or on data from another domain); run it on your scraped data to get “silver” events; use for training or as a **pseudo-gold** for tuning (with the caveat that silver is noisy).
 - **Heuristics as silver:** e.g. “sentences with a verb from list V and a person entity → event candidate”; use for ablations or as a baseline. Not ground truth, but a concrete comparison point.
 
+### 3.7 Event graphs (no ground truth)
+
+When your output is an **event graph** (nodes = events/entities, edges = relations/temporal/causal) and you have no gold graph:
+
+- **LLM-as-judge on structure:** For each (sub)graph or document-level graph, ask an LLM: (1) **Faithfulness** — “Do all nodes/edges appear or follow from the source text?” (2) **Role/relation correctness** — “Are agent/patient/temporal relations correct?” (3) **Pairwise** — “Given the source, which of graph A vs B is better (more complete, fewer errors)?”
+- **Intrinsic graph checks (no reference):** (1) **Consistency** — no contradicting facts (e.g. same event with two different dates); (2) **Coherence** — temporal order and causal links are plausible; (3) **Coverage** — key entities/events from the document appear. These can be automated with rules or LLM checks (“Does this graph contain any internal contradictions?”).
+- **Downstream proxy:** Use the event graph for a downstream task (e.g. timeline QA, “find similar cases,” retrieval). Compare graphs from system A vs B by **downstream performance** (accuracy, relevance) instead of graph edit distance to gold.
+- **Validation frameworks:** **KGValidator** (arXiv:2404.15923) uses LLMs for automatic validation of KG construction (structural + semantic) without large-scale human annotation; the same idea applies to event graphs. **KGrEaT** evaluates KG quality via downstream tasks (e.g. classification, retrieval) when gold graphs are unavailable.
+
+**Frameworks that help even without gold:** **REGen** (Findings EMNLP 2025) combines exact, relaxed, and **LLM-based matching** for event arguments — the LLM-based part can be used in a judge-like way. **RAEE** uses LLM evaluation agents for **semantic** precision/recall of triggers and arguments (strong correlation with humans). **SEOE** uses LLMs for semantic F1 in open-domain event detection. For reporting LLM-as-judge results, consider bias correction and confidence intervals (see “How to Correctly Report LLM-as-a-Judge Evaluations”, arXiv:2511.21140).
+
 ---
 
 ## 4. Practical recommendations for your project
 
-| Situation | Recommendation |
-|-----------|----------------|
-| **No gold at all yet** | (1) Use **LLM-as-judge** (faithfulness, role correctness, or pairwise) to compare fact extractors and, later, event extractors. (2) Add **nugget recall** (or checklist) on a small sample if you can define nuggets. (3) Plan a **small gold set** (50–100 docs) for events+roles when you add EE. |
+
+| Situation                         | Recommendation                                                                                                                                                                                                                                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **No gold at all yet**            | (1) Use **LLM-as-judge** (faithfulness, role correctness, or pairwise) to compare fact extractors and, later, event extractors. (2) Add **nugget recall** (or checklist) on a small sample if you can define nuggets. (3) Plan a **small gold set** (50–100 docs) for events+roles when you add EE.    |
 | **When you add event extraction** | (1) **Document** preprocessing and output format (trigger/argument schema). (2) Prefer **relaxed or LLM-based matching** in addition to exact match (see REGen, BEMEAE) so that LLM-based extractors are not unfairly penalized. (3) Report **pipeline** (end-to-end) metrics, not only argument-only. |
-| **Legal-specific** | Reuse ideas from **Events Matter** (ECHR): event types + parties + time; compare rule-based vs CRF vs neural/LLM. If you can’t use ECHR, your CourtListener + small manual annotations can serve as a “in-house” gold. |
-| **Reproducibility** | Use or adapt a **standardized framework** (e.g. OmniEvent, TextEE) for preprocessing and scoring if you adopt existing event schemas; otherwise, release your own preprocessing and matching script with the paper/code. |
+| **Legal-specific**                | Reuse ideas from **Events Matter** (ECHR): event types + parties + time; compare rule-based vs CRF vs neural/LLM. If you can’t use ECHR, your CourtListener + small manual annotations can serve as a “in-house” gold.                                                                                 |
+| **Reproducibility**               | Use or adapt a **standardized framework** (e.g. OmniEvent, TextEE) for preprocessing and scoring if you adopt existing event schemas; otherwise, release your own preprocessing and matching script with the paper/code.                                                                               |
+
 
 ---
 
@@ -148,55 +161,49 @@ See **docs/NON_LLM_BASELINES_AND_EVAL.md** (§2.6) for the same idea (facts → 
 
 ### Evaluation pitfalls and metrics
 
-1. **The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation**  
-   Hao Peng, Xiaozhi Wang, Feng Yao, Kaisheng Zeng, Lei Hou, Juanzi Li, Zhiyuan Liu, Weixing Shen. *Findings of ACL*, 2023.  
+1. **The Devil is in the Details: On the Pitfalls of Event Extraction Evaluation**
+  Hao Peng, Xiaozhi Wang, Feng Yao, Kaisheng Zeng, Lei Hou, Juanzi Li, Zhiyuan Liu, Weixing Shen. *Findings of ACL*, 2023.  
    Preprocessing discrepancy, output-space mismatch, missing pipeline eval.  
    [ACL](https://aclanthology.org/2023.findings-acl.586/) · [PDF](https://aclanthology.org/2023.findings-acl.586.pdf) · Code: [OmniEvent](https://github.com/THU-KEG/OmniEvent)
-
-2. **REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction**  
-   *Findings of EMNLP*, 2025.  
+2. **REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction**
+  *Findings of EMNLP*, 2025.  
    Exact vs relaxed vs LLM-based matching; +23.93 F1 over exact match; 87.67% alignment with humans.  
    [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.649/)
-
-3. **BEMEAE: Moving Beyond Exact Span Match for Event Argument Extraction**  
-   *NAACL*, 2025.  
+3. **BEMEAE: Moving Beyond Exact Span Match for Event Argument Extraction**
+  *NAACL*, 2025.  
    [ACL](https://aclanthology.org/2025.naacl-long.295/)
-
-4. **Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations**  
-   *ACL (short)*, 2023.  
+4. **Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations**
+  *ACL (short)*, 2023.  
    Structural ambiguities (coreference, argument head, modality); 32% / 25% impact on FN.  
    [ACL](https://aclanthology.org/2023.acl-short.142/)
-
-5. **A Comparison of the Events and Relations Across ACE, ERE, TAC-KBP, and FrameNet Annotation Standards**  
-   *ACL Workshop*, 2014.  
+5. **A Comparison of the Events and Relations Across ACE, ERE, TAC-KBP, and FrameNet Annotation Standards**
+  *ACL Workshop*, 2014.  
    [ACL](https://aclanthology.org/W14-2907/)
 
 ### Benchmarks and standardized evaluation
 
-6. **TextEE: A Standardized, Fair, and Reproducible Benchmark for Event Extraction**  
-   *Findings of ACL*, 2024.  
+1. **TextEE: A Standardized, Fair, and Reproducible Benchmark for Event Extraction**
+  *Findings of ACL*, 2024.  
    16 datasets, 8 domains; 14+ methods; 5 LLMs; standardized preprocessing and splits.  
    [ACL](https://aclanthology.org/2024.findings-acl.760/) · [Project](https://khhuang.me/TextEE) · [GitHub](https://github.com/ej0cl6/textee)
-
-7. **GENEVA: Benchmarking Generalizability for Event Argument Extraction with Hundreds of Event Types and Argument Roles**  
-   *ACL (long)*, 2023. Newer, larger EAE dataset; event types and roles; still has some data-quality caveats.  
+2. **GENEVA: Benchmarking Generalizability for Event Argument Extraction with Hundreds of Event Types and Argument Roles**
+  *ACL (long)*, 2023. Newer, larger EAE dataset; event types and roles; still has some data-quality caveats.  
    [ACL](https://aclanthology.org/2023.acl-long.203/) · [PDF](https://aclanthology.org/2023.acl-long.203.pdf)
-
-8. **Other recent EAE dataset** (ACL long 2024) — event types and roles; newer/more fine-grained than ACE; data cleaning quality varies.  
-   [ACL](https://aclanthology.org/2024.acl-long.224/) · [PDF](https://aclanthology.org/2024.acl-long.224.pdf)
+3. **Other recent EAE dataset** (ACL long 2024) — event types and roles; newer/more fine-grained than ACE; data cleaning quality varies.
+  [ACL](https://aclanthology.org/2024.acl-long.224/) · [PDF](https://aclanthology.org/2024.acl-long.224.pdf)
 
 **Classic EE dataset (known issues):**  
+
 - **ACE** (Automatic Content Extraction) — default evaluation dataset for ~2 decades. [LREC 2004](http://www.lrec-conf.org/proceedings/lrec2004/pdf/5.pdf). Critique: [Cai & O’Connor, ACL 2023 short](https://aclanthology.org/2023.acl-short.142.pdf) (coreference, argument head, modality; can inflate false negatives).
 
 ### Legal domain event extraction
 
-9. **Events Matter: Extraction of Events from Court Decisions**  
-   Filtz, Navas-Loro, Santos, Polleres, Kirrane. *JURIX*, 2020.  
+1. **Events Matter: Extraction of Events from Court Decisions**
+  Filtz, Navas-Loro, Santos, Polleres, Kirrane. *JURIX*, 2020.  
    ECHR corpus; deep learning vs CRF vs rule-based; event type, parties, time.  
    [IOS Press](https://ebooks.iospress.nl/doi/10.3233/FAIA200847) · [PDF (Penni)](https://penni.wu.ac.at/papers/JURIX2020%20Events%20Matter%20Extraction%20of%20Events%20from%20Court%20Decisions.pdf)
-
-10. **LexTime: A Benchmark for Temporal Ordering of Legal Events**  
-   *arXiv*, 2025.  
+2. **LexTime: A Benchmark for Temporal Ordering of Legal Events**
+  *arXiv*, 2025.  
    U.S. Federal Complaints; 512 instances; event pairs and temporal relations.  
    [arXiv:2506.04041](https://arxiv.org/abs/2506.04041)
 
@@ -205,53 +212,82 @@ See **docs/NON_LLM_BASELINES_AND_EVAL.md** (§2.6) for the same idea (facts → 
 
 ### Methods: generative, distant supervision, self-training
 
-11. **Generative Approaches to Event Extraction: Survey and Outlook**  
-    *Workshop on Future of Event Detection (FuturED)*, 2024.  
+1. **Generative Approaches to Event Extraction: Survey and Outlook**
+  *Workshop on Future of Event Detection (FuturED)*, 2024.  
     [ACL](https://aclanthology.org/2024.futured-1.7/)
-
-12. **Event Extraction Using Distant Supervision**  
-    *ACL (short)*, 2014. (L14-1091)  
+2. **Event Extraction Using Distant Supervision**
+  *ACL (short)*, 2014. (L14-1091)  
     [ACL](https://aclanthology.org/L14-1091/)
-
-13. **Scale Up Event Extraction Learning via Automatic Training Data Generation**  
-    *AAAI*, 2024.  
+3. **Scale Up Event Extraction Learning via Automatic Training Data Generation**
+  *AAAI*, 2024.  
     Distant supervision; scale from thousands to hundreds of thousands.  
     [AAAI](https://aaai.org/papers/12030-scale-up-event-extraction-learning-via-automatic-training-data-generation)
-
-14. **Learning from a Friend: Improving Event Extraction via Self-Training with Feedback from Abstract Meaning Representation**  
-    *ACL*, 2023.  
+4. **Learning from a Friend: Improving Event Extraction via Self-Training with Feedback from Abstract Meaning Representation**
+  *ACL*, 2023.  
     [ACL](https://aclanthology.org/) · [GitHub (PLUM)](https://github.com/PLUM-Lab/Event_Extraction_with_Self_Training)
-
-15. **Semi-Supervised Event Extraction with Paraphrase Clusters**  
-    *NAACL*, 2018.  
+5. **Semi-Supervised Event Extraction with Paraphrase Clusters**
+  *NAACL*, 2018.  
     Bootstrap from paraphrase clusters; +1.1–1.3 F1 on ACE05/TAC-KBP.  
     [ACL](https://aclanthology.org/N18-2058/)
 
 **LLM-based EE approaches (general):**  
+
 - [ACL 2022 long 466](https://aclanthology.org/2022.acl-long.466.pdf)  
 - [CASE 2022](https://aclanthology.org/2022.case-1.5.pdf)  
 - [ULTRA, Findings ACL 2024](https://aclanthology.org/2024.findings-acl.487.pdf) (document-level EAE)
 
 ### Evaluation without ground truth / LLM-as-judge
 
-16. **Benchmarking LLM-as-a-Judge Models for 5W1H Extraction Evaluation**  
-    *MDPI Electronics*, 2025.  
-    GPT, Claude, Gemini on 5W1H extraction; 90%+ alignment; faithfulness, completeness.  
-    [MDPI](https://www.mdpi.com/2079-9292/15/3/659)
+**Event extraction (semantic/LLM-based eval, no or weak gold):**
 
-17. **Inter-annotator Agreement for ERE Annotation**  
-    *ACL Workshop*, 2014.  
-    Comparing annotators without gold standard.  
+1. **REGen: A Reliable Evaluation Framework for Generative Event Argument Extraction**  
+   *Findings of EMNLP*, 2025.  
+   Exact + relaxed + LLM-based matching; +23.93 F1 over exact match; 87.67% alignment with human assessments.  
+   [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.649/) · [PDF](https://aclanthology.org/2025.findings-emnlp.649.pdf)
+2. **RAEE** (Reliable and Semantic Evaluation for Event Extraction)  
+   LLM evaluation agents for semantic precision/recall of triggers and arguments; strong correlation with human judgment; exact match underestimates LLMs.  
+   [arXiv:2410.09418](https://arxiv.org/abs/2410.09418)
+3. **SEOE: A Scalable and Reliable Semantic Evaluation Framework for Open Domain Event Detection**  
+   Semantic F1 via LLMs; 564 event types, 7 domains.  
+   [arXiv:2503.03303](https://arxiv.org/abs/2503.03303)
+4. **BEMEAE: Moving Beyond Exact Span Match for Event Argument Extraction**  
+   *NAACL*, 2025.  
+   [ACL](https://aclanthology.org/2025.naacl-long.295/)
+
+**LLM-as-judge methodology (reporting, bias):**
+
+5. **How to Correctly Report LLM-as-a-Judge Evaluations**  
+   Bias correction; confidence intervals for imperfect sensitivity/specificity of LLM judges.  
+   [arXiv:2511.21140](https://arxiv.org/abs/2511.21140)
+6. **Benchmarking LLM-as-a-Judge Models for 5W1H Extraction Evaluation**  
+   *MDPI Electronics*, 2025. GPT, Claude, Gemini; 90%+ alignment; faithfulness, completeness.  
+   [MDPI](https://www.mdpi.com/2079-9292/15/3/659)
+
+**Knowledge / event graph validation without gold:**
+
+7. **KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction**  
+   LLM-based structural and semantic validation of KG outputs; no large-scale human annotation.  
+   [arXiv:2404.15923](https://arxiv.org/abs/2404.15923)
+8. **KGrEaT: A Framework to Evaluate Knowledge Graphs via Downstream Tasks**  
+   Evaluate KG quality through downstream tasks (classification, clustering, recommendation) when gold graphs are unavailable.  
+   [arXiv:2308.10537](https://arxiv.org/abs/2308.10537)
+9. **How Reliable are LLMs as Knowledge Bases? Re-thinking Factuality and Consistency**  
+   Factuality and consistency metrics for KG/LLM evaluation.  
+   [arXiv:2407.13578](https://arxiv.org/abs/2407.13578)
+
+**Other (IAA, validation):**
+
+10. **Inter-annotator Agreement for ERE Annotation**  
+    *ACL Workshop*, 2014. Comparing annotators without gold standard.  
     [ACL](https://aclanthology.org/W14-2904/)
-
-18. **Validation Methodology for Expert-Annotated Datasets: Event Annotation Case Study**  
+11. **Validation Methodology for Expert-Annotated Datasets: Event Annotation Case Study**  
     IAA ~0.78–0.87; ambiguity-aware validation.  
     [Core](https://core.ac.uk/download/pdf/200222278.pdf)
 
 ### In-repo reference
 
-19. **NON_LLM_BASELINES_AND_EVAL.md** (this repo)  
-    Facts extraction baselines; LLM-as-judge; nuggets; downstream task; sentence-level / ROUGE / BERTScore.
+1. **NON_LLM_BASELINES_AND_EVAL.md** (this repo)
+  Facts extraction baselines; LLM-as-judge; nuggets; downstream task; sentence-level / ROUGE / BERTScore.
 
 ---
 
@@ -260,3 +296,4 @@ See **docs/NON_LLM_BASELINES_AND_EVAL.md** (§2.6) for the same idea (facts → 
 - **Methods:** Event extraction is done via tagging, span-based, or generative (LLM) paradigms; in legal, DL/CRF/rules (and now LLMs) are used; distant supervision and self-training help when you lack labels.
 - **Evaluation:** Standard is P/R/F1 with exact or relaxed span match; exact match underestimates generative models; preprocessing and output space must be documented for comparability.
 - **No ground truth:** You can still make progress with (1) a **small human gold set**, (2) **LLM-as-judge**, (3) **nugget/checklist recall**, (4) **human audit** (over/under-inclusion, errors), (5) **downstream task** (e.g. events → timeline or retrieval), and (6) **silver labels** (distant supervision or self-training) for training and weak eval. Combining (1) and (2) is a practical path: small gold for a reliable number, LLM-as-judge for scale and model comparison.
+
