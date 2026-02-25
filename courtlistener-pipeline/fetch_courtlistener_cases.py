@@ -41,6 +41,11 @@ OUTPUT_DIR = "/Users/vishnuvardhan/Desktop/698/untitled folder/courtlistener_cas
 MAX_CASES = 1500
 REQUEST_DELAY = 1.0
 
+# Start fetching search results from this page (1-based).
+# Example: set START_PAGE = 120 to start at page 120.
+# If you want to start *after* page 120, set START_PAGE = 121.
+START_PAGE = 95
+
 # Optional: save first search page HTML for debugging (e.g. if no links found)
 DEBUG_SAVE_HTML = True
 DEBUG_HTML_PATH = "debug_search_page.html"
@@ -200,7 +205,7 @@ def main():
             seen_urls = set(line.strip() for line in f if line.strip())
         print(f"Resuming: {len(seen_urls)} URLs already fetched.")
     saved_count = len(seen_urls)
-    page = 1
+    page = max(1, int(START_PAGE))
 
     # Use single browser session for all pages (search + documents)
     driver = _get_driver()
@@ -220,7 +225,7 @@ def main():
             doc_urls = find_initial_document_links_on_page(soup, search_url)
             if not doc_urls:
                 print("  No initial document links on this page.")
-                if page == 1:
+                if page == max(1, int(START_PAGE)):
                     if DEBUG_SAVE_HTML:
                         with open(DEBUG_HTML_PATH, "w", encoding="utf-8") as f:
                             f.write(soup.prettify())
