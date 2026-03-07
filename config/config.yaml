@@ -16,9 +16,9 @@ llm:
   # Lower-cost options (Keymaker): gpt-5-mini, Phi-4-mini-reasoning, gemma-3-4b-it, gemma-3-12b-it, claude-haiku-4-5
   temperature: 0.0
   # Budget: cap API calls per run (null = no limit)
-  max_calls: 1
+  max_calls: 300
   # Optional: max documents to process (null = no limit)
-  max_docs: 1
+  max_docs: 100
 
 paths:
   raw_dir: data/raw

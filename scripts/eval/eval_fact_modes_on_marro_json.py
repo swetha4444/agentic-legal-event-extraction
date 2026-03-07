@@ -362,6 +362,12 @@ def main():
         help="Classifier checkpoint path (default: best available local legal-domain checkpoint).",
     )
     parser.add_argument("--device", type=str, default=None, help="Classifier device: cuda|cpu (default: auto).")
+    parser.add_argument(
+        "--classifier-batch-size",
+        type=int,
+        default=None,
+        help="Override classifier batch size for classifier/hybrid modes (default: checkpoint extractor default).",
+    )
     parser.add_argument("--llm-model", type=str, default=None, help="LLM model name (for llm/hybrid modes).")
     parser.add_argument("--llm-chunk-size", type=int, default=120, help="Sentences per LLM request.")
     parser.add_argument(
@@ -395,6 +401,8 @@ def main():
         raise ValueError("--llm-chunk-size must be > 0")
     if args.mode == "hybrid" and not (0.0 <= args.tolerance <= 1.0):
         raise ValueError("--tolerance must be in [0, 1]")
+    if args.classifier_batch_size is not None and args.classifier_batch_size <= 0:
+        raise ValueError("--classifier-batch-size must be > 0 when provided")
 
     compiled_records = load_compiled_json(args.input_json)
     if args.max_docs is not None:
@@ -407,6 +415,8 @@ def main():
 
     if args.mode in {"classifier", "hybrid"}:
         classifier = LegalBERTFactExtractor(checkpoint_path=str(args.checkpoint), device=args.device)
+        if args.classifier_batch_size is not None:
+            classifier.batch_size = int(args.classifier_batch_size)
     if args.mode in {"llm", "hybrid"}:
         llm_extractor = LLMFactsExtractor(model_name=args.llm_model)
 
@@ -518,6 +528,7 @@ def main():
         "dataset_dir": str(dataset_dir),
         "checkpoint": str(args.checkpoint.resolve()) if args.mode in {"classifier", "hybrid"} else None,
         "llm_model": args.llm_model if args.mode in {"llm", "hybrid"} else None,
+        "classifier_batch_size": args.classifier_batch_size if args.mode in {"classifier", "hybrid"} else None,
         "tolerance": args.tolerance if args.mode == "hybrid" else None,
         "llm_chunk_size": args.llm_chunk_size if args.mode in {"llm", "hybrid"} else None,
         "docs_total": docs_total,

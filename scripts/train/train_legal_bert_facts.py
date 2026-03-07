@@ -11,6 +11,7 @@ import logging
 import os
 import sys
 from pathlib import Path
+from typing import Dict
 
 # Suppress verbose "UNEXPECTED/MISSING" load report when loading BERT for classification (expected)
 for _name in ("transformers.modeling_utils", "transformers"):
@@ -22,6 +23,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 import torch
+import numpy as np
 from torch.utils.data import Dataset
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, Trainer, TrainingArguments, default_data_collator
 
@@ -79,6 +81,35 @@ def load_jsonl(path: str) -> tuple[list[str], list[int]]:
             sentences.append(text.strip())
             labels.append(lab)
     return sentences, labels
+
+
+def compute_binary_metrics(eval_pred) -> Dict[str, float]:
+    """Compute binary classification metrics for FACT (label=1)."""
+    logits, labels = eval_pred
+    pred = np.argmax(logits, axis=-1)
+    labels = np.asarray(labels)
+
+    tp = int(np.sum((pred == 1) & (labels == 1)))
+    tn = int(np.sum((pred == 0) & (labels == 0)))
+    fp = int(np.sum((pred == 1) & (labels == 0)))
+    fn = int(np.sum((pred == 0) & (labels == 1)))
+    n = int(labels.shape[0])
+
+    acc = (tp + tn) / n if n else 0.0
+    precision = tp / (tp + fp) if (tp + fp) else 0.0
+    recall = tp / (tp + fn) if (tp + fn) else 0.0
+    f1 = (2 * precision * recall / (precision + recall)) if (precision + recall) else 0.0
+
+    return {
+        "accuracy": float(acc),
+        "precision_fact": float(precision),
+        "recall_fact": float(recall),
+        "f1_fact": float(f1),
+        "tp": tp,
+        "tn": tn,
+        "fp": fp,
+        "fn": fn,
+    }
 
 
 def main():
@@ -147,9 +178,17 @@ def main():
         args=training_args,
         train_dataset=train_ds,
         eval_dataset=eval_ds,
+        compute_metrics=compute_binary_metrics if eval_ds else None,
         data_collator=default_data_collator,
     )
     trainer.train()
+    if eval_ds:
+        eval_metrics = trainer.evaluate(eval_dataset=eval_ds)
+        metrics_path = Path(args.output_dir) / "validation_metrics.json"
+        with metrics_path.open("w", encoding="utf-8") as f:
+            json.dump(eval_metrics, f, indent=2)
+            f.write("\n")
+        print(f"Saved validation metrics to {metrics_path}")
     model.save_pretrained(args.output_dir)
     tokenizer.save_pretrained(args.output_dir)
     print(f"Saved model and tokenizer to {args.output_dir}. Use this path as checkpoint_path in LegalBERTFactExtractor.")
