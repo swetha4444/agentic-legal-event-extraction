@@ -1,10 +1,11 @@
 # Run from project root
 
 # ---- Cluster (salloc + env) ----
+# Get a node, then load env (conda/venv + cuda if using GPU)
 salloc -p gpu-preempt -G 1 -c 14 --mem=30GB -t 04:00:00
 module load conda/latest && source .venv/bin/activate && module load cuda/12.6
 
-# ---- Setup ----
+# ---- Setup (local or after salloc) ----
 ./scripts/setup.sh
 source .venv/bin/activate
 
@@ -26,6 +27,18 @@ source .venv/bin/activate
 ./scripts/run_facts_agent.sh --limit 1
 ./scripts/run_facts_agent.sh --model claude-haiku-4-5 --limit 1
 ./scripts/run_facts_legal_bert.sh --checkpoint data/models/legal_bert_facts_marro --limit 1
+
+# ---- Events extraction (chunk → LLM → entities + events) ----
+# Holdout predictions path (US Dataset, LegalBERT hybrid, train60 / holdout40):
+#   /work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl
+# One doc, dry-run (no LLM; see output format).
+python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --output data/outputs/events_one_doc.jsonl --limit 1 --dry-run
+# One doc, real LLM (needs .env AGENT_API_KEY)
+python -m src.run_events_agent --input data/processed/courtlistener_recap.jsonl --output data/outputs/events_1.jsonl --limit 1
+# From facts-holdout: fixed-size sentence chunks
+python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --chunk-size 40 --overlap-sentences 5 --output data/outputs/events_holdout40.jsonl --limit 1
+# LLM chunking (meaningful chunks + overlap) + chunks-only (one LLM call for chunking; output = doc_id, num_chunks, chunks only)
+python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --chunk-strategy llm --output data/outputs/chunks_only.jsonl --limit 1 --dry-run --chunks-only
 
 # Training (GPU; full MARRO)
 ./scripts/train/run_legal_bert_train.sh
