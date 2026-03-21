@@ -17,6 +17,25 @@ from agents.config_loader import get_llm_config
 from processing.chunking import chunk_document, Chunk
 
 
+def _apply_doc_range(ns: argparse.Namespace) -> None:
+    """
+    Set skip_docs and limit from --doc-range (1-based inclusive valid-doc indices).
+    Examples: "6-10" -> skip 5, write 5 docs; "3" -> skip 2, write 1 doc.
+    """
+    raw = (ns.doc_range or "").strip().replace(" ", "")
+    if not raw:
+        return
+    if "-" in raw:
+        lo, hi = raw.split("-", 1)
+        start, end = int(lo), int(hi)
+    else:
+        start = end = int(raw)
+    if start < 1 or end < start:
+        raise SystemExit("--doc-range: need start >= 1 and end >= start (e.g. 6-10)")
+    ns.skip_docs = start - 1
+    ns.limit = end - start + 1
+
+
 def _merge_chunk_results(chunk_results: list[dict], chunk_ids: list[str]) -> dict:
     """
     Merge per-chunk {entities, events} into one dict. Preserve chunk_id on each event.
@@ -46,7 +65,20 @@ def main():
     )
     parser.add_argument("--input", default="data/processed/courtlistener_recap.jsonl", help="Input JSONL")
     parser.add_argument("--output", default=None, help="Output JSONL (default: data/outputs/events_<model>.jsonl)")
-    parser.add_argument("--limit", type=int, default=None, help="Max documents")
+    parser.add_argument("--limit", type=int, default=None, help="Max documents written (after --skip-docs). Ignored if --doc-range is set.")
+    parser.add_argument(
+        "--skip-docs",
+        type=int,
+        default=0,
+        help="Skip the first N valid documents, then write up to --limit. Ignored if --doc-range is set.",
+    )
+    parser.add_argument(
+        "--doc-range",
+        type=str,
+        default=None,
+        metavar="START-END",
+        help='Inclusive 1-based range of valid docs to process, e.g. "1-5" or "6-10". Sets skip/limit automatically (overrides --skip-docs and --limit). Single number N means doc N only.',
+    )
     parser.add_argument("--model", type=str, default=None, help="LLM model name")
     # Chunking (first step)
     parser.add_argument(
@@ -66,6 +98,8 @@ def main():
     parser.add_argument("--chunks-only", action="store_true", help="Output file: only doc id + chunks (no extracted_entities, extracted_events, sentences, etc.)")
     parser.add_argument("--max-sentences-for-llm-chunking", type=int, default=120, help="When chunk-strategy=llm, skip LLM chunking if doc has more sentences (fall back to sentence strategy)")
     args = parser.parse_args()
+    if args.doc_range:
+        _apply_doc_range(args)
 
     cfg = get_llm_config()
     model = args.model or cfg.get("model")
@@ -76,6 +110,8 @@ def main():
     extractor = None if (args.dry_run and args.chunk_strategy != "llm") else LLMEventsExtractor(model_name=model)
     text_key = args.facts_field or args.text_field
     count = 0
+    skipped_valid = 0
+    skip_need = max(0, int(args.skip_docs or 0))
 
     with open(args.input) as f_in, open(output_path, "w") as f_out:
         for line in f_in:
@@ -94,6 +130,10 @@ def main():
             if not use_sentences_array and not (text or "").strip():
                 continue
             if use_sentences_array and not rec.get(args.sentences_field):
+                continue
+
+            if skip_need > 0 and skipped_valid < skip_need:
+                skipped_valid += 1
                 continue
 
             case_name = rec.get("case_name") or rec.get("title") or ""
@@ -243,13 +283,18 @@ def main():
                     break
 
             # 3) Build chunk list for output
+            def _chunk_text_for_output(raw: str) -> str:
+                if args.chunks_only:
+                    return raw
+                return raw[:2000] + "..." if len(raw) > 2000 else raw
+
             chunks_out = [
                 {
                     "chunk_id": c.chunk_id,
                     "start_sentence_id": getattr(c, "start_sentence_id", None),
                     "end_sentence_id": getattr(c, "end_sentence_id", None),
                     "theme": (c.metadata or {}).get("theme", ""),
-                    "text": c.text[:2000] + ("..." if len(c.text) > 2000 else ""),
+                    "text": _chunk_text_for_output(c.text),
                 }
                 for c in chunks
             ]

@@ -39,6 +39,11 @@ python -m src.run_events_agent --input data/processed/courtlistener_recap.jsonl 
 python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --chunk-size 40 --overlap-sentences 5 --output data/outputs/events_holdout40.jsonl --limit 1
 # LLM chunking (meaningful chunks + overlap) + chunks-only (one LLM call for chunking; output = doc_id, num_chunks, chunks only)
 python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --chunk-strategy llm --output data/outputs/chunks_only.jsonl --limit 1 --dry-run --chunks-only
+# Same, but valid docs 1–5 (inclusive) via --doc-range (overrides --limit / --skip-docs)
+python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --chunk-strategy llm --output data/outputs/chunks_only_1-5.jsonl --doc-range 1-5 --dry-run --chunks-only
+# Valid docs 6–10
+python -m src.run_events_agent --input "/work/pi_dagarwal_umass_edu/project_1/sriram/outputs/fact_extraction/US Dataset/holdout40_eval_train60_legalbert/us_holdout40_hybrid_legalbert_train60_predictions.jsonl" --sentences-field sentences --fact-only --chunk-strategy llm --output data/outputs/chunks_only_6-10.jsonl --doc-range 6-10 --dry-run --chunks-only
+# Equivalent to --doc-range 6-10: --skip-docs 5 --limit 5
 
 # Training (GPU; full MARRO)
 ./scripts/train/run_legal_bert_train.sh
