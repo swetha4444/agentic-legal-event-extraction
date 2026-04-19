@@ -1,6 +1,6 @@
 """
 Load LLM/agent config from config/config.yaml and env.
-API key: use .env AGENT_API_KEY (recommended). Other settings: config.yaml.
+API key precedence: AGENT_API_KEY -> llm.api_key from config.
 Values from .env are loaded into os.environ when this module is first used.
 """
 import os
@@ -8,7 +8,7 @@ from pathlib import Path
 
 import yaml
 
-# Load .env into os.environ so AGENT_API_KEY is available (optional dependency)
+# Load .env into os.environ so API keys are available (optional dependency)
 try:
     from dotenv import load_dotenv
     load_dotenv()
@@ -25,7 +25,7 @@ def _load_yaml() -> dict:
 
 
 def get_llm_config() -> dict:
-    """LLM section from config; api_key overridden by env AGENT_API_KEY."""
+    """LLM section from config; api_key from AGENT_API_KEY env or llm.api_key in yaml."""
     data = _load_yaml()
     llm = data.get("llm") or {}
     api_key = os.environ.get("AGENT_API_KEY") or llm.get("api_key")

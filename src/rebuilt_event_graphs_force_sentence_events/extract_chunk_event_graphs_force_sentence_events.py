@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuilt chunk-level legal event-graph extraction using existing LLM config only."""
+"""Chunk-level legal event-graph extraction (force per-sentence events when verbs exist)."""
 import argparse
 import json
 import os
@@ -19,7 +19,7 @@ if __name__ == "__main__":
 from openai import OpenAI
 
 from agents.config_loader import get_llm_config
-from rebuilt_event_graphs.prompts import (
+from rebuilt_event_graphs_force_sentence_events.prompts import (
     EMPTY_RETRY_SUFFIX,
     PARSE_RETRY_SUFFIX,
     build_event_graph_messages,

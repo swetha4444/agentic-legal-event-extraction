@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hybrid Merge Architecture + Results</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 24px; color: #1f2937; }
+    h1, h2 { margin: 0 0 12px; }
+    .card { border: 1px solid #e5e7eb; border-radius: 10px; padding: 16px; margin: 14px 0; }
+    .flow { white-space: pre-wrap; line-height: 1.5; background: #f9fafb; padding: 12px; border-radius: 8px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 8px; }
+    th, td { border: 1px solid #d1d5db; padding: 8px 10px; text-align: right; }
+    th:first-child, td:first-child { text-align: left; }
+    thead { background: #f3f4f6; }
+    .ok { color: #065f46; font-weight: 700; }
+    .note { color: #4b5563; font-size: 14px; }
+    .speech { line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <h1>Hybrid LLM Merge Architecture + Results</h1>
+
+  <div class="card">
+    <h2>1) Recommended Architecture (Hybrid)</h2>
+    <div class="flow">Input mini-graphs
+  -> deterministic merge (high precision baseline)
+  -> embed events (retrieval layer)
+  -> candidate pair pruning (top-k + threshold)
+  -> LLM linker (same_event + temporal + causal)
+  -> strict validation (schema + endpoint checks)
+  -> union-find identity dedupe
+  -> remap edges + provenance fields
+  -> final merged graph + audit metrics + HTML visualization</div>
+    <p class="note">Why this is better: deterministic stage keeps precision; retrieval controls LLM cost; LLM adds semantic cross-chunk links that rules miss.</p>
+  </div>
+
+  <div class="card">
+    <h2>2) Speech Script (Presentation)</h2>
+    <p class="speech">
+      We start with a deterministic merge so we always have a stable, reproducible baseline.
+      Then we compute embeddings for merged events and only keep high-similarity candidates.
+      This reduces LLM calls while preserving likely cross-chunk matches.
+      For each candidate, the LLM returns three decisions: identity, temporal relation, and causal relation.
+      We validate outputs strictly, apply union-find for identity merges, remap edges, and store provenance for auditability.
+      This design gives us precision from rules and recall from semantic linking.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>3) Baseline vs Hybrid (5-doc sample)</h2>
+    <table aria-label="merge results">
+      <thead>
+        <tr>
+          <th>Metric</th>
+          <th>Rule-based baseline</th>
+          <th>Hybrid (dry-run retrieval only)</th>
+          <th>Hybrid (LLM enabled, 1-doc test)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Events after merge</td><td>133</td><td>133</td><td>26 (doc-1 only)</td></tr>
+        <tr><td>Temporal edges after merge</td><td>98</td><td>98</td><td>20 (doc-1 only)</td></tr>
+        <tr><td>Causal edges after merge</td><td>42</td><td>42</td><td>4 (doc-1 only)</td></tr>
+        <tr><td>Event rows collapsed (pre -> post)</td><td class="ok">1</td><td class="ok">1</td><td>1 (doc-1: 27 -> 26)</td></tr>
+        <tr><td>Entity rows collapsed (pre -> post)</td><td class="ok">62</td><td class="ok">62</td><td>18 (doc-1: 31 -> 13)</td></tr>
+        <tr><td>Hybrid candidates considered</td><td>-</td><td>13</td><td>1</td></tr>
+        <tr><td>LLM calls</td><td>-</td><td>0</td><td>1</td></tr>
+        <tr><td>LLM errors</td><td>-</td><td>0</td><td>1</td></tr>
+        <tr><td>Identity links added by LLM</td><td>-</td><td>0</td><td>0</td></tr>
+        <tr><td>Temporal links added by LLM</td><td>-</td><td>0</td><td>0</td></tr>
+        <tr><td>Causal links added by LLM</td><td>-</td><td>0</td><td>0</td></tr>
+      </tbody>
+    </table>
+    <p class="note">Interpretation: current hybrid retrieval stage runs and proposes candidates. LLM linking is wired, but in this environment the 1-doc LLM test returned a connection error, so no new LLM links were added yet.</p>
+  </div>
+
+  <div class="card">
+    <h2>4) Per-document baseline collapse breakdown</h2>
+    <table aria-label="per-doc results">
+      <thead>
+        <tr>
+          <th>doc_id</th>
+          <th>pre_events</th>
+          <th>post_events</th>
+          <th>event_loss</th>
+          <th>pre_entities</th>
+          <th>post_entities</th>
+          <th>entity_loss</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>0001...01027</td><td>27</td><td>26</td><td>1</td><td>31</td><td>13</td><td>18</td></tr>
+        <tr><td>0004...01046</td><td>40</td><td>40</td><td>0</td><td>34</td><td>17</td><td>17</td></tr>
+        <tr><td>0005...01000</td><td>35</td><td>35</td><td>0</td><td>26</td><td>10</td><td>16</td></tr>
+        <tr><td>0013...00902</td><td>27</td><td>27</td><td>0</td><td>24</td><td>13</td><td>11</td></tr>
+        <tr><td>0015...00866</td><td>5</td><td>5</td><td>0</td><td>6</td><td>6</td><td>0</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>5) Hybrid speech (what to say)</h2>
+    <p class="speech">
+      Our hybrid merger has two layers: deterministic merge for stability, then LLM refinement for semantic links.
+      We first merge entities and events with strict rules, so we preserve precision and reproducibility.
+      Next, we embed events and keep only high-similarity candidates to control LLM cost.
+      The LLM then decides same-event identity and temporal or causal links, and we only accept outputs that pass schema and endpoint validation.
+      On this sample, retrieval generated 13 candidates across five documents.
+      The LLM path is operational but the current runtime had a connection error in the 1-document test, so we report zero LLM-added links in these results.
+    </p>
+  </div>
+</body>
+</html>

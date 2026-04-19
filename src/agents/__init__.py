@@ -14,6 +14,7 @@ from .events import (
     EVENTS_EXTRACTION_USER_PROMPT,
     build_events_extraction_messages,
     LLMEventsExtractor,
+    MiniGraphMergeAgent,
     EVENTS_AGENT_LLM,
     EVENTS_AGENT_TYPES,
 )
@@ -32,6 +33,7 @@ __all__ = [
     "EVENTS_EXTRACTION_USER_PROMPT",
     "build_events_extraction_messages",
     "LLMEventsExtractor",
+    "MiniGraphMergeAgent",
     "EVENTS_AGENT_LLM",
     "EVENTS_AGENT_TYPES",
     "CallBudgetChecker",
