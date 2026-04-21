@@ -30,7 +30,11 @@ docs/MODEL_COMPARISON_FACTS.md
 docs/NON_LLM_BASELINES_AND_EVAL.md
 scripts/eval/outputs/*
 courtlistener-pipeline/courtlistener_processed/*
+courtlistener-pipeline-generic/.venv/
+courtlistener-pipeline-generic/courtlistener_cases/*
+courtlistener-pipeline-generic/courtlistener_processed/*
 *.out
 *.err
 src/rebuilt_gepa_event_graphs/*.json
 src/rebuilt_two_stage_gepa_event_graphs/*.json
+courtlistener-pipeline-generic/*
