@@ -82,3 +82,14 @@ PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --
 PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode classifier --input-json data/processed_json/marro_uk_compiled.json --max-docs 1 --max-sentences-per-doc 20 --run-name sanity_classifier_1doc_20
 PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode llm --llm-model gpt4o --input-json data/processed_json/marro_uk_compiled.json --max-docs 1 --max-sentences-per-doc 20 --run-name sanity_llm_1doc_20
 PYTHONPATH=src .venv/bin/python scripts/eval/eval_fact_modes_on_marro_json.py --mode hybrid --llm-model gpt4o --tolerance 0.80 --input-json data/processed_json/marro_uk_compiled.json --max-docs 1 --max-sentences-per-doc 20 --run-name sanity_hybrid_1doc_20
+
+# ---- CourtListener generic pipeline (district-by-district, text-only processing) ----
+# Run from project root:
+cd /work/pi_dagarwal_umass_edu/project_1/agentic-legal-event-extraction
+source .venv/bin/activate
+
+# RID fetch (D. Rhode Island; nature_of_suit=442 employment)
+python courtlistener-pipeline-generic/fetch_courtlistener_generic.py --firefox --search-url "https://www.courtlistener.com/?q=&type=r&order_by=score%20desc&available_only=on&nature_of_suit=442&court=rid" --output-dir courtlistener-pipeline-generic/courtlistener_cases_rid
+
+# RID process to JSON (rule-based text processing only)
+python courtlistener-pipeline-generic/process_courtlistener_documents.py --input-dir courtlistener_cases_rid --output-dir courtlistener_processed_rid --format json
