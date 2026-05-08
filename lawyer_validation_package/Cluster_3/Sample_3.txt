@@ -1,0 +1,19 @@
+Document ID: 0025_1_in_cut_it_out_llc_v_beshear_e_d_ky_3_21_cv_00053_courtlistener_com
+Cluster: 3
+Sample: 3/3
+Total chunks: 2
+Total length: 1,097 characters, 181 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Title VII of the Civil Rights Act of 1964 prohibits employment discrimination based on race, color, religion, sex, and national origin.
+[S2] The STATE and KYTC receive federal funding.
+[S3] Federal regulations condition STATE’S and KYTC’S receipt of federal highway funds on the STATE’S compliance with Title VII.
+[S4] CIO is owned, operated, and controlled daily by Haddix a female American citizen.
+[S5] Haddix is identifiable as a woman and therefore is a member of a protected class as defined under Title VII.
+[S6] Haddix is the sole owner of CIO, which provides commercial and residential landscape maintenance and snow removal services.
+[S7] In 2020 CIO purchased a truck to expand its services. [S5] Haddix is identifiable as a woman and therefore is a member of a protected class as defined under Title VII.
+[S6] Haddix is the sole owner of CIO, which provides commercial and residential landscape maintenance and snow removal services.
+[S7] In 2020 CIO purchased a truck to expand its services.
+[S8] On August 11, 2020, CIO, by and through Haddix, entered into a standard goods and.

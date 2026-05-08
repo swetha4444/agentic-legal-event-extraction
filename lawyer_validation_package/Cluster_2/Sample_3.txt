@@ -1,0 +1,28 @@
+Document ID: 0022_1_att_1_in_gray_v_southwood_psychiatric_hospital_w_d_pa_2_25_cv_01110_courtlistener_com
+Cluster: 2
+Sample: 3/3
+Total chunks: 3
+Total length: 2,672 characters, 402 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] ​ Plaintiff incorporates by reference the allegations in paragraph 1 through 10 as if fully restated herein.
+[S2] The discriminatory conduct of which Plaintiff complains in this action includes termination of employment on the basis of age.
+[S3] This discriminatory conduct occurred on September 8, 2023.
+[S4] It is believed and therefore averred that the Defendants are not still committing this conduct against Plaintiff.
+[S5] The Defendant discriminated against Plaintiff based upon his age, (Plaintiff’s DOB is 09/27/1956).
+[S6] ​ Plaintiff was hired by Defendants on August 29, 2022 as a Licensed Practical Nurse.
+[S7] On or about September 8, 2023, Defendants discharged Plaintiff thereby terminating him from his position.
+[S8] At all times relevant hereto, Plaintiff performed his role as Licensed Practical Nurse dutifully and successfully. [S6] ​ Plaintiff was hired by Defendants on August 29, 2022 as a Licensed Practical Nurse.
+[S7] On or about September 8, 2023, Defendants discharged Plaintiff thereby terminating him from his position.
+[S8] At all times relevant hereto, Plaintiff performed his role as Licensed Practical Nurse dutifully and successfully.
+[S9] On or about one month before his termination, Plaintiff was questioned by his supervisor and others as to his retirement plans.
+[S10] Plaintiff told his supervisor and the other individuals that he wanted to work until at least age 70.
+[S11] ​ Plaintiff’s supervisor and the other individuals indicated disappointment and then asked something to the effect of “given your age and that you are already getting Social Security, why do you want to continue working at your age?”
+[S12] (hereinafter referred to as the “retirement intentions conversation”). [S11] ​ Plaintiff’s supervisor and the other individuals indicated disappointment and then asked something to the effect of “given your age and that you are already getting Social Security, why do you want to continue working at your age?”
+[S12] (hereinafter referred to as the “retirement intentions conversation”).
+[S13] Then, August 15, 2023, Defendants issued a disciplinary action against Plaintiff and purported to give him the opportunity to fix alleged behavior related to passing medications to patients.
+[S14] On September 8, 2023, Defendants terminated Plaintiff for alleged insubordination, further asserting that he had not fixed his alleged behavior.
+[S15] ​ Defendant terminated Plaintiff and informed Plaintiff that he was terminated, alleging insubordination for not fixing his alleged behavior as described in the pre-textual disciplinary action.
+[S16] The stated basis by Defendant for terminating Plaintiff is untrue.

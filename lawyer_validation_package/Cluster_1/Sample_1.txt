@@ -1,0 +1,31 @@
+Document ID: 0001_complaint_1_in_gregg_v_st_elizabeth_medical_center_inc_e_d_ky_2_24_cv_00134_courtlistener_com
+Cluster: 1
+Sample: 1/3
+Total chunks: 5
+Total length: 3,872 characters, 588 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Defendant hired Plaintiff as a full-time service desk analyst in or about September Throughout Plaintiff’s employment, he received regular raises and promotions.
+[S2] Throughout Plaintiff's employment, he met Defendant’s legitimate employment expectations.
+[S3] In or about July 2018, Plaintiff was diagnosed with Manic Depression Disorder.
+[S4] Defendant was aware of Plaintiff’s disability, and he received medical care for his disability from Defendant.
+[S5] Because of his disability, he took a leave of absence from on or about July 28, 2018 until on or about August 27, 2018.
+[S6] Case: 2:24-cv-00134-DCR Doc #: 1 Filed: 08/27/24 Page: 4 of 10 - Page ID#: 4 After Plaintiff returned from disability leave, Defendant demonstrated hostility toward and discriminated against him because of his disability. [S4] Defendant was aware of Plaintiff’s disability, and he received medical care for his disability from Defendant.
+[S5] Because of his disability, he took a leave of absence from on or about July 28, 2018 until on or about August 27, 2018.
+[S6] Case: 2:24-cv-00134-DCR Doc #: 1 Filed: 08/27/24 Page: 4 of 10 - Page ID#: 4 After Plaintiff returned from disability leave, Defendant demonstrated hostility toward and discriminated against him because of his disability.
+[S7] In a 2018 performance evaluation, Defendant’s IS Support and Computer Operations Manager Gerald Christen referenced Plaintiff’s disability, mentioning his “times of excellence,” “low times,” and “personal issues.”
+[S8] In May 2019, Defendant’s Director IT Infrastructure, John Proud, denied Plaintiff a lateral transfer, stating that Plaintiff “had ups and downs” and that he would like to see more “consistency.”
+[S9] On or about May 9, 2019, Plaintiff complained to his department’s human resources representative, Peggy Essert, about incidents that he reasonably believed constituted discrimination on the basis of his disability. [S8] In May 2019, Defendant’s Director IT Infrastructure, John Proud, denied Plaintiff a lateral transfer, stating that Plaintiff “had ups and downs” and that he would like to see more “consistency.”
+[S9] On or about May 9, 2019, Plaintiff complained to his department’s human resources representative, Peggy Essert, about incidents that he reasonably believed constituted discrimination on the basis of his disability.
+[S10] Between 2019 and 2023, Plaintiff had approximately six (6) episodes, related to his disability, which caused him to be off work for a period of time.
+[S11] Defendant approved each of Plaintiff's disability leaves.
+[S12] Plaintiff returned to work after each leave and met Defendant’s legitimate employment expectations. [S11] Defendant approved each of Plaintiff's disability leaves.
+[S12] Plaintiff returned to work after each leave and met Defendant’s legitimate employment expectations.
+[S13] In or about August 2023, Plaintiff’s disability caused him to take leave from on or about August 11, 2023 until August 28, 2023.
+[S14] All of Plaintiff’s disability leaves, including the one prior to his termination, were properly taken under the Family and Medical Leave Act.
+[S15] While Plaintiff was off work on disability leave in August 2023, Defendant decided to terminate his employment. [S14] All of Plaintiff’s disability leaves, including the one prior to his termination, were properly taken under the Family and Medical Leave Act.
+[S15] While Plaintiff was off work on disability leave in August 2023, Defendant decided to terminate his employment.
+[S16] Defendant fired Plaintiff when he returned to work on August 28, Defendant’s stated reasons for the termination were “things are just not working out” and they would “have to let [him] go.”
+[S17] Case: 2:24-cv-00134-DCR Doc #: 1 Filed: 08/27/24 Page: 5 of 10 - Page ID#: 5 Defendant did not have a legitimate, lawful, non-discriminatory reason to fire Plaintiff.

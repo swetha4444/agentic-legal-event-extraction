@@ -1,0 +1,19 @@
+Administrative and procedural cases with lower structural complexity. Focused on hiring and employment basics with minimal causal reasoning.
+
+STRUCTURAL CHARACTERISTICS:
+- Average graph density: 0.73
+- Temporal reasoning importance: 78.7%
+- Total documents in cluster: 5
+
+TOP ENTITY TYPES:
+Person (18), Organization (18), Job Title (1)
+
+TOP EVENT TYPES:
+Hiring (7), Employment (4), Termination (3)
+
+INTERPRETATION FOR LAWYERS:
+These documents share structural similarities in how legal arguments are developed
+and evidence is presented. Documents in this cluster tend to involve similar types
+of actors (entities), similar legal events, and similar reasoning patterns (temporal
+vs causal). If grouped together, these cases would benefit from similar discovery,
+motion, and argument strategies.

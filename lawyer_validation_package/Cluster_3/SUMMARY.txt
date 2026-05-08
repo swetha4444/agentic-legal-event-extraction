@@ -1,0 +1,19 @@
+Policy and governance-focused cases emphasizing temporal sequencing and timeline-based arguments. Lower entity density but higher temporal importance.
+
+STRUCTURAL CHARACTERISTICS:
+- Average graph density: 0.25
+- Temporal reasoning importance: 91.7%
+- Total documents in cluster: 12
+
+TOP ENTITY TYPES:
+Organization (30), Person (24), Group (4)
+
+TOP EVENT TYPES:
+Employment (8), Hiring (6), Harassment (4)
+
+INTERPRETATION FOR LAWYERS:
+These documents share structural similarities in how legal arguments are developed
+and evidence is presented. Documents in this cluster tend to involve similar types
+of actors (entities), similar legal events, and similar reasoning patterns (temporal
+vs causal). If grouped together, these cases would benefit from similar discovery,
+motion, and argument strategies.

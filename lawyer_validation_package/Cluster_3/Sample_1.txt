@@ -1,0 +1,16 @@
+Document ID: 0003_1_in_reynolds_v_united_states_department_of_justice_e_d_ky_7_25_cv_00068_courtlistener_com
+Cluster: 3
+Sample: 1/3
+Total chunks: 2
+Total length: 1,050 characters, 150 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Plaintiff incorporates paragraphs 1-11 above.
+[S2] Plaintiff was hired by Defendant BOP in September 2011.
+[S3] Plaintiff's first-line supervisor at the time of the complaint was Eric Earwin, Associate Warden, and his second-line supervisor was Hector Joyner, Warden (now retired).
+[S4] Plaintiff stated his permanent disability, post-traumatic stress disorder (PTSD). [S3] Plaintiff's first-line supervisor at the time of the complaint was Eric Earwin, Associate Warden, and his second-line supervisor was Hector Joyner, Warden (now retired).
+[S4] Plaintiff stated his permanent disability, post-traumatic stress disorder (PTSD).
+[S5] Plaintiff was diagnosed with this in 2005 after finishing his contract with the Army and being honorably: discharged.
+[S6] Case: 7:25-cv-00068-REW Doc#:1_ Filed: 06/09/25 Page: 4 of 11 - Page ID#: 4 Plaintiff stated management employees of the BOP was aware of his race, sex, religion, nationality, parental status, disability status, sexual orientation, age, and gender identity at the time of his complaint.

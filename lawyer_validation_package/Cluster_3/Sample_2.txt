@@ -1,0 +1,18 @@
+Document ID: 0011_1_in_williams_v_alclear_llc_e_d_ky_2_24_cv_00047_courtlistener_com
+Cluster: 3
+Sample: 2/3
+Total chunks: 2
+Total length: 895 characters, 140 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Ms. Williams began working for Defendant in March 2022 as an ambassador.
+[S2] Defendant quickly recognized Ms. Williams superior work ethic and promoted her to senior ambassador in 2022.
+[S3] Troy Burd, General Manager would regularly make sexual comments towards female employees, especially Ms. Williams.
+[S4] Mr. Burd would make comments towards Ms. Williams, calling her names like “baby”.
+[S5] Ms. Burd would call Ms. Williams “baby” regularly.
+[S6] Mr. Burd would regularly invite Ms. Williams out for drinks, despite her always rejecting his advances. [S4] Mr. Burd would make comments towards Ms. Williams, calling her names like “baby”.
+[S5] Ms. Burd would call Ms. Williams “baby” regularly.
+[S6] Mr. Burd would regularly invite Ms. Williams out for drinks, despite her always rejecting his advances.
+[S7] Case: 2:24-cv-00047-DCR-CJS Doc #: 1 Filed: 04/02/24 Page: 3 of 14 - Page.

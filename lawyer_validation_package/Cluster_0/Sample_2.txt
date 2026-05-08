@@ -1,0 +1,18 @@
+Document ID: 0012_1_in_steele_v_harrodsburg_e_d_ky_5_23_cv_00154_courtlistener_com
+Cluster: 0
+Sample: 2/3
+Total chunks: 2
+Total length: 1,492 characters, 257 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Until his termination on April 5, 2023, Plaintiff Derrick Steele served as a Captain with the Harrodsburg Fire Department.
+[S2] At the time of his termination and presently, Plaintiff Steele also serves as the President of Local 5418 of the International Association of Fire Fighters (“IAFF Local 5418” or “Union”).
+[S3] Over the course of his 15-year career with HFD served as a fire instructor within the Department, as well as an EMS instructor and a CPR instructor.
+[S4] Captain Bottom received two lifesaving awards for saving a man suffering a severe diabetic emergency and for rescuing an infant from a burning building.
+[S5] In addition, Captain Bottom worked with the American Red Cross to install smoke detectors in homes for free.
+[S6] Over the course of his career, he was also responsible for medical supplies and ordering for the HFD and wrote a number of grants from HFD, leading to the award of five (5) grants to the HFD. [S4] Captain Bottom received two lifesaving awards for saving a man suffering a severe diabetic emergency and for rescuing an infant from a burning building.
+[S5] In addition, Captain Bottom worked with the American Red Cross to install smoke detectors in homes for free.
+[S6] Over the course of his career, he was also responsible for medical supplies and ordering for the HFD and wrote a number of grants from HFD, leading to the award of five (5) grants to the HFD.
+[S7] Case: 5:23-cv-00154-REW-MAS Doc #: 1 Filed: 05/22/23 Page: 5 of 17 - Page.

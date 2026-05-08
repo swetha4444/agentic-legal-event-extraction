@@ -1,0 +1,17 @@
+Document ID: 0002_1_in_farley_v_wellpath_llc_e_d_ky_0_26_cv_00062_courtlistener_com
+Cluster: 0
+Sample: 1/3
+Total chunks: 3
+Total length: 2,249 characters, 325 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Plaintiff Daniel Farley began his employment with Wellpath, LLC on or about July 31, 2023, as a mental health therapist providing care and counseling services to inmates at the Eastern Kentucky Correctional Complex (“EKCC”).
+[S2] Mr. Farley, in his role, reported directly to Amanda Phipps, RN (Medical Supervisor) and Dianna Cade (Mental Health Director Supervisor).
+[S3] Mr. Farley observed and became concerned about several practices within the facility that he reasonably believed violated multiple ethical and legal standards.
+[S4] Mr. Farley, in good faith, reported these concerns to Wellpath’s Human Resources Department and other appropriate personnel.
+[S5] Specifically, Mr. Farley reported that supervisors were directing him to administer treatment to inmates who refused or declined care; that non-licensed personnel without mental health credentials were supervising clinical staff; and that medication logs were being falsified by Case: 0:26-cv-00062-DLB-EBA Doc #: 1 Filed: 04/07/26 Page: 3 of 7 - Page ID#: marking inmates as having refused medication when, in fact, medication had not been dispensed or the inmate was unavailable due to court appearances. [S4] Mr. Farley, in good faith, reported these concerns to Wellpath’s Human Resources Department and other appropriate personnel.
+[S5] Specifically, Mr. Farley reported that supervisors were directing him to administer treatment to inmates who refused or declined care; that non-licensed personnel without mental health credentials were supervising clinical staff; and that medication logs were being falsified by Case: 0:26-cv-00062-DLB-EBA Doc #: 1 Filed: 04/07/26 Page: 3 of 7 - Page ID#: marking inmates as having refused medication when, in fact, medication had not been dispensed or the inmate was unavailable due to court appearances.
+[S6] Following his protected reports, Wellpath terminated Mr. Farley’s employment on or about September 2, 2025, ostensibly in connection with unrelated allegations. [S6] Following his protected reports, Wellpath terminated Mr. Farley’s employment on or about September 2, 2025, ostensibly in connection with unrelated allegations.
+[S7] As a result of Defendant Wellpath’s actions, Plaintiff Daniel Farley has suffered damages.

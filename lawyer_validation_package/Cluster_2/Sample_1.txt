@@ -1,0 +1,11 @@
+Document ID: 0004_1_in_moore_v_boone_county_school_board_of_education_e_d_ky_2_25_cv_00171_courtlistener_com
+Cluster: 2
+Sample: 1/3
+Total chunks: 1
+Total length: 171 characters, 25 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] Plaintiff adopts, incorporates, and reiterates all paragraphs as if fully state herein.
+[S2] Case: 2:25-cv-00171-DLB-CJS Doc#:1_ Filed: 10/27/25 Page: 4 of 12 - Page.

@@ -1,0 +1,19 @@
+Cases characterized by high communication and harassment-related allegations, involving multiple organizations and individuals. Complex temporal reasoning required.
+
+STRUCTURAL CHARACTERISTICS:
+- Average graph density: 1.22
+- Temporal reasoning importance: 75.9%
+- Total documents in cluster: 63
+
+TOP ENTITY TYPES:
+Person (1787), Organization (872), Group (67)
+
+TOP EVENT TYPES:
+Harassment (209), Communication (146), Employment (96)
+
+INTERPRETATION FOR LAWYERS:
+These documents share structural similarities in how legal arguments are developed
+and evidence is presented. Documents in this cluster tend to involve similar types
+of actors (entities), similar legal events, and similar reasoning patterns (temporal
+vs causal). If grouped together, these cases would benefit from similar discovery,
+motion, and argument strategies.

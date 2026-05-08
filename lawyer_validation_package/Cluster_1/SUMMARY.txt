@@ -1,0 +1,19 @@
+Employment-focused disputes centered on hiring, termination, and employment lifecycle events. High volume of employment-related communications and complaints.
+
+STRUCTURAL CHARACTERISTICS:
+- Average graph density: 2.12
+- Temporal reasoning importance: 75.0%
+- Total documents in cluster: 53
+
+TOP ENTITY TYPES:
+Person (994), Organization (434), Group (19)
+
+TOP EVENT TYPES:
+Communication (111), Harassment (81), Hiring (63)
+
+INTERPRETATION FOR LAWYERS:
+These documents share structural similarities in how legal arguments are developed
+and evidence is presented. Documents in this cluster tend to involve similar types
+of actors (entities), similar legal events, and similar reasoning patterns (temporal
+vs causal). If grouped together, these cases would benefit from similar discovery,
+motion, and argument strategies.

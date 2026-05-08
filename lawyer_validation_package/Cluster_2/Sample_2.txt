@@ -1,0 +1,18 @@
+Document ID: 0043_state_court_record_1_att_1_in_wagers_v_mondelez_global_llc_e_d_ky_5_21_cv_00023_courtlistener_com
+Cluster: 2
+Sample: 2/3
+Total chunks: 2
+Total length: 1,000 characters, 164 words
+================================================================================
+
+COMPLETE DOCUMENT (ALL CHUNKS):
+
+[S1] This is a civil action for damages brought by Wagers, a former employee of Mondelez, who was terminated from his employment with Mondelez based on his age.
+[S2] Wagers began employment with Mondelez's predecessor, and reached his 30 year work anniversary on March 5, 2020.
+[S3] Presiding Judge: HON.
+[S4] KIMBERLY BUNNELL (622203) Mondelez wrongfully terminated Wagers' employment on April 10, 2020.
+[S5] Wagers is and has been an employee within the meaning of KRS 344.030 at all times complained of herein. [S4] KIMBERLY BUNNELL (622203) Mondelez wrongfully terminated Wagers' employment on April 10, 2020.
+[S5] Wagers is and has been an employee within the meaning of KRS 344.030 at all times complained of herein.
+[S6] Mondelez is and has been an employer within the meaning of KRS 030(2) at all times complained of herein.
+[S7] Wagers had an excellent record with high sales performances, and award- winning sales performances in 2012 and 2018.
+[S8] Wagers was the leader of his sales team.
