@@ -1,0 +1,6 @@
+{
+  "silhouette": 0.36798900644936566,
+  "davies_bouldin": 1.284882969395732,
+  "random_baseline": -0.09406033315877317,
+  "cluster_sizes": {
+    

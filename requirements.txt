@@ -13,3 +13,10 @@ torch>=2.0.0
 transformers>=4.30.0
 sacremoses>=0.0.53
 protobuf>=3.20.0
+
+# Multi-label SALI experiments (dataset splits / optional baselines)
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Optional: FAQ paired eval dense retrieval (scripts/eval/faq_rag_paired_eval.py --retriever faiss)
+# pip install faiss-cpu sentence-transformers

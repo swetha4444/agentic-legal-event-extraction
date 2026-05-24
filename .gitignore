@@ -38,3 +38,10 @@ courtlistener-pipeline-generic/courtlistener_processed/*
 src/rebuilt_gepa_event_graphs/*.json
 src/rebuilt_two_stage_gepa_event_graphs/*.json
 courtlistener-pipeline-generic/*
+clustering/clustering_env/*
+clustering/scripts/clustering_env/*
+clustering_env/*
+clustering/lawyer_validation_package/*
+clustering/lawyer_validation_package_v3OLD/*
+clustering/lawyer_validation_package_v2OLD/*
+clustering/results/*

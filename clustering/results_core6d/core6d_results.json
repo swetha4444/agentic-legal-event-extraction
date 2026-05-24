@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "num_documents": 133,
+    "embedding": "core6d_row_l2",
+    "k_range": [
+      2,
+      10
+    ],
+    "restarts_per_k": 24
+  },
+  "results": {
+    "2": {
+      "silhouette": 0.7738395140146584,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "3": {
+      "silhouette": 0.7080241709421705,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "4": {
+      "silhouette": 0.6469195160983877,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "5": {
+      "silhouette": 0.4033784331648043,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "6": {
+      "silhouette": 0.3655716751711383,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "7": {
+      "silhouette": 0.35390851150071995,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "8": {
+      "silhouette": 0.3725866944967385,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "9": {
+      "silhouette": 0.35455002461041585,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    },
+    "10": {
+      "silhouette": 0.3581056699569218,
+      "best_k": 2,
+      "best_silhouette": 0.7738395140146584
+    }
+  }
+}
