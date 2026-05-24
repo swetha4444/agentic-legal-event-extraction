@@ -40,8 +40,29 @@ def _load_comparison_module():
     return mod
 
 
+def _cluster_fields_from_loose_json(text: str) -> Optional[Dict[str, Any]]:
+    """Recover cluster_name/description when the model returns truncated JSON."""
+    name_m = re.search(r'"cluster_name"\s*:\s*"((?:[^"\\]|\\.)*)"', text, re.DOTALL)
+    desc_m = re.search(r'"cluster_description"\s*:\s*"((?:[^"\\]|\\.)*)"', text, re.DOTALL)
+    if not name_m and not desc_m:
+        return None
+    out: Dict[str, Any] = {
+        "cluster_name": name_m.group(1) if name_m else "",
+        "cluster_description": desc_m.group(1) if desc_m else "",
+        "common_themes": [],
+        "key_indicators": [],
+    }
+    themes_m = re.search(r'"common_themes"\s*:\s*\[(.*?)\]', text, re.DOTALL)
+    if themes_m:
+        out["common_themes"] = re.findall(r'"((?:[^"\\]|\\.)*)"', themes_m.group(1))
+    return out
+
+
 def _parse_json_object(text: str) -> Dict[str, Any]:
     text = (text or "").strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"\s*```\s*$", "", text).strip()
     start = text.find("{")
     end = text.rfind("}") + 1
     if start >= 0 and end > start:
@@ -113,7 +134,9 @@ def _load_assignments_from_labels(path: Path) -> Tuple[List[str], np.ndarray]:
 
 
 def _rebuild_ekg_embeddings(cc, graphs: List[Dict], emb_name: str, top_ent: int, top_evt: int, top_rl: int) -> np.ndarray:
-    for name, X in cc.build_ekg_embedding_candidates(graphs, top_ent, top_evt, top_rl):
+    if emb_name == "core6d_row_l2":
+        return cc.build_core6d_embedding(graphs)
+    for name, X in cc.build_ekg_embedding_candidates(graphs, top_ent, top_evt, top_rl, candidates="full"):
         if name == emb_name:
             return np.asarray(X, dtype=np.float64)
     raise SystemExit(f"Unknown embedding {emb_name!r}")
@@ -171,11 +194,24 @@ Cluster ID: {cluster_id}
 Respond ONLY with JSON:
 {{"cluster_name": "<short title>", "cluster_description": "<2-3 sentences>",
   "common_themes": ["..."], "key_indicators": ["..."]}}"""
-    raw = cc._llm_coherence_completion(prompt, repo_root)
+    raw = cc._llm_coherence_completion(prompt, repo_root, max_tokens=1024)
     try:
-        return _parse_json_object(raw)
+        parsed = _parse_json_object(raw)
     except json.JSONDecodeError:
-        return {"cluster_name": f"Cluster {cluster_id}", "cluster_description": raw[:500], "common_themes": [], "key_indicators": []}
+        parsed = _cluster_fields_from_loose_json(raw)
+        if parsed is None:
+            return {
+                "cluster_name": f"Cluster {cluster_id}",
+                "cluster_description": raw[:500],
+                "common_themes": [],
+                "key_indicators": [],
+            }
+    return {
+        "cluster_name": str(parsed.get("cluster_name") or f"Cluster {cluster_id}"),
+        "cluster_description": str(parsed.get("cluster_description") or ""),
+        "common_themes": parsed.get("common_themes") or [],
+        "key_indicators": parsed.get("key_indicators") or [],
+    }
 
 
 def _llm_classification(cc, repo_root: Path, cid: int, name: str, desc: str, doc_id: str, block: str) -> Dict[str, Any]:
@@ -426,7 +462,7 @@ def main() -> None:
         meta = json.loads(results_path.read_text(encoding="utf-8")).get("metadata") or {}
 
     if ns.method == "ekg":
-        emb_name = str((meta.get("ekg_hyperparameters") or {}).get("winning_ekg_embedding") or "legacy7d_row_l2")
+        emb_name = str((meta.get("ekg_hyperparameters") or {}).get("winning_ekg_embedding") or "core6d_row_l2")
         embeddings = _rebuild_ekg_embeddings(
             cc, graphs, emb_name, ns.ekg_top_entity_types, ns.ekg_top_event_types, ns.ekg_top_roles
         )
