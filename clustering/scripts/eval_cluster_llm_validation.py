@@ -294,25 +294,194 @@ def _merge_membership(classification: Optional[Dict], entailment: Optional[Dict]
     return out
 
 
-def _write_scatter_plot(path: Path, rows: List[Dict[str, Any]]) -> bool:
-    pts = [(r["centroid_distance"], r["membership_score"]) for r in rows if r.get("membership_score") is not None]
-    if len(pts) < 2:
-        return False
+def _short_cluster_label(row: Dict[str, Any], max_len: int = 28) -> str:
+    cid = int(row.get("cluster_id", 0))
+    name = str(row.get("cluster_name") or f"Cluster {cid}")
+    short = name if len(name) <= max_len else name[: max_len - 3].rstrip() + "..."
+    return f"C{cid}: {short}"
+
+
+def _scatter_correlation_stats(rows: List[Dict[str, Any]]) -> Tuple[np.ndarray, np.ndarray, Optional[float], Optional[float]]:
+    scored = [r for r in rows if r.get("membership_score") is not None]
+    if not scored:
+        return np.array([]), np.array([]), None, None
+    dist = np.array([float(r["centroid_distance"]) for r in scored], dtype=np.float64)
+    score = np.array([float(r["membership_score"]) for r in scored], dtype=np.float64)
+    return dist, score, _pearson(dist, score), _spearman(dist, score)
+
+
+def _write_scatter_plots(
+    out_dir: Path,
+    method: str,
+    rows: List[Dict[str, Any]],
+) -> List[str]:
+    """Write main + faceted scatter plots; returns paths written."""
+    scored = [r for r in rows if r.get("membership_score") is not None]
+    if len(scored) < 2:
+        return []
     try:
         import matplotlib.pyplot as plt
-
-        xs, ys = zip(*pts)
-        plt.figure(figsize=(6, 4))
-        plt.scatter(xs, ys, alpha=0.6, s=24)
-        plt.xlabel("Distance to cluster centroid")
-        plt.ylabel("Membership score (higher = better fit)")
-        plt.title("Centroid distance vs automatic membership confidence")
-        plt.tight_layout()
-        plt.savefig(path, dpi=150)
-        plt.close()
-        return True
+        from matplotlib.lines import Line2D
     except ImportError:
-        return False
+        return []
+
+    dist, score, pearson_r, spearman_r = _scatter_correlation_stats(scored)
+    written: List[str] = []
+    cluster_ids = sorted({int(r["cluster_id"]) for r in scored})
+    palette = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b"]
+
+    def _style_axis(ax: Any, title: str) -> None:
+        ax.axhline(0.5, color="#999999", linestyle="--", linewidth=0.8, alpha=0.7, label="score = 0.5")
+        ax.axvspan(0.0, 0.22, color="#e8f5e9", alpha=0.35, zorder=0)
+        ax.axhspan(0.7, 1.0, color="#e8f5e9", alpha=0.25, zorder=0)
+        ax.axvspan(0.0, 0.22, ymin=0.0, ymax=0.45, color="#ffebee", alpha=0.45, zorder=0)
+        ax.set_xlabel("Distance to assigned cluster centroid (Core6D)")
+        ax.set_ylabel("LLM membership score (1 = strong fit)")
+        ax.set_xlim(left=0.0)
+        ax.set_ylim(-0.02, 1.02)
+        ax.set_title(title)
+        ax.grid(True, alpha=0.25)
+
+    # --- Main plot: color by cluster, fit line, mismatch markers ---
+    fig, ax = plt.subplots(figsize=(9, 6))
+    _style_axis(ax, "EKG validation: centroid distance vs LLM membership (per document)")
+    for i, cid in enumerate(cluster_ids):
+        sub = [r for r in scored if int(r["cluster_id"]) == cid]
+        xs = [float(r["centroid_distance"]) for r in sub]
+        ys = [float(r["membership_score"]) for r in sub]
+        color = palette[i % len(palette)]
+        lbl = _short_cluster_label(sub[0])
+        ax.scatter(xs, ys, c=color, s=90, alpha=0.85, edgecolors="white", linewidths=0.6, label=lbl, zorder=3)
+        mismatch = [
+            r
+            for r in sub
+            if float(r["centroid_distance"]) < 0.22 and float(r["membership_score"]) < 0.45
+        ]
+        if mismatch:
+            ax.scatter(
+                [float(r["centroid_distance"]) for r in mismatch],
+                [float(r["membership_score"]) for r in mismatch],
+                s=160,
+                facecolors="none",
+                edgecolors="#111111",
+                linewidths=2.0,
+                zorder=4,
+            )
+
+    if len(dist) >= 2 and float(np.std(dist)) > 1e-12:
+        coef = np.polyfit(dist, score, 1)
+        x_line = np.linspace(float(dist.min()), float(max(dist.max(), 0.05)), 100)
+        ax.plot(x_line, coef[0] * x_line + coef[1], color="#333333", linewidth=1.5, linestyle="-", zorder=2)
+
+    stat_lines = [f"n = {len(scored)} docs (5 sampled per cluster)"]
+    if pearson_r is not None:
+        stat_lines.append(f"Pearson r = {pearson_r:.3f}")
+    if spearman_r is not None:
+        stat_lines.append(f"Spearman ρ = {spearman_r:.3f}")
+    ax.text(
+        0.98,
+        0.02,
+        "\n".join(stat_lines),
+        transform=ax.transAxes,
+        ha="right",
+        va="bottom",
+        fontsize=9,
+        bbox=dict(boxstyle="round", facecolor="white", alpha=0.85),
+    )
+    h, lab = ax.get_legend_handles_labels()
+    h.append(
+        Line2D(
+            [0],
+            [0],
+            marker="o",
+            color="w",
+            markerfacecolor="none",
+            markeredgecolor="#111111",
+            markeredgewidth=2,
+            markersize=10,
+            label="near centroid, low score",
+        )
+    )
+    lab.append("near centroid, low score")
+    ax.legend(h, lab, loc="upper right", fontsize=7, framealpha=0.9)
+    fig.tight_layout()
+    main_path = out_dir / f"scatter_distance_vs_confidence_{method}.png"
+    fig.savefig(main_path, dpi=160)
+    plt.close(fig)
+    written.append(str(main_path))
+
+    # --- Faceted: one panel per cluster ---
+    n_c = len(cluster_ids)
+    ncols = 2
+    nrows = int(np.ceil(n_c / ncols))
+    fig, axes = plt.subplots(nrows, ncols, figsize=(10, 4 * nrows), squeeze=False)
+    for idx, cid in enumerate(cluster_ids):
+        ax = axes[idx // ncols][idx % ncols]
+        sub = [r for r in scored if int(r["cluster_id"]) == cid]
+        xs = np.array([float(r["centroid_distance"]) for r in sub])
+        ys = np.array([float(r["membership_score"]) for r in sub])
+        color = palette[idx % len(palette)]
+        _style_axis(ax, _short_cluster_label(sub[0], max_len=40))
+        ax.scatter(xs, ys, c=color, s=100, alpha=0.9, edgecolors="white", linewidths=0.6, zorder=3)
+        for r in sub:
+            if float(r["centroid_distance"]) < 0.22 and float(r["membership_score"]) < 0.45:
+                ax.scatter(
+                    [float(r["centroid_distance"])],
+                    [float(r["membership_score"])],
+                    s=180,
+                    facecolors="none",
+                    edgecolors="#111111",
+                    linewidths=2.0,
+                    zorder=4,
+                )
+        if len(xs) >= 2 and float(np.std(xs)) > 1e-12:
+            c = np.polyfit(xs, ys, 1)
+            xl = np.linspace(float(xs.min()), float(xs.max()), 50)
+            ax.plot(xl, c[0] * xl + c[1], color="#333333", linewidth=1.2)
+        ax.text(0.03, 0.97, f"k={len(sub)} samples", transform=ax.transAxes, ha="left", va="top", fontsize=8)
+    for j in range(n_c, nrows * ncols):
+        axes[j // ncols][j % ncols].axis("off")
+    fig.suptitle("Per-cluster: distance vs LLM membership", fontsize=12, y=1.01)
+    fig.tight_layout()
+    facet_path = out_dir / f"scatter_distance_vs_confidence_{method}_by_cluster.png"
+    fig.savefig(facet_path, dpi=160, bbox_inches="tight")
+    plt.close(fig)
+    written.append(str(facet_path))
+
+    # --- Belongs vs not (shape), color by cluster ---
+    fig, ax = plt.subplots(figsize=(9, 6))
+    _style_axis(ax, "LLM belongs? (marker) vs distance (color = cluster)")
+    for i, cid in enumerate(cluster_ids):
+        sub = [r for r in scored if int(r["cluster_id"]) == cid]
+        for r in sub:
+            belongs = r.get("llm_belongs")
+            marker = "o" if belongs is True else "X" if belongs is False else "s"
+            ax.scatter(
+                float(r["centroid_distance"]),
+                float(r["membership_score"]),
+                c=palette[i % len(palette)],
+                marker=marker,
+                s=100 if marker != "X" else 120,
+                alpha=0.9,
+                edgecolors="white" if marker == "o" else "#333333",
+                linewidths=0.6,
+                zorder=3,
+            )
+    ax.scatter([], [], c="gray", marker="o", label="LLM: belongs")
+    ax.scatter([], [], c="gray", marker="X", label="LLM: does not belong")
+    ax.legend(loc="upper right", fontsize=8)
+    fig.tight_layout()
+    belongs_path = out_dir / f"scatter_distance_vs_confidence_{method}_belongs.png"
+    fig.savefig(belongs_path, dpi=160)
+    plt.close(fig)
+    written.append(str(belongs_path))
+
+    return written
+
+
+def _write_scatter_plot(path: Path, rows: List[Dict[str, Any]]) -> bool:
+    paths = _write_scatter_plots(path.parent, path.stem.replace("scatter_distance_vs_confidence_", ""), rows)
+    return bool(paths)
 
 
 def _borderline_reason(row: Dict[str, Any], dist_q75: float, dist_q25: float) -> str:
@@ -409,6 +578,11 @@ def main() -> None:
     p.add_argument("--no-ekg-facts", action="store_false", dest="include_ekg_facts")
     p.add_argument("--skip-llm", action="store_true")
     p.add_argument("--aggregate-human", type=Path, default=None, help="Score agreement on filled human CSV")
+    p.add_argument(
+        "--plots-only",
+        action="store_true",
+        help="Regenerate scatter plots from existing cluster_membership_eval_*.jsonl (no LLM)",
+    )
     p.add_argument("--seed", type=int, default=cc.RANDOM_SEED)
     p.add_argument("--tfidf-max-vocab", type=int, default=2000)
     p.add_argument("--ekg-top-entity-types", type=int, default=40)
@@ -422,15 +596,28 @@ def main() -> None:
         return
 
     root = ns.repo_root.expanduser().resolve() if ns.repo_root else inferred
-    cc._load_repo_dotenv(root)
     dr_ekg, dr_out = cc._defaults(root)
+    out_dir = ns.output_dir.expanduser().resolve() if ns.output_dir else dr_out / "cluster_validation"
+
+    if ns.plots_only:
+        jsonl_path = out_dir / f"cluster_membership_eval_{ns.method}.jsonl"
+        if not jsonl_path.is_file():
+            raise SystemExit(f"Missing {jsonl_path}; run full eval first.")
+        rows = [json.loads(line) for line in jsonl_path.read_text(encoding="utf-8").splitlines() if line.strip()]
+        paths = _write_scatter_plots(out_dir, ns.method, rows)
+        if not paths:
+            raise SystemExit("Could not write plots (need matplotlib and >=2 scored rows).")
+        for pth in paths:
+            print(f"Wrote {pth}")
+        return
+
+    cc._load_repo_dotenv(root)
     ekg_path = ns.ekg_jsonl.expanduser().resolve() if ns.ekg_jsonl else dr_ekg
     results_path = (
         ns.clustering_results.expanduser().resolve()
         if ns.clustering_results
         else dr_out / "clustering_detailed_results.json"
     )
-    out_dir = ns.output_dir.expanduser().resolve() if ns.output_dir else dr_out / "cluster_validation"
     out_dir.mkdir(parents=True, exist_ok=True)
 
     if not ekg_path.is_file():
@@ -583,8 +770,9 @@ def main() -> None:
                     "membership_score": r["membership_score"],
                 }
             )
+    plot_paths = _write_scatter_plots(out_dir, ns.method, scored)
     scatter_png = out_dir / f"scatter_distance_vs_confidence_{ns.method}.png"
-    plotted = _write_scatter_plot(scatter_png, scored)
+    plotted = bool(plot_paths)
 
     # Step D
     borderline_rows: List[Dict[str, Any]] = []
@@ -630,6 +818,7 @@ def main() -> None:
         "cluster_meta": {str(k): v for k, v in cluster_meta.items()},
         "llm_enabled": can_llm,
         "scatter_plot": str(scatter_png) if plotted else None,
+        "scatter_plots": plot_paths,
         "scatter_csv": str(scatter_csv),
     }
 
@@ -671,7 +860,9 @@ def main() -> None:
     print(f"Summary: {summary_path}")
     print(f"Human sheet: {human_csv}")
     if plotted:
-        print(f"Scatter plot: {scatter_png}")
+        print("Scatter plots:")
+        for pth in plot_paths:
+            print(f"  {pth}")
 
 
 if __name__ == "__main__":
