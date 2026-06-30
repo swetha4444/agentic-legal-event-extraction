@@ -45,3 +45,6 @@ clustering/lawyer_validation_package/*
 clustering/lawyer_validation_package_v3OLD/*
 clustering/lawyer_validation_package_v2OLD/*
 clustering/results/*
+graph-rag/.artifacts/*
+graph-rag/eval/*
+graph-rag/doc_ekg_llm_expanded/*

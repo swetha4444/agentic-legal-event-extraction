@@ -317,6 +317,36 @@ def pca_whiten_embedding(
     return scores.astype(np.float64)
 
 
+def build_core6d_plus_ekg_context_embedding(
+    graphs_ordered: List[Dict],
+    top_ent: int,
+    top_evt: int,
+    top_rl: int,
+    *,
+    context_pca_dim: int = 16,
+) -> np.ndarray:
+    """
+    Hybrid EKG embedding: Core6D (global graph shape) + PCA-whitened enhanced vector
+    (per-graph entity/event/role *type* counts — the "context" missing from scalar Core6D).
+    Columns are standardized after concat so neither block dominates Euclidean k-means.
+    """
+    x6 = build_core6d_embedding(graphs_ordered)
+    ent_vocab, evt_vocab, role_vocab = build_global_ekg_vocabs(
+        graphs_ordered, top_ent, top_evt, top_rl
+    )
+    raw = np.vstack(
+        [graph_to_enhanced_ekg_vector(g, ent_vocab, evt_vocab, role_vocab) for g in graphs_ordered]
+    ).astype(np.float64)
+    xs, _, _ = standardize_columns(raw)
+    n_docs, d = xs.shape
+    rk = min(n_docs - 1, d)
+    k = int(max(2, min(int(context_pca_dim), rk)))
+    ctx = pca_whiten_embedding(xs, k, row_l2_normalize=False)
+    z = np.hstack([x6.astype(np.float64), ctx.astype(np.float64)])
+    z, _, _ = standardize_columns(z)
+    return z.astype(np.float64)
+
+
 def silhouette_metric_sklearn(embeddings: np.ndarray, labels: np.ndarray) -> float | None:
     try:
         from sklearn.metrics import silhouette_score
@@ -338,9 +368,17 @@ def build_ekg_embedding_candidates(
     top_rl: int,
     *,
     candidates: str = "full",
+    hybrid_context_pca_dim: int = 16,
 ) -> List[Tuple[str, np.ndarray]]:
-    """EKG embedding matrices for fair search. candidates: full | core6d_only."""
+    """EKG embedding matrices for fair search. candidates: full | core6d_only | core6d_hybrid."""
     out: List[Tuple[str, np.ndarray]] = []
+    if candidates == "core6d_hybrid":
+        kdim = max(2, int(hybrid_context_pca_dim))
+        xh = build_core6d_plus_ekg_context_embedding(
+            graphs_ordered, top_ent, top_evt, top_rl, context_pca_dim=kdim
+        )
+        return [(f"core6d_plus_ekgctx_pca{kdim}", xh)]
+
     x6 = build_core6d_embedding(graphs_ordered)
     out.append(("core6d_row_l2", x6))
     if candidates == "core6d_only":
@@ -876,20 +914,26 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--ekg-top-roles", type=int, default=20, help="Global participant-role dims")
     p.add_argument(
         "--ekg-candidates",
-        choices=("full", "core6d_only"),
+        choices=("full", "core6d_only", "core6d_hybrid"),
         default="full",
-        help="full=all embedding variants; core6d_only=6-D structural vector only (faster, lawyer package default)",
+        help="full=all variants; core6d_only=6-D structure; core6d_hybrid=Core6D+PCA(enhanced type/role context)",
+    )
+    p.add_argument(
+        "--ekg-hybrid-context-pca",
+        type=int,
+        default=16,
+        help="When --ekg-candidates core6d_hybrid: PCA dims from enhanced EKG (entity/event/role counts)",
     )
     p.add_argument(
         "--ekg-balance-divisor",
         type=float,
         default=3.0,
-        help="core6d_only: require each cluster to have at least n/(k*divisor) docs when picking best restart",
+        help="core6d_only / core6d_hybrid: min cluster size n/(k*divisor) when picking best restart",
     )
     p.add_argument(
         "--no-ekg-balance",
         action="store_true",
-        help="core6d_only: allow degenerate splits that maximize silhouette (e.g. 1+113+4+15 at k=4)",
+        help="core6d_only / core6d_hybrid: allow degenerate splits that maximize silhouette",
     )
     eg = p.add_mutually_exclusive_group()
     eg.add_argument(
@@ -937,12 +981,13 @@ def parse_args() -> argparse.Namespace:
     if ns.fast:
         ns.skip_tsne = True
         locked_k = int(ns.ekg_k_min) == int(ns.ekg_k_max)
-        poster_fast = locked_k and ns.ekg_candidates == "core6d_only"
+        poster_fast = locked_k and ns.ekg_candidates in ("core6d_only", "core6d_hybrid")
         if poster_fast:
             ns.fair_trials = 24
             ns.ekg_optimize_k = True
+            tag = "Core6D hybrid" if ns.ekg_candidates == "core6d_hybrid" else "Core6D"
             print(
-                f"  FAST MODE (Core6D): fair_trials=24, k={ns.ekg_k_min}, "
+                f"  FAST MODE ({tag}): fair_trials=24, k={ns.ekg_k_min}, "
                 f"balanced restarts, skipping t-SNE",
                 flush=True,
             )
@@ -1102,12 +1147,15 @@ def main() -> Dict[str, Any]:
         args.ekg_top_event_types,
         args.ekg_top_roles,
         candidates=args.ekg_candidates,
+        hybrid_context_pca_dim=args.ekg_hybrid_context_pca,
     )
     ekg_hyper["embedding_candidate_names"] = [name for name, _ in candidates]
+    if args.ekg_candidates == "core6d_hybrid":
+        ekg_hyper["ekg_hybrid_context_pca_dim"] = int(args.ekg_hybrid_context_pca)
 
-    poster_core6d = args.ekg_candidates == "core6d_only"
-    use_ekg_balance = poster_core6d and not args.no_ekg_balance
-    if poster_core6d:
+    poster_style = args.ekg_candidates in ("core6d_only", "core6d_hybrid")
+    use_ekg_balance = poster_style and not args.no_ekg_balance
+    if poster_style:
         fair_trials = 24
         ekg_hyper["fair_trials_per_embedding"] = fair_trials
         ekg_hyper["poster_core6d_protocol"] = True
@@ -1119,16 +1167,17 @@ def main() -> Dict[str, Any]:
         ekg_hyper["balanced_selection"] = True
         ekg_hyper["ekg_balance_divisor"] = float(args.ekg_balance_divisor)
         ekg_hyper["ekg_min_cluster_size_fair_phase"] = int(trial_min_cluster)
+        label = "Core6D hybrid" if args.ekg_candidates == "core6d_hybrid" else "Core6D"
         print(
-            f"  Core6D balanced protocol: simple k-means, {fair_trials} restarts, "
+            f"  {label} balanced protocol: simple k-means, {fair_trials} restarts, "
             f"min cluster size {trial_min_cluster} (n={n_docs}, k≈{balance_k})",
             flush=True,
         )
-    elif poster_core6d:
+    elif poster_style:
         trial_min_cluster = 1
         ekg_hyper["ekg_min_cluster_size_fair_phase"] = 1
         print(
-            f"  Core6D unbalanced (--no-ekg-balance): {fair_trials} restarts, "
+            f"  EKG poster-style unbalanced (--no-ekg-balance): {fair_trials} restarts, "
             f"silhouette-only selection (may yield singleton clusters)",
             flush=True,
         )
@@ -1150,7 +1199,7 @@ def main() -> Dict[str, Any]:
         ekg_embeddings,
         n_clusters=win_k,
         random_state=args.seed,
-        poster_core6d=poster_core6d,
+        poster_core6d=poster_style,
     )
     trial_n = 0
     for k_try in k_candidates:
@@ -1163,7 +1212,7 @@ def main() -> Dict[str, Any]:
                         f"(k={k_try}, {name})",
                         flush=True,
                     )
-                if poster_core6d:
+                if poster_style:
                     rs = poster_core6d_restart_seed(args.seed, t, k_try)
                 else:
                     rs = args.seed + t * 11003 + (abs(hash(name)) % 997) + k_try * 104729
@@ -1171,7 +1220,7 @@ def main() -> Dict[str, Any]:
                     X,
                     n_clusters=k_try,
                     random_state=rs,
-                    poster_core6d=poster_core6d,
+                    poster_core6d=poster_style,
                 )
                 bc = np.bincount(lab.astype(int), minlength=k_try)
                 if int(bc.min()) < trial_min_cluster:
@@ -1194,7 +1243,7 @@ def main() -> Dict[str, Any]:
             ekg_embeddings,
             n_clusters=win_k_fb,
             random_state=args.seed,
-            poster_core6d=poster_core6d,
+            poster_core6d=poster_style,
         )
         ekg_k_used = win_k_fb
         ekg_hyper["winning_ekg_embedding"] = candidates[0][0]

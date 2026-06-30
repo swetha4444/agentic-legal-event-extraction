@@ -122,21 +122,230 @@ def _load_assignments_from_results(results_path: Path, method: str) -> Tuple[Lis
     return doc_ids, labels
 
 
-def _load_assignments_from_labels(path: Path) -> Tuple[List[str], np.ndarray]:
-    obj = json.loads(path.read_text(encoding="utf-8"))
-    if isinstance(obj, dict) and "assignments" in obj:
+def _parse_label_assignments(obj: Any, *, submethod: str | None = None) -> Tuple[List[str], np.ndarray]:
+    """Load doc_ids + cluster labels from llm_clustering_labels.json, ekg_context_graph_clustering.json, etc."""
+    if not isinstance(obj, dict):
+        raise SystemExit(f"Unsupported labels format (expected object): {type(obj)}")
+    if isinstance(obj.get("doc_ids"), list) and isinstance(obj.get("labels"), list):
+        ids = [str(x) for x in obj["doc_ids"]]
+        lab = np.asarray(obj["labels"], dtype=int)
+        if len(ids) != len(lab):
+            raise SystemExit("doc_ids / labels length mismatch in labels JSON")
+        return ids, lab
+    if "methods" in obj and submethod:
+        m = (obj.get("methods") or {}).get(submethod)
+        if not m or not isinstance(m.get("labels"), list):
+            raise SystemExit(
+                f"Labels JSON has no methods.{submethod}.labels; "
+                f"try --labels-json-method spectral or neighbor_agg"
+            )
+        if not isinstance(obj.get("doc_ids"), list):
+            raise SystemExit("Labels JSON with methods.* requires top-level doc_ids list")
+        ids = [str(x) for x in obj["doc_ids"]]
+        lab = np.asarray(m["labels"], dtype=int)
+        if len(ids) != len(lab):
+            raise SystemExit("doc_ids / labels length mismatch (nested methods.*)")
+        return ids, lab
+    if "assignments" in obj:
         pairs = sorted(obj["assignments"].items(), key=lambda kv: kv[0])
-    elif isinstance(obj, list):
+        return [p[0] for p in pairs], np.asarray([p[1] for p in pairs], dtype=int)
+    if isinstance(obj, list):
         pairs = sorted((str(r["doc_id"]), int(r["cluster_id"])) for r in obj)
-    else:
-        raise SystemExit(f"Unsupported labels format: {path}")
-    return [p[0] for p in pairs], np.asarray([p[1] for p in pairs], dtype=int)
+        return [p[0] for p in pairs], np.asarray([p[1] for p in pairs], dtype=int)
+    raise SystemExit("Unsupported labels JSON (need doc_ids+labels, assignments, methods.*.labels, or list)")
 
 
-def _rebuild_ekg_embeddings(cc, graphs: List[Dict], emb_name: str, top_ent: int, top_evt: int, top_rl: int) -> np.ndarray:
+def _load_context_graph_module():
+    here = Path(__file__).resolve().parent / "run_ekg_context_graph_clustering.py"
+    spec = importlib.util.spec_from_file_location("ekg_ctx_cluster", here)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"Cannot load {here}")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def _rebuild_neighbor_agg_embedding_Z(
+    cc,
+    ctx_mod,
+    graphs: List[Dict],
+    labels_blob: Dict[str, Any],
+    top_ent: int,
+    top_evt: int,
+    top_rl: int,
+) -> Tuple[np.ndarray, str]:
+    """Same Z as run_ekg_context_graph_clustering neighbor_agg (hybrid || mean kNN hybrid)."""
+    sw = labels_blob.get("similarity_weights") or {}
+    w_ent = float(sw.get("entity", 1.0))
+    w_evt = float(sw.get("event", 1.0))
+    w_role = float(sw.get("role", 0.5))
+    graph_knn = int(labels_blob.get("graph_knn", 12))
+    base = str(labels_blob.get("base_embedding") or "core6d_plus_ekgctx_pca16")
+    hdim = 16
+    if "pca" in base:
+        suf = base.split("pca")[-1]
+        if suf.isdigit():
+            hdim = int(suf)
+    X_hybrid = cc.build_core6d_plus_ekg_context_embedding(
+        graphs, top_ent, top_evt, top_rl, context_pca_dim=hdim
+    )
+    S = ctx_mod.build_ekg_type_similarity_matrix(
+        cc, graphs, w_entity=w_ent, w_event=w_evt, w_role=w_role
+    )
+    knn_idx = ctx_mod.topk_neighbors_from_S(S, graph_knn)
+    Xctx = ctx_mod.neighbor_context_embedding(X_hybrid.astype(np.float64), knn_idx)
+    Z = np.hstack([X_hybrid.astype(np.float64), Xctx.astype(np.float64)])
+    Z = ctx_mod.column_standardize(Z)
+    name = f"{base}+neighbor_knn{graph_knn}"
+    return Z.astype(np.float64), name
+
+
+def _should_use_context_graph_embedding(labels_blob: Optional[Dict[str, Any]], submethod: str) -> bool:
+    if not labels_blob:
+        return False
+    if labels_blob.get("graph_knn") is None:
+        return False
+    if submethod != "neighbor_agg":
+        return False
+    return bool((labels_blob.get("methods") or {}).get("neighbor_agg"))
+
+
+def _load_sali_core6d_module():
+    here = Path(__file__).resolve().parent / "run_sali_core6d_clustering.py"
+    spec = importlib.util.spec_from_file_location("sali_core6d_cluster", here)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"Cannot load {here}")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def _should_use_sali_core6d_embedding(
+    labels_blob: Optional[Dict[str, Any]], method: str
+) -> bool:
+    if not labels_blob:
+        return False
+    if method in ("sali_core6d", "sali_core6d_graph"):
+        return True
+    m = str(labels_blob.get("method") or "")
+    if m.startswith("sali_"):
+        return True
+    if "sali_iris_by_doc" in labels_blob:
+        return True
+    en = str(labels_blob.get("embedding_name") or "")
+    return en.startswith("sali_mhot")
+
+
+def _rebuild_sali_core6d_embedding_Z(
+    cc,
+    sali_mod,
+    graphs: List[Dict],
+    doc_ids: List[str],
+    labels_blob: Dict[str, Any],
+    top_ent: int,
+    top_evt: int,
+    top_rl: int,
+    *,
+    force_graph_context: bool = False,
+) -> Tuple[np.ndarray, str]:
+    label_json = Path(str(labels_blob.get("sali_label_json") or ""))
+    if not label_json.is_file():
+        raise SystemExit(f"SALI label JSON not found: {label_json}")
+    iri_vocab, iri_to_idx, _ = sali_mod.load_sali_vocab(label_json)
+    labels_by_doc = labels_blob.get("sali_iris_by_doc")
+    if not isinstance(labels_by_doc, dict):
+        raise SystemExit(
+            "SALI+Core6D labels JSON must include sali_iris_by_doc (from run_sali_core6d_clustering.py)"
+        )
+    labels_by_doc = {str(k): (v if isinstance(v, list) else []) for k, v in labels_by_doc.items()}
+    en = str(labels_blob.get("embedding_name") or "")
+    with_graph = bool(labels_blob.get("with_graph_context")) or force_graph_context
+    if "graph_neighbor" in en:
+        with_graph = True
+    include_hybrid = "hybrid_pca" in en or with_graph or bool(
+        labels_blob.get("method", "").endswith("hybrid")
+    )
+    hdim = int(labels_blob.get("hybrid_pca_dim") or 16)
+    if "hybrid_pca" in en:
+        suf = en.split("hybrid_pca")[-1].split("+")[0]
+        if suf.isdigit():
+            hdim = int(suf)
+    graph_knn = int(labels_blob.get("graph_knn") or 12)
+    if "graph_neighbor_knn" in en:
+        suf = en.split("graph_neighbor_knn")[-1].split("+")[0]
+        if suf.isdigit():
+            graph_knn = int(suf)
+    sw = labels_blob.get("similarity_weights") or {}
+    Z, emb_name = sali_mod.build_fused_embedding(
+        cc,
+        graphs,
+        doc_ids,
+        labels_by_doc,
+        iri_vocab,
+        iri_to_idx,
+        include_hybrid=include_hybrid,
+        with_graph_context=with_graph,
+        graph_knn=graph_knn,
+        w_entity=float(sw.get("entity", 1.0)),
+        w_event=float(sw.get("event", 1.0)),
+        w_role=float(sw.get("role", 0.5)),
+        top_ent=top_ent,
+        top_evt=top_evt,
+        top_rl=top_rl,
+        hybrid_pca_dim=hdim,
+        sali_weight=1.0,
+        core6d_weight=1.0,
+        hybrid_weight=1.0 if include_hybrid else 0.0,
+        graph_ctx_weight=1.0 if with_graph else 0.0,
+    )
+    return Z.astype(np.float64), emb_name
+
+
+def _embedding_hints_from_labels_blob(obj: Dict[str, Any]) -> Dict[str, Any]:
+    """Merge into clustering metadata so hybrid / winning embedding matches the labeling run."""
+    hyp: Dict[str, Any] = {}
+    en = obj.get("embedding_name") or obj.get("base_embedding")
+    if en and str(en).startswith(("core6d", "enhanced")):
+        hyp["winning_ekg_embedding"] = str(en)
+    hdim = obj.get("hybrid_pca_dim") or obj.get("ekg_hybrid_context_pca_dim")
+    if hdim is None and isinstance(en, str) and "pca" in en:
+        suf = en.split("pca")[-1]
+        if suf.isdigit():
+            hdim = int(suf)
+    if hdim is not None:
+        hyp["ekg_hybrid_context_pca_dim"] = int(hdim)
+    if hyp:
+        return {"ekg_hyperparameters": hyp}
+    return {}
+
+
+def _load_assignments_from_labels(path: Path, submethod: str | None = None) -> Tuple[List[str], np.ndarray]:
+    obj = json.loads(path.read_text(encoding="utf-8"))
+    return _parse_label_assignments(obj, submethod=submethod)
+
+
+def _rebuild_ekg_embeddings(
+    cc,
+    graphs: List[Dict],
+    emb_name: str,
+    top_ent: int,
+    top_evt: int,
+    top_rl: int,
+    hybrid_pca_dim: int | None = None,
+) -> np.ndarray:
     if emb_name == "core6d_row_l2":
         return cc.build_core6d_embedding(graphs)
-    for name, X in cc.build_ekg_embedding_candidates(graphs, top_ent, top_evt, top_rl, candidates="full"):
+    if emb_name.startswith("core6d_plus_ekgctx_pca"):
+        dim = int(hybrid_pca_dim or 16)
+        suf = emb_name.split("pca")[-1]
+        if suf.isdigit():
+            dim = int(suf)
+        return cc.build_core6d_plus_ekg_context_embedding(
+            graphs, top_ent, top_evt, top_rl, context_pca_dim=dim
+        )
+    for name, X in cc.build_ekg_embedding_candidates(
+        graphs, top_ent, top_evt, top_rl, candidates="full"
+    ):
         if name == emb_name:
             return np.asarray(X, dtype=np.float64)
     raise SystemExit(f"Unknown embedding {emb_name!r}")
@@ -310,6 +519,24 @@ def _scatter_correlation_stats(rows: List[Dict[str, Any]]) -> Tuple[np.ndarray, 
     return dist, score, _pearson(dist, score), _spearman(dist, score)
 
 
+def _scatter_distance_axis_scale(dist: np.ndarray) -> Tuple[float, float]:
+    """
+    Return (x_axis_right, near_centroid_cutoff) for scatter plots.
+
+    Core6D row-L2 distances are typically ~0.05–0.22; hybrid / high-dim Euclidean
+    can be much larger. A fixed xlim(0, 0.22) hides all points off the right edge.
+    """
+    if len(dist) == 0:
+        return 0.25, 0.22
+    dmax = float(np.max(dist))
+    if dmax < 0.6:
+        return max(0.28, dmax * 1.15), 0.22
+    near = float(np.percentile(dist, 25))
+    x_right = max(dmax * 1.12, near * 3.5, 1.0)
+    near_cut = max(near, 1e-9)
+    return x_right, near_cut
+
+
 def _write_scatter_plots(
     out_dir: Path,
     method: str,
@@ -326,25 +553,28 @@ def _write_scatter_plots(
         return []
 
     dist, score, pearson_r, spearman_r = _scatter_correlation_stats(scored)
-    written: List[str] = []
-    cluster_ids = sorted({int(r["cluster_id"]) for r in scored})
-    palette = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b"]
+    x_right, near_cut = _scatter_distance_axis_scale(dist)
 
     def _style_axis(ax: Any, title: str) -> None:
         ax.axhline(0.5, color="#999999", linestyle="--", linewidth=0.8, alpha=0.7, label="score = 0.5")
-        ax.axvspan(0.0, 0.22, color="#e8f5e9", alpha=0.35, zorder=0)
+        span_hi = min(near_cut, x_right * 0.35)
+        ax.axvspan(0.0, span_hi, color="#e8f5e9", alpha=0.35, zorder=0)
         ax.axhspan(0.7, 1.0, color="#e8f5e9", alpha=0.25, zorder=0)
-        ax.axvspan(0.0, 0.22, ymin=0.0, ymax=0.45, color="#ffebee", alpha=0.45, zorder=0)
-        ax.set_xlabel("Distance to assigned cluster centroid (Core6D)")
+        ax.axvspan(0.0, span_hi, ymin=0.0, ymax=0.45, color="#ffebee", alpha=0.45, zorder=0)
+        ax.set_xlabel("Distance to assigned cluster centroid (embedding space)")
         ax.set_ylabel("LLM membership score (1 = strong fit)")
-        ax.set_xlim(left=0.0)
+        ax.set_xlim(0.0, x_right)
         ax.set_ylim(-0.02, 1.02)
         ax.set_title(title)
         ax.grid(True, alpha=0.25)
 
+    written: List[str] = []
+    cluster_ids = sorted({int(r["cluster_id"]) for r in scored})
+    palette = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b"]
+
     # --- Main plot: color by cluster, fit line, mismatch markers ---
     fig, ax = plt.subplots(figsize=(9, 6))
-    _style_axis(ax, "EKG validation: centroid distance vs LLM membership (per document)")
+    _style_axis(ax, "Cluster validation: centroid distance vs LLM membership (per document)")
     for i, cid in enumerate(cluster_ids):
         sub = [r for r in scored if int(r["cluster_id"]) == cid]
         xs = [float(r["centroid_distance"]) for r in sub]
@@ -355,7 +585,7 @@ def _write_scatter_plots(
         mismatch = [
             r
             for r in sub
-            if float(r["centroid_distance"]) < 0.22 and float(r["membership_score"]) < 0.45
+            if float(r["centroid_distance"]) < near_cut and float(r["membership_score"]) < 0.45
         ]
         if mismatch:
             ax.scatter(
@@ -424,7 +654,7 @@ def _write_scatter_plots(
         _style_axis(ax, _short_cluster_label(sub[0], max_len=40))
         ax.scatter(xs, ys, c=color, s=100, alpha=0.9, edgecolors="white", linewidths=0.6, zorder=3)
         for r in sub:
-            if float(r["centroid_distance"]) < 0.22 and float(r["membership_score"]) < 0.45:
+            if float(r["centroid_distance"]) < near_cut and float(r["membership_score"]) < 0.45:
                 ax.scatter(
                     [float(r["centroid_distance"])],
                     [float(r["membership_score"])],
@@ -560,7 +790,18 @@ def main() -> None:
     p.add_argument("--ekg-jsonl", type=Path, default=None)
     p.add_argument("--clustering-results", type=Path, default=None)
     p.add_argument("--labels-json", type=Path, default=None)
-    p.add_argument("--method", choices=("ekg", "tfidf"), default="ekg")
+    p.add_argument(
+        "--labels-json-method",
+        type=str,
+        default="neighbor_agg",
+        help="When labels JSON has methods.<name>.labels (e.g. ekg_context_graph_clustering.json), pick this key",
+    )
+    p.add_argument(
+        "--method",
+        choices=("ekg", "tfidf", "llm", "ekg_graph", "sali_core6d", "sali_core6d_graph"),
+        default="ekg",
+        help="Output tag; sali_core6d* rebuilds the same fused Z as run_sali_core6d_clustering.py",
+    )
     p.add_argument("--output-dir", type=Path, default=None)
     p.add_argument("--max-docs", type=int, default=None)
     p.add_argument("--text-chars", type=int, default=600)
@@ -627,8 +868,13 @@ def main() -> None:
     docs = cc.load_documents_and_graphs(ekg_path, limit=ns.max_docs)
 
     if ns.labels_json:
-        doc_ids, labels = _load_assignments_from_labels(ns.labels_json.expanduser().resolve())
+        labels_path = ns.labels_json.expanduser().resolve()
+        labels_blob = json.loads(labels_path.read_text(encoding="utf-8"))
+        doc_ids, labels = _parse_label_assignments(
+            labels_blob, submethod=str(ns.labels_json_method) if ns.labels_json_method else None
+        )
     else:
+        labels_blob = None
         if not results_path.is_file():
             raise SystemExit(f"Clustering results not found: {results_path}")
         doc_ids, labels = _load_assignments_from_results(results_path, ns.method)
@@ -645,13 +891,60 @@ def main() -> None:
     graphs = [docs[d]["merged_graph"] for d in doc_ids]
 
     meta = {}
-    if results_path.is_file() and not ns.labels_json:
+    if results_path.is_file():
         meta = json.loads(results_path.read_text(encoding="utf-8")).get("metadata") or {}
+    if labels_blob is not None:
+        hints = _embedding_hints_from_labels_blob(labels_blob)
+        if hints.get("ekg_hyperparameters"):
+            e0 = dict(meta.get("ekg_hyperparameters") or {})
+            e0.update(hints["ekg_hyperparameters"])
+            meta = {**meta, "ekg_hyperparameters": e0}
 
-    if ns.method == "ekg":
-        emb_name = str((meta.get("ekg_hyperparameters") or {}).get("winning_ekg_embedding") or "core6d_row_l2")
+    use_ctx_z = _should_use_context_graph_embedding(labels_blob, str(ns.labels_json_method))
+    use_sali_z = _should_use_sali_core6d_embedding(labels_blob, str(ns.method))
+    if use_ctx_z:
+        ctx_mod = _load_context_graph_module()
+        embeddings, emb_name = _rebuild_neighbor_agg_embedding_Z(
+            cc,
+            ctx_mod,
+            graphs,
+            labels_blob,  # type: ignore[arg-type]
+            ns.ekg_top_entity_types,
+            ns.ekg_top_event_types,
+            ns.ekg_top_roles,
+        )
+        embedding_info = {"type": "ekg_context_graph", "name": emb_name}
+        print(f"Centroid distances in context-graph space: {emb_name}", flush=True)
+    elif use_sali_z:
+        sali_mod = _load_sali_core6d_module()
+        force_graph = str(ns.method) == "sali_core6d_graph"
+        embeddings, emb_name = _rebuild_sali_core6d_embedding_Z(
+            cc,
+            sali_mod,
+            graphs,
+            doc_ids,
+            labels_blob,  # type: ignore[arg-type]
+            ns.ekg_top_entity_types,
+            ns.ekg_top_event_types,
+            ns.ekg_top_roles,
+            force_graph_context=force_graph,
+        )
+        etype = "sali_core6d_graph" if force_graph or "graph_neighbor" in emb_name else "sali_core6d"
+        embedding_info = {"type": etype, "name": emb_name}
+        print(f"Centroid distances in fused space: {emb_name}", flush=True)
+    elif ns.method == "ekg" or ns.method in ("llm", "ekg_graph"):
+        hyp = meta.get("ekg_hyperparameters") or {}
+        emb_name = str(hyp.get("winning_ekg_embedding") or "core6d_row_l2")
+        hdim = hyp.get("ekg_hybrid_context_pca_dim")
+        hybrid_pca = int(hdim) if hdim is not None else None
         embeddings = _rebuild_ekg_embeddings(
-            cc, graphs, emb_name, ns.ekg_top_entity_types, ns.ekg_top_event_types, ns.ekg_top_roles
+            cc,
+            graphs,
+            emb_name,
+            ns.ekg_top_entity_types,
+            ns.ekg_top_event_types,
+            ns.ekg_top_roles,
+            hybrid_pca_dim=hybrid_pca,
         )
         embedding_info = {"type": "ekg", "name": emb_name}
     else:
