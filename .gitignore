@@ -48,3 +48,5 @@ clustering/results/*
 graph-rag/.artifacts/*
 graph-rag/eval/*
 graph-rag/doc_ekg_llm_expanded/*
+legal_bench/*
+.artifacts/*
